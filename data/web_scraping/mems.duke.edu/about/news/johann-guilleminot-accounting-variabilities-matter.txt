@@ -1,0 +1,191 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Johann Guilleminot: Accounting for Variabilities That Matter
+
+October 11, 2016 | Written by Ken Kingery
+
+Accommodating and predicting variability helps experimental models and
+simulations across disciplines
+
+Johann Guilleminot has joined the faculty of Duke University’s Department of
+Environmental and Civil Engineering. With expertise in computational
+mechanics, materials science and stochastic methods, Guilleminot will help
+collaborators campuswide develop more accurate models of everything from brain
+impacts to nuclear waste storage.
+
+At a very basic level, every computation made is an average of many possible
+outcomes. For most, molecular and nanoscale fluctuations don’t significantly
+impact the results at the scale of interest. But for some fields, even the
+smallest changes can cause rifts between simulations and experimental results
+or between multiple experiments.
+
+Guilleminot develops and uses predictive modeling to take these variabilities
+into account in applications where they become relevant. For example,
+differences in the physical properties of brain tissue from person to person
+can affect whether or not a helmet prevents a concussion. Tiny inconsistencies
+in how a delicate part of a complex machine is made can change how well it
+functions. Minuscule cracks and imperfections in a storage vessel for nuclear
+waste can determine whether or not it fails during an earthquake.
+
+These variabilities boil down to how different materials react and interact
+with one another on an atomistic scale or through continuum models, whether
+those materials constitute biomedical tissues or a novel nanocomposite system.
+
+“The physical world is never exactly how we expect it to be in models or
+manufacturing,” said Guilleminot, who joins Duke from France’s Université
+Paris-Est Marne-la-Vallée. “But we can take into account how it changes and
+become predictive in our efforts, rather than just smoothing out the
+variability with averages.”
+
+Guilleminot earned a master’s degree in 2005 in theoretical mechanics from the
+Lille University of Science and Technology. He then completed his doctoral
+work in echanics in 2008, also at the Lille University of Science and
+Technology, before joining the faculty of Université Paris-Est Marne-la-Vallée
+in 2009.
+
+In 2010, Guilleminot was a visiting scholar at the University of Southern
+California—an experience that greatly influenced his decision to move to Duke.
+Besides hearing about the opportunity from a friend at USC, Guilleminot says
+the most advanced work being done in his field is in the United States.
+
+“My field of research is very active right now, especially in the United
+States,” said Guilleminot, who will spend a year travelling between Duke and
+France as a visiting assistant professor before joining Duke’s faculty full-
+time on July 1, 2017.
+
+As for why Guilleminot chose Duke specifically, he says that his work is a
+perfect match for the various research projects being pursued across campus.
+For example, he points to the medical school and Duke’s strength in
+biomechanics as areas his work could impact, from designing biomedical
+structures to predicting aneurysms to simulating cardiovascular systems.
+Guilleminot also noted he was attracted by Duke’s outstanding students both
+from the United States and abroad, as the interactions gained through
+mentoring others was a primary role in his decision to become a faculty
+member.
+
+Guilleminot sees a pressing need to educate students on stochastic approaches
+and plans to propose a new graduate course focusing on probabilistic modeling
+and uncertainty quantification techniques in computational mechanics.
+
+“This will be a unique opportunity to contribute to the dissemination of the
+state-of-the-art techniques in uncertainty quantification to the next
+generation of engineers and researchers,” Guilleminot added. “Duke may be a
+relatively small school, but it has very good, young, dynamic people working
+on lots of interdisciplinary topics. My work can provide different points of
+views in many disciplines and enrich simulations with variability and high-
+fidelity computations.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

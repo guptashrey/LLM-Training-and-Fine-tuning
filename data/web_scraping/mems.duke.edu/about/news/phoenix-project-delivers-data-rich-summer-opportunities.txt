@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Phoenix Project Delivers Data-Rich Summer Opportunities
+
+August 10, 2020
+
+When summer internships disappeared in a puff of smoke, Duke students rallied
+to create meaningful experiences in data science and software engineering,
+matching 210 students with projects at nearly 75 companies
+
+The name of the project says it all.
+
+By late spring of 2020, thanks to restrictions brought about by the COVID-19
+pandemic, hundreds of Duke students’ carefully laid internship plans had gone
+up in flames.
+
+But there were many companies that still needed the students’ software
+engineering and data science chops and could afford to pay them for their
+work—so a team of Duke students busied themselves making matches between the
+two parties, calling their effort the “Phoenix Project.”
+
+This rise from the ashes was organized by the Duke Applied Machine Learning
+Group, which was founded last year to connect student enthusiasts with real-
+world projects. The group’s client-based approach was a good framework to hang
+the Phoenix Project on, but it had to scale up—while the Duke Applied Machine
+Learning Group has around 35 active members, nearly 350 graduate and
+undergraduate students applied for spots in the Phoenix Project after learning
+about it through Facebook groups, departmental emails or word-of-mouth.
+
+> “Almost 20 members of the Duke Applied Machine Learning Group stepped up to
+> this project and reached out to their personal networks, venture capital
+> firms and different professional sites to reach as many potential clients as
+> possible."
+>
+> Mary Gooneratne ECE/CS ‘21
+
+“Almost 20 members of the Duke Applied Machine Learning Group stepped up to
+this project and reached out to their personal networks, venture capital firms
+and different professional sites to reach as many potential clients as
+possible,” said Mary Gooneratne ‘21, who is majoring in electrical and
+computer engineering and computer science. “About 150 enthusiastic companies,
+including several with Duke founders, had reached out via our Google form by
+the time we were matching students to projects.”
+
+Seventy-four of those companies offered internships to 210 students this
+summer. The students formed small teams around dozens of projects ranging from
+precision warfarin dosing to predicting battery life cycles, and just about
+everything in between. Large companies including Twitter, Coursera, and the US
+Department of Defense were among the Phoenix Project’s clients, as were
+startups, public service companies and university research labs that were
+loosely grouped into six areas of focus: Health, Environment & Data; Finance &
+Data; IoT/Electronics; Education; Government & Data; and Venture, B2B & Data.
+
+By the end of their ten-week internships, students had not only learned to
+build a tech product for their clients from scratch, but also got experience
+working with remote teams, creating pitch decks and presenting to online
+audiences. The audience at their final presentations on August 5 included
+their clients and other industry representatives, as well as Duke faculty,
+staff and students.
+
+> By the end of their ten-week internships, students had not only learned to
+> build a tech product for their clients from scratch, but also got experience
+> working with remote teams, creating pitch decks and presenting to online
+> audiences.
+
+Arushi Bhatia ’23, a computer science and linguistics student, worked on a
+project for Black Fire Ventures, a global startup funding source for platform
+business and socially responsible investing.
+
+“Our task was to devise a technological solution to restore trust in
+journalism,” said Bhatia.
+
+Unfazed by the challenge of solving one of the most pressing social problems
+of our time, Bhatia and her teammates got to work, researching key problems
+facing journalism and consulting experts including Mark Stencel from the Duke
+Reporters’ Lab.
+
+“We decided to move forward with devising a way to automate fact-checking,”
+said Bhatia. The team’s platform connects readers to articles that are fact-
+checked via blockchain and assigned a “truth score.” The higher the score, the
+higher the story appears in the reader’s feed.
+
+Though no one in the team had participated in a fully remote internship
+before, and though the team never met in person, they completed their project
+without any major roadblocks. “Making sure to stick to defined team schedules,
+communicate clearly, develop friendships and manage team conflicts is not easy
+to do virtually, but it did make us more adaptable,” said Bhatia.
+
+With support from Black Fire Ventures, the team is planning to join an
+accelerator that will help them develop their project further. “Our team did
+truly amazing work,” said Bhatia. “The client’s team was really happy with how
+the project has grown so far and what its future prospects look like.”
+
+Gooneratne said that many of the project’s partner companies, including the
+DoD, have reached out to discuss continuing the summer’s work, and many of the
+Phoenix Project members have applied to Duke Applied Machine Learning to
+continue application-based learning through the semester.
+
+The Phoenix Project also partnered with Duke Engineering Entrepreneurship
+(EngEn)’s new Product Lab.
+
+“We pledged financial support to the Phoenix Project early on, and we felt
+that Product Lab could be a good way to support the program,” said Steven
+McClelland, EngEn’s Executive-in-Residence. Phoenix Project participants who
+enrolled in the four-week Product Lab were awarded a small stipend and got an
+overview of the product management role by evaluating products in different
+sectors and discussing them with their peers. “The hope is that by learning to
+critique products, they will have more insight into building better products,”
+said McClelland.
+
+More News from Duke Engineering
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,275 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Saving Lives in Nepal’s Next Big One
+
+April 30, 2018 | By Ken Kingery
+
+Duke Engineering senior Pratiksha Sharma is leading an effort to install a
+nationwide earthquake early warning system in her home country
+
+After contributing to relief efforts in Nepal following the four major
+earthquakes of April and May, 2015, which killed more than 8,000 people,
+Pratiksha Sharma found she needed to do more to help prevent such a major loss
+of life in the long-term.
+
+“Entire villages were leveled to the ground. It was heart-wrenching,” said
+Sharma, a graduating senior at Duke University and native of Nepal, who had
+just finished her freshman year at the time. “As we toured the sites, people
+pointed to fallen structures and described them not by what types of buildings
+they were, but by how many people had died in them.”
+
+As a double major in electrical and computer engineering and computer science,
+Sharma believed she could scope a project related to her studies that could
+help the people of her home country. After contacting various professors at
+Duke, she found Henri Gavin, a professor of civil and environmental
+engineering who specializes in earthquake engineering.
+
+Three years later, Sharma has advanced algorithms designed to detect pressure
+waves that travel through the Earth’s surface, and has implemented the method
+in prototype devices. Over spring break this year, Sharma demonstrated her
+work to Dr. Lok Bijay Adhikari, the chief of Nepal’s National Seismological
+Center and installed one of her sensors in his office.
+
+“If sensors of such a network were close to the epicenter of the 2015
+earthquake, they potentially could have alerted the people living in Kathmandu
+more than a minute before it reached them,” said Gavin. “That’s enough time to
+have saved a lot of lives.”
+
+## The Earthquake of 2015
+
+Just before noon on April 25, 2015, a magnitude 7.8 earthquake that maxed out
+the seismic intensity scale shook the entire nation of Nepal. Originating
+about 100 km northwest of the capital city of Kathmandu, this earthquake along
+with a magnitude 7.1 aftershock on May 12 killed nearly 9,000 people and
+injured nearly 22,000 more while damaging or destroying more than 600,000
+structures. It was the deadliest earthquake in Nepal since 1934.
+
+Pratiksha Sharma, who had just finished her freshman year in engineering at
+Duke, banded together with four other Duke Nepalese students to raise $30,000
+in relief funds. They then spent the first month of their summer visiting
+damaged areas and deciding where the funds should be directed. With the
+monsoon season quickly approaching, they focused on providing tin roofs to
+damaged structures in five districts.
+
+That’s why Sharma was on a bus to Kathmandu when the magnitude 7.3 aftershock
+hit.
+
+“We were at a rest stop when the building started shaking and rocks started
+falling from the mountains,” said Sharma. “It was scary and chaotic. The bus
+immediately turned around and headed back home.”
+
+For Sharma and her family, home lies in a relatively flat plain outside of the
+city. The geography spared their house from major damage, though part of the
+structure still had to be dismantled for repairs. The experience made Sharma
+resolve to find a longer-lasting way to help save people from such earthquakes
+in the future.
+
+“People often talked about how the last major earthquake was in 1988 and we
+were due for another one, but nobody tried to do anything about it,” Sharma
+said. “I knew I had to try or there might be nobody else who would.”
+
+## Building a Prototype
+
+After finding Professor Gavin the following fall semester, Sharma took his
+advice that she should work on creating a sensor that could reliably detect an
+earthquake and alert people living nearby. She wouldn’t have to start from
+scratch, as one of Gavin’s recent PhD students, Anton Zaicenco, had developed
+an earthquake early warning system for Vancouver, and had published his
+methodology.
+
+Zaicenco’s approach distinguishes actual earthquakes from electrical noise by
+computing the polarization of the measurements. Seismic waves propagate in two
+types of waves called P-waves and S-waves that radiate from their epicenter
+through the earth. P-waves—or compressional waves—shake the ground only in the
+direction they are traveling. S-waves—or shear waves— arrive after the
+P-waves, propagating at about two-thirds the speed with much greater velocity
+amplitudes, which are responsible for most earthquake damage. It is these
+faster P-waves that engineers rely on to detect earthquakes. Not only do they
+arrive at early warning sensors faster, their one-dimensional effects are easy
+to detect.
+
+The technique Sharma decided to use to detect these P-waves relies on a
+triaxial accelerometer similar to those found in cell phones or fitness
+watches. A triaxial sensor can detect these disturbances along three axes. The
+challenging part of using a chip like this to detect earthquakes is in
+determining if signals coming from the three axes correspond to a uni-
+directional compression wave.
+
+Sharma’s independent study involved the physics of elastic wave propagation
+and the real-time data analysis used in computing the triaxial polarization of
+seismic waves. She spent her junior year implementing and testing her data
+analytics methods in Matlab with records of previous earthquakes. Come senior
+year, she ported the algorithm to an EPS-8266 microprocessor and an I2C
+digital accelerometer.
+
+And then it was time to put her work to the test.
+
+“To test the system using actual ground motion measurements taken with our
+sensor, we put it inside a long metal pole and stuck it into the ground, and
+then I hit the ground nearby with a sledgehammer as hard as I could,” said
+Gavin. “And the sensor picked up the P-waves caused by the impact as clear as
+a bell. I was happily surprised at how well it worked right off the bat.”
+
+## Pitching to Nepal
+
+With the difficult technical pieces figured out, Sharma implemented her
+hardware setup into two earthquake detection boxes and took them to Nepal
+during the 2018 spring break. One is sitting at the National Seismological
+Center while the other resides at a nearby radio station to test each in
+different environments. The latter works so well that Sharma can keep track of
+the day’s changing traffic patterns as trucks roll over potholes on the roads
+outside. The former was left as a demonstration for the chief of the National
+Seismological Center, Lok Bijaya Adhikari.
+
+“He seemed impressed with the prototypes and excited about the potential of a
+national early warning system,” said Sharma. “He’ll be our main point of
+contact moving forward, which is a really important contact to have.”
+
+There are logistical hurdles standing between Sharma and her ambition of
+implementing an early earthquake warning system for Nepal. A true nationwide
+system will require 200 to 300 sensors spread throughout the country. While
+the components for the sensors themselves are not expensive, paying people to
+install and monitor them in remote areas across the entire country would be,
+and the Nepalese government has many issues vying for space in their budget.
+
+There is also the issue of where to place the sensors. Sharma’s idea is to
+encase the hardware in concrete and bury it a few feet deep with a pole
+running out to carry the signals to the surface. If the units are installed on
+the sites of cellular phone towers, they would have access to both power and
+communications. Getting corporate cooperation for such a plan, however, will
+require memorandums of understanding, potentially facilitated by both
+governmental and non-governmental agencies.
+
+And then there’s Sharma’s career. After graduating from Duke in May, she will
+begin working on a technical team for Goldman Sachs in New York City. While
+she plans to continue pursuing the project, her new job will limit the time
+she can spend on it and complicate the logistics of talking and meeting with
+the people needed to keep the ball rolling.
+
+But if successful, her efforts would be well worth the trouble.
+
+If sensors had been near the epicenter of the 2015 earthquake, they could have
+detected it up to 80 seconds before it reached Kathmandu. Even factoring in
+the time it would take to corroborate the signal with other sensors and
+transmit a warning to everyone’s cell phones—which are just as abundant in
+Nepal as they are in America—people could have gotten more than a minute
+warning.
+
+“Even a warning of 20 seconds is a lot of time,” said Gavin. “Enough time for
+people to get underneath something sturdy is really all it takes to save a lot
+of lives.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

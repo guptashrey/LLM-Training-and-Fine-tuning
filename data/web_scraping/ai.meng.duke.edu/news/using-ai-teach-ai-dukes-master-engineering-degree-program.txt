@@ -1,0 +1,155 @@
+
+
+Jump to navigation
+
+  * Duke Engineering
+  * Pratt School of Engineering
+  * Institute for Enterprise Engineering
+
+  * Industry Relations
+  * Leadership
+  * News
+  * Contact
+
+__
+
+  * Why Duke?
+    * The Duke Difference
+    * Career Services
+    * Graduate Outcomes
+    * What Tech Leaders Are Saying
+  * Degree
+  * Certificate
+  * Courses
+  * Faculty
+  * Apply
+
+__
+
+# Using AI to Teach AI in Duke's Master of Engineering Degree Program
+
+December 17, 2020
+
+Duke is solving challenges in online education through a novel application of
+AI — the 'Intelligent Classroom Assistant'
+
+The response to the COVID-19 pandemic has dramatically accelerated the ongoing
+expansion of online learning across almost all higher education institutions
+globally, including Duke. While online education offers the promise of making
+education more affordable, accessible and flexible for learners, it also
+presents unique challenges for instructors in delivering certain pedagogical
+methods.
+
+Research in learning science over the last few decades has provided strong
+evidence that teaching practices such as mastery learning and 1:1 personalized
+tutoring coupled with regular formative assessments can significantly improve
+student outcomes from courses across the range of fields of learning  by as
+much as two standard deviations . Yet it remains one of the most vexing
+problems in education that there is a tradeoff between scale and achievable
+quality of education: as class sizes grow larger, the ability of an instructor
+to provide the type of personalized guidance required to execute the most
+effective pedagogical methods is diminished. The faculty and students in
+Duke's AI for Product Innovation Master of Engineering  (MEng) program are
+working to solve this problem through a novel application of artificial
+intelligence in the form of an "Intelligent Classroom Assistant" that uses
+machine learning to analyze patterns of student performance and extract
+insights for both instructors and learners to improve the class learning
+experience.
+
+> "The tool gave us insights on a level we never previously had to how well
+> our students were grasping the various important topics covered in the
+> course."
+>
+> **Jon Reifschneider**  
+>  director, Duke AI for Product Innovation Master of Engineering program
+
+Artificial intelligence is finding increasing use in almost every industry,
+and education is no exception. A 2020 study commissioned by Microsoft found
+that 99 percent of universities surveyed had plans to integrate AI into their
+operations within the next three years. The top use case identified for AI was
+to modernize learning in order to improve student engagement and outcomes.
+
+Research efforts underway across a number of universities in recent years have
+made advances in the application of machine learning technology to analyze and
+predict student performance patterns. Yet many of these efforts have focused
+on analyzing historical data organized in well-curated reference datasets,
+rather than on the development of operational tools that instructors can use
+in-semester to support their teaching.
+
+In summer 2020 Duke Engineering faculty member Jon Reifschneider, the director
+of Duke's AI for Product Innovation (AIPI) MEng program, set out to answer the
+question: "How can we use the tools of machine learning to extract insights
+from the ever-increasing amount of course data available online—recorded
+lectures, homework, electronic assessments, etc.—to inform instructors where
+each student is in their progression towards achieving the learning objectives
+of a course?"
+
+If instructors have better visibility into what each student in their course
+has mastered to date and is struggling with at any point during a semester,
+they are in a much better position to deliver effective personalized guidance
+to each student. Likewise, such insights can help learners focus their time
+and efforts in reinforcing areas where they have not yet mastered the topics.
+
+The research effort led to the development of a tool called the "Intelligent
+Classroom Assistant." The tool reads in and analyzes data from electronically-
+submitted quizzes, homework and assessments and builds a map of how well each
+student has mastered each of the class topics covered to date. To do so it
+utilizes a novel natural language processing and machine learning model
+developed as the backbone of the tool. Although still under development at the
+time, the Intelligent Classroom Assistant was utilized by Professors
+Reifschneider and Daniel Egger in the AIPI 510 course they taught in Fall
+2020.
+
+"The tool gave us insights on a level we never previously had to how well our
+students were grasping the various important topics covered in the course,"
+said Reifschneider. "Since we were better able to understand where our
+students were in their learning each week, we were able to customize our class
+time and individual guidance sessions to focus on areas where it was clear
+from the data that reinforcement was needed."
+
+Work continues to further improve the performance of the algorithm behind the
+tool and the instructor interface, and the team is also testing it on data
+from two additional courses: another graduate engineering course and a large,
+200-plus person undergraduate course. It will be used as well this Spring in
+Reifschneider's AIPI 520 machine learning course.
+
+The team also plans to add a student interface for students to view their own
+"mastery map" to better focus their studying efforts together with
+functionality to provide students with automated personalized recommendations
+for study resources to utilize. The Intelligent Classroom Assistant is
+ultimately expected to become an important part of the Master of Engineering
+AIPI courses program, helping students to maximize their learning experience
+at Duke.
+
+Browse Course Descriptions
+
+​
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+  * __Main Menu
+    * __Why Duke?
+      *  __The Duke Difference
+      *  __Career Services
+      *  __Graduate Outcomes
+      *  __What Tech Leaders Are Saying
+    *  __Degree
+    *  __Certificate
+    *  __Courses
+    *  __Faculty
+    *  __Apply
+  * __Quick Links
+    * __Industry Relations
+    *  __Leadership
+    *  __News
+    *  __Contact
+
+    * 
+

@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bridgeman Wins Office of Naval Research Young Investigator Award
+
+February 2, 2023 | By Ken Kingery
+
+Award will help unlock the potential of historically underappreciated control
+theory to solve modern challenges of controlling fleets of autonomous vehicles
+
+Leila Bridgeman, assistant professor of mechanical engineering and materials
+science at Duke University, has been awarded a prestigious Office of Naval
+Research (ONR) Young Investigator Award. The program identifies and supports
+researchers within the first seven years of their careers who show exceptional
+promise for doing creative research. For the next three years, the $450,000
+grant will support Bridgeman in her quest to develop new control theories that
+will allow large groups of unmanned vehicles in the air, on the water and
+undersea coordinate their movement efficiently and effectively.
+
+“This isn’t just a problem for the Navy. Delivery drones flying in cities or
+fleets of autonomous vehicles on the ground or in the air face similar
+challenges,” said Bridgeman, who joined Duke’s faculty in 2018. “Individual
+vehicles within a fleet can have completely different kinds of behavior and
+performance specifications, but they still need to coordinate in some way.
+Even competitors want to avoid hitting one another.”
+
+> “This isn’t just a problem for the Navy. Delivery drones flying in cities or
+> fleets of autonomous vehicles on the ground or in the air face similar
+> challenges."
+>
+> leila bridgeman
+
+Getting dozens or even hundreds of autonomous vehicles to behave in a
+coordinated fashion is an enormous challenge. Besides the sheer scale of the
+problem, communication lines between separate entities are never 100%
+reliable. They also often don’t want to share their plans and status, and even
+if they do, their own sensors have limited precision.
+
+“Basically, we’re always working off information that is a bit wrong and a bit
+outdated,” explained Bridgeman. “If you’re not careful, when you optimize
+performance while designing highly agile maneuvers, you can easily make a
+vehicle that over-reacts to this wrong information. Even worse, other vehicles
+can begin over-reacting to that over-reaction, propagating and amplifying the
+mistake. Then things really fall apart.”
+
+To fight the reign of chaos, control theorists develop algorithms and theorems
+that ensure stability, which precludes these over-reactions. The techniques
+they use to impose stability, however, usually couple all individuals
+together. The math behind them then necessarily becomes exponentially more
+complicated as the group gets large. Worse still, you need a unified framework
+to describe the systems, which is inappropriate in the case of an entire
+fleet, where different drones and boats might be trying to fulfill different
+obligations.
+
+While the usual techniques don’t quite work, control theory has a history of
+more powerful results. “I feel like I’m delving back into the history of
+control theory and going to this treasure trove of long underused theorems,”
+Bridgeman said. From this `treasure trove,’ Bridgeman found inspiration for a
+framework that can break a large network into smaller groups of objects or
+vehicles coupled together. Rather than worrying about controlling 10
+submarines, for example, it might tackle the more manageable task of
+controlling five groups of two submarines.
+
+> “In my lab alone, I see connections to control of power systems
+> incorporating renewable resources, reducing the energy footprint of server
+> farms, and even autonomous ultrasound design for breast cancer screening.”
+>
+> leila bridgeman
+
+“The cool thing about this approach is it allows us to break down this huge
+question into smaller, much more tractable questions,” Bridgeman said. “This
+also allows us to give different performance criteria to different assets and
+use more varied methods for assessing how they interact. One might use a lot
+of machine learning and data while another might build a model from first
+physics principles. Either way, it allows us to take advantage of whatever it
+is that we actually know.”
+
+This line of research holds a special connection to Bridgeman, and not just
+because it’s her field of passion. This specific project, she says, combines
+all of the research projects her graduate students have been pursuing during
+her time at Duke. Most of the ideas for this work were inspired by
+applications outside of drone control, and its impacts will also go beyond
+this subject.
+
+“The fundamental results we’re deriving here will contribute to so many other
+areas,” Bridgeman said. “In my lab alone, I see connections to control of
+power systems incorporating renewable resources, reducing the energy footprint
+of server farms, and even autonomous ultrasound design for breast cancer
+screening.”
+
+## Related News
+
+January 20, 2023 | Duke Graduate School
+
+### Duke MEMS' Leila Bridgeman Honored with Graduate Dean's Award for
+Excellence in Mentoring
+
+November 01, 2017
+
+### Leila Bridgeman: Controlling the Robots of Tomorrow
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

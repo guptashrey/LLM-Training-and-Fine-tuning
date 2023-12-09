@@ -1,0 +1,200 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Mystery of the Small Dimensionless Number with a Big Effect
+
+December 22, 2021 | by Andrew Bragg, professor of civil and environmental
+engineering
+
+Theory and simulations reveal why seemingly weak effects sometimes play a
+strong role in how particles move through the air close to the Earth’s surface
+
+Non-dimensional numbers may sound like a scary, incomprehensible term reserved
+for scientists in a laboratory, but you have more experience with them than
+you know. The Mach number measures the speed of an object relative to the
+speed of sound, so whether measuring in kilometers per second or miles per
+hour, Mach 2 is always twice the speed of sound. With the COVID-19 pandemic
+still raging worldwide, R0 is an important number constantly in the news that
+measures how many people a person will infect over the course of an illness,
+whether that time period is days, weeks or months.
+
+In physics, applied mathematics and engineering, non-dimensional numbers are
+incredibly important. Researchers use them to quantify the relative strengths
+of competing effects in a system. For example, in fluid dynamics, the Reynolds
+number is used to quantify the relative strengths of viscous and inertial
+forces in pipe flow. Regardless of what units of density and speed are being
+used, if its value is less than around 2300, the flow is smooth and regular,
+whereas if it’s above 4000, the flow is turbulent and chaotic.
+
+Recently, with colleagues from the University of Notre Dame and Twente
+University, I have been looking at the problem of particle transport in the
+atmospheric boundary layer. This region of air is the lowest part of the
+atmosphere, and its contact with the Earth’s surface directly influences its
+behavior. The physics that govern how it churns is of great importance due to
+its role in atmospheric processes such as cloud formation and radiation
+balances, and the impact on air quality and human health.
+
+Two competing effects determine the vertical motion and concentration of
+particles in this region—gravity pulling them down to the ground and turbulent
+air that generates drag forces that can lift them up. Researchers often
+quantify these competing effects by a non-dimensional settling number, Sv,
+which is the ratio between how fast the particles settle in the absence of
+turbulence and the characteristic speed of the turbulent air flow near the
+surface. The conventional wisdom is that when Sv is very large, the effects of
+turbulent winds on the particle motion can be ignored, while when Sv is very
+small, the effects of gravitational settling can be ignored.
+
+In a recent paper, our numerical simulations revealed something very
+surprising; gravitational settling strongly affected the particle
+concentration profiles in a turbulent boundary layer even when Sv was very
+small. This perplexing result flies in the face of conventional wisdom. How
+can the effect of gravity on the particle concentrations be very strong when
+the non-dimensional number quantifying its strength is very small?
+
+We needed to find a way to explain this striking result! To do this, we
+constructed an exact mathematical equation for the particle concentration
+using what are called phase-space probability density function methods.
+According to this exact result, competition between distinct physical
+mechanisms determines the particle concentration, and only one of them is
+proportional to Sv.
+
+We then performed an asymptotic analysis on the equations, and the analysis
+showed that the other mechanisms in the concentration equation depend on
+height in such a way that, in certain regions of the atmospheric boundary
+layer, these other mechanisms become small compared with Sv. Therefore, even
+if Sv is very small, it can still be much larger than the other factors in the
+concentration equation in certain regions of the flow.
+
+In fact, the analysis shows that no matter how small Sv is, as long as it is
+not zero, there is always a region in the atmospheric boundary layer where its
+effects cannot be ignored. This explained the perplexing results from our
+numerical simulations.
+
+There are significant implications that follow from this striking result.
+First, almost all previous studies have ignored the effect of settling on
+particle concentrations when considering the regime where Sv is small, and our
+results show that this can lead to very large errors. These studies and their
+conclusions therefore need to be revisited.
+
+Second, and more generally, is that one needs to be very careful when
+interpreting the meaning and implications of non-dimensional numbers in
+physical systems. Our results show that in some cases, the use of non-
+dimensional numbers to quantify the importance of a particular effect in a
+system can be very misleading, and great care is required.
+
+This work is published in Physical Review Fluids and was supported by a grant
+from the Army Research Office, Grant number G00003613-ArmyW911NF-17-1-0366.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

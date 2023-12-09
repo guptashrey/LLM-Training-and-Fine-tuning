@@ -1,0 +1,160 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cybersecurity for Autonomous Systems
+
+January 6, 2021 | By Riley Richardson, Class of 2021, NC School of Science and
+Math
+
+Miroslav Pajic works on 'assured autonomy' for systems with high-level
+autonomy and low human control and oversight
+
+_From the Duke Research Blog_
+
+Over the past decades, we have adopted computers into virtually every aspect
+of our lives, but in doing so, we've made ourselves vulnerable to malicious
+interference or hacking. I had the opportunity to talk about this with
+Miroslav Pajic, the Dickinson Family associate professor in Duke's electrical
+and computer engineering department. He has worked on cybersecurity in self-
+driving cars, medical devices, and even US Air Force hardware.
+
+Pajic primarily works in “assured autonomy,” computers that do most things by
+themselves with “high-level autonomy and low human control and oversight.”
+“You want to build systems with strong performance and safety guarantees every
+time, in all conditions,” Pajic said. Assured Autonomy ensures security in
+“contested environments” where malicious interference can be expected. The
+stakes of this work are incredibly high. The danger of attacks on military
+equipment goes without saying, but cybersecurity on a civilian level can be
+just as dangerous. “Imagine,” he told me, “that you have a smart city
+coordinating traffic and that… all of (the traffic controls), at the same
+time, start doing weird things. There can be a significant impact if all cars
+stop, but imagine if all of them start speeding up.”
+
+Since Pajic works with Ph.D. students and postdocs, I wanted to ask him how
+COVID-19 has affected his work. As if on cue, his wifi cut out, and he dropped
+from our zoom call. “This is a perfect example of how fun it is to work
+remotely,” he said when he returned. “Imagine that you’re debugging a fleet of
+drones… and that happens.”
+
+In all seriousness, though, there are simulators created for working on
+cybersecurity and assured autonomy. _CARLA_ , for one, is an open-source
+simulator of self-driving vehicles made by Intel. Even outside of a pandemic,
+these simulators are used extensively in the field. They’ve become very useful
+in returning accurate and cheap results without any actual risk, before
+graduating to real tests.
+
+“If you’re going to fail,” Pajic says, “you want to fail quickly.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

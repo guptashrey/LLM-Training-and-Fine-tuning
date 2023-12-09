@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Genomic Test Accurately Sorts Viral Versus Bacterial Infections
+
+September 18, 2013
+
+A blood test developed by Duke researchers showed more than 90-percent
+accuracy in distinguishing between viral and bacterial infections when tested
+in people with respiratory illnesses.
+
+A blood test developed by Duke researchers showed more than 90-percent
+accuracy in distinguishing between viral and bacterial infections when tested
+in people with respiratory illnesses.
+
+The test, which detects a specific genetic “signature” that the sick person’s
+immune system expresses as a response to the virus, demonstrates a potential
+new method for diagnosing the source of illnesses that have long been tough to
+pinpoint.
+
+Reported in the Sept. 18, 2013, issue of the journal _Science Translational
+Medicine_ , the finding moves the technology closer to clinical use, where it
+could help patients get quicker diagnoses and treatments, while curbing the
+unnecessary use of antibiotics that don’t work on viral infections.
+
+“In instances such as pandemic flu or the corona-virus that has erupted in the
+Middle East, it’s extremely important to diagnose a viral illness far more
+accurately and speedier than can be done using traditional diagnostics,” said
+co-senior author Geoffrey S. Ginsburg, M.D., Ph.D., director of Genomic
+Medicine and professor of medicine at Duke University School of Medicine.
+“Current tests require knowledge of the pathogen to confirm infection, because
+they are strain-specific. But our test could be used right away when a new,
+unknown pathogen emerges.”
+
+When infected by a virus, a person’s immune system responds differently than
+when fighting a bacterial infection. These differences are evident at the
+genetic level, where certain genes are switched on during a viral attack,
+creating a fingerprint that broadly identifies the culpable pathogen.
+
+In previous work, the Duke team described the development of a blood test,
+using a special assay, to identify some 30 genes involved in the immune
+response to viral infection among volunteers who had agreed to be infected
+with a series of common upper respiratory viruses.
+
+Unlike current tests that rely on evidence of the pathogen in the blood stream
+– requiring knowledge of that particular bug to detect it – the new approach
+could be used to detect unknown emerging diseases, including potential
+bioterrorism threats.
+
+“This is important not only in viral pandemics where infection may be caused
+by unknown viruses but also in routine care where the decision to treat or not
+with antibiotics is paramount,” said lead author Aimee K. Zaas, M.D., MHS,
+associate professor of infectious diseases and international health at Duke.
+
+The current study was a trial run of the blood test in a “real-world” setting.
+Among 102 people arriving at a hospital’s emergency department with fever, 28
+had a viral infection, 39 had a bacterial infection and 35 were healthy
+controls. Using the test, the Duke researchers were able to accurately
+classify more than 90 percent of the patients as having viral infection or
+not.
+
+The assay provided true positive identifications of viral infection in 89
+percent of the cases, and correctly ruled out the negative cases 94 percent of
+the time.
+
+Duke engineers performed the statistical analysis that provided the ability to
+distinguish virus from bacteria. "This is a terrific example of how the strong
+collaborations between researchers at the Pratt School of Engineering and the
+IGSP are enabling new breakthroughs in clinical medicine," said Lawrence
+Carin, chair of the Department of Electrical and Computer Engineering at Duke.
+
+The researchers said larger studies are planned, and additional work is
+ongoing to trim the amount of time it takes for the test results to be
+reported. Ginsburg said the test currently takes 12 hours, and analyzes about
+30 genes. He said both the time and the number of genes could be pared.
+
+“We were very pleased that the assay could pick out those with viral infection
+with a high degree of accuracy,” Zaas said. “This is perhaps the most
+important aspect of this effort – the accuracy of the new test in a real-world
+setting. It is a major step forward in the test becoming a useful diagnostic
+to help physicians and patients.”
+
+Co-senior author Christopher W. Woods, M.D., MPH, associate professor of
+medicine, pathology and global health at Duke and the Durham VA Medical
+Center, said the new test, if proven successful in additional studies, could
+help resolve some of the most pressing issues around infectious diseases.
+
+“One of the big global threats at the moment is the emergence of bacterial
+resistance, and that is largely driven by overuse of antibiotics,” Woods said.
+“This is a growing public health threat, creating infections that are
+increasingly difficult to manage. A tool that enables us to accurately
+identify viral infections could reduce the indiscriminate provision of
+antibiotics thereby reducing the development of resistant pathogens.”
+
+In addition to Ginsburg, Zaas and Woods, study authors include Thomas Burke,
+Minhua Chen, Micah McClain, Bradly Nicholson, Timothy Veldman, Ephraim L.
+Tsalik, Vance Fowler, Emanuel P. Rivers, Ronny Otero, Stephen F. Kingsmore,
+Deepak Voora, Joseph Lucas, Alfred O. Hero, and Lawrence Carin.
+
+The study was supported in part by the Defense Advanced Research Projects
+Agency (DARPA), the National Institutes of Allergy and Infectious Diseases
+(AI066569), and the Department of Veterans Affairs.
+
+Ginsburg, Zaas, Woods, Hero, Carin and Lucas have filed for a provisional
+patent on the respiratory viral signature. Fuller disclosures are provided in
+the study.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

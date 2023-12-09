@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke to Lead $5 Million Center to Develop U.S. Air Force Wireless
+Communications Protocols
+
+October 20, 2020 | By Ken Kingery
+
+National initiative will develop AI-informed communication and networking
+protocols fast and reliable enough to handle Air Force requirements
+
+Researchers at Duke University will work with colleagues across the nation to
+ensure that future communication protocols used by the United States Air Force
+are suitable for handling the most data-heavy tasks imaginable, such as flying
+UAVs, and secure from adversarial attack.
+
+Led by Robert Calderbank, the Charles S. Sydnor Distinguished Professor of
+Computer Science, Electrical and Computer Engineering, and Mathematics, and
+director of the Rhodes Information Initiative at Duke, and Vahid Tarokh, the
+Rhodes Family Professor of Electrical and Computer Engineering, the new five-
+year, $5 million program is called the Air Force Research Laboratory/Air Force
+Office of Scientific Research (AFRL/AFOSR) University Center of Excellence:
+Agile Waveform Design for Communication Networks in Contested Environments.
+The new center also draws in research expertise from Virginia Tech, Princeton
+University, Carnegie Mellon University, Colorado State University and Arizona
+State University.
+
+“This center will develop methodologies for novel waveform design and
+optimization techniques that are both agile to changing network dynamics and
+robust to adversaries in contested environments, with provable bounds on
+performance,” said Lauren Huie, Air Force Research Laboratory, Information
+Directorate (AFRL/RI), Tech Advisor for the Computing & Communication
+Division. “The innovative techniques of this approach are poised to re-
+envision this area and intertwine this exceptional university team and AFRL/RI
+scientists and engineers to pave the future of waveform design for
+communication networks.”
+
+Protocols are to communication what programming languages are to computation;
+they are a set of well-defined rules and formats that allow information to be
+transmitted between devices. As wireless communication channels become more
+bandwidth efficient, these protocols become more complex. For example, they
+may employ geographic and topographic information, be robust to interference
+from buildings and other signals, and know how fix or replace errors that
+occur along the way.
+
+While this task is difficult enough in commercial applications such as for the
+latest generation of smartphones and laptops, it’s even harder for devices and
+machines used by the Air Force. Besides the regular background noise caused by
+local terrain and competing signals, communication streams must also withstand
+adversarial attacks. And the demands put on communication networks by UAVs are
+much higher than that of a typical smartphone.
+
+The Air Force does not, however, want to completely reinvent the wheel. It is
+desirable that the protocols controlling the transfer of communication on
+their devices work with existing commercial off-the-shelf applications. But
+because their data streams are more volatile, changing more rapidly than
+commercial networks and subject to adversarial attack, commercial protocols
+are not readily up to the task.
+
+The new AFRL/AFOSR University Center of Excellence will develop the
+fundamental research necessary to design and operate protocols that can meet
+the Air Force’s needs working with existing solutions. By creating new
+software that integrates machine learning methods, researchers will develop
+new waveforms that support low latency communication while providing
+robustness to adversaries in contested environments.
+
+“Our approach departs from traditional methods that use mathematical models
+that describe the transmission process, signal propagation, receiver noise,
+network traffic and many other components of the system that affect end-to-end
+performance,” said Calderbank, who also holds appointments in electrical and
+computer engineering, mathematics, and physics. “Traditional methods still
+have value, but they are losing ground as wireless links become more variable,
+and system components become harder to model. We will retain that value by
+developing machine learning algorithms that are inspired by and based on
+traditional optimization methods.”
+
+“Duke has a depth of knowledge and experience that comes from a long history
+of working with machine learning methods that have revolutionized speech and
+image processing,” added Tarokh, who also holds appointments in computer
+science and mathematics. “These same methods will be the foundation of the new
+networks and protocols that will allow the Air Force to secure its wireless
+communication needs of the future.”
+
+The project will deepen existing collaborations between the universities
+involved and the AFRL/RI. By tackling this new challenge, the researchers will
+increase the capabilities, knowledge, skills and expertise of the AFRL
+workforce, while giving its staff opportunities to work with a large pipeline
+of talented students through programs like Data+ and Code+, both ten-week
+summer research experiences that pair mixed teams of Duke undergraduate and
+graduate students with real-life data sets and problems from partnering
+companies.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Tech Promises Easier Cervical Cancer Screening
+
+May 31, 2017 | By Ken Kingery
+
+“Pocket colposcope” removes need for speculum, may enable self-screening
+
+Duke University researchers have developed a handheld device for cervical
+cancer screening that promises to do away with uncomfortable speculums and
+high-cost colposcopes.
+
+The “pocket colposcope” is a slender wand that can connect to many devices,
+including laptops or cell phones.
+
+If widely adopted, women might even use the device to self-screen,
+transforming screening and cure rates in low-income countries and regions of
+the United States, where cervical cancer is most prevalent.
+
+Cervical cancer is the fourth most common cancer in women, with more than
+500,000 new cases occurring annually worldwide. In the United States,
+physicians diagnose more than 10,000 cases each year. While more than 4,000
+American women die of the disease each year, the mortality rate has dropped
+more than 50 percent in the past four decades, largely due to the advent of
+well-organized screening and diagnostic programs.
+
+While the Pap smear can be performed by a non-specialist, colposcopy requires
+visualization of the cervix, relying on highly trained professionals and
+expensive equipment that is not easily accessible to underserved populations.
+These factors make cervical cancer more prevalent in women living in low
+socioeconomic communities.
+
+In a new paper published on May 31 in the journal PLOS One, researchers from
+Duke believe they have found a better way.
+
+“The mortality rate of cervical cancer should absolutely be zero percent
+because we have all the tools to see and treat it,” said Nimmi Ramanujam, the
+Robert W. Carr, Jr., Professor of Biomedical Engineering at Duke. “But it
+isn’t. That is in part because women do not receive screening or do not follow
+up on a positive screening to have colposcopy performed at a referral clinic.
+We need to bring colposcopy to women so that we can reduce this complicated
+string of actions into a single touch point.”
+
+Current standard practices for cervical cancer screening require three things:
+a speculum, a colposcope and a trained professional to administer the test.
+
+The speculum is a metal device designed to spread the vaginal walls apart. The
+colposcope is a magnified telescopic device and camera designed to allow
+medical professionals to look through the speculum to see the cervix, which is
+located three to six inches inside the vagina. Colposcopes and people who know
+how to use them are difficult to find in many low-income regions, both
+domestically and internationally.
+
+Ramanujam believes she can replace at least two of these requirements. Her
+laboratory has developed an all-in-one device that resembles a pocket-sized
+tampon with lights and a camera at one end. Health providers—or even women
+themselves—are able to capture images of the cervix using the rounded tip of
+the device to manipulate its position if necessary. The device also includes a
+channel through which contrast agents used for the cervical cancer screening
+procedure can be applied.
+
+“We recruited 15 volunteers on Duke’s campus to try out the new integrated
+speculum-colposcope design,” said Mercy Asiedu, a graduate student working on
+the project in Ramanujam’s lab. “Nearly everyone said they preferred it to a
+traditional speculum and more than 80 percent of the women who tried the
+device were able to get a good image. Those that couldn’t felt that they just
+needed some practice.”
+
+Ramanujam and Asiedu are now working on clinical trials to see how their
+design stacks up against the traditional colposcopy used with a speculum. By
+using both methods to visualize the cervix, the researchers will be able to
+make a direct comparison.
+
+Asiedu is also working to automate the screening process. By using image
+processing and machine learning to teach computers how to spot signs of
+precancerous and cancerous cells, Asiedu hopes to remove the need for a
+trained physician at any point in the screening process and shift the task to
+midwives, community health workers and even the women themselves.
+
+“There have been a few other attempts to come up with a better solution, but
+none of them have succeeded,” said Asiedu. “One design using an inflatable
+cylinder proved just as uncomfortable as a traditional speculum. Another using
+directed airflow is just as bulky and expensive as a modern colposcope. With
+our handheld, low-cost design, we’re hoping to redefine the entire procedure.”
+
+This work was supported by the National Institutes of Health (1R01CA195500,
+1R01CA193380).
+
+CITATION: “Design and Preliminary Analysis of a Vaginal Inserter for Speculum-
+Free Cervical Cancer Screening,” Asiedu MN, Agudogo J, Krieger M, Miros, R,
+Proeschold-Bell, RJ, Schmitt JW, Ramanujam N. PLOS One, May 31, 2017. DOI:
+10.1371/journal.pone.0177782
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

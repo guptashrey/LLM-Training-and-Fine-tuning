@@ -1,0 +1,311 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mining Data for All It's Worth
+
+March 20, 2017 | By Scott Huler
+
+Pratt graduate Winston Henderson E'90 partnered with Duke data scientists and
+their students to examine diversity and inclusion online.
+
+_This article first appeared in Duke Magazine._
+
+"The Internet assumes everyone is white."
+
+"A strong statement maybe, but Winston Henderson B.S.E. ’90, J.D. ’96 takes
+out his phone to offer a simple demonstration.
+
+“Let’s look up ‘female beauty,’ ” he says; he goes to Google and enters the
+term. He turns the phone toward you as his finger flicks through gallery after
+gallery, image after image of conventionally beautiful women. All of them
+slim. And virtually all of them white, especially on the first pages. “There’s
+nothing I typed in that said, ‘white, thin female beauty,’ ” Henderson says.
+Point made. The culture has a bias, and the technology reflects it."
+
+Henderson has created a start-up, Sankofa, to try to address that complex
+intersection of technology and culture. Sankofa is in its earliest days, and
+Henderson says it will work on multiple levels, addressing both cultural blind
+spots (like those in his search-engine example) and the paucity of people of
+color in tech industries. “If you take out sales and manufacturing,” he says,
+“you have less than 2 percent black and Latino workers” in tech companies.
+
+Henderson, vice president and general counsel at Nano Terra, a Cambridge,
+Massachusetts, nanotechnology company, reached out to his alma mater to see
+whether Sankofa could get some help addressing both of the problems he had
+identified. He ended up working with Data+, a project of the Information
+Initiative at Duke (iiD), an interdisciplinary program that focuses on
+increasing student engagement in research into “big data” in various forms.
+
+“iiD is trying to set up a place where all the Duke divisions that think
+practically about big data can talk to each other,” says Paul Bendich,
+associate director for curricular engagement of iiD and assistant research
+professor of mathematics. It’s designed to get real data from Duke
+departments, outside companies, and the community, and, from there, to get
+students used to working with data, with a customer who has a specific need,
+and with each other.
+
+Duke has big-data needs, and outside organizations do, too. All that means
+there’s money to get students involved in complex data problems. But starting
+with some enormous, three-year funded study headed by a faculty member would
+limit students’ opportunities to take chances and to get deeply involved in
+the fundamental questions the work raises. So Data+ starts small. With a small
+project the stakes are lower. “Having a small project is a way to get your
+feet wet,” Bendich says. “We really conceptualize Data+ as a summer incubator
+of ideas that might go further.”
+
+> “How do you make sure you approach data with diversity?”
+>
+> Winston Henderson, E'90, founder of Sankofa
+
+He describes the internships Data+ provides as “a hothouse community of about
+seventy students” each summer. Those students come together in small teams of
+two, three, or four and address practical issues raised by actual clients.
+Projects might focus on the needs of campus departments (helping Duke Parking
+and Transportation design an app identifying parking spots) or community
+agencies (the Durham Crisis Intervention Collaborative needed to turn
+statistical data into understanding of how various mental-health interventions
+by the Durham police worked).
+
+The Sankofa Data+ team approached the way Google’s algorithm underrepresented
+minorities and minority-related products by choosing an example: hair care. A
+quick Google search of hair-care products, once again, takes many screens
+before it yields any products for the African-American market. “If you don’t
+appear on the first page of Google, you don’t exist,” Henderson says, and he
+wanted his Data+ students to reverse-engineer how what ended up on that first
+page got there. Plus, Henderson took a step further. Rather than just funding
+a project and receiving good work from Duke students on the problems his
+nascent company would address, he helped spark a collaboration between Duke
+and North Carolina Central University, its Durham neighbor. As the nation’s
+first public liberal-arts institution for African Americans, Central had a
+natural interest in such a collaboration.
+
+“How do you make sure you approach data with diversity?” Henderson asked. Duke
+had overwhelming strength in the data science, he says, “and you have a school
+across town with a very diverse student population.” So it seemed like a
+perfect meshing of interests and abilities.
+
+Weiyao Wang, a Duke sophomore majoring in math and computer science with a
+minor in political science, joined the project at the suggestion of one of his
+political science professors, who knew of his interest in big data and steered
+him toward Data+. In the group of four students on the Sankofa project, “I’m
+basically the tech person,” he says. And using those technologies in social
+science fit directly with his broad interests.
+
+The project consisted of ten weeks spent cloistered in rooms in Gross Hall
+with other Data+ teams. This closeness has purpose, says Bendich. The Sankofa
+team shared a room with a group focusing on data topology and geometry and
+another group gathering data on eye movement and food choice in a market—two
+other groups, that is, doing serious math and statistics. “We want them near
+other smart people working on other parts of the spectrum,” Bendich says.
+“Getting a sense of the cultural-trade space—basically, what does it look like
+to do that kind of work?”
+
+> “We want to train students to do data science in the actual world.”
+>
+> Paul Bendich, associate director for curricular engagement of the
+> Information Initiative at Duke (iiD)
+
+Data+ worries less about teaching students specific technical skills than
+teaching them to think like problem solvers. “Almost always the students will
+try to dive deep into technical things they want to learn,” Bendich says, “and
+need to be pushed back to look at the bigger problem.” That is, students
+naturally want to master skills like scraping data from Twitter or Google
+(using a program to turn images or words into data the team could then
+analyze) or cleaning data (removing flawed data and rendering the remainder
+more ready for analysis) once they’ve got it. Skills that make résumés shine.
+“But we want to train students to do data science in the actual world,”
+Bendich goes on. “There’s grownup, adult research that goes on there.” What
+the students learn in Data+ is “not just being tech nerds but collaborating
+with the social sciences and the natural sciences and the humanities.”
+
+The students value that approach.
+
+Wang describes the difficulty of trying to figure out how Google’s search
+algorithm worked. He designed a Web-crawling program to perform search after
+search and use machine learning to analyze the results directly from Google
+and continue searching, but that didn’t work well at first. “Google doesn’t
+like people hacking them,” he says, laughing. “It will return a lot of random
+stuff when you try to get html from a bot.” Google can tell, that is, when a
+particular machine makes repetitive searches, staying on each result for a
+recognizable amount of time. Its machines know your machines are up to
+something. So Wang had to teach his bot to use proxies for his IP address so
+it looked like different users were generating searches, and to spend random
+time on the images it was analyzing, so Google couldn’t tell so easily that a
+bot was peeping in its windows.
+
+Though the group could never quite crack Google’s algorithm, it was able to
+begin figuring out how it worked. The members learned that keywords played an
+important role, especially in domain information, as did the number of links
+to a page. If highly ranked pages linked to a page, that page’s rank went up.
+As Bendich says regarding page rankings, they follow the high-school model of
+popularity: “You’re popular if the popular kids say you’re popular.” And
+here’s where the collaboration with North Carolina Central really paid off.
+“They identified better problems than us,” Wang says of Central students
+Samuel Watson and Jarret Weathersby, who joined Wang and junior Jennifer Du of
+Duke. In figuring out the algorithm they were designing, “I was thinking we
+could manually assign higher scores to certain minority websites,” Wang says,
+“because they’re not that popular.” That is, Wang would simply give higher
+scores to certain pages and see whether that improved their ranking in
+results.
+
+> Data+ is a project of the Information Initiative at Duke (iiD), an
+> interdisciplinary program that focuses on increasing student engagement in
+> research into “big data” in various forms.
+
+Not so much. “They said all these minority websites are closely linked,” he
+says—so no matter how high a score he gave minority websites, they were
+linking mostly to each other. The popular kids, in Bendich’s parlance, still
+didn’t think those pages were popular.
+
+Whereas the Duke students jumped on the technical issues, the Central students
+saw that connection and offered a better understanding of the complexity of
+the problem the team was trying to solve. “I mostly dealt with the cultural
+aspect of it,” says Weathersby, a junior physics major at Central, “looking up
+different hair products or finding out what the African-American community is
+looking for in hair-care products.”
+
+In the shampoo search, after getting Google results for its initial searches,
+the team went to Twitter and performed sentiment analysis—finding people’s
+opinions about shampoos by analyzing the words they use to describe them in
+tweets—and found the results significantly changed, especially when they
+seeded that information to increase relevance to minority searches. Their
+resulting algorithm gave better results than simply adding minority-related
+search terms to a Google search. As Wang puts it when describing a hypothesis
+he’s continuing to investigate: “It’s not the algorithm itself that’s
+discriminating. It’s just the result that reflects what society believes.”
+
+That they didn’t crack Google’s code doesn’t worry Wang. “Our project was just
+to give Winston a hint of ways his start-up can go,” he says. Bendich agrees.
+“We never want to assure companies that they’re going to get commercial value
+out of this,” he says. “It’s more exploration of an idea—and exploration of
+potential hires.”
+
+That element of preparing students for research seems to be working. A
+discussion with one of his current political science professors has Wang
+continuing his attempts to provide more statistically sound search results.
+And Weathersby, according to Eric Saliim, director of the Fab Lab at Central,
+“took all that wonderful information that he learned and brought that back to
+campus and started an NCCU data program.” That model of exploration in
+December 2016 netted Data+ the gold prize in the natural-sciences category at
+the Reimagine Education Conference and Awards at the University of
+Pennsylvania’s Wharton School, which recognizes innovative programs that
+enhance both learning and employability.
+
+As for Sankofa, Henderson says the results helped. Students learned a bit
+about the problems in online results, and they prepared themselves for the
+industry. “My hope is that it is the first step in an ongoing story,”
+Henderson says. “How do you make the digital universe inclusive?”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

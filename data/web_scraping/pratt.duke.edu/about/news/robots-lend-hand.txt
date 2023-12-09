@@ -1,0 +1,169 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Robots Lend Themselves a Hand
+
+July 17, 2018 | By Ken Kingery
+
+Kris Hauser is teaching humanoid robots to use their hands to stop themselves
+from falling
+
+A famous viral video about the DARPA Robotics Challenge shows all sorts of
+humanoid robots clumsily falling down. Bipedal movement is rather unstable,
+which is not only a problem for a robot trying to complete its task, but also
+because falling can damage a very expensive piece of machinery.
+
+Roboticists across the globe are tackling this problem in a myriad of ways.
+While some look to add a series of corrective steps after a robot becomes off-
+balance, much like a person stumbling after tripping, Kris Hauser wants robots
+to be able to use the environment around them.
+
+“If a person gets pushed toward a wall or a rail, they’ll be able to use that
+surface to keep themselves upright with their hands. We want robots to be able
+to do the same thing,” said Kris Hauser, associate professor of electrical and
+computer engineering and of mechanical engineering and materials science at
+Duke. “We believe that we’re the only research group working on having a robot
+dynamically choose where to place its hands to prevent falling.”
+
+While such decisions and actions are second nature to us, programming them
+into a robot's reflexes is deceptively difficult. To streamline the process
+and save computation time, Hauser programs the software to focus only on the
+robot’s hip and shoulder joints.
+
+As long as the robot isn’t twisting as it falls, this creates only three
+angles that the stabilization algorithm has to take into account—the foot to
+the hip, the hip to the shoulder, and the shoulder to the hand. The robot must
+identify nearby surfaces within reach and then quickly calculate the best
+combination of angles to catch itself. The final solution minimizes impact
+when the robot’s hands make contact, and also minimizes the chance of its
+hands or feet slipping. The algorithm takes its best guess and then
+progressively optimizes it using a method called direct shooting.
+
+In its current state, the robot has information about its environment fed to
+it and can’t navigate on its own. But in the near future, Hauser plans to
+upgrade to a larger robot with its own camera sensors to let it see its
+surroundings.
+
+“Hopefully by the end of the year we should be doing experiments with the
+robot actually working in a live obstacle course,” Hauser said. “Then we’ll be
+trying to have the robot both dynamically map what’s around it and reason
+about how to protect itself from falling in arbitrary environments.”
+
+For more details, reference the original publication: "Shihao Wang and Kris
+Hauser. Realization of a Real-time Optimal Control Strategy to Stabilize a
+Falling Humanoid with Hand Contact. IEEE Intl Conf. on Robotics and Automation
+(ICRA), 2018."
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

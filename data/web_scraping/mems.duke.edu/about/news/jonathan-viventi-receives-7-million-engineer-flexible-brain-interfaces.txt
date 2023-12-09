@@ -1,0 +1,266 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Jonathan Viventi Receives $7 Million to Engineer Flexible Brain Interfaces
+
+January 5, 2022 | Michaela Kane
+
+In three separate projects, Jonathan Viventi will explore how to optimize
+electrode arrays to improve neuroscience research, enable better neural
+prostheses and study epilepsy after brain injuries
+
+Jonathan Viventi, an assistant professor in Duke University’s Department of
+Biomedical Engineering, has been awarded multiple grants from the National
+Institutes of Health and the Department of Defense, totaling more than $7
+million in funding. These grants will support Viventi and his team as they
+develop and optimize flexible brain interfaces for multiple uses.
+
+Traditionally when researchers study brain activity or neurological disorders,
+they use electrodes that are individually wired to a separate, far-away
+recording device. The sheer amount of wiring in a constrained space means that
+researchers can only use about 100 electrodes, so they’re often required to
+choose between obtaining a high-resolution reading by focusing on a small area
+of the brain or collecting low-resolution readings over a large area of the
+brain.
+
+But Viventi has sidestepped this limitation by designing thin, flexible
+electrode arrays that require a fraction of the wiring and dramatically
+increase the number of sensors available for use.
+
+In three new projects, Viventi and his team will explore how they can further
+optimize these tools for improved uses in neuroscience research, for a
+wireless speech prosthetic, and in post-traumatic epilepsy.
+
+In the first NIH project, called Neuro-CROWN, Viventi and his collaborator Dr.
+Hui Fang at Dartmouth College’s Thayer School of Engineering, are developing
+flexible, three-dimensional electrode arrays that will enable neuroscientists
+to sample brain activity with improved coverage and resolution. The team will
+receive $3 million over four years to advance the project.
+
+While Viventi’s prior electrode arrays are flat, two-dimensional, flexible
+shapes that can be placed on the brain, the team developed an entirely new
+electrode array using an ultra-flexible neural interface dubbed the Neuro-
+CROWN (CMOS-based, rollable, low-noise neuroelectronics). The electrodes,
+multiplexing electronics, and wiring for the Neuro-CROWN device will be
+fabricated in a flexible form factor, and then rolled into a tight, small
+cylinder with shanks at one end. Thousands of sensors will be placed along
+these shanks, which can then be easily inserted into targeted areas throughout
+the brain so researchers can collect a variety of brain measurements.
+
+“There are existing tools where you can have hundreds of electrodes along a
+single penetrating shank so you can collect information at different depths
+within the brain, but you can’t see what else is going on across the brain,”
+says Viventi. “Other arrays are like a bed of nails, where they cover a wider
+brain region, but the electrodes only reach one depth within the brain. Our
+effort will combine both together to have simultaneous recordings at multiple
+depths, from multiple locations throughout the brain.”
+
+According to Viventi, this new array could house more than 2,000 sensors and
+use fewer than 20 external wire connections. The limited use of wires would
+help make it an ideal array for long-term experiments to study the behavior of
+freely behaving animals.
+
+“This project will be useful for BRAIN Initiative Investigators and the
+broader neuroscience community as they perform very large-scale recordings in
+animal models,” says Viventi. “We’re optimistic that the technology that we
+develop in this project can also be rapidly translated to humans in the
+future.”
+
+In their second NIH project, which is supported by an R01 grant and provides
+the team with $3.8 million in funding for five years, Viventi and his team
+will develop and optimize wireless electrode arrays that can be used for
+speech neural prostheses.
+
+Patients who suffer from neuromuscular diseases such as locked-in syndrome,
+amyotrophic lateral sclerosis (ALS) or muscular dystrophy have difficulty
+communicating through speech, which negatively impacts their quality of life.
+The most common speech aids for these disorders can track a patient’s eye
+movement to spell and read out words, but these signals and spellers are often
+slow and inconsistent. Researchers have long explored how they can use neural
+prostheses to translate brain signals into speech, but these efforts have
+faced numerous technological limitations.
+
+“Our goal is to develop a speech prosthetic where a patient could imagine
+saying words, and the computer can produce a voice for them,” says Viventi.
+“Previous teams have shown that this is possible with just 128 individually
+wired electrodes, but our goal is to develop an array with 1000s of electrodes
+that are fully implanted and wireless. This would allow for higher performance
+decoding and would also support natural language speech that is both faster
+and more efficient.”
+
+To accomplish this, Viventi has been working with Dr. Gregory Cogan, an
+assistant professor in the Department of Neurosurgery at the Duke University
+School of Medicine, to study speech patterns and the speech areas of the brain
+during surgery. They’ve already shown that early prototypes of their electrode
+arrays can quickly and efficiently decode speech signals after just 10 minutes
+of recording.
+
+“Our focus is on developing the electrode arrays and the recording system,
+while Greg’s lab will develop the decoding algorithms that translate the
+electrical signals into speech,” explains Viventi. “These arrays include their
+own electronic components, so they can be packaged and sealed up without
+requiring any external wiring.”
+
+According to Viventi, these arrays would be implanted on targeted areas in the
+brain and then wirelessly communicate with an external component on the
+patient’s head, like a cochlear implant. The external component would then
+send the data to a computer, where it would translate the signals into speech.
+The external component would also be rechargeable and wireless. Viventi and
+his team will work with Blackrock Neurotech throughout the study to ensure
+that the technology they develop can be FDA-approved and commercialized at the
+end of the project.
+
+“We are grateful for the partnership with Dr. Viventi and Duke University in
+our efforts to develop devices that help people who have lost function and so
+urgently need new solutions,” says Dr. Florian Solzbacher, co-founder and
+Chairman of Blackrock Neurotech. “Further, this new technology platform has
+the potential to revolutionize how smart implants are designed, manufactured
+and tested. It fits perfectly into Blackrock’s strategic technology portfolio,
+which we are building to increase options for future neural interface products
+that leapfrog existing technologies.”
+
+In their final project, which is supported by the US Department of Defense and
+provides $715,000 over three years, Viventi and his collaborators will develop
+a wireless electrode array that can help researchers and physicians diagnose
+and manage epilepsy disorders caused by traumatic brain injury (TBI).
+
+TBI affects more than 2.8 million people a year, and it is especially common
+among veterans. One of the main consequences of a traumatic brain injury is
+posttraumatic epilepsy. So far, researchers have been unable to pinpoint what
+brain signals trigger epilepsy, and it’s difficult to predict if and when
+patients will develop epilepsy, as they can have their first seizure more than
+a year after their TBI.
+
+“We have developed wireless and implantable arrays that would enable long-term
+brain recordings for patients with TBI who are at an increased likelihood of
+developing epilepsy,” explains Viventi. “This tool would give physicians and
+researchers unprecedented access to human electrophysiological data, and it
+would ideally help them gain a better understanding of how and why epilepsy
+develops in these patients.”
+
+According to Viventi, these electrode arrays would be sensitive enough to
+allow physicians to localize the neural circuits that trigger their seizures,
+and they could provide data that would guide surgical interventions. Because
+these arrays are also self-contained and wireless, they could be left in the
+brain for up to a year, limiting any complications, such as infections, from
+external wire connections.
+
+“These wireless arrays would allow patients to live their lives at home rather
+than be confined to a hospital bed for a month,” says Viventi. “By tracking
+long-term data, we can learn more about when we need to intervene to prescribe
+medication or surgery, and we can learn how to treat epilepsy more effectively
+overall.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

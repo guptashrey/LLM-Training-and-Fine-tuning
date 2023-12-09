@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2020
+
+# Versatility of Machine Learning
+
+March 1, 2020 | By Isabella Wang
+
+David Carlson is helping colleagues across campus use machine learning in
+their own fields of expertise while removing the “black box” from the equation
+
+David Carlson is an assistant professor in both the Pratt School of
+Engineering and the Duke School of Medicine. He works between the Departments
+of Civil & Environmental Engineering and Biostatistics & Bioinformatics. His
+interdisciplinary position allows him to solve interesting problems that
+connect algorithms with various fields, and he is currently working with a
+team of graduate students and post-docs to develop new machine learning
+methodology. Every couple of weeks, he meets with collaborators to scope out
+the problem that they want to work on together.
+
+Or as Carlson puts it, "The most important thing is not necessarily using the
+perfect method but asking the right question. That usually means, what is the
+right scientific question that we want to ask?"
+
+Great algorithms can be "black boxes" that seem to magically solve problems.
+While these algorithms may be great in a lab setting, they can be difficult to
+apply to real-world problems. It can be hard to interpret them and explain how
+they work to experts who want to use them in their own field of study.
+
+Take a convolutional neural network, for example. The underlying mathematical
+operations are very simple, largely made of linear equations and
+unidimensional functions that have a single variable. Most of the time,
+elements are only multiplied or added together. But while each individual step
+is easy to understand, the key issue is that the algorithm may contain tens of
+millions of parameters that lead to billions of operations. The sheer amount
+of calculations that the machine performs renders the algorithm too complex
+for even experts to make sense of.
+
+Carlson doesn't believe "black box" algorithms should be the default approach
+in many scientific problems. He believes that it is crucial to understand the
+reasoning behind outputs from algorithms and why a machine made its decisions.
+Working backwards from the outcome, researchers can deduce the factors that
+played a major role in producing that outcome. These factors can then provide
+insight into problems that experts in various fields are working to solve.
+
+According to Carlson, new techniques in machine learning and artificial
+intelligence are developed so that they can be applied in specific situations
+in other fields. "So if we're talking about neuroscience, or any specific
+application for that matter," Carlson said, "we're forcing algorithms into a
+framework that we think we could explain to a neuroscientist who understands
+what these patterns really mean."
+
+Recently, Carlson has collaborated with professors studying primarily
+neuroengineering and environmental engineering. Kafui Dzirasa, the K. Ranga
+Rama Krishnan Associate Professor in the Departments of Psychiatry and
+Behavioral Sciences, Neurobiology, Bioengineering and Neurosurgery, and leader
+of the lab for psychiatric neuroengineering, has been working with Carlson for
+the past five years. Last year, they published a study on using machine
+learning to find biomarkers (measurable quantities) for stress susceptibility
+in the hopes of creating preventative treatments for depression.
+
+While common treatment paradigms primarily intervene after an individual has
+already become depressed, Carlson said, "We're trying to use interpretable or
+explainable machine learning...to predict the future, and we want to make sure
+that we can frame this in the context of what's actually happening in the
+brain." Carlson and Dzirasa discovered a network of brain activity, or a
+reproducible pattern of electrical fluctuations, that strongly signals how
+susceptible a mouse is to depression. Moving forward, they plan to further
+understand these patterns and transfer these findings into treatments for
+depression in humans.
+
+In environmental science, Carlson has collaborated with Michael Bergin,
+professor of civil and environmental engineering, and his PhD student Tongshu
+Zheng to improve low-cost air quality sensors. They are looking to use
+satellite imagery data in conjunction with data from the sensors to train
+scalable algorithms to detect particulate matter and predict air quality by
+"looking" at the sky.
+
+In addition to his research, Carlson is also a part of the "+Data Science"
+initiative, which encourages all students to learn how to incorporate machine
+learning into their majors. Through this initiative, Carlson and his
+colleagues have produced a lot of work in the social sciences, humanities and
+the arts. The arts department at Duke and Matthew Kenney have fostered the
+development of digital humanities. They've found that machine learning can be
+useful in understanding forgery and analyzing the origins of historical
+paintings. Students have even gone on to design art using algorithms in the
+Duke A.I. for Art competition.
+
+"One of the things I really love about being at Duke and studying science in
+general is that I can't do it alone," said Carlson. "I like to think I have my
+little part, but there's a lot of work across the board in combining
+expertise. That's a lot of the fun for me."
+
+The way Carlson sees it, algorithms are not smarter than humans. Their talent
+is in performing calculations efficiently without losing accuracy or focus.
+They are also inherently experienced because they have access to a large
+amount of data. By reaching out to and working with experts all around the
+university, Carlson—and his machine learning algorithms—has helped people save
+time on processing data and take advantage of computational power, no matter
+what field they belong to.
+
+**Isabella Wang is a first-year student planning to major in biomedical
+engineering and computer science.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2020
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

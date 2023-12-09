@@ -1,0 +1,203 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# D.I.Y. Crystal-Makers Get Refurbished Online Cookbook
+
+June 2, 2017 | By Ken Kingery
+
+Crystalline structures database provides recipes for non-expert "chefs"
+cooking up new materials
+
+In response to popular demand, materials scientists at Duke University have
+resurrected an online cookbook of crystalline structures that started when the
+World Wide Web was Netscape Navigator and HTML 1.0.
+
+In 1995, Michael Mehl, then a scientist at the U.S. Naval Research Laboratory,
+began collecting, cataloguing and sharing information about crystalline
+structures on a basic website for colleagues.
+
+Researchers needed a reference catalogue to guide their efforts because
+crystals form hundreds of different structures in nature. Chemists use
+crystals as handy building blocks for new materials because of their rigid,
+ordered molecular shapes, which help determine a material's properties.
+
+Mehl's website, called Crystal Lattice Structures, provided detailed
+information that, while available from other sources, was more useful to
+researchers unfamiliar with crystallographic conventions. If crystalline
+databases were cookbooks and each crystal structure a recipe, researchers had
+written other references suitable for accomplished French chefs with
+specialized training. Crystal Lattice Structures, on the other hand, was for
+your average home cook.
+
+"The library showed how crystallography relates to crystals in the real
+world," explained Mehl, now at the United States Naval Academy. "It also gave
+a broad overview of structures seen experimentally, which is always a good
+place to start looking for something new."
+
+Mehl took the website down in 2010, however, due in part to security upgrades
+made at NRL, and because the website's haphazard growth over 15 years had left
+its organization unnecessarily complicated and its entries un-standardized.
+
+"There were a lot of people in the community asking where the database had
+gone and whether or not it could be brought back," said Stefano Curtarolo,
+professor of mechanical engineering and materials science at Duke. "We decided
+to put all the information together into a paper and also bring back the
+website in a more robust and open-source version."
+
+With Mehl's help, Curtarolo and his team have resurrected Crystal Lattice
+Structures, launching a new and improved online catalogue and publishing a
+paper containing all of its data (the first of a longer collection). The paper
+appeared online on May 22 in _Computational Materials Science_.
+
+The paper, which took more than a year to compile, contains 288 entries for
+various crystalline structures. Each entry contains data on the symmetry of
+the structure, its crystalline properties and the shape of a unit cell. It
+also contains generic mathematic equations describing each atom's placement,
+rather than providing that information in a specialized form as other
+databases typically do.
+
+"Having the equations for the atomic placements written out gives more
+flexibility to include slight variations and to specifically tune each
+structure," said Cormac Toher, assistant research professor of mechanical
+engineering and materials science at Duke. "We're also going to have a 3D
+viewer of the structures at the top of each entry so that people can see the
+structures at different angles."
+
+Making the new website even more robust, each entry is directly linked to the
+Duke Center for Materials Genomics AFLOW library—an online database of two-
+and three-element compounds that lets users predict the properties of yet-to-
+be-discovered materials. With the incorporation of the new database, users can
+simply choose which elemental atoms to place at which positions in any of the
+288 crystalline structures, and the program will compute the resulting
+material's likely properties.
+
+"We had to decide what format to present the information in, get all of the
+data, and 800 pages later, make sure there weren't any errors," said David
+Hicks, a graduate student in Curtarolo's laboratory. "And then implementing
+everything within AFLOW took another 288 files of C++ coding. It was a lot of
+work, but we think it will be a very useful resource for the community."
+
+Support for this research was provided by the Department of Defense Office of
+Naval Research (N00014-13-1-0635, N00014-15-1-2863, N00014-16-1-2781) and the
+Department of Energy (DE-AC02-05CH11231).
+
+"The AFLOW Library of Crystallographic Prototypes: Part 1," Michael J. Mehl,
+David Hicks, Cormac Toher, Ohad Levy, Robert M. Hanson, Gus Hart, Stefano
+Curtarolo. Computational Materials Science, 2017. DOI:
+10.1016/j.commatsci.2017.01.017
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

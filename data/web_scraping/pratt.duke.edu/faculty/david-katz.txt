@@ -1,0 +1,294 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# David F. Katz
+
+Nello L. Teer, Jr. Distinguished Professor of Biomedical Engineering, in the
+Edmund T. Pratt, Jr. School of Engineering
+
+Dr. Katz's research interests emphasize methods for prophylaxis against STD's,
+including topical microbicides, and for contraception. Core perspectives and
+approaches include mass transport phenomena and biofluid mechanics; rheology
+and imaging, both _in vitro_ and _in vivo_. These are integrated to
+fundamental biological, pathological, and clinical processes and needs for
+improvement.
+
+**Context**. According to the Joint United Nations Programme on HIV/AIDS, 40
+million people worldwide are currently living with AIDS. Even 13 years ago, in
+2003, 3 million people died of AIDS and 5 million new people became infected.
+These epidemiological figures are not significantly improving. Prevention of
+initial infection by HIV, as well as treatment of the AIDS disease, is
+critical to combating this terrible worldwide pandemic. Vaccines are one type
+of AIDS prevention modality, and there is much current research on them.
+However, this research is expected to require about another 6 - 10 years
+before efficacious products might become available, and there is no guarantee
+that successful vaccines will be developed, even in this extended time frame.
+An alternative prevention method is the use of topical formulations (e.g.
+gels, foams, intravaginal rings, suppositories, etc.) that a woman inserts
+into her reproductive tract and which prevent HIV (or other pathogens) from
+initiating infection. Some of these can also be applied rectally to prevent
+infection in that compartment. Academic and industrial researchers are
+currently developing and evaluating a new class of compounds, termed topical
+microbicides. These compounds kill or dysfunctionalize HIV or other target
+pathogens upon contact in the female reproductive tract. To-date, microbicide
+research has been directed almost exclusively toward discovery of new,
+improved microbicidal compounds. There has been virtually no companion effort
+on rational design of the formulations which women apply and which deliver
+microbicides to the target pathogens. We do not yet understand what physical
+and chemical properties microbicidal formulations should have in order to be
+most effective in preventing infection. Objective standards for evaluation of
+such formulations do not exist. The effectiveness of microbicidal formulations
+depends upon their ability to coat the surfaces of the lower reproductive
+tract, and to remain in place during the time when a woman is exposed to HIV.
+Our research group is pioneering analysis of the physical and chemical
+mechanisms responsible for such distribution and retention of microbicidal
+formulations (termed deployment) and for the delivery of the microbicidal
+molecules to target tissues, fluids and the pathogens themselves. This work is
+being translated to practical application in the evaluation of current
+candidate microbicidal formulations and in development of improved ones.
+
+Our work also focuses upon methods of contraception, drawing upon Dr. Katz's
+vast experience in working in this field and in reproductive biology and
+medicine more broadly. in particular, we are working on methods, primarily for
+use by women and under their control, that simultaneously provide
+contraceptive protection, and protection and HIV and other sexually
+transmitted pathogens, e.g. human papilloma virus (HPV) and herpes simplex
+virus (HSV).
+
+Our research on microbicidal formulation deployment and drug delivery utilizes
+the methods of mechanical, chemical, electrical and optical engineering and
+materials science. Our work integrates two types of research: (1) we are
+undertaking fundamental studies of the mechanisms of formulation deployment
+and delivery; and (2) we are imaging and analyzing the distributions of
+formulations over the tissue surfaces of the lower reproductive tract in
+women, and the concentrations and transport of drugs from formulations onto
+and into luminal fluids and mucosal tissues. The fundamental studies have two
+components: theoretical analyses of fluid mechanical and other mass transport
+processes underlying deployment and drug delivery are linked to experimental
+simulations (in the laboratory) of salient flow and mass transport mechanisms.
+For example we developed a spectrophotometric method for analyzing microbicide
+diffusion from a formulation into cervical mucus. We have built experimental
+simulations of how gravity and the squeezing forces of vaginal epithelial
+surfaces cause a formulation to flow over those surfaces. We have built a
+simulation of how mixing of a microbicidal formulation with ambient in vivo
+fluids (e.g. vaginal fluid, semen) alters the formulation's properties and,
+therefore, its tendency to flow and adhere to epithelial surfaces. We also
+perform experimental measurements of fundamental material properties of
+formulations such as rheological and surface properties. These serve as inputs
+to the theoretical models of mass transport and flow. The mathematical models
+reveal particular relationships between properties of formulations and
+deployment and delivery characteristics.
+
+We also measure in women the spreading and retention in the vagina of
+different vaginal formulations. Our human studies are conducted in the clinic
+of the Department of Obstetrics and Gynecology at the Duke Medical Center. We
+apply a new, unique imaging instrument built by us, that shares some features
+with the endoscopes currently used clinically to visualize some interior
+regions of the body. Our instrument measures the local thickness of coating of
+the vaginal surfaces with a test formulation. It detects 'bare spots' of
+uncoated tissue that might be particularly vulnerable to infection. We have
+also pioneered use of optical methods to measure local drug concentrations, as
+they are transported from their vehicles into luminal fluids and mucosal
+tissues. This latter work has initially been _in vitro._ We are currently
+working to expand it to direct i _n vivo_ measurements, which will be a
+breakthrough technology in analyzing mucosal drug delivery.
+
+The above biophysics and biomedical engineering based work is also integrated
+to behavioral studies of users' perceptions and preferences of different
+contraceptive and STD prophylactic products. The goal is to improve
+willingness to use these products, by designing them with properties and
+dosage regimens that achieve their pharmacological goals simultaneously with
+their user friendliness.
+
+Collectively, our computational, _in vitro_ and _in vivo_ studies are
+integrated in creating new perspective and algorithms for product design and
+performance evaluation. They are currently being applied in development of a
+number of products in the HIV/STD prevention and contraception pipelines.
+
+Our research has been sponsored by the National Institutes of Health, the US
+Food and Drug Administration (FDA), the American Foundation for AIDS Research,
+the US Agency for International Development, the Population Council, and the
+CONRAD Program.
+
+## Appointments and Affiliations
+
+  * Nello L. Teer, Jr. Distinguished Professor of Biomedical Engineering, in
+    the Edmund T. Pratt, Jr. School of Engineering
+  * Professor of Biomedical Engineering
+  * Professor in Obstetrics and Gynecology
+
+## Contact Information
+
+  * **Office Location:** 1391 CIEMAS, Durham, NC 27708
+  * **Office Phone:** (919) 660-5452
+  * **Websites:**
+    * Google Scholar
+    * http://www.duke.edu/~dkatz
+
+## Education
+
+  * Ph.D. University of California - Berkeley, 1972
+
+## Research Interests
+
+Methods for prophylaxis against STD's, emphasizing topical microbicides and
+contraception; biofluid mechanics; rheology and transport phenomena;
+biophysical aspects of mammalian sperm motility, sperm transport, and
+fertilization; and biomechanical functioning of the vitreous of the eye.
+
+## Awards, Honors, and Distinctions
+
+  * Klein Family Distinguished Teaching Award. Pratt School of Engineering.
+    2018
+  * Capers and Marion McDonald Award for Excellence in Teaching and Research.
+    Pratt School of Engineering. 2010
+  * Fellow. American Institute for Medical and Biological Engineering. 1998
+
+## Courses Taught
+
+  * BME 394: Projects in Biomedical Engineering (GE)
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 528: Biofluid Mechanics (GE, BB, MC)
+  * BME 563: Transport Processes in HIV Transmission and Prevention (GE, BB,
+    MC)
+
+## Representative Publications
+
+  * Guthrie, KM; Rosen, RK; Guillen, M; Ramirez, JJ; Vargas, SE; Fava, JL;
+    Ham, AS; Katz, DF; Cu-Uvin, S; Tumilty, S; Smith, KA; Buckheit, KW;
+    Buckheit, RW, _Designing Dual Compartment HIV Prevention Products: Women's
+    Sensory Perceptions and Experiences of Suppositories for Rectal and
+    Vaginal Use._ , Aids Research and Human Retroviruses, vol 38 no. 7 (2022),
+    pp. 601-610 [10.1089/aid.2021.0038] [abs].
+  * Chuchuen, O; Katz, DF, _Bio-Based Materials in Anti-HIV Drug Delivery_
+    (2022), pp. 181-205 [10.1002/9781119655749.ch8] [abs].
+  * Woodward, J; Ranjit-Reeves, R; Katz, DF; Bernardini, FP; Fagien, S,
+    _Comparing Water Absorption of Food and Drug Administration-Approved
+    Hyaluronic Acid Fillers._ , Dermatologic Surgery : Official Publication
+    for American Society for Dermatologic Surgery [Et Al.], vol 47 no. 9
+    (2021), pp. 1237-1242 [10.1097/DSS.0000000000003108] [abs].
+  * Mueller, JL; Morhard, R; DeSoto, M; Chelales, E; Yang, J; Nief, C; Crouch,
+    B; Everitt, J; Previs, R; Katz, D; Ramanujam, N, _Optimizing﻿ ethyl
+    cellulose-ethanol delivery towards enabling ablation of cervical
+    dysplasia._ , Scientific Reports, vol 11 no. 1 (2021)
+    [10.1038/s41598-021-96223-9] [abs].
+  * Wang, R; Alvarez, DA; Crouch, BT; Pilani, A; Lam, C; Zhu, C; Hughes, P;
+    Katz, D; Haystead, T; Ramanujam, N, _Understanding the sources of errors
+    in ex vivo Hsp90 molecular imaging for rapid-on-site breast cancer
+    diagnosis._ , Biomedical Optics Express, vol 12 no. 4 (2021), pp.
+    2299-2311 [10.1364/BOE.418818] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

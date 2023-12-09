@@ -1,0 +1,320 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Zooming in on Neuronal Behavior
+
+October 27, 2019
+
+With novel approaches to studying neurons, Yiyang Gong and Michael Tadross
+seek to understand the body’s most complicated organ
+
+There are more than 86 billion neurons in the brain. These cells communicate
+by sending electrical and chemical signals across pathways and are responsible
+for controlling everything from simple movement to the processing and storing
+of complex thoughts and memories. The sheer enormity of this neural network
+makes the brain a difficult frontier for exploration, but Michael Tadross and
+Yiyang Gong, two faculty in Duke University’s Department of Biomedical
+Engineering and recipients of the NIH Young Innovator Award, are using
+distinct approaches to decipher the body’s most complex organ.
+
+#### A Molecular GPS to Target Neurons
+
+Michael Tadross, MD, is an assistant professor in Duke BME, where his lab uses
+a novel technology dubbed DART, or Drugs Acutely Restricted by Tethering, to
+deliver pharmaceuticals to specific cells within the brain. By harnessing
+DART, Tadross and his lab hope to develop a better understanding of how drugs
+work in the brain.
+
+“Drugs have been really important in the history of neuroscience and
+neuropsychiatric disease, and I think we take it for granted that brain
+diseases are biological diseases. There was a time when that wasn’t widely
+believed to be true,” says Tadross. “The turning point came in the 1950s,
+after drugs were accidentally discovered to have an effect on disorders like
+depression.”
+
+This discovery set off a race to discover exactly what these drugs are binding
+to in the brain, with the goal of better understanding the fundamental basis
+of brain disease. More than 60 years later, researchers still lack this deeper
+understanding.
+
+But DART could address these long standing questions by enabling Tadross and
+his team to target drugs to one type of neuron at a time.
+
+Drugs today are unable to discriminate between different groups of cells. For
+example, when someone is treated for a mood-related disorder like depression,
+they are prescribed a drug called an SSRI. These drugs target a receptor that
+reabsorbs the chemical messenger serotonin, a neurotransmitter that plays a
+role in mood. SSRIs block these receptors, boosting the amount of serotonin in
+the brain.
+
+The problem with this approach is that there can be thousands to millions of
+cells that express the same receptor, so when you take a drug, it affects all
+of those cells at the same time, often leading to a complex set of effects.
+While SSRIs, for example, may effectively treat depression, they can also have
+a negative effect on anxiety.
+
+“There has already been a lot of work tailored toward locally infusing drugs
+into specific parts of the brain, like the amygdala or the prefrontal cortex,”
+says Tadross. “But DART allows you to do that to a far greater degree of
+specificity.”
+
+DART works by genetically programming specific cell types to express a virus
+that acts like a GPS beacon. This beacon, made of a protein found in bacteria,
+coats the surface of target cells, and attracts drugs loaded with a special
+homing device. When a drug is introduced into the system, it’s captured by
+this beacon and creates a locally high concentration of the drug.
+
+“There is a universal on-off switch for every drug, and that’s the dose,” says
+Tadross.
+
+“The homing device and GPS beacon are so efficient that the concentration of
+the drug on the cells of interest accumulates to become 1,000 times higher
+than anywhere else within a few minutes, so it’s only acting where you want it
+to. The simplicity of that idea allows it to work for virtually any drug.”
+
+Tadross and his lab are using DART to untangle the mysteries of the human
+brain, starting with movement disorders like Parkinson’s disease. The team has
+focused their efforts on the striatum, a structure in the basal ganglia, which
+helps control speech, movement and posture. Among the different cell types in
+the striatum are D1 and D2 cells, which are tightly intermingled, but
+communicate to different brain regions.
+
+In Parkinson’s disease models, cells that produce the neurotransmitter
+dopamine begin to die off, which results in less dopamine being sent into the
+basal ganglia. To compensate for this drop in dopamine, the brain tries to
+rewire itself by altering signals carried by the neurotransmitter glutamate,
+creating an imbalance.
+
+To explore the role of glutamate in Parkinson’s disease, Tadross and his lab
+worked with a Parkinson’s mouse model. These animals have difficulty moving,
+develop a curved posture, and can only turn in one direction. Rather than
+treat the disorder by increasing dopamine (the standard treatment), they used
+DART to stop the D2 type of neuron from compensating by delivering a glutamate
+antagonist specifically to these cells in the striatum. The animal’s movement
+dramaticallyimproved. Remarkably, this improvement was only seen when the drug
+was targeted exclusively to D2 cells; delivering the drug to both D1 and D2
+cells had no benefit.
+
+“At first we were surprised to see such a dramatic effect, since we knew that
+glutamate antagonists have historically never worked to treat Parkinson’s. In
+retrospect, it made perfect sense. You can think of it like a seesaw where
+there is an imbalance in the circuit; targeting a drug to just one of the
+cells is a great way to rebalance the seesaw,” says Tadross. “There are still
+many questions left to answer, and we’re now using newer DARTs to study how
+different neurotransmitters contribute to this disorder.”
+
+Beyond investigating movement disorders, Tad ross and his team are interested
+in using DART to study issues like addiction, especially as it pertains to
+opioids. In 2018 alone, the Centers for Disease Control and Prevention
+reported that more than 68,000 people died from drug overdoses in the United
+States, and opioids were responsible for a majority of these deaths. The
+Tadross lab hopes to use their technology to examine which cells in the brain
+are the most helpful for pain relief and which cells are driving addiction.
+
+“Every drug has some good things and bad things associated with it, but while
+there hasn’t been another drug that’s been able to match the pain-relief
+benefits of opioids, these drugs are so dangerous and addictive that their
+costs have outweighed their benefits,” says Tadross. “Our hope is to use DART
+to better understand how we can alleviate pain without introducing those
+negative side effects.”
+
+“Wouldn’t it be great to understand how they work and finally develop a
+therapy that was designed on purpose rather than accidentally?” asks Tadross.
+“We don’t know the answers to those big questions, but we now have the tools
+that can point us in the right direction.”
+
+#### Lighting Up the Brain's Activity
+
+When Yiyang Gong describes has lab as interdisciplinary, he’s not
+exaggerating. His team creates tools at the intersection of neurobiology,
+optics and engineering. Gong is an assistant professor in Duke University’s
+Department of Biomedical Engineering, and his lab studies brain circuitry by
+recording, perturbing and controlling brain activity in various situations.
+
+“Our goal is to record neural activity in novel ways,” says Gong. “Our lab
+uses interdisciplinary techniques to understand how neurons communicate with
+each other. We’re achieving this using sensors that we developed that flash in
+response to neural signals, and pairing that with microscopy tools that help
+us record those flashes.”
+
+Neurons generate and communicate messages partly by changing their voltage.
+These electrical signals can be measured as single pulses from a neuron called
+an action potential, or as oscillating waves of activity from a group of
+neurons working together.
+
+Gong and his lab have engineered voltage sensors made from pieces of DNA that
+can be delivered to target neurons using a virus. Once the virus is in place,
+the DNA encodes a protein that sits on the cell membrane and flashes in
+response to the neuron’s changing voltage. By genetically targeting different
+types of neurons with his sensor, Gong hopes to understand how these cell
+types oscillate together and contribute to different types of brainwaves.
+
+Since their inception, Gong has been able to use these sensors in cell
+cultures, intact tissues and even live animal models. Now, the lab aims to
+improve these sensors by both increasing their speed and differentiating them
+by introducing multiple colors.
+
+“That second point is especially important, because we’d like to see how
+neuron 1 communicates with neuron 2, or how population 1 communicates with
+population 2,” says Gong. “These insights could help reveal the neural origin
+of complex actions like learning, remembering and decision-making.”
+
+In addition to developing these genetic sensors, Gong and his team are
+exploring how they can advance microscopy tools to record their flashes.
+Previously, researchers have developed tools that can measure a few action
+potentials a second. According to Gong, there hasn’t been a push to speed up
+the imaging tools because that’s as fast as traditional optical sensors for
+neural activity have responded.
+
+“With the advent of the genetically encoded voltage sensors, we also needed to
+develop really fast microscopy on the same timescales,” says Gong. “Our goal
+is to develop faster versions of fluorescence microscopes that can still image
+large portions of the brain.”
+
+The Gong lab is also working on new methods to help process their incoming
+data. In collaboration with Sina Farsiu, the Paul Ruffin Scarborough Associate
+Professor of Engineering at Duke, Gong has developed an automated process that
+can rapidly gather and process neuronal signals for real-time behavioral
+studies.
+
+Currently, identifying neurons in recordings is a painstaking process. The
+most accurate method involves a human analyst circling every ‘spark’ they see
+in a recording, often requiring them to stop and rewind the video until every
+targeted neuron has been identified. This process, called segmentation, is
+challenging and time-consuming, and a researcher can spend anywhere from four
+to 24 hours working on a 30-minute recording.
+
+But the new algorithm developed by Gong and Farsiu can accurately identify and
+segment neurons in mere minutes. “Data analysts have spent hours and hours
+processing minutes of data, and that’s created a bottleneck in neuroscience
+that’s been a problem for a long time. But our algorithm can process a
+30-minute video in 20 to 30 minutes,” says Gong. “We were also able to
+generalize its performance, so it can operate equally well if we need to
+segment neurons from another layer of the brain with different neuron size or
+densities.”
+
+Gong is already using this new technique to study the relationship between
+neural activity and different behaviors in mice. By understanding which
+neurons fire during specific activities, his lab could learn how researchers
+can manipulate brain activity to modify behavior.
+
+“The overall idea is that we can combine the technologies to not only do the
+overall data processing applications in the near future, but to use this tech
+in the far future to understand what the brain is doing in real time,” says
+Gong. “Neuroscience is a very cool discipline, and my lab allows us to take a
+lot of engineering concepts and apply them to the great unknown of brain
+activity.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

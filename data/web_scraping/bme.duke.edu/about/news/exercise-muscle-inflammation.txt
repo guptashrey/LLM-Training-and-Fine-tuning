@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Exercising Muscle Combats Chronic Inflammation On Its Own
+
+January 22, 2021 | By Ken Kingery
+
+Exercising lab-grown human muscle autonomously blocks the damaging effects of
+interferon gamma
+
+Biomedical engineers at Duke University have demonstrated that human muscle
+has an innate ability to ward off the damaging effects of chronic inflammation
+when exercised. The discovery was made possible through the use of lab-grown,
+engineered human muscle, demonstrating the potential power of the first-of-
+its-kind platform in such research endeavors.
+
+The results appear online on January 22 in the journal Science Advances.
+
+“Lots of processes are taking place throughout the human body during exercise,
+and it is difficult to tease apart which systems and cells are doing what
+inside an active person,” said Nenad Bursac, professor of biomedical
+engineering at Duke. “Our engineered muscle platform is modular, meaning we
+can mix and match various types of cells and tissue components if we want to.
+But in this case, we discovered that the muscle cells were capable of taking
+anti-inflammatory actions all on their own.”
+
+Inflammation is not inherently good or bad. When the body is injured, an
+initial low-level inflammation response clears away debris and helps tissue
+rebuild. Other times, the immune system overreacts and creates an inflammatory
+response that causes damage, like the often deadly cytokine storms brought on
+by some cases of COVID-19. And then, there are diseases that lead to chronic
+inflammation, such as rheumatoid arthritis and sarcopenia, which can cause
+muscle to waste away and weaken its ability to contract.
+
+Among many molecules that can cause inflammation, one pro-inflammatory
+molecule in particular, interferon gamma, has been associated with various
+types of muscle wasting and dysfunction. While previous research in humans and
+animals has shown that exercise can help mitigate the effects of inflammation
+in general, it has been difficult to distinguish what role the muscle cells
+themselves might play, let alone how they interact with specific offending
+molecules, such as interferon gamma.
+
+“We know that chronic inflammatory diseases induce muscle atrophy, but we
+wanted to see if the same thing would happen to our engineered human muscles
+grown in a Petri dish,” said Zhaowei Chen, a postdoctoral researcher in
+Bursac’s laboratory and first author of the paper. “Not only did we confirm
+that interferon gamma primarily works through a specific signaling pathway, we
+showed that exercising muscle cells can directly counter this pro-inflammatory
+signaling independent of the presence of other cell types or tissues.”
+
+To prove that muscle alone is capable of blocking interferon gamma’s
+destructive powers, Bursac and Chen turned to an engineered muscle platform
+that the laboratory has been developing for nearly a decade. They were first
+to grow contracting, functional human skeletal muscle in a Petri dish, and
+since then the lab has been improving its processes by, for example, adding
+immune cells and reservoirs of stem cells to the recipe.
+
+In the current study, the researchers took these fully functional, lab-grown
+muscles and inundated them with relatively high levels of interferon gamma for
+seven days to mimic the effects of a long-lasting chronic inflammation. As
+expected, the muscle got smaller and lost much of its strength.
+
+The researchers then applied interferon gamma again, but this time also put
+the muscle through a simulated exercise regime by stimulating it with a pair
+of electrodes. While they expected the procedure to induce some muscle growth,
+as shown in their previous studies, they were surprised to discover that it
+almost completely prevented the effects of the chronic inflammation. They then
+showed that simulated exercise inhibited a specific molecular pathway in
+muscle cells, and that two drugs used to treat rheumatoid arthritis,
+tofacitinib and baricitinib, which block the same pathway, had the same anti-
+inflammatory effect.
+
+“When exercising, the muscle cells themselves were directly opposing the pro-
+inflammatory signal induced by interferon gamma, which we did not expect to
+happen,” said Bursac. “These results show just how valuable lab-grown human
+muscles might be in discovering new mechanisms of disease and potential
+treatments. There are notions out there that optimal levels and regimes of
+exercise could fight chronic inflammation while not overstressing the cells.
+Maybe with our engineered muscle, we can help find out if such notions are
+true.”
+
+This research was supported by the National Institutes of Health (UH3TR002142,
+U01EB028901, R01AR070543).
+
+CITATION: “Exercise Mimetics and JAK Inhibition Attenuate IFN-γ-induced
+Wasting in Engineered Human Skeletal Muscle.” Zhaowei Chen, Binjie Li, Ren-Zhi
+Zhan, Lingjun Rao, Nenad Bursac. Science Advances, Jan. 22, 2021. DOI:
+10.1126/sciadv.eabd9502
+
+## Related News
+
+October 01, 2018
+
+### Immune Cells Help Older Muscles Heal Like New
+
+January 08, 2018
+
+### Engineers Grow Functioning Human Muscle from Skin Cells
+
+January 13, 2015
+
+### First Contracting Human Muscle Grown in Laboratory
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

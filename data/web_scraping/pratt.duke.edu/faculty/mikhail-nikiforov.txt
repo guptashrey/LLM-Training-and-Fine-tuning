@@ -1,0 +1,268 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Mikhail Albertovich Nikiforov
+
+Professor of Pathology
+
+Mechanism of Deregulated GTP Metabolism in Cancer Cells
+
+GTP-binding proteins (G proteins) regulate a vast variety of cellular
+processes and are frequently hyper-activated in human cancers. Enzymes
+controlling the de novo biosynthesis of GTP are also substantially deregulated
+during tumorigenesis and metastasis. Historically, changes in GTP levels were
+not considered as a regulatory step in activation of G-proteins in live cells.
+This is because average intracellular GTP concentration measured by HPLC or
+mass spectrometry (~500µM) is much higher than the GTP dissociation constant
+(Kd) of multiple G-proteins including small RHO-GTPases RAC1 or RHOA.
+
+Up until now no methods existed to detect fluctuations of free GTP in live
+cells. We recently reported genetically encoded intracellular sensors of free
+GTP. (Bianchi-Smiraglia et al, Nature Methods, 2017) These sensors for the
+first time made possible visualization of free GTP changes in live cells and
+identified regions with low (~30µM) and high local GTP concentration.
+
+Furthermore, by combining genetically encoded GTP biosensors and a RAC1
+activity biosensor, we demonstrated that GTP levels fluctuating around
+RAC1-GTP Kd correlated with RAC1 activity in live cells. RAC1 colocalized in
+protrusions of invading cells with several guanylate metabolism enzymes,
+including rate-limiting inosine monophosphate dehydrogenase 2 (IMPDH2), GMPR,
+GMPS and NME (see a diagram). Substitution of endogenous IMPDH2 with IMPDH2
+mutants incapable of binding RAC1 did not affect total intracellular GTP
+levels but suppressed RAC1 activity. Accordingly, targeting IMPDH2 away from
+the plasma membrane did not alter total intracellular GTP pools but decreased
+GTP levels in cell protrusions, RAC1 activity, and cell invasion. ( Bianchi-
+Smiraglia et al, Nature Communications, 2021) These findings represent a
+paradigm shift in the understanding of Rac1 regulation (Step 4 on the
+diagram). Currently we study mechanisms of intracellular GTP distribution and
+explore the anti-guanylate therapy as novel strategy for melanoma
+intervention.
+
+Multiple myeloma (MM) is a plasma cell disorder that accounts for
+approximately 10% of all hematologic malignancies. Due to high immunoglobulin
+production in endoplasmic reticulum (ER), MM cells continuously undergo ER
+stress. This feature makes MM susceptible to agents that exacerbate ER stress,
+such as proteasome inhibitor bortezomib. Yet currently MM is incurable for
+most patients due to rapidly developing resistance to proteasome inhibition.
+Recently by studying global metabolome and transcriptome in cultured and
+patient MM cells, we identified key enzymes involved in regulation of
+endoplasmic reticulum and oxidative stress (KLF9 and TXNRD2), polyamine
+metabolism (ODC1 and AZIN1), and fatty acid biosynthesis (fatty acid elongase
+ELOVL6, see a diagram) as major clinically relevant regulators of multiple
+myeloma resistance to bortezomib. (Fink et al, Leukemia; Fink et al, Cell
+Reports; Bianchi-Smiraglia et al, Journal of Clinical Investigation, 2018;
+Lipchick et al, Blood Adv, 2021) For some of the identified enzymes we
+uncovered mechanism of their involvement in control of MM cell viability,
+whereas the function of others is currently being pursued.
+
+Identification of lineage-specific transcription factors is important for
+understanding how the disease is manifested in different tissues. Of a
+particular interest are transcription factors oppositely regulating phenotypes
+in different lineages. In epithelial cells, E/N cadherin switch represents a
+hallmark of epithelial-mesenchymal transition (EMT), a process by which static
+cells acquire a mesenchymal-like phenotype, including migratory and invasive
+capabilities. In search for transcription factors regulating the EMT-like
+transition in melanocytic cells, we evaluated several bona fide regulators of
+EMT. One of them, FOXQ1, a member of FOX family of transcription factors, is
+overexpressed at advanced stages in several human carcinomas where it promotes
+E/N-cadherin switch ultimately leading to increased invasion.
+
+Unexpectedly, we found that FOXQ1 levels are significantly lower in metastatic
+melanoma specimens compared to primary melanomas. Accordingly, we identified
+that in melanoma cells, FOXQ1 suppresses the same processes it activates in
+carcinoma cells: expression of N-cadherin gene (CDH2), EMT, invasion, and
+metastasis.
+
+Mechanistically, we demonstrated that like LEF1/TCF4, FOXQ1 interacts with
+nuclear b-catenin and TLE (groucho) proteins and that the b-catenin/TLE ratio,
+which is higher in carcinoma than melanoma cells, determines the effect of
+FOXQ1 on N-cadherin gene transcription (see diagram). Accordingly, other
+FOXQ1-dependent phenotypes can be manipulated by altering nuclear ß-catenin or
+TLE proteins levels. (Bagati et al, Cell Reports, 2017)
+
+Intriguingly, FOXQ1 is also involved in regulation of differentiation in
+normal melanocytes (Bagati et al, Cell Death and Differentiation, 2018) and
+keratinocytes via yet unknown mechanisms. Currently, we are establishing such
+mechanisms and in parallel pursuing the role of Foxq1 in skin biogenesis in
+mouse models.
+
+## Appointments and Affiliations
+
+  * Professor of Pathology
+  * Professor in the Department of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Office Location:** 210 Research Drive, GSRB Ii, Rm. 4020, Durham, NC
+    27710
+  * **Office Phone:** (919) 668-8283
+  * **Email Address:** mikhail.nikiforov@duke.edu
+
+## Education
+
+  * Ph.D. University of Illinois, 1997
+  * M.S. Lomonosov Moscow State University (Russia), 1992
+  * B.S. Lomonosov Moscow State University (Russia), 1992
+
+## Research Interests
+
+The main objectives of Professor Nikiforov’s research program includes
+identification and therapeutic exploitation of mechanisms underlying the
+deregulated transcription programs and metabolism in melanoma and multiple
+myeloma, two malignancies with no curative treatment. Nikiforov pursues these
+objectives by integrating in vitro and in vivo approaches of biomedical
+engineering, functional genomics, transcriptomics, proteomics and
+metabolomics.
+
+## Courses Taught
+
+  * BME 570L: Introduction to Biomolecular Engineering (GE, BB, MC)
+  * BME 590: Special Topics in Biomedical Engineering
+  * PATHOL 793: Research Independent Study
+
+## Representative Publications
+
+  * Wolff, DW; Bianchi-Smiraglia, A; Nikiforov, MA, _Compartmentalization and
+    regulation of GTP in control of cellular phenotypes._ , Trends Mol Med,
+    vol 28 no. 9 (2022), pp. 758-769 [10.1016/j.molmed.2022.05.012] [abs].
+  * Wolff, DW; Deng, Z; Bianchi-Smiraglia, A; Foley, CE; Han, Z; Wang, X;
+    Shen, S; Rosenberg, MM; Moparthy, S; Yun, DH; Chen, J; Baker, BK; Roll,
+    MV; Magiera, AJ; Li, J; Hurley, E; Feltri, ML; Cox, AO; Lee, J; Furdui,
+    CM; Liu, L; Bshara, W; LaConte, LEW; Kandel, ES; Pasquale, EB; Qu, J;
+    Hedstrom, L; Nikiforov, MA, _Phosphorylation of guanosine monophosphate
+    reductase triggers a GTP-dependent switch from pro- to anti-oncogenic
+    function of EPHA4._ , Cell Chem Biol, vol 29 no. 6 (2022), pp. 970-984.e6
+    [10.1016/j.chembiol.2022.01.007] [abs].
+  * Bianchi-Smiraglia, A; Wolff, DW; Marston, DJ; Deng, Z; Han, Z; Moparthy,
+    S; Wombacher, RM; Mussell, AL; Shen, S; Chen, J; Yun, D-H; O'Brien Cox, A;
+    Furdui, CM; Hurley, E; Feltri, ML; Qu, J; Hollis, T; Kengne, JBN; Fongang,
+    B; Sousa, RJ; Kandel, ME; Kandel, ES; Hahn, KM; Nikiforov, MA, _Regulation
+    of local GTP availability controls RAC1 activity and cell invasion._ ,
+    Nature Communications, vol 12 no. 1 (2021) [10.1038/s41467-021-26324-6]
+    [abs].
+  * Lipchick, BC; Utley, A; Han, Z; Moparthy, S; Yun, DH; Bianchi-Smiraglia,
+    A; Wolff, DW; Fink, E; Liu, L; Furdui, CM; Lee, J; Lee, KP; Nikiforov, MA,
+    _The fatty acid elongase ELOVL6 regulates bortezomib resistance in
+    multiple myeloma_ , Blood Advances, vol 5 no. 7 (2021), pp. 1933-1946
+    [10.1182/bloodadvances.2020002578] [abs].
+  * Fink, EE; Moparthy, S; Bagati, A; Bianchi-Smiraglia, A; Lipchick, BC;
+    Wolff, DW; Roll, MV; Wang, J; Liu, S; Bakin, AV; Kandel, ES; Lee, A-H;
+    Nikiforov, MA, _XBP1-KLF9 Axis Acts as a Molecular Rheostat to Control the
+    Transition from Adaptive to Cytotoxic Unfolded Protein Response_ , Cell
+    Reports, vol 25 no. 1 (2018), pp. 212-223.e4
+    [10.1016/j.celrep.2018.09.013] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

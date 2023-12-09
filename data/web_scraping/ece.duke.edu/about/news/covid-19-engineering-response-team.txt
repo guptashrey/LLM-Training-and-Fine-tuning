@@ -1,0 +1,477 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# COVID-19 Engineering Response Team Assembles from Every Corner of Duke
+
+April 30, 2020 | By Ken Kingery
+
+Through strong networks connecting students, faculty and staff across Duke
+University and Duke Health, a dedicated team has mobilized to engineer
+solutions to problems created by the pandemic
+
+At the beginning of 2020, Dr. Alejandro Pino’s attention was focused on
+designing and patenting feeding tubes that can unclog themselves while also
+pursuing a pulmonology and critical care fellowship in the Duke University
+School of Medicine.
+
+Just a few months later, a novel coronavirus turned the world upside down, and
+feeding tubes were no longer Pino’s most pressing project.
+
+“All of our fellows who were working on research have been pulled in to help
+with the crisis,” said Pino, who now spends much more time on rotation,
+working on the front lines to care for COVID-19 patients at Duke University
+Hospital. “And none of us can see our family or our friends. I feel guilty
+just walking my dog because I’m working with COVID-19 patients on a daily
+basis and don’t want to endanger other people. It’s a lot to handle.”
+
+But Pino hasn’t given up his inventive work entirely—instead, thanks to an
+innovative campus-wide partnership, he has pivoted to the hopeful work of
+designing solutions to help protect patients, himself and his fellow health
+workers.
+
+> “All of our fellows who were working on research have been pulled in to help
+> with the crisis. And none of us can see our family or our friends. I feel
+> guilty just walking my dog because I’m working with COVID-19 patients on a
+> daily basis and don’t want to endanger other people. It’s a lot to handle.”
+>
+> —Dr. Alejandro Pino
+
+Pino was working on his feeding tube innovation as a fellow in the Duke Design
+Health Program, a university-wide initiative led by Duke Engineering that
+brings interdisciplinary teams of students into the clinical environment to
+actively identify, validate and solve previously unmet challenges. And while
+his focus has changed, Pino’s collaboration with engineering colleagues has
+grown even stronger over the past month, as he and other Design Health fellows
+serve as a direct link between engineers trying to rapidly solve emerging
+needs and the clinicians they’re trying to help.
+
+It’s on the strong foundation already laid by cross-campus collaborations like
+Duke Design Health, Duke MEDx and Duke Engineering Entrepreneurship (EngEn)
+that faculty, staff and students have rapidly built Duke’s new COVID-19
+Engineering Response Team.
+
+Within four weeks of formation, the team has coalesced a fully operational
+pipeline that runs the engineering gauntlet from problem discovery, to rapid
+prototyping complete with field testing and documentation, to delivering final
+solutions to caregivers. They’ve already completed two products—3D-printed
+face shields that are being mass produced, and a 3D-printed part that helps
+turn an existing orthopedic surgical gown/helmet into a powered filtered-air
+positive pressure suit offering the highest level of protection caregivers can
+don.
+
+And with more than seven teams working on a wide range of challenges, they’re
+only getting started.
+
+## Spinning Threads into a Web
+
+While the COVID-19 Engineering Response Team coalesced quickly, it began
+through an assortment of calls for help. Chip Bobbert, the senior engineer and
+fabrication architect at Duke’s Innovation Co-Lab, had been approached about
+using the Co-Lab’s many 3D printers to create face shields. Ken Gall,
+associate dean for entrepreneurship at Duke Engineering, had been approached
+with the idea of turning a surgical gown into a powered air purifying
+respirator (PAPR). Eric Richardson, associate professor of biomedical
+engineering and director of Duke Design Health, had been contacted by a
+Fortune 50 corporation about figuring out how to produce low-cost ventilators.
+
+At another school, these and other budding projects might have continued down
+separate tracks. But because so many relationships and programs tie Duke
+Engineering together with the Duke School of Medicine and School of Nursing,
+the opportunity to pool resources did not go unnoticed.
+
+“I was on a phone call with Ravi and Ken the weekend after everything started
+closing [for social distancing], and we realized we needed to formalize all of
+these projects into a cohesive effort,” said Richardson, speaking of Ravi
+Bellamkonda, the Vinik Dean of the Pratt School of Engineering. “By the end of
+the week we had coordinated teams to focus on specific projects.”
+
+> “We’re in a unique position where all we have to do is walk across the road
+> and ask, ‘Is this real? What will really help? And how good does it have to
+> be?’ And we got engagement from the hospital back in spades, which is what
+> really gave us traction rather than having us spinning our wheels.”
+>
+> —Paul Fearis
+
+This step proved crucial. Rather than blindly barreling down a tunnel toward
+finished products, the COVID-19 Engineering Response Team led by Richardson,
+Gall and Paul Fearis took a week to step back, reach out through their
+existing networks in the health care system, and identified just what the
+priority needs really were.
+
+“While the world was running around with its head in its hands dealing with
+tons of requests for PPE, ventilators and the like, we made the decision to
+take a breath, slow down and quickly talk to the hospital,” said Fearis, a
+senior lecturing fellow in biomedical engineering. “We’re in a unique position
+where all we have to do is walk across the road and ask, ‘Is this real? What
+will really help? And how good does it have to be?’ And we got engagement from
+the hospital back in spades, which is what really gave us traction rather than
+having us spinning our wheels.”
+
+“The fact that our response has been so well organized is entirely enabled by
+having the engineering and medical schools so proximal to each other, both
+metaphorically and physically,” said Donna Crenshaw, executive director of
+Duke MEDx, a joint initiative between Duke’s engineering and medical schools
+to foster interdisciplinary collaboration. “There were already so many
+channels of communication existing between us. Without those, it would have
+taken months to organize what we’ve put together in weeks.”
+
+Duke Team Designs Medical Shields for Health Care Workers from Duke University
+on Vimeo.
+
+## Ramping Up
+
+After needs were assessed and working groups formed, the COVID-19 Engineering
+Response Team got to work. Less than three weeks after the team formed,
+completed projects were already heading out the door with new ones coming down
+the pike.
+
+The first project to be realized was adapting existing plans for a 3D-printed
+face shield so that it could be mass-produced by a local company. After
+testing about 100 designs, a team led by Bobbert landed on its prototype of a
+3D-printed headband that forms a face shield when attached to a laser-cut
+polycarbonate lens, which is a lightweight piece of plastic with high-impact
+resistance.
+
+Along the way, with support from Ryan Shaw, associate professor and the
+Elizabeth C. Clipp Term Chair of Nursing, more than two dozen Duke nurses,
+graduate nursing students and medical professionals tested the 3D-printed face
+shields in a simulation lab and determined they met safety standards and could
+be sanitized for re-use. Similar efforts for testing and validation of other
+devices is also ongoing.
+
+“What really struck a lot of people when our face shield came out was that we
+had done testing on it,” said Gall. “Lots of places already had pictures of
+face shields they’d produced online. It took slightly longer for us to get
+ours out, but the testing was differentiating compared to what others had
+done. And the testing matters. It made a big difference.”
+
+The second project to see the light of day was a 3D-printed device that can
+mount filters onto a surgical helmet to turn it into a Powered Air Purifying
+Respirator or PAPR. PAPRs—which include reusable respirator hoods that
+completely cover health care workers’ faces and a battery-powered blower that
+pulls air through filters or cartridges to keep the suit ventilated,
+atmosphere breathable and visor clear—provide one of the highest levels of
+protection for health care workers. These are the preferred PPE for health
+care workers who are performing more invasive procedures like intubating
+patients. To date, more than 97 groups have accessed the license and 34 from
+the United States, Canada, Australia, Norway and United Kingdom have
+downloaded the design and instructions, which can be used without cost for a
+year.
+
+The team developed the 3D-printed part for the PAPR under the leadership and
+guidance of Duke orthopedic spine surgeon Melissa Erickson, who originally
+approached them with the need and possible solution.
+
+“We have these helmets that we wear during arthroplasty surgery and we started
+to wonder, ‘Can these be repurposed?’” said Erickson. “If there are national
+shortages on PPE and PAPRs, maybe we can use things that we have plenty of in
+the hospital and do modifications to be able to increase the amount of
+protective personal equipment we have for health care workers.”
+
+## All Hands on Deck
+
+Taking all the help they can get, the COVID-19 Engineering Response Team is
+also relying on the talents of engineering undergraduate students.
+
+Juniors in the Duke Biomedical Engineering Fellows program, which offers
+practical design experience through courses and internships, are playing an
+integral part in several projects. For example, Design Fellow Spencer
+Moavenzadeh used CAD stress/strain analyses to simulate the face shield frames
+and propose ways to stiffen them.
+
+“I also have a team of juniors working on a low-resource ventilator design,”
+said program leader Dr. Mark Palmeri, associate professor of the practice of
+biomedical engineering. “There are many designs out there for open-source,
+AMBU-bag based ventilators, but many have missed the mark and not gained
+traction. This group is looking to learn from those efforts and propose
+something that is actually useful.”
+
+Meanwhile, seniors Max Sondland and Dimitrios Bailas, who are completing their
+mechanical engineering capstone design course, have been tapped by their
+teacher to help create more safe spaces to treat patients. Besides their
+normal course load, the pair have been working with a team led by surgery
+resident Konstantinos Economopoulos prototyping and testing a negative-
+pressure patient isolation tent that expands treatment locations while
+reducing the risk to clinicians. In partnership with the School of Nursing’s
+Health Innovation Lab, the team is able to prototype their device across the
+street from Duke University Hospital. This provides easy access for working
+clinicians to give feedback.
+
+> “It's fun working with extremely talented people and having an urgent and
+> meaningful goal. I think we're all exhausted, but we feel like we're making
+> an impact."
+>
+> —Eric Richardson
+
+“They have been extremely effective in developing the ventilation system,
+taking it from an idea to testing in less than a week,” said Neal Simmons, the
+Gendell Family Associate Professor of the Practice of Mechanical Engineering
+and Materials Science. “We could not have developed this idea as quickly or
+effectively without their intellect, skill and hard work.”
+
+Yet other teams are working on 3D-printed “splitters” that make a single
+ventilator accessible to more than one patient and an intubation aerosol
+shield. Keeping up with all of these projects is Erika Segear, associate
+director of Duke’s Office of Regulatory Affairs and Quality, who is providing
+regulatory expertise and creating the documentation outlining specifications
+and testing information that will be provided with each device and shared with
+other teams nationwide.
+
+And the ideas and devices keep coming.
+
+“It's fun working with extremely talented people and having an urgent and
+meaningful goal. I think we're all exhausted, but we feel like we're making an
+impact,” said Richardson.
+
+## Short and Long-Term Investments
+
+According to Gall, one of the key pieces that put this whole puzzle together
+is funding, thanks in large part to Allan Kirk, chair of the Department of
+Surgery in the Duke University School of Medicine.
+
+“Allan and I are neighbors, so we see each other often,” said Gall. “We were
+talking from a safe distance and he told me about the urgent needs the
+hospital was facing. When we started building products and purchasing
+materials, I approached Allan and he stepped in immediately to help. Surgery’s
+generous financial support enabled us to turbo-charge the projects.” The
+Health System’s Perioperative enterprise also leaned in with immediate
+support.
+
+Without the worry of funding looming over their heads, the COVID Engineering
+Response Team was able to, for example, purchase a high-temperature pizza oven
+to heat and bend the face shields to fit their 3D-printed headbands. Everyone
+in the group agrees that the support of every dean and department head in
+letting them focus their time on these projects has been crucial. They also
+agree that the original investments enabling this fast-moving, large-scale
+effort go back years.
+
+MEDx was forged in 2015 by forward-thinking leaders in the Schools of Medicine
+and Pratt School of Engineering with support from Provost Sally Kornbluth. The
+initiative fuels collaboration and team science by providing seed funding for
+new joint research projects, educational opportunities, and events to spark
+new collaborations between people from both schools.
+
+> “Our strategy of recruiting highly talented design engineers who have a deep
+> interest in teaching, and then allowing them to ‘self-organize’ to do great
+> things built the underlying intellectual capacity at Duke that has now been
+> organized as Duke EngEn and the COVID-19 Engineering Response Team. We had
+> no way of anticipating COVID-19, but here we are, with their being front and
+> center in Duke’s COVID response in support of our Duke Health colleagues.
+> It’s a joy to see this ‘dream team’ in action, not just because they are
+> smart, but because they care deeply about making the world better.”
+>
+> —Ravi Bellamkonda
+
+The Duke Innovation Co-Lab, a community makerspace with technology resources,
+programming and facilities to jumpstart successful ideas, was launched in 2016
+with an entire wall of more than 80 3D printers. Duke has also been turning
+its attention toward design, recruiting faculty and offering courses in the
+freshman year through to a dedicated medical device design masters certificate
+in biomedical engineering. Even more recently, Duke Engineering launched Duke
+Engineering Entrepreneurship (EngEn for short), which features an experienced
+team of entrepreneurs working as instructors, mentors and leaders in an array
+of educational opportunities, programs and resources for faculty, students and
+staff.
+
+“The seeds for all of our efforts over the past few weeks were laid well
+before this crisis, and have been nurtured and grown as new leadership has
+also realized their value,” said Gall, who co-leads EngEn and is the associate
+director of MEDx. “These programs are directly responsible for much of the
+COVID-19 Engineering Response Team even being here at Duke right now.”
+
+“Our strategy of recruiting highly talented design engineers who have a deep
+interest in teaching, and then allowing them to ‘self-organize’ to do great
+things built the underlying intellectual capacity at Duke that has now been
+organized as Duke EngEn and the COVID-19 Engineering Response Team,” said
+Bellamkonda. “We had no way of anticipating COVID-19, but here we are, with
+their being front and center in Duke’s COVID response in support of our Duke
+Health colleagues. It’s a joy to see this ‘dream team’ in action, not just
+because they are smart, but because they care deeply about making the world
+better.”
+
+## Astonishing Human Beings
+
+Still, it is perhaps through current and former Duke Design Health Fellows
+that nimbleness of the COVID-19 Engineering Response Team can truly be
+understood.
+
+The most recent class of fellows—most of them medical residents, nursing PhD
+students, and engineering graduate students—started back in August 2019 at the
+Design Health boot camp, where they were trained to do observational research
+in Duke Health clinical settings to identify unmet needs. Over the course of
+that summer and the subsequent semesters, the fellows learned design and
+business processes and championed teams of students from across the university
+to address the needs they had identified.
+
+Then COVID-19 hit. The call from the hospital went out, and fellows like Pino,
+Economopoulos, and Muath Bishawi, a resident in cardiac surgery pursuing a PhD
+in biomedical engineering and advisor to the Design Health program, switched
+back into being clinicians. Fellow Jackie Vaughn, an experienced nurse in the
+midst of finalizing her PhD, began knocking down barriers and opening doors
+all over the hospital for Bishawi, Konstantinos, Alejandro and the rest of the
+task force team.
+
+> “We deal with many ‘students’, but it really hits home when one realizes
+> that the student you were joking with or critiquing last evening literally
+> put their life in harm’s way this morning; because that’s what they do. I
+> think they respect us as ‘professors’—but nowhere near as much as we respect
+> them as human beings.”
+>
+> —Paul Fearis
+
+“Literally overnight they went from being our students to saving lives, while
+at the same time looking through the lens we had given them to identify real-
+time, real-world needs emerging in the hospital, bringing them back to the
+task force and embarking on solving them,” said Fearis. “Honestly they are
+astonishing human beings.”
+
+Having been trained to understand the true need of a patient or clinician,
+regardless of what they say, and what can be tackled by their skillset, these
+“astonishing human beings” are the COVID-19 Engineering Response Team’s eyes
+and ears on the intensive care unit’s floor.
+
+“As physicians, we learn a lot about the observation of patients and physical
+exams and how to draw conclusions from those,” said Pino. “What I’ve found
+most helpful from the Design Health Program is having learned how to observe
+from an engineering or innovator’s perspective, finding solutions for our
+patients and even questioning solutions that already exist.”
+
+With few indications about how long the pandemic might last, nobody knows when
+their lives might return to some semblance of normal. But with each problem
+identified, each innovation tested, and each problem solved, everyone involved
+with the COVID-19 Engineering Response Team feels like they’re helping the
+world get just a little bit closer.
+
+And the sooner the better. Nobody wants their friends and family to be in
+harm’s way.
+
+“We deal with many ‘students’, but it really hits home when one realizes that
+the student you were joking with or critiquing last evening literally put
+their life in harm’s way this morning; because that’s what they do,” said
+Fearis. “I think they respect us as ‘professors’—but nowhere near as much as
+we respect them as human beings.”
+
+## Related News
+
+April 27, 2020
+
+### Duke Engineers Adapt Rapid Testing Platform to See If It Can Catch
+COVID-19
+
+April 13, 2020
+
+### 3-D Printing to Give Medical Teams the Highest Level of Protection
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

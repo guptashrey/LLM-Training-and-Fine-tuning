@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Finding Free Bytes for Security
+
+October 9, 2018 | By Ken Kingery
+
+Miroslav Pajic is securing autonomous cars by double-checking data and
+embedding security protocols into its computational downtime
+
+From your watch to your refrigerator to your dog, it’s becoming increasingly
+difficult to find much of anything in the modern world that does not have some
+sort of sensor or microprocessor embedded into it. Even people, with medical
+technology like pacemakers and neural stimulators, are becoming part of the
+Internet of Things.
+
+This level of digital interconnectedness isn’t just making life easier for
+people using these futuristic devices, it’s also making life easier for
+hackers. For every new subsystem integrated into an autonomous vehicle, for
+example, there’s a new route to attack its central computing functions.
+
+Miroslav Pajic, the Nortel Networks Assistant Professor of Electrical and
+Computer Engineering at Duke University, has been working to secure such
+systems through a project jointly funded by Intel and the National Science
+Foundation (NSF). His goal is to secure the complex integrated systems that
+interact with the physical world around us in a way that does not diminish
+performance or increase costs.
+
+Pajic’s approach takes advantage of a device’s interactions with its physical
+environment to detect attacks and provide resiliency against them. Returning
+to the example of driverless cars, a digital assailant could compromise the
+GPS to take the vehicle off course. But by using additional sensors, Pajic and
+his team showed that the car will be able to recognize the false data, and act
+accordingly.
+
+Adding complexity to these efforts of securing modern vehicles with varying
+levels of autonomy, is the computational and communication limits of a car’s
+electronics. Consumers don’t want to pay the added price for extra CPUs or
+faster communication networks, nor do they want to sacrifice their car’s
+performance to allow it to execute these security-related algorithms. The
+second half of Pajic’s work, then, is to find ways to slip these processes in
+to the car’s existing moments of computational and communication downtime.
+
+“Most of the cost of a modern car is tied to its software,” said Pajic. “And
+adding significant security overheard adds too much to an already taxed
+system. Our goal is to find ways to utilize intermittently available open
+slots to piece together sufficient security protocols, in order to provide
+strong security guarantees without reducing the overall system performance.”
+
+> “These types of security protocols aren’t just relegated to the road.
+> They’re applicable to all kinds of networked devices, autonomous vehicles
+> and infrastructure. And it’s essential that we stay ahead of bad actors no
+> matter their intent or location.”
+
+Theoretically, a car’s embedded processing system could simply encrypt every
+single message sent between sensors, controllers and processors, negating the
+need for double-checking data. But this again would take up too much
+processing power. Another solution Pajic is pursuing is to encrypt only a
+certain number of messages—every fifth one, for example—and then find space in
+the existing programming to carry out the spaced-out encryptions and
+decryptions.
+
+Pajic has received national attention for both of these approaches. Besides
+earning an Early Career Award from the NSF and a Young Investigator Award from
+the ONR to pursue these topics, his initial work on embedding security control
+tasks into existing computational downtime won the Best Paper Award at the
+17th Association for Computing Machinery SIGBED International Conference on
+Embedded Software (EMSOFT) held in the fall of 2017.
+
+In the paper, Pajic and his students demonstrate that these security
+approaches can work. As a convoy of toy cars outfitted with real automotive
+industry sensors and controllers race along a treadmill in a line, the
+communications between the middle car’s proximity sensors and speed controller
+is attacked.
+
+When working normally, the system automatically keeps the cars a certain
+distance apart. When attacked, the controller believes the lead car is further
+away than it is, causing the trailing car to speed up and run into it. Unless,
+that is, Pajic’s software has been initiated, which thwarts the attack just
+enough to keep the car’s behavior in line.
+
+The research grant supporting the work culminated this summer with a
+presentation on their progress to the funding agencies. Both the NSF and Intel
+were impressed enough to extend Pajic’s funding for an additional two years,
+beating out several other projects in the initial program.
+
+“Attackers have shown the ability to cut an entire nation’s power for days and
+wreak havoc on companies and government agencies,” said Pajic, referring to
+several notable cyberattacks carried out against Ukraine in the past several
+years. “These types of security protocols aren’t just relegated to the road.
+They’re applicable to all kinds of networked devices, autonomous vehicles and
+infrastructure. And it’s essential that we stay ahead of bad actors no matter
+their intent or location.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

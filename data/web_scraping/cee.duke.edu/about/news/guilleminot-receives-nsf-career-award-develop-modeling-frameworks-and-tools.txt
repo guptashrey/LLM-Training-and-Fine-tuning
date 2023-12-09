@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Guilleminot Receives NSF CAREER Award to Develop Modeling Frameworks and
+Tools
+
+March 31, 2020
+
+Competitive five-year grant will support the creation of computational models
+and software that could help innovators disrupt various markets through
+3D-printed products
+
+Johann Guilleminot, assistant professor of civil and environmental engineering
+at Duke University, has been awarded a prestigious National Science Foundation
+Faculty Early Career Development (CAREER) Award. The award supports
+outstanding young faculty members in their efforts to build a successful
+research enterprise. For the next five years, the $570,000 grant will help
+fund Guilleminot’s efforts to create foundational simulation and modeling
+frameworks that accurately reflect the structural complexities and intrinsic
+variability created by additive manufacturing.
+
+Since the industrial revolution, manufacturing processes have entailed
+creating large sheets of a material such as steel and then cutting away
+unwanted features, much like a sculptor chiseling a statue out of granite.
+With the advent of numerous types of 3D printers that can handle materials
+from plastic to metal to biological tissue, engineers can now create much more
+intricate shapes.
+
+But these technologies are not perfect. Creating a part layer by layer
+introduces variability and complexities that traditional manufacturing
+techniques do not. This combination of intricate shapes and potential
+inconsistencies creates substantial barriers to accurately predicting and
+certifying the mechanical properties of many potential devices through the
+modeling techniques of the past.
+
+“We have long been developing a suite of tools to simulate and solve equations
+for regular shapes, corresponding to idealized geometries, but now we’re
+dealing with objects that don’t look like anything that has been produced
+before,” said Guilleminot, who also holds a secondary appointment in
+mechanical engineering and materials science. “The question now is can we
+develop new tools that can support these new manufacturing techniques to help
+make sure new and disruptive technologies can make it to the market.”
+
+One the biggest hurdles to new materials and structures created through
+additive manufacturing, Guilleminot explains, is the large variability they
+exhibit at various length scales. But with new modeling tools, engineers could
+create designs that greatly reduce uncertainties in a final product.
+
+As part of the project, Guilleminot will collaborate with Ken Gall, professor
+of mechanical engineering and materials science, biomedical engineering, and
+orthopedic surgery at Duke, who specializes in developing biomedical devices
+that take advantage of the intricacies that can be created by 3D printing. For
+example, orthopedic implants can be printed with a complex architecture that
+promotes bone formation and fusion.
+
+Gall’s lab will produce samples of the devices they’re working on while
+Guilleminot’s lab will design the tools to model their mechanical properties
+and then use the physical devices to validate their predictions.
+
+“The modeling technologies we are developing could be fully integrated into
+the design procedures for these types of implants or to perform simulations on
+tissues and organs on a patient-by-patient basis,” said Guilleminot. “Our
+research will lay the groundwork for many of these types of additive
+manufacturing applications that are expected to be disruptive in the coming
+years.”
+
+The grant also has an ambitious outreach component, which Guilleminot is
+planning to take full advantage of. This part of the project will include
+different activities at the North Carolina Museum of Natural Sciences in
+Raleigh featuring modeling software and small 3D printers, collaborations with
+the FEMMES program and the Shared Materials Instrumentation Facility (SMIF) at
+Duke, and activities offered at the Ronald McDonald House of Durham Wake.
+
+## Related News
+
+October 11, 2016
+
+### Johann Guilleminot: Accounting for Variabilities That Matter
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

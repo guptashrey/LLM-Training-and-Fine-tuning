@@ -1,0 +1,191 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Removing Blurred Lines Caused by Shaky Hands
+
+June 5, 2017 | By Ken Kingery
+
+Duke University algorithm recently integrated into Adobe After Effects makes
+blurred images caused by shaky footage a thing of the past
+
+Duke University computer engineers have designed algorithms capable of
+sharpening video blurred by a shaky camera. Newly integrated into Adobe’s
+After Effects video editing software, the solution is bringing relief to
+tripod-less videographers everywhere.
+
+“When I came to Duke, I wanted to try to find a different solution to a
+classic problem,” said Mauricio Delbracio, the former Duke postdoc who worked
+on the project with Guillermo Sapiro, the Edmund T. Pratt, Jr. School
+Professor of Electrical and Computer Engineering at Duke. “I eventually landed
+on video blur because no simple algorithm existed to tackle this very
+important problem.”
+
+Part of the reason for Delbracio’s choice was that other algorithms created to
+address blurriness did not work very well. The standard approach tried to
+figure out what caused the image degradation and then invert it.
+
+“We showed mathematically that this process is a waste of time because it
+doesn’t really help you solve the actual problem,” said Sapiro. “Thanks to
+Mauricio’s brilliance and lots of discussion, we found a new way to look at
+the problem.”
+
+Sapiro and Delbracio used the very shaking that caused the blur in the first
+place to find a shortcut for removing it. Because videos take many images in
+rapid succession, the duo decided to try to use the surrounding frames to
+sharpen the problematic image. And because a shaky hand causes random
+movements, each frame is degraded differently.
+
+The researchers wrote an algorithm that analyzes and scores the original frame
+on sharpness. It then does the same for each region of nearby frames and
+compares them to the original. By choosing the best available options and
+compiling them into one image, a new and improved “Frankenstein frame” is
+created to replace the blurred original.
+
+“Each image has something good and something bad, so we simply tried to merge
+all of the good parts,” explained Sapiro. “We discovered that once you realize
+all the frames are degraded differently, it becomes very easy to do this
+mathematically.”
+
+The simplicity of the calculations means that the corrections can be made in a
+matter of seconds, making it a perfect addition to any video-editing software.
+
+“Most algorithms need several minutes to sharpen a single frame,” said
+Delbracio, now an assistant professor at Universidad de la República in
+Uruguay. “That’s totally unacceptable for video software. You need to be under
+a second.”
+
+A prominent figure in the field for more than a decade and having licensed his
+work before, Sapiro has several contacts at various video analysis companies.
+After publishing his lab’s work in _IEEE Transactions on Computational_
+Imaging in June 2016, he reached out Adobe to see if they might be interested
+in integrating the new method into one of their video editing platforms.
+
+They were.
+
+Delbracio spent about a month working with colleagues at Adobe to make sure
+his algorithm worked in their environment. Writing a computer code for a
+scientific paper is one thing; integrating it into a platform in an intuitive
+way so that users can help shape the results is quite another.
+
+The collaboration was successful, however, and the feature was released in the
+Spring 2017 version of Adobe After Effects. The addition most notably allows
+users to take shaky footage and make it stable, all while avoiding blurred
+lines.
+
+“They already knew geometrically how to take the shake out of unstable
+footage,” said Delbracio. “But stabilizing the field introduces blur on top of
+the image, so it’s important to do both to recover usable video.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

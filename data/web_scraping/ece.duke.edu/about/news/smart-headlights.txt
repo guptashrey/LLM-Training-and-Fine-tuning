@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Making ‘Smart Headlights’ with Machine Learning
+
+October 24, 2018
+
+Duke engineers are helping to invent headlights that automatically recognize
+surrounding environments, selectively illuminate important objects and display
+information on the roadway
+
+It’s a common scene for anybody driving at night on a dark road. Zipping
+around corners and over hills, the car’s high beams are on to improve vision
+while the driver’s hand remains poised to turn them off at a moment’s notice,
+lest they blind oncoming traffic and cause an accident.
+
+Xin Li believes there is a better solution, and he’s working with China’s
+largest headlight manufacturer to make it a reality.
+
+“Modern headlights don’t have just one or two light bulbs, they can have up to
+a million,” said Li, professor of electrical and computer engineering at Duke
+University and Duke Kunshan University. “I’m working with industry partners to
+create a ‘smart headlight’ that can control each pixel individually and
+automatically light up different areas in front of the car after recognizing
+the surrounding environment.”
+
+For example, the headlight could reduce the amount of light pointed at an
+oncoming car while simultaneously increasing the illumination of an upcoming
+road sign. Or it could detect nearby pedestrians and alert the driver by
+highlighting their body while avoiding shining light directly into their eyes.
+
+The challenge to making such a headlight isn’t necessarily creating the
+different patterns of light—it’s teaching the car how to automatically
+recognize the surrounding environment and make the patterns on its own. It’s a
+problem that HASCO Vision Technology—the largest automotive lamp manufacturer
+in China—is turning to Li to help them solve with machine learning.
+
+Many car companies are using cameras and machine learning to help control
+their own versions of self-driving cars, so Li is far from alone in this
+regard. Machine learning algorithms, however, need vast amounts of data to
+learn from, and many of the datasets and algorithms already created for this
+purpose have focused on daytime driving.
+
+“Our application doesn’t care about the daytime though,” said Li, who splits
+his time between Duke’s campuses in North Carolina and Kunshan, China. “Using
+this approach for smart headlights is actually more difficult because the
+lighting conditions are much worse. It’s a unique challenge that has not been
+well studied in the past.”
+
+While his industry partners are working to collect more nighttime footage and
+painstakingly annotate important objects like signs, pedestrians and other
+cars, Li is optimizing the machine learning algorithm. Because decisions must
+be made in real-time, the researchers must choose the right hardware and
+design the algorithm to fit its architecture.
+
+Helping Li with this task is DKU research scientist Xin Feng. Together, Li and
+Feng already have a working demo that, while impressive, still needs to
+improve before it hits the roads.
+
+“Detection accuracy is very important—you can’t miss anything or anyone,” said
+Li. “And while that’s a very important and challenging problem, it’s only one
+metric. The other is real-time response. If the algorithm takes too long to
+respond, then it isn’t useful. Technically, those are the two most challenging
+issues.”
+
+But they’re issues Li expects to resolve in the near future, along with adding
+a few more bells and whistles. Another aspect of the project uses the
+headlights to project important information such as weather and road
+conditions, traffic signs, navigation directions, and even driving lanes onto
+the roadway within the headlight beams themselves.
+
+Other advances could include making use of alternative sensors that self-
+driving cars may eventually possess such as radar and lidar. But for now, the
+project is using only forward-facing cameras to keep costs down, as in the
+next few years consumers are much more likely to see smart headlights on the
+roads in large numbers than self-driving vehicles with added detection
+capabilities.
+
+“I think we can get a first-generation product on the market in the next two
+years,” said Li. “Once we have those on the road, we can get even more
+feedback and data to further improve accuracy and response time to make future
+iterations even better.”
+
+More about Duke Kunshan University
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

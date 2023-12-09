@@ -1,0 +1,291 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Intersection of Electrical Engineering and Materials Design
+
+February 18, 2021
+
+In this Q&A, professor Adrienne Stiff-Roberts explains how electrical
+engineering and materials research intersect, and talks about the
+multidisciplinary approach that makes Duke special
+
+Adrienne Stiff-Roberts is the Jeffrey N. Vinik Professor of Electrical and
+Computer Engineering and the Director of Graduate Studies for the University
+Program in Materials Science and Engineering at Duke University.
+
+## 1\. Can you tell us a bit about your research interests, and what goes on
+in your lab at Duke?
+
+My research interests are in thin film deposition of hybrid materials for
+optoelectronic devices, meaning I’m interested in making devices based on the
+interaction of light and matter.
+
+**optoelectronics:** (äp-tō-i-lek-ˈträ-niks) a branch of electronics that
+deals with electronic devices for emitting, modulating, transmitting, and
+sensing light
+
+There are some everyday applications that you might be familiar with—things
+like light-emitting diodes (LEDs) that are used for lighting, and in consumer
+products like televisions. Solar cells are used to convert sunlight into
+electricity. Photodetectors that sense light and lasers are other important
+applications. The materials that I’m interested in using to make these devices
+are hybrid materials, meaning they’re made of organic and inorganic materials.
+
+Inorganic materials are things like semiconductors, that are very good at
+conducting charge and offer a high level of control. Organic materials are
+things like plastics, which have properties like flexibility and transparency.
+Combining the two is interesting because of the properties you then get in the
+final device. But it’s very challenging, because the two are inherently
+different.
+
+Sometimes people wonder why you would want to put plastic in something that is
+used to make these devices, because plastics are typically thought of as
+insulators—but there’s a very special class of organic materials that have a
+configuration of carbon bonds that allow them to behave as semiconductors.
+
+So, how do you make a thin film of this hybrid material so you can turn it
+into one of these devices?  That’s the work we do in my group—we develop a
+novel type of thin-film deposition technique that enables control over these
+hybrid materials. I’m interested in using my deposition technique,  RIR-MAPLE,
+to deposit such hybrid materials. One specific example is the class of
+materials known as hybrid perovskites, especially those with a large organic
+component.
+
+**RIR-MAPLE:** Resonant Infrared Matrix-Assisted Pulsed Laser Evaporation,
+developed by Duke professor Adrienne Stiff-Roberts over the past decade.
+
+## 2\. Why is your research important? How will it advance the field?
+
+In general, when we talk about hybrid devices that are based on the
+interaction of light and matter, one reason they’re important is because of
+the types of future systems they could enable. Think about your smartphone or
+your tablet—it’s full of these optoelectronic devices. You have a display
+that’s emitting an image, that’s based on some type of optoelectronic device.
+These are based on traditional semiconductor materials. If you can make the
+device hybrid, though, there’s the possibility that you could have devices
+that are flexible, or transparent, or more transportable, or deployed in our
+everyday lives in fundamentally different ways. They might be integrated into
+clothing and other fabrics or building materials. They could open up
+fundamentally different types of systems.
+
+One material I’m working with right now, that I’m very excited about, is
+hybrid perovskites. Hybrid perovskites are cool because they have a
+crystalline structure--an inorganic crystalline framework that fits organic
+molecules inside of it. That’s important because when we know exactly where
+all the atoms are that make up a material, we can make predictions about how
+the material will behave and we can better describe its behavior—which means
+we can design and fabricate better devices because we understand the materials
+so well.
+
+> "When we know exactly where all the atoms are that make up a material, we
+> can make predictions about how the material will behave and we can better
+> describe its behavior—which means we can design and fabricate better
+> devices."
+>
+> Adrienne Stiff-roberts, Jeffrey N. Vinik Professor of Electrical and
+> Computer Engineering
+
+Hybrid perovskites are exciting because of their potential to improve the
+efficiency of solar cells. To give you a frame of reference—silicon solar
+cells were first demonstrated in 1954, and from that time to today, these
+single devices reach around 25 percent efficiency, more or less. We’re losing
+75 percent of that energy from the sun. These hybrid perovskite solar cells
+were first demonstrated around 2009, and they’re already up to that same 25
+percent efficiency. When you think about the development of that technology,
+it’s extremely exciting that these materials could give us more efficient
+conversion of solar energy to electricity—that would obviously have a big
+impact on reducing carbon emissions.
+
+## 3\. What makes Duke strong in the area of materials?
+
+Its strength really is that it’s multidisciplinary. You can find materials
+research in ECE, in BME, in chemistry, physics—materials touch a lot. After
+all, whatever you want to make, you have to make it out of something! And in
+order to have that product work well, you first have to understand the
+materials.
+
+**multidisciplinary:** (məltēˈdisəpləˌnerē) combining or involving several
+academic disciplines or professional specializations in an approach to a topic
+or problem.
+
+As you can imagine, the organic materials that I’ve been talking about are
+something that chemists often study, and the inorganic materials, especially
+semiconductors, are something that electrical engineers like to study. Having
+people interested in different aspects of these materials is inherently
+multidisciplinary, and the problems we face today, more and more often, demand
+that we bring these different areas together to solve them.
+
+## 4\. Can you give me an example of how this kind of collaboration plays out
+in your own work?
+
+I’m working in a center called CHOISE—the Center for Hybrid Organic-Inorganic
+Semiconductors for Energy. This is a DoE Energy Frontier Research Center led
+by the National Renewable Energy Lab (NREL). I belong to that project along
+with two other engineers from Duke—David Mitzi and Volker Blum—and others from
+the University of Utah, UNC Chapel Hill, and other organizations. We’re
+looking at hybrid materials like perovskites, trying to understand those
+materials as their own semiconductor technology.
+
+When we talk about semiconductor technology, the one we’re familiar with is
+silicon. But what if you had a semiconductor technology that was hybrid
+organic-inorganic? What are all the different devices we could make from it,
+to control electrons, photons, or spin?
+
+That’s what the center is about. And it’s a huge, multifaceted problem: how do
+you make the materials? How do you characterize the materials to understand
+what they do? How do you model the materials so you can make predictions? What
+kinds of device demonstrations can you do to show that they are meaningful?
+All of that is very broad and spans chemistry, physics, electrical engineering
+and materials science. My part is answering the question, “How do we make thin
+films of these materials and what special properties does a particular
+technique give to the materials as a result?”
+
+## 5\. For students who share your interest in materials and want to learn and
+study more, when would one apply to ECE versus the University Program in
+Materials Science?
+
+It’s really about how a student views themselves, and how they want to present
+themselves. When you’re thinking about graduate education, particularly at the
+master’s level, there are a few things I think you should think about. One is,
+what is your own background and what is the goal for this degree? Do you want
+to do a deep dive into material that you learned as an undergraduate? Do you
+want to change direction or change your field to broaden your perspective? Or
+do you want to be able to precisely tailor your curriculum? Each of those, I
+think, has a different path.
+
+If you’re interested in materials, ECE is a good fit for master’s education,
+particularly if you’re especially interested in electronic and photonic
+materials. Or, if you want to supplement your studies of materials with things
+that are relevant to ECE because of their applications. Maybe you want to
+learn more about computer engineering or semiconductor devices, or
+circuits—photonic materials directly relevant to communication systems or
+computer systems. Then, ECE makes a lot of sense. And at Duke, the ECE
+master’s degree is flexible so you can augment ECE training with electives in
+other departments that are materials-related.
+
+As far as the University Program in Materials Science, for which I am the
+director of graduate studies, it makes a lot of sense to take that route if
+you want a strong foundation in materials science and engineering—maybe
+because you’re coming from a different field. And there, you have the ability
+to do research with faculty in the eight participating departments. There’s a
+common curriculum, but you can diversify in terms of the research you do.
+
+## Related News
+
+January 03, 2018
+
+### Laser Evaporation Technology to Create New Solar Materials
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

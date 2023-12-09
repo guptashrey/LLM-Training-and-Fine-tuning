@@ -1,0 +1,233 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cell-Filled Pouch Creates Temporary “Chimeras” to Treat Disease
+
+October 11, 2021 | By Ken Kingery
+
+Device protects human liver cells producing critical biomolecules for six
+months in mice
+
+Biomedical engineers at Duke University have devised a pouch designed to
+create temporary chimeras – mixed species -- to treat diseases. In a proof-of-
+concept study, the device protected transplanted human liver cells from mice’s
+immune systems for six months while they produced crucial biomolecules.
+
+The demonstration offers a potential path toward treating human diseases such
+as hemophilia and type 1 diabetes with immunologically incompatible cells —
+from either humans or animals — without needing to suppress the patient’s
+immune system.
+
+The results appeared online October 7 in the journal Advanced Functional
+Materials.
+
+“There’s a growing body of work investigating the potential of transplanting
+cells to treat a litany of human diseases,” said Shyni Varghese, professor of
+biomedical engineering at Duke University. “But there will always be a
+mismatch between the number of cells needed and what is available, so we
+decided to push the boundaries a bit to see if we can do cross-species
+implantation.”
+
+> “Showing that this device can support cross-species cells makes it much more
+> likely that it will work in any same-species scenario. But there’s always
+> going to be a shortage of human cells available for these kinds of
+> therapies, so one could envision, for example, using pig cells to treat
+> human diabetes as well.”
+>
+> shyni varghese
+
+The idea behind cell transplantation therapy is to transplant an “island” of
+healthy cells that can provide functions of the compromised organ. The
+transplanted cells can act as a sort of drug store to deliver key
+biomolecules, such as insulin to treat type 1 diabetes or factor VII or factor
+IX to treat bleeding disorders. Such cell transplantation can also bridge the
+gap until an organ transplant is possible.
+
+As with any biological transplant, however, the patient’s immune system poses
+a threat to the foreign cells. In organ transplantations, close biological
+matches between donors and recipients combined with drugs to suppress the
+patient’s immune system can overcome the body’s defenses. But when considering
+cell transplantation, scientists are researching other ways of protecting
+them.
+
+Varghese and her lab group are pursuing the idea of using a biomedical device
+to create a barrier between the cells and the host’s immune system that is
+porous enough to allow the cells within the device to take in nutrients and
+oxygen and to send out therapeutic biomolecules. However, it is a delicate
+balancing act that can easily collapse.
+
+“Most of the time when you try to hide the cells from the immune system, they
+don’t get enough food or oxygen and just die,” said Varghese, who also holds
+appointments in mechanical engineering and materials science and orthopedics.
+“Getting a device’s wall just right in terms of thickness, permeability and
+interactions with the host tissue is an engineering problem, and it’s one that
+we wanted to see if we could solve.”
+
+In the study, Varghese and a research team of graduate students and
+postdoctoral researchers engineered their device out of chitosan — a sugar
+derived from the exoskeleton of shellfish. Chitosan is a biocompatible
+material that has been used extensively in biomedical applications. It’s also
+sticky, which allows the researchers to form two layers and stick them
+together to form a pouch. It can be easily molded into different shapes with
+walls of various thickness.
+
+But chitosan is not enough to do the job on its own. One of the challenges
+similar devices have been unable to overcome is the barrage of sticky proteins
+that the immune system throws at these types of foreign objects. Over time,
+these cells form a fibrous tissue that envelops the device, thwarting the
+transmission of nutrients and therapeutic biomolecules.
+
+To get around this defense, the Varghese lab added another layer to the
+outside of the device consisting of flexible bristles made out of
+dodecanedioic acid (DDA) molecules. Commonly used in applications such as
+corrosion inhibitors, surfactants and engineering plastics like nylon, these
+DDA “brushes” form a protective layer around the pouch, protecting it from
+fibrous tissue buildup.
+
+“This creates a buffer zone between the pouch and the body that’s still thin
+enough for the molecules we need to get in and out,” Varghese said.
+
+The researchers used this approach to create a cell-protecting pouch about
+half the size of a packet of sweetener commonly found at the local coffee shop
+that is capable of holding millions of cells. They filled the pouches with
+human liver cells and implanted them in mice with fully functional immune
+systems.
+
+By tracking the amount of human albumin — a protein secreted by liver cells —
+in the mice’s blood, the researchers found that the pouches held up for at
+least six months. They believe the pouches might have lasted for more time,
+but the amount of albumin was declining enough at six months that they did not
+want to risk the study.
+
+Moving forward, Varghese wants to test the device in larger animals to see how
+well it fares. She also plans to optimize the device to improve it further and
+test to see if it could be used to treat type 1 diabetes.
+
+“Showing that this device can support cross-species cells makes it much more
+likely that it will work in any same-species scenario,” Varghese said. “But
+there’s always going to be a shortage of human cells available for these kinds
+of therapies, so one could envision, for example, using pig cells to treat
+human diabetes as well.”
+
+This research was supported by the National Institute of Arthritis and
+Musculoskeletal and Skin Diseases of the National Institutes of Health (R01
+AR071552).
+
+CITATION: “Molecularly Tailored Interface for Long-Term Xenogeneic Cell
+Transplantation,” Sajeesh Kumar Madhurakkat Perikamana, Nailah Seale, Jiaul
+Hoque, Ji Hyun Ryu, Vardhman Kumar, Yuru Vernon Shih, Shyni Varghese. Advanced
+Functional Materials, 07 October 2021. DOI: 10.1002/adfm.202108221
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+#  Aeroelasticity at Duke: Why Fear Flutter?
+
+August 19, 2013
+
+Pratt aeroelasticity studies range from “heavenly” to “hellish”
+
+_Originally published in in "Leading Research — Duke Engineering 2012"_
+
+The great aerospace engineer, Theodore Von Karman, has been quoted as saying
+that those who do not understand flutter fear it, and those who do understand
+it know why it should be feared. From the earliest days of flight to the
+present, the possibility of dangerous and destructive oscillations has been a
+source of great concern to those who build and fly aircraft and spacecraft.
+
+In outer space, a gossamer solar sail as big as a football field speeds along,
+propelled only by the gentle pressure of sunlight. On earth, a jet engine revs
+up for takeoff, its turbine blades enduring forces 50,000 times gravity, its
+interior reaching thousand-degree temperatures and blasted by corrosive
+flaming fuel.
+
+Both these machines—the heavenly solar sail and the hellish turbine—present
+complex research challenges in “aeroelasticity” being tackled by three Pratt
+school experts. Aerospace engineers Earl Dowell, Kenneth Hall, and Robert
+Kielb have spent decades developing methods to analyze aero- elastic forces.
+Engine designers and aerospace engineers are using their insights to design
+machines as disparate as solar sails and the turbines that power just about
+all electric generating plants, airplanes, and windmills.
+
+The solar sail being designed by NASA is among the most exotic of these
+devices. Such solar sails are attractive for spacecraft propulsion because
+they carry no conventional fuel, using only the pressure of sunlight to propel
+them. In their work, Dowell and graduate student Chad Gibbs, along with
+colleagues at NASA Langley Research Center, are analyzing a potential
+oscillation in what Dowell has dubbed the field of “solarelasticity.”
+
+“This is a kilometer-sized sail, and because solar pressure is very small, the
+material has to be very thin,” says Dowell. “But if you make it thin and you
+make it very flexible, the same solar pressure that moves it along is also
+large enough to induce oscillations; and these oscillations are analogous to
+what happens due to the fluid forces in more conventional craft.”
+
+At the other extreme of spacecraft engineering Dowell and his graduate
+student, Ben Goldman, are helping analyze the aeroelastic performance of a new
+form of reentry vehicle called HIAD (hypersonic inflatable aerodynamic
+decelerator). HIAD describes an assembly of high-strength inflatable bladders,
+like a stack of inner tubes, meant to protect and slow down a spacecraft from
+the searing 3,000-degree Fahrenheit temperatures during reentry to the earth
+or other planets.
+
+Dowell’s latest aircraft project is just as exotic—a giant solar-powered
+airplane called Vulture, designed to cruise slowly at high altitudes for years
+at a time. The unmanned airplane being developed by Boeing for DARPA could
+circle above areas of interest much longer than drones, carrying a payload of
+high-resolution cameras.
+
+With its 400-foot wingspan, twice that of a Boeing 747, the lightweight
+Vulture could be highly vulnerable to wind gusts, so Dowell and his colleague,
+Deman Tang, and his students are analyzing such wing behavior in wind tunnel
+testing and computational studies.
+
+Dowell and his graduate student Ivan Wang are also working on the aeroelastic
+problems presented by so-called “morphing” wings—which fold into different
+shapes to adapt to different flying conditions. Like a bird’s wing, they could
+yield much greater efficiency over the broad range of speeds at which aircraft
+operate. However, with this morph- ing advantage come complex problems of
+flutter and other phenomena that need to be solved before airplanes can fly
+more like birds.
+
+Finally, the flutter of high performance aircraft such as the F-16 and F-35
+are still challenges to aeroelastician Jeff Thomas and graduate student Madhu
+Padmanabhan who are working with Dowell and the Air Force to address. Mike
+Balajewicz is completing his Ph.D. studies of turbulence and a novel method of
+constructing models for this complex nonlinear dynamical system that has drawn
+the attention over many years of investigators including such luminaries as
+Werner Heisenberg, G.I. Taylor and Theodore Von Karman.
+
+While flutter is a problem in aircraft wings, it is absolutely necessary for a
+very different aeroelastic research challenge—a “nonlinear aeroeleastic energy
+harvesting” system that Dowell is helping develop, along with former
+undergraduate Jared Dunnmon, who is now a Rhodes Scholar at Oxford, and Gibbs.
+This wind energy approach uses a flexible airfoil designed to oscillate in the
+wind, with the oscillation energy converted to electricity by piezoelectric
+material connected to it.
+
+“This system has some real attraction because you don’t have to worry about
+tuning the system’s natural frequency to the wind as do so-called resonant
+systems” says Dowell. “You just need to ex- ceed a certain wind speed. And
+that speed can be very low.” While the wind-harvesting system won’t offer the
+high output of conventional windmills, says Dowell, it would be useful for
+low-power applications in remote areas.
+
+Dowell’s latest research advances represent only the latest in a long line of
+achievements that have earned him the major awards in his field, including the
+Daniel Guggenheim Medal Award of multiple professional societies, the Den
+Hartog Award of the American Society of Mechanical Engineering, the Spirit of
+St. Louis Award of the American Society of Mechanical Engineers and the
+Distinguished Service Award of the American Academy of Mechanics, as well as
+membership in the National Academy of Engineering and Honorary Fellow of the
+American Institute of Aeronautics and Astronautics.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

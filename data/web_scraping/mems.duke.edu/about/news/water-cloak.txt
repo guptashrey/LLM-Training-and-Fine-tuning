@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Electromagnetic Water Cloak Eliminates Drag and Wake
+
+December 11, 2017 | By Ken Kingery
+
+Detailed calculations show water cloaks are feasible with today's technology
+
+Researchers have developed a water cloaking concept based on electromagnetic
+forces that could eliminate an object’s wake, greatly reducing its drag while
+simultaneously helping it avoid detection.
+
+The idea originated at Duke University in 2011 when researchers outlined the
+general concept. By matching the acceleration of the surrounding water to an
+object’s movement, it would theoretically be possible to greatly increase its
+propulsion efficiency while leaving the surrounding sea undisturbed. The
+theory was an extension of the group’s pioneering work in metamaterials, where
+a material’s structure, rather than its chemistry, creates desired properties.
+
+Six years later, Yaroslav Urzhumov, adjunct assistant professor of electrical
+and computer engineering at Duke, has updated the theory by detailing a
+potential approach. But rather than using a complex system of very small pumps
+as originally speculated, Urzhumov is turning to electromagnetic fields and
+the dense concentration of charged particles found in saltwater.
+
+The study appears online in the journal Physical Review E on December 7, 2017.
+
+“The original idea was so big that it enticed colleagues at the Naval Undersea
+Warfare Center to help us pursue it, even though they were incredibly
+skeptical,” said Urzhumov, who was among the researchers who worked on the
+original 2011 paper. “Since then, we have identified a path to materializing
+this seemingly impossible proposal.”
+
+The crux of the issue being addressed is that water is a relatively viscous
+liquid that, when moved, likes to pull its surroundings along for the ride
+through shear forces. A fish feels much heavier being pulled through the water
+than lifted through open air because of all the water dragged along with it.
+
+Besides essentially pulling extra water, drag can also be increased by how
+water flows around an object. A hydrodynamic object with fluid flowing
+smoothly along its surface creates much less drag than a blocky object that
+creates a mess of chaotic, turbulent flows in its wake.
+
+The solution to these issues is to move the water out of the way. By
+accelerating the water around the object to match its speed, shear forces and
+turbulent flows can both be avoided.
+
+“There are many ways to reduce wake and drag, like surrounding an object with
+low-friction bubbles, which is actually done with some naval torpedoes,” said
+Urzhumov. “But there’s only so much you can do if you’re just applying forces
+at the surface. This cloaking idea opens a new dimension to create forces
+around an underwater vessel or object, which is absolutely required to achieve
+full wake cancellation.”
+
+Urzhumov originally envisioned a sort of truss-like frame enveloping an object
+with thin structures and tiny pumps to accelerate its flow as it passed
+through. But as time went by, he decided a more practical approach would be to
+use “magnetohydrodynamic” forces.
+
+When a charged particle travels through an electromagnetic field, the field
+creates a force on the particle. Because ocean water is chock full of ions
+like sodium, potassium and magnesium, there are a lot of charged particles to
+push. The idea isn’t as crazy as it may sound—Japan built a prototype
+passenger ship in 1991 called the Yamato 1 using these forces as a means of
+propulsion, but found the approach was not more efficient than traditional
+propellers.
+
+In the new paper, Urzhumov and his graduate student, Dean Culver, use fluid
+dynamics simulations to show how a water cloak might be achieved using this
+approach. By controlling the velocity and direction of the water surrounding a
+moving object, the simulations show such a system can match the water’s
+movement within the cloak to that of the surrounding sea.
+
+This would make it appear that the water inside the cloak is completely
+stagnant in relation to the water outside of the cloak, eliminating the drag
+and wake. Of course, practical implementations aren’t perfect, so some drag
+and wake would remain in any realization of the device.
+
+While the simulations used a cloaking shell half the width of the object
+itself, the calculations show the shell could theoretically be as thin as you
+wanted it to be. Another important result was that the forces inside the shell
+would not have to change directions as the object sped up, they would only
+need more power.
+
+“That is one of the major achievements of this paper,” said Urzhumov. “If you
+don’t have to adjust the distribution of forces, you don’t need any electronic
+switches or other means of dynamic control. You can set the structure with a
+specific configuration and simply crank up the current as the object speeds
+up.”
+
+Urzhumov says that for an actual ship or submarine to ever use such a device,
+it would need a nuclear reactor to power it, given the enormous energy
+requirements to cloak an object of that size. That does not mean, however,
+that a smaller diesel vessel could not power a smaller cloaking device to
+shield potentially vulnerable protrusions from detection.
+
+Urzhumov also says that his theories and calculations have many potential
+applications outside of the ocean. Similar designs could be used to create a
+distributed ion propulsion system for spacecraft or to suppress plasma
+instabilities in prototypes for thermonuclear fusion reactors.
+
+“I believe these ideas are going to flourish in several of these fields,” said
+Urzhumov. “It is a very exciting time.”
+
+This research was supported by the Office of Naval Research through the Naval
+Undersea Research Program (N00014-13-1-0743) and the Multidisciplinary
+University Research Initiative (MURI) (N00014-13-1-0631).
+
+“Forced Underwater Laminar Flows with Active Magnetohydrodynamic
+Metamaterials.” Dean Culver and Yaroslav Urzhumov. Physical Review E, 2017.
+DOI: 10.1103/PhysRevE.96.063107
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

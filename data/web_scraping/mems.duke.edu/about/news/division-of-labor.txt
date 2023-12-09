@@ -1,0 +1,195 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Tool Tells Bioengineers When to Build Microbial Teams
+
+February 21, 2018 | By Ken Kingery
+
+Researchers help bioengineers decide when to use multiple cell populations to
+assemble a product
+
+Researchers at Duke University have created a framework for helping
+bioengineers determine when to use multiple lines of cells to manufacture a
+product. The work could help a variety of industries that use bacteria to
+produce chemicals ranging from pharmaceuticals to fragrances.
+
+The research was published online the week of February 19, 2018 in the
+Proceedings of the National Academy of Sciences.
+
+Every cell in the world is constantly absorbing nutrients and raw materials
+and transforming them into something more useful. Often the process provides
+the cells with energy or some other vital vitamin or mineral, while leaving
+behind byproducts that can be beneficial for other cells. This is especially
+true in complex multicellular organisms and ecosystems, where several
+different types or species of cells can work together to generate a single
+complex final product.
+
+Scientists have been harnessing these abilities since the 1970s to produce
+useful substances like human growth hormone, pharmaceuticals, fragrances and
+biofuels. Most of the time they rely on a single type of cell for such
+endeavors for the sake of simplicity. But sometimes the process becomes too
+complicated.
+
+"Typically when people are modifying cells to produce something they use a
+single population, but when you only use one type of cell to do everything,
+there's an upper limit on what it can handle, which becomes a limitation to
+how sophisticated a compound you can ask the cell to make," said Ryan Tsoi, a
+graduate student studying biomedical engineering at Duke and first author of
+the paper. "Having multiple cell types dividing the labor has been explored,
+but only on a case-by-case basis. This is the first systematic look into what
+circumstances make multiple cell lines better than one."
+
+In the study, Tsoi and his advisor, Lingchong You, the Paul Ruffin Scarborough
+Associate Professor of Engineering at Duke, put together a system of equations
+to model how important variables interact in these types of systems. For
+example, they can model the strain that complex tasks put on a single cell's
+growth rate or the inefficiencies introduced when cells must pass signals,
+enzymes and proteins back and forth in a division-of-labor scheme.
+
+They put together more than 20 different variations of how these systems could
+be built and how they might interact. When they ran the simulations, they
+discovered that every trial boiled down to how the variables affected two
+factors -- how fast the cells are able to grow and how much efficiency is lost
+when two types of cells share resources while transporting molecules between
+them.
+
+"It's comparable to when researchers are working together on a grant proposal
+or a paper," said You. "It's a balance between how easy it is to do by
+yourself, how efficient it will be in working with other collaborators, and
+how big of a payoff the collaboration will be at the end of the day."
+
+Moving forward, Tsoi plans on using the new framework to develop the new
+bioengineered systems he is planning to study. He hopes others will do the
+same.
+
+"All of these parameters are measurable and quantifiable," said Tsoi. "The
+idea is that for any system, you could obtain all of these parameters either
+through basic experiments or textbooks, throw them into this mathematical
+model, and not only obtain a basic answer of whether or not to use division of
+labor, but a measure of how much it would benefit your project."
+
+This research was supported by the US Army Research Office (W911NF-14-1-0490),
+the National Science Foundation (CBET-0953202) and the National Institutes of
+Health (1R01-GM098642).
+
+CITATION: "Metabolic Division Of Labor In Microbial Systems," Ryan Tsoi,
+Feilun Wu, Carolyn Zhang, Sharon Bewick, David Karig and Lingchong You.
+Proceedings of the National Academy of Sciences, Feb. 20, 2018. DOI:
+10.1073/pnas.1716888115  
+pnas.org/content/115/10/2526
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cells Dancing to Harmonic Duets Could Enable Personalized Cancer Therapies
+
+March 24, 2022 | By Ken Kingery
+
+Acoustic tweezers manipulate particles and cells with complex sound waves
+
+Mechanical engineers at Duke University are using two electronic “voices”
+singing a harmonic duet to control suspended particles and cells in new and
+valuable ways. Their prototype device can form and rotate a single-layer
+crystal from a group of particles, create arbitrary shapes with a given number
+of particles, and move pairs of biological cells together and apart again
+hundreds of times.
+
+These abilities could serve a wide variety of fields, such as materials
+science, soft condensed-matter physics, biophysics, life science and medicine.
+
+For example, the researchers have shown that the device can selectively pair
+two individual cells and measure their adhesion forces -- a feat that doctors
+could use to determine treatment for individual cancer patients. Because of
+the dexterity and gentleness of the acoustic device, the researchers have
+named it the Harmonic Acoustics for Non-contact, Dynamic, Selective particle
+manipulation (HANDS) platform.
+
+The results appear online on March 24 in the journal Nature Materials.
+
+“The separation of paired particles or cells has been a major target in the
+field of acoustic manipulation for many years,” said Tony Jun Huang, the
+William Bevan Distinguished Professor of Mechanical Engineering and Materials
+Science at Duke. “Our HANDS platform is the first method of separating paired
+objects, which provides a way into cell-cell interaction studies that are
+needed extensively in biophysics studies and drug discovery.”
+
+Acoustic tweezers are a rapidly developing field that uses various physical
+phenomena of sound waves to gently manipulate particles or cells suspended in
+liquids without touching them. Some examples pinch particles between two sound
+waves and adjust the waves’ phase or origination point to move them. Others
+create patterns by combining two static standing sound waves together to
+separate particles into different formations, such as a grid.
+
+Now, researchers have added a new layer of complexity to these devices by
+introducing piezoelectric melodies and harmonies into the setup. Where
+previous devices create static standing waves, the HANDS platform prototype
+uses a function generator to create complex standing waves that change
+rapidly. One could think of it as, rather than the machines singing a single
+note, they’re now hitting the rapid highs and lows of a complicated opera with
+two singers.
+
+The new device works by placing sound-creating transducers on each side of a
+small square chamber filled with liquid. These four transducers work in step
+with those directly across from them, forming two pairs. One creates patterns
+in the chamber horizontally and the other vertically. The interaction of these
+two complex, quickly changing sound wave patterns creates dynamic abilities
+never before demonstrated within the field.
+
+“I simulated how these waves might combine to manipulate the particles in the
+chamber and then ran experiments to see actual results,” said Shujie Yang, a
+postdoctoral associate in the Huang laboratory. “It took a long time and many
+trials, but finally the simulations became good enough to start matching the
+results. And once the simulations were accurate, I could begin predicting new
+abilities.”
+
+In the paper, Yang demonstrates several novel abilities of the harmonic duet
+acoustic tweezers. In one experiment, he shows that the HANDS platform can
+flatten and pattern a 3D cluster of 24 particles into a crystalline structure.
+It can spin these flat formations like a plate on a fingertip.
+
+Moving to individual particle manipulation, the paper demonstrates particles
+coaxed into three different formations bearing a striking resemblance to the
+letters O, D and K. The device then pairs together dozens of single particles
+like teenagers at a school dance and shows that it can pull each pair apart
+and put them back together again more than a thousand times.
+
+In the final demonstration, Yang shows that the device can select a single
+pair of cells out of a lineup, push them together and pull them back apart. He
+then uses this ability to measure the adhesion forces at work between two
+cells touching one another.
+
+According to the researchers, this is the most exciting ability of the HANDS
+platform, as it could allow detailed tests for personalized medicine.
+
+“I am thrilled about the capabilities of this platform, which is as gentle as
+a mother’s hands,” said Luke Lee, professor of medicine at Harvard Medical
+School, who is a co-leader of the research. “Gentle and sensitive mother’s
+hands allow us to establish the foundation of quantitative cell biology and
+translational precision medicine.”
+
+“For example, we can systematically study T-cell interactions with cancer
+cells in a high-throughput manner and obtain precision cell-cell interaction
+forces,” Lee said. “This could help doctors find the most effective and
+specific cell therapy for patients as personalized precision medicine.”
+
+This research was supported by the National Institutes of Health (R01GM141055,
+R01GM132603, U18TR003778, UG3TR002978) and the National Science Foundation
+(ECCS-1807601, CMMI-2104295).
+
+CITATION: “Harmonic Acoustics for Dynamic and Selective Particle
+Manipulation,” Shujie Yang, Zhenhua Tian, Zeyu Wang, Joseph Rufo, Peng Li,
+John Mai, Jianping Xia, Hunter Bachman, Po-Hsun Huang, Mengxi Wu, Chuyi Chen,
+Luke P. Lee, and Tony Jun Huang. Nature Materials, March 24, 2022. DOI:
+10.1038/s41563-022-01210-8
+
+## Related News
+
+September 10, 2020
+
+### Sound Waves Replace Human Hands in Petri Dish Experiments
+
+July 26, 2018
+
+### Soundwave-Surfing Droplets Leave No Traces Behind
+
+January 26, 2017
+
+### Sound Waves Create Whirlpools to Round Up Tiny Signs of Disease
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

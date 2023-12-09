@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Nanomaterials Enable Passive Dual-Mode Heating and Cooling Device
+
+December 2, 2020 | Elizabeth Witherspoon
+
+Dual-mode device to heat and cool buildings could cut HVAC energy use by
+nearly 20% in the U.S.
+
+Engineers at Duke University have demonstrated a dual-mode heating and cooling
+device for building climate control that, if widely deployed in the U.S.,
+could cut HVAC energy use by nearly 20%.
+
+The invention uses a combination of mechanics and materials science to either
+harness or expel certain wavelengths of light. Depending on conditions,
+rollers move a sheet back and forth to expose either heat-trapping materials
+on one half or cooling materials on the other. Specially designed at the
+nanoscale, one material absorbs the sun’s energy and traps existing heat,
+while the other reflects light and allows heat to escape through the Earth’s
+atmosphere and into space.
+
+“I think we are the first to demonstrate a reversible thermal contact, which
+allows us to switch between the two modes for heating or cooling,” said Po-
+Chun Hsu, assistant professor of mechanical engineering and materials science
+at Duke and leader of the team. “This allows the material to be movable while
+still maintaining a good thermal contact with the building to either bring
+heat in or let heat out.”
+
+The results appeared online November 30, in the journal Nature Communications.
+
+About 15% of energy consumption in the U.S., and over 30% globally, is for the
+heating and cooling of buildings and responsible for 10% of global greenhouse
+gas emissions. Yet, up to now, most approaches to minimize the carbon
+footprint have only addressed either heating or cooling. That leaves the
+world’s temperate climate zones that require both heating and cooling during
+the year – or sometimes in a single 24 hours – out in the cold. In the new
+paper, Hsu and his team demonstrate a device that potentially could keep us
+either cozy or cool as the weather changes.
+
+The specially designed sheet starts with a metallized polymer composite as the
+base that can generate electrostatic force by applying voltage. This allows
+the device to maintain contact with the building for transmitting energy while
+still being able to disengage so that the rollers can switch between modes.
+
+The cooling portion of the sheet has an ultra-thin silver film covered by an
+even thinner layer of clear silicone, which together reflect the sun’s rays
+like a mirror and emit mid-range infrared light. The unique properties of
+these materials also convert energy into and emit mid-range infrared light,
+which does not interact with the gasses in the Earth’s atmosphere and easily
+passes into outer space and peform sub-ambient cooling.
+
+When a change in weather brings the need for heating, the electrical charge
+releases and the rollers pull the sheet along a track. This swaps the cooling,
+reflective half of the sheet for the heat-absorbing half.
+
+To heat the building beneath, the engineers used an ultra-thin layer of copper
+topped by a layer of zinc-copper nanoparticles. By making the nanoparticles a
+specific size and spacing them a certain distance apart, they trap light onto
+their surface, allowing the material to absorb more than 93% of the sunlight’s
+heat.
+
+Hsu and his team see the device as something that could work with existing
+HVAC systems, rather than a full replacement.
+
+“Instead of directly heating and cooling the building, we could use a water
+panel to take hot or cold water to a heat pump or boiler system,” said Hsu. “I
+also imagine that with additional engineering, this could also be used on
+walls, forming a sort of switchable building envelop.” said Hsu.
+
+Moving forward, the team is working on several aspects of the design to
+advance it from a prototype to one scalable for manufacturing. Among these,
+explained Hsu, are concerns about the long-term wear and tear of the moving
+parts and costs of the specialized materials. For example, they will
+investigate whether lower-cost aluminum can substitute for the silver and are
+also working on a static version that can switch modes chemically rather than
+mechanically.
+
+Despite the many obstacles, Hsu believes this technology could be an energy-
+saving boon in the future. And he’s not alone.
+
+“We’re already working with industry partners to determine the ideal locations
+for deploying this technology,” said Hsu. “And because almost every climate
+zone in the United States requires both heating and cooling at some point
+throughout the year, the advantages of a dual-mode device such as this are
+obvious.”
+
+CITATION: “Integration of daytime radiative cooling and solar heating for
+year-round energy saving in buildings.” Xiuqiang Li, Bowen Sun, Chenxi Sui,
+Ankita Nandi, Haoming Fang, Yucan Peng, Gang Tan & Po-Chun Hsu. Nature
+Communications, 2020. DOI: 10.1038/s41467-020-19790-x
+
+## Related News
+
+November 17, 2020
+
+### Cooling Fabrics Fight Climate Change, As Well As Sweat
+
+September 07, 2018
+
+### Po-Chun Hsu: Engineering Nanostructured Materials to Keep You Cool
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

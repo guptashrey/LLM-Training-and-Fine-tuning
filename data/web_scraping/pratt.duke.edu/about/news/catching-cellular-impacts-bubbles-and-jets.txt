@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Catching Cellular Impacts of Bubbles and Jets
+
+December 7, 2015 | By Ken Kingery
+
+New technique captures diverse effects of cavitation bubbles on individual
+cells
+
+Duke researchers have devised a way to take an in-depth look at a poorly
+understood phenomenon that commonly occurs in medical procedures using
+therapeutic ultrasound, such as shattering kidney stones, delivering drugs to
+cells, and, most recently, breaking the blood-brain barrier.
+
+When ultrasonic pressure waves move through a liquid, they can cause bubbles
+to form and oscillate rapidly around gaseous imperfections. If these so-called
+cavitation bubbles collapse very close to a boundary or the surface of another
+bubble, they can produce fast-moving jets to erupt in their wake. The
+phenomenon can be so powerful that it can cause severe damage to ship
+propellers.
+
+Cavitation bubbles form as high-amplitude ultrasonic pressure waves travel
+through liquid. While commonly exploited in many medical procedures, their
+interactions with tissues are not clearly understood, especially at the
+cellular level.
+
+Cavitation bubbles are also behind a recent finding from Sunnybrook Health
+Sciences Centre in Toronto in which a team successfully delivered cancer drugs
+through the blood-brain barrier of a patient.
+
+In a new study, Duke researchers used high-speed, high-resolution cameras to
+reveal minute details of how cavitation bubbles affect nearby cells. The
+results appear online the week of Dec. 7, in the Proceedings of the National
+Academy of Sciences.
+
+The effects of these powerful little bubbles on living cells “have long been a
+‘black box’ where results are hard to predict and it is unknown why certain
+outcomes occur,” said Pei Zhong, the Anderson-Rupp Professor of Mechanical
+Engineering and Materials Science at Duke. “We hope this new experimental
+system can provide much-needed mechanistic insights, which could help optimize
+therapeutic procedures and lead to new creative treatments.”
+
+Depending on the proximity of the bubbles, these jets can rapidly stretch
+nearby cells, poke holes in them or even obliterate their membranes.
+Understanding how different cells react to these jets will inform a wide
+variety of medical techniques, Zhong said.
+
+“The experimental control and precision we have developed is unprecedented,”
+said Zhong. “We have created a unique and versatile tool to study how cells
+respond to cavitation-induced shear flows. Future results providing mechanical
+characterizations of individual cells could be harnessed for disease diagnosis
+and treatment monitoring.”
+
+The new technique begins with a microfluidic chamber -- a glass slide with a
+silicone channel that is filled with fluid. A laser pulse passes through the
+bottom of the glass slide and strikes the opposite side, which is covered in
+tiny gold dots near individual cells that are grown in patterned islands.
+
+When the focused, pulsed laser strikes a gold dot, it vaporizes the
+surrounding fluid, causing a cavitation bubble to form. By creating two
+bubbles side-by-side at slightly different times, the researchers can control
+the direction of the resulting jet when the bubbles collapse.
+
+In their experiments, Zhong and his team placed individual cells at different
+distances away from these jets to observe how they react to different levels
+of shear stress. The results have already yielded some interesting insights.
+
+“Previous studies have shown that cell membranes can only withstand a three
+percent increase in area strain before rupturing,” said Zhong. “But these
+experiments stretched the membrane for a second or longer. Our results have
+shown that if the membrane is stretched for a millisecond or less, it can
+actually withstand strains an order of magnitude higher before a minute pore
+is formed. And importantly, small pores can reseal, allowing the target cell
+to fully recover. Observations such as these could open the door to new or
+improved therapies.”
+
+This work was supported by NIH grants R03-EB017886-01A1 and R37-DK052985-18.
+
+###
+
+“Cell Membrane Deformation and Bioeffects Produced by Tandem Bubble Induced
+Jetting Flow.” Fang Yuan, Chen Yang, Pei Zhong. PNAS, Dec. 7, 2015. DOI:
+10.1073/pnas.1518679112
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

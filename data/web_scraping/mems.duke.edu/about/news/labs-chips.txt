@@ -1,0 +1,187 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Labs on Chips
+
+April 6, 2014 | By Dennis Lynch
+
+Talking Microfluidic Biochips with Duke ECE Professors Krishnendu Chakrabarty
+and Richard Fair
+
+_Originally published in DukEngineer_
+
+Technology moves at a breakneck pace, with advances that make the mind spin.
+Duke University is keeping in step with this technological revolution, but in
+ways that might surprise the casual observer. For example, one intrepid group
+of researchers led by Krishnendu Chakrabarty, PhD, and Richard Fair, PhD, have
+expanded the realm of electrical engineering into the biological world with
+the research and development of microfluidic biochips.
+
+These “lab-on-a-chip” devices can actually “learn how to test for specific
+analytes through a decision-tree architecture,” according to Fair, one of the
+team’s lead researchers. They also have the ability to “electrically control
+the transport and processing of ‘biochemical payload’ in the form of droplets
+by applying discrete voltages to transport lines.” The team has taken
+advantage of this unique mechanism to develop software to control the chips’
+activity.
+
+What exactly does this mean? According to Chakrabarty’s 2010 paper “Digital
+Microfluidic Biochips: A Vision for Functional Diversity and More than Moore,”
+their technological innovation enables “the convergence of electronics with
+the life sciences,” allowing for more precise forms of measurement,
+diagnostics and electronic integration with biological forms. The chips,
+“compared to conventional laboratory procedures … offer the advantages of
+higher sensitivity, lower cost … system integration and less likelihood of
+human error.” When dealing with biological payloads that could facilitate the
+discovery of new drugs or the diagnosis of biological problems, this low-cost,
+low-error device offers a world of possibilities.
+
+The practical applications of these discoveries and demonstrations are
+“numerous,” as Fair puts it. Not only can these biochips learn to test an
+unknown molecule, which would be a major benefit to a scientific community
+looking to analyze and discover materials on the molecular level, but the team
+has a “target application [that is] rapid detection of bacterial infections in
+blood.”
+
+The fact that these chips can perform molecular testing for analysis and
+diagnosis is very important in the current landscape of the scientific
+community, given the costs and work required to obtain molecular diagnostic
+data. Fair estimated that “90 percent of the cost and 95 percent of the time
+needed to obtain [the diagnostic data] today is sample preparation, including
+collection and transportation.” These “lab-on-a-chip” biochips would
+drastically cut down those costs. With a faster, more efficient method of
+collecting diagnostic data on a molecular level comes new possibilities for
+everything from drug synthesis to bacterial diagnostics, blood composition
+analysis to biological culture analysis.
+
+It can be a bit mind-numbing to think of all the potential outcomes from this
+line of research. A microchip that integrates the electrical and biological,
+with the ability to learn, diagnose and analyze right at the site of interest,
+truly seems something left to the pages of an author’s futuristic novel.
+However, all of this and more is currently under research and development
+right within the walls of Duke University. That doesn’t mean, however, that
+the research will be contained to Duke’s labs. When asked about future plans
+the team has for their invention, Fair asserted that the team “would like to
+put a programmable/adaptive microfluidic platform in the hands of [other]
+researchers. This way we all learn more about applications for an adaptive
+lab-on-a-chip.” With a more widespread scope for research, the potential for
+these chips seems truly endless; what began in a lab at Duke University could
+one day become a standard analysis device in labs and hospitals around the
+world.
+
+_Dennis Lynch is a sophomore pursuing majors in computer science and
+electrical and computer engineering._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

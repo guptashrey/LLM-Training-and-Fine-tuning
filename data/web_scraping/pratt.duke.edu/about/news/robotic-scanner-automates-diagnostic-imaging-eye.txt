@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Robotic Scanner Automates Diagnostic Imaging in the Eye
+
+August 4, 2021 | Michaela Kane
+
+By removing the need for highly trained technicians, the imaging tool could
+make it easier to diagnose eye diseases outside of specialized clinics
+
+Engineers and ophthalmologists at Duke University have developed a robotic
+imaging tool that can automatically detect and scan a patient’s eyes for
+markers of different eye diseases.
+
+The new tool, which combines an imaging scanner with a robotic arm, can
+automatically track and image a patient’s eyes in less than a minute, and
+produce images that are as clear as the traditional scanners in specialized
+eye clinics.
+
+Their paper appeared July 12 in Nature Biomedical Engineering.
+
+Physicians and researchers use optical coherence tomography, or OCT, to
+diagnose various diseases in the eye, including glaucoma, diabetic retinopathy
+and age-related macular degeneration. During the imaging process, a probe
+sends a beam of light into the eye and measures how long various reflections
+take to bounce back to decipher the structures within the tissue.
+
+In the clinic, OCT systems are traditionally large tabletop systems, which a
+highly trained technician uses to capture several images of the eye. Patients
+must be firmly settled into a head and chin rest to ensure the correct
+positioning and to limit any motion. Beyond being uncomfortable, these head
+and chin rests don’t fit everyone, making it difficult for certain people to
+get scanned.
+
+“Not everywhere has a resource like the Duke Eye Center, where we have access
+to these highly trained and specialized technicians like ophthalmic
+photographers,” said Ryan McNabb, a research scientist in the Department of
+Ophthalmology at the Duke University Medical Center. “But with our new tool,
+you wouldn’t need advanced training to use it. We’re optimistic that something
+like this could easily be used in places like optometrist offices, primary-
+care clinics, or even emergency departments. OCT is a useful diagnostic tool,
+and these kinds of advances help make it easier for wider communities to
+access it.”
+
+To use their scanner, a patient approaches the machine and stands in front of
+the robotic arm. 3D cameras placed to the left and right of the robot help to
+find the patient in space, while smaller cameras in the robotic arm search for
+landmarks on the eye to precisely position the scanner. The system is able to
+scan both the macula (the part of the retina responsible for our central
+vision) and cornea (the clear front part of the eye), sites where many eye
+diseases occur.
+
+It takes the tool less than 10 seconds to scan and image each eye, and the
+entire process is complete in less than 50 seconds.
+
+“The robotic arm gives us the flexibility of handheld OCT scanners, but we
+don’t need to worry about any operator tremor,” said Mark Draelos, a
+postdoctoral fellow in the biomedical engineering department. “If a person
+moves, the robot moves with it. As long as the scanner is aligned to within a
+centimeter of where it needs to be on your pupil, the scanner can get an image
+that is as good as a tabletop scanner.”
+
+Because the patient is never in physical contact with the system, their tool
+avoids any hygiene and infectious diseases concerns that arise with the shared
+chin and headrest in traditional OCT systems. The researchers also demonstrate
+that their robotic system is very safe––especially considering how close it
+can get to a patient’s face.
+
+“The camera systems continuously track the patient and allow the robot to keep
+a safe distance,” said Draelos. “In fact, the only time we’ve seen any
+unintended robot contact is if a person walks or bumps into the robot when it
+isn’t imaging their eye.”
+
+The team has already begun the next phase of work in the clinic, where they
+have started to image the eyes of volunteers to continue to refine the robot’s
+targeting. Next, they hope to image patients that have actual retinal or
+corneal diseases to test how well their robot can capture abnormalities.
+
+They are also working to improve the field of view for the retinal scanner, as
+their first iteration was able to capture key features, but multiple images
+would need to be spliced together to get a full view of the retina.
+
+“While this is a solution for image collection issues, we think it will pair
+incredibly well with recent advances in machine learning for OCT image
+interpretation,” said McNabb. “We’re really bringing OCT to the patients
+rather than limiting these tools to specialized clinics, and I think it will
+make it much easier to help a wider population of people.”
+
+This work was supported by the Duke Coulter Translational Partnership and by
+the National Eye Institute (F30-EY027280, R01-EY029302 and U01-EY028079).
+
+Joseph Izatt is an inventor on OCT-related patents filed by Duke University
+and licensed by Leica Microsystems, Carl Zeiss Meditec and St. Jude Medical.
+Izatt has additional financial interests in these companies. Ryan McNabb and
+Anthony Kuo are inventors on OCT-related patents filed by Duke University and
+licensed by Leica Microsystems. Mark Draelos, Pablo Ortiz, Ryan McNabb,
+Anthony Kuo and Joseph Izatt are inventors on provisional patent application
+US62/798,052 filed by Duke University that concerns the robotic OCT system
+presented in this paper.
+
+CITATION: “Contactless optical coherence tomography of the eyes of
+freestanding individuals with a robotic scanner,” Mark Draelos, Pablo Ortiz,
+Ruobing Qian, Christian Viehland, Ryan McNabb, Kris Hauser, Anthony Kuo,
+Joseph Izatt. Nature Biomedical Engineering, July 12, 2021. DOI:
+10.1038/s41551-021-00753-6
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

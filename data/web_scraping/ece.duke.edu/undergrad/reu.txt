@@ -1,0 +1,519 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Summer Research Experiences for Undergraduates (REU)
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+
+A paid opportunity to spend early summer at Duke
+
+## May 28 to July 29, 2023 | Apply by Feb. 15
+
+Duke Electrical & Computer Engineering’s Research Experience for
+Undergraduates (REU) is a _paid summer opportunity_ that brings undergraduates
+into our research laboratories for nine weeks.
+
+  * Work full-time on interesting projects, led by members of the Duke ECE
+    faculty
+  * Experience thought-provoking seminars and workshops
+  * Participate in lab group meetings and discussions
+  * Present your research findings at a special poster symposium
+
+## Learn About Program Features
+
+  * $600 per week stipend, paid at the start of the program
+  * Housing and meals on the Duke campus
+  * Travel reimbursement, up to $600
+  * 2023 program dates: May 28 to July 29
+
+## Determine Your Eligibility
+
+To be eligible, an applicant must be:
+
+  * An undergraduate student
+  * Enrolled in an accredited college or university
+  * A U.S. citizen or permanent resident
+
+_Duke ECE strongly encourages students from groups underrepresented in the
+practice of computer engineering and computer science to apply._
+
+## Submit Your Application
+
+Complete our online application, which includes:
+
+  * Statement of purpose
+  * Résumé
+  * Contact information for a letter of recommendation
+
+Submit your application before 11:59 pm ET, February 15, 2023.
+
+Applicants will be notified by email of final decisions by April 15, 2023.
+
+Apply Now
+
+## Browse Project Summaries
+
+Imaging Through Walls and Other Obstacles
+
+    
+
+The project involves radio frequency (RF) imaging through walls and other
+obstacles. Experimental studies on visualizing various objects and materials
+behind walls using millimeter waves will be pursued, as well as various
+techniques of reconstructing and optimizing images from mm-wave measurements.
+
+**What you'll do:** Assist in data taking, reconfiguring measurement setups,
+and programming various instruments for automation
+
+**What you'll learn:** Computational imaging and general radar techniques, and
+can get involved at a deeper level in reconstruction efforts.
+
+**What you should bring:** Students should be strongly self-motivated and
+research-oriented. Strongly recommended: Experience with Python programming.
+Helpful, but not required: Any knowledge of electromagnetic wave propagation
+and experience with antennas or RF devices.
+
+**Principal Investigator:** David Smith, James B. Duke Distinguished Professor
+of Electrical & Computer Engineering
+
+Retina-Like Semiconductor Devices for Image Processing and Object
+Identification
+
+    
+
+The optoelectronic synapse is a novel device. Like the retina of the eye, it
+can perform imaging and image processing using individual pixels. In this
+project, we are fabricating optoelectronic synapses using two-dimensional (2D)
+materials. We are optimizing the device performance through optical and
+electrical engineering. We are building pixel arrays to demonstrate basic
+image processing tasks, such as contrast enhancement, de-noising, and image
+memorization. Our devices are the only kind that can operate from ultraviolet
+(UV) to infrared (IR) wavelength ranges, because of the van der Waals
+heterostructures used in these devices. Learn more »
+
+**What you'll do:** Characterize the optoelectronic synapse pixels. Electrical
+characterizations, such as Id-Vg and Id-Vd of transistors with and without
+light, will be measured. Optoelectronic synapse characterizations by pulsing
+electrical pulses in dark and under illumination, memory measurements, etc.,
+will be performed by the undergrad.
+
+**What you'll learn:** Transistor physics and device measurements.
+
+**What you should bring:** Interests in transistor design and semiconductor
+physics, self-motivation, and ability in meticulous record-keeping. Students
+with a background in ECE 330L will be preferred.
+
+**Principal Investigator:** Tania Roy, Assistant Professor of Electrical &
+Computer Engineering
+
+Intelligent Mobile Augmented Reality
+
+    
+
+Augmented reality (AR) is a rapidly developing technology area with the
+potential for transforming many daily human experiences. While promising,
+current AR systems are somewhat limited in their capabilities—in particular in
+multi-user experiences, high energy consumption and general lack of robustness
+and adaptability. The goal of this project is to obtain an in-depth
+experimental understanding of the limitations of current augmented reality
+experiences and to establish how these limitations can be addressed. Learn
+more »
+
+**What you'll do:** Experiment with different augmented reality applications,
+experiences, and platforms to understand the systems and network loads of
+different operations, key drivers of immersive user experiences, and the
+potential of edge and cloud computing platforms to address the discovered
+limitations. The project involves both the development of Unity-based
+holographic experiences and real-world holographic deployments with Google
+ARCore mobile device platforms and Magic Leap One headsets.
+
+**What you should bring:** An experimental mindset and general software
+development skills. Preferred but not required: background in communications
+and/or networking, and familiarity with machine learning.
+
+**Principal Investigator:** Maria Gorlatova, Nortel Networks Assistant
+Professor of Electrical and Computer Engineering
+
+Building and Testing a Digital Twin for Reconfigurable Networks
+
+    
+
+This project will focus on building, enhancing, and testing Mininet-optical,
+which is a prototype implementation of an emulator for packet optical
+software-defined networks. Mininet-optical enables end-to-end emulation of a
+software-defined network that includes optical network elements such as
+reconfigurable optical add/drop multiplexers (ROADMs), optical transceivers,
+fiber spans, packet software-defined networking (SDN) elements such as
+OpenFlow switches and Ethernet links, and SDN controllers to manage both
+packet and optical network elements.
+
+**What you'll do:** Focus on building a digital twin of the physical COSMOS
+advanced wireless-optical testbed using the Mininet-optical emulator. Design
+and conduct measurements of various optical hardware and transceiver
+performance. Analysis and modeling of the physical hardware in COSMOS and
+incorporation of models into the Mininet-optical emulator. Comparison of the
+end-to-end system performance in reconfigurable networks between real-world
+measurements (using the physical testbed) and large-scale simulations (using
+Mininet-optical as the digital twin of the testbed).
+
+**What you should bring:** Experience with Python is required. Familiarity
+with computer networks, software-defined networking (SDN), optical networking,
+and ML will be a big plus.
+
+**Principal Investigator:**Tingjun Chen, Assistant Professor of Electrical &
+Computer Engineering
+
+Control System Components for Quantum Computing with Trapped Ions
+
+    
+
+A key feature of an ion trap quantum computer is control software which
+integrates laser modulation with externally-provided clock signals for high
+performance of quantum gates. In this project, the student will integrate and
+test control system components for quantum computing with trapped ions. Learn
+more »
+
+**What you'll do:** Integrate multi-tone radio frequency (RF) control cards
+into our existing control architecture used to perform quantum gates. Develop
+modular code in ARTIQ, control software for quantum systems that can be used
+to control most aspects of trapped ion quantum computing from trapping fields
+to state detection. The goal of this is to control Acousto-Optic Modulators
+used to produce multi-tone laser light required for quantum gates on trapped
+ion qubits.
+
+**What you should bring:** Familiarity with Python. Familiarity with the
+basics of analog and digital circuits. Interest in quantum computation and
+developing the interdisciplinary solutions required to experimentally control
+and manipulate trapped ion qubits. Interest in working with a team in a lab
+environment. Interest in building scientific and professional communication
+skills.
+
+**Principal Investigator:** Crystal Noel, Assistant Professor of Electrical
+and Computer Engineering ****
+
+New Degrees of Freedom for Sculpting Optical Beams in Space and Time Beyond
+Conventionally Used Amplitude, Phase and Polarization
+
+    
+
+The rapid development of optical technologies, such as optical manipulation
+and trapping, data processing, optical sensing and metrology, enhanced imaging
+and microscopy, as well as classical and quantum computing and communications,
+necessitates fundamental studies of the new degrees of freedom for sculpting
+optical beams in space and time beyond conventionally used amplitude, phase
+and polarization. Topological particle-like objects in structured optical
+fields have emerged as one of the most promising candidates for such degrees
+of freedom. In this project, we will study “structured light and darkness,” or
+2D vortex beams and 3D optical links, knots, and skyrmions. This research will
+focus on the generation, detection, and linear and nonlinear light-matter
+interactions of optical links, knots, and skyrmions in judiciously engineered
+optical media such as optical metamaterials and metasurfaces.
+
+**What you'll do:** Work with our graduate students and post-doctoral
+researchers on the design, nanofabrication and optical characterization of
+optical metasurfaces
+
+**What you'll learn:** How to fabricate all-dielectric optical nanostructures
+using electron beam lithography, build optical setups, and characterize the
+intensity and the phase profiles of structured light beams
+
+**What you should bring:** Interest in optics and photonic devices, and their
+applications
+
+**Principal Investigator:** Natalia Litchinitser, Professor of Electrical &
+Computer Engineering
+
+Improving the Morphology and Interfaces for Printed Nanomaterial-Based
+Electronics
+
+    
+
+Many new electronic applications can be made possible with more affordable and
+readily customizable circuits. These circuits do not necessarily need to
+exhibit the high performance achieved with silicon-based Complementary Metal-
+Oxide Semiconductor (CMOS) chips, but they do need to offer diverse
+functionality and moderate performance at a low fabrication cost. Printing
+electronics is a viable approach for enabling this new electronics era. For
+decades, organic materials have been studied for their use in printed
+electronics, but they suffer from compatibility issues for many applications
+and considerable performance limitations. A more recent option has been to use
+nanomaterials printed into thin films. Nanomaterials offer superior electronic
+properties to bulk materials, including organic polymers, and are able to be
+dispersed into a variety of inks for printability. Further, nanomaterials are
+robust to extreme environments and highly compatible with a nearly endless
+variety of integration schemes. Entirely new applications, from highly
+sensitive biomedical diagnostics to sensors for harsh environments, can be
+enabled with a printed nanomaterial-based electronics technology. This project
+will involve the exploration of custom ink formulations consisting of
+nanomaterials that can be printed with an aerosol jet printer into thin-film
+transistors. Learn more »
+
+**What you'll do:** Work directly with a PhD student to optimize nanomaterial-
+based inks, and print them into functional transistors and biosensors ( _e.g._
+, electronic immunoassays or bioFETs). You'll print the optimized inks in
+various types of carbon nanotube thin-film transistors. A series of electrical
+(I-V, C-V sweeps) and physical (SEM, Raman) measurement tools will be used to
+evaluate the electrical and structural performance of the printed films and
+devices. The printing process requires training and customization of several
+key steps, including printing conditions, film curing, and integration
+sequence. The student will also be expected to take part in discussions where
+results will be analyzed and new ideas potentially formulated for inclusion in
+the project.
+
+**What you should bring:** An ideal candidate would have some previous
+knowledge and experience in solid-state physics, including carrier transport
+in semiconductors, previous knowledge and/or interest in electronics, and be
+competent in (or confident and willing to learn) operating complex tools. They
+should also be self-motivated and maintain a strong work ethic in terms of
+commitment and follow-through. A collaborative, team player is a must.
+
+**Principal Investigator:** Aaron Franklin, Addy Professor of Electrical &
+Computer Engineering ****
+
+Using AI and ML to Mitigate the Impacts of Reverberation and Noise on Speech
+Recognition for Individuals With Cochlear Implants
+
+    
+
+Cochlear implants (CIs) can restore hearing to individuals with severe hearing
+loss. Most cochlear implant users have good speech recognition in quiet
+conditions; however, they struggle to understand speech in challenging
+listening environments with noise and reverberation. While commercially
+available CIs have incorporated technical solutions to reduce background
+noise, there is currently no effective solution that directly addresses
+reverberation in CIs. The main challenge in developing a solution to mitigate
+reverberation is the task of distinguishing wanted speech from unwanted speech
+with similar characteristics: reverberant speech reflections are
+echoes—attenuated and delayed copies—of the target speech that a listener is
+trying to understand. Recent years have seen successful applications of
+artificial intelligence/machine learning for smart voice assistants that rely
+on the predictability of speech for automatic speech recognition of words to
+execute voice commands. Based on a similar concept of a “smart” CI, this
+project will leverage real-time automatic recognition of phonemes—the smallest
+unit of speech—to improve reverberant speech enhancement in CIs.
+
+**What you'll learn:** Facts about reverberation, sound processing in a CI, an
+acoustic model to simulate CI processing, and training machine-learning models
+for speech enhancement within the CI processing pipeline. Students will
+explore the utility of framewise phoneme predictions to improve reverberant
+speech enhancement in CIs.
+
+**What you should bring:** Communication, interpersonal and analytical skills.
+**** Interest in biomedical application/multidisciplinary project. Some
+experience with digital signal processing and machine learning. The scope of
+the project will be tailored to the student’s background. Experience with
+MATLAB and Python is preferred.
+
+**Principal Investigators:**
+
+  * Leslie Collins, Professor of Electrical & Computer Engineering
+  * Boyla Mainsah, Assistant Research Professor of Electrical & Computer
+    Engineering
+
+## More Opportunities at Duke
+
+  * REU for Meeting the Grand Challenges »
+
+## REU Contact
+
+### Matthew Novik
+
+919-660-1801  
+matthew.novik@duke.edu
+
+## Undergraduate Contact
+
+### Lisa Gresham Huettel
+
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and
+Computer Engineering
+
+__919-660-5237
+
+__lisa.huettel@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

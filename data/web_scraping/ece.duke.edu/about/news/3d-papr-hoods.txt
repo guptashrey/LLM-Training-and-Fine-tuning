@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# 3-D Printing to Give Medical Teams the Highest Level of Protection
+
+April 13, 2020
+
+COVID-19 Engineering Response Team tackles powered, air-purifying respirator
+(PAPR)
+
+_From Duke Today_
+
+A protective respirator created by the Duke COVID-19 Engineering Response Team
+to combat the critical shortage of medical equipment was used successfully by
+health care workers in two Duke Health surgical cases last week.
+
+With the high need for more personal protective equipment, Duke engineering
+professors Ken Gall, Paul Fearis and Eric Richardson recognized the need to
+turn a surgical helmet, which uses room air, into a powered air purifying
+respirator (PAPR), which uses filtered air.
+
+The Duke Engineering team worked closely with Chip Bobbert, Sr. Engineer and
+Fabrication Architect in Duke’s Innovation Co-Lab to print and test numerous
+designs using their Formlabs printers.
+
+> “Basically, it is the highest level of protection we can offer our
+> providers, particularly those that are intubating patients,” - Eric
+> Richardson, Duke Biomedical Engineering.
+
+“We were able to use the wonders of 3D printing here at Duke to start to print
+those, see what works, see what didn’t. We worked through about four or five
+iterations, and so we ended up with the final version that you see on the suit
+now,” said Fearis, Lecturing Fellow, Senior in the Department of Biomedical
+Engineering.
+
+The modified protective equipment will keep doctors safe while caring for a
+patient.
+
+“Basically, it is the highest level of protection we can offer our providers,
+particularly those that are intubating patients,” said Eric Richardson,
+associate professor of the practice of Biomedical Engineering.
+
+Surgical N95 respirator face masks are personal protective equipment (PPE)
+that health care workers use to protect themselves from airborne and fluid
+dangers. When they are not used, there’s a risk the worker could be exposed to
+bodily fluids and blood, according the Centers for Disease Control.
+
+As many hospitals experience PPE shortages, PAPRs are an approved alternative
+that provides equivalent or greater protection for health care workers. The
+reusable respirators completely cover health care workers’ faces and a
+battery-powered blower pulls air through filters or cartridges.
+
+The task force developed the 3D printed part for the adapted helmet under the
+guidance of Duke orthopedic spine surgeon Melissa Erickson. Her idea of
+modifying a surgical helmet to incorporate a filter combined with her
+knowledge of medical equipment led the team to deliver a protective device
+that could be used to safeguard health care workers during the COVID-19
+pandemic. Erickson is a Weekend Executive MBA student at the Fuqua School and
+credits her work in operations management as inspiring her interest.
+
+> “The whole nation is undergoing a PPE shortage and our goal is to take care
+> of our patients, take care of our communities and also take care of our
+> healthcare workers. And what we started realizing is there is a limited
+> number of PAPRs” - Melissa Erickson, Orthopedic Spine Surgeon
+
+“Uniquely we have these helmets that we wear during arthroplasty surgery and
+we started to wonder, ‘Can these be repurposed?’ So if there’s national
+shortages on PPE and PAPRs, maybe we can use things that we have plenty of in
+the hospital and do modifications to be able to increase the number of
+protective personal equipment that we have to provide for health care
+workers.”
+
+The device sits on top of an existing piece of medical equipment and turns a
+surgical helmet system into a PAPR, which basically is the highest level of
+protection we can offer our providers, particularly those who are intubating
+patients, described Richardson.
+
+The task force’s PAPR was rigorously tested by a HEPA certification company,
+Precision Air Technology, before care providers began using it. They have
+already made more than a dozen additional units to deliver to Duke Health. The
+final devices for clinical use are being printed using a Formlabs printer and
+resin, a Boston based company with a local office in Durham. Richardson and
+the task force plan to continue printing the device in order to deliver more
+hoods to Duke Health in the coming days.
+
+“It's fun working with extremely talented people, and having an urgent and
+meaningful goal. I think we're all exhausted, but feeling like we're making
+impact,” said Richardson."
+
+In addition to the PAPRs, the COVID-19 Engineering Team also 3D printed a part
+to create medical shields, which has been approved for use by health care
+workers. The task force has been working to engineer and produce a wide range
+of much-needed equipment including bed tents to isolate infectious patients
+and 3D-printed “splitters” that make a single ventilator work for more than
+one patient.
+
+**For information about how to download and use the 3-D printed protective
+respirator, contactDuke's Office of Licensing and Ventures.**
+
+## Related News
+
+April 03, 2020
+
+### Solving Pressing Challenges: 3D Printing of Medical Grade Face Shields
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

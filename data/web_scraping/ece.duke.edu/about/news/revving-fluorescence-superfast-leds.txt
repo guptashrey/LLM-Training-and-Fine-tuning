@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Revving Up Fluorescence for Superfast LEDs
+
+October 13, 2014
+
+Duke University researchers have made fluorescent molecules emit photons of
+light 1,000 times faster than normal—setting a speed record and making an
+important step toward realizing superfast light emitting diodes (LEDs) and
+quantum cryptography.
+
+This year's Nobel Prize in physics was awarded for the discovery of how to
+make blue LEDs, allowing everything from more efficient light bulbs to video
+screens. While the discovery has had an enormous impact on lighting and
+displays, the slow speed with which LEDs can be turned on and off has limited
+their use as a light source in light-based telecommunications.
+
+In an LED, atoms can be forced to emit roughly 10 million photons in the blink
+of an eye. Modern telecommunications systems, however, operate nearly a
+thousand times faster. To make future light-based communications using LEDs
+practical, researchers must get photon-emitting materials up to speed.
+
+In a new study, engineers from Duke increased the photon emission rate of
+fluorescent molecules to record levels by sandwiching them between metal
+nanocubes and a gold film.
+
+The results appear online October 12 in _Nature Photonics_.
+
+“One of the applications we’re targeting with this research is ultrafast
+LEDs,” said Maiken Mikkelsen, an assistant professor of electrical and
+computer engineering and physics at Duke. “While future devices might not use
+this exact approach, the underlying physics will be crucial.”
+
+Mikkelsen specializes in plasmonics, which studies the interaction between
+electromagnetic fields and free electrons in metal. In the experiment, her
+group manufactured 75-nanometer silver nanocubes and trapped light between
+them, greatly increasing the light's intensity.
+
+When fluorescent molecules are placed near intensified light, the molecules
+emit photons at a faster rate through an effect called Purcell enhancement.
+The researchers found they could achieve a significant speed improvement by
+placing fluorescent molecules in a gap between the nanocubes and a thin film
+of gold.
+
+To attain the greatest effect, Mikkelsen's team needed to tune the gap’s
+resonant frequency to match the color of light that the molecules respond to.
+With the help of co-author David R. Smith, the James B. Duke Professor and
+Chair of Electrical and Computer Engineering at Duke, they used computer
+simulations to determine the exact size of the gap needed between the
+nanocubes and gold film to optimize the setup.
+
+That gap turned out to be just 20 atoms wide. But that wasn’t a problem for
+the researchers.
+
+“We can select cubes with just the right size and make the gaps literally with
+nanometer precision,” said Gleb Akselrod, a postdoc in Mikkelsen’s lab and
+first author on the study. “When we have the cube size and gap perfectly
+calibrated to the molecule, that’s when we see the record 1,000-fold increase
+in fluorescence speed.”
+
+Because the experiment used many randomly aligned molecules, the researchers
+believe they can do even better. They plan to design a system with individual
+fluorescent molecule placed precisely underneath a single nanocube. According
+to Akselrod, they can achieve even higher fluorescence rates by standing the
+molecules up on edge at the corners of the cube.
+
+“If we can precisely place molecules like this, it could be used in many more
+applications than just fast LEDs,” said Akselrod. “We could also make fast
+sources of single photons that could be used for quantum cryptography. This
+technology would allow secure communications across vast distances that could
+not be hacked—at least not without breaking the laws of physics.”
+
+This work was supported by the Lord Foundation of North Carolina and the Air
+Force Office of Scientific Research (Contract No. FA9550-12-1-0491).
+
+###
+
+CITATION: Gleb M. Akselrod, Christos Argyropoulos, Thang B. Hoang, Cristian
+Ciracì, Chao Fang, Jiani Huang, David R. Smith, Maiken H. Mikkelsen. “Probing
+the mechanisms of large Purcell enhancement in plasmonic nanoantennas.” Nature
+Photonics, 2014. DOI:10.1038/nphoton.2014.228
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

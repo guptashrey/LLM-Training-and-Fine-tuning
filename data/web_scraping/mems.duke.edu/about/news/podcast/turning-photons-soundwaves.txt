@@ -1,0 +1,384 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Turning Photons into Soundwaves
+
+October 5, 2021
+
+Duke Biomedical Engineering professor Junjie Yao has helped pioneer the field
+of photoacoustic imaging, which uses light and sound to create detailed and
+informative biological images of everything from a single cell to an entire
+body.
+
+## Listen
+
+## Transcript
+
+[Bells/intro music]
+
+ **Michaela Kane:** This is Rate of Change, a podcast from Duke Engineering
+dedicated to the ingenious ways engineers are solving some of society’s
+toughest problems. I’m Michaela Kane.
+
+When you hear the term biomedical imaging, you probably think of tools like
+ultrasound imaging, which allow us to see things like the growth of a fetus in
+a pregnant woman, an X-ray, to detect a fractured bone, or an MRI, which can
+spot an injury like an ACL tear other damage to your ligaments and tendons.
+
+These tools can provide clinicians with a large, anatomical view of different
+parts of the human body, but they don’t easily allow researchers to zoom in on
+smaller details and examine things like individual cells. And these tools
+aren’t ideal if you’re trying to study things as they move and change, like
+the level of oxygen consumption in the brain, blood flow across different
+organ systems, or even the temperature of deep tissues.
+
+But that’s where Junjie Yao and his imaging research come into play.
+
+ **Junjie Yao:** My name is Junjie Yao and I’m an assistant professor of Duke
+BME department. We are imaging scientists, and we develop a technology called
+photoacoustic imaging, and as you can tell by the name, that’s a two-part
+imaging technology. It has both photo, that is light, and acoustics, that is
+ultrasound.
+
+ **Kane:** Photoacoustic imaging is a hybrid of light and sound, where
+researchers will shoot a burst of light into a targeted tissue, and then
+they’ll use an ultrasound probe to read the resulting sound signals.
+
+Yao has been working with this tool for more than a decade, and in his lab at
+Duke, his team is able to use photoacoustic imaging to pursue both basic
+research and to advance projects could eventually help patients in the clinic.
+
+But the first step of this process involves harnessing the power of light.
+
+ **Yao:** It starts with, we use lasers to excite the tissues and the photons
+travel inside the tissue and some of them are absorbed by the molecules, like
+hemoglobin in the red blood cells or melanin on the skin surface or even DNA
+and RNA in the cell nuclei. And those molecules absorb some of the light, and
+the photons, they have energy. The energy of the absorbed photons is converted
+into heat. We call that the photothermal effect.
+
+According to Yao, it’s basically like collecting one second’s worth of summer
+sunlight, and then sending it to an area the size of a single fingernail for a
+single nanosecond. When the laser light hits the biomaterial, the energy from
+these photons will cause the tissue to heat up a tiny bit and expand
+instantaneously. This creates an ultrasonic wave that reverberates through the
+tissue and is picked up by an ultrasound sensor.
+
+ **Yao:** The beginning of the whole story is light is absorbed, and the end
+of the story is that sound is generated. And then we would do a computer
+reconstruction. So when we receive the signal we try to find where sound wave
+came from, just like the GPS, where you drive around and know where you are.
+It’s the same story in ultrasound imaging recon, where we try to find where
+the soundwaves come from originally, and that becomes the imaging
+reconstruction. And once we have that information there is following steps
+like imaging processing, and data processing and deep learning is involved so
+we can reconstruct more information. We can convert those boring electric
+signals into colorful images so people can have a better understanding of
+what’s really going on. We love to show the oxygenation of the blood with red
+or blue colors, and red color means it’s really oxygenated, and blue color
+means it’s less oxygenated. And of course, rest assured your blood is never
+blue, but that’s the way we demonstrate the contrast.
+
+When you look at an ultrasound image, you’d typically see a blurry photo that
+is in various shades of black and gray, making it incredibly difficult to
+decipher small details. But because photoacoustic imaging works with the full
+optical spectrum, the resulting images are incredibly colorful and make it
+much easier to see small details in tissues and cells.
+
+**Yao:** For photoacoustic imaging we are very sensitive to the colors of the
+materials, you know biomaterials or inorganic materials, so we are kind of a
+color sensor, and that is in the more professional way it’s in the optical
+absorption of the light. If we have different absorption of the light then we
+have different colors of all the materials, and photoacoustic imaging is
+fundamentally sensitive to that contrast. And that is the major difference
+with photoacoustic imaging and other technologies.
+
+**Kane:** The final images Yao and his team are left with can sometimes look
+more like abstract art than a visual of biological data, but they can showcase
+biology at an incredibly wide scale, ranging from individual organelles, cells
+or neurons to full muscle tissues and even organs. The imaging tool can also
+tell researchers about a tissue’s anatomical, functional and metabolic
+properties.
+
+Although this technology seems almost futuristic, the technique’s history
+actually dates back to 1880 with the inventor of the telephone—Alexander
+Graham Bell. Bell discovered that you could modulate sunlight to create
+soundwaves.
+
+He called this phenomena photoacoustic effect, so basically it’s from light to
+sound. He basically made up that name. And then his first response to that
+discovery was OK, so now we can create sound by using light. Can we make a
+phone call using this discovey? And he actually invented this photophone, and
+he used this technology to make a phone call with his associate who was 800
+yards away.
+
+ **Kane:** To use the photophone someone would project the voice through an
+instrument toward a mirror. The vibrations in the voice caused similar
+vibrations in the mirror. Bell would then direct sunlight into the mirror,
+which captured and projected the mirror’s vibrations. The vibrations were then
+transformed back into sound at the receiving end of the projection.
+
+The photophone functioned like the telephone, but rather than use electricity
+the photophone used light. Although Bell said that the photophone was his most
+important invention, the tool didn’t catch on like he hoped because he wasn’t
+ever able to develop a way to protect the light transmissions from outside
+interference. Things like clouds would often disrupt the light transmission.
+
+It was only with the advent of lasers in the 1950s—and the stable light source
+they provided—that people began to reevaluate the potential uses of the
+photoacoustic effect.
+
+ **Yao:** Then slowly this technology evolves with better and better light
+sources, better and better ultrasound detectors, and more powerful computers
+and more mathematicians joined. They developed imaging reconstruction and then
+many people are working together, like chemistry people and engineers, and
+here we are.
+
+ **Kane:** Now, more than 100 years after the technology was first developed,
+Yao and his team are exploring ways in which they can improve photoacoustic
+imaging for the next generation of scientists.
+
+ **Yao:** I try to summarize the work we’re doing is to try to make
+photoacoustic imaging faster, smaller and more colorful. In terms of faster,
+we want it to be faster so we can capture the dynamics and study different
+biological processes, and without worrying about motion artifacts. We also
+want the system to be smaller, and that doesn’t mean as small as an iPhone, we
+just want it to be more portable so it can be applied not just for
+applications in the lab, we can move it around, so for example to a patient
+bedside and to monitor freely moving animals. We’d also like to make it
+smaller to insert it into the body to do endoscopy studies and things like
+that.
+
+And more colorful, whatever we do we want to gather more information about the
+tissue and that information can be the oxygenation of the blood or the
+temperature of the tissue or the neuroactivity in the brain. So that
+information can be extracted from the photoacoustic signals. How can we do
+that? What kind of contrast do we use, and how do we process the data, and how
+do we combine them together to provide more information? In terms of how we
+apply those technologies for different studies? In addition to these studies,
+we have many ongoing projects in the lab.
+
+ **Kane:** The first of these exciting projects involves exploring how the
+brain responds to stroke.
+
+ **Yao:** People are working on stroke studies for years, but there is a lack
+of information about how the blood vessels in the brain respond to the stroke
+at different levels, for example—, how do the small vessels respond, how do
+the big vessels respond, and how does age play a role in this process. Old
+people, young people, so we’re studying this micro-vessel response to stroke
+in both young animals and aged animals. We’re really finding different
+responses in terms of the vessels impairment and restoration and functions.
+That’s one study we’re working on, and another study we’re working on is
+actually quite relevant to the clinical management of cardiac arrest.
+
+ **Kane:** In this project, Yao is exploring the impact that epinephrine has
+on brain function. Epinephrine is a drug that is commonly given to patients
+who have experienced cardiac arrest, as it increases blood pressure by
+constricting blood vessels throughout the body and helps give the heart a
+boost.
+
+ **Yao:** It’s widely used in hospitals and everywhere, but there is not much
+study about how the drug impacts brain functions. We know it can save the
+heart, but how about the brain? And we know that can become a very interesting
+question to ask so we can see how it actually changes the brains function. And
+we find it’s very dramatic. The heart can be revived but damage can be done to
+the brain just by the drug.
+
+ **Kane:** Already, the team has used photoacoustic imaging to see that the
+use of epinephrine in animal models reduces oxygen levels in certain sections
+of the brain. The team is hopeful that they can use photoacoustic imaging to
+explore how the drug can be optimized to save the heart without causing any
+further damage to the brain.
+
+ **Yao:** Before we look at this question, there was no technology that could
+do the same job. They were either too slow or they do not look at the micro
+vessels with enough resolution, so they don’t know what happens, which is
+really important.
+
+ **Kane:** Beyond these projects that can be applied to the clinic, Yao and
+his lab are also working with a research subject that’s a bit out of the
+ordinary.
+
+ **Yao:** Another project, which is very cool and it’s not about humans, it’s
+about a frog. So that’s on the very fundamental side and it tries to address a
+very fundamental question. Some frogs are naturally transparent. We’re not
+talking about Harry Potter potter’s invisible cloak. These kinds of frogs have
+their own capability to keep themselves safe. And they aren’t transparent all
+the time, they can be transparent sometimes. SO it’s always a mystery why they
+are transparent and why they keep transparent.
+
+ **Kane:** In this collaborative effort, Yao and his team will use
+photoacoustic imaging study how these frogs are able to turn themselves
+transparent without damaging their organs.
+
+ **Yao:** We’re working with our collaborators, and we’ve used photoacoustic
+imaging, and it’s totally noninvasive and quiet, and also you don’t have to
+inject anything into the frog and the frog can be totally in its natural
+status, and we found out they have a totally unique way to keep their
+transparency, and this can be significant because, again, you see we are very
+sensitive to colors, and the photoacoustic imaging is sensing their optical
+absorption. When it’s transparent that means the absorption of the light is
+minimized. IF you’re minimized in terms of absorption you’re transparent as
+well. So the frogs do have that mechanism to make themselves transparent by
+reducing the absorption of the light as it goes through the body, and they do
+this by basically rearranging their organs and to filter their blood to make
+themselves transparent. Humans have to rearrange their blood inside the body
+for example when there is bleeding, where the blood has to be arranged in the
+system to compensate for that loss. But that’s not so easy for humans, where
+if you concentrate too much blood in the system you could have clots that
+block the vessels. But these animals they don’t.
+
+ **Kane:** Although this work is in its fundamental stages, Yao and his
+collaborators are curious to learn how the frogs are able to reorganize their
+blood flow and organs as they become transparent.
+
+Understanding these basic questions, Yao says, could help them address
+clinical questions down the road.
+
+ **Yao:** I believe photoacoustic imaging can be a powerful tool for
+fundamental work, and I hope we can find more like this very cool, crazy
+research.
+
+ **Kane:** Yao is thrilled that this technology allows him freedom to pursue
+different projects, and he’s excited about the prospect of improving the
+technology for imaging scientists and patients alike.
+
+ **Yao:** The more I work on this technology the more I love it, and it is
+quite comprehensive, where you have to learn a lot about light and sound, but
+because of that it has a lot of flexibility, where you can really work on
+different aspects of the technology and just be as creative as you want. So I
+stay on this path and I believe I will stay on this path for the next tens of
+years.
+
+ **Kane:** Thanks for tuning into this week’s episode of Rate of Change.
+Remember to follow us on social media for updates and be sure to subscribe.
+Thanks for listening!
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Junjie Yao
+
+Assistant Professor of Biomedical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

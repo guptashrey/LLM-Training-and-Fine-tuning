@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Integrating Simulations of Complex Mechanics Across Campus
+
+February 21, 2017 | By Ariel Dawn
+
+Duke's Guglielmo Scovazzi is a recipient of the Presidential Early Career
+Award for Scientists and Engineers (PECASE)
+
+_Originally posted by the Information Initiative at Duke_
+
+Before leaving the White House in early January 2017, President Obama named
+Guglielmo Scovazzi, associate professor of civil and environmental engineering
+(CEE) and mechanical engineering and materials science (MEMS) at Duke
+University, as a recipient of the Presidential Early Career Awards for
+Scientists and Engineers (PECASE). This award is the highest honor bestowed by
+the U.S. government to science and engineering professionals in the early
+stages of their independent research careers.
+
+The awards, established by President Clinton in 1996, select researchers for
+their pursuit of innovative research at the frontiers of science and
+technology and their commitment to community service as demonstrated through
+scientific leadership, public education or community outreach.
+
+Scovazzi’s research is in the broad field of computational mechanics and, in
+particular, is aimed at the development of robust and accurate numerical
+modeling for solid and fluid dynamics, fluid/structure interaction, flows in
+porous media and geomechanics. The applications of Scovazzi’s research involve
+simulations in complex geometry on advanced parallel computing architectures,
+and find a broad range of applications in the fields of aerospace, mechanical,
+biomedical and petroleum engineering.
+
+_The geometry of many modern designs can be rather complex. By developing
+computational methods that are compatible with simple tetrahedral grid
+generators, G. Scovazzi and his group are attempting to vastly increase the
+computational efficiency of the design & analysis process. Simple finite
+element methods with linear interpolation do not perform well for
+incompressible materials like rubber and other polymers. However, G. Scovazzi
+and his group recently developed computational methods that successfully solve
+this issue. The picture above shows an incompressible stent in complex
+geometry that simulates twists under torsion load. The computations are stable
+and accurate, on computational grids that take only a few minutes to generate.
+These results can considerably speed up overall design and analysis _time,
+_and serve as a valuable tool for industrial designers._
+
+_Salt diapirs are buoyant instabilities in the crust of the earth originated
+when layers of salt are found below overburden layers of heavier rocks. These
+conditions are the results of salt deposition phenomena in the oceans
+alternated with turbidity currents (submarine mud slides). Over geologic
+times, the layer of mud that represents the salt overburden is subject to
+compaction, and increases its density, while the density of the salt remains
+approximately constant. Then a layer of heavier rock (in yellow in the picture
+above) is found sitting on top of a layer of lighter salt (in orange, in the
+picture above). This mechanical configuration is unstable, and leads to motion
+of the salt toward the surface of the earth. In the picture above, various
+level of viscoelastic dissipation in the salt (s) and overburden (o) are
+tested to gain insight on the mechanisms of salt diapirism. Salt diapirs are
+connected with the formation of oil reservoirs, since their motion can entrap
+layers of organic matter that eventually decompose into hydrocarbon compounds
+and oil._
+
+“I started to develop an interest in computational methods back as an
+undergrad at Politecnico di Torino, in Turin (Italy)," Scovazzi recalls. “I
+had joined the Aerospace engineering program, because of my interest since
+high school in the dynamics of air around aerodynamic shapes.”
+
+When Scovazzi was in high school, Italian science-oriented high schools
+provided instruction in mechanics, thermodynamics and electromagnetism, but
+not fluid dynamics because the math was seen as too difficult. At Politecnico
+di Torino, Scovazzi found computer simulation to be a very useful tool for the
+study of aerodynamic flows. He began creating computational methods for fluid
+dynamics, and became passionate about them. The Mechanical Engineering
+Department at Stanford had a much more robust computational fluid and solid
+mechanics program, and Scovazzi continued to pursue these interests during his
+Ph.D. program. Scovazzi then joined the Computer Science Research Institute at
+Sandia National Laboratories, in Albuquerque, New Mexico. Then, in 2012, he
+joined Duke’s CEE Department to add another dimension to his work by mentoring
+and teaching.
+
+“It is a great period in my life. I recently joined the Information Initiative
+@ Duke and moved to Gross Hall. It is a wonderful research environment,
+creative and innovative, and represents an important step in my career. In my
+field, there is a convergence between data analysis and simulation, between
+methods that originate in discrete mathematics and other methods that apply to
+the continuum.” Scovazzi reflects that his next steps will involve creating
+these simulations using simpler methods that still have the same accuracy and
+quality using complicated physics and geometry. “At the moment we are working
+on a number of very interesting problems in geomechanics, turbulent fluid
+mechanics, and fluid/structure interaction. In some of these problems,
+statistical and probabilistic methods are important factors. The convergence
+of disciplines like Statistics, Math, and Machine Learning here in iiD will be
+very relevant to where I am taking my research after winning this award. I am
+honored to be invited to work among such esteemed and influential colleagues.
+A big ‘thank you’ goes to Robert Calderbank for inviting me to become part of
+the Information Initiative at Duke!”
+
+“Guglielmo and his colleagues add a new dimension to iiD,” says Dr. Robert
+Calderbank, Director of iiD. “We are delighted to welcome them to the third
+floor of Gross Hall.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

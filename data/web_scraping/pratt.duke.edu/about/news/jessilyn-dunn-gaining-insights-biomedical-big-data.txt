@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Jessilyn Dunn: Gaining Insights from Biomedical Big Data
+
+June 5, 2018
+
+New faculty member Jessilyn Dunn explores how to use biomedical data sets to
+model and guide personalized therapies
+
+Jessilyn Dunn will join the faculty of Duke University’s Department of
+Biomedical Engineering (BME) and Department of Biostatistics & Bioinformatics
+(B&B) beginning January 1, 2019. With research centered on using large-scale
+biomedical data sets to determine positive health outcomes, Dunn will
+contribute to the growing focus on biomedical and health data sciences at
+Duke.
+
+Today, people are most familiar with health data due to the rising popularity
+of wearable technology, like fitness trackers or smart watches. These tools,
+which measure daily activity, workouts and sleep patterns, provide users with
+a general idea about their overall health and help them to form healthier
+lifestyle habits. Physicians use information that they collect from medical
+records and clinical chemistry tests, which identify biomarkers for complex
+diseases or disorders, to decide on the optimal treatment plans for patients.
+Large biomolecular data sets like genomics, proteomics and metabolomics are
+used largely by biomedical researchers, and their role in healthcare is
+expected to grow in the future as their clinical value is demonstrated. There
+has been little to no integration across these diverse types of biomedical
+data for research or healthcare to date.
+
+In her new role at Duke, Dunn aims to draw novel health insights and
+actionable conclusions by integrating data from these three sources (wearable
+devices, electronic health records, and multi-omics). A major focus of the
+Dunn Lab will be generating predictive models for different diseases using
+statistical and machine learning methods with the ultimate goal of developing
+effective and customized treatment plans tailored to individual patients.
+
+“I’m excited to bring a new facet of health and data science to Duke BME and
+B&B,” said Dunn. “By integrating diverse types of biomedical data, we can
+develop more precise ways to catch who is sick and who will become sick, and
+then develop appropriate therapeutic interventions. My goal is to turn data
+sources, like wearable technology, from an information delivery system into an
+insight delivery system to help people lead healthier lives.”
+
+Although data science is useful across a broad spectrum of diseases, Dunn has
+focused her efforts on two areas: cardiometabolic disease and pre-term birth
+and pregnancy.
+
+Cardiometabolic disease is a combination of disorders that includes both
+cardiovascular conditions, like heart disease, and metabolic diseases, like
+type 2 diabetes. Because many of these disorders share common symptoms,
+physicians typically use similar therapeutic treatment plans to treat a
+variety of cardiometabolic disorders. Through her work, Dunn hopes to use
+patient data to better inform and customize treatment plans.
+
+“We’re still trying to work out what kind of data is the most useful for
+creating a treatment plan for cardiometabolic disorders,” said Dunn. “Consumer
+wearables hold promise because we’re able to collect high-resolution data over
+long periods of time. That constant stream of data may be more useful when
+monitoring and treating cardiometabolic disease than blood tests and vital-
+sign testing that only occur infrequently at doctor’s visits.”
+
+In the realm of pregnancy, Dunn is using biomedical data to predict and
+prevent dangerous issues like preterm birth, which affects children born
+before the 37th week of pregnancy. Each year, more than one million newborns
+die from complications relating to preterm birth, and children who survive are
+more likely to develop health complications like breathing problems or
+developmental delays.
+
+“There are lots of problems that can occur during pregnancy that we don’t
+fully understand, and because of that we don’t always have effective methods
+for early intervention,” said Dunn. “One of the ways we’ve tried to
+incorporate data involved a wearable device to monitor EMG signals from the
+uterine wall. This type of data could help us develop computational models
+that are useful for predicting complications.”
+
+Dunn, who is currently a postdoctoral fellow at Stanford University, obtained
+a PhD in BME from Georgia Tech and Emory and a BS in BME from Johns Hopkins
+University. During that time, she studied the transcriptome and the epigenome
+of certain types of vascular cells to understand how these cells changed
+during disease processes. This research, she says, ignited a strong interest
+in the potential of data science, especially surrounding the potential of
+wearable technology to detect disease at different biological scales.
+
+“It was always exciting to see how our findings changed as we layered in
+different types of data from multiple sources,” said Dunn. “When I started at
+Stanford, I was thinking about what data we could add to information in
+medical records and biomolecular data sets that would have an impact. Wearable
+technology was the obvious next step.”
+
+Now, as Dunn prepares to make the transition to Duke, she looks forward to
+growing the field of data science with collaborators across the university.
+
+“Duke is at an exciting transition point, where there is a wide interest in
+using data science to revolutionize healthcare,” said Dunn. “I’m excited to
+build up the data science community within BME and drive Duke’s reputation as
+a premier institution in this fascinating and growing field.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

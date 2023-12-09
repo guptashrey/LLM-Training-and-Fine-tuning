@@ -1,0 +1,246 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2017
+
+# Envisioning the Future of Robots
+
+May 25, 2017
+
+The Amazon Picking Challenge pits Pratt's finest against international
+professionals and the demands of tomorrow's industrial needs
+
+From exciting advancements in automated cars to attack drones, the field of
+robotics has experienced tremendous growth and development in the past few
+years, leaving little doubt about a future in which robots and humans will
+share the road, sky and world. But as Kris Hauser, associate professor of
+electrical and computer engineering, says, the robotics field should not be
+overhyped. Even with the progress and innovation seen in recent years,
+robotics still poses difficult problems that cannot be solved overnight.
+
+At Duke, Professor Hauser teaches Pratt graduate and undergraduate students
+how to chip away at large robotics problems in the course ECE 496: Advanced
+Robotic Systems Design. Through the class, students explore the many types of
+real-world challenges engineers will face building complex systems. In 2016,
+the class was asked to design a robot to compete in the Amazon Picking
+Challenge (APC).
+
+As the largest online retailer in the world, Amazon has millions of items in
+the warehouse that have to be packed and shipped by hand. With increasing
+demand for online shopping, robots that can autonomously pick up the desired
+items from the shelves have the potential to greatly improve efficiency in the
+warehouse. The APC competition provides a unique venue for research teams all
+around the world to propose solutions to this interesting and challenging
+problem.
+
+For the competition, Amazon used common household items to test the robots,
+including soft clothing, boxed DVDs, bottles of water and a toothbrush. To
+successfully pick up these diverse objects, the robots must first recognize
+and locate the target objects. Next, a motion planning approach controls the
+movement of robot arms to steadily pick up the items and put them in the right
+place. Like the human brain, the autonomy of the robotic system is based on
+perception and actions—recognizing the object, sending the signal from sensors
+to the system and creating a control strategy, which results in the robot arm
+grasping the object.
+
+With these defined tasks and goals, the Amazon Picking Challenge created an
+atmosphere that captured the fun and exciting nature of competition—as well as
+its stresses. Last summer, thanks to support from Pratt and the Lord
+Foundation, Duke sent three undergraduates and one PhD student from ECE 496 to
+compete against 15 of the world’s top professional engineering teams and
+schools in the second Amazon Picking Challenge competition in Leipzig,
+Germany.
+
+Duke’s team was prepared with a number of unique tricks up their sleeves, like
+using scales to help recognize objects through weight as well as appearance,
+which helped their perception system work flawlessly during the competition’s
+stowing task. However, they still encountered intense challenges in Leipzig.
+
+“We had a sensor completely fail about 30 minutes before the picking task in
+the competition,” said Professor Hauser. “We had to very quickly change our
+sensor while simultaneously debugging the software. Everyone was very
+stressed, and we ended up not picking any objects.”
+
+It wasn’t until after competing that Hauser’s team discovered the reason for
+the failure: due to some last-minute hacking, a parameter for the vision
+module was off by a single decimal point.
+
+Even so, Duke’s team placed 8th overall—surpassing many other more experienced
+and better-funded teams. Professor Hauser commented that for their level of
+experience and resources, the team did very well: according to an analysis of
+the 2015 Amazon Picking Challenge, most participants were graduate students,
+post-docs or other professionals. No other team in 2016 was composed primarily
+of undergraduate students. The fact that they were able to compete on an
+international stage highlights the Pratt School of Engineering’s deep
+commitment and investment in preparing and motivating students to solve real-
+world problems.
+
+It’s clear that robotic system design is demanding and interdisciplinary work,
+requiring thorough mechanical design, sensor development and software coding
+for perception, planning and grasping. “You need to have perception to find
+objects,” said Professor Hauser. “You need to have decision-making about which
+object to grasp. For some of the harder tasks, you’d have to rearrange the
+shelves to pick up an object in the back. There are a lot of systems
+integration challenges when trying to put together the system in a relatively
+short amount of time, while making sure that every component is reliable.”
+
+Working in large teams is another real-life challenge that engineers face, and
+the students in ECE 490 learned how project management, goal-setting and
+interpersonal communication are important for maintaining a smooth-running
+team.
+
+“As much as I lecture about these topics in class, they usually need to be
+learned the hard way, and it’s better to fail in class than later on in the
+workplace,” said Professor Hauser.
+
+Beyond the competition, the Amazon Picking Challenge reflects recent trends in
+the field of robotics, where techniques once seen only in academic
+research—like object recognition, motion planning and grasp planning—are being
+used in industrial applications. The process of designing and building robots
+for the APC is already making significant contributions to the development of
+autonomous warehouse robots.
+
+There are many practical problems, however, still undergoing research. For
+example, in Amazon’s warehouse, there are thousands of possible objects to
+recognize rather than a few dozen, and they are packed five to ten times more
+tightly than in the challenge. Humans are also many times faster than even the
+robots from the top-placing teams. It is anyone’s guess as to whether these
+challenges will be cracked in the next few years, or even the next few
+decades.
+
+That said, the robotics field is in strong need of experts from many areas,
+including mechanical engineers, electrical engineers, computer programmers,
+artificial intelligence specialists and more. The interdisciplinary nature of
+the field can be difficult for students to navigate, but Professor Hauser has
+some words of advice. “The ideal profile of a robotics engineer or student s
+to have breadth in order to understand how to talk to people in different
+fields, and also have one area of depth that they specialize in.”
+
+**Guangshen Ma is a master’s student in mechanical engineering.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2017
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

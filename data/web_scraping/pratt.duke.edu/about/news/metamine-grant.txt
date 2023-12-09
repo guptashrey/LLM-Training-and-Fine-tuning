@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Liberating Data to Discover New Polymer Nanocomposites and Metamaterials
+
+February 13, 2019 | By Ken Kingery
+
+New $5 million project aims to build an organized, searchable framework
+complete with analytical and predictive tools for materials discovery
+
+A nationwide collaboration led by researchers from Duke University has secured
+funding to produce an organized, searchable, extensible repository of data on
+polymer nanocomposites and structural metamaterials complete with a suite of
+analytical and predictive tools to help spur the discovery of new materials.
+
+Polymer nanocomposites are composed of nanoparticles with at least one
+dimension smaller than 100 nanometers—such as carbon nanotubes—dispersed in a
+polymer matrix. Examples of such materials can be found in a myriad of
+applications ranging from medicine to energy to structural components in
+automobiles or sports equipment.
+
+Metamaterials are synthetic materials engineered to have counter-intuitive
+properties through unique structural geometry rather than chemical properties.
+For example, with the right combination of structural features, a material
+could have an inverted Poisson’s ratio, meaning rather than getting thinner as
+it is stretched, it gets thicker instead.
+
+The project is funded through a five-year, $5 million grant from the National
+Science Foundation’s Cyber-infrastructure for Sustained Scientific Innovation
+program, and links researchers from Duke, the California Institute of
+Technology, Northwestern University, Rensselaer Polytechnic Institute, and the
+University of Vermont.
+
+“If you do a literature search using a handful of keywords for a material
+property, you don’t get the data—you get a list of thousands of papers that,
+if you’re lucky, you’ll have access to. But you have to manually download and
+read each paper to see if it contains the information you’re seeking,” said
+Cate Brinson, the Sharon C and Harold L Yoh III Professor of Mechanical
+Engineering and Materials Science at Duke. “Researchers publish papers rich
+with information, but the information is held in PDF files that are not
+readily searchable to extract, visualize and compare data, except by old,
+time-consuming methods. In the age of digital data, we scientists should
+really be outraged by these limitations.”
+
+Brinson is, and she’s doing something about it. Her goal is to build a
+platform to house and use data in a strategic manner.
+
+Instead of producing a list of papers, the same keyword search in the designed
+framework—NanoMine for nanocomposites and MetaMine for metamaterials—will
+produce a plot of relevant data compared across different papers. The data can
+be further refined and exported, helping to benchmark a researcher’s own data
+with other published literature. This access to actual data from multiple
+sources simultaneously will allow researchers to find regimes and conditions
+where materials exhibit desired properties.
+
+In addition to the rigorous organization of and access to data, the platform
+will also host a suite of analytical tools and simulation capabilities.
+Application of machine learning algorithms on the array of data will enable
+researchers to deepen fundamental mechanistic understanding and push toward
+material design. The ultimate goal is to be able to request a material with a
+specific set of properties and have the suite of tools provide design
+scenarios for material composition, structure and processing to realize it.
+
+“True material design ‘ _in silico_ ’ is a really hard problem, but we believe
+we’ll be able to get there through building this infrastructure,” said
+Brinson. “Once you couple the right tools with the datasets, you open the door
+to a completely different method for discovery and material design.”
+
+As Brinson says, it’s a hard problem—but it’s one she already has experience
+solving. For the past five years, Brinson and her colleagues have been
+building the framework for the NanoMine platform for polymer nanocomposites.
+The new project will build out that infrastructure and demonstrate the
+extensibility of their approach to other classes of materials through the
+creation of MetaMine.
+
+Joining Brinson in her effort is Duke colleague Cynthia Rudin, associate
+professor of electrical and computer engineering and computer science, who
+will create machine learning algorithms to determine which input parameters
+are influencing the material properties of interest. Collaborating on machine
+learning is Wei Chen, the Wilson-Cook Professor in Engineering Design at
+Northwestern University, who also specializes in computationally describing
+material structures and properties.
+
+Deborah McGuinness, the Tetherless World Senior Constellation Professor at
+Rensselaer Polytechnic Institute, will build the ontological classification
+systems and the infrastructure behind them, allowing different types of
+queries and tools to be built more readily into the platform. Linda Schadler,
+now dean of the College of Engineering and Mathematical Sciences at the
+University of Vermont, will conduct targeted experiments to fill gaps in the
+literature to help the machine learning algorithms operate more efficiently.
+
+And for the expertise on mechanical metamaterials themselves, Brinson will
+turn to Chiara Daraio, professor of mechanical engineering and applied science
+at the California Institute of Technology.
+
+“All of the data researchers in these areas have created isn’t sitting where
+people can easily access, so they end up reinventing the wheel over and over
+again,” said Brinson. “Tackling the data accessibility and material design
+problem is a big challenge, but I’m confident we’ll rapidly make large strides
+toward solving it.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

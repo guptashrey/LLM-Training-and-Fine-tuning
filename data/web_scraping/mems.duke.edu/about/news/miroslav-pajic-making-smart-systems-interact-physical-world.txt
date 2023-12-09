@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Miroslav Pajic: Making Smart Systems That Interact with the Physical World
+
+April 2, 2015
+
+Connecting electronics embedded in everything around us to make the world a
+better place.
+
+Miroslav Pajic, an expert in cyber-physical systems, which merge physical
+processes with information systems, will join Duke University’s Department of
+Electrical and Computer Engineering as an assistant professor in July 2015.
+With a history of making the electronics embedded in the world around us
+connect and work together to safely interact with the physical world, Pajic
+will continue his focus on biomedical and automotive environments.
+
+From your watch to your refrigerator to your dog, it’s becoming increasingly
+difficult to find things in the modern world without some sort of sensor or
+microprocessor embedded into them. Even people, with medical technology like
+pacemakers and neural stimulators, are becoming more digitized.
+
+According to Pajic, just five years ago there were 30 embedded microprocessors
+in the environment per person—a global average that is continuously rising. As
+the trend escalates and modern systems become more complex, it’s critical to
+create reliable systems that can guarantee desirable levels of service, he
+says.
+
+“We’re moving into a new era of societal changes like the introduction of
+smart cities, autonomous vehicles and closed-loop medical devices,” said
+Pajic, who joins the Duke faculty from the University of Pennsylvania. “But if
+these systems are going to interact with and—even more challenging—control the
+world around us, they need to be built in a way that is safe, reliable and
+secure.”
+
+Two examples of Pajic’s work are in the medical device and automotive
+industries.
+
+In the medical arena, one of his efforts has been to improve the design of
+cardiac pacemakers to guarantee correct operation.
+
+“Software-based control of life-critical devices has become increasingly
+complex, especially in medical systems used for physiological closed-loop
+control,” explains Pajic. “For example, implantable cardiac pacemakers have
+over 80,000 lines of code responsible for maintaining the heart within safe
+operating limits. Existing design methods caused almost 2,000,000 software-
+based devices recalls in the past decade.”
+
+Rather than the proven but simplistic models of the past few decades, he is
+working to create devices that gather data and tailor their action to
+individual people and situations without compromising performance and—more
+importantly—patient safety, all within the constraints of the existing
+technology. And for healthcare settings, he is designing networked and
+interoperable medical systems that dole out the drugs patients need to control
+pain, without risking an overdose.
+
+Pajic also has his foot in the door of the autonomous automotive industry. For
+driverless cars to ever be adopted, they must provide a certain level of
+performance guarantees even when the system has been compromised; if the GPS
+is damaged or attacked, the car must be able to adapt.
+
+“We want autonomous cars, but we don’t want them to be safe and secure only 95
+percent of the time,” says Pajic. “As these vehicles heavily rely on embedded
+processors, we have to get past the point where errors are fixed by rebooting
+the system and starting from scratch. If components fail or are attacked, the
+system still has to work, maybe with reduced but satisfactory performance.
+Those are the kinds of guarantees we want to provide.”
+
+Pajic began his studies at the University of Belgrade in Serbia, where he
+earned undergraduate and master’s degrees in electrical engineering. He then
+moved for his PhD and postdoctoral work to the University of Pennsylvania,
+where he was a postdoctoral researcher in the PRECISE Center (Penn Research in
+Embedded Computing and Integrated System) before accepting the offer to join
+the Duke engineering faculty.
+
+“Duke is an amazing school that is very committed to research and has great
+students” says Pajic. “There are many people doing great work in computer
+engineering, signal processing, materials and robotics, and of course the
+medical school is a big plus. It has a great environment, and while the school
+is doing very well now, I think it will be even better in the future.”
+
+## Watch Miroslav Pajic's New Faculty Lecture:
+
+Meet our new 2014-2015 faculty members
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

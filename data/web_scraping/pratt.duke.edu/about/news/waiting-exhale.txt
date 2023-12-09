@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Waiting to Exhale
+
+June 1, 2015 | By Ken Kingery
+
+A new Duke ECE startup accelerator called DEEP SEA is funding a PhD graduate’s
+idea to transform how blood glucose is monitored
+
+A startup company based on technology invented at Duke University is working
+to make blood glucose measurement as easy as exhalation—and end the need to
+draw blood.
+
+The idea is the brainchild of Ryan McCormick, a recent PhD graduate from
+Duke’s Department of Computer and Electrical Engineering (ECE), who spent the
+past five years working on the underlying technology as his thesis.
+
+Working in the laboratory of Adrienne Stiff-Roberts, an associate professor in
+ECE, McCormick developed an organic deposition technique called RIR-MAPLE that
+can produce a thin film with a rough surface that acts as a sort of Velcro for
+volatile organic compounds. Although his initial focus was on optoelectronic
+applications like organic LEDs or solar cells, McCormick quickly realized that
+his innovation would be well-suited for picking out organic molecules from
+gases.
+
+“It’s a broad-based method that could be used in many different areas, but the
+first application we’ve chosen to pursue is monitoring glucose levels for
+people with Type 1 diabetes,” said McCormick, who came to Duke in 2009 after
+working for two companies—one a small business and another a startup.
+“Ultimately, we’d like to expand our work to a platform technology that could
+be used for multiple pathologies.”
+
+> "If a student is finishing a thesis and thinks they have a great idea for a
+> business, they’re kind of stuck between trying to launch a startup and
+> trying to pay rent. We wanted to build a program that lets them focus on
+> their startup so that instead of trying to impress a venture capitalist with
+> an idea, they could approach them with an idea, a prototype and a business
+> plan.”
+
+When the human body is incapable of creating insulin, it turns to several
+different processes to control glucose levels. One of these reactions breaks
+down fats in the body, creating acetone. While acetone levels and glucose
+aren’t directly tied, McCormick believes he can use it with a handful of other
+biomolecular markers to make a direct correlation between the chemical
+composition of a person’s breath and the amount of glucose in their
+bloodstream.
+
+It is an intriguing idea that has gained support from the ECE department
+through the Duke Engineering Entrepreneurial Pipelines Startup Entry
+Accelerator—or DEEP SEA for short. Launched this year, DEEP SEA is a startup
+competition that provides up to $75,000 in funding along with mentoring and
+connections to the entrepreneurial community. The team is expected to create a
+prototype of their concept and develop a business plan that prepares them for
+the next stage of investment. The brainchild of Andrew Hilton, assistant
+professor of the practice and managing director of graduate studies for ECE,
+Chris Dwyer, associate professor of ECE and Jeff Glass, professor of ECE and
+Hogg Family Director of Engineering Management & Entrepreneurship, the only
+requirement is that the team must include at least one ECE graduate student.
+
+“The ECE department prides itself on fostering entrepreneurship,” said Hilton.
+“If a student is finishing a thesis and thinks they have a great idea for a
+business, they’re kind of stuck between trying to launch a startup and trying
+to pay rent. We wanted to build a program that lets them focus on their
+startup so that instead of trying to impress a venture capitalist with an
+idea, they could approach them with an idea, a prototype and a business plan.”
+
+DEEP SEA puts recent graduates with a great idea together with two faculty
+mentors—one for technology and one for business. McCormick’s technology mentor
+is his PhD advisor, Adrienne Stiff-Roberts. His business mentor is Kevin
+Wright, an adjunct associate professor in Duke’s Master of Engineering
+Management Program, which provides early-career engineers a tech-savvy
+alternative to an MBA.
+
+McCormick has also received business insight from the National Science
+Foundation’s Innovation Corps program, which he describes as a “business boot
+camp for engineers.” During the three-month program, participants present
+weekly updates on developing a business plan by trying to find customers
+before starting the business.
+
+The insights gained were invaluable to McCormick and his team, who thought
+that pricking the finger was the biggest problem for diabetics monitoring
+their glucose levels.
+
+“But that’s not what we found at all,” said McCormick. “Everyone is used to
+pricking their fingers. It turns out that different groups have different
+needs. For example, adults want something seamless that integrates with their
+smartphones while kids want something they can do on the sly to avoid having
+to take out cumbersome kits in class.”
+
+McCormick and his team are currently working out exactly which molecules they
+need to monitor to get an accurate glucose reading from a person’s breath.
+Depending on how few they can focus on, their sensor could be as small as a
+single square centimeter. At that size, the sensor could be integrated into a
+small Bluetooth-capable device with its own app.
+
+“If we could make something similar to an asthma inhaler that you simply blow
+into and it delivers your glucose levels to your phone, we think we could find
+a big market for that,” said McCormick.
+
+Learn more about DEEP SEA at ece.duke.edu/phd/deep-sea
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

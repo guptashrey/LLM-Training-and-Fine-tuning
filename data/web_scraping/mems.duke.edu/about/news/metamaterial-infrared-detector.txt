@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gold-Plated Crystals Set New Standard for Natural Gas Detectors
+
+April 6, 2017 | By Ken Kingery
+
+New metamaterials-based technology could replace infrared sensors used for gas
+leaks, agriculture and recycling
+
+Materials scientists and engineers have developed a sensor that is fast,
+sensitive and efficient enough to detect specific wavelengths of
+electromagnetic energy while on the move. The technology could actively scan
+areas for methane or natural gas leaks, monitor the health of vast fields of
+crops or quickly sort plastics for recycling.
+
+Working closely with the optoelectronic materials company SRICO, engineers
+from Duke University have built a prototype detector that beats the existing
+competition in size, weight, power, speed and, most importantly, cost.
+
+The new technology relies on metamaterials—engineered structures made of
+carefully designed repeating cells that can interact with electromagnetic
+waves in unnatural ways. By combining seemingly simple patterns of metal with
+extremely thin slices of perfect crystals, the engineers created a streamlined
+device able to detect invisible infrared signatures emitted by various kinds
+of gasses, plastics and other sources.
+
+The results appeared on February 20, 2017, in the journal Optica.
+
+“The benefit of using metamaterials is that different components required in a
+detector can be combined into one feature,” said Willie Padilla, professor of
+electrical and computer engineering at Duke. “That simplification gains you a
+lot of efficiency.”
+
+In a typical thermal detector, infrared light waves are absorbed and converted
+into heat by a black substance, essentially soot. That heat is conducted to a
+separate component that creates an electrical signal that is then read out.
+This setup creates speed limitations, and only by overlaying filters or a
+complex system of moving mirrors, can specific wavelengths be singled out.
+
+The new metamaterial sensor skirts both of these issues.
+
+Each tiny section of the detector consists of a pattern of gold sitting on top
+of lithium niobate crystal. This crystal is pyroelectric, meaning that when it
+gets hot, it creates an electrical charge. Like shaving a piece of cheese off
+a block, engineers at SRICO use an ion beam to peel a slice of crystal just
+600 nanometers thick. This technique eliminates potential defects in the
+crystalline structure, which reduces background noise. It also creates a
+thinner slice than other approaches, allowing the crystal to heat up more
+quickly.
+
+Ordinarily, this crystal is so thin that light would simply travel through
+without being absorbed. However, researchers tailor the top layer of gold into
+a pattern that combines with the properties of the crystal to cause the pixel
+to absorb only a specific range of electromagnetic frequencies, removing the
+need for separate filters. When the crystal heats up and generates an electric
+charge, the gold then does double duty by carrying the signal to the
+detector’s amplifier, eliminating the need for separate electrical leads.
+
+“These designs allow this technology to be 10 to 100 times faster than
+existing detectors because the heat is created directly by the crystal” said
+Jon Suen, a postdoctoral associate in Padilla’s laboratory. “This lets us
+create devices with fewer pixels and also presents the ability to sweep the
+detector across an area or capture images in motion.”
+
+“This is such a good marriage of technologies,” said Vincent Stenger, an
+engineer at SRICO and coauthor of the paper. “Working with Duke has been one
+of the most ideal situations I’ve had with technology transfer. We can focus
+on making the material and they can focus on the device structure. Both sides
+have been contributing with a clear product in mind that we’re now working on
+marketing.”
+
+The researchers can fabricate the device to detect any specific range of
+electromagnetic frequencies simply by redesigning the details of the gold
+pattern.
+
+Stenger and his colleagues at SRICO have already created a single-pixel
+prototype as a proof of concept. They are currently working to find funding
+from industry investors or possibly a follow-on government grant.
+
+The researchers are optimistic as their device has many advantages over
+existing technologies. Its fast detection time would allow it to quickly scan
+over an area while looking for methane or natural gas leaks. The simplicity of
+its design makes it lightweight enough to carry into fields to assess the
+health of agricultural crops.
+
+“You could even make this into a low-cost lab instrument for spectroscopy for
+medical samples,” said Padilla. “I’m not sure what the eventual price point
+would be, but it’d be a lot less than the $300,000 instrument we currently
+have in our laboratory.”
+
+This research was supported by the U.S. Army Research Laboratory
+(W311SR-14-C-0006).
+
+Jonathan Y Suen, Kebin Fan, John Montoya, Christopher Bingham, Vincent
+Stenger, Sri Sriram, Willie J. Padilla. “Multifunctional metamaterial
+pyroelectric infrared detectors.” Optica, 2017. DOI: 10.1364/OPTICA.4.000276
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

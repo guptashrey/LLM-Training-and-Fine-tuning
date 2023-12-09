@@ -1,0 +1,197 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2016
+
+# Duke IEEE: Innovation without Bounds
+
+April 27, 2016 | Natalie Le
+
+Having grown tremendously in both number and expertise since their start in
+2013, Duke IEEE will surely continue to impress.
+
+## SoutheastCon
+
+Every year, Duke’s branch of the Institute of Electronics and Electrical
+Engineers (IEEE) competes against other collegiate teams in the Hardware
+Competition at IEEE SoutheastCon. With its fun but relevant themes, this
+competition helps students gain a better understanding of how robotics can be
+applied to modern-day problems. In preparation, Duke IEEE typically splits up
+into separate groups to work on different aspects of their robot, such as its
+software and hardware. They later reconvene to incorporate all the components,
+which allows members to cooperate with one another while developing their
+knowledge in the areas they are most interested in.
+
+In 2015, SoutheastCon took place in Fort Lauderdale, FL, and the theme was
+road trips. Points were earned based on the robot’s ability to travel along a
+distinctly marked path, play with an electronic children’s toy, write out
+“IEEE” using an Etch-A-Sketch, rotate a row of a Rubik’s cube and carry a
+single playing card to the end of the course. The robots are autonomous,
+meaning that they are pre-programmed and do not have a driver to control them.
+Since the robots are expected to maneuver the course entirely on their own,
+most of the work occurs before the day of the competition itself.
+
+Duke IEEE spent approximately two months building their robot. Its four-wheel
+perpendicular drive system made it easier to maneuver turns, and a
+photoresistor was used to detect the start signal, which was a red LED light.
+Stacks, an abstract data type that executes code in reverse order (starting
+from what was done last), were used to make their robot retrace its steps
+after every obstacle before continuing along the course. This aspect of its
+coding was extremely advantageous and set Duke IEEE apart from other teams,
+which often hard-coded their robots to turn around. In these cases, if the
+programming didn’t exactly match the course, then the robot could easily veer
+off path.
+
+## Mixing Drinks with Technology
+
+One of Duke IEEE’s most popular projects was the drink mixer that they created
+for the 75th anniversary of the Pratt School of Engineering. Debuted during
+the 2014 Pratt Alumni Weekend, this unique mixer impressed both current and
+returning Duke engineers. Constructed from clear laser-cut and frosted
+acrylic, its design was sturdy yet sleek. Multicolored LEDs, programmed using
+the open-source electronic prototyping platform Arduino, created a stunning
+lights display that synced to whatever music was playing during the event.
+Users could personalize their drinks using an Android app that would measure
+and mix specific ratios of ingredients.
+
+The drink mixer has been used for multiple occasions since its debut, such as
+for the Foundry Open House and Club Fair. It has been quite successful in
+garnering positive reactions, as shown by the rise in Duke IEEE’s recruitment
+following these events.
+
+Upcoming projects on Duke IEEE’s agenda include building a word clock and a
+chess-playing robot and attending their annual SoutheastCon entry. The group
+meets in The Foundry makerspace at Duke every Saturday to work on these
+projects, plan new ones and teach skills to less-experienced members. Having
+grown tremendously in both number and expertise since their start in 2013,
+Duke IEEE will surely continue to impress.
+
+_Natalie Le is a freshman planning to double major in electrical and computer
+engineering and physics._
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2016
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

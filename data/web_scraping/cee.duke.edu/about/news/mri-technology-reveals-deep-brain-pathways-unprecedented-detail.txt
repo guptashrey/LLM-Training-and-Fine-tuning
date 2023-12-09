@@ -1,0 +1,225 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# MRI Technology Reveals Deep Brain Pathways in Unprecedented Detail
+
+June 24, 2015
+
+A Duke MD-PhD student improves brain imaging resolution 1000 times over, which
+could lead to better treatment of tremors and other neurological disorders
+
+_Reposted from Duke Medicine News and Communications_
+
+Scientists at Duke Medicine—including a recent Duke biomedical engineering PhD
+graduate—have produced a 3-D map of the human brain stem at an unprecedented
+level of detail using MRI technology.
+
+In a study to be published June 3 in Human Brain Mapping, the researchers
+unveil an ultra high-resolution brain stem model that could better guide brain
+surgeons treating conditions such as tremors and Parkinson’s disease with deep
+brain stimulation (DBS).
+
+The new 3-D model could reduce risky trial-and-error as surgeons implant
+electrodes — a change akin to trading an outdated paper road atlas for a real-
+time GPS.
+
+“On the conventional MRI that we take before surgery, the thalamus looks like
+a gray mass where you can see only the borders,” said neurosurgeon Nandan Lad,
+M.D., Ph.D., director of the Duke NeuroOutcomes Center and an author of the
+paper. “Now we will have actual detail. With this map, for the first time
+we’re able to see the thalamus and that underlying circuitry that we are
+modulating.”
+
+Many neurosurgeons currently rely on lower resolution CT and MRI scans and
+geographic coordinates relative to the planes of the brain to guide them when
+placing electrodes into the thalamus. They are targeting a circuit called the
+dentatorubrothalamic tract or DRT (depicted as an X-shaped pathway in the
+accompanying image), Lad said.
+
+Surgeons must often remove and reinsert electrodes and test frequencies to
+find the spots inside the thalamus where, for instance, the electric current
+subdues the hands of a patient with debilitating tremors. This indirect
+targeting is the standard of care for DBS, but comes with risk. Moving an
+electrode requires another pass through delicate tissue, and complications
+from DBS can include hemorrhage, seizure, or memory problems.
+
+“This map will potentially help us reach the optimal target the first time,”
+Lad said. “It could eliminate trial and error and make the surgery safer.”
+
+The map was produced by technology developed at the Duke Center for In VIvo
+Microscopy by Evan Calabrese, who is enrolled in the School of Medicine’s
+Medical Scientist (MD-PhD) Training program. As part of his PhD research in
+biomedical engineering, Calabrese worked to extend diffusion tensor imaging
+(DTI) to microscopic resolutions, creating images 1000 times more detailed
+than routine clinical scans.
+
+DTI works by using many 3D images to calculate tensors—simplified mathematical
+representations of data—describing the direction and amount of water diffusion
+at that point, indicating where neural fibers and connections are located.
+Calabrese’s research developed imaging hardware and software that could
+develop a neural map with an unprecedented (200 micron) resolution.
+
+The map was produced from a 10-day scan of a healthy donor’s postmortem brain
+stem in a 7-Tesla MRI system, and then converted into a 3-D model that can be
+proportionally scaled to fit a person’s unique brain anatomy using a high-
+performance computing cluster.
+
+“These images are 1,000 times more detailed than a clinical MRI,” said G.
+Allan Johnson, senior author of the paper and director of the Duke Center for
+In Vivo Microscopy, where the brain stem was scanned. “You can actually see
+the nerve fibers in the brain, how they’re crossing, and the subtleties of
+contrast between gray and white matter in the brain far beyond what a clinical
+scan could offer.”
+
+To test the accuracy of the model, the researchers conducted a retrospective
+study of 12 patients who had already been treated successfully for tremors
+using DBS. The researchers used the 3-D model to predict the best placement
+for the electrodes in each patient. The predictive computer model and the
+actual successful electrode placements correlated for 22 of 24 electrodes in
+the dozen patients, the study showed.
+
+The researchers will soon begin a prospective study using the 3-D model to
+guide DBS surgery.
+
+“As time goes on, imaging will only continue to get better,” Lad said. “We are
+well-equipped and at the cutting edge of understanding how to apply this
+technology, and will be in an even better position to treat more patients with
+fewer side effects."
+
+The Duke team will also pursue high resolution imaging of other circuits in
+the brain, brain stem and spinal cord to develop new treatments for other
+conditions.
+
+“We now have a guide to be able to visualize these complex neuronal
+connections that would otherwise be impossible to see,” said Calabrese, who
+was the lead author of the paper. “This will help us continue to explore
+applications for treatments of Alzheimer’s disease, neuropathic pain,
+depression and even obsessive compulsive disorders.”
+
+In addition to Johnson, Calabrese, and Lad, study authors include Patrick
+Hickey, Christine Hulette, Jingxian Zhang, and Beth Parente.
+
+The researchers received funding from the National Institutes of Health and
+the National Institute of Biomedical Imaging and Bioengineering (P41
+EB015897).
+
+###
+
+“Postmortem diffusion MRI of the human brainstem and thalamus for deep brain
+stimulator electrode localization.” Evan Calabrese, Patrick Hickey, Christine
+Hulette, Jingxian Zhang, Beth Parente, Shivanand P. Lad, G. Allan Johnson.
+_Human Brain Mapping,_ 2015 Jun 3. doi: 10.1002/hbm.22836.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

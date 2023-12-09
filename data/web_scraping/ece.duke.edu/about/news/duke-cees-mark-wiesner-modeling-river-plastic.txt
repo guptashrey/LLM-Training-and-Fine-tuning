@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke CEE's Mark Wiesner: Modeling a ‘River of Plastic’
+
+December 8, 2022
+
+Plastic particles are everywhere in our environment. Wiesner explains in this
+Q&A why we must better understand the implications
+
+James B. Duke Distinguished Professor of Civil and Environmental Engineering
+Mark Wiesner led the NSF-funded Center for Environmental Implications of
+Nanotechnology, or CEINT. The center created a community of researchers from
+across the United States and internationally to investigate the transport and
+fate of nanomaterials in the environment.
+
+Now, Wiesner has turned his attention to plastics which can form so-called
+“incidental” nanoparticles as products break down in the environment. The
+European Chemical Industry Council (CEFIC) will fund Wiesner’s initial effort
+to model how polymers of all stripes escape into the environment and how they
+break down there.
+
+Working with colleagues in the United Kingdom’s Center for Ecology and
+Hydrology, and Switzerland’s Federal Laboratories for Materials Science and
+Technology (EMPA), this team will interface with ongoing efforts funded by
+CEFIC at Duke and internationally on the plastic fragmentation and the release
+of chemical additives from plastics.
+
+He explains the significance of the newest project directed and quantifying
+sources of plastics and its expected outcomes in this Q&A:
+
+What are you trying to discover about the flow of plastic into the
+environment?
+
+If you look at what’s floating around in the big gyres like the Pacific
+Garbage Patch, that plastic material accounts for somewhere around 30% of what
+we know is being thrown away. So the question is, where is the rest going? One
+hypothesis is that much of the unaccounted-for material is making its way
+beneath the surface in the form of micro- and nanoplastics.
+
+> "If you look at what’s floating around in the big gyres like the Pacific
+> Garbage Patch, that plastic material accounts for somewhere around 30
+> percent of what we know is being thrown away. So the question is, where is
+> the rest going? "
+>
+> **Mark Wiesner** | Duke Professor of Civil & Environmental Engineering  
+>
+
+Animals don’t become entangled in microplastics or choke on nanoplastics. Why
+should we worry about these tiny particles?
+
+Most of us have plastics in our bloodstream now, and there are plastics in
+much of the food that we eat. The health consequences of that exposure are not
+well understood.
+
+We know from our extensive work with nanomaterials that response curves change
+when the particles break down to nanoscale. The particles can get to places
+where they couldn’t get to otherwise, and they can deliver their cargo to
+tissues, but we don’t understand the health implications of that yet.
+
+Plastic products are vehicles that move around contaminants that we know are
+toxic, though, including additives like plasticizers. These plastic products
+are getting out in the environment where they may be taken up by organisms,
+creating potentially unique exposures to some of these chemical contaminants.
+
+How are people exposed to the chemical contaminants in plastics, exactly?
+
+Take wastewater treatment sludge: it may contain residual plastic in
+significant quantities. Municipalities often take the sludge and distribute it
+on fields. That’s good in one sense because the sludge is a fertilizer, but
+this is one way that plastics can make their way in soils.
+
+Another way is from plastics used in agriculture. You’ll often see
+agricultural fields are covered by “foils,” which are plastic sheets installed
+to prevent the growth of weeds. This is good, in that it reduces herbicide
+application. But again, you end up with some of that plastic being worked into
+the soil. How do worms and bacteria and plants interact with all these
+particles and associated chemicals? These are issues that are not well
+understood.
+
+Since you’ve begun working on these projects, have you been surprised by
+anything you’ve found?
+
+Some of the sources we have initially identified are surprising in the sense
+that you might not think of them as sources of plastics. For example, tire
+wear is a huge source of what we would consider to be microplastics, which end
+up in urban sediments. Clothing is another one. There are all these synthetic
+fibers that are shed when you wash your clothes. They make their way into
+surface waters or sludges via wastewater that end up in the landfill or
+applied to fields.
+
+What is the model going to look like, and how will other researchers be able
+to use it?
+
+The model begins with estimates of the total materials produced and then
+tracks where different plastics go during their life cycle of use and
+disposal. Graphically you can think of it like a river flowing in reverse. You
+start out from a big river composed of all the plastics used across the full
+range of professional, consumer and industrial scenarios. It branches out into
+smaller and smaller “rivers” and subdivides as plastic metaphorically flows
+into different use and disposal scenarios.
+
+> "Modeling helps us understand how we use plastics and whether the risks are
+> justified by the use."
+
+Modeling helps us understand how we use plastics and whether the risks are
+justified by the use. For example, plastics allow us to make lighter cars that
+reduce fuel consumption and reduce the amount of CO2 we emit into the
+atmosphere. Plastics allow us to grow more food— and we just reached the
+population milestone of eight billion people living on the planet, so we need
+more food. Medicine, food preservation, and so on ... the benefits are
+considerable.
+
+This model will help us all understand how we’re making things and where
+they’re going. In this case, we’re enlarging a model that was done for
+Switzerland and applying it to Europe. In looking at that change of scale I
+think we’ll learn about how transportable some of these concepts are.
+
+More News from Duke CEE
+
+## Related News
+
+February 05, 2019
+
+### Wiesner Appointed to U.S. EPA Science Advisory Board
+
+October 25, 2018
+
+### Ten Years In, What Has CEINT Taught Us?
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Atomic Dynamics of Rare Everlasting Electric Fields
+
+January 10, 2018 | By Ken Kingery
+
+Confirming a theoretical model required blasting a sample at 3,000 degrees
+with neutrons
+
+By ricocheting neutrons off the atoms of yttrium manganite (YMnO3) heated to
+3,000 degrees Fahrenheit, researchers have discovered the atomic mechanisms
+that give the unusual material its rare electromagnetic properties. The
+discovery could help scientists develop new materials with similar properties
+for novel computing devices and micro-actuators.
+
+The experiment was conducted as a collaboration between Duke University and
+Oak Ridge National Laboratory (ORNL) and appeared online in Nature
+Communications on January 2, 2018.
+
+Ferromagnetism is the scientific term for the phenomenon responsible for
+permanent magnets like iron. Such materials exist because their molecular
+structure consists of tiny magnetic patches that all point in the same
+direction. Each patch, or domain, is said to have a magnetic dipole moment,
+with a north and a south pole, which, added together, produce the magnetic
+fields so often seen at work on refrigerator doors.
+
+Ferroelectricity is a similar property, but more rare and difficult to
+conceptualize. In much the same way as a permanent magnet, a ferroelectric
+material consists of domains with electric dipole moments aligned with one
+another. This produces a naturally occurring permanent electric field, like a
+collection of microscopic balloons with a long-lasting charge of static
+electricity.
+
+Yttrium manganite is one of the very few materials that combine both the
+ferroelectric property and also magnetic ordering at extremely cold
+temperatures. This rare combination presents the interesting possibility of
+controlling the material’s magnetic properties with electricity and vice
+versa. Harnessing this ability could let scientists create more efficient
+computers based on four digit-states rather than just today’s 1s and 0s by
+flipping both electrical and magnetic states, as well as new types of sensors
+and energy converters.
+
+“These so-called multi-ferroic materials are very rare,” said Olivier Delaire,
+associate professor of mechanical engineering and materials science and of
+physics at Duke. “But if we can understand the mechanisms of what is happening
+at the atomic level, we have a better chance of designing and discovering more
+materials enabling new technologies.”
+
+Because the ferroelectric behavior of yttrium manganite only turns off above
+3000 degrees Fahrenheit, researchers have never been able to probe the atomic
+vibration waves that yield the desired arrangement of microscopic electric
+dipoles. While the molecular underpinnings of yttrium manganite’s
+ferroelectric properties have been theorized, there have never been direct
+measurements to prove them.
+
+> “This material was never previously understood on such a fine atomistic
+> level. Our experimental results will allow researchers to refine theories
+> and create better models of these materials so that we can design even
+> better ones in the future.”
+
+To determine how the property arises, researchers must probe the wave-like
+vibrations of the stacking of atoms in the material, which oscillate at
+frequencies over a thousand billion times per second. They also must do this
+both above and below the 3000 degree ferroelectric switching temperature,
+which is a tall task, to say the least. But that’s precisely what the
+researchers did.
+
+“It was challenging to measure the atomic oscillations above 3000 Fahrenheit,”
+said Dipanshu Bansal, a postdoctoral scholar in the Delaire research group at
+Duke and the lead author on the study. “It required high-intensity neutron
+beams, special high-temperature materials and a controlled atmosphere furnace
+heating the sample in the air to avoid decomposing the sample, which would
+otherwise happen in a more standard vacuum furnace.”
+
+The experiments involved shooting the extremely hot sample of yttrium
+manganite with neutrons. By detecting where the neutrons ended up after
+colliding with the sample’s atoms, the researchers could determine where the
+atoms were and how they were collectively oscillating. There are very few
+places in the world that have such capabilities, and the Oak Ridge National
+Laboratory, a few hours’ drive from Duke, happens to host both the High-Flux
+Isotope Reactor and the Spallation Neutron Source, the most powerful source of
+neutron beams in the world.
+
+The researchers probed the material using neutrons at various energies and
+wavelengths, giving an overall picture of its atomic behaviors. They found
+that above the transition temperature, a certain group of atoms were free to
+move around and vibrated together in a particular way. But as the material
+cooled and shifted phases, those atoms froze into the permanent crystalline
+arrangement that is responsible for the ferroelectric properties.
+
+And to confirm the neutron results, the researchers also used the ultra-bright
+X-ray beams at the Advanced Photon Source at Argonne National Laboratory and
+performed large-scale quantum simulations of atomic behavior with the
+supercomputers of the National Energy Research Scientific Computing Center at
+Lawrence Berkeley National Laboratory.
+
+“This material was never previously understood on such a fine atomistic
+level,” said Bansal and Delaire. “We’ve had theories about the importance of
+atomic oscillations, but this is the first time we’ve directly confirmed them.
+Our experimental results will allow researchers to refine theories and create
+better models of these materials so that we can design even better ones in the
+future.”
+
+This research was supported by the U.S. Department of Energy (DE-SC0016166),
+the National Science Foundation (DMR-1350002), Oak Ridge National Laboratory,
+Argonne National Laboratory, the National Energy Research Scientific Computing
+Center and UT-Battelle, LLC.
+
+“Momentum-Resolved Observations of the Phonon Instability Driving Geometric
+Improper Ferroelectricity in Yttrium Manganite.” Dipanshu Bansal, Jennifer L.
+Niedziela, Ryan Sinclair, V. Ovidiu Garlea, Douglas L. Abernathy, Songxue Chi,
+Yang Ren, Haidong Zhou and Olivier Delaire. Nature Communications 9, 15
+(2018). DOI: 10.1038/s41467-017-02309-2
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

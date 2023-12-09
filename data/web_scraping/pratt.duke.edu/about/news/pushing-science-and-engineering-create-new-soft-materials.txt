@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pushing Science and Engineering to Create New Soft Materials
+
+September 7, 2017
+
+Engineering team part of prestigious NSF initiative
+
+Engineering new materials holds enormous potential to improve and advance the
+global community. Breakthroughs in medicine, defense and clean energy could be
+achieved by designing polymeric materials with a whole host of abilities and
+properties.
+
+To push this emerging field forward, the National Science Foundation (NSF) set
+up an initiative called Designing Materials to Revolutionize and Engineer our
+Future (DMREF). In August, DMREF awarded a four-year, $1.4 million grant to a
+team consisting of researchers from the engineering schools of Duke University
+and Washington University in St. Louis. The initiative awards grants to
+researchers at the forefront of materials advancement, enabling them to push
+science, stretch their imaginations in the quest to streamline the development
+of new soft materials, and predict and tune their properties for both existing
+and novel applications.
+
+Researchers Ashutosh Chilkoti, the Alan L. Kaganov Professor of Biomedical
+Engineering and chair of the Department of Biomedical Engineering and the
+principal investigator for the project, and Stefan Zauscher, the Sternberg
+Family Professor of Mechanical Engineering & Materials Science, comprise the
+Duke team, and will collaborate with Rohit Pappu, the Edwin H. Murty Professor
+of Engineering at Washington University’s School of Engineering & Applied
+Science.
+
+“You can imagine making an adhesive that will also have the strength of
+steel,” said Pappu. “Or perhaps something that will flow like toothpaste but
+also have the potential to be used as a miniature bioreactor. We could use new
+materials for drug delivery, drug storage, artificial tissues, and other
+applications we haven’t thought of yet.”
+
+“Nature offers an enormous design space for the design of new materials, but
+most past efforts, including ours, have simply used a very narrow range of
+parameters to create bioinspired — protein-based — materials,” Chilkoti said.
+“This project will attempt to cover a large terrain of the sequence space of
+nature by combining fast computer screening techniques developed at Washington
+University by Professor Pappu with high-throughput synthesis and
+characterization at Duke University to identify peptide polymers with new or
+improved function.”
+
+Zauscher and Chilkoti are already working to develop approaches to assemble
+these polypeptides into hierarchically structured materials.
+
+“These materials can function as templates to guide the self-assembly of
+nanoscale objects and thus enable a broad range of biocatalytic,
+bioelectronic/photonic, or assay devices,” Zauscher said.
+
+The next step: Scientists must be able to zero in on the exact amino acid
+sequences within the enormous sequence space of the 20 amino acids offered by
+nature that need to be manipulated to create materials with unprecedented
+physical properties. It’s a process combining mathematical and physical
+science, and, with an infinite number of sequences to explore, takes the
+concept of “needle in a haystack” to an extreme degree. That’s where Pappu and
+his team come in.
+
+“Even with all the high-throughput technologies, the design space is huge,”
+Pappu said. “What we need are principles that will pave the way to rational
+design strategies, whereby we prescribe desired material properties and arrive
+at a set of sequences via computational design that are likely to achieve the
+properties of interest. This requires an understanding of the connection
+between a sequence and the design criteria, although this understanding
+doesn’t have to be perfect. It needs to be good enough to guide the search
+process through an astronomically large sequence space.”
+
+Physics-based computer simulations of phase transitions of protein sequences
+combined with mathematical models developed in the Pappu lab will aid the
+design process. Pappu and his team plan to combine knowledge of the
+relationships between sequence-encoded physical properties of various block
+copolymeric amino acid sequences and measured material characteristics, along
+with prior data culled by the Duke researchers. Then they intend to design
+algorithms that should enable the customized design of materials with desired
+profiles such as response to external stimuli, specific flow and mechanical
+properties, and the ability to serve as scaffolds for biochemical reactions.
+
+“Through our research collaboration, we will converge on a generalized
+simulation and experimental toolkit that enables the efficient design and
+fabrication of protein material nanostructures using thermally responsive
+polypeptides,” Zauscher said.
+
+The advances that Pappu and his team hope to realize in collaboration with
+Chilkoti and Zauscher, who are leaders in materials science and engineering,
+should enable the expansion of materials design that goes beyond the current
+scaffold, which is based on elastin-like polypeptides.
+
+“The algorithms we develop are a blend of physics-based approaches that span
+multiple scales and data-driven approaches that enable the joint navigation of
+sequence space, conformational space, and the space of material morphologies
+in order to achieve the specified design criteria,” Pappu said. “The
+opportunity to work with experts like Chilkoti and Zauscher is very exciting
+and we hope to achieve some success in fulfilling the NSF’s goal of expanding
+the design space of protein-based polymeric materials.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

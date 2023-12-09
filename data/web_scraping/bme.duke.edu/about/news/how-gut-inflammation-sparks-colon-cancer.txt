@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# How Gut Inflammation Sparks Colon Cancer
+
+February 4, 2016 | By Ken Kingery
+
+Cancer stem cells hijack stem cell production in inflamed tissue
+
+Chronic inflammation in the gut increases the risk of colon cancer by as much
+as 500 percent, and now Duke University researchers think they know why.
+
+Their new study points to a biomarker in the cellular machinery that could not
+only serve as an early warning of colon cancer, but potentially be harnessed
+to counteract advanced forms of the disease, the second-largest cause of
+cancer death in the U.S.
+
+In the study, published online on February 4 in the journal Cell Stem Cell,
+Duke biomedical engineers show how colon cancer development is intricately
+linked to a specific microRNA that dictates how cells divide.
+
+“A quarter of the world’s population is affected by some type of gut
+inflammation,” said lead author Xiling Shen, associate professor of biomedical
+engineering at Duke University. “These patients always have a much higher
+chance of developing colon cancer, but it was never clear why. Now we have
+found a link.”
+
+In the study, Shen’s group focused on a microRNA called miR-34a that gives
+cancer stem cells the odd ability to divide asymmetrically. This process
+controls the cancerous stem cell population and generates a diverse set of
+cells.
+
+While researchers knew that miR-34a was responsible for this ability, nobody
+knew where it came from, because normal, healthy colon stem cells don’t
+asymmetrically divide and don’t need this microRNA. They wondered if there was
+a mutation unique to cancer stem cells, or a hidden role for the microRNA in
+normal physiology.
+
+To find out, Shen and his colleagues deleted miR-34a from the genetic code of
+some mice. But nothing happened.
+
+“It really puzzled the scientific community,” said Shen. “Usually if something
+is important and you delete it, it causes a problem.”
+
+In the latest study, however, the problem showed up when the mice’s tissues
+became inflamed. Without any microRNA miR-34a, their stem cells quickly grew
+out of control and formed many tumor-like structures.
+
+Based on the study, Shen’s group concluded that even though miR-34a is active
+in cancer, it’s actually a good guy. Triggered to act when the gut becomes
+inflamed, miR-34a forces the process of asymmetrical division, helping to
+control normal stem cell populations.
+
+Even in the early stages of tumor growth, the microRNA remains active to keep
+the cancer stem cell population down. As the cancer progresses however, its
+cells develop mutations that enable shutting off miR-34a, causing cells to
+divide into flexible hybrids that can revert back into stem cells if needed.
+It’s this flexibility that makes late-stage cancers so difficult to eradicate.
+
+“Typically when you look at tumors and see something that isn’t in normal
+tissue, you think it’s a bad thing,” said Shen. “But it turns out that, under
+normal circumstances, these microRNAs are the good guys who only show up when
+things go wrong. And when you silence them in late-stage cancer, it’s like the
+supervillain carried off the superhero and the cancer becomes much worse.”
+
+But Shen is hoping that understanding the role of miR-34a might lead to this
+supervillain’s vulnerability.
+
+With a test to look for elevated levels of miR-34a, researchers could create
+an early warning system to catch cancers in their youthful stages when they
+are much easier to cure. And as a possible treatment for late-stage cancer,
+researchers are trying to get the cancer cells to express miR-34a again. This
+would stop the tumor cells from gaining the flexibility to revert back to stem
+cells and allow doctors to wipe them out once and for all.
+
+Clinical trials are currently trying to do just this in multiple cancer types,
+but this is the first study that has shown that it might also work for colon
+cancer. The discovery will also help researchers design clinical trials and
+pick the patients who have the best chance to respond to the therapy.
+
+This research was supported by the National Institutes of Health (R01GM95990,
+R01GM114254), the National Science Foundation (1350659, 1137269), New York
+State Stem Cell Science (C029543) and the Defense Advanced Research Projects
+Agency (19-1091726).
+
+###
+
+“A miR-34a-Numb feed-forward loop triggered by inflammation regulates
+asymmetric stem cell division in intestine and colon cancer.” Pengcheng Bu,
+Lihua Wang, Kai-Yuan Chen, Tara Srinivasan, Preetish Kadur Lakshminarasimha
+Murthy, Kuei-Ling Tung, Anastasia Kristine Varanko, Huanhuan Joyce Chen, Yiwei
+Ai, Sarah King, Steven M. Lipkin, Xiling Shen. Cell Stem Cell, 2016. DOI:
+10.1016/j.stem.2016.01.006
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

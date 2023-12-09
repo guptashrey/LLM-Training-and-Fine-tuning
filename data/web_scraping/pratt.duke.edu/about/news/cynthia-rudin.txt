@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cynthia Rudin: Interpretable Machine Learning for All
+
+February 15, 2017 | By Ken Kingery
+
+Data in, decisions out: New faculty member Cynthia Rudin designs algorithms to
+help professionals turn raw information into informed choices
+
+Cynthia Rudin has joined the faculty of the Department of Electrical and
+Computer Engineering in Duke University’s Pratt School of Engineering with a
+dual appointment in the Department of Computer Science. A rising star in the
+swiftly growing field of machine learning, Rudin focuses on writing algorithms
+that are easily interpretable by human experts for practical tasks like
+predicting energy grid reliability or diagnosing sleep apnea.
+
+In machine learning, researchers teach computers how to learn from data,
+because while humans can’t easily find patterns in large datasets, a computer
+can. Machine learning algorithms can often make surprisingly accurate
+predictions. How exactly the machine learning algorithm arrives at those
+predictions, however, is not always clear.
+
+“A lot of machine learning takes place with huge datasets where the inner
+workings of the codes are a ‘black box’ that nobody can see into,” said Rudin,
+who joins Duke from the faculty at the Massachusetts Institute of Technology
+and runs the Prediction Analysis Lab at Duke. “But I work on problems where
+the models clearly show how they produce their conclusions. This makes it
+easier for people to actually use the results to make decisions. ”
+
+One type of machine learning model that Rudin particularly likes is called a
+Falling Rule List. Invented by Prediction Analysis Lab member Fulton Wang and
+also under development by PhD student Chaofan Chen, the model looks for high
+risk categories of medical patients first, then medium risk categories, and
+then low risk categories.
+
+A Falling Rule List could use data from electronic health records to predict
+how likely individuals are to be readmitted to a hospital after they were
+released. The top category might contain patients who have serious problems
+and do not follow their doctor’s instructions, listing their chances of being
+readmitted as 92 percent. The bottom category might have the most compliant,
+healthiest patients at 10 percent.
+
+With many tiers in between where a patient could fall, a physician might
+easily determine why the algorithm listed a patient at a particular level of
+risk.
+
+“These types of machine learning models are perfect for healthcare situations
+because doctors need to be able to explain their decisions and recommendations
+to their patients,” said Rudin. “And to do that, they have to be able to
+interpret the results themselves.”
+
+Interpretability, however, sometimes come at a cost—either a loss of accuracy
+or the need for a large amount of computational power. Rudin’s goal, then, is
+to determine just how many constraints the model can withstand without losing
+too much accuracy and still being able to fully optimize the code to avoid
+taking until the end of the universe to complete the computation.
+
+It’s a goal that Rudin has achieved time and again, having already won an NSF
+CAREER award, the INFORMS Innovative Applications in Analytics Award, and an
+Adobe Digital Marketing Research Award, and having been named one of the 12
+most impressive professors at MIT by Business Insider in 2015. In the last
+year, her team has worked on predicting criminal recidivism, diagnosing sleep
+apnea, and creating an app to improve recovery from prostatectomy surgery,
+using different flavors of interpretable machine learning and statistical
+algorithms.
+
+And she’s having no trouble finding collaborators in her new position at
+Duke—already, she has started projects with faculty across campus. Her new
+collaborators are part of what drew Rudin to Duke.
+
+“The people here are fantastic, and as an academic, good people are always the
+major draw,” said Rudin. “Duke has a huge amount of expertise in my area of
+research. It may be a small university, but it is incredibly strong—Duke
+really is a superpower in this area.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

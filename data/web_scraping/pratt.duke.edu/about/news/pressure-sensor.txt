@@ -1,0 +1,233 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bacteria Self-Organize to Build Working Sensors
+
+October 9, 2017 | By Ken Kingery
+
+Bacteria with synthetic gene circuit self-assemble into working device
+
+Researchers at Duke University have turned bacteria into the builders of
+useful devices by programming them with a synthetic gene circuit.
+
+As a bacterial colony grows into the shape of a hemisphere, the gene circuit
+triggers the production of a type of protein to distribute within the colony
+that can recruit inorganic materials. When supplied with gold nanoparticles by
+researchers, the system forms a golden shell around the bacterial colony, the
+size and shape of which can be controlled by altering the growth environment.
+
+The result is a device that can be used as a pressure sensor, proving that the
+process can create working devices.
+
+While other experiments have successfully grown materials using bacterial
+processes, they have relied entirely on externally controlling where the
+bacteria grow and have been limited to two dimensions. In the new study,
+researchers at Duke demonstrate the production of a composite structure by
+programming the cells themselves and controlling their access to nutrients,
+but still leaving the bacteria free to grow in three dimensions.
+
+The study appears online on October 9 in Nature Biotechnology.
+
+“This technology allows us to grow a functional device from a single cell,”
+said Lingchong You, the Paul Ruffin Scarborough Associate Professor of
+Engineering at Duke. “Fundamentally, it is no different from programming a
+cell to grow an entire tree.”
+
+Nature is full of examples of life combining organic and inorganic compounds
+to make better materials. Mollusks grow shells consisting of calcium carbonate
+interlaced with a small amount of organic components, resulting in a
+microstructure three times tougher than calcium carbonate alone. Our own bones
+are a mix of organic collagen and inorganic minerals made up of various salts.
+
+Harnessing such construction abilities in bacteria would have many advantages
+over current manufacturing processes. In nature, biological fabrication uses
+raw materials and energy very efficiently. In this synthetic system, for
+example, tweaking growth instructions to create different shapes and patterns
+could theoretically be much cheaper and faster than casting the new dies or
+molds needed for traditional manufacturing.
+
+“Nature is a master of fabricating structured materials consisting of living
+and non-living components,” said You. “But it is extraordinarily difficult to
+program nature to create self-organized patterns. This work, however, is a
+proof-of-principle that it is not impossible.”
+
+The genetic circuit is like a biological package of instructions that
+researchers embed into a bacterium’s DNA. The directions first tell the
+bacteria to produce a protein called T7 RNA polymerase (T7RNAP), which then
+activates its own expression in a positive feedback loop. It also produces a
+small molecule called AHL that can diffuse into the environment like a
+messenger.
+
+As the cells multiply and grow outward, the concentration of the small
+messenger molecule hits a critical concentration threshold, triggering the
+production of two more proteins called T7 lysozyme and curli. The former
+inhibits the production of T7RNAP while the latter acts as sort of biological
+Velcro that can latch onto inorganic compounds.
+
+The dynamic interaction of these feedback loops causes the bacterial colony to
+grow in a dome-shaped pattern until it runs out of food. It also causes the
+bacteria on the outside of the dome to produce the biological Velcro, which
+grabs onto gold nanoparticles supplied by the researchers, forming a shell
+about the size of your average freckle.
+
+The researchers were able to alter the size and shape of the dome by
+controlling the properties of the porous membrane it grows on. For example,
+changing the size of the pores or how much the membrane repels water affects
+how many nutrients are passed to the cells, altering their growth pattern.
+
+“We’re demonstrating one way of fabricating a 3-D structure based entirely on
+the principle of self-organization,” said Stefan Zauscher, the Sternberg
+Family Professor of Mechanical Engineering & Materials Science at Duke. “That
+3-D structure is then used as a scaffold to generate a device with well-
+defined physical properties. This approach is inspired by nature, and because
+nature doesn’t do this on its own, we’ve manipulated nature to do it for us.”
+
+To show how their system could be used to manufacture working devices, the
+researchers used these hybrid organic/inorganic structures as pressure
+sensors. Identical arrays of domes were grown on two substrate surfaces. The
+two substrates were then sandwiched together so that each dome was positioned
+directly across from its counterpart on the other substrate.
+
+Each dome was then connected to an LED light bulb through copper wiring. When
+pressure was applied to the sandwich, the domes pressed into one another,
+causing a deformation resulting in an increase in its conductivity. This, in
+turn, caused the corresponding LED light bulbs to brighten a certain amount
+depending on the amount of pressure being applied.
+
+“In this experiment, we’re primarily focused on the pressure sensors, but the
+number of directions this could be taken in is vast,” said Will (Yangxiaolu)
+Cao, a postdoctoral associate in You’s laboratory and first author of the
+paper. “We could use biologically responsive materials to create living
+circuits. Or if we could keep the bacteria alive, you could imagine making
+materials that could heal themselves and respond to environmental changes.”
+
+“Another aspect we’re interested in pursuing is how to generate much more
+complex patterns,” said You. “Bacteria can create complex branching patterns,
+we just don’t know how to make them do that ourselves -- yet.”
+
+This study was supported by the Office of Naval Research (N00014-12-1-0631),
+the National Science Foundation, the Army Research Office (W911NF-14-1-0490),
+the National Institutes of Health (1R01-GM098642, R01-GM096190,
+K99CA207872-01), the Swiss National Science Foundation (P300P2_154583), and a
+David and Lucile Packard Fellowship.
+
+“Programmed Assembly of Pressure Sensors Using Pattern-Forming Bacteria.”
+Yangxiaolu Cao, Yaying Feng, Marc D. Ryser, Kui Zhu, Gregory Herschlag,
+Changyong Cao, Katherine Marusak, Stefan Zauscher, Lingchong You. Nature
+Biotechnology, 2017. DOI: 10.1038/nbt.3978
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,565 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Graduate Courses
+
+## Breadcrumb
+
+  1. Home
+  2. Masters
+
+* * *
+
+Note to Students
+
+In addition to the courses listed below, Duke BME master's and PhD students
+may also take courses from other Duke engineering departments _and_ courses
+from other schools within Duke.
+
+* * *
+
+## Approved Life Science Electives
+
+  * CBB 520 Genome Tools and Technologies
+  * MGM 732 Human Genetics
+  * CELLBIO 730 Stem Cell Course
+  * CMB 797 Modern Techniques in Molecular Biology
+  * MGM 701 Foundations of Molecular Genetics and Microbiology
+  * CELLBIO 761-763 Cellular Signaling Module I to III
+  * BIOCHEM 536 Bioorganic Chemistry
+  * BIOCHEM 622 Structure of Biological Macromolecules
+  * BIOCHEM 681 Biophysical Methods
+  * BME 790 Physiology for Engineers
+  * BME 790 Quantitative Pathophysiology
+  * EVANTH 530 Human Functional Anatomy
+  * MEDPHY 505 Anatomy and Physiology for Medical Physicists
+  * NEUROBIO 719 - Concepts in Neuroscience I (Ph.D only)
+  * NEUROBIO 720 Concepts in Neuroscience II (Ph.D only)
+  * NEUROBIO 759S Principles of Cognitive Neuroscience I
+  * NEUROBIO 760S Principles of Cognitive Neuroscience II
+  * IMM 544 Principles of Immunology
+  * IMM 800 Comprehensive Immunology
+
+## Approved Advanced Math Courses
+
+  * BME 671 Signal Processing and Applied Mathematics
+  * BME 790L Computational Linear Algebra in Biomedical Engineering
+  * MATH 721 Linear Algebra and Applications
+  * MATH 753 Ordinary and Partial Differential Equations
+  * CEE 530/ME 524 Introduction to the Finite Element Method
+  * CEE 630 Nonlinear Finite Element Analysis
+  * COMPSCI 520/MATH 565 Numerical Analysis
+  * MATH 561 Numerical Linear Algebra, Optimization, and Monte Carlo
+    Simulation
+  * MATH 563 Applied Computational Analysis
+  * MATH 660 Numerical Partial Differential Equations
+  * MATH 551 Applied Partial Differential Equations and Complex Variables
+  * MATH 577 Mathematical Modeling
+  * MATH 721 Linear Algebra and Applications
+  * MATH 753 Ordinary and Partial Differential Equations
+  * PHYSICS 760 Mathematical Methods in Physics
+  * CBB 540 Statistical Methods for Computational Biology
+  * MATH 545 Introduction to Stochastic Calculus
+  * STA 601 Bayesian and Modern Statistical Data Analysis
+  * STA 621/MATH 541 Applied Stochastic Processes
+  * STA 611 Introduction to Mathematical Statistics
+
+## Biomedical Engineering GRADUATE Course Descriptions
+
+_Note: Only examples are listed below. Find a complete list of BME courses
+inthe Graduate School Bulletin._
+
+**503(253). Computational Neuroengineering** (GE, EL). This course introduces
+students to the fundamentals of computational modeling of neurons and neuronal
+circuits and the decoding of information from populations of spike trains.
+Topics include: integrate and fire neurons, Spike Response Models, Homogeneous
+and Inhomogeneous Poisson processes, neural circuits, Weiner (optimal),
+Adaptive Filters, neural networks for classification, population vector coding
+and decoding. Programming assignments and projects will be carried out using
+MATLAB. Prerequisites: BME 101/201 or equivalent. Instructor: Henriquez. 3
+units. C-L: Neuroscience 503(253).
+
+**504(254). Fundamentals of Electrical Stimulation of the Nervous System**
+(GE, EL). This course presents a quantitative approach to the fundamental
+principles, mechanisms, and techniques of electrical stimulation required for
+non-damaging and effective application of electrical stimulation. Consent of
+instructor required. Instructor: Grill. 3 units.
+
+**506(204). Measurement and Control of Cardiac Electrical Events** (GE, IM,
+EL). Design of biomedical devices for cardiac application based on a review of
+theoretical and experimental results from cardiac electrophysiology.
+Evaluation of the underlying cardiac events using computer simulations.
+Examination of electrodes, amplifiers, pacemakers, and related computer
+apparatus. Construction of selected examples. Prerequisites: Biomedical
+Engineering 253L(153L) or equivalents. Instructor: Wolf. 3 units.
+
+**511(211). Theoretical Electrophysiology** (GE, EL). Advanced topics on the
+electrophysiological behavior of nerve and striated muscle. Source-field
+models for single-fiber and fiber bundles lying in a volume conductor. Forward
+and inverse models for EMG and ENG. Bidomain model. Model and simulation for
+stimulation of single-fiber and fiber bundle. Laboratory exercises based on
+computer simulation, with emphasis on quantitative behavior and design.
+Readings from original literature. Prerequisite: Biomedical Engineering
+301L(201L) or equivalent. Instructor: Barr or Neu. 4 units. C-L: Neuroscience
+511(241)
+
+**512L(212L). Theoretical Electrocardiography** (GE, EL). Electrophysiological
+behavior of cardiac muscle. Emphasis on quantitative study of cardiac tissue
+with respect to propagation and the evaluation of sources. Effect of
+junctions, inhomogeneities, anisotropy, and presence of unbounded
+extracellular space. Bidomain models. Study of models of arrhythmia,
+fibrillation, and defibrillation. Electrocardiographic models and forward
+simulations. Laboratory exercises based on computer simulation, with emphasis
+on quantitative behavior and design. Readings from original literature.
+Prerequisite: Biomedical Engineering 301L(201L) or equivalent. Instructor:
+Barr. 4 units.
+
+**513(213). Nonlinear Dynamics in Electrophysiology** (GE, EL).
+Electrophysiological behavior of excitable membranes and nerve fibers examined
+with methods of nonlinear dynamics. Phase-plane analysis of excitable
+membranes. Limit cycles and the oscillatory behavior of membranes. Phase
+resetting by external stimuli. Critical point theory and its applications to
+the induction of rotors in the heart. Theory of control of chaotic systems and
+stabilizing irregular cardiac rhythms. Initiation of propagation of waves and
+theory of traveling waves in a nerve fiber. Laboratory exercises based on
+computer simulations, with emphasis on quantitative behavior and design.
+Readings from original literature. Prerequisite: Mathematics 216(107) or
+equivalent. Instructor: Neu. 4 units.
+
+**515(256). Neural Prosthetic Systems**. This course will cover several
+systems that use electrical stimulation or recording of the nervous system to
+restore function following disease or injury. For each system the course will
+cover the underlying biophysical basis for the treatment,the technology
+underlying the treatment,and the associated clinical applications and
+challenges. Systems to be covered include cochlear implants, spinal cord
+stimulation of pain, vagus nerve stimulation for epilepsy, deep brain stim.
+for movement disorders, sacral root stimulation for bladder dysfunction, and
+neuromuscular electrical stim.for restoration of movement. Prerequisites:
+Biomedical Engineering 253L(153L), and consent of instructor. Instructor:
+Grill. 3 units.
+
+**526(206L). Elasticity** (GE, BB). Linear elasticity will be emphasized
+including concepts of stress and strain as second order tensors, equilibrium
+at the boundary and within the body, and compatibility of strains. Generalized
+solutions to two and three dimensional problems will be derived and applied to
+classical problems including torsion of noncircular sections, bending of
+curved beams, stress concentrations and contact problems. Applications of
+elasticity solutions to contemporary problem in civil and biomedical
+engineering will be discussed. Prerequisites: Engineering 201L(75L);
+Mathematics 353(108). Instructor: Laursen. 3 units. C-L: Civil Engineering
+521(206).
+
+**527(217). Cell Mechanics and Mechanotransduction**. This course examines the
+mechanical properties of cells and forces exerted by cells in biological
+processes of clinical and technological importance and the processes by which
+mechanical forces are converted into biochemical signals and activate gene
+expression. Topics covered include measurement of mechanical properties of
+cells, cytoskeleton mechanics, models of cell mechanical properties, cell
+adhesion, effects of physical forces on cell function, and
+mechanotransduction. Students will critically evaluate current literature and
+analyze models of cell mechanics and mechanotransduction. Prerequisites:
+Engineering 201L(75) and Biomedical Engineering 307(207) or equivalent,
+knowledge of cell biology and instructor consent. Instructrors: Hoffman and
+Truskey. 3 units.
+
+**528(275). Introduction to Biofluid Mechanics**. Methods and applications of
+fluid mechanics in biological and biomedical systems including: Governing
+equations and methods of solutions,(e.g. conservation of mass flow and
+momentum), the nature of biological fluids, (e.g.non-Newtonian rheological
+behavior),basic problems with broad relevance, (e.g. flow in pipes,
+lubrication theory), applications to cells and organs in different
+physiological systems, (e.g. cardiovascular, gastrointestinal, respiratory,
+reproductive and musculoskeletal systems), applications to diagnosis and
+therapy, (e.g., drug delivery and devices). Prerequisite: Biomedical
+Engineering 307(207). Instructor: Katz. 3 units.
+
+**529(208). Theoretical and Applied Polymer Science** (GE, BB). 3 units. C-L:
+see Mechanical Engineering and Materials Science 514(211)
+
+**530(230). Tissue Biomechanics** (GE, BB). Introduction to the mechanical
+behaviors of biological solids and fluids with application to tissues, cells
+and molecules of the musculoskeletal and cardiovascular systems. Topics to be
+covered include static force analysis and optimization theory, biomechanics of
+linearly elastic solids and fluids, anisotropic behaviors of bone and fibrous
+tissues, blood vessel mechanics, cell mechanics and behaviors of single
+molecules. Emphasis will be placed on modeling stress-strain relations in
+these tissues, and experimental devices used to measure stress and strain.
+Student seminars on topics in applied biomechanics will be included.
+Prerequisites: Engineering 201L(75L); Mathematics 353(108). Instructor: Myers.
+3 units.
+
+**542(222). Principles of Ultrasound Imaging** (GE, IM). Propagation,
+reflection, refraction, and diffraction of acoustic waves in biologic media.
+Topics include geometric optics, physical optics, attenuation, and image
+quality parameters such as signal-to-noise ratio, dynamic range, and
+resolution. Emphasis is placed on the design and analysis of medical
+ultrasound imaging systems. Prerequisites: Mathematics 216(107) and Physics
+152L(62L). Instructor: von Ramm. 3 units.
+
+**561L(258L). Genome Science & Technology Lab** (GE, MC). Hands-on experience
+on using and developing advanced technology platforms for genomics and
+proteomics research. Experiments may include nucleic acid amplification and
+quantification, lab-on-chip, bimolecular separation and detection, DNA
+sequencing, SNP genotyping, microarrays, and synthetic biology techniques.
+Laboratory exercises and designing projects are combined with lectures and
+literature reviews. Prior knowledge in molecular biology and biochemistry is
+required. Instructor consent required. Instructor: Tian. Variable credit. C-L:
+Computational Biology and Bioinformatics 542(222)
+
+**562\. Biology by Design** (GE, MC). Engineering biological systems
+emphasizing synthetic biology and the application of biological/chemical
+principles to the design of new biomolecules and cellular pathways. Review of
+primary scientific literature, highlighting contemporary research in this
+area, including artificial amino and nucleic acids, gene regulatory systems,
+directed molecular evolution, recombinant antibodies, novel biosynthesis
+pathways, cell communication, and the design of minimal organisms. Topics are
+presented with applications such as drug design, discovery, productions,
+regenerative medicine, and bioremediation. Prerequisite: Biomedical
+Engineering 244L. Organic chemistry or biochemistry suggested. Instructor
+consent required. Instructor: Gersbach. 3 units.
+
+**563\. Transport Processes in HIV Transmission and Prevention** (GE, BB, MC)
+**.** Application of transport theory to analyze processes of HIV migration to
+target cells in the mucosa of the lower female reproductive tract. Analysis of
+the introduction, transport and bioactivity of molecules that inhibit these
+HIV-infection processes, including those acting topically (microbicides) and
+those introduced in a variety of drug delivery vehicles: semi-solid materials
+(gels, films) and solid materials (intravaginal rings). A succession of
+mathematical models will describe elements of the fundamental biology of this
+system and analyze the performance of specific products that act
+prophylactically against HIV infection. Prerequisite: BME 307 or instructor
+consent. Instructor: Katz. 3 units.
+
+**565L(240L). Environmental Molecular Biotechnology** (GE, MC). 3 units. C-L:
+see Civil Engineering 661L(239L)
+
+**567(237). Biosensors** (GE, IM, MC). Biosensors are defined as the use of
+biospecific recognition mechanisms in the detection of analyte concentration.
+The basic principles of protein binding with specific reference to enzyme-
+substrate, lectin-sugar, antibody-antigen, and receptor-transmitting binding.
+Simple surface diffusion and absorption physics at surfaces with particular
+attention paid to surface binding phenomena. Optical, electrochemical,
+gravimetric, and thermal transduction mechanisms which form the basis of the
+sensor design. Prerequisites: Biomedical Engineering 260L(100L) or equivalent
+and consent of instructor. Instructor: Reichert or Vo-Dinh. 3 units.
+
+**570L(220L). Introduction to Biomolecular Engineering** (GE, BB, MC).
+Structure of biological macromolecules, recombinant DNA techniques, principles
+of and techniques to study protein structure-function. Discussion of
+biomolecular design and engineering from the research literature. Linked
+laboratory assignments to alter protein structure at the genetic level.
+Expression, purification, and ligand-binding studies of protein function.
+Consent of instructor required. Instructor: Chilkoti. 3 units.
+
+**574(221). Modeling and Engineering Gene Circuits**. This course discusses
+modeling and engineering gene circuits, such as prokaryotic gene expression,
+cell signaling dynamics, cell-cell communication, pattern formation,
+stochastic dynamics in cellular networks and its control by feedback or
+feedforward regulation, and cellular information processing. The theme is the
+application of modeling to explore "design principles" of cellular networks,
+and strategies to engineer such networks. Students need to define an
+appropriate modeling project. At the end of the course, they're required to
+write up their results and interpretation in a research-paper style report and
+give an oral presentation. Prerequisites: Biomedical Engineering 260L(100L) or
+consent of instructor. Instructor: You. 3 units.
+
+**577(247). Drug Delivery** (GE, BB, MC). Introduction to drug delivery in
+solid tumors and normal organs (for example, reproductive organs, kidney,
+skin, eyes). Emphasis on quantitative analysis of drug transport. Specific
+topics include: physiologically-based pharmacokinetic analysis,
+microcirculation, network analysis of oxygen transport, transvascular
+transport, interstitial transport, transport across cell membrane, specific
+issues in the delivery of cells and genes, drug delivery systems, and targeted
+drug delivery. Prerequisite: Biomedical Engineering 307(207) and Engineering
+110L(53). Instructor: Yuan. 3 units.
+
+**578(248). Tissue Engineering** (GE, MC). This course will serve as an
+overview of selected topics and problems in the emerging field of tissue
+engineering. General topics include cell sourcing and maintenance of
+differentiated state, culture scaffolds, cell-biomaterials interactions,
+bioreactor design, and surgical implantation considerations. Specific tissue
+types to be reviewed include cartilage, skin equivalents, blood vessels,
+myocardium and heart valves, and bioartificial livers. Prerequisites:
+Mathematics 353(108) or consent of instructor. Instructor: Bursac. 3 units.
+
+**717S(351). Seminars in Medical Physics**. Medical physics is the application
+of the concepts and methods of physics and engineering to the diagnosis and
+treatment of human disease. This course consists of weekly lectures covering
+broad topics in medical physics including diagnostic imaging, radiation
+oncology, radiation safety, and nuclear medicine. Lectures will be given by
+invited speakers drawn from many university and medical center departments
+including Biomedical Engineering, radiology, physics, radiation safety, and
+radiation oncology. Prerequisites: background in engineering or physics. 1 CC
+(0.5 ES/0.5 ED). Consent of instructor required. Instructor: Lo and Samei. 1
+unit.
+
+**785(350). Principles of Research Management.** A survey of topics in modern
+research management techniques that will cover proven successful principles
+and their application in the areas of research lab organization, resource
+management, organization of technical projects, team leadership, financial
+accountability, and professional ethics. Instructor: Staff. 1 unit.
+
+**788(362). Invention to Application: Healthcare Research Commercialization**.
+Interdisciplinary teams of students from engineering, medical science,
+business, and medicine work together to understand and evaluate the commercial
+potential of Duke faculty research innovations and develop a comprehensive
+research translation and business plan for one chosen opportunity. Learning
+includes understanding technology, product development, marketing, finance,
+regulatory requirements, and reimbursement. In addition to weekly lectures,
+students are mentored in this real world experience by a team including
+technology transfer experts, venture capitalists, researchers, physicians, and
+entrepreneurs. Prerequisites: none. Consent of instructor required.
+Instructor: Myers. 3 units.
+
+**790(16525).** **Advanced Design & Manufacturing. **This course is designed
+to bring the practical application of academic engineering to medical design,
+while developing design skills that can be immediately transferred to industry
+projects—making students attractive prospects to industry recruiters. The
+skills course establishes a mindset and set of practical skills that form a
+foundation for the Design Health sequences. Students also start to build a
+portfolio design projects that showcase their design thinking. Through a
+series of modules, the skills course introduces Design for Manufacture and
+important concepts around production cost and the interplay between design
+choices, manufacturing processes and cost. Medical image reconstruction and
+the design of an implanted device takes students inside the body, designing
+for specific anatomy and bio-compatibility. The Duke skills course is
+supported by industry leader Protolabs, and the program is hugely grateful for
+their input and assistance in readying students for careers in design and
+development. Instructors: Fearis & Richardson. 3 Units.
+
+**834(331). Viscoelasticity**. Viscoelasticity of hard and soft tissue solids
+and composite structures. Linear and nonlinear one-dimensional viscoelastic
+behavior, internal damping, and three-dimensional viscoelasticity.
+Approximation techniques for determination of viscoelastic constitutive
+equations from experimental data. Mathematical formulations for the
+characterization of the dynamic behavior of biologic structures. Consent of
+instructor required. Instructor: Myers. 3 units.
+
+**844(321). Advanced Ultrasonic Imaging.** This course provides students with
+a mathematical basis of ultrasonic imaging methods. Topics include K-space,
+descriptions of ultrasonic imaging, ultrasonic beam-former design, tissue
+motion and blood flow imaging methods, and novel ultrasonic imaging methods.
+Students conduct extensive simulations of ultrasonic imaging methods.
+Prerequisite: BME 303(233). Instructor: Trahey. 3 units.
+
+**848L(334L). Radiology in Practice**. Designed to complement BME 233 Modern
+Diagnostic Imaging Systems. Review and real-life exercises on principles of
+modern medical imaging systems with emphasis on the engineering aspects of
+image acquisition, reconstruction and visualization, observations of imaging
+procedures in near clinical settings, and hands-on experience with the
+instruments. Modalities covered include ultrasound, CT, MRI, nuclear medicine
+and optical imaging. Prerequisite: BME 303(233) or equivalent. Instructor:
+Trahey. 3 units. C-L: Medical Physics 738(338)
+
+**850(335). Advances in Photonics: An Overview of State-of-the-Art Techniques
+and Applications**. The main goal of this course is to provide an overview of
+various photonics techniques and their applications. The purpose is to enhance
+the students' breath of understanding and knowledge of advanced techniques and
+introduce them to the wide variety of applications in photonics, the science
+and technology associated with interactions of light with matter. Examples of
+topics include: High-resolution Luminescence Techniques, Raman Techniques,
+Optical Coherence Techniques, Ultrafast Laser-base Techniques, Near-Filed and
+Confocal Optical Techniques, Remote Sensing Techniques, Advanced Light
+Measurement Techniques, Optical Biosensors, Nano Micro Electrooptics Systems,
+High throughput Assays using Optical Detection, Photonics Meta Materials and
+Applications, Optics in Telecommunications, and Nanophotonics. The lectures
+will be presented by faculty members who are leaders in their areas of
+research in photonics. Instructor: Vo-Dinh. 3 units. C-L: Chemistry 630(335).
+
+## Courses Quick Links
+
+  * DukeHub
+  * Registrar's Schedule of Courses
+  * Academic Calendar
+  * Graduate Bulletin
+  * Inter-Institutional Registration
+  * Course Withdrawal Form
+  * Registrar's Office
+  * Sakai
+
+____
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+## Master's Contacts
+
+### Sina Farsiu
+
+Director, Master's Studies
+
+__pratt_masters@duke.edu
+
+### Paul J. Fearis
+
+Associate Director, Master's Studies
+
+__paul.fearis@duke.edu
+
+### Bev Gedvillas
+
+Master's Program Coordinator
+
+__919-660-5132
+
+__beverly.gedvillas@duke.edu
+
+### Admissions
+
+Have a question about the program or admissions? Contact the **Admissions &
+Recruiting team** at pratt_masters@duke.edu.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

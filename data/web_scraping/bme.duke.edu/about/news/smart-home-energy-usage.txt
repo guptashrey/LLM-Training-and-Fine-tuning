@@ -1,0 +1,175 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Smart Home Dashboard to Better Visualize Energy Usage
+
+April 11, 2018
+
+An interdisciplinary team of students is developing a visualization dashboard
+that will convey consumption data in an easily comprehensible manner
+
+_By student writer Deepti Agnihotri_
+
+Duke's Smart Home generates a lot of data about its energy usage, but no one
+understands what it means--yet. To make sense of it all, an interdisciplinary
+team of students is developing a visualization dashboard that will convey
+consumption data in an easily comprehendible manner.
+
+"We want to make the Smart Home more integrated with the technology around
+it," said Harvey Shi, a senior double majoring in biomedical engineering and
+computer science, and president of the Smart Home. The team, led by Rahul
+Sengottuvelu, a sophomore in electrical and computer engineering, includes
+students from various disciplines, from computer science to visual studies.
+
+Sujay Garlanka, a junior studying electrical and computer engineering, said
+the Smart Home has e-gauges installed that show how much energy the appliances
+are consuming. The e-gauges constantly push data to the internet via an
+application programming interface—or API—which is a set of subroutine
+definitions, protocols and tools for building application software. However,
+the current dashboard's visualization is unintuitive.
+
+Using a virtual machine and Python script to put the data on their own
+database, the students are experimenting with TABLEAU, a data visualization
+software, to design an interface that is easy to follow thanks to funding
+support from the Duke University Energy Initiative, the university's
+interdisciplinary hub for energy education, research, and engagement.
+
+"If we have all this data in our database, we can visualize it however we
+want," Garlanka said.
+
+Right now, the team has mainly been trying to understand what the data can
+show and discern what residents would be interesting in seeing.
+
+"What questions are interesting to ask the data? Are there particular patterns
+that are interesting....we don't really know that," said Camilla Vargas, a
+senior majoring in visual studies.
+
+Vargas, who is writing her thesis on the Smart Home, became involved with the
+project after hearing about it from a professor. She said working with the
+team has been fun but also challenging with everyone looking at the problem
+from different disciplines and perspectives.
+
+"We all speak different languages...and that's the challenge of every student
+group, figuring out how to communicate with each other," Vargas said.
+
+Vargas went on to say that the Smart Home is a continuously evolving space
+that has "found its identity" multiple times since it was first built. She
+said it started off as an engineering-focused construction project and then
+became a makerspace once the Home was complete. But with the opening of the
+Innovation Co-Lab and Design Pod, the Smart Home must find its identity again.
+
+"Data might be the next hub," Vargas said.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

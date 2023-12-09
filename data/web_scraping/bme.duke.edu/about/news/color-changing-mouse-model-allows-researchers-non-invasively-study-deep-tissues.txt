@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Color-Changing Mouse Model Allows Researchers to Non-Invasively Study Deep
+Tissues
+
+June 6, 2022 | Michaela Kane
+
+Changing the color of mouse tissue helps scientists isolate and remove
+background noise to improve imaging
+
+Biomedical and genetic engineers at Duke University and the Albert Einstein
+College of Medicine have developed a process to change the color of a mouse’s
+tissue in imaging to better visualize its internal physiology.
+
+The approach will help researchers isolate and remove sources of strong
+background noise in biomedical images, giving them unprecedented access to
+observe, influence and image biological processes with a swiftly developing
+imaging technique called photoacoustic imaging. The research appeared May 19
+in the journal Nature Communications.
+
+As its name suggests, photoacoustic imaging (PA) uses both light and sound to
+capture detailed images of cells, organs and other tissues throughout the
+body. The imaging process sends a burst of laser light deep into tissue,
+causing cells to heat up and expand instantaneously. This creates an
+ultrasonic wave that provides information about the structure and composition
+of the targeted tissues and cells that can be translated into high-resolution
+images.
+
+But while the ultrasound component of photoacoustic imaging allows engineers
+to peer deeper into tissue than traditional imaging, it also introduces a
+problem: background noise.
+
+“If we want to image something like how a tumor is growing or shrinking, we
+have a hard time seeing anything significant because the background ultrasound
+signals from flowing blood drowns everything out,” said Junjie Yao, assistant
+professor of biomedical engineering at Duke. “It’s like trying to observe the
+stars in daylight –– the light from the sun overpowers all other sources of
+light.”
+
+The new genetically engineered mouse model, developed by Yao and Vladislav
+Verkhusha, professor of genetics at Einstein, gives researchers an efficient
+way to isolate and remove this background noise.
+
+To accomplish this, Verkhusha and his team introduced a specialized, light-
+sensitive photoreceptor into the cells of their mouse model, called BphP1.
+Normally found in bacteria, BphP1 is often used as a light-based research tool
+because it can switch between a silent and active state when it is hit with a
+specific wavelength of light. These light-sensitive proteins are useful for
+photoacoustic imaging because they can bond especially well with biliverdin, a
+molecule that appears in high quantities in tissues but rarely appears in
+blood cells.
+
+Once these proteins were genetically introduced to their mouse model, the team
+illuminated the entire animal with a specific wavelength of red light. This
+burst of light activated the Bph1, causing the mouse to change colors. Next,
+they shined a wavelength of near-infrared light on the mouse, causing the
+BphP1 to return to its silent state. Although the change in color isn’t
+visible to the naked eye, it could be observed using photoacoustic imaging.
+
+“The blood doesn’t express this color-changing ability, so when we switch the
+animals back and forth between the two colors, we know that the background
+noise from the blood won’t change,” said Yao. “Suddenly the noise becomes a
+constant component of the image, and we can use a simple data processing
+method to remove it. This process made our imaging system orders of magnitude
+more sensitive.”
+
+As a proof of concept, the team imaged the liver, stomach, spleen and
+intestine to show how different organs in the model expressed the
+photoreceptor. They saw that while all organs appeared more clearly than with
+standard PA, the spleen and liver were especially precise, as they had
+naturally higher levels of the biliverdin molecule for the BphP1 to bind to.
+This improved detail enabled the team to monitor changes, like liver
+regeneration, more precisely, and to track the efficacy of different protein
+delivery methods.
+
+The new technique also allowed the team to better study pregnancy in their
+mice, as BphP1 could bind directly to the embryos. The team was able to use PA
+to precisely identify seven embryos from the surrounding vasculature and
+maternal organs.
+
+Yao and Verkhusha are looking forward to expanding the uses of their mouse
+model. One avenue of exploration involves studying the immune response to
+cancer therapies. Yao hypothesizes that they could add BphP1 to cancer cells
+or immune cells and observe their migration through the body and their
+response to treatment.
+
+Outside of imaging, Verkhusha and his team will continue to explore how their
+model could contribute to optogenetic research, which involves using light to
+control cell activity.
+
+“To me, this project was a good marriage between biochemistry and imaging,”
+said Yao. “The idea of a color-changing mouse is really exciting on its own,
+but I’m optimistic we can use this mouse to do some magic.”
+
+This work was supported by the National Institutes of Health (GM122567,
+EB028143, NS111039, NS115581), the Academy of Finland (322226), and the Chan
+Zuckerberg Initiative (226178). The major plasmids engineered in this study
+were deposited to Addgene non-profit depository (#186186, #186187), and the
+developed loxP-BphP1 mice were donated to the Jackson Laboratory (JAX
+#036061).
+
+**CITATION** : “Optogenetic Manipulation and Photoacoustic Imaging Using a
+Near-Infrared Transgenic Mouse Model,” Ludmila Kasatkina, Chenshuo, Mikhail
+Matlashov, Tri Vu, Mucong Li, Andrii Kaberniuk, Junjie Yao and Vladislav
+Verkhusha. Nature Communications, May 19, 2022. DOI:
+10.1038/s41467-022-30547-6
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

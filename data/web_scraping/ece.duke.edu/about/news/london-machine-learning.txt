@@ -1,0 +1,204 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# From London with Machine Learning
+
+April 28, 2017 | By Ken Kingery
+
+Duke’s 2016-17 Vest Scholar, Jure Sokolic, works on the global Grand Challenge
+of engineering new tools for scientific discovery
+
+Computers are much better than humans at finding patterns and nuanced
+relationships in large datasets, but they’d probably be even better if the
+humans actually understood how they did it.
+
+As it stands, machine learning algorithms are a “black box”: researchers know
+what goes in and what comes out, but not as much about how the inner workings
+of such programs affect their performance, such as the minimum number of
+training examples that can be provided while maintaining accuracy.
+
+Sokolic is looking at the underlying mathematical fundamentals to try to
+discover why these programs work. Along the way, he’s investigating questions
+such as how researchers might be able to teach machine-learning programs to
+recognize objects from any vantage point—something they are not currently good
+at.
+
+This question is especially important for facial recognition algorithms, such
+as those used by Guillermo Sapiro, the Edmund T. Pratt, Jr. School Professor
+of Electrical and Computer Engineering, and Sokolic’s advisor at Duke. Since
+September 2016, Jure Sokolic has been working with Sapiro and his research
+team to better understand how machine learning is being used in their
+research.
+
+Born, raised and college-educated in Slovenia, Sokolic is currently working on
+a PhD at University College London, and has been expanding his research and
+perspectives in machine learning here in Durham as Duke University’s 2016-17
+Vest Scholar.
+
+“I applied to Duke because I knew my work aligns with the interests of
+professors here,” said Sokolic, who plans to return to London to defend his
+dissertation before pursuing a career in industry. “It’s been exciting because
+Professor Sapiro has a broad spectrum of work from theories to applications. I
+can learn a lot from him, not just about research, but about the implications
+of our research, such as concerns for people’s privacy when we use such
+methods.”
+
+“Thanks to Jure’s presence, we are finding some very interesting support for
+deep learning theories that we could not find without him,” said Sapiro. “This
+Vest Scholarship has thereby been critical and will serve for a very long-term
+collaboration with University College London.”
+
+“The Vest Scholarship is serving as an opportunity to strengthen current ties
+between UCL and Duke,” echoed Miguel Rodrigues, Sokolic’s advisor back in
+London. “The know-how acquired by Jure under the guidance of Professor Sapiro
+will be critical to expand new research directions within our group at UCL.”
+
+The Charles M. Vest NAE Grand Challenges for Engineering International Scholar
+program is reminiscent of a reverse Rhodes Scholarship. The award gives
+international graduate students the opportunity to spend a year at one of ten
+universities in the United States conducting research addressing the U.S.
+National Academy of Engineering’s Grand Challenges for Engineering.
+
+Sokolic’s research is addressing the Grand Challenge of “Engineer the Tools of
+Scientific Discovery,” by delving into the fundamentals of how deep learning
+works. An emerging technique based on neural networks, deep learning is a type
+of machine learning where computers teach themselves to recognize patterns in
+data.
+
+“The classic example is distinguishing between pictures of cats and dogs,”
+said Sokolic. “You can train a deep learning algorithm to do this by showing
+it many pictures and telling it which is which. The computer will then
+determine the parameters that distinguish cats from dogs on its own and will
+correctly predict the answer for future content automatically.”
+
+Sapiro has several projects under way that use machine learning, including an
+app leveraging Apple’s ResearchKit that is exploring how mobile devices might
+be used to screen for autism in young children.
+
+“I don’t work on those projects directly,” said Sokolic. “But I talk to the
+members of the lab and try to get ideas and think about the problems they are
+facing.”
+
+Sokolic says the experience has been very worthwhile for him, and not just
+because of the generous Vest Scholar package that provides everything he needs
+for a full year studying in the United States.
+
+“I think the biggest gain is being able to be actively involved with the
+Sapiro research group and with other researchers at the Information Initiative
+at Duke,” said Sokolic. “This allows us to exchange ideas and explore problems
+on a daily basis. It has given me an additional perspective on my work, which
+I will be able to bring back to my colleagues in London.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

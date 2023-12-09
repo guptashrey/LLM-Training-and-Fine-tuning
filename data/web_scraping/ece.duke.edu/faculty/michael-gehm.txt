@@ -1,0 +1,264 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Michael E. Gehm
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Electrical and Computer Engineering
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+  * Associate Professor of Physics
+
+## Contact Information
+
+  * **Office Location:** 3463 CIEMAS, Fitzpatrick Center, Durham, NC 27708
+  * **Office Phone:** (919) 660-5544
+  * **Email Address:** michael.gehm@duke.edu
+
+## Education
+
+  * B.S. Washington University in St. Louis, 1992
+  * M.S. Duke University, 1998
+  * Ph.D. Duke University, 2003
+
+## Research Interests
+
+Primarily computational and compressive sensing and measurement in all
+modalities (with special emphasis in Electromagnetic/Optical from RF to x-ray
+and all forms of Mass spectrometry), with side interests in optical physics,
+high-performance x-ray simulation, and rapid-prototyping as a means of
+creating advanced electromagnetic structures
+
+## Awards, Honors, and Distinctions
+
+  * Fellow. OSA (The Optical Society). 2020
+
+## Courses Taught
+
+  * ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+  * ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+  * ECE 675: Optical Imaging and Spectroscopy
+  * ECE 899: Special Readings in Electrical Engineering
+
+## In the News
+
+  * A Speedier and More Accurate Future for Airport Security Screening (Feb
+    24, 2020 | Pratt School of Engineering)
+  * Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening (Dec
+    10, 2018 | Pratt School of Engineering)
+  * The Way This Image Is Created Sounds Like Magic (Sep 27, 2018 | Pratt
+    School of Engineering)
+
+## Representative Publications
+
+  * Aloui, T., R. B. Serpa, N. Abboud, K. L. Horvath, J. Keogh, C. B. Parker,
+    J. C. Stern, et al. “A super-resolution proof of concept in a cycloidal
+    coded aperture miniature mass spectrometer.” Rapid Communications in Mass
+    Spectrometry, January 1, 2023. https://doi.org/10.1002/rcm.9477.
+  * Horvath, Kathleen L., Elettra L. Piacentino, Rafael Bento Serpa, Tanouir
+    Aloui, Raul Vyas, Yuriy Zhilichev, Jesko von Windheim, et al. “Design
+    considerations for a cycloidal mass analyzer using a focal plane array
+    detector.” Journal of Mass Spectrometry : Jms 57, no. 7 (July 2022):
+    e4874. https://doi.org/10.1002/jms.4874.
+  * Ruiz, S. D., Z. W. Gude, A. X. Hurlock, K. Ferguson, C. Miller, J. H.
+    Carpenter, J. A. Greenberg, and M. E. Gehm. “Characterization of photon
+    counting detectors for x-ray diffraction (XRD) applications.” In
+    Proceedings of Spie the International Society for Optical Engineering,
+    Vol. 12104, 2022. https://doi.org/10.1117/12.2618954.
+  * Hurlock, A. X., S. D. Ruiz, J. H. Carpenter, J. A. Greenberg, and M. E.
+    Gehm. “Spectrally responsive edge-illumination (SREI) x-ray phase contrast
+    imaging (XPCI).” In Proceedings of Spie the International Society for
+    Optical Engineering, Vol. 12104, 2022. https://doi.org/10.1117/12.2618827.
+  * Piacentino, Elettra L., Rafael Bento Serpa, Kathleen L. Horvath, Raul
+    Vyas, Tanouir Aloui, Charles B. Parker, James B. Carlson, et al. “The Long
+    Neglected Cycloidal Mass Analyzer.” Analytical Chemistry 93, no. 33
+    (August 2021): 11357–63. https://doi.org/10.1021/acs.analchem.1c02001.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

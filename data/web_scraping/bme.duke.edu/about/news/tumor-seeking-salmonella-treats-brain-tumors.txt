@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tumor-Seeking Salmonella Treats Brain Tumors
+
+January 11, 2017 | By Ken Kingery
+
+New approach produces 20 percent survival rate in rat model where few
+typically live
+
+Biomedical engineers at Duke University have recruited an unlikely ally in the
+fight against the deadliest form of brain cancer—a strain of salmonella that
+usually causes food poisoning.
+
+Clinicians sorely need new treatment approaches for glioblastoma, the most
+aggressive form of brain cancer. The blood-brain barrier—a protective sheath
+separating brain tissue from its blood vessels—makes it difficult to attack
+the disease with drugs. It’s also difficult to completely remove through
+surgery, as even tiny remnants inevitably spawn new tumors. Even with the best
+care currently available, median survival time is a dire 15 months, and only
+10 percent of patients survive five years once diagnosed.
+
+The Duke team decided to pursue an aggressive treatment option to match its
+opponent, turning to the bacterium Salmonella typhimurium. With a few genetic
+tweaks, the engineers turned the bacterium into a cancer-seeking missile that
+produces self-destruct orders deep within tumors. Tests in rat models with
+extreme cases of the disease showed a remarkable 20 percent survival rate over
+100 days—roughly equivalent to 10 human years—with the tumors going into
+complete remission.
+
+The results appeared online on December 21, 2016, in the journal Molecular
+Therapy – Oncolytics.
+
+“Since glioblastoma is so aggressive and difficult to treat, any change in the
+median survival rate is a big deal,” said Johnathan Lyon, a PhD student
+working with Ravi Bellamkonda, Vinik Dean of Duke’s Pratt School of
+Engineering, whose laboratory is currently transitioning to Duke from Georgia
+Tech, where much of the work was completed. “And since few survive a
+glioblastoma diagnosis indefinitely, a 20 percent effective cure rate is
+phenomenal and very encouraging.”
+
+Previous studies have shown, quite accidentally, that the presence of bacteria
+can cause the immune system to recognize and begin attacking tumors. However,
+follow-up clinical trials with genetically detoxified strains of S.
+typhimurium have since proven ineffective by themselves.
+
+To use these common intestinal bacteria as tumor-seeking missiles, Lyon and
+Bellamkonda, working with lead co-author Nalini Mehta, selected a detoxified
+strain of S. typhimurium that was also deficient in a crucial enzyme called
+purine, forcing the bacteria to seek supplies elsewhere.
+
+Tumors just so happen to be an excellent source of purine, causing the
+bacteria to flock to them in droves.
+
+Then, the Duke engineers made a series of genetic tweaks so that the bacteria
+would produce two compounds called Azurin and p53 that instruct cells to
+commit suicide—but only in the presence of low levels of oxygen. And since
+cancerous cells are multiplying so energetically, the environment around and
+within tumors has unusually low oxygen.
+
+“A major challenge in treating gliomas is that the tumor is dispersed with no
+clear edge, making them difficult to completely surgically remove. So
+designing bacteria to actively move and seek out these distributed tumors, and
+express their anti-tumor proteins only in hypoxic, purine rich tumor regions
+is exciting,” said Ravi Bellamkonda, Vinik Dean of Duke’s Pratt School of
+Engineering and corresponding author of the paper. “And because their natural
+toxicity has been deactivated, they don’t cause an immunological response. At
+the doses we used in the experiments, they were naturally cleared once they’d
+killed the tumors, effectively destroying their own food source.”
+
+The researchers tested the modified bacteria by injecting them directly into
+the rats’ brains. While this may sound like an extreme delivery option, the
+first course of action usually performed with glioblastoma is to surgically
+remove the primary tumor, if possible, leaving the opportunity to directly
+deliver therapeutics.
+
+The treatment worked in 20 percent of the rats, causing complete tumor
+regression and extending their lives by 100 days, which translates to roughly
+10 human years.
+
+In the 80 percent that did not survive, however, the treatment didn’t change
+the length of time the rats survived. After testing for common signs of
+resistance to the anti-tumor compounds and finding none, the researchers
+concluded the ineffectiveness was likely due to inconsistencies in the
+bacteria’s penetration, or to the aggressive tumor growth outpacing the
+bacteria. But every rat showed initial signs of improvement after treatment.
+
+“It might just be a case of needing to monitor the treatment’s progression and
+provide more doses at crucial points in the cancer’s development,” said Lyon.
+“However, this was our first attempt at designing such a therapy, and there is
+some nuance to the specific model we used, thus more experiments are needed to
+know for sure.”
+
+The researchers now plan to program their bacteria to produce different drugs
+that cause stronger reactions in the tumors. These will be more difficult to
+implement, however, as other drugs are not as specific to tumor cells as those
+used in this study, making potential side effects more of a concern.
+
+This research was supported by the Ian’s Friends Foundation, Ann Rankin Cowan,
+Children’s Healthcare of Atlanta and Georgia Research Alliance.
+
+“Bacterial Carriers for Glioblastoma Therapy.” Nalini Mehta, Johnathan G.
+Lyon, Ketki Patil, Nassir Mokarram, Christine Kim, Ravi V. Bellamkonda.
+Molecular Therapy – Oncolytics, 2016. DOI: 10.1016/j.omto.2016.12.003
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

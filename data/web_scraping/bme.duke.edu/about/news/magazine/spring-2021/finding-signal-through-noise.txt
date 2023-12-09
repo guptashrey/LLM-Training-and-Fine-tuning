@@ -1,0 +1,326 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Finding the Signal Through the Noise
+
+March 24, 2021 | Michaela Kane
+
+Duke BME researchers are pioneering new approaches to turn raw data into
+valuable insights to detect disease and guide treatment
+
+From imaging technologies that scan many layers of tissue to advanced sensors
+that can use light to track everything from heart rate to blood sugar levels,
+researchers are developing tools that can generate biomedical information at
+an unprecedented scale and pace. Through advancements in artificial
+intelligence, digital health modeling and data science, Duke BME researchers
+are pioneering new approaches to turn that raw data into valuable insights to
+detect disease and guide treatment.
+
+The image shows the arteries and veins distinguished in the eye
+
+## Decoding Data from the Eye
+
+During a standard eye exam, an ophthalmologist may examine the layers of
+neurons and tissue at the back of the eye. When a person’s eyes are healthy,
+these layers, each made of different types of cells, appear thick and
+organized. But if a person has a disease like glaucoma or age-related macular
+degeneration, these layers may shrink or become deformed.
+
+Researchers can use tools like Optical Coherence Tomography, or OCT, to
+specifically detect the thickness of these individual layers and determine how
+far the disease has progressed, which informs the course of treatment. But
+while these measurements are accurate, they aren’t sensitive enough to detect
+the early stages of many eye diseases, when individual cells die without
+affecting the overall thickness and shape of the tissue.
+
+Utilizing the most sensitive imaging system to date, Sina Farsiu, the Paul
+Ruffin Scarborough Associate Professor of Biomedical Engineering, used his
+expertise in artificial intelligence to create deep-learning algorithms that
+can accurately identify subtle biomarkers of eye diseases other than thickness
+from OCT images of the retina, allowing for earlier diagnosis.
+
+Farsiu is the director of the Vision and Image Processing Laboratory at Duke,
+where his students pursue projects at the intersection of biomedical
+engineering, ophthalmology, electrical and computer engineering, and computer
+science.
+
+“We develop machine learning algorithms for a variety of photonic imaging
+systems to enhance the quality of images,” says Farsiu. “This work gives us a
+mountain of data to work with, and we’ve used that data to develop intelligent
+algorithms that can accurately point out biomarkers of both ophthalmological
+diseases and neurodegenerative diseases, like Alzheimer’s and ALS.”
+
+Sina Farsiu
+
+These algorithms have also proven useful for clinical trials. For example, a
+2020 study showed that researchers could use software built by Farsiu’s PhD
+student Jessica Loo to accurately assess thousands of images from a phase II
+clinical drug study.
+
+“This software allowed us to scan the images for biomarkers that indicated
+whether the drug being tested was working or not,” says Farsiu. “We showed
+that it was just as accurate as the extremely costly human assessment from a
+standard clinical trial.”
+
+Now, Farsiu and his postdoc, Reza Rasti, are exploring how they can apply
+algorithms to predict the outcome of various therapies for patients with
+diabetes-related vision loss.
+
+Somayyeh Soltanian-Zadeh
+
+The first-line therapy for these patients is typically anti-vascular
+endothelial growth factor, or anti-VEGF, which can often save a person’s
+vision for several years.
+
+However, the drug must be injected directly into the eye through an invasive
+and expensive procedure, and it doesn’t work for all patients.
+
+“There is a large portion of people where this therapy isn’t effective,” says
+Farsiu. “If anti-VEGF doesn’t work, then the doctor will laser your eye, and
+if that doesn’t work, they will explore a series of other treatment options
+until you respond or you go blind, which isn’t ideal.”
+
+With their approach, the team can identify biomarkers from OCT images that
+indicate which patients would respond to anti-VEGF therapy and which ones
+won’t, saving them from undergoing an invasive and costly therapy.
+
+“This technology is really robust––it has applications for different disease
+detection and other practical uses,” says Farsiu. “The goal of AI so far is to
+be able to replicate what doctors do, but no doctor can just look at images
+and say that a patient will respond to a specific therapy. With this tool,
+we’ve now gone beyond what a doctor can do, and we can do it with very high
+accuracy.”
+
+## Wearable Devices for a Wealth of Health Insights
+
+Whether it’s on a track, on a trail, in the pool or at the gym, smartwatches
+and other wearable devices are becoming the most common accessory seen on a
+person’s wrist. These devices can measure a person’s activity levels,
+recording an average running pace, daily step counts and even biological data,
+like heart rate and sleep patterns.
+
+But now, Jessilyn Dunn, an assistant professor of biomedical engineering and
+biostatistics & bioinformatics at Duke, aims to explore how both researchers
+and physicians can transform everyday data into effective health decisions.
+
+Dunn runs the Big Ideas Lab, which merges data science and biomedical
+engineering. With a joint appointment in the department of biostatistics &
+bioinformatics, Dunn has focused her efforts on understanding how wearable
+devices can identify digital biomarkers for cardiometabolic diseases, like
+diabetes, and assessing and improving the accuracy of wearable technology.
+
+“My goal is to turn data sources from an information delivery system into an
+insight delivery system,” says Dunn. “When you go to the doctor for a check-
+up, they usually see you for about 15 minutes once a year. Instead, we’d like
+to use these devices to gather your health data over longer periods and allow
+physicians to use that data not only to catch who is sick, but to catch who
+will become sick and then develop appropriate interventions.”
+
+Dunn is exploring this idea through a MEDx (Medicine + Engineering at Duke)
+grant, which funds a project centered on detecting digital biomarkers of
+glycemia and glycemic variability. These measurements indicate the amount of
+glucose in the blood, which determines if a person is prediabetic or diabetic.
+
+Jessilyn Dunn
+
+“One in three Americans is prediabetic, and that’s detected when a person goes
+into a clinic for a blood glucose test,” says Dunn. “Ideally, that’s
+representative of the norm for that person, but if that’s not the case then
+the diagnosis and subsequent therapies would be missed. We’d like to come up
+with a more continuous metric that would give more accurate information about
+someone’s likelihood of becoming prediabetic.”
+
+Building on Dunn’s previous research, the team is developing predictive
+algorithms and using machine learning to identify digital biomarkers that
+indicate if a person is at risk of prediabetes.
+
+“This could involve a combination of measuring the number of steps a person
+takes and their circadian change in heart rate,” says Dunn. “The combination
+of the change in multiple factors could actually be predictive of someone’s
+insulin sensitivity, as it gives us an idea of their heart’s function and
+their physical activity level.”
+
+Allowing patients to gather these measurements via wearable devices removes
+the need for invasive testing, as patients are much more likely to wear a
+smartwatch than they are to have regular blood draws.
+
+But as uses for wearable devices continue to grow, Dunn also wants to ensure
+that these devices are working as accurately as possible for anyone interested
+in using them.
+
+“Companies that manufacture these devices don’t put out any metrics about how
+well they work across a variety of factors,” says Dunn. “So we wanted to
+collect evidence about how well they work and identify potential circumstances
+where they may not work well.”
+
+In a February 2020 study, Dunn and her PhD student Brinnae Bent explored the
+accuracy of the heart rate measurements from the most popular wearable
+devices: the Apple Watch 4, Fitbit Charge 2, Garmin Vivosmart 3 and Xiaomi
+Midband. The team assessed their accuracy over a variety of skin tones and
+during various activities, using an ECG measurement as the reference standard.
+
+The team found that, while the devices aren’t affected by skin tones, the
+accuracy between wearables begins to vary wildly when they measure heart rate
+during different types of everyday activities, such as typing or walking.
+
+“If there are disparities in how these devices work, we need to identify and
+correct them,” says Dunn. “Our hope is that these wearables will fill a gap in
+the health care world. Health happens 24 hours a day, seven days a week. Our
+goal is to improve long-term and acute health monitoring outside of the clinic
+and get easy-to-use health care tools to people who may not typically have
+easy access to standard health care in the first place.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

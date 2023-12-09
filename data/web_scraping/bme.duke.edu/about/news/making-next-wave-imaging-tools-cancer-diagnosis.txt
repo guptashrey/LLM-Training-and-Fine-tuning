@@ -1,0 +1,190 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Making the Next Wave of Imaging Tools for Cancer Diagnosis
+
+May 9, 2019
+
+Motivated by her mother’s death from breast cancer, Muyinatu Bell (Duke BME
+PhD’12) is now advancing medical imaging as a faculty member at Johns Hopkins
+
+With a joint appointment in the departments of biomedical engineering and
+electrical and computer engineering, Muyinatu A. Lediju Bell uses her position
+as an assistant professor at Johns Hopkins University to push the boundaries
+of medical imaging. Bell’s research is centered on ultrasound and
+photoacoustic imaging, building off the work she completed as a PhD student at
+Duke University’s Department of Biomedical Engineering.
+
+As a graduate student in Gregg Trahey’s lab, she studied acoustic clutter––a
+type of noise artifact in ultrasound images that can make it difficult to
+distinguish different features in the images. One of Bell’s primary projects
+involved developing a method to reduce acoustic clutter using spatial
+coherence information, which measures the similarity of ultrasound echoes from
+tissue when recorded from slightly different locations. This new process
+allowed researchers to better distinguish borders between blood and tissue,
+especially in organs like the heart, which was the topic of Bell’s PhD
+dissertation.
+
+“This was the first time that someone had directly displayed the spatial
+coherence of ultrasound waves to reduce noise, and it was especially promising
+because it led to several patents, the first of which I’m credited on as a co-
+inventor,” says Bell. “At Johns Hopkins, I’m building on that previous work to
+aid in the diagnosis of breast cancer, as my lab is the first to apply this
+new technique to breast images.”
+
+If a lump is discovered during a breast exam, physicians need to conduct more
+tests to make an accurate diagnosis. Typically, this involves using ultrasound
+to image the lump and determine if it’s benign or cancerous. Benign cysts are
+filled with fluid, so they should appear very dark in comparison to
+surrounding tissue. But breast tissue is highly variable, so artifacts can
+appear where there should be no signal at all. This signal reduces the
+radiologist’s confidence about making a conclusive diagnosis, so they’ll often
+need to perform a biopsy to ensure that the tissue isn’t cancerous.
+
+“With my method, we’d be able to improve the detection of cysts in the breast
+by cutting out that noise,” says Bell. “Our goal is to ultimately decrease the
+number of false positives, which would reduce the need for invasive biopsies
+and some of the patient anxiety that accompanies inconclusive diagnoses with
+ultrasound alone.”
+
+For Bell, the push to improve the diagnostic tools for breast cancer was a
+personal one.
+
+“I lost my mother to breast cancer when I was an undergraduate student, which
+fueled my long-standing interest in and motivation to study cancer. I also
+knew that I wanted to pursue research that used my mechanical engineering
+background to impact ultrasound imaging technology,” says Bell. “When I
+started to consider graduate school, I went to Google and typed in keywords
+like imaging, cancer, ultrasound and mechanics, and Gregg Trahey’s lab was the
+top hit. He was developing new ultrasound technology to image the mechanical
+properties of tissue. I instantly knew that his lab was the right choice for
+me.”
+
+At Duke, Bell was a fellow in the NIH-funded Duke Medical Imaging Training
+Program, which gave her wide-ranging exposure and experience across the field.
+With this training, she is well equipped to teach the gateway Medical Imaging
+Systems course at Johns Hopkins University, where she has introduced new
+hands-on imaging modules that her students consistently rate as one of the
+best aspects of her course.
+
+“I’m grateful that I was able to connect with a program and research lab at
+Duke that aligned well with my passions,” says Bell. “Gregg’s lab is widely
+recognized and respected, and I’m proud to have him as part of my academic
+family tree. “During my time at Duke I learned a lot about the experimental
+design process, how to ask the right questions and how to go after those
+questions,” she adds. “It was a great place to learn the critical skills I
+need to be a successful researcher and effective educator today.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

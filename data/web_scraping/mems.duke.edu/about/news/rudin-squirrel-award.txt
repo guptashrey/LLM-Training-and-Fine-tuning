@@ -1,0 +1,346 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Professor Wins $1 Million Artificial Intelligence Prize, A ‘New Nobel’
+
+October 12, 2021 | By Ken Kingery
+
+Cynthia Rudin becomes second recipient of AAAI Squirrel AI Award for
+pioneering socially responsible AI
+
+Whether preventing explosions on electrical grids, spotting patterns among
+past crimes, or optimizing resources in the care of critically ill patients,
+Duke University computer scientist and engineer Cynthia Rudin wants artificial
+intelligence (AI) to show its work. Especially when it’s making decisions that
+deeply affect people’s lives.
+
+While many scholars in the developing field of machine learning were focused
+on improving algorithms, Rudin instead wanted to use AI’s power to help
+society. She chose to pursue opportunities to apply machine learning
+techniques to important societal problems, and in the process, realized that
+AI’s potential is best unlocked when humans can peer inside and understand
+what it is doing.
+
+Now, after 15 years of advocating for and developing “interpretable” machine
+learning algorithms that allow humans to see inside AI, Rudin’s contributions
+to the field have earned her the $1 million Squirrel AI Award for Artificial
+Intelligence for the Benefit of Humanity from the Association for the
+Advancement of Artificial Intelligence (AAAI). Founded in 1979, AAAI serves as
+the prominent international scientific society serving AI researchers,
+practitioners and educators.
+
+> “Only world-renowned recognitions, such as the Nobel Prize and the A.M.
+> Turing Award from the Association of Computing Machinery, carry monetary
+> rewards at the million-dollar level. Professor Rudin's work highlights the
+> importance of transparency for AI systems in high-risk domains. Her courage
+> in tackling controversial issues calls out the importance of research to
+> address critical challenges in responsible and ethical use of AI."
+>
+> yolanda gil
+
+Rudin, a professor of computer science and of electrical and computer
+engineering at Duke, is the second recipient of the new annual award, funded
+by the online education company Squirrel AI to recognize achievements in
+artificial intelligence in a manner comparable to top prizes in more
+traditional fields.
+
+She is being cited for “pioneering scientific work in the area of
+interpretable and transparent AI systems in real-world deployments, the
+advocacy for these features in highly sensitive areas such as social justice
+and medical diagnosis, and serving as a role model for researchers and
+practitioners.”
+
+“Only world-renowned recognitions, such as the Nobel Prize and the A.M. Turing
+Award from the Association of Computing Machinery, carry monetary rewards at
+the million-dollar level,” said AAAI awards committee chair and past president
+Yolanda Gil. “Professor Rudin's work highlights the importance of transparency
+for AI systems in high-risk domains. Her courage in tackling controversial
+issues calls out the importance of research to address critical challenges in
+responsible and ethical use of AI."
+
+Rudin’s first applied project was a collaboration with Con Edison, the energy
+company responsible for powering New York City. Her assignment was to use
+machine learning to predict which manholes were at risk of exploding due to
+degrading and overloaded electrical circuitry. But she soon discovered that no
+matter how many newly published academic bells and whistles she added to her
+code, it struggled to meaningfully improve performance when confronted by the
+challenges posed by working with handwritten notes from dispatchers and
+accounting records from the time of Thomas Edison.
+
+“We were getting more accuracy from simple classical statistics techniques and
+a better understanding of the data as we continued to work with it,” Rudin
+said. “If we could understand what information the predictive models were
+using, we could ask the Con Edison engineers for useful feedback that improved
+our whole process. It was the interpretability in the process that helped
+improve accuracy in our predictions, not any bigger or fancier machine
+learning model. That’s what I decided to work on, and it is the foundation
+upon which my lab is built.”
+
+Over the next decade, Rudin developed techniques for interpretable machine
+learning, which are predictive models that explain themselves in ways that
+humans can understand. While the code for designing these formulas is complex
+and sophisticated, the formulas might be small enough to be written in a few
+lines on an index card.
+
+Rudin has applied her brand of interpretable machine learning to numerous
+impactful projects. With collaborators Brandon Westover and Aaron Struck at
+Massachusetts General Hospital, and her former student Berk Ustun, she
+designed a simple point-based system that can predict which patients are most
+at risk of having destructive seizures after a stroke or other brain injury.
+And with her former MIT student Tong Wang and the Cambridge Police Department,
+she developed a model that helps discover commonalities between crimes to
+determine whether they might be part of a series committed by the same
+criminals. That open-source program eventually became the basis of the New
+York Police Department’s Patternizr algorithm, a powerful piece of code that
+determines whether a new crime committed in the city is related to past
+crimes.
+
+“Cynthia’s commitment to solving important real-world problems, desire to work
+closely with domain experts, and ability to distill and explain complex models
+is unparalleled,” said Daniel Wagner, deputy superintendent of the Cambridge
+Police Department. “Her research resulted in significant contributions to the
+field of crime analysis and policing. More impressively, she is a strong
+critic of potentially unjust ‘black box’ models in criminal justice and other
+high-stakes fields, and an intense advocate for transparent interpretable
+models where accurate, just and bias-free results are essential.”
+
+Black box models are the opposite of Rudin’s transparent codes. The methods
+applied in these AI algorithms make it impossible for humans to understand
+what factors the models depend on, which data the models are focusing on and
+how they’re using it. While this may not be a problem for trivial tasks such
+as distinguishing a dog from a cat, it could be a huge problem for high-stakes
+decisions that change people’s lives.
+
+> “Cynthia’s commitment to solving important real-world problems, desire to
+> work closely with domain experts, and ability to distill and explain complex
+> models is unparalleled. Her research resulted in significant contributions
+> to the field of crime analysis and policing. More impressively, she is a
+> strong critic of potentially unjust ‘black box’ models in criminal justice
+> and other high-stakes fields, and an intense advocate for transparent
+> interpretable models where accurate, just and bias-free results are
+> essential.”
+>
+> Daniel Wagner
+
+“Cynthia is changing the landscape of how AI is used in societal applications
+by redirecting efforts away from black box models and toward interpretable
+models by showing that the conventional wisdom—that black boxes are typically
+more accurate—is very often false,” said Jun Yang, chair of the computer
+science department at Duke. “This makes it harder to justify subjecting
+individuals (such as defendants) to black-box models in high-stakes
+situations. The interpretability of Cynthia's models has been crucial in
+getting them adopted in practice, since they enable human decision-makers,
+rather than replace them.”
+
+One impactful example involves COMPAS—an AI algorithm used across multiple
+states to make bail parole decisions that was accused by a ProPublica
+investigation of partially using race as a factor in its calculations. The
+accusation is difficult to prove, however, as the details of the algorithm are
+proprietary information, and some important aspects of the analysis by
+ProPublica are questionable. Rudin's team has demonstrated that a simple
+interpretable model that reveals exactly which factors it’s taking into
+consideration is just as good at predicting whether or not a person will
+commit another crime. This begs the question, Rudin says, as to why black box
+models need to be used at all for these types of high-stakes decisions.
+
+Rate of Change · Opening The Black Box
+
+"We've been systematically showing that for high-stakes applications, there's
+no loss in accuracy to gain interpretability, as long as we optimize our
+models carefully,” Rudin said. “We've seen this for criminal justice
+decisions, numerous healthcare decisions including medical imaging, power grid
+maintenance decisions, financial loan decisions and more. Knowing that this is
+possible changes the way we think about AI as incapable of explaining itself."
+
+Throughout her career, Rudin has not only been creating these interpretable AI
+models, but developing and publishing techniques to help others do the same.
+That hasn’t always been easy. When she first began publishing her work, the
+terms “data science” and "interpretable machine learning" did not exist, and
+there were no categories into which her research fit neatly, which means that
+editors and reviewers didn't know what to do with it. Cynthia found that if a
+paper wasn’t proving theorems and claiming its algorithms to be more accurate,
+it was—and often still is—more difficult to publish.
+
+> “I have had enormous admiration for Cynthia from very early on, for her
+> spirit of independence, her determination, and her relentless pursuit of
+> true understanding of anything new she encountered in classes and papers.
+> Even as a graduate student, she was a community builder, standing up for
+> others in her cohort.”
+>
+> ingrid daubechies
+
+As Rudin continues to help people and publish her interpretable designs—and as
+more concerns continue to crop up with black box code—her influence is finally
+beginning to turn the ship. There are now entire categories in machine
+learning journals and conferences devoted to interpretable and applied work.
+Other colleagues in the field and their collaborators are vocalizing how
+important interpretability is for designing trustworthy AI systems.
+
+“I have had enormous admiration for Cynthia from very early on, for her spirit
+of independence, her determination, and her relentless pursuit of true
+understanding of anything new she encountered in classes and papers,” said
+Ingrid Daubechies, the James B. Duke Distinguished Professor of Mathematics
+and Electrical and Computer Engineering, one of the world’s preeminent
+researchers in signal processing, and one of Rudin’s PhD advisors at Princeton
+University. “Even as a graduate student, she was a community builder, standing
+up for others in her cohort. She got me into machine learning, as it was not
+an area in which I had any expertise at all before she gently but very
+persistently nudged me into it. I am so very glad for this wonderful and very
+deserved recognition for her!”
+
+“I could not be more thrilled to see Cynthia’s work honored in this way,”
+added Rudin’s second PhD advisor, Microsoft Research partner Robert Schapire,
+whose work on “boosting” helped lay the foundations for modern machine
+learning. “For her inspiring and insightful research, her independent thinking
+that has led her in directions very different from the mainstream, and for her
+longstanding attention to issues and problems of practical, societal
+importance.”
+
+Rudin earned undergraduate degrees in mathematical physics and music theory
+from the University at Buffalo before completing her PhD in applied and
+computational mathematics at Princeton. She then worked as a National Science
+Foundation postdoctoral research fellow at New York University, and as an
+associate research scientist at Columbia University. She became an associate
+professor of statistics at the Massachusetts Institute of Technology before
+joining Duke’s faculty in 2017, where she holds appointments in computer
+science, electrical and computer engineering, biostatistics and
+bioinformatics, and statistical science.
+
+She is a three-time recipient of the INFORMS Innovative Applications in
+Analytics Award, which recognizes creative and unique applications of
+analytical techniques, and is a Fellow of the American Statistical Association
+and the Institute of Mathematical Statistics.
+
+“I want to thank AAAI and Squirrel AI for creating this award that I know will
+be a game-changer for the field,” Rudin said. “To have a ‘Nobel Prize’ for AI
+to help society makes it finally clear without a doubt that this topic—AI work
+for the benefit for society—is actually important.”
+
+## Related News
+
+December 04, 2019
+
+### Simple Machine Learning Scorecard for Seizures is Saving Lives
+
+October 10, 2019
+
+### Ethical Algorithms
+
+May 13, 2019
+
+### Stop Gambling with Black Box and Explainable Models on High-Stakes
+Decisions
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

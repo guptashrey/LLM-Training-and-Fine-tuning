@@ -1,0 +1,474 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. The Duke Difference
+        1. Why Duke for CEE?
+        2. Enrollment and Graduation Rates
+        3. Where Our Students Go
+
+      2. Degree Options
+        1. Civil Eng Degree Planning
+        2. Civil Eng Study Tracks
+        3. Env. Eng Degree Planning
+        4. Dual Majors
+        5. Certificates
+        6. 4+1: BSE+Master's
+
+      3. For Current Students
+        1. Courses
+        2. Research & Independent Study
+        3. Outreach & Service Learning
+        4. Senior Design Capstone
+        5. Internships & Career Planning
+        6. Graduation with Distinction
+
+  * Graduate
+    *       1. The Duke Difference
+        1. Degree Options
+        2. Scholarships & Financial Support
+        3. Graduate Study Tracks
+        4. Graduate Certificates
+        5. Course Descriptions
+
+      2. Master's Study
+        1. Master of Science in CEE
+        2. Civil Engineering
+        3. Computational Mechanics and Scientfic Computing
+        4. Environmental Engineering
+        5. Risk Engineering
+        6. Career Services
+        7. Career Outcomes
+
+      3. PhD
+        1. Meet Our Students
+        2. PhD Career Outcomes
+
+      4. For Current Students
+  * Research
+    *       1. Overview
+      2. Research News
+      3. Computational Mechanics & Scientific Computing
+      4. Environmental Health Engineering
+      5. Geomechanics & Geophysics for Energy and the Environment
+      6. Hydrology & Fluid Dynamics
+      7. Risk & Resilient Systems
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * About
+    *       1. Facts & Stats
+      2. Meet the Chair
+      3. Serving a Global Society
+      4. Advisory Board
+      5. Alumni
+      6. Awards & Honors
+      7. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke CEE Magazine
+
+      8. Events
+        1. Seminars
+
+# From The Ground Up: Evolving Geomechanics to Meet Energy Needs
+
+November 30, 2021 | Ken Kingery
+
+Duke CEE faculty are pushing the field of geomechanics into the future through
+interdisciplinary research focused on tomorrow’s energy needs
+
+Tomasz Hueckel has witnessed a lot of change at Duke Engineering since joining
+the faculty in 1987: the leadership of five deans, the construction of two
+buildings with more than 400,000 square feet of space dedicated to
+engineering, the number of tenure-track faculty expanding to more than 125.
+
+But having been a pioneer in the field of geomechanics for nearly a half-
+century, he’s seen his chosen field change even more.
+
+“Geomechanics grew out of what used to be a very narrow context of civil
+engineering that was basically constrained to a simple understanding of
+foundations and tunnels,” said Hueckel, professor of civil and environmental
+engineering at Duke. “But it has grown to include a wide subset of fields
+intended to deepen our knowledge of how the infrastructure we build today can
+serve us decades or even centuries into the future.”
+
+Tomasz Hueckel in his Duke office in 1987
+
+> "Geomechanics grew out of what used to be a very narrow context of civil
+> engineering that was basically constrained to a simple understanding of
+> foundations and tunnels."
+>
+> Tomasz HUeckel, Duke professor of civil and environmental engineering
+
+Today, he says, geomechanics is a conglomerate of many disciplines, drawing on
+chemistry, fluid mechanics, physics, geology, computational modeling and more.
+And much of what has driven his discipline forward is the global demand for
+energy—and the complexities of the subterranean world where much of it is
+drawn from and stored.
+
+“Energy is a hot topic and heavily reliant on geomechanical knowledge,” said
+Manolis Veveakis, assistant professor of civil and environmental engineering
+at Duke. “Whether it’s extracting clean energy from the ground, storing or
+burying energy and its byproducts in the ground, or even engineering the most
+efficient foundations for wind farms, a modern approach to geomechanics is
+essential to meet tomorrow’s clean energy needs.”
+
+At Duke’s Department of Civil and Environmental Engineering (CEE), the field’s
+evolution into a kaleidoscope of disciplines pushing the boundaries of what’s
+possible can be seen in how four different—but not that different—faculty are
+using their research to meet the energy needs of the future.
+
+#### **The Mechanics of Fluids Underneath Australia’s Outback: Extracting Oil
+and Gas from Shale**
+
+In the early 2010s, the Australian government encountered a problem. They’d
+discovered one of the largest reservoirs of geothermal energy on Earth.
+Sitting several kilometers beneath the surface of the Outback interior at
+almost 600 degrees Fahrenheit, the reservoir would be extremely difficult to
+tap into. Still, it was also too compelling to ignore.
+
+But after several years and a half a billion dollars, they couldn’t produce
+enough energy from the site to run a refrigerator. The standard techniques for
+geothermal energy weren’t working. In a typical geothermal energy setup, two
+wells are drilled into the ground—one to send water in and one to receive the
+heated water coming out. But first, high-pressure fluids are used to open new
+channels within the rock for the water to flow through. While the engineers
+could initially create the tunnels, they were closing back up within a matter
+of days.
+
+“It was the very definition of burning your money,” said Veveakis, who was
+called in among other experts to help figure out what was going wrong. “At the
+temperatures they were working at, trying to crack fissures in the rock is
+like cutting butter. Once you stop, it will just melt back together.”
+
+> “At the temperatures they were working at, trying to crack fissures in the
+> rock is like cutting butter. Once you stop, it will just melt back
+> together.”
+>
+> Manolis Veveakis, Duke Assistant professor of Civil and Environmental
+> Engineering
+
+The water was only flowing along natural cracks in the underground rock,
+otherwise known as fault lines. And pumping water through fault lines is
+inherently dangerous, as the process can activate the faults and cause
+earthquakes.
+
+The situation, Veveakis said, illustrates how the push to tap underground
+energy resources has driven his field forward. In this case, with a
+fundamental understanding of how the rock was reacting, the research experts
+suggested the government team inject water slowly within the faults at low
+pressures but continuous rates. While monitoring the system’s response to
+ensure the process was progressing safely, this would enhance the process of
+creating natural fractures for the water to flow through.
+
+While initial attempts at his suggestion worked, it was too late. With the
+natural gas fracking boom beginning to take hold, the Australian government
+decided it had already spent too much money for too little reward and pulled
+the plug on the project.
+
+“There’s no off-the-shelf answer as to how to engineer these systems because
+they are so complex,” said Veveakis. “We only had a chance to try to mitigate
+their mistakes at the very end of the project when things got desperate. If
+they had taken this complexity into account from the beginning, the results
+showed that our ideas might have allowed it to work on a commercial scale.”
+
+#### **Burying Nuclear Waste in the Desert**
+
+The United States has known for more than seven decades that it is going to
+have to do something with the nuclear waste created at nuclear power plants.
+But that hasn’t stopped administration after administration from kicking the
+can down the proverbial road.
+
+Most experts agree that the best solution is to somehow encase and bury the
+radioactive material somewhere deep within a desert mountain, far away from
+any cities or thriving habitats that a leak could destroy. But even the most
+remote regions of the country have underground water tables that flow for
+hundreds of miles and are teeming with their own unique fauna and flora.
+
+To try to ensure no nuclear waste can escape no matter where it’s buried,
+researcher have recently turned to clay. By using clay as a buffer zone
+between the walls of the chamber and the dangerous container drums themselves,
+researchers believe an acceptable solution can be found. This is because clay
+is capable of self-healing its own cracks to prevent any avenues of escape as
+the centuries drag on.
+
+Or at least it usually can.
+
+Tomasz Hueckel
+
+“Storage of nuclear waste was originally theorized to be limited to 80 degrees
+Celsius (180 Fahrenheit),” Hueckel explained. “But now researchers are finding
+out that, in reality, they may actually need to push to 100 or 150 degrees
+Celsius. And at those temperatures, evaporation of moisture in the clays begin
+to make them more prone to cracking. And you cannot have cracked barriers.
+
+Manolis Veveakis
+
+”Four years ago, the Department of Energy issued a grant to Hueckel and
+Veveakis to try to understand the mechanisms causing the drying and cracking
+of the clay in question—and potentially methods for preventing it. To do that,
+the team must take into account dozens of micro-scale processes that are
+happening all the time including evaporation, deformation, thermal expansion
+or collapse, and perhaps even issues that are not yet known.
+
+The challenge, Hueckel says, is putting old knowledge and equations to very
+new uses, such as understanding the evolving capillary processes in drying
+clays that cause them to crack.  
+“It’s funny how a relatively practical objective such as nuclear waste
+disposal leads to very fundamental questions about the behavior of materials
+that I never would have thought would be very important to the task,” Hueckel
+said. “Having been in the field for so long, however, I find a certain
+excitement of seeing so many different elements of geomechanics coming
+together in very unexpected configurations.”
+
+#### **The Chemistry of Coal Ash**
+
+Although it doesn’t enjoy the same level of attention in Hollywood and
+people’s imaginations as nuclear waste, the remnants of coal burned in power
+plants is also a major health and environmental concern. This became
+especially clear in North Carolina in 2014 when approximately 39,000 tons of
+coal ash and 27 million gallons of ash pond water were released into the
+environment near the Dan River.
+
+For decades the most common practice for disposing of coal ash has been to
+stick it in a liquid landfill. Besides the obvious dangers of keeping these
+wastes in open ponds within a state that regularly sees major hurricanes and
+floods, there are many concerns about how safe these storage structures are
+even in the best of conditions.
+
+Coal ash pond 1985 near Moncure, NC. Photo by Waterkeeper Alliance, used under
+Creative Commons license CC BY-NC-ND 2.0. creativecommons.org/licenses/by-nc-
+nd/2.0/
+
+Heileen Hsu-Kim, Professor of Civil and Environmental Engineering at Duke, has
+spent a lot of time researching the chemistry of coal ash. For example, when
+Duke Energy was considering cleaning up their coal ash ponds by drying them,
+turning them into solid landfills and sealing them off, Hsu-Kim pointed out
+that cutting the waste off from oxygen could accelerate the leaching of
+elements such as arsenic and selenium, leading to more contamination than
+expected.
+
+Rather than trying to bury it and forget about it, Hsu-Kim argues that one of
+the best ways of getting rid of coal ash might just be to recycle it. While
+the material is already used in many recipes for concrete, Hsu-Kim argues that
+its chemical composition could make it suitable for much more extreme
+environments than a sidewalk.
+
+> “One idea is to use (coal ash) in barriers for nuclear waste storage. If
+> coal ash has the right particle size, shape and chemical characteristics, it
+> ends up solidifying into an extremely hard and impermeable barrier.”
+>
+> Heileen Hsu-Kim, Duke Professor of Civil and Environmental engineering
+
+Heileen Hsu-Kim
+
+“One idea is to use it in barriers for nuclear waste storage,” said Hsu-Kim,
+noting that Veveakis already has a student working on a related project. “If
+coal ash has the right particle size, shape and chemical characteristics, it
+ends up solidifying into an extremely hard and impermeable barrier.”
+
+One obstacle to recycling coal ash, however, is that not all burnt coal is
+created equally. Different ash from different regions have different chemical
+and physical compositions. And if you’re going to use these residues in a new
+application, you have to be extremely sure that it won’t end up polluting the
+environment itself.
+
+“In the past couple decades, we’ve developed new ways to assess whether or not
+the toxic elements found in coal ash might be dangerous if the ash is recycled
+for building materials,” said Hsu-Kim. “For example, advanced spectroscopy
+tools can help us understand what kind of selenium or arsenic are in the ash
+and how they’re distributed in the grains. And both of those variables play a
+big role in how safe it is to use coal ash for concrete and other building
+materials.”
+
+#### **Modeling Large Deformations of Salt Deposits—with Computers**
+
+With all of the advances in the field of geomechanics over the past few
+decades, the quantum leap forward in computational modeling might be the most
+impactful. You can discover new chemical properties of soils down to the
+micrometer. You can experimentally approximate high temperatures and pressures
+on a material over long periods of time. And you can take pressure and
+composition measurements from effluent coming out of a fracking operation. But
+only today’s advanced modeling techniques can put them all together in a
+single, cohesive simulation.
+
+> "While the salt may seem solid enough, over the course of millions of years,
+> it behaves like a liquid and can form a wide variety of structures. And
+> these rock salt structures reflect sound waves in a way that makes it
+> difficult to tell whether or not there is oil present.”
+>
+> GUGLIELMO SCOVAZZI, DUKE PROFESSOR OF CIVIL AND ENVIRONMENTAL ENGINEERING
+
+Guglielmo Scovazzi
+
+One of the leaders in the field of computational modeling is Guglielmo
+Scovazzi, professor of civil and environmental engineering at Duke. Scovazzi
+works on a wide range of problems in fluid flows and solid mechanics that
+benefit from his novel approach to breaking a large problem down into small,
+discrete sub-cells for a computer to solve.
+
+One recent example of Scovazzi’s work involved helping petroleum companies
+locate new reservoirs. When searching for new places to drill, petroleum
+companies send sound waves deep into the earth and measure how the waves
+bounce back to the surface. Almost like an ultrasound for the ground, this
+technique can help identify areas within dense earth and rock that might
+contain liquid. But these searchers were running into a salt problem.
+
+“Because so much of today’s land masses was once covered by oceans, there are
+many places where a layer of salt sediment is covered over mud,” said
+Scovazzi. “While the salt may seem solid enough, over the course of millions
+of years, it behaves like a liquid and can form a wide variety of structures.
+And these rock salt structures reflect sound waves in a way that makes it
+difficult to tell whether or not there is oil present.”
+
+Pillars of dissolved salt in California's Mono Lake, an ancient saline lake
+located at the eastern edge of the Sierra Nevada
+
+Part of the problem is that these salt formations come in a wide variety of
+shapes and sizes. They can form gigantic pillars, mushrooms, floating islands,
+walls and canopies, just to name a few. There are even salt glaciers in Iran
+and huge ridges throughout northern Europe.
+
+To help in their search for black gold, Exxon Mobil asked Scovazzi to develop
+a computational model that could explain how all of these various salt
+formations are made. After working on multiple iterations of a model that
+simulates how layers of salt and mudrock interact over hundreds of thousands
+of years, Scovazzi eventually discovered that the key lay in getting the
+hardness of the mudrock just right.
+
+“If you make the mudrock on top of the salt too strong, nothing happens even
+after a million years,” said Scovazzi. “But if you get the strength of that
+layer just right, the simulations begin to reveal the mushroom formations that
+we see in nature. These findings explain why sometimes complex salt structures
+are found in nature—and sometimes not, with deceptively similar initial
+conditions.”
+
+#### **Interdisciplinary Research Is the Future**
+
+While Scovazzi says that Exxon is happy with the results and plans to use his
+computational model in the future, he also says that the problem he’s
+addressing is much more fundamental in nature than a search for oil. It is for
+this reasons that, towards the end of this project, he saw an opportunity of a
+broader collaboration with his CEE colleague Manolis Veveakis. This can be
+said for all of the geomechanical projects Duke CEE faculty are tackling.
+
+The energy industry wants to be able to tap into rich deposits trapped within
+shale miles beneath the surface. Governments want to store nuclear waste
+within invulnerable vaults for tens of thousands of years. Coal plants want to
+recycle their ash into concrete and other building materials that aren’t just
+safe, but better than what’s currently on the market. Oil companies want to
+know where to expect salt rock formations so they’re not fooled into thinking
+salt is oil.
+
+“It wasn’t too long ago that our students were mainly recruited by petroleum
+companies,” said Hueckel, who together with Veveakis and adjunct CEE professor
+Lyesse Laloui are the editors of the Elsevier journal _Geomechanics for Energy
+and the Environment_. “And while they’re still recruited by petroleum
+companies today, there’s now a much wider demand for their expertise in a wide
+range of fields, especially when it comes to energy.”
+
+Duke has long been at the leading edge of this trend by implementing new
+programs that promote interdisciplinary research and learning, and these CEE
+faculty are making the most of these opportunities.
+
+For example, Hsu-Kim has long led projects with Bass Connections, a program
+built to put undergraduates, graduates and faculty from disparate fields to
+work together on imaginative projects. Several of her classes involve
+environmental epidemiology, where students track contaminants and their
+effects through ecosystems and communities both at home and abroad. Veveakis
+is working on a project with the Nicholas School of Environment involving the
+Duke University Energy Initiative—a university-wide interdisciplinary
+collaboration focused on advancing an accessible, affordable, reliable, and
+clean energy system—to power the university’s cooling from geothermal wells on
+campus.
+
+“The moral of the story is that interdisciplinary research is the only way to
+solve these complex problems,” echoed Veveakis. “We need to both act from
+these many points of view and educate from these many points of view. And
+that’s a big strength of Duke’s CEE department, both in its faculty and its
+students.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * The Duke Difference
+      * Why Duke for CEE?
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+    * Degree Options
+      * Civil Eng Degree Planning
+      * Civil Eng Study Tracks
+      * Env. Eng Degree Planning
+      * Dual Majors
+      * Certificates
+        * Architectural Engineering
+        * Global Development
+        * Energy & The Environment
+      * 4+1: BSE+Master's
+    * For Current Students
+      * Courses
+      * Research & Independent Study
+      * Outreach & Service Learning
+      * Senior Design Capstone
+      * Internships & Career Planning
+      * Graduation with Distinction
+  * Graduate
+    * The Duke Difference
+      * Degree Options
+      * Scholarships & Financial Support
+      * Graduate Study Tracks
+      * Graduate Certificates
+      * Course Descriptions
+    * Master's Study
+      * Master of Science in CEE
+      * Civil Engineering
+      * Computational Mechanics and Scientfic Computing
+      * Environmental Engineering
+      * Risk Engineering
+      * Career Services
+      * Career Outcomes
+    * PhD
+      * Meet Our Students
+      * PhD Career Outcomes
+    * For Current Students
+  * Research
+    * Overview
+    * Research News
+    * Computational Mechanics & Scientific Computing
+    * Environmental Health Engineering
+    * Geomechanics & Geophysics for Energy and the Environment
+    * Hydrology & Fluid Dynamics
+    * Risk & Resilient Systems
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * About
+    * Facts & Stats
+    * Meet the Chair
+    * Serving a Global Society
+    * Advisory Board
+    * Alumni
+    * Awards & Honors
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke CEE Magazine
+    * Events
+      * Seminars
+        * Past Seminars
+

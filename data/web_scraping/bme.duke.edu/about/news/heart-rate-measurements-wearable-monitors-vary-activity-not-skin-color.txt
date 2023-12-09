@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Heart Rate Measurements of Wearable Monitors Vary by Activity, Not Skin
+Color
+
+February 10, 2020
+
+Testing finds skin tones don’t alter the accuracy of heart rate monitors on
+smart watches and fitness trackers, but activities affect readings
+
+Biomedical engineers at Duke University have demonstrated that while different
+wearable technologies, like smart watches and fitness trackers, can accurately
+measure heart rate across a variety of skin tones, the accuracy between
+devices begins to vary wildly when they measure heart rate during different
+types of everyday activities.
+
+As wearable technologies are increasingly used to monitor patients’ health and
+collect digital biomarkers for clinical research and health care, this study
+highlights the need to better understand their accuracy and determine how
+measurement errors may affect research conclusions and inform medical
+decisions, according to the researchers.
+
+The study results appear online on February 10 in the journal NPJ Digital
+Medicine.
+
+“We started this study because we were seeing some evidence, both in research
+and anecdotally, that indicated that wearable devices weren’t working as well
+for people with darker skin tones,” said Jessilyn Dunn, an assistant professor
+of biomedical engineering at Duke. “People would compare a reading on a chest
+strap to their smart watch and get different heart rate values. The companies
+that manufacture these devices don’t put out any metrics about how well they
+work across skin tones, so we wanted to collect evidence about how well they
+work and identify potential circumstances where they may not work well.”
+
+The study enlisted a group of 53 individuals with different skin tones to test
+the six different devices. To establish an accurate baseline, each participant
+wore an electrocardiogram (ECG) patch to measure their true heart rate during
+each activity.
+
+Fitness trackers currently measure heart rate using a process called
+photoplethysmography, or PPG. This involves shining a specific wavelength of
+light, which usually appears green, from a pulse oximeter sensor on the
+underside of the device where it touches the skin on the wrist. As the light
+illuminates the tissue, the pulse oximeter measures changes in light
+absorption and the device then uses this data to generate a heart rate
+measurement.
+
+“Previous research demonstrated that inaccurate PPG heart rate measurements
+occur up to 15 percent more frequently in dark skin as compared to light
+skin,” says Dunn. “That’s because darker skin has a higher melanin content,
+and melanin absorbs the wavelength of light that PPG uses.”
+
+As a second focus of the study, Dunn and her team measured how the devices
+performed during various types of activity. “There is evidence that people who
+work at their desk typing all day tend to have worse readings than people who
+have more stable wrist motion,” Dunn said. “We knew that these devices suffer
+from motion artifact issues, but it wasn’t clear to what extent.”
+
+Dunn and her lab tested both research-grade and commercial-grade wearable
+devices to track how diverse skin types, user activity and device type
+affected the accuracy of heart rate measurements. They tested commercial
+devices including the Apple Watch 4, Fitbit Charge 2, Garmin Vivosmart 3 and
+Xiaomi Midband, and research devices including the Empatica E4 and the
+Biovotion.
+
+In the first round of the experiment, participants wore the Empatica on one
+wrist and the Apple Watch on the other. They first sat still to measure their
+baseline heart rate for four minutes before practicing paced deep breathing
+for one minute. Then they walked for five minutes before returning to a seated
+rest station for two minutes. Finally, they performed a typing task for one
+minute. In the second round, the participants repeated these steps while
+wearing the Fitbit, and in the third round they wore the Garmin, the Xiaomi
+and the Biovotion.
+
+“Although we did not find statistically significant differences in wearable HR
+measurement accuracy across skin tones, it doesn't invalidate past concerns
+with technology equity,” said graduate student Brinnae Bent, the first author
+on this study. “Wearable device software is updated frequently and it appears
+previous concerns have been addressed in current software versions.”
+
+Although the heart rate measurements were more accurate at rest than during
+activity, each tested device reported a higher heart rate than the ECG during
+physical activity across all skin tones. The team also found that the
+commercial devices were more accurate at measuring heart rate than the
+research devices. Maintaining the sensor’s contact with skin can also improve
+device performance, as the sensor can wiggle around and catch motion artifacts
+if it’s too loose.
+
+Overall, the Apple Watch demonstrated the most accurate measurements of all
+tested devices, followed by the Garmin.
+
+“We found that there was a bigger drop in accuracy during activities that
+involved wrist motion that could introduce motion artifacts, like typing, and
+we saw a drop in accuracy during deep breathing, which could indicate the
+devices locking onto cyclic behavior, like breathing, rather than heart rate,”
+said Dunn. “We were initially surprised that the commercial devices were more
+accurate, but they also have huge user bases, so they’re able to use lots of
+data to clean up their signals and improve their algorithms. The research
+wearables are just using raw data, which is important for researchers and
+clinicians to be aware of.”
+
+The study points the way to improving devices for clinical and research use,
+she added.
+
+“We want to use these devices to measure digital biomarkers and predict
+disease outcomes, so if there are disparities in how these devices work we
+need to identify them,” said Dunn.
+
+“We’ve shown that we have equivalent-enough accuracy that we’re not worried
+that there is a disparity due to skin tone in these devices, but we’re hoping
+this puts out the call to companies that make wearables to share more
+information about how they evaluate the devices so that disparities can be
+more readily identified and corrected,” Dunn said.
+
+Brinnae Bent was funded by the Duke FORGE Fellowship, and Jessilyn Dunn is
+supported by the Whitehead Scholar designation.
+
+CITATION: “Investigating Sources of Inaccuracy in Wearable Optical Heart Rate
+Sensors,” Brinnae Brent, Benjamin A. Goldstein, Warren A. Kibbe, Jessilyn
+Dunn. npj Digital Medicine, 2020. DOI 10.1038/s41746-020-0226-6
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

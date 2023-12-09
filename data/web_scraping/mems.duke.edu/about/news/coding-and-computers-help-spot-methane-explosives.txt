@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Coding and Computers Help Spot Methane, Explosives
+
+April 14, 2016 | By Ken Kingery
+
+Coded apertures improve and shrink mass spectrometers for field use
+
+A modern twist on an old technology could soon help detect rogue methane
+leaks, hidden explosives and much more. A Duke University team is using
+software to dramatically improve the performance of chemical-sniffing mass
+spectrometers.
+
+Conventional mass spectrometers separate compounds by giving them an electric
+charge and passing them through electric and/or magnetic fields. The lighter
+the compound, the more it bends in the field. By determining what compounds
+make up a given sample, these instruments can identify almost any substance.
+
+Mass spectrometers were invented in the 1930s, and they’re still typically the
+size of an oven or refrigerator. Inherent hurdles to miniaturization have made
+it difficult to use them outside of a laboratory. But with the help of modern
+data analytics, researchers at Duke have demonstrated a technology using a so-
+called “coded aperture” that promises to shrink these devices while
+maintaining their performance. The advance could lead to portable mass
+spectrometers that could be used to detect environmental or safety hazards in
+the field.
+
+The innovation is featured on the cover of the April issue of the Journal of
+Mass Spectrometry.
+
+“In a typical mass spectrometer, the charged molecules pass through a thin
+slit, which defines your resolution,” said Jeff Glass, professor of electrical
+and computer engineering at Duke and principal investigator for the project.
+“When you try to shrink the instrument, you have to shrink the slit too. That
+means the number of ions (charged molecules) passing through is going to drop
+and you’re going to lose signal intensity. We got around this issue by using a
+several slits, which code the ions.”
+
+Glass likens the new technology to watching a solar eclipse in grade school.
+Students often poke a small hole in a piece of cardboard, which acts like a
+lens to create an image of the eclipse on the ground. And as anyone who has
+ever done this knows, the smaller the hole, the better the detail of the
+eclipse.
+
+But a smaller hole also makes it dimmer and harder to see. This is exactly the
+challenge faced when scaling down a mass spectrometer.
+
+The solution, Glass says, is to make many tiny pinholes to create an array of
+eclipses, and then to use a computer to reconstruct them into a single image.
+This way you get the sharpness of the tiny pinhole with the brightness of a
+large pinhole.
+
+The key is in knowing the pattern -- or code -- of the array of apertures.
+Thus the name of the technology, coded aperture.
+
+“This idea was actually mentioned in a short article from 1970,” said Jason
+Amsden, a research scientist and manager of the project. “But nobody since
+then has had all the parts to put it together.”
+
+The team drew on several different kinds of expertise. “Our group could do the
+fabrication of the microstructures, but we relied on engineering colleagues
+David Brady and Mike Gehm for the coding and computational aspects, and our
+colleagues at RTI International (in the nearby Research Triangle Park) for the
+electronics.”
+
+The researchers have demonstrated that their coded aperture works in a newer,
+more complex type of mass spectrometer created to help make the devices
+smaller, though not nearly as small or precise as coded apertures could make
+them. Previous papers by the Duke researchers have also shown that the
+approach improves the performance of very simple mass spectrometers, like
+those used in the early days of mass spectrometry.
+
+Their work now is focusing on trying coded apertures in different versions of
+mass spectrometers to determine which would be best for creating scaled down,
+mobile devices for field use. They are also working to show these devices can
+detect trace amounts of methane to spot leaks in infrastructure and various
+explosives to thwart terror attempts.
+
+But the technology can also have an immediate impact in research laboratories
+around the world.
+
+“This technique can improve the performance of classic mass spectrometers that
+already have a higher resolution than other types invented for scaling down,”
+said Amsden. “And there are lots of them. Duke alone probably has at least 50
+for medical applications. So we’re hoping this can have a wide impact in the
+near future.”
+
+This work was supported by the Department of Homeland Security Science and
+Technology Directorate and is currently supported by ARPA-E, Department of
+Energy.
+
+###
+
+“Compatibility of Spatially Coded Apertures with a Miniature Mattauch-Herzog
+Mass Spectrograph,” Zachary E. Russell, Shane T. DiDona, Jason J. Amsden,
+Charles B. Parker, Gottfried Kibelka, Michael E. Gehm, Jeffrey T. Glass.
+JASMS, 2016. DOI: 10.1007/s13361-015-1323-7
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

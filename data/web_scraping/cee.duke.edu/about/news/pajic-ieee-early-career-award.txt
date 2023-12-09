@@ -1,0 +1,180 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pajic Wins 2019 IEEE Cyber-Physical Systems Early Career Award
+
+May 22, 2019
+
+Award recognizes a junior researcher who has demonstrated outstanding
+contributions to the field of cyber-physical systems with a focus on the
+significance and impact of their research
+
+Miroslav Pajic, the Nortel Networks Assistant Professor of Electrical and
+Computer Engineering at Duke University, has won the 2019 Institute of
+Electrical and Electronics Engineers (IEEE) Technical Committee on Cyber-
+Physical Systems (TCCPS) Early Career Award. He was awarded for “outstanding
+contributions to design and analysis methodologies for high-assurance cyber-
+physical systems.” This is his second major research award in 2019, after
+winning the Association for Computing Machinery Special Interest Group on
+Embedded Systems (ACM SIGBED) Early Career Researcher Award earlier this year.
+
+IEEE TCCPS aims at promoting interdisciplinary research and education in the
+field of cyber-physical systems (CPS). CPS, which feature tight interaction of
+computing with the physical world, are the next generation of safety-critical
+embedded control systems in domains spanning from autonomous vehicles,
+industrial automation and advanced manufacturing, to medical devices and
+systems, energy-efficient buildings and smart cities.
+
+The IEEE TCCPS Early Career Award recognizes a junior researcher from either
+academia or industry who has demonstrated outstanding contributions to the
+field of CPS in the early stage of his/her career development with a
+particular emphasis on the significance and impacts of the research.
+
+Pajic’s research focuses on high-assurance CPS, creating methods to build such
+systems with strong safety, efficiency and security guarantees. For example,
+one of his projects focuses on providing safety guarantees for autonomous
+vehicles even in the presence of adversarial activities.
+
+His approach takes advantage of a car’s interactions with its physical
+environment to detect attacks and provide resiliency against them. For
+instance, a digital assailant could compromise the GPS to take an autonomous
+vehicle off course. But by using previous sensor measurements combined with
+standard security protocols, Pajic and his team have shown that the car can
+recognize the false data and act accordingly.
+
+Pajic’s work in this arena, which has been supported by the National Science
+Foundation (NSF), Office of Naval Research (ONR), Air Force Office of
+Scientific Research (AFOSR) and Intel, has recently earned him several honors,
+including the NSF CAREER Award and ONR Young Investigator Award, as well as
+best paper awards in top CPS research venues. He is also leading the technical
+efforts to design attack-resilient autonomous systems, as part of the new $6
+million AFOSR Center of Excellence (CoE) for Assured Autonomy in Contested
+Environments.
+
+## Related News
+
+March 25, 2019
+
+### Pajic Receives ACM SIGBED Early Career Researcher Award
+
+March 22, 2017
+
+### Pajic Wins National Science Foundation CAREER Award
+
+March 08, 2017
+
+### Mikkelsen, Pajic Receive Naval Young Investigator Program Awards
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

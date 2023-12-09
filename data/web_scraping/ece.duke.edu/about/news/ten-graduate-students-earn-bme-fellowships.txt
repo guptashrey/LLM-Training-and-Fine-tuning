@@ -1,0 +1,313 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Ten Graduate Students Earn BME Fellowships
+
+September 7, 2018
+
+A new series of competitive graduate fellowships support research from BME PhD
+students
+
+In a new effort to support the innovative research of PhD students, Duke
+University’s Department of Biomedical Engineering recently announced the
+recipients of 10 fellowships available through the BME Second-Year Doctoral
+Fellowship Program.
+
+Of the 10 fellowships awarded through the department, seven were named in
+honor the BME Emeritus faculty who were instrumental in crafting the vision
+and charting the growth of Duke BME. The remaining fellowships included two
+BME Second-Year Doctoral Fellowships and the William “Monty” Reichert
+Fellowship, created to celebrate Reichert and his numerous contributions to
+the department.
+
+“We want to support our graduate students as they pursue challenging research
+and advance biomedical engineering at Duke,” says Joel Collier, the director
+of graduate studies in Duke BME. “This year we had an especially impressive
+list of applicants.”
+
+Intended for PhD students in the second year of their doctoral programs ,
+these fellowships will support one year of research during their time in Duke
+BME. To apply for the competitive funding opportunity, candidates had to
+submit a one-page research description and a letter of recommendation from
+their advisor, as well as show a strong academic record.
+
+“The BME PhD students are the engine of our research enterprise,” says
+Ashutosh Chilkoti, the chair of Duke BME. “I’m pleased that the department can
+support their research through the BME Second-Year Doctoral Fellowship
+Program.”
+
+Congratulations to this year’s recipients.
+
+### Derek Chan – The Theo Pilkington Fellowship
+
+Undergraduate Institution: Duke University  
+Advisor: Kathy Nightingale
+
+Research: Prostate cancer is the most common cancer among men in the United
+States, and early diagnosis is critical for effective management and
+treatment. However, standard systematic prostate biopsies are not targeted to
+suspicious regions, leading to a high rate of missed cancer. I am interested
+in developing ultrasound elasticity imaging techniques to identify and target
+prostate lesions with high precision. The stiffness of the entire prostate
+gland can be visualized using this method, with cancerous lesions appearing
+particularly stiff compared to healthy tissue. Ultimately, the development of
+an elasticity-based targeted biopsy system will result in an accurate, low-
+cost procedure for diagnostic confirmation of prostate cancer.
+
+### Yuqi Tang - The BME Department Second Year Fellowship
+
+Undergraduate Institution: Rice University  
+Advisor: Junjie Yao
+
+Research: Photoacoustic (PA) imaging uses optical absorption as the contrast
+mechanism and thus visualizes the optical properties of tissue. By
+complementing PA with ultrasound (US) imaging, which derives contrast from
+echogenicity and differing mechanical properties of tissue, the dual-modality
+imaging system can provide general structural and functional information at
+the same time. One of my research interest is to develop a PAUS microscopy
+that can monitor the functional disruption and remodeling of the brain’s small
+vessels during and after stroke. The system will be able to map the small
+blood vessel functions with rich spatial-temporal details and functional
+capability, and quantify various morphological and hemodynamic parameters
+(e.g. microvascular density, blood flow, blood oxygenation, etc.)
+
+### Simbarashe Chidyagwai - The Morton H. Friedman Fellowship
+
+Undergraduate Institution: Michigan State University  
+Advisor: Amanda Randles
+
+Research: My research focuses on quantifying and identifying the key
+hemodynamic parameters affected by congenital coronary artery anomalies. I
+intend to achieve this by accurately simulating blood flow in patients with
+congenital coronary artery anomalies using a massively parallel hemodynamics
+package developed in the Randles Lab. This allows me to gain insight into the
+mechanisms by which congenital coronary artery anomalies lead to increased
+risk of sudden cardiac death, and potentially provide physicians critical
+predictive power to identify at-risk patients.
+
+### Ishaan Puranam­­ - The James H. McElhaney Fellowship
+
+Undergraduate Institution: Boston University  
+Advisor: Brenton Hoffman
+
+Research: Atherosclerosis is a cardiovascular disease state in which
+pathological vascular wall thickening occurs preferentially in areas
+exhibiting perturbed hemodynamics. However, the majority of mechanistic
+research regarding this disease has focused on its genetic and biochemical
+origins. This is largely due to the lack of tools that can probe mechanical
+variables of the molecular length scales required for biochemical and cell
+signaling-based studies. My project seeks to identify key components in the
+pathological signaling pathway induced by alterations in the mechanical
+microenvironment observed during atherosclerotic development.
+
+### Teng Wang – The BME Department Second Year Fellowship
+
+Undergraduate Institution: Peking University, Beijing, China Advisor:
+Lingchong You
+
+Research: The world-wide emergence of resistant bacteria is endangering the
+efficacy of antibiotics, and is predicted to cause devastating cost on human
+society. Plasmid-mediated horizontal gene transfer (HGT) is one of the major
+mechanisms that bacteria acquire the resistance through. Understanding plasmid
+dynamics is therefore crucial to help prevent the menace of a post-antibiotic
+era. My research plan focuses on three topics: (1) building a general
+mathematical framework to predict the maintenance and abundance of plasmids in
+complex microbial communities, (2) establishing a high-throughput method of
+measuring bacterial conjugation efficiency to screen for conjugation
+inhibitors in compound libraries, (3) elucidating how HGT assists the
+functional stability of microbial communities against environmental
+fluctuations.
+
+### James Long - The Stephen Smith Fellowship
+
+Undergraduate Institution: Rice University  
+Advisor: Gregg Trahey
+
+Research: Ultrasound is a low-cost, non-ionizing diagnostic tool that is used
+ubiquitously for a wide variety of applications. However, image quality is
+often negatively affected by anatomical structures, such as the abdominal
+wall, that distort the propagating acoustic wave necessary to form an image.
+My research focuses on elucidating the underlying mechanics behind image
+quality degradation and using the knowledge to adaptively select ultrasound
+scanner settings in order to optimize lesion conspicuity for the purposes of
+hepatocellular carcinoma screening. This implications of this work are
+improved lesion detection rates in difficult-to-image patients and improved
+detectability of smaller and/or multiple lesions in all patients.
+
+### Jacob Heggestad - The Howard G. Clark III Fellowship
+
+Undergraduate Institution: Northwesten University  
+Advisor: Ashutosh Chilkoti
+
+Research: The emergence of antibiotic resistant bacteria is a major public
+health concern. My proposed research project intends to develop a point-of-
+care immunodiagnostic platform to detect markers of resistance, thereby better
+informing clinical decisions and promoting antibiotic stewardship. The
+platform utilizes a completely self-contained sandwich immunoassay on a non-
+fouling protein-brush coating, thus enabling ultrasensitive detection of
+protein analytes from complex biological matrices.
+
+### Ge Song - The John Strohbehn Fellowship
+
+Undergraduate Institution: University of Rochester  
+Advisor: Adam Wax
+
+Research: Optical coherence tomography (OCT) is currently recognized as the
+gold standard for identifying retinal structural abnormalities in
+ophthalmology. However, its availability is limited to large eye centers and
+research labs due to its high cost and lack of portability. I am working on a
+low-cost, portable OCT system that includes a fundus camera for image
+registration. It is a completely standalone system with a total cost under
+$6,000. Clinical validation and non-inferiority trials will be conducted
+through human retinal imaging to demonstrate the imaging capabilities of the
+low-cost OCT.
+
+### Katrina Wilson - The William M. “Monty” Reichert Fellowship
+
+Undergraduate Institution: University of Redlands, California  
+Advisor: Tatiana Segura
+
+Research: A lot of stroke-related research focuses around delivering stem
+cells, growth factors, and/or biomaterials to help regrow lost tissues and
+mitigate issues of stroke, such as formation of a scar, inflammation, and a
+lack of blood vessels. Both natural and synthetic polymers can be modified
+with different chemical handles for adding peptides, growth factors, and
+various chemicals to aid in recovery. I specifically focus on engineering
+hyaluronic acid-based hydrogels for brain repair because it is a natural
+polymer that comprises parts of the extracellular matrix of the brain. This
+makes it highly biocompatible and low in immunogenicity. Additionally, it has
+been show to contribute to cellular proliferation, migration, and
+stabilization of proteins from proteolysis. My hope is to engineer a
+hyaluronic-based hydrogel in a way so that it will promote vascular formation,
+new neurons, and the recruitment of endogenous neural progenitor cells as a
+means to regrow tissue and restore function.
+
+### William Huffman – The Robert Plonsey Fellowship
+
+Undergraduate Institution: University of Tennessee  
+Advisor: Warren Grill
+
+The nervous system plays an integral role in regulating immunity and fine-
+tuning responses to inflammatory challenges. Immune function is modulated via
+signaling in the vagus nerve, and vagal signaling is crucial to immune-
+regulatory and pro-resolving effects. Vagus nerve stimulation (VNS) may be
+used to treat immune dysfunction. In order to develop better therapies, we
+must first better understand the effects of VNS and develop new technologies
+to non-invasively modulate vagal activity. My objective is to combine pre-
+clinical _in vivo_ experiments with computational modeling to advance VNS by
+developing less-invasive methods of stimulation and novel approaches to
+decrease side-effects.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

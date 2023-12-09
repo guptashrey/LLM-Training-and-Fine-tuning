@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Students, Doctors Develop Next-Generation Surgical Implants
+
+May 2, 2017 | By Ken Kingery
+
+Undergraduates rapidly prototype biomedical devices on Duke’s 3D metal printer
+
+Two groups of undergraduate students at Duke University have been creating
+biomedical devices for their senior design projects with a campus rarity—a
+titanium 3D metal printer.
+
+Over the past few years, 3D printers that make plastic objects have become
+somewhat commonplace—Duke’s Innovation Co-Lab has more than 60 of them for use
+by faculty, staff and students. Metal 3D printers, however, are an entirely
+different beast, requiring much more infrastructure and a steeper learning
+curve.
+
+But as the Duke students working out the kinks in the system this past year
+will tell you, it’s been well worth the investment.
+
+“The metal 3D printer allows us to make designs that could never be fabricated
+by traditional manufacturing processes,” said Sam Morton, a senior studying
+mechanical engineering. “It allows us to make actual biomedical devices out of
+titanium that we can then test and get feedback on from the surgeons we’re
+working with.”
+
+“The turnaround is so quick,” echoed Dr. Robert Isaacs, associate professor of
+neurosurgery at the Duke University School of Medicine, who is working with
+Morton on his project. “You come up with a plan or notice a problem in a
+prototype, and then almost in no time, Sam comes back and delivers exactly
+what you just said. You think it, and then you’re holding it. It’s
+incredible.”
+
+The two groups of seniors are pursuing separate biomedical devices—an
+intricate titanium spacer for spinal fusion surgeries and titanium scaffolds
+for large bone defects. Both share common requirements and challenges.
+
+Spinal fusions are common procedures meant to alleviate back pain caused by
+two vertebrae rubbing together as a disc of cartilage fails. Surgeons insert
+the device resembling a small, hollow Lego between the two vertebrae,
+promoting the growth of bone around the device to fuse the two bones and stop
+future movement.
+
+Similarly, titanium scaffolds provide strength and support to surgically
+removed portions of other bones while encouraging regrowth.
+
+Current devices for both procedures however, have several drawbacks. Metal-
+based devices are often too hard and opaque to the imaging technologies
+doctors use to see how well the bone is growing. Plastic devices are not as
+strong and do not facilitate as much bone growth.
+
+The two senior design projects sought to create 3D printed devices that would
+have the best of both worlds. Complex, sponge-like details encourage bone
+growth in and around the implant while minimizing the amount of metal used and
+allowing doctors to image the results afterward.
+
+“The titanium 3D printer is a really great opportunity because it lets you
+create structures that you couldn’t make using normal manufacturing
+techniques,” said Samantha Sheppard, also a senior in mechanical engineering.
+“We’re able to create porous structures that are better for bone ingrowth and
+that really could only be made with this printer.”
+
+“The doctors know a lot about what type of devices they want but traditionally
+haven’t been able to get them manufactured,” said Morton. “With the 3D metal
+printer, I’m able to come in and, without any limitations really, create a
+geometry that satisfies their needs.”
+
+In many ways, the 3D metal printer works much like a traditional plastic 3D
+printer—by building a piece from the ground up, layer-by-layer. A robotic arm
+much like a windshield wiper first sweeps a thin layer of titanium dust across
+a metal plate. A high-power laser then melts the dust in the specific pattern
+of the bottom layer. The entire plate then drops 30 microns, and the process
+repeats until the part is finished.
+
+A single part just a few centimeters tall takes the machine between three and
+five hours to finish. For an entire plate filled with a dozen or more complex
+parts, a run can take upwards of 20 hours. Either way, the printer allows for
+rapid prototyping using a metal that is notoriously difficult to machine.
+
+“For titanium, which is a very hard metal to manufacture with other methods,
+the printer allows you to make intricate parts with internal complexities
+relatively fast and in a multiplicative way,” said Ken Gall, professor and
+chair of mechanical engineering and materials science, who led the effort to
+acquire the printer. “Rather than sending out one design with a complex shape
+for somebody else to make and waiting for it, you can put in 10 designs and
+manufacture them all at the same time.”
+
+While the biomedical devices the students are designing are not yet approved
+for human use, the 3D metal printer allows the students to make pieces that
+are of the same quality as those that could be eventually used.
+
+“For the students to actually be able to make real parts that match what the
+doctors want designed and then to actually test those parts is something that
+you would rarely see at a university,” said Gall, who is associate director of
+Duke MEDx, a new initiative to strengthen ties between clinicians and
+engineers. “I wanted to change what Duke was capable of doing and part of that
+involved bringing a 3D metal printer to campus. It’s going to open a lot of
+windows for different types of projects at all levels, from freshmen to
+faculty.”
+
+“It’s a unique situation here at Duke, because of the proximity and
+relationship between the medical center and the mechanical engineering and
+materials science department,” said Morton. “Traditionally it would be
+extremely hard for someone like me to not only have access to a printer like
+this, but to create finalized products, take them over to a medical center,
+meet with surgeons and then perform CT and tomography scans on my device all
+within the same day. That’s extremely rare and not necessarily happening at
+many other institutions.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

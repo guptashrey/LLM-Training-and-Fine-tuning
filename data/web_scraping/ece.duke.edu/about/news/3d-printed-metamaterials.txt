@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# 3-D Printers Open New Design Space for Wireless Devices
+
+May 4, 2017 | By Ken Kingery
+
+Conductive filaments and 3-D printers allow quick construction of
+electromagnetic metamaterials
+
+Researchers at Duke University have 3-D printed potent electromagnetic
+metamaterials, using an electrically conductive material compatible with a
+standard 3-D printer.
+
+The demonstration could revolutionize the rapid design and prototyping of
+radio frequency applications such as Bluetooth, Wi-Fi, wireless sensing and
+communications devices.
+
+Metamaterials are synthetic materials composed of many individual, engineered
+devices called cells that together produce properties not found in nature. As
+an electromagnetic wave moves through the metamaterial, each engineered cell
+manipulates the wave in a specific way to dictate how the wave behaves as a
+whole.
+
+Metamaterials can be tailored to have unnatural properties such as bending
+light backwards, focusing electromagnetic waves onto multiple areas and
+perfectly absorbing specific wavelengths of light. But previous efforts have
+been constrained to 2-D circuit boards, limiting their effectiveness and
+abilities and making their fabrication difficult.
+
+In a new paper appearing online in the journal Applied Physics Letters, Duke
+materials scientists and chemists have shown a way to bring electromagnetic
+metamaterials into the third dimension using common 3-D printers.
+
+“There are a lot of complicated 3-D metamaterial structures that people have
+imagined, designed and made in small numbers to prove they could work,” said
+Steve Cummer, professor of electrical and computer engineering at Duke. “The
+challenge in transitioning to these more complicated designs has been the
+manufacturing process. With the ability to do this on a common 3-D printer,
+anyone can build and test a potential prototype in a matter of hours with
+relatively little cost.”
+
+The key to making 3-D printed electromagnetic metamaterials a reality was
+finding the right conductive material to run through a commercial 3-D printer.
+Such printers usually use plastics, which are typically terrible at conducting
+electricity.
+
+While there are a few commercially available solutions that mix metals in with
+the plastics, none are conductive enough to create viable electromagnetic
+metamaterials. While metal 3-D printers do exist, they cost as much as $1
+million and take up an entire room.
+
+That’s where Benjamin Wiley, Duke associate professor of chemistry, came in.
+
+“Our group is really good at making conductive materials,” said Wiley, who has
+been exploring these materials for nearly a decade. “We saw this gap and
+realized there was a huge unexplored space to be filled and thought we had the
+experience and knowledge to give it a shot.”
+
+Wiley and Shengrong Ye, a postdoctoral researcher in his group, created a 3-D
+printable material that is 100 times more conductive than anything currently
+on the market. The material is currently being sold under the brand name
+Electrifi by Multi3D LLC, a startup founded by Wiley and Ye. While still not
+nearly as conductive as regular copper, Cummer thought that it might just be
+conductive enough to create a 3-D printed electromagnetic metamaterial.
+
+In the paper, Cummer and doctoral student Abel Yangbo Xie show that not only
+is Electrifi conductive enough, it interacts with radio waves almost as
+strongly as traditional metamaterials made with pure copper. That small
+difference is easily made up for by the printed metamaterials’ 3-D geometry --
+the results show that the 3-D printed metamaterial cubes interact with
+electromagnetic waves 14 times better than their 2-D counterparts.
+
+By printing numerous cubes, each tailored to specifically interact with an
+electromagnetic wave in a certain way, and combining them like Lego building
+blocks, researchers can begin to build new devices. For the devices to work,
+however, the electromagnetic waves must be roughly the same size as the
+individual blocks. While this rules out the visible spectrum, infrared and
+X-rays, it leaves open a wide design space in radio waves and microwaves.
+
+“We’re now starting to get more aggressive with our metamaterial designs to
+see how much complexity we can build and how much that might improve
+performance,” said Cummer. “Many previous designs were complicated to make in
+large samples. You could do it for a scientific paper once just to show it
+worked, but you’d never want to do it again. This makes it a lot easier.
+Everything is on the table now.”
+
+“We think this could change how the radio frequency industry prototypes new
+devices in the same way that 3-D printers changed plastic-based designs,” said
+Wiley. “When you can hand off your designs to other people or exactly copy
+what somebody else has done in a matter of hours, that really speeds up the
+design process.”
+
+This work was supported by a Multidisciplinary University Research Initiative
+grant from the Office of Naval Research (N00014-13-1-0631).
+
+Microwave Metamaterials Made by Fused Deposition 3D Printing of a Highly
+Conductive Copper-based Filament. Yangbo Xie, Shengrong Ye, Christopher Reyes,
+Pariya Sithikong, Bogdan Popa, Benjamin J. Wiley, and Steven A. Cummer.
+Applied Physics Letters, 2017. DOI: 10.1063/1.4982718
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

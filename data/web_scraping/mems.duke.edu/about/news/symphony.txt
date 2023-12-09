@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gold Nanostars and Immunotherapy Vaccinate Mice Against Cancer
+
+August 17, 2017 | By Ken Kingery
+
+New treatment cures, vaccinates mouse in small proof-of-concept study
+
+By combining an FDA-approved cancer immunotherapy with an emerging tumor-
+roasting nanotechnology, Duke University researchers improved the efficacy of
+both therapies in a proof-of-concept study using mice.
+
+The potent combination also attacked satellite tumors and distant cancerous
+cells, completely curing two mice and effectively vaccinating one against the
+disease. The results appeared online in Scientific Reports on August 17.
+
+"The ideal cancer treatment is non-invasive, safe and uses multiple
+approaches," said Tuan Vo-Dinh, the R. Eugene and Susie E. Goodson Professor
+of Biomedical Engineering, professor of chemistry, and director of the
+Fitzpatrick Institute for Photonics at Duke University. "We also aim at
+activating the patient's own immune system to eradicate residual metastatic
+tumors. If we can create a long-term anticancer immunity, then we'd truly have
+a cure."
+
+The new approach relies on a "photothermal immunotherapy" technology developed
+by an interdisciplinary group of Duke researchers that uses lasers and gold
+nanostars to heat up and destroy tumors in combination with an
+immunotherapeutic drug.
+
+This photothermal therapy hinges on the widely demonstrated fact that
+nanoparticles accumulate preferentially within a tumor due to its leaky
+vasculature.
+
+While several researchers around the world are pursuing such techniques using
+nanoparticles, Vo-Dinh has pioneered the development of a unique type of
+nanoparticles called gold nanostars, which have the advantage of geometry.
+Because gold nanostars have multiple sharp spikes, they are able to capture
+the laser's energy more efficiently. This allows them work with less exposure,
+making them more effective deeper within a tissue.
+
+"The nanostar spikes work like lightning rods, concentrating the
+electromagnetic energy at their tips," said Vo-Dinh. "We've experimented with
+these gold nanostars to treat tumors before, but we wanted to know if we could
+also treat tumors we didn't even know were there or distant and undetectable
+tumors that have spread throughout the body."
+
+To attack distant cancerous cells outside of the treatment site, Vo-Dinh
+teamed up with colleagues Brant Inman and Greg Palmer in the Departments of
+Surgery and Radiation Oncology at Duke University Medical Center, and Paolo
+Maccarini of Duke Biomedical Engineering. They combined this gold nanostar
+therapy with a cancer immunotherapy recently cleared by the FDA and in
+clinical use.
+
+Normally, the body's immune system protects against the growth of cancerous
+cells. Many tumors, however, overproduce a molecule called PD-L1, which
+effectively disables T cells, the immune system's main soldiers.
+
+Several pharmaceuticals are being developed to attempt to block the action of
+PD-L1, allowing the immune system to destroy the cancerous cells. Inman has
+been active in the early development and current clinical use of these
+drugs—which were used in this study—to treat bladder cancer.
+
+In the experiment, the Duke researchers injected bladder cancer cells into
+both hind legs of a group of mice. After waiting for the tumors to grow, the
+researchers began trying different types of treatments—but only on one of the
+legs.
+
+Those that received no treatments all quickly succumbed to the cancer, as did
+those receiving only the gold nanostar photothermal therapy, because the
+treatment did nothing to affect the tumor in the untreated leg. While a few
+mice responded well to the immunotherapy alone, with the drug stalling both
+tumors, none survived more than 49 days.
+
+The group treated with both the immunotherapy and the gold nanostar
+photothermal therapy fared much better, with two being completely cured.
+
+"When a tumor dies, it releases particles that trigger the immune system to
+attack the remnants," said Vo-Dinh. "By destroying the primary tumor, we
+activated the immune system against the remaining cancerous cells, and the
+immunotherapy prevented them from hiding."
+
+The combined treatment worked so well that, in a bit of a surprise, one mouse
+is still alive nearly a year out with zero recurrence of the cancer. Even a
+month later, when the researchers injected more cancerous cells, the mouse's
+immune system attacked and destroyed them without a problem indicating a
+vaccine effect in the cured mouse.
+
+"This is our goal—our dream," said Vo-Dinh.
+
+While researchers conducted this proof-of-concept experiment with a small
+number of mice, the results are encouraging. The Duke researchers now plan to
+follow up with larger cohorts and to work with other clinical researchers to
+test the treatment on mouse models of brain, breast and lung cancer.
+
+"Synergistic Immuno Photothermal Nanotherapy (SYMPHONY) for the Treatment of
+Unresectable and Metastatic Cancers." Yang Liu, Paolo Maccarini, Gregory M.
+Palmer, Wiguins Etienne, Yulin Zhao, Chen-Ting Lee, Xiumei Ma, Brant A. Inman
+& Tuan Vo-Dinh. Scientific Reports, 2017. DOI: 10.1038/s41598-017-09116-1
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,267 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Joel Alter Greenberg
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Research Professor in the Department of Electrical and Computer
+Engineering
+
+Dr. Greenberg's research is in the area of computational imaging with a focus
+on physics-based modeling and system-level design from fundamental science
+through algorithm implementation. His work spans the electromagnetic spectrum,
+with a focus on X-ray and visible imaging and detection systems for security
+and medical applications.
+
+## Appointments and Affiliations
+
+  * Associate Research Professor in the Department of Electrical and Computer
+    Engineering
+
+## Contact Information
+
+  * **Office Location:** Box 90291, Dept of Ece, Durham, NC 27708
+  * **Office Phone:** (919) 660-0183
+  * **Email Address:** joel.greenberg@duke.edu
+  * **Websites:**
+    * Greenberg Research Website
+
+## Education
+
+  * Ph.D. Duke University, 2012
+
+## Research Interests
+
+Computational sensing with a focus on novel, physics-based measurement
+techniques for practical applications. Primarily focused in the
+electromagnetic/optical spectrum ranging from ELF through visible and hard
+X-rays, with applications to security, non-destructive testing, and medical
+imaging. Investigations range from basic science (e.g. fundamental studies in
+material science, optics, and information science) to applied and transitional
+work (e.g. design and implementation of architectures at the system level
+targeted at particular, real-world problems)
+
+## In the News
+
+  * X-ray Scanner Spots Cancers and Analyzes Drugs in Minutes (Jun 9, 2021 |
+    Pratt School of Engineering)
+  * A Speedier and More Accurate Future for Airport Security Screening (Feb
+    24, 2020 | Pratt School of Engineering)
+  * Duke researchers developing the next generation of airport scanners (Dec
+    13, 2018 | Triangle Business Journal)
+  * Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening (Dec
+    10, 2018 | Pratt School of Engineering)
+  * Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening (Dec
+    7, 2018)
+  * Decoding Multiple Frames from a Single, Scattered Exposure (Sep 27, 2018)
+
+## Representative Publications
+
+  * Gude, Z., A. J. Kapadia, and J. A. Greenberg. “3D x-ray diffraction
+    imaging of optically thin samples.” In Proceedings of Spie the
+    International Society for Optical Engineering, Vol. 12104, 2022.
+    https://doi.org/10.1117/12.2618938.
+  * Ruiz, S. D., Z. W. Gude, A. X. Hurlock, K. Ferguson, C. Miller, J. H.
+    Carpenter, J. A. Greenberg, and M. E. Gehm. “Characterization of photon
+    counting detectors for x-ray diffraction (XRD) applications.” In
+    Proceedings of Spie the International Society for Optical Engineering,
+    Vol. 12104, 2022. https://doi.org/10.1117/12.2618954.
+  * Hurlock, A. X., S. D. Ruiz, J. H. Carpenter, J. A. Greenberg, and M. E.
+    Gehm. “Spectrally responsive edge-illumination (SREI) x-ray phase contrast
+    imaging (XPCI).” In Proceedings of Spie the International Society for
+    Optical Engineering, Vol. 12104, 2022. https://doi.org/10.1117/12.2618827.
+  * Stryker, Stefan, Anuj J. Kapadia, and Joel A. Greenberg. “Application of
+    machine learning classifiers to X-ray diffraction imaging with medically
+    relevant phantoms.” Medical Physics 49, no. 1 (January 2022): 532–46.
+    https://doi.org/10.1002/mp.15366.
+  * Stryker, Stefan, Joel A. Greenberg, Shannon J. McCall, and Anuj J.
+    Kapadia. “X-ray fan beam coded aperture transmission and diffraction
+    imaging for fast material analysis.” Sci Rep 11, no. 1 (May 19, 2021):
+    10585. https://doi.org/10.1038/s41598-021-90163-0.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

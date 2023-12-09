@@ -1,0 +1,166 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# AI Health Spark Seminar Series: Neuroimage Analysis in Autism: from Model-
+Based Estimation to Data-driven Learning
+
+Mar 7
+
+_This event has passed._
+
+##
+
+Tuesday, March 7, 2023 - 12:00pm to 1:00pm
+
+## Presenter
+
+James S. Duncan, Ph.D., Ebenezer K. Hunt Professor and Department Chair of
+Biomedical Engineering, Professor of Radiology & Biomedical Imaging, Professor
+of Electrical Engineering, Professor of Statistics & Data Science; Yale
+University, New Haven, CT with host Maciej Mazurowski, PhD; Associate
+Professor in Radiology, Duke University
+
+Functional magnetic resonance imaging (fMRI) has been shown to be helpful for
+the study of autism spectrum disorders (ASD). This talk will describe the
+evolution of efforts in this area within our group that carry promise for
+producing objective biomarkers for ASD, as well as predicting patient response
+to a behavioral therapy known as Pivotal Response Treatment (PRT), using task-
+based fMRI. Such biomarkers would provide an important step for better
+understanding the underlying pathophysiology of ASD that could help with
+objective and personalized diagnosis, provide new targets for development of
+new treatments, and provide a way to monitor patient progress. Initially a
+robust, group-wise unified Bayesian framework to detect both hyper and hypo-
+active communities from connectivity maps will be described. Next, more recent
+work will be presented that has focused on deriving ASD biomarkers from
+individual subject's time-series data, based on the classification of
+individual subjects (into ASD or typical control) and identifying spatially-
+specific key regions using convolutional neural networks and ablation analysis
+of regions. In addition, a strategy based on recurrent neural networks (using
+long-short-term memories or LSTMs) will be presented that predicts patient
+response to PRT behavioral therapy from baseline imaging while incorporating
+subject-specific phenotypic information for network initialization. Finally,
+early work on the use of effective connectivity based on whole brain dynamic
+causal modeling will be discussed as an alternative or an adjunct to
+functional connectivity for classification and biomarker analysis. This
+session is a part of the monthly seminar series organized by Spark: AI Health
+Initiative for Medical Imaging. The seminar will highlight outstanding work in
+medical imaging at Duke and beyond. The seminar recordings will be publicly
+available. The Spark initiative focuses on development, validation, and
+clinical implementation of artificial intelligence algorithms for broadly
+understood medical imaging by bringing together the technical and clinical
+expertise across Duke campus. For more information please contact Dr. Maciej
+Mazurowski (maciej.mazurowski@duke.edu).
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

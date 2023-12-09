@@ -1,0 +1,421 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# New Startup Support Structures Yield Many Success Stories
+
+October 8, 2021 | Ken Kingery
+
+Three recent Duke ECE startup companies highlight the many ways Duke
+Engineering is making entrepreneurship easier than ever before
+
+As soon as the prototype was up and running, it was immediately obvious to Dan
+Sorin and George Konidaris that the robotic motion planning technology he had
+created with two of his students was commercially important. What had taken
+state-of-the-art computer processors and software seconds to calculate could
+now be achieved in under a millisecond. In just a couple of years, the small
+research group had made an improvement of three-to-four orders of magnitude.
+
+The potential applications were enormous. Factories could greatly improve the
+performance of their robotic assembly line while simultaneously increasing
+safety. Driverless cars could choose their next course of action in a fraction
+of the time. Futuristic robots that move about through society like people
+could be one step closer to reality. And Sorin and his team were the only ones
+who knew how to do it.
+
+Dan Sorin“The first presentation to the world of our technology was at the
+2016 Robotics and Science Systems conference, which is the most important one
+in the field,” said Sorin, a professor of electrical and computer engineering
+(ECE) and computer science at Duke. “We made a big splash. It was a multi-
+decade problem and we solved it.”
+
+After working with Duke’s Office for Translation and Commercialization (OTC)
+on all of the basic steps required to spin off a company—invention
+disclosures, patent applications, licensing agreements, etc—Realtime Robotics
+became a newly incorporated company that same year. But the path from
+incorporation to commercial success was still murky to the first-time
+entrepreneurs who had never before walked it.
+
+Bill WalkerThey needed a path-walker. Bill Walker, to be precise.
+
+In mid-2016, Walker was named the Duke Engineering Mattson Family Director of
+Entrepreneurial Ventures, tasked with helping students, staff and faculty
+navigate the treacherous path of a successful startup. Shortly after Realtime
+Robotics incorporated, Walker was visiting department meetings and faculty
+gatherings to introduce himself and explain what he had to offer.
+
+“I pounced. I didn’t let him leave the room,” said Sorin, one of the founders
+of Realtime Robotics together with George Konidaris, now the John E. Savage
+Assistant Professor of Computer Science at Brown University. “Bill was a truly
+valuable resource to us—just a treasure trove of knowledge and insight. But
+his most valuable asset might have been his ability not to answer with
+giggling when asked truly naive questions.”
+
+“In the first stage of my career I was a professor, and then I transitioned to
+become a full-time entrepreneur,” said Walker. “These experiences have taught
+me how to ‘speak’ academic and business and bridge the difficult gap of
+understanding between these two worlds. I have loved the past five years,
+where I’ve helped Duke innovators create new ventures to make the world a
+better place.”
+
+Fast-forward five years and many averted giggle sessions, and Realtime
+Robotics is a 60-person company centered in Boston, Massachusetts with smaller
+teams in Germany, Japan and China.
+
+### Having recently completed a successful $31.4 million round of Series A
+funding, the company is already pulling in millions of dollars in revenue by
+selling robotic motion planning processors to early customers in heavy
+manufacturing, logistics and automaking.
+
+In that timespan, Duke’s resources for entrepreneurial students, staff and
+faculty have grown tremendously. Duke OTC, while continuing to provide all
+intellectual property services including protection strategies, market and
+technology assessment, direct technology marketing, licensing, and mentoring
+and connection to potential investors through the Duke New Venture program,
+has been expanded to include the Duke Angel Network and new translational
+funds including the formerly named Duke Incubation Fund and the recently
+announced Gilhuly Translation Fund. Duke Engineering Entrepreneurship
+group—EngEn for short—integrates design experiences, entrepreneurial
+education, startup resources and a leadership team of successful entrepreneurs
+(including Bill Walker) to deliver technological solutions to societal needs
+in health, defense, climate change and beyond.
+
+With so much support and so many routes to creating a startup at Duke, it’s no
+wonder that Duke ECE has become the home of multiple new startups.
+
+Duke EngEn has made its home in the new Wilkinson Building, with a centrally
+located Sondland/Durant Center for Entrepreneurship serving students and
+faculty across campus.
+
+## Taking Advantage of New Resources
+
+Leslie CollinsWhile Realtime Robotics didn’t necessarily need seed funding
+from Duke-affiliated sources to get their idea off the ground, many future
+successful businesses do.
+
+In 2017, Duke’s Office of Information Technology (OIT) approached Leslie
+Collins, professor of ECE, and Jordan Malof, assistant research professor of
+ECE, for help with their security cameras. One of the biggest time sinks
+facing the group was having to manually inspect all of Duke’s security cameras
+on a regular basis to make sure they weren’t being blocked by a plant or
+smudged by pollen or an enterprising spider.
+
+Drawing from a long history of using machine learning techniques to analyze
+photos and videos, Collins and Malof worked to develop a software package that
+could monitor the performance of security cameras autonomously. The technology
+learns the correct view each security camera is supposed to provide, and then
+alerts users whenever that view is compromised by issues such as blurring,
+tilting, tampering or glares.
+
+After successfully launching the software on Duke’s campus, the researchers
+quickly discovered that the City of Durham and the University of
+Pennsylvania—where some of their colleagues worked—were interested in using it
+as well. They clearly had a potential company on their hands. They just needed
+to launch it.
+
+“One of the biggest resources we used was the Duke Incubation Fund,” said
+Malof. “When you’re just starting out, most people generally don’t have
+$20,000 of their own money to kick off a business venture. Without the
+Incubation Fund, I’m not sure if we would have continued with the project.”
+
+> "Without the Incubation Fund, I’m not sure if we would have continued with
+> the project.”
+>
+> Jordan Malof
+
+Jordan MalofBut continue they did. With seed money in hand, the team set to
+work using many of Duke’s other entrepreneurial resources to get Security
+Camera Maintenance Company, or “SCMC," off the ground. Once again, Duke OTC
+was instrumental in filing patent applications and completing a licensing
+agreement. They also had recently launched their Mentor-in-Residence program.
+
+  
+Mentors-in-Residence (MIRs) are entrepreneurs who have successfully raised
+capital for, built, sold or invested in start-up companies. Working with Duke
+OTC, these forward thinkers share their insights, experiences and numerous
+connections with startup projects. Each MIR handles a portfolio of projects
+related to their particular field of expertise and provides astute and
+personalized guidance to help create great new ventures.
+
+SCMC worked with MIR Kurt Schmidt, a member of the Duke Angel Network who has
+served as a board member, chairman and advisor to technology innovators from
+San Francisco to Sydney to Shanghai. He met with the team on a weekly basis,
+helping them through issues that require more of a close engagement with the
+company, such as working through the script when cold-calling potential
+customers.  
+  
+And similarly to Realtime Robotics, Bill Walker was also a big help to the
+fledgling company.  
+  
+“If you’ve never gone through the process before, you don’t know whether
+you’re doing things right. There’s no guidebook,” said Malof. “Having access
+to these seasoned veterans was priceless. They can often tell you when you’re
+on the right track (or not!); or simply to confirm that yes, it is supposed to
+be this hard.”
+
+## Duke ECE Entrepreneurship at a Glance
+
+### Patents held by Duke ECE faculty
+
+From metamaterials to medical diagnostic devices, Duke electrical and computer
+engineers operate at the frontiers of discovery
+
+### SPACs valued at >$1 billion
+
+Evolv Technology and IonQ merged into special-purpose acquisition companies,
+or SPACs, worth $1.7b and $2b, respectively
+
+### Startups launched from Duke ECE labs
+
+With all the resources and networks available to the Duke ECE community, it's
+small wonder that spinoffs continue to grow in number
+
+## Multiple Routes to Success
+
+While the $20,000 provided through the Duke Incubation Fund was exactly what
+SMSC needed to get started, it didn’t quite fit the bill for Aaron Franklin’s
+idea for an all-in-one testbed for biosensors and other electronic devices.
+Thankfully, Duke had plenty of resources to help him figure that out.
+
+As so many inventions do, the inspiration for Versametrics was born from
+necessity. Franklin’s laboratory is focused on improving the performance and
+functionality of nanomaterial-enabled electronic devices. And if you’re
+working to improve the performance of such devices, you’re going to need to be
+able to test them in a lot of different ways. The trouble is that obtaining,
+housing and using all of that equipment is both cumbersome and expensive.
+
+To help his own lab’s research, Franklin asked his students to work on a low-
+cost platform that could fit in the palm of your hand but still feature most
+of the measurement capabilities needed to characterize and test new
+electronics. Once a device was in working order, he thought maybe it could
+also help other labs working in similar fields.
+
+“The platform has all of the nascent seed story elements found in many
+startups,” said Franklin, the Addy Professor of Electrical and Computer
+Engineering and Chemistry. “We saw a need, addressed the need ourselves, and
+then realized that there’s probably others out there with similar needs, so
+maybe we should see if there’s a market for this.”
+
+Graduate student Jay Doherty holds the Dart 1.0
+
+The Dart 1.0, boxed for shipment to a future customerThe group’s first stop
+was—as everyone’s should be, says Franklin—Duke OTC. After filing an invention
+disclosure and provisional patent application, the researchers were provided
+with a “Technology Fellows Report.” Produced by one of the fellows in OTC’s
+Tech Transfer Fellows program, the concise report offers preliminary research
+on aspects such as the patent and market space.
+
+“For someone who doesn’t understand how to evaluate a potential market, it’s a
+really great starting point,” said Franklin. “And it’s not a 50-page treatise,
+it’s a three-to-five page report that still contains all of the information
+you need.”
+
+Duke OTC also partnered the group with one of their in-house consultants—once
+again, as it turns out, Kurt Schmidt—who worked with the group from a sort of
+third-party perspective in the negotiations of licensing rights and fees
+between Duke and their potential startup. In parallel, Franklin also sought
+advice from one of Duke Engineering’s newest startup resources, EngEn.
+
+Through EngEn, Franklin and his students were set up with—surprise,
+surprise—Bill Walker for advice and guidance shepherding the technology
+startup to the point where it becomes self-sustaining. It was here that
+Franklin was asked what the goal of their startup was—to become a multibillion
+Fortune 500 company or to create a little widget that will make a few thousand
+people’s lives easier?
+
+“In our case, the size of the company we anticipated building and our end
+goals didn’t align well with what would have been required to go through the
+Duke Incubation Fund,” said Franklin. Instead, Versametrics sought and
+obtained through the National Institutes of Health’s (NIH) Small Business
+Innovation Research (SBIR) program, also called “America’s Seed Fund.”
+
+With so many resources available for potential entrepreneurs—both within Duke
+Engineering and Duke University as a whole—it’s no wonder that more faculty
+are flexing their startup muscles then ever before. In 2020 alone, Duke
+Engineering was home to 132 new invention disclosures and 37 newly issued
+patents. With statistics like those, the number of spin-off
+companies—currently standing at 54—is set to grow by leaps and bounds.
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

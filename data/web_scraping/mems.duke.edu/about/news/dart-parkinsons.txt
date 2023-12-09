@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Homing System Delivers Drugs To Specific Neurons
+
+April 6, 2017 | By Ken Kingery
+
+New technique reveals synaptic contributions to Parkinson's Disease
+
+Biomedical engineers have developed a way to deliver drugs to specific types
+of neurons in the brain, providing an unprecedented ability to study
+neurological diseases while also promising a more targeted way to treat them.
+
+Drugs are the tool of choice for studying the connections between neurons, and
+continue to be the mainstream treatment for neurological disease. But a major
+drawback in both endeavors is that the drugs affect all types of neurons,
+complicating the study of how cell receptors in the synapse—the gap between
+neurons—work in an intact brain, and how their manipulation can lead to
+clinical benefits and side effects.
+
+A new method named DART (Drugs Acutely Restricted by Tethering) may overcome
+these limitations. Developed by researchers at Duke University and the Howard
+Hughes Medical Institute, DART offers researchers the first opportunity to
+test what happens when a drug is targeted exclusively to one cell type.
+
+In its inaugural study, DART reveals how movement difficulties in a mouse
+model of Parkinson’s Disease are controlled by the AMPA receptor (AMPAR)—a
+synaptic protein that enables neurons to receive fast incoming signals from
+other neurons in the brain. The results reveal why a recent clinical trial of
+an AMPAR-blocking drug failed, and offer a new approach to using the
+pharmaceutical.
+
+The paper appeared online on April 7, 2017 in the journal Science.
+
+“This study marks a major milestone in behavioral neuropharmacology,” said
+Michael Tadross, assistant professor of biomedical engineering, who is in the
+process of moving his laboratory from the HHMI Janelia Research Campus to
+Duke. “The insights we gained in studying Parkinson’s mice were unexpected and
+could not have been obtained with any previous method.”
+
+DART works by genetically programming a specific cell type to express a sort
+of GPS beacon. The “beacon” is an enzyme borrowed from bacteria that is
+inert—it does nothing more than sit on the cell surface. Nothing, that is,
+until researchers deliver drugs loaded with a special homing device.
+
+Researchers administer these drugs at such low doses that they do not affect
+other cells. Because the homing system is so efficient, however, the drug is
+captured by the tagged cells’ surface, accumulating within minutes to
+concentrations that are 100 to 1,000 times higher than anywhere else.
+
+In an experiment using a mouse model of Parkinson’s disease, Tadross and
+colleagues attached the homing signal beacon to two types of neurons found in
+the basal ganglia—the region of the brain responsible for motor control. One
+type, referred to as D1 neurons, are believed to give a “go” command. The
+other, referred to as D2 neurons, are thought to do just the opposite,
+providing commands to stop movements.
+
+Using DART, Tadross delivered an AMPAR-blocking pharmaceutical to only
+D1-neurons, only D2-neurons, or both. When delivered to both cell types
+simultaneously, the drugs improved only one of several components of motor
+dysfunction—mirroring the lackluster results of recent human clinical trials.
+The team then found that delivering the drug to only the D1/”go” neurons did
+absolutely nothing. Surprisingly, however, by targeting the same drug to
+D2/”stop” neurons, the mice’s movements became more frequent, faster, fluid
+and linear—in other words, much closer to normal.
+
+While the drug stops neurons from receiving certain incoming signals, it does
+not completely shut them down. This nuance is particularly important for a
+subset of the D2 neurons that have two prominent forms of firing. With DART,
+these components could be separately manipulated, providing the first evidence
+that Parkinson’s motor deficits are attributable to the AMPAR-based component
+of firing in these cells. Tadross said this level of nuance could not have
+been obtained with prior cell type-specific methods that completely shut
+neurons down.
+
+“Already in our first use of DART, we’ve learned something new about the
+synaptic basis of circuit dysfunction in Parkinson’s disease,” said Tadross.
+“We’ve discovered that targeting a specific receptor on specific types of
+neurons can lead to surprisingly potent improvements.”
+
+Tadross is already looking into how this discovery might translate into a new
+therapy by delivering drugs to these neurons through an emerging viral
+technique. He is also beginning work to develop a version of DART that does
+not need the genetically added homing beacon to work. Both efforts will
+require years of research before seeing fruition—but that’s not stopping
+Tadross.
+
+“All too often in basic science, approaches are developed that may ‘one day’
+make a difference to human health,” he said. “At Duke, there's a palpable
+emphasis on providing new treatments to people as quickly as possible. I'm
+very excited that in this environment, my lab can work collaboratively with
+scientists, physicians, and biotech to solve the real-world challenges
+involved.”
+
+This research was funded by the Howard Hughes Medical Institute.
+
+CITATION: “Deconstructing behavioral neuropharmacology with cellular
+specificity.” Brenda C. Shields, Elizabeth Kahuno, Charles Kim, Pierre
+Apostolides, Jennifer Brown, Sarah Lindo, Brett D. Mensh, Joshua T. Dudman,
+Luke D. Lavis and Michael R. Tadross. Science, 2017. DOI:
+10.1126/science.aaj2161
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

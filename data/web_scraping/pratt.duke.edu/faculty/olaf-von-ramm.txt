@@ -1,0 +1,309 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Olaf T. Von Ramm
+
+Thomas Lord Distinguished Professor of Engineering
+
+Dr. von Ramm's research interests include diagnostic ultrasound imaging
+systems, IR imaging, medical instrumentation and  
+their new applications.
+
+**Ultrasound Imaging.** The main direction of research is a development of new
+ultrasonic techniques for better visualization of the human anatomy, improved
+ultrasonic detection of tumors and other space occupying lesions as well as
+improved detection and visualization of blood flow. Several generations of
+phased array Ultrasound imaging systems have been designed and constructed in
+our laboratories to assist the clinical value of various novel Ultrasound
+imaging techniques. Research interests range from basic physics of acoustics
+and properties of materials required in transducer construction, through the
+design and construction of advanced imaging systems, to the clinical
+application and evaluation of new instruments or measurement principles. Of
+particular interest has been the quantization of cardiac function using
+Ultrasound.
+
+High Speed Ultrasound Imaging is a project with a long-term goal to design,
+construct and clinically evaluate a real-time volumetric (3-D) ultrasonic
+imaging system which is also capable of visualizing and accurately
+representing blood flow in three dimensions. This instrument will permit the
+non-invasive assessment of tumor and organ volumes as well as cardiac chamber
+volumes. Such measurements have the potential of improving decision on tumor
+treatment, of assessing congenital and pathological states of various organs
+and of evaluating cardiac function on a serial basis. Incorporation of angle-
+independent 3-D flow measurements will permit the rapid noninvasive assessment
+of flow in major peripheral vessels, deep abdominal vessels and coronary
+arteries. Flow imaging will also delineate the lumen of the vessel thereby
+simplifying detection of atherosclerotic clacks.  
+
+Another project Real-Time 3-D Ultrasonic Data Acquisition, is aimed at the
+design, construction and evaluation of a new generation pulsed array
+Ultrasound imaging system based on VLSI ASICs and specialized linear
+integrated circuits. This system will eventually feature256 parallel receive
+channels with 64 to 1 parallel processing. Up to 64simultaneous B-mode will be
+acquired in real time so that virtually any view of the anatomy can be
+visualized on line.  
+
+Scatter Imaging is the focus of yet another research effort which is directed
+toward imaging with Ultrasound energies scattered at various angles from soft
+tissue. Studies are directed towards assessing the viability of such imaging
+and improving contrast between tissue types and generally improving image
+quality. This method may also permit the quantitative determination of
+physical tissue parameters such as ultrasonic propagation velocities.  
+
+Medical Center equipment totally dedicated to the Ultrasound work includes the
+second generation phased array instrument constructed at Duke, a VAX11/780, a
+Kontron image processor, electronic test equipment, extensive video equipment
+including an In star 240 frame per second instrument. In addition there are 9
+commercial phased array instruments in clinical use with various transducer
+probes that can be scheduled for research purposes.
+
+**Cardiovascular Technologies.** The National Science Foundation Engineering
+Research Center for Emerging Cardiovascular Technologies (NSF/ERC) at Duke
+University incorporates the latest knowledge and methodology in custom
+integrated electronics, biosensors, system design, and simulation to develop a
+new generation of Cardiac Interventional and Medical Imaging Systems. This
+interdisciplinary Center brings together the active research programs of well-
+established engineering and biomedical researchers and industrial
+investigators to advance biomedical systems, devices, and instrumentation in
+the coming decade. Research interests include the study of interventional
+stimulation and catheterization procedures aimed at the development of a new
+generation of devices and procedures for the treatment of arrhythmias,
+atherosclerosis, and other vascular diseases. Research contributors possess
+highly specialized skills in medical research, biomedical engineering,
+electrical engineering, mechanical engineering, materials science, and micro
+electronic technology. All of these skills are required in a systems approach
+to developing implantable devices and interventional methods.  
+  
+  
+  
+Other research groups focus on the development of high speed 3-D imaging
+systems including two major projects: 3-D real-time ultrasonic imaging and
+magnetic resonance microscopy. The extensions of these modalities to dynamic,
+three-dimensional imaging capabilities should double the present Ultrasound
+and magnetic resonance imaging sales. These imaging and display systems will
+also be of major importance in the in vivo evaluation of the systems.  
+
+  
+  
+The vision of current cardiac stimulation research projects is to prevent
+sudden cardiac death by developing several different types of high technology
+devices to be implanted within the body. These devices will halt or prevent
+ventricular fibrillation, the primary cause of sudden cardiac death.  
+  
+  
+  
+The key technical problems blocking advances in the development of devices to
+prevent sudden cardiac death are a lack of knowledge of (a) the distribution
+of the electrical field created throughout the heart by a set of stimulating
+electrodes, (b) the reaction of the heart cells to a given electrical field as
+a function of the cell's electrophysiologic state at the time of the shock,
+and (c) the individuals who are at risk for sudden cardiac death and thus are
+candidates for these devices.
+
+  
+
+The key research goals and objectives are to obtain and evaluate experimental
+knowledge by using specially constructed, computer-assisted data acquisition
+systems and electrode arrays to record the intrinsic electrical activity of
+the heart before and after a large electrical stimulus, as well as the
+potentials created throughout the heart by the stimulus itself. The
+correctness of bioelectric simulation and concepts are assessed by comparing
+these predictions to the measured data.  
+  
+  
+  
+This work is strongly dependent on the circuits, sensors, and simulation
+research projects that are significant strengths of the NSF/ERC program.
+Investigators are developing systems requirements and specifications for array
+transducers, custom integrated circuits, integrated systems, biosensors, and
+simulations that focus the core research activities in micro electronics and
+biosensor design and fabrication.  
+
+  
+  
+A major goal of this Center is to improve engineering educational programs by
+expanding the opportunities for engineering students to interact with
+industrial investigators. In particular, the Center is initiating an approach
+to graduate and undergraduate engineering education in which NSF/ERC Fellows
+receive substantive advising and individually tailored instruction from
+leading engineers in industry.  
+
+## Appointments and Affiliations
+
+  * Thomas Lord Distinguished Professor of Engineering
+  * Professor of Biomedical Engineering
+  * Professor in Medicine
+
+## Contact Information
+
+  * **Office Location:** 2589 Fciemas, 101 Science Drive, Durham, NC 27708
+  * **Office Phone:** (919) 660-5137
+  * **Email Address:** olaf.vonramm@duke.edu
+
+## Education
+
+  * Ph.D. Duke University, 1973
+  * M.S. University of Toronto (Canada), 1970
+  * B.S. University of Toronto (Canada), 1968
+
+## Research Interests
+
+Diagnostic ultrasound imaging systems, IR imaging, medical instrumentation and
+their new applications.
+
+## Awards, Honors, and Distinctions
+
+  * Fellow. American Institute for Medical and Biological Engineering. 1998
+
+## Courses Taught
+
+  * BME 464L: Medical Instrument Design (DR)
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 542: Principles of Ultrasound Imaging (GE, IM)
+  * BME 543L: Cardiac Ultrasound Imaging and Function (GE, IM)
+
+## In the News
+
+  * The Pioneers of 3D Ultrasound (Apr 1, 2018 | Duke Biomedical Engineering)
+  * Thurstone Medical Imaging Fellowship Awarded to Duke BME PhD Candidate
+    (Nov 13, 2013 | Duke University Pratt School of Engineering)
+
+## Representative Publications
+
+  * Andersen, MS; Moore, C; LeFevre, M; Arges, K; Friedman, DJ; Atwater, BD;
+    Kisslo, J; Søgaard, P; Struijk, JJ; von Ramm, OT; Schmidt, SE,
+    _Contractile Fronts In The Interventricular Septum: A Case For High Frame
+    Rate Echocardiographic Imaging._ , Ultrasound Med Biol, vol 46 no. 9
+    (2020), pp. 2181-2192 [10.1016/j.ultrasmedbio.2020.04.028] [abs].
+  * Andersen, MV; Moore, C; Søgaard, P; Friedman, D; Atwater, BD; Arges, K;
+    LeFevre, M; Struijk, JJ; Kisslo, J; Schmidt, SE; von Ramm, OT,
+    _Quantitative Parameters of High-Frame-Rate Strain in Patients with
+    Echocardiographically Normal Function._ , Ultrasound Med Biol, vol 45 no.
+    5 (2019), pp. 1197-1207 [10.1016/j.ultrasmedbio.2018.11.007] [abs].
+  * Andersen, M; Moore, C; Ages, K; Lefevre, M; Schmidt, S; Kisslo, J; Von
+    Ramm, OT, _Notice of Removal: High speed clinical Strain measurements_ ,
+    Ieee International Ultrasonics Symposium, Ius, vol 0 (2017)
+    [10.1109/ULTSYM.2017.8091915] [abs].
+  * Andersen, MV; Moore, C; Arges, K; Søgaard, P; Østergaard, LR; Schmidt, SE;
+    Kisslo, J; Von Ramm, OT, _High-Frame-Rate Deformation Imaging in Two
+    Dimensions Using Continuous Speckle-Feature Tracking._ , Ultrasound Med
+    Biol, vol 42 no. 11 (2016), pp. 2606-2615
+    [10.1016/j.ultrasmedbio.2016.07.009] [abs].
+  * Andersen, MV; Moore, C; Schmidt, SE; Sogaard, P; Struijk, JJ; Kisslo, J;
+    Von Ramm, OT, _Feature tracking algorithm for circumferential strain using
+    high frame rate echocardiography_ , Computing in Cardiology, vol 43
+    (2016), pp. 885-888 [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

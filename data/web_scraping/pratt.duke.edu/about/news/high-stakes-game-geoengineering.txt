@@ -1,0 +1,254 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The High-Stakes Game of Geoengineering
+
+March 30, 2021
+
+With NSF support, risk scientist Mark Borsuk and colleagues are using a
+combination of an experimental game and mathematical modeling to understand
+and predict when and why nations might choose to enact politically risky
+“quick fix” solutions to climate change
+
+Rising sea levels, wildfire seasons that are the worst on record, parched
+cropland—in spite of all the evidence that human civilization is losing its
+game of chicken with the climate, no one is flinching.
+
+Until world leaders can agree to hit the brakes on carbon emissions, humanity
+needs some safeguards. And the urgency of that need has some scientists
+seriously considering a climate change amelioration strategy—intentionally
+reducing the sun’s incoming radiation—that might have been dismissed as
+outlandish in less dire times.
+
+“This strategy of solar radiation management, or SRM, isn’t trying to reverse
+climate change,” said Mark Borsuk, Duke professor of civil and environmental
+engineering. “It is changing the climate further, but in a way intended to
+counteract some of the warming effects of greenhouse gases. Responsible
+scientists are looking at it not as a permanent solution, but as a way to
+avoid some of the worst consequences of global warming while society
+transitions to carbon-free energy solutions.”
+
+Some SRM strategies seem a little wild; one idea is to construct a giant
+umbrella between our planet and the sun to shield us from a bit of its heat.
+Another idea is to use a fleet of planes to continuously discharge inexpensive
+fine sulfate particles into the stratosphere. The idea is that these particles
+would reflect some of the sun’s light and cool the earth in the same way that
+volcanic eruptions have in the past.
+
+“By reducing incoming sunlight by only a very small percentage, you could
+offset the warming effects of greenhouse gases almost entirely, and it is
+certainly cheaper than suffering the impacts of climate change. There’s little
+reason to think it wouldn’t work, so it’s a tempting proposition—an apparent
+quick fix,” said Borsuk.
+
+Of course, like any quick fix, such a technological intervention affecting the
+entire planet comes with abundant uncertainty and risk—the assessment of which
+happens to be Borsuk's specialty. More specifically, Borsuk is an expert at
+mathematically modeling complex decision-making processes as they relate to
+the environment and human well-being.
+
+Scientists have hypothesized many potential risks associated with SRM, Borsuk
+noted. Solar shading’s effects on crop growth and influence on animal behavior
+are unknown. As they settle out of the atmosphere, sulfate particles might
+acidify the oceans and worsen coral bleaching and the death of reefs. The
+heat-absorbing particles could change weather patterns in unexpected ways. And
+if the constant infusion of particles into the stratosphere were interrupted
+by an unforeseen event—a pandemic, say—the earth could very suddenly warm to
+pre-SRM levels, which could be catastrophic.
+
+There are also geopolitical risks to consider. “It’s cheap and easy enough
+that one country, or even one wealthy individual or organization who thinks
+they might benefit, could implement it by themselves,” said Borsuk. “It may
+sound like the plot of a Bond movie, but some nefarious actor could
+theoretically take control of global climate, or even some well-intentioned
+organization that thinks it's doing the right thing.”
+
+> “It may sound like the plot of a Bond movie, but some nefarious actor could
+> theoretically take control of global climate, or even some well-intentioned
+> organization that thinks it's doing the right thing.”
+>
+> Mark Borsuk, Duke Associate professor of Civil and environmental engineering
+
+This is where Borsuk’s expertise in modeling complex decisions comes into
+play. With support from a new National Science Foundation grant, Borsuk is
+working with an interdisciplinary team of colleagues at Duke, NC State,
+University of Wyoming, University of Waterloo and Appalachian State University
+to investigate when people might choose to adopt an individual “quick fix”
+strategy to a problem that would otherwise require long-term social
+cooperation. The team is designing an experimental game that seeks to
+understand when and why a party to a social problem might try to take
+individual control of the solution instead of cooperating with others—or doing
+nothing at all.
+
+In the first stage of this game, each player has a pile of red and green
+chips. An impending disaster threatens the red chips of the whole group, but
+the green chips can be contributed to a common pool to protect a portion of
+everyone’s red chips. This represents cooperative greenhouse gas mitigation.
+In a second stage, players have the opportunity to spend green chips to
+exclusively protect their own red chips.
+
+The catch is that any green chips spent in excess of an unknown threshold will
+threaten other players’ red chips. This represents, in a highly simplified
+way, unilateral solar geoengineering. As subsequent rounds of the game
+progress, players must make increasingly complex decisions about how much to
+spend on their own protection versus the protection of the group. The
+influence of each player is varied, and the heavyweights are sometimes able to
+force the hands of others, much as wealthy entities in the real world might.
+
+In cooperation with Durham, NC’s Museum of Life and Science, the team won a
+Catalyst Program grant from the Nicholas Institute that will help translate
+the experiment into a fun-to-play board game, via the Duke Game Lab.
+
+“Climate change is a classic example of a social dilemma,” said Borsuk. “No
+one country wants to cut emissions unless everyone else is doing it, and if
+everyone else is doing it, you could then reap the benefits without
+acting—something called the ‘free-rider effect.’”
+
+But SRM with reflective particles is so cheap and easy to implement that some
+actors might pull the trigger even if no one else supports taking action,
+essentially becoming a “free-driver.”
+
+“Then the problem becomes one not of cooperation, but rather of control, or
+regulation,” said Borsuk.
+
+The outcomes from the team’s experiments could certainly deepen understanding
+of the social dimensions of geoengineering decision making—a priority
+highlighted in a recent report from the National Academies. The findings might
+also be extrapolated to similar scenarios where problem-solving has
+traditionally involved the cooperation of entire communities, but for which
+technological solutions are becoming more readily available. (Consider, for
+example, how we might employ gene editing, rather than public health measures,
+to confront disease; surveillance cameras, rather than neighborhood watch
+programs, to thwart break-ins; and smart guns, rather than enhanced training,
+to avert accidental shootings.)
+
+Eventually, the team intends to invite game players who know more about the
+high stakes of the real-life scenario—people such as climate negotiators—once
+the details of the game are worked out and some more specific hypotheses are
+formulated.
+
+“We hope that our research will reveal ways to move beyond current thinking in
+the negotiation of international agreements and illuminate paths to
+cooperative solutions that benefit everyone,” he said.
+
+More News from Duke CEE
+
+## Related News
+
+November 25, 2019
+
+### When a 'Pros and Cons' List Won't Cut It
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

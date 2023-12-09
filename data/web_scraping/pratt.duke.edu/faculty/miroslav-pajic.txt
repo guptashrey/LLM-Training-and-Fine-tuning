@@ -1,0 +1,269 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Miroslav Pajic
+
+Dickinson Family Associate Professor
+
+Miroslav Pajic's research focuses on design and analysis of cyber-physical
+systems with varying levels of autonomy and human interaction, at the
+intersection of (more traditional) areas of embedded systems, AI, learning and
+controls, formal methods and robotics.
+
+## Appointments and Affiliations
+
+  * Dickinson Family Associate Professor
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Associate Professor in the Thomas Lord Department of Mechanical
+    Engineering and Materials Science
+  * Associate Professor of Computer Science
+
+## Contact Information
+
+  * **Email Address:** miroslav.pajic@duke.edu
+  * **Websites:**
+    * Webpage
+
+## Education
+
+  * Ph.D. University of Pennsylvania, 2012
+
+## Research Interests
+
+Design and analysis of autonomous cyber-physical systems (CPS), and in
+particular, embedded systems, AI, learning and controls, CPS security and
+high-assurance autonomy, with various application domains including robotics,
+automotive, and medical systems
+
+## Courses Taught
+
+  * ECE 292: Projects in Electrical and Computer Engineering
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 459: Introduction to Embedded Systems
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 495: Special Topics in Electrical and Computer Engineering
+  * ECE 496: Special Topics in Electrical and Computer Engineering
+  * ECE 567: Cyber-Physical System Design
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * EGR 393: Research Projects in Engineering
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * MENG 550: Master of Engineering Internship/Project
+  * MENG 551: Master of Engineering Internship/Project Assessment
+  * MENG 552: Master of Engineering Supplemental Internship
+
+## In the News
+
+  * In Driverless Cars, Objects May Be Dangerously Close (Mar 15, 2022 | Pratt
+    School of Engineering)
+  * Meet the Newly Tenured Faculty of 2021 (Sep 21, 2021 | Office of Faculty
+    Advancement)
+  * Finding Free Bytes for Security (Oct 12, 2018 | Pratt School of
+    Engineering)
+  * Duke Partners with NSF, Others to Secure and Protect the Emerging Internet
+    of Things (Aug 31, 2015 | Duke Today)
+  * Miroslav Pajic: Making Smart Systems That Interact with the Physical World
+    (Apr 2, 2015 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Pajic, M; Park, J; Lee, I; Pappas, GJ; Sokolsky, O, _Automatic
+    Verification of Linear Controller Software_ (2015), pp. 217-226
+    [10.1109/EMSOFT.2015.7318277] [abs].
+  * Ivanov, R, ; Atanasov, N, ; Pajic, M; Pappas, G.J., ; Lee, I,, _Robust
+    Estimation Using Context-Aware Filtering_ (2015) [abs].
+  * Jakovljevic, Z; Petrovic, PB; Milkovic, D; Pajic, M, _Diagnosis of
+    irregularities in the robotized part mating process based on contextual
+    recognition of contact states transitions_ , Assembly Automation, vol 35
+    no. 2 (2015), pp. 190-199 [10.1108/AA-10-2014-077] [abs].
+  * Jakovljevic, Z; Puzovic, R; Pajic, M, _Recognition of Planar Segments in
+    Point Cloud based on Wavelet Transform_ , Ieee Transactions on Industrial
+    Informatics (2015), pp. 342-352 [10.1109/TII.2015.2389195] [abs].
+  * Gatsis, K; Pajic, M; Ribeiro, A; Pappas, GJ, _Opportunistic Control Over
+    Shared Wireless Channels_ , Ieee Transactions on Automatic Control (2015),
+    pp. 3140-3155 [10.1109/TAC.2015.2416922] [abs].
+  * Faruque, MAA; Regazzoni, F; Pajic, M, _Design methodologies for securing
+    cyber-physical systems._ , Proceedings of the 10th International
+    Conference on Hardware/Software Codesign and System Synthesis (Codes+Isss)
+    (2015), pp. 30-36 [10.1109/CODESISSS.2015.7331365] [abs].
+  * Park, J; Ivanov, R; Weimer, J; Pajic, M; Lee, I, _Sensor attack detection
+    in the presence of transient faults._ , Proceedings of the 6th Acm/Ieee
+    International Conference on Cyber Physical Systems (Iccps) (2015), pp.
+    1-10 [10.1145/2735960.2735984] [abs].
+  * Jiang, Z; Pajic, M; Alur, R; Mangharam, R, _Closed-loop verification of
+    medical devices with model abstraction and refinement_ , International
+    Journal on Software Tools for Technology Transfer, vol 16 no. 2 (2014),
+    pp. 191-213 [10.1007/s10009-013-0289-7] [abs].
+  * Pajic, M; Weimer, J; Bezzo, N; Tabuada, P; Sokolsky, O; Lee, I; Pappas,
+    GJ, _Robustness of attack-resilient state estimators_ , Cyber Physical
+    Systems (Iccps), 2014 Acm/Ieee International Conference On (2014), pp.
+    163-174 [10.1109/ICCPS.2014.6843720] [abs].
+  * Gatsis, K; Pajic, M; Ribeiro, A; Pappas, GJ, _Opportunistic scheduling of
+    control tasks over shared wireless channels_ , Cyber Physical Systems
+    (Iccps), 2014 Acm/Ieee International Conference On (2014), pp. 48-59
+    [10.1109/ICCPS.2014.6843710] [abs].
+  * Ivanov, R; Pajic, M; Lee, I, _Attack-resilient sensor fusion_ , Design,
+    Automation and Test in Europe Conference and Exhibition (Date), 2014
+    (2014), pp. 1-6 [10.7873/DATE.2014.067] [abs].
+  * Pajic, M; Jiang, Z; Lee, I; Sokolsky, O; Mangharam, R, _Safety-critical
+    medical device development using the UPP2SF model translation tool_ , Acm
+    Transactions on Embedded Computing Systems, vol 13 no. 4 SPEC. ISSUE
+    (2014) [10.1145/2584651] [abs].
+  * Pajic, M; Sundaram, S; Pappas, GJ, _Stabilizability over deterministic
+    relay networks_ , Proceedings of the Ieee Conference on Decision and
+    Control (2013), pp. 4018-4023 [10.1109/CDC.2013.6760504] [abs].
+  * Pajic, M; Mangharam, R; Pappas, GJ; Sundaram, S, _Topological conditions
+    for in-network stabilization of dynamical systems_ , Ieee Journal on
+    Selected Areas in Communications, vol 31 no. 4 (2013), pp. 794-807
+    [10.1109/JSAC.2013.130415] [abs].
+  * Pajic, M; Chernoguzov, A; Mangharam, R, _Robust architectures for embedded
+    wireless network control and actuation_ , Acm Transactions on Embedded
+    Computing Systems, vol 11 no. 4 (2012) [10.1145/2362336.2362349] [abs].
+  * Pajic, M; Mangharam, R; Sokolsky, O; Arney, D; Goldman, J; Lee, I, _Model-
+    Driven Safety Analysis of Closed-Loop Medical Systems._ , Ieee
+    Transactions on Industrial Informatics (2012) [10.1109/tii.2012.2226594]
+    [abs].
+  * Pajic, M; Jiang, Z; Lee, I; Sokolsky, O; Mangharam, R, _From Verification
+    to Implementation: A Model Translation Tool and a Pacemaker Case Study_ ,
+    Real Time Technology and Applications Proceedings (2012), pp. 173-184
+    [10.1109/RTAS.2012.25] [abs].
+  * Zhihao, J; Pajic, M; Mangharam, R, _Cyber-Physical Modeling of Implantable
+    Cardiac Medical Devices_ , Proceedings of the Ieee, vol 100 no. 1 (2012),
+    pp. 122-137 [10.1109/JPROC.2011.2161241] [abs].
+  * Pajic, M; Sundaram, S; Le Ny, J; Pappas, GJ; Mangharam, R, _Closing the
+    Loop: A Simple Distributed Method for Control over Wireless Networks_ ,
+    Proceedings of the 11th International Conference on Information Processing
+    in Sensor Networks (2012), pp. 25-36 [10.1145/2185677.2185681] [abs].
+  * Jiang, Z; Pajic, M; Moarref, S; Alur, R; Mangharam, R, _Modeling and
+    Verification of a Dual Chamber Implantable Pacemaker_ , Proceedings of the
+    18th International Conference on Tools and Algorithms for the Construction
+    and Analysis of Systems (2012), pp. 188-203 [10.1007/978-3-642-28756-5_14]
+    [abs].
+  * Jiang, Z; Pajic, M; Moarref, S; Alur, R; Mangharam, R, _Modeling and
+    Verification of a Dual Chamber Implantable Pacemaker_ , vol 7214 (2012),
+    pp. 188-203 [10.1007/978-3-642-28756-5_14] [abs].
+  * Pajic, M; Sundaram, S; Pappas, GJ; Mangharam, R, _The wireless control
+    network: A new approach for control over networks_ , Ieee Transactions on
+    Automatic Control, vol 56 no. 10 (2011), pp. 2305-2318
+    [10.1109/TAC.2011.2163864] [abs].
+  * Ivanov, R., ; Pajic, M; Lee, I.,, _Attack-Resilient Sensor Fusion for
+    Safety-Critical Cyber-Physical Systems_ , Acm Transactions on Embedded
+    Computing Systems [abs].
+  * Pajic, M; Tabuada, P., ; Lee, I., ; Pappas, G.J.,, _Attack-Resilient State
+    Estimation in the Presence of Noise_ , pp. 527-532 [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

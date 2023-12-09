@@ -1,0 +1,266 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Benjamin Yellen
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in the Department of Mechanical Engineering and Materials
+Science
+
+Yellen's group is interested in developing highly parallel mechanisms for
+controlling the transport and assembly of ensembles of objects ranging from
+micron-sized colloidal particles to single cells. As of 2013, Professor Yellen
+is active in two main areas of research:  
+1) **Development of single cell analysis tools using magnetic circuits.** The
+goal of this project is to develop an automated single cell analysis platform
+that allows for highly flexible and highly parallel manipulation of single
+cells. Our approach draws inspiration from electronic circuit theory through
+the development highly flexible methods for transporting particles above
+magnetic thin film patterns either reversibly (conductor) or irreversibly
+(rectifier), storing cells in well-defined regions of space either temporarily
+(capacitor) or permanently (data storage), switching current pathways at
+selected junctions (transistor) and coordinating a large set of electronic
+functions with few input wires (multiplexer). When combined with microfluidic
+systems that allow for repeated doses of pharmaceuticals, we will have a
+developed a platform that is ripe to have a major impact on the field of HIV
+eradication and cancer suppression.  
+2) **Multiparticle assembly of colloidal crystals**. The goal of this project
+is to understand the formation and phase transitions occuring inside single
+crystals composed of alloys of colloidal particles. Here, we are interested in
+observing crystals forming from magnetic and non-magnetic colloidal particles
+dispersed inside ferrofluid. We are just beginning to solve the questions of
+how to grow large single crystals, and how to transform these crystals by
+tilting of an external magnetic field. The results of this project will serve
+as useful models for understanding how crystals form and transform in the
+corollary atomic scale materials in nature.
+
+## Appointments and Affiliations
+
+  * Associate Professor in the Department of Mechanical Engineering and
+    Materials Science
+
+## Contact Information
+
+  * **Office Location:** 4304 Chesterfield Building, Box 90300, Durham, NC
+    27708
+  * **Office Phone:** (919) 660-8261
+  * **Email Address:** yellen@duke.edu
+  * **Websites:**
+    * Google Scholar
+
+## Education
+
+  * Ph.D. Drexel University, 2004
+
+## Research Interests
+
+Development of single cell analysis tools using magnetic circuits, and
+multiparticle assembly of colloidal crystals
+
+## Courses Taught
+
+  * ECE 494: Projects in Electrical and Computer Engineering
+
+## In the News
+
+  * Visualizing how matter changes from one state to another, on an atomic
+    level (M…
+  * Microchip-Like Technology Allows Single-Cell Analysis (May 14, 2014)
+
+## Representative Publications
+
+  * Yellen, Benjamin B., Jon S. Zawistowski, Eric A. Czech, Caleb I. Sanford,
+    Elliott D. SoRelle, Micah A. Luftig, Zachary G. Forbes, Kris C. Wood, and
+    Jeff Hammerbacher. “Massively parallel quantification of phenotypic
+    heterogeneity in single-cell drug responses.” Sci Adv 7, no. 38 (September
+    17, 2021): eabf9840. https://doi.org/10.1126/sciadv.abf9840.
+  * Li, Linying, C Wyatt Shields, Jin Huang, Yiqun Zhang, Korine A. Ohiri,
+    Benjamin B. Yellen, Ashutosh Chilkoti, and Gabriel P. López. “Rapid
+    capture of biomolecules from blood via stimuli-responsive elastomeric
+    particles for acoustofluidic separation.” The Analyst 145, no. 24 (January
+    2021): 8087–96. https://doi.org/10.1039/d0an01164a.
+  * Li, Ying, Jeffrey D. Motschman, Sean T. Kelly, and Benjamin B. Yellen.
+    “Injection Molded Microfluidics for Establishing High-Density Single Cell
+    Arrays in an Open Hydrogel Format.” Analytical Chemistry 92, no. 3
+    (February 2020): 2794–2801. https://doi.org/10.1021/acs.analchem.9b05099.
+  * Ohiri, Korine A., Sean T. Kelly, Jeffrey D. Motschman, Kevin H. Lin, Kris
+    C. Wood, and Benjamin B. Yellen. “An acoustofluidic trap and transfer
+    approach for organizing a high density single cell array.” Lab Chip 18,
+    no. 14 (July 10, 2018): 2124–33. https://doi.org/10.1039/c8lc00196k.
+  * Pham, An T., Yuan Zhuang, Paige Detwiler, Joshua E. S. Socolar, Patrick
+    Charbonneau, and Benjamin B. Yellen. “Phase diagram and aggregation
+    dynamics of a monolayer of paramagnetic colloids.” Physical Review. E 95,
+    no. 5–1 (May 2017): 052607. https://doi.org/10.1103/physreve.95.052607.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

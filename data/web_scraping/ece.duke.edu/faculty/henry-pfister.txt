@@ -1,0 +1,277 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Henry Pfister
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in the Department of Electrical and Computer Engineering
+
+Henry D. Pfister received his Ph.D. in Electrical Engineering in 2003 from the
+University of California, San Diego and is currently a professor in the
+Electrical and Computer Engineering Department of Duke University with a
+secondary appointment in Mathematics. Prior to that, he was an associate
+professor at Texas A&M University (2006-2014), a post-doctoral fellow at the
+École Polytechnique Fédérale de Lausanne (2005-2006), and a senior engineer at
+Qualcomm Corporate R&D in San Diego (2003-2004). His current research
+interests include information theory, error-correcting codes, quantum
+computing, and machine learning.
+
+He received the NSF Career Award in 2008 and a Texas A&M ECE Department
+Outstanding Professor Award in 2010. He is a coauthor of the 2007 IEEE COMSOC
+best paper in Signal Processing and Coding for Data Storage and a coauthor of
+a 2016 Symposium on the Theory of Computing (STOC) best paper. He has served
+the IEEE Information Theory Society as a member of the Board of Governors
+(2019-2022), an Associate Editor for the IEEE Transactions on Information
+Theory (2013-2016), and a Distinguished Lecturer (2015-2016). He was also the
+General Chair of the 2016 North American School of Information Theory.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Electrical and Computer Engineering
+  * Professor of Mathematics
+
+## Contact Information
+
+  * **Office Location:** 140 Science Dr., 305 Gross Hall, Durham, NC 27708
+  * **Office Phone:** (919) 660-5288
+  * **Email Address:** henry.pfister@duke.edu
+
+## Education
+
+  * Ph.D. University of California - San Diego, 2003
+
+## Research Interests
+
+Information theory, communications, probabilistic graphical models, machine
+learning, and deep neural networks
+
+## Awards, Honors, and Distinctions
+
+  * Best Paper Award. Symposium on the Theory of Computation (STOC). 2016
+  * 2015-2016 Distinguished Lecturer. IEEE Information Theory Society. 2015
+  * NSF CAREER Award. National Science Foundation. 2008
+  * 2007 Best Paper in Signal Processing and Coding for Data Storage. IEEE
+    Communications Society . 2007
+
+## Courses Taught
+
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 487: System Design for Machine Learning and Signal Processing
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 496: Special Topics in Electrical and Computer Engineering
+  * ECE 586: Vector Space Methods with Applications
+  * ECE 586D: Vector Space Methods with Applications
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * MATH 590-02: Advanced Special Topics in Mathematics
+
+## In the News
+
+  * Pratt's Henry Pfister: Inferring Answers through Graphical Models (Sep 17,
+    2014)
+
+## Representative Publications
+
+  * Reeves, Galen, and Henry D. Pfister. “Reed-Muller Codes Achieve Capacity
+    on BMS Channels,” 2021.
+  * Reeves, G., and H. D. Pfister. “The replica-symmetric prediction for
+    compressed sensing with Gaussian matrices is exact.” In Ieee International
+    Symposium on Information Theory Proceedings, 2016-August:665–69, 2016.
+    https://doi.org/10.1109/ISIT.2016.7541382.
+  * Kumar, S., A. J. Young, N. Macris, and H. D. Pfister. “Threshold
+    saturation for spatially coupled LDPC and LDGM codes on BMS channels.”
+    Ieee Transactions on Information Theory 60, no. 12 (December 1, 2014):
+    7389–7415. https://doi.org/10.1109/TIT.2014.2360692.
+  * Yedla, A., Y. Y. Jian, P. S. Nguyen, and H. D. Pfister. “A simple proof of
+    maxwell saturation for coupled scalar recursions.” Ieee Transactions on
+    Information Theory 60, no. 11 (January 1, 2014): 6943–65.
+    https://doi.org/10.1109/TIT.2014.2352296.
+  * Pfister, H. D., J. B. Soriaga, and P. H. Siegel. “On the achievable
+    information rates of finite state ISI channels.” In Conference Record /
+    Ieee Global Telecommunications Conference, 5:2992–96, 2001.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

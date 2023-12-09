@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Modified Biomaterials Perform Orderly Self-Assembly in Response to
+Temperature Cues
+
+March 19, 2018
+
+Using post-translational modification, researchers were able to create unique
+biomaterials with programmable behavior
+
+Biomedical Engineers from Duke University have demonstrated a new approach to
+making self-assembled biomaterials that relies on protein modifications and
+temperature. The hybrid approach allows researchers to control self-assembly
+more precisely, which may prove useful for a variety of biomedical
+applications from drug delivery to wound healing.
+
+The research appears online on March 19 in Nature Chemistry _._
+
+Biomaterials have broad applications across the fields of tissue engineering,
+regenerative medicine and drug delivery. Protein- and peptide-based materials
+are attractive for these applications because they are non-toxic,
+biodegradable and have a well-defined composition. But these biomaterials are
+limited to the 20 amino acids found in nature.
+
+One strategy to expand the chemical diversity of protein-based materials is
+post-translational modification (PTM), a powerful set of reactions that nature
+uses to chemically transform proteins after they are synthesized from genes.
+PTM can modify specific amino acids in proteins or add non-protein structures,
+such as sugars and fatty acids.
+
+“It is obvious that Nature combines different chemical alphabets to make very
+sophisticated materials,” said Ashutosh Chilkoti, the chair of the BME
+department at Duke and primary author of the paper. “One way it does this is
+by combining the amino acid vocabulary of proteins with other very different
+alphabets —sugars and fats are just two examples of the many hundreds of such
+PTMs. As materials scientists, we have not taken advantage of nature’s methods
+to make hybrid materials, and this provided the inspiration for this
+research.”
+
+To make such a hybrid material with useful biomedical properties, researchers
+in the Chilkoti lab focused on creating a series of lipid-modified
+polypeptides, also called fatty-acid-modified elastin-like polypeptides, or
+FAMEs.
+
+When a lipid, like a myristoyl group, is fused to a peptide sequence, the
+different physical properties of the lipid and peptide result in the formation
+peptide amphiphiles, or PAs. Typical PAs can self-assemble into diverse
+structures like long fibers, making them useful as scaffolds for tissue
+engineering. However, this happens spontaneously and these materials cannot be
+injected into the body but instead have to be implanted.
+
+The research team added another useful biomaterial, elastin-like polypeptide
+(ELP), because it can change from a soluble state to an insoluble state, or
+vice-versa, depending on temperature. Combining the properties of these two
+classes of useful biomaterials resulted in the FAME polypeptide.
+
+Using three components –– a lipid myristoyl group‚ a beta-sheet-forming
+peptide sequence, and an elastin-like polypeptide (ELP) -- the researchers
+created a hybrid biomaterial that changes from molecules floating in solution
+into a solid material, simply by raising the temperature.
+
+“Attachment of lipids to short sequence of peptides, typically 5-20 amino
+acids, have been investigated for many years, but combining large biopolymers
+with lipids had not been explored,” said Davoud Mozhdehi, a postdoctoral
+fellow in the Chilkoti lab. “What distinguishes FAMEs from PAs is the presence
+of this temperature-sensitive biopolymer with much longer length, typically
+200-600 amino acids, in the form of the ELP.”
+
+“That short beta sheet-forming peptide sequence only makes up about two
+percent of the entire sequence,” Mozhdehi said. “But it has a huge impact on
+the self-assembly behavior. This hybrid material retains thermal
+responsiveness of the ELP and the hierarchical self-assembly of the PA,
+creating a unique material with programmable behavior.”
+
+“By combining a PA with an ELP, we get a molecule that can go from liquid to
+solid within seconds with a small rise in temperature”, said Chilkoti. “This
+opens up new applications in medicine, where a these materials can be injected
+as a liquid that would then turn into solid inside the body.”
+
+This proof-of-concept builds upon previous research from the Chilkoti lab, in
+which researchers explored new ways to use enzymes to synthesize hybrid lipid-
+peptide polymer fusions between ELPs and lipids using E. coli bacteria _._
+
+“Others had previously found that you can take a specific enzyme out of
+complex eukaryotic cells and get it to function in E. coli,” said Kelli
+Luginbuhl, a research scientist in the Chilkoti lab. “Normally, this enzyme
+permanently attaches a lipid group to a protein, and we were curious whether
+we could use the enzyme to make lipid-biopolymer hybrid materials. When Davoud
+Mozhdehi heard about this project, he had an idea to incorporate a short
+structure-directing peptide sequence into the mix.”
+
+Researchers at the Max Planck Institute for Polymer Research aided the Duke
+team by completing advanced material characterization. “Upon hearing about the
+multiple structures formed by these biomanufactured polymers, we were quite
+excited to participate in this collaborative project to further elucidate the
+mechanism of temperature-triggered hydrogel and aggregate formation in these
+materials,” the Max Planck team said in a statement. “Our contribution of
+temperature-dependent, high-resolution atomic force microscopy and
+temperature-dependent spectroscopy nicely complemented the work from the Duke
+group, and together we were able to decipher the molecular transformations by
+which these unique biopolymers form hierarchical materials.”
+
+“This entire process has been a great collaboration for all involved,”
+Luginbuhl said. “In the Chilkoti lab, Davoud and I were able to combine our
+respective backgrounds in organic chemistry and protein engineering, and as
+the number of contributors grew, so did the quality of the research.”
+
+“These building blocks are known in the field and now we have shown that
+combining them by forming covalent bonds, results in synergistic properties
+and self-assembly,” Mozhdehi said. “We hope to expand this method to other
+lipids and proteins and develop new tools and materials for the biomedical
+applications.”
+
+This research was funded by the National Science Foundation through the
+Research Triangle Materials Research Science and Engineering Center (MRSEC;
+DMR1121107), National Institutes of Health (NIH, R01 GM-061232). Duke
+University Shared Materials Instrumentation Facility and Analytical
+Instrumentation Facility at North Carolina State University are members of the
+North Carolina Research Triangle Nanotechnology Network, which is supported by
+the NSF (ECCS-1542015) as part of the National Nanotechnology Coordinated
+Infrastructure.
+
+CITATION: “Genetically encoded lipid-polypeptide hybrid biomaterials that
+exhibit temperature-triggered hierarchical self-assembly,” Davoud Mozhdehi,
+Kelli Luginbuhl, Joseph R. Simon, Michael Dzuricky, Rudiger Berger, H. Samet
+Varol, Fred C. Huang, Kristen L Buehne, Nicholas R. Mayne, Isaac Weitzhandler,
+Mischa Bonn, Sapun H. Parekh, and Ashutosh Chilkoti. Nature Chemistry, online
+March 19, 2018. DOI 10.1038/s41557-018-0005-z
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,267 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# ECE DISTINGUISHED SPEAKER SERIES: Utilizing Geometry and Topology for
+Designing On-Chip Chiral Photonic Infrastructure
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Feb 11
+
+_This event has passed._
+
+##  Friday, February 11, 2022 – 7:00AM to 8:00AM
+
+## Presenter
+
+Ritesh Agarwal
+
+## Abstract
+
+Spin (SAM, intrinsic) and orbital angular momentum (OAM, extrinsic) degrees of
+freedom (DOF) characterize the chiral nature of light. The interplay between
+SAM and OAM DOFs has sparked significant interest leading to discovery of new
+physics in both classical and quantum optics. These findings and their
+potential applications call for the manipulation of not only individual SAM
+and OAM scalar states as two separable DOFs, but also the entanglement between
+photons in both DOFs enabled by non-separable spin-orbit vectorial states,
+enabling their hyperentanglement that can lead to optical links with a higher
+channel capacity and enhanced security. To enable this emerging field of
+quantum hyperentanglement would require development of miniaturized on-chip
+photonic devices for robust generation, transport and detection of entangled
+states involving coupled SAM and OAM DOFs. However, this is not an easy task
+because most materials and devices are not sensitive to optical chirality. The
+development of on-chip chiral photonic devices requires fundamental
+investigations and manipulation of momentum space geometry and topology of
+materials and their coupling to the environment to engineer specific spin-
+orbit interactions to control and detect the vectorial states of light. We
+will discuss some recent developments in our laboratory towards the
+development of on-chip devices that produce different SAM-OAM states and
+photodetectors utilizing topological semimetals that are uniquely sensitive to
+SAM-OAM states. The direct transduction of photocurrents mapped to various
+SAM-OAM coupled states is engineered via nonlocal light-matter interactions
+that cannot be described within the electric-dipole approximation and requires
+a theoretical description accounting for the topology of electronic bands and
+light (OAM states with topological charge). We will also describe our efforts
+towards assembling topological photonic and polaritonic waveguides that can
+route signals based on spin (or pseudospin) degree of freedom. Either by
+protecting or breaking certain symmetries in (meta)materials, prospects of
+designing new photonic materials and devices will be discussed that can enable
+the next generation of classical and quantum photonic devices that can encode,
+manipulate, transmit and sense information encoded in different SAM-OAM modes
+of light.
+
+## Biography
+
+Ritesh Agarwal is a Professor in the Department of Materials Science and
+Engineering at the University of Pennsylvania. He earned his undergraduate
+degree from the Indian Institute of Technology, Kanpur in 1996, and a master’s
+degree from the University of Chicago. He received his PhD in physical
+chemistry from the University of California at Berkeley in 2001 researching
+ultrafast liquid and protein solvation and photosynthesis via multiple-pulse
+coherent nonlinear optical techniques. After completing his PhD., Ritesh was a
+postdoctoral fellow at Harvard where he studied the photonic properties of
+semiconductor nanowires. His current research interests include structural,
+chemical, optical and electronic properties of low-dimensional systems and
+development of new probes to study complex phases of natural and engineered
+materials. Ritesh is the recipient of the NSF CAREER award in 2007, NIH
+Director’s New Innovator Award in 2010 and the SPIE Nanoengineering Pioneer
+Award in 2014. In 2017 he became the director of a Multi-University Research
+Initiative on Phase Change Materials for Photonics, leading a team of six PIs
+from five universities. He was elected a Fellow of the Optical Society of
+America in 2020.
+
+## Zoom LInk:
+
+https://duke.zoom.us/j/91009817192?pwd=TXkvZGthMk5NZk1OYURpRFFPNmlqZz09
+
+## PASSCODE:
+
+493164
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

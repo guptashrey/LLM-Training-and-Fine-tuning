@@ -1,0 +1,240 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Printed Electronics Open Way for Electrified Tattoos and Personalized
+Biosensors
+
+October 3, 2019 | By Ken Kingery
+
+The first demonstration of a fully print-in-place electronics technique is
+gentle enough to work on surfaces as delicate as human skin and paper
+
+Electrical engineers at Duke University have devised a fully print-in-place
+technique for electronics that is gentle enough to work on delicate surfaces
+including paper and human skin. The advance could enable technologies such as
+high-adhesion, embedded electronic tattoos and bandages tricked out with
+patient-specific biosensors.
+
+The techniques are described in a series of papers published online July 9 in
+the journal Nanoscale and on October 3 in the journal ACS Nano.
+
+“When people hear the term ‘printed electronics,’ the expectation is that a
+person loads a substrate and the designs for an electronic circuit into a
+printer and, some reasonable time later, removes a fully functional electronic
+circuit,” said Aaron Franklin, the James L. and Elizabeth M. Vincent Associate
+Professor of Electrical and Computer Engineering at Duke.
+
+“Over the years there have been a slew of research papers promising these
+kinds of ‘fully printed electronics,’ but the reality is that the process
+actually involves taking the sample out multiple times to bake it, wash it or
+spin-coat materials onto it,” Franklin said. “Ours is the first where the
+reality matches the public perception.”
+
+> “Some of the more exotic applications include intimately connected
+> electronic tattoos that could be used for biological tagging or unique
+> detection mechanisms, rapid prototyping for on-the-fly custom electronics,
+> and paper-based diagnostics that could be integrated readily into customized
+> bandages.”
+
+The concept of so-called electronic tattoos were first developed in the late
+2000s at the University of Illinois by John A. Rogers, who is now the Louis
+Simpson and Kimberly Querrey Professor of Materials Science and Engineering at
+Northwestern University. Rather than a true tattoo that is injected
+permanently into the skin, Rogers’s electronic tattoos are thin, flexible
+patches of rubber that contain equally flexible electrical components.
+
+The thin film sticks to skin much like a temporary tattoo, and early versions
+of the flexible electronics were made to contain heart and brain activity
+monitors and muscle stimulators. While these types of devices are on their way
+to commercialization and large-scale manufacturing, there are some arenas in
+which they’re not well suited, such as when direct modification of a surface
+by adding custom electronics is needed.
+
+“For direct or additive printing to ever really be useful, you’re going to
+need to be able to print the entirety of whatever you’re printing in one
+step,” said Franklin. “Some of the more exotic applications include intimately
+connected electronic tattoos that could be used for biological tagging or
+unique detection mechanisms, rapid prototyping for on-the-fly custom
+electronics, and paper-based diagnostics that could be integrated readily into
+customized bandages.”
+
+In the July paper, Franklin’s lab and the laboratory of Benjamin Wiley,
+professor of chemistry at Duke, developed a novel ink containing silver
+nanowires that can be printed onto any substrate at low temperatures with an
+aerosol printer. It yields a thin film that maintains its conductivity without
+any further processing. After being printed, the ink is dry in less than two
+minutes and retains its high electrical performance even after enduring a 50
+percent bending strain more than a thousand times.
+
+In a video accompanying the first paper, graduate student Nick Williams prints
+two electronically active leads along the underside of his pinky finger.
+Toward the end of his finger, he connects the leads to a small LED light. He
+then applies a voltage to the bottom of the two printed leads, causing the LED
+to stay lit even as he bends and moves the finger.
+
+In the second paper, Franklin and graduate student Shiheng Lu take the
+conductive ink a step further and combine it with two other printable
+components to create functional transistors. The printer first puts down a
+semiconducting strip of carbon nanotubes. Once it dries, and without removing
+the plastic or paper substrate from the printer, two silver nanowire leads
+that extend several centimeters from either side are printed. A non-conducting
+dielectric layer of a two-dimensional material, hexagonal boron nitride, is
+then printed on top of the original semiconductor strip, followed by a final
+silver nanowire gate electrode.
+
+With today’s technologies, at least one of these steps would require the
+substrate to be removed for additional processing, such as a chemical bath to
+rinse away unwanted material, a hardening process to ensure layers don’t mix,
+or an extended bake to remove traces of organic material that can interfere
+with electric fields.
+
+But Franklin’s print-in-place requires none of these steps and, despite the
+need for each layer to dry completely to avoid mixing materials, can be
+completed at the lowest overall processing temperature reported to date.
+
+“Nobody thought the aerosolized ink, especially for boron nitride, would
+deliver the properties needed to make functional electronics without being
+baked for at least an hour and a half,” said Franklin. “But not only did we
+get it to work, we showed that baking it for two hours after printing doesn’t
+improve its performance. It was as good as it could get just using our fully
+print-in-place process.”
+
+Franklin doesn’t see his printing method replacing large-scale manufacturing
+processes for wearable electronics. But he does see a potential value for
+applications such as rapid prototyping or situations where one size doesn’t
+fit all.
+
+“Think about creating bespoke bandages that contain electronics like
+biosensors, where a nurse could just walk over to a work station and punch in
+what features were needed for a specific patient,” said Franklin. “This is the
+type of print-on-demand capability that could help drive that.”
+
+This work was supported by the Department of Defense Congressionally Directed
+Medical Research Program (W81XWH-17-2-0045), the National Institutes of Health
+(1R21HL141028) and the National Science Foundation (ECCS-1542015).
+
+CITATIONS: “Silver nanowire inks for direct-write electronic tattoo
+applications.” Nicholas X. Williams, Steven Noyce, Jorge A. Cardenas, Matthew
+Catenacci, Benjamin J. Wiley and Aaron D. Franklin. Nanoscale, Issue 30, Aug.
+14, 2019. DOI: 10.1039/c9nr03378e
+
+“Flexible, Print-in-place 1D-2D Thin-film Transistors Using Aerosol Jet
+Printing.” Shiheng Lu, Jorge A. Cardenas, Robyn Worsley, Nicholas X. Williams,
+Joseph B. Andrews, Cinzia Casiraghi and Aaron D. Franklin. ACS Nano, Oct. 3,
+2019. DOI: 10.1021/acsnano.9b04337
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

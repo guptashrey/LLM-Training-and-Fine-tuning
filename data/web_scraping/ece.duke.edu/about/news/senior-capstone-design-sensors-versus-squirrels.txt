@@ -1,0 +1,241 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Senior Capstone Design: Sensors Versus Squirrels
+
+May 2, 2022 | Miranda Volborth
+
+Duke Engineering students in one senior design course created sensor systems
+that drove away pests and protected plants from harsh conditions
+
+Last year was a particularly bad year for my garden. Deer stripped the apples
+from the trees, the blueberries from the bushes and the blackberries from the
+canes. Birds pecked holes in the tomatoes. Even the tulip bulbs were dug up
+and snacked upon by ravenous rabbits.
+
+Duke University professors of electrical and computer engineering Nan Jokerst
+and Martin Brooke have had similar problems at their farm. They have tried
+trapping and relocating the raccoons and other pests that were destroying
+their crops, said Brooke, but they had little success.
+
+This spring, they tried a different approach: challenging their senior-level
+design class at Duke's Pratt School of Engineering to solve their garden
+problems.
+
+> Final projects included a motion-activated box that screamed like it was
+> being murdered when anything with a heat signature came near it and a
+> contraption that squirted lavender-scented water at feathered and furred
+> intruders.
+
+The Duke class, ECE 449: Sensors and Sensor Interfaces, is the capstone class
+meant to synthesize everything students have learned as they’ve worked toward
+earning their undergraduate degree. Several sections of the capstone are
+offered every year, and each has a different focus, so students can choose a
+topic of interest to them.
+
+This spring, if they chose the section taught by Jokerst and Brooke, the
+students could pick whether they wanted to design a sensor system to actively
+detect and deter garden pests or one that could protect vulnerable new
+seedlings from harsh environmental conditions.
+
+From there, Brooke and Jokerst sorted the 39 students into seven small teams,
+each of which took a wildly different approach to their challenge. The final
+projects included a motion-activated box that screamed like it was being
+murdered when anything with a heat signature came near it and a contraption
+that squirted lavender-scented water at feathered and furred intruders. There
+was also a wooden frame with a shade cloth that mechanically unrolled across
+the top to protect seedlings if the day became too sunny. It also folded down
+into a tidy package with a carrying strap, which earned its team members bonus
+points.
+
+That system was designed by Malvika Jain, Rachel Luria, Oscar McMullen, Luke
+Turkovich and Livia Seibert. The team was nervous about its final
+demonstration and had specific concerns about their system’s solar power
+source. (“Our battery is losing voltage at this very minute,” one team member
+muttered to another as they waited for their turn to present on Demo Day, the
+last day of class.) Integrating all the components had been very tough, they
+admitted, and they figured it all out only through what McMullen called
+“aggressive noodling.”
+
+“The systems are only solar powered, with a battery so they can run at night,
+so the teams have to come up with a power budget. They have to figure out the
+levels of power and current that each component requires and then make all the
+components work together,” said Jokerst. “It might seem simple, but it’s
+actually very difficult.”
+
+And it was only one aspect of many that the students were graded on. Brooke
+and Jokerst don’t live on their farm, so the ability to check in on conditions
+there without stepping foot on the property is key. Each team, therefore, also
+had to demonstrate that its system could be controlled remotely from a
+computer or cell phone and that it could collect and report the information to
+the user daily. Basic structural elements like portability, weatherproofing
+and ease of use also had to be considered.
+
+The teams took opportunities to learn from each other during their weekly
+classroom presentations. If one team had success with a tricky task—like
+stepping voltage up or down—students on other teams were allowed to ask,
+explicitly, how they had achieved it. (Jokerst calls this practice “industrial
+spying,” and said it’s encouraged.)
+
+> “There’s a significant difference in the students who have taken First-Year
+> Design. There’s no ‘random walk.’ They have learned that design is a
+> process, so their approach is systematic.”
+>
+> **Nan Jokerst** | Professor of Electrical & computer engineering
+
+In the end, all the teams’ systems seemed—to some degree—to work. Jokerst gave
+some of the credit for the class’s high success rate to the fact that this
+year’s seniors were the first cohort to have started their engineering
+education with Duke Engineering’s signature First-Year Design curriculum.
+“There’s a significant difference in the students who have taken First-Year
+Design,” said Jokerst. “There’s no ‘random walk.’ They have learned that
+design is a process, so their approach is systematic.”
+
+“They also start to build much more quickly because they understand the value
+of prototyping,” added Brooke.
+
+The team I spoke with agreed that following familiar processes helped, even in
+a less regimented environment. They also honed some soft skills; effective
+time management and scheduling was critical to getting the complex project
+done, they said.
+
+They will surely lean on these skills in the coming years as they launch their
+careers. Of the graduating seniors on this team, two are headed to Seattle to
+work for Microsoft and Google and another is taking a job in Austin with
+semiconductor manufacturer AMD.
+
+As each team wrapped up its final presentation, they faced the last, most
+important question from Jokerst.
+
+“Did you have fun?” she asked.
+
+More from Duke ECE
+
+## Related News
+
+December 07, 2021
+
+### Solutions for Seedling Sunburn, Runaway Trash Bins and Other Woes
+
+September 04, 2019
+
+### 'I Can Do This'—Duke’s First-Year Design Course Boosts Student Self-
+Efficacy
+
+May 04, 2018
+
+### What Happens When a Dolphin Holds Its Breath?
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

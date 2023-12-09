@@ -1,0 +1,257 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# X-ray Scanner Spots Cancers and Analyzes Drugs in Minutes
+
+June 8, 2021 | By Ken Kingery
+
+New technology could speed cancer diagnosis, ensure surgeons remove 100% of a
+tumor and inspect drugs for dangerous chemicals
+
+Engineers at Duke University have demonstrated a prototype X-ray scanning
+machine that reveals not just the shape of an object but its molecular
+composition. With unprecedented resolution and accuracy, the technology could
+revolutionize a wide range of fields such as cancer surgery, pathology, drug
+inspection and geology.
+
+Many of the ideas behind the prototype were originally conceived in the
+pursuit of performing better bomb detection for aviation security. In the new
+paper, published online May 19 in the journal Scientific Reports, the
+researchers adapted the technology for several targeted scientific and medical
+applications.
+
+“Whether you’re trying to spot a bomb in a bag or a tumor in a body, the
+physics is more or less the same,” said Joel Greenberg, associate research
+professor of electrical and computer engineering and faculty of the medical
+physics program. “But from an engineering point of view, the constraints on
+the two are very different. We built this smaller, higher-resolution device to
+demonstrate that our approach could be used for a number of different
+applications.”
+
+The technology is a hybrid X-ray system that combines conventional X-ray
+transmission radiography with X-ray diffraction tomography. The former
+involves measuring the X-rays that pass straight through an object. The latter
+involves gathering deflection angle and wavelength information from X-rays
+that have scattered (or bounced) off of an object, which provide a sort of
+“fingerprint” unique to that material’s atomic structure.
+
+One of the hurdles to adopting this technology is that the scattered X-ray
+signal is typically very weak and complex. This results in very few X-rays
+reaching the detector with each image captured, which leads to long delays
+while the scanner gathers enough data for the job at hand.
+
+The Duke team’s approach uses a coded aperture, a sort of pierced shield that
+allows X-rays traveling at many different angles to pass through its holes.
+The trick is in knowing the exact pattern being used to block the X-rays,
+which a computer can then use to process the larger, more complex signal. This
+allows the researchers to gather enough deflected X-rays to ID the material in
+a shorter time span.
+
+In the paper, the researchers developed a new method for creating high-
+quality, 3D coded apertures, designed a new machine end-to-end with a user
+interface and compact footprint, and built a prototype using off-the-shelf
+components regularly used in medical imaging.
+
+"Designing improved algorithms and implementing advanced manufacturing was
+essential to achieving the desired imaging performance" said Stefan Stryker, a
+PhD student and first author on the paper.
+
+“Security scanning systems have different goals than an oncology lab,” said
+Anuj Kapadia, who was an associate professor of radiology and faculty in Duke
+medical physics at the time of performing the research but is now at Oak Ridge
+National Laboratory. “Security systems need to peer through tens of
+centimeters of random objects in a matter of seconds, whereas our goal was to
+get a high-resolution image of a small, well-defined specimen with less of a
+time restraint.”
+
+The biggest challenge tackled by the prototype scanner involved making
+accurate diagnoses of potentially cancerous tissues. Working with colleagues
+at Duke Health, the researchers scanned tissue lumpectomies before they were
+sent to the resident pathologists for their clinical workups. The scanner not
+only matched the clinical diagnosis accurately, but it also reliably
+distinguished between the subtypes of tissue in and around the cancerous
+tissue.
+
+“Our eventual goal is to have one of these scanners in every operating room so
+that surgeons can get an instantaneous diagnosis as soon as the cancer is
+removed, and they can immediately check to see if any cancerous cells are
+present on the edges,” said Kapadia. “That way, if there’s any suspicion that
+they missed some of the cancer, they can immediately go back and get the
+rest.”
+
+“While margins can often be evaluated by pathologists while the patient is
+still in the operating room, for tissues like breast, specimens removed at
+surgery require a 24-hour processing cycle before their margins can be
+properly assessed,” said Shannon McCall, associate professor of pathology,
+vice chair for translational research in the department of pathology, and
+director of the Duke BioRepository & Precision Pathology Center (Duke BRPC).
+“If this new instrument allowed us to accurately assess the margins of these
+types of tissues while the patient was still in the operating room, that would
+be fantastic. Women could potentially be spared additional surgical
+procedures.”
+
+The researchers then showed that the scanner could provide a real-time
+analysis of pharmaceuticals. Not only could this help manufacturers ensure
+their product is reliable, but it could also be used by police forensics
+departments or public health campaigns to make sure people are not selling or
+overdosing on tainted drugs.
+
+The scanner also proved capable of quickly analyzing rocks lent to them by an
+amateur collector, Greenberg’s nine-year-old daughter, Madelyn. Such analyses
+could be useful for archaeologists studying fossils or miners making decisions
+about which ore to use in their extraction facilities.
+
+Moving forward, the research team has a grant from the National Institutes of
+Health to optimize the scanner for tissue samples. Quadridox Inc., which was
+founded by Greenberg and Kapadia along with colleagues Michael Gehm (Duke) and
+Amit Ashok (University of Arizona), is pursuing translating the technology
+into products that might instead be optimized for larger rocks, quicker
+pharmaceutical scans or biospecimen analyses.
+
+“We built this scanner to show all of the different types of things that it
+could accomplish,” said Greenberg. “But a commercial machine for each
+application might have its own set of engineering variations, such as the way
+in which we make measurements, the choice of sensors or the architecture.”
+
+“If you were going to design a projector, you would need to know if it was
+going to be used in a dark theater or in broad daylight. The specifications
+would be completely different,” added Kapadia. “Similarly here, our goal is to
+find many applications where these sorts of scans could be useful, and then
+engineer a variety of scanners to fit their specific needs.”
+
+This research was supported by the North Carolina Biotechnology Center
+(2018-BIG-6511) and the U.S. Department of Homeland Security
+(18STEXP00001-03-02).
+
+CITATION: “X-Ray Fan Beam Coded Aperture Transmission and Diffraction Imaging
+for Fast Material Analysis,” Stefan Stryker, Joel A. Greenberg, Shannon J.
+McCall & Anuj J. Kapadia. Scientific Reports 11, Article number 10585 (2021).
+DOI: 10.1038/s41598-021-90163-0
+
+## Related News
+
+February 19, 2020
+
+### A Speedier and More Accurate Future for Airport Security Screening
+
+October 10, 2019
+
+### Safe Travels
+
+December 07, 2018
+
+### Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,322 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2017
+
+# Meet the Pratt Research Fellows
+
+June 23, 2017
+
+The Pratt Research Fellows are a distinguished group of engineering
+undergraduates who do extensive research in their engineering major during
+their final two years at Duke.
+
+The Pratt Research Fellows are a distinguished group of engineering
+undergraduates who do extensive research in their engineering major during
+their final two years at Duke. The Fellows are selected during their junior
+year on the basis of their academic record and research interests, and many go
+on to publish their work in scientific journals and continue careers in
+research. Let's meet a few of these scholars!
+
+## Hunter Anne Hutchinson
+
+_Genome Engineering_
+
+Hunter is a biomedical engineering major whose research focuses on genome
+engineering. Her Pratt Research Fellows project is an extension of the work
+she started after her freshman year in the Gersbach Lab and has applications
+in degenerative neurological diseases and pharmacology. She and her graduate
+mentor recently published a paper about their research in the scientific
+journal _Cell Stem Cell_.
+
+**Tell me about your project.**
+
+"We're using the CRISPR/Cas9 technology to turn skin cells into neurons. We do
+this by targeting three specific genes (essentially turning them on), and then
+the cells reprogram into neurons. Right now we're using the technology to try
+to assess the functional maturity of the neurons that we actually get, [and]
+we also look at the epigenetics of the cells."
+
+**What was the most challenging aspect of this project?**
+
+"Managing the time it takes to do research as an undergrad. Research is very
+slow, and the timeline is unpredictable because things never go according to
+how you want them to. You have to be extremely organized and proactive about
+planning your individual timeline, because you have the responsibility for
+making things happen. Some weeks are harder than others, but you owe it to
+your graduate student and PI to do the work they expect you to do."
+
+**Future plans?**
+
+"I'm thinking about jobs that I can use my biomedical engineering background
+in. I've gained a lot of skills through doing research, such as being able to
+look at large amounts of data and synthesize it, assess quantitative and
+qualitative data, read the literature, and know which approaches to implement.
+The good thing about the Pratt Research Fellows Program is that it gives you a
+lot of skills that are translatable into the work environment. So right now
+I'm looking at biotech jobs and life science consulting jobs."
+
+## Efe Aras
+
+_Preparing for Driverless Cars_
+
+Efe is a triple major in electrical and computer engineering, computer
+science, and mathematics, working in the lab of ECE assistant professor Galen
+Reeves. His research is on the topic of driverless cars in Durham, and he will
+soon be submitting his work to a scientific journal.
+
+**Tell me about your project.**
+
+"I tried to understand what would happen to traffic once driverless cars were
+on the road. There are a couple of innovations going on right now [to prepare
+for that], like changing the infrastructure, but what we wanted to check was
+whether driverless cars could provide innate advantages by themselves."
+
+**Why did you choose this topic?**
+
+"As an engineer, I feel like one of the most important skills that we learn is
+how to be aware of the trends. Self-driving cars will presumably be a 'thing,'
+so I thought understanding their behavior was important."
+
+**What are the next steps for this project?**
+
+"We have a couple more things to do. There are map features that we can
+download so we can simulate driverless cars on real networks as opposed to
+more theoretical ones. These features include different grid layouts and
+street structures, [which will enable us to] simulate it on Durham, one of our
+initial goals."
+
+**Future plans?**
+
+"Right now, I'm still thinking! I'm exploring the options of either going to
+graduate school or going into industry. The cool thing about the challenges I
+faced with this project was that they were not specific to driverless cars,
+but instead related to data generation and research in general. So do I want
+to do something specifically with driverless cars? I haven't decided yet."
+
+## Gautam Chebrolu
+
+_Signal Processing for Brain-Computer Interfaces_
+
+Gautam is a double major in biomedical engineering and electrical and computer
+engineering. He did his Pratt Research Fellows project with BME/ECE professor
+Leslie Collins in signal processing for an EEG-based brain computer interface,
+which has applications in predictive technology for seizures.
+
+**Tell me about your project.**
+
+"Essentially, there are a bunch of electrodes inside your brain, and they
+produce voltages during brain activity. These voltages can be picked up and
+recorded, and we're taking that data and seeing whether we can apply some
+machine learning on it to predict seizures. There's a supposed state called
+the preictal state, which is when things change in the brain and you're
+supposed to be able to predict a seizure. The preictal state could be anywhere
+between 10 to 30 minutes before a seizure, and that's when patients report
+that they feel a little different, but they can't actually pinpoint it. So we
+assume that there's a preictal state, and we compare that to the interictal
+state. The interictal state is the state between different seizures, or normal
+brain function. By using time gaps in our recordings of data, we were able to
+more accurately distinguish between the preictal and interictal states."
+
+**What was your inspiration for this project?**
+
+"It was something that my team had worked on years ago. They didn't think it
+was going anywhere, so they just dropped it. But then I joined because I
+wanted to apply both my biomedical and electrical engineering backgrounds, so
+the project I'm working on is an extension of the original. Right now, I'm
+trying to make better algorithms using two different types of biomarkers, EEG
+and ECG."
+
+**What was the most challenging aspect of this project?**
+
+"I think it was mostly getting up to speed with everything. Even though I was
+technically qualified because I had taken a 'signals and systems' class, I
+didn't know anything about how to conduct the statistical analysis on the
+algorithms' performance. The entire summer, I actually spent the entire summer
+replicating a previous paper and getting up to speed on MATLAB."
+
+**Future plans?**
+
+"I'm applying to many different things! One of the biggest problems with this
+topic is that devices have already been created for it, and they use a very
+crude algorithm. So I do not think I'll work in this specific space, but I
+will definitely use the skills I gained because they're applicable to so many
+different situations."
+
+## William Floyd-Jones
+
+_Robot Motion Planning_
+
+William is double-majoring in electrical and computer engineering and computer
+science. His Pratt Research Fellows project, mentored by ECE professor Daniel
+Sorin, was about special-purpose computer processors for robotics,
+specifically focused on how to accelerate the process of robot motion
+planning.
+
+**Tell me about your project.**
+
+"There's a problem in robotics called robot motion planning, which is a
+computationally difficult problem in that it traditionally takes on the order
+of seconds to find solutions. So you have your robot—in this case, let's just
+say it's a robot arm. The robot arm sets some start configuration where all
+the joints are at specific angles, and you hope to get it to an end
+configuration so you can perform some task. That's what robot motion planning
+is: moving around your environment without bumping into things. The issue is
+that this takes a long time, so we work on building special computer chips to
+make this happen faster. We do it by pre-computing as much as possible; we
+basically solve the problem as much as we can ahead of time and 'bake' that
+into the logic of the chip. We found a way to accelerate the process by four
+to five orders of magnitude, so now it'll run in tens or hundreds of
+microseconds instead of seconds."
+
+**Have you always been interested in robotics?**
+
+"I don't know if I've always been interested in robotics, but I've definitely
+developed a keen interest in robotics since I started working on this
+project."
+
+**What was the most challenging aspect of this project?**
+
+"There are lots of hard parts about this project. There have been a couple of
+times when we've had to devise algorithms to solve challenging sub-problems,
+and a lot of these algorithms are computationally complex. Neither I nor the
+graduate student I work with are algorithms people— we're systems people—so
+those problems are difficult for us."
+
+**Future plans?**
+
+"My professor, the graduate student I work with, a professor at Brown
+University, and I are going to launch a spin-off startup company. We hope to
+design and fabricate chips for the purpose of robot motion planning and supply
+them to robotics companies."
+
+**Natalie Le is a sophomore studying Computer Science and Economics. She
+enjoys acting as a liaison between Trinity and Pratt and has research
+interests in virtual reality.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2017
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

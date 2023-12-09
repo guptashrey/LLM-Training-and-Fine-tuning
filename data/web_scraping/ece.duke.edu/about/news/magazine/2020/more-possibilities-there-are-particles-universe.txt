@@ -1,0 +1,576 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# ‘More Possibilities Than There Are Particles in the Universe’
+
+October 12, 2020 | Miranda Volborth
+
+Duke Building a World-Class Team for the Quantum Computing Race
+
+Jungsang Kim was a bit of an anomaly at Duke when he joined the faculty in
+2004. Fresh out of the telecommunications industry, and with a PhD in physics
+from Stanford, Kim soon filled his new Duke lab in electrical and computer
+engineering with delicate, complex constructions marrying physics and
+engineering: reconfigurable optical systems whose tiny mirrors—each about the
+span of a single eyelash—were micro-machined from silicon and designed to work
+in parallel to precisely steer beams of laser light.
+
+The next year, Kim published a proposed optical approach to ion
+trapping—holding a charged atom in place with electromagnetic fields and
+manipulate them with laser light—and made it official: Duke had its first
+quantum information lab.
+
+## Duke's Quantum Leaps » Scroll to View
+
+  * **2021** Duke Quantum Center will open its doors in downtown Durham, NC
+  * **2020** IonQ debuts a 32-qubit quantum computer, the most powerful in the
+    world to date
+  * **2020** DoE awards $115 million to Lawrence Berkeley Laboratory for the
+    Quantum Systems Accelerator, with $11 million to Duke to fabricate and use
+    multiple generations of ion trap quantum computers
+  * **2020** IonQ begins offering quantum computing services over the cloud
+  * **2020** Monroe and UMD colleagues Marko Cetina and Crystal Noel accept
+    positions at Duke
+  * **2019** IonQ closes on $62 million in venture capital investments
+  * **2018** National Quantum Initiative enacted
+  * **2018** MURI awards a 5-year, $9 million grant to Duke to develop a
+    “spectator qubit” that spies on the noise within a closed quantum system,
+    allowing the other qubits to be more effectively controlled
+  * **2018** Brown named director of the $18 million, NSF-funded STAQ program,
+    a seven-site consortium of quantum theorists and experimentalists
+  * **2018** Kenneth Brown joins Duke from Georgia Tech
+  * **2018** Theoretical physicist Iman Marvian joins Duke
+  * **2017** Startup company IonQ closes on $20M in venture capital
+    investments
+  * **2016** MURI awards a 5-year, $6.25 million grant led by Monroe, Kim, and
+    Brown at UMD and Duke to investigate modular quantum computing
+    architectures
+  * **2016** IARPA awards a five-year, $32 million grant to a
+    Duke/Maryland/Georgia Tech partnership, EURIQA, whose goal is to develop a
+    quantum computer to demonstrate fault-tolerant implementation of quantum
+    error correction
+  * **2015** Kim and Monroe launch IonQ, a translational research endeavor
+    aimed at bringing quantum computing technologies to market
+  * **2010** IARPA awards a five-year, $15 million grant to a
+    Duke/Maryland/Georgia Tech to implement the MUSIQC architecture
+  * **2007** Monroe successfully teleports a single atom over 1 meter at the
+    University of Maryland, using a technique that Kim and Monroe develop into
+    a modular universal scalable ion trap quantum computer architecture
+    (MUSIQC)
+  * **2006** Kim co-founds optical sensing systems company AQT
+  * **2004** Jungsang Kim joins Duke ECE, establishes the university's first
+    quantum information lab
+
+Kim was in the vanguard of the growing field of physicists and computer
+architects dreaming of a quantum computer—a machine that in theory could
+explore vast numbers of possible outcomes simultaneously, addressing problems
+much too dense for even the best classical supercomputers to tackle. With a
+functioning quantum computer, problems abandoned as intractable long ago, like
+creating accurate models of weather systems or predicting the ebbs and flows
+of financial markets, could be dusted off and brought back to the table.  
+  
+Kim’s single lab has now drawn an entire constellation of quantum computing
+experts into its orbit at Duke. Among the first were quantum information
+theorist Iman Marvian, a postdoc at MIT, and Kim’s long-distance collaborator
+Kenneth Brown, a faculty member at Georgia Tech and an expert in quantum
+control and error correction. Brown was initially skeptical about Duke’s
+potential to build a quantum center.
+
+“When I came from Georgia Tech to interview, Dean [Ravi] Bellamkonda suggested
+there could be future growth in quantum information at Duke beyond hiring Iman
+and me. This was promising, but I assumed he was just sweet-talking me,” said
+Brown, who nonetheless accepted the offer. “I was wrong.”
+
+With new support from the Duke Endowment to hire top-level new faculty in
+science and technology, Kim and Brown have been empowered to recruit
+outstanding colleagues at the forefront of quantum computing, including some
+senior faculty and long-term collaborators.
+
+“Word got out in the community that Duke was serious about quantum information
+and willing to put in the resources,” said Brown.  
+  
+In the coming year, a trio of quantum information scientists and engineers
+will further expand Duke’s quantum capabilities when they transition from the
+University of Maryland: physicist Marko Cetina, quantum experimentalist
+Crystal Noel, and Kim’s and Brown’s longtime collaborator and the architect of
+the U.S. National Quantum Initiative, Chris Monroe.
+
+Construction is currently underway on a 10,000-square foot expansion of Duke’s
+existing quantum computing center in the Chesterfield Building, a former
+cigarette factory in downtown Durham. The new space will house what is
+envisioned to be a world-beating team of quantum computing scientists. The
+DQC, Duke Quantum Center, is expected to be online in March 2021 and is one of
+five new quantum research centers to be supported by a recently announced $115
+million grant from the U.S. Department of Energy.
+
+The center puts together under one roof the longstanding collaboration between
+Kim, Monroe and Brown, who have attracted over $100 million of federal
+research grants over the past dozen years while working at separate
+institutions.
+
+Iman Marvian, Jungsang Kim and Kenneth Brown in Kim's lab in The Chesterfield
+building in downtown Durham
+
+## Making Sense of Quantum
+
+Duke’s growing quantum dream team has a bold goal: to launch a quantum
+computing laboratory where staff and users co-develop bespoke algorithms to
+solve the most complex optimization problems out there.
+
+Creating a realistic virtual model of teleporting through a wormhole between
+two black holes may not be an immediately marketable idea, but it sure is a
+compelling one.
+
+But before that happens, there’s work to be done in making over the public
+perception of “quantum,” a word that has become synonymous with “too
+complicated to comprehend.” (After all, if quantum physics admittedly
+perplexed Albert Einstein, what chance do we mere mortals have of
+understanding its principles?)
+
+“One of the misperceptions of the field is that quantum physics is hard,” said
+Monroe who will direct the new Duke Quantum Center.
+
+That assumption, said Monroe, stems from a tenet unique to quantum computing,
+called superposition. In classical computers, bits are binary. They are ones
+or zeroes, yesses or nos. If you stack enough of these up, you get a streaming
+movie or an Amazon recommendation based on your shopping habits. In trapped
+ion quantum computers, like the ones that will anchor Duke’s new center, the
+system’s bits are quantum bits, or qubits, that exist as a combination of both
+0 and 1, yes and no, simultaneously. That’s superposition.
+
+Superposition by itself is nothing new, as it is a standard property of the
+waves that carry sound or light. But quantum superpositions become complex
+with more qubits. Every time another qubit is added, there are twice as many
+possibilities, leading to exponentially many configurations, all at the same
+time.
+
+But qubits only maintain superposition if they’re nearly perfectly isolated.
+When you try to measure their value, they assign themselves a value at
+random—for computing purposes, they can become worth even less than an
+ordinary bit because they’re equivocal. A useful quantum computation cajoles
+the qubits and their complex superpositions, without measuring them, to just a
+few (or even one) possibility, and finally upon measurement, the answer can
+depend on all those parts of the superposition.
+
+Quantum physics is not difficult in the same sense as trying to model ocean
+waves or other problems of incredibly complicated mathematics, according to
+Monroe. It’s just strange that quantum measurement collapses the system — that
+merely looking at something must affect it.
+
+“Here’s the problem with quantum and why it has attracted so many
+philosophers: We don’t experience this type of superposition of reality in
+everyday life,” said Monroe. “We make sense of the world through analogy, and
+there’s no real-world analogy to quantum physics.”
+
+> “We make sense of the world through analogy, and there’s no real-world
+> analogy to quantum physics.”
+>
+> **Chris Monroe**  
+>  Director, Duke Quantum Center
+
+The closest we can come, perhaps, is to imagine a coin spinning on a table. In
+motion, it’s in something like superposition—both heads and tails. When we
+interrupt its path, it lands on either heads or tails, becoming a simple bit.
+
+A qubit has the added aspect of probability, Monroe said. A coin will land on
+heads 50 percent of the time. But a qubit might at any given time be 50/50
+heads and tails, or 90/10 heads and tails. When you consider an array of
+qubits, the possible combinations suddenly become almost endless.
+
+Probabilities are useful in many other contexts, such as estimating the stock
+market or predicting the weather—but in these cases probabilities neatly
+express our ignorance. In quantum physics this is not the case—we _must_ use
+them, and that is weird. This is the point at which Einstein threw in the
+towel on quantum mechanics, famously declaring, “God does not play dice.”
+
+Though Einstein never embraced the field, a growing group of physicists and
+engineers have brought these strange physical laws to computing, funded
+aggressively by government agencies and private industry, because the promise
+is so great. These temperamental collections of qubits and the fussy, super-
+cold machines that handle them have the potential to solve intractable
+computing challenges, like breaking “unbreakable” cryptography—the golden ring
+some of these funding agencies have their eyes on.
+
+## The Quest for the Golden Ring
+
+The success of public-key encryption relies on how difficult it is to factor a
+product of two large prime numbers. Your credit card information, for example,
+can be encoded quite easily, but is nearly impossible to decode without having
+the key—a designated set of factors—because a classical computer would have to
+check an impossibly large number of possible solutions one at a time.
+
+Everyone was feeling pretty good about this encryption technique until 1994,
+when Peter Shor, now a math professor at MIT, theorized that large numbers
+could be factored quite effectively with a quantum computer. It wouldn’t need
+to check solutions one by one, like a classical computer—a quantum computer
+could look at all the possible solutions at once, eventually converging on a
+likely answer.
+
+Shor’s new algorithm, of course, had people snapping to attention. Public-key
+encryption was and still is used is to establish secure communications over
+the internet, and trillions of dollars of commerce are exchanged every day
+under its umbrella. There would be almost unimaginable national security
+implications if previously unbreakable code was suddenly as useful as a VHS
+tape or an overhead projector.
+
+Governments and private companies started pumping money into the cybersecurity
+problem more than 20 years ago, each determined to be the first to have the
+quantum decryption technology in hand. Even if it would be decades away, it
+was critically important to know when such code-breaking technology might be
+available.
+
+It was suddenly a race, and the collaborative work of Kim and Monroe set a
+brisk pace. The two have been competing not only with other academic research
+groups but also with large tech companies. In 2015, they co-founded their own
+company, IonQ, which now offers quantum computing via Amazon Web Services for
+a small class of commercial users. That computer is designed to run
+autonomously and focus on high performance, unlike the more experimental,
+highly reconfigurable machines they’re building in their academic labs.
+
+On both fronts, they’re up against the biggest big-guys of corporate research.
+IBM has long-standing quantum research initiatives, and Google and Microsoft
+have been recruiting engineers and physicists from universities to assemble
+their quantum teams.
+
+The tech giants have approached the challenge by storing information in the
+electrical states of circuits or superconducting currents. This circuitry can
+be etched onto chips and manufactured, so it makes sense that industry
+researchers would continue in the direction they already are traveling.
+
+A few companies have so far successfully deployed small-scale quantum
+computers in the cloud. But etched qubits are susceptible to manufacturing
+defects, creating unreliable variability. This is no problem for conventional
+computing, but intolerable for quantum computing.
+
+The academic researchers at Duke are betting that their approach—qubits made
+from individual atomic ions floating in a vacuum—will lead to the first
+practical, scalable quantum computer. The trapped ions Duke researchers are
+using are ytterbium atoms (a rare-earth element: atomic number 70, isotope
+171) which Monroe deems perfect. “They’re a gift from Mother Nature. They’re
+absolutely identical.”
+
+To transform atoms into qubits, the scientists need only to strip them of one
+electron, giving each a positive charge that allows it to be held in place
+with an electromagnetic field. The trapped ions form an atomically-perfect
+crystal, then specially-tuned lasers coax each into one of two electronic
+energy levels, the 0 and 1. Subsequent laser pulses prepare the qubit
+collection in an arbitrary superposition of their qubit values. In this way,
+the atomic qubits become ‘entangled’ with each other, with the state of one
+inevitably tied to the states of others. Quantum information can be encoded
+not just onto the qubits themselves, but also into their entangled
+correlations.
+
+The qubit states are manipulated and interpreted with an array of precisely
+calibrated lasers controlled by custom-made software. The qubits can thus be
+written and read despite their complexity.
+
+It’s a strange idea—like sending a letter via sunbeam or jotting down a note
+on a storm cloud. “But not hard,” maintains Monroe. “Every single component of
+our computers are actually fairly simple. I don’t feel like I have any special
+knowledge in this field, other than sensing opportunity.”
+
+Brown might disagree; he calls Monroe “the best ion trapper in the world.”
+Brown himself is an expert in quantum error correction theory—spotting when a
+qubit flips out of superposition to a mere 1 or a 0, and correcting it with a
+magnetic pulse. He oversees a busy lab that creates myriad tools to make
+quantum systems more robust, from the engineered systems themselves to the
+software that controls them.
+
+The emerging Duke Quantum Center’s team of varied specialties meshes like the
+talents of a superhero squad.
+
+Jungsang Kim is an expert in quantum optics, the pulsing, steering and
+splitting of lasers that manage and measure spin states. Marko Cetina
+specializes in ion traps and cold neutral atoms, a related quantum system with
+great promise. And Crystal Noel, who has spent years working on trapped ion
+systems, first at the University of California-Berkeley and then in Monroe’s
+lab, will bring additional experience in dealing with noise processes in ion
+traps that can cause quantum systems to fall apart.
+
+All of this talent will translate to better integrated optical engineering,
+better trap design and fabrication, more precise control systems, and wider
+applicability of quantum computers.
+
+As they learn how to assert tighter control over its system, the Duke team can
+add more and more qubits, exponentially increasing computing power.
+
+“Every time you add a qubit, you double your possible outcomes,” Monroe said.
+“With 20 qubits there are a million possible outcomes. With 100 qubits, you
+have more possibilities than there are bits in all the hard drives in the
+world. With 300 qubits—that’s more possibilities than there are particles in
+the universe.”
+
+To be clear, ‘one-to-one problems,’ where every input results in a single
+output, are best left to classical computers. “Quantum computers stink at
+that,” said Monroe. “However, there are a whole class of problems that are not
+one-to-one—like optimization problems or minimizing very complex functions.
+Models of the stock market, for example, involve many indicators—what’s the
+value of those indicators to maximize your portfolio or minimize your risk? We
+tend to give up on these types of problems because they are too difficult.”
+
+Weather prediction remains a lot harder than it looks because of the
+complexity of the variables at work in the models. You’d essentially need to
+treat countless cells in the atmosphere and their interactions with each other
+to really nail it. That makes solving weather models an intriguing and highly
+relevant application to explore. Simulating the behavior of complex molecules
+is another, with potential applications in energy production and
+pharmaceutical development. Predicting trends in the stock market and helping
+us understand high-energy physical phenomena are all within the realm of
+possibility.
+
+A viable commercial quantum computer will probably come in around the
+100-qubit mark, says Kim. Monroe said his lab has a pretty good lock on a
+system that uses 20 qubits and has been playing around with a 50-qubit system
+at Maryland. That system and the next generation will be at Duke in 2021, in
+addition to smaller and better-engineered systems moving forward.
+
+Monroe said these devices also reflect some of what IonQ has learned from
+building a 32-qubit system, announced in October, that appears to be the most
+powerful quantum computer in the world at the moment.
+
+Despite their progress, the Duke team agrees that getting close enough to grab
+the golden ring—breaking public-key cryptography—is still at least a decade
+away.
+
+Surface ion trap
+
+## Discovering Quantum’s Superpowers
+
+Monroe’s 20-qubit system, the Error-corrected Universal Reconfigurable Ion-
+trap Quantum Archetype, or EURIQA, is the first generation of an evolving line
+of quantum computers that will be available to users in Duke’s Scalable
+Quantum Computing Laboratory, or SQLab. The machine was built with funding
+from IARPA, the U.S. government’s Intelligence Advanced Research Projects
+Activity. Once it’s reassembled and recalibrated in the Chesterfield Building
+and everyone is in place, the SQLab intends to offer programmable,
+reconfigurable quantum computing capability to engineers, physicists,
+chemists, mathematicians or anyone who comes forward with a complex
+optimization problem they’d like to try on a 20-qubit system.
+
+Unlike the quantum systems accessible only in the cloud, the DQC computer will
+be customized for each research problem, with open access to its guts—a more
+academic approach to solving quantum riddles.
+
+The DQA will join the STAQ-1 cryogenic ion trap system constructed by Kim and
+Brown as part of the National Science Foundation funded Software-Tailored
+Architectures for Quantum co-design (STAQ) project. Users are expected to come
+from government agencies and private industry, but also from other
+universities, where problems of interest may have huge academic impacts,
+rather than solely commercial ones, such as modeling high-energy space
+physics.
+
+Brown says that as excited as he is about establishing a stable, open,
+academic platform for computer architects and engineers to develop quantum
+operating systems, he is equally jazzed to continue his own research on
+quantum error correction codes and fault-tolerant quantum computing on a real
+system. His enthusiasm is shared by colleagues at NC State University, UC
+Santa Barbara, Georgia Tech, Chicago, Harvard, UC-Berkeley, and Princeton, who
+have all reached out to DQC to start conversations about testing their own
+ideas at the SQLab.
+
+“I feel like we’re in the equivalent of the early days of traditional
+computers. We’ve got the first machine, and we’re finding out what it can be
+useful for,” Kim said. “Have you seen the movie _Hidden Figures_? The human
+computers at NASA had to figure out how to map rocket trajectories onto
+machine computers, and then those computers could do the calculations very
+quickly. In all of these early-stage machines, people have to be creative
+about how to map their problems onto machines to utilize the new
+functionality.”
+
+Once the utility of quantum computing is proven, Kim said, there will be even
+more investment, enabling the next generation of machines to be better and
+faster, and more useful. Gordon Moore’s Law states that though the speed and
+capability of computers doubles every couple of years, consumers will pay half
+as much for them because of high demand and increased production.
+
+Kim said the rule should still apply to quantum computers. “There has to be a
+first application that’s useful. It could have a very limited customer base,
+but it has to solve an urgent need. And if it can do that, cost is not an
+object.” The customer base grows, demand grows, the cycles of investment and
+widening utility mushroom. “And soon,” Kim said, “you have more power in your
+pocket than in the whole Apollo 13 mission.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

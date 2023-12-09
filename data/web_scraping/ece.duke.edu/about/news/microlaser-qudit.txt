@@ -1,0 +1,197 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Microlaser Chip Adds New Dimensions to Quantum Communication
+
+November 29, 2022 | By Devorah Fischler
+
+Duke engineers help a team led by Penn double the quantum information space of
+any previous on-chip laser
+
+_Adapted from apress release from UPenn_
+
+Researchers at Penn Engineering have created a chip that outstrips the
+security and robustness of existing quantum communications hardware. Their
+technology communicates in “qudits,” doubling the quantum information space of
+any previous on-chip laser.
+
+Liang Feng, Professor in the Departments of Materials Science and Engineering
+(MSE) and Electrical Systems and Engineering (ESE), along with MSE
+postdoctoral fellow Zhifeng Zhang and ESE Ph.D. student Haoqi Zhao, debuted
+the technology in a recent study published in _Nature_ _._ The group was
+partly inspired through a collaboration with Natalia Litchinitser, professor
+of Electrical and Computer Engineering at Duke University, who helped develop
+the original concept of using spin-orbit coupling to generate and manipulate
+states of light with increased degrees of freedom.
+
+The collaboration also involved scientists from the Polytechnic University of
+Milan, the Institute for Cross-Disciplinary Physics and Complex Systems, and
+the City University of New York (CUNY).
+
+While non-quantum chips store, transmit and compute data using bits, state-of-
+the-art quantum devices use qubits. Bits can be 1s or 0s, while qubits are
+units of digital information capable of being both 1 and 0 at the same time.
+In quantum mechanics, this state of simultaneity is called “superposition,”
+and makes it physically impossible for hackers to steal information.
+
+Qubits, however, aren’t perfect. With only two levels of superposition, qubits
+have limited storage space and low tolerance for interference. To get around
+these limitations, researchers are working toward quantum bits that can have a
+state of superposition greater than two levels, which they call a qu _dit_.
+
+The Feng Lab device’s four-level qudits enable significant advances in quantum
+cryptography, raising the maximum secrete key rate for information exchange
+from 1 bit per pulse to 2 bits per pulse. The device offers four levels of
+superposition and opens the door to further increases in dimension.
+
+“This demonstration of a microlaser generating reconfigurable high-
+superposition states is likely to advance high-capacity optical communication
+technologies,” said Litchinitser, who also helped interpret the results of the
+experiments.
+
+Quantum communication uses photons in tightly controlled states of
+superposition. Properties such as location, momentum, polarization and spin
+exist as multiplicities at the quantum level, each of which is governed by
+probabilities. These probabilities describe the likelihood of a quantum
+system—an atom, a particle, a wave—taking on a single attribute when measured.
+
+The hyperdimensional spin-orbit microlaser builds on the team’s earlier work
+with vortex microlasers, which sensitively tune the orbital angular momentum
+(OAM) of photons. The most recent device upgrades the capabilities of the
+previous laser by adding another level of command over photonic spin.
+
+This additional level of control—being able to manipulate and couple OAM and
+spin—is the breakthrough that allowed them to achieve a four-level system. The
+difficulty of controlling all these parameters at once is what had been
+hindering qudit generation in integrated photonics and represents the major
+experimental accomplishment of the team’s work.
+
+“Think of the quantum states of our photon as two planets stacked on top of
+each other,” says Zhao. “Before, we only had information about these planets’
+latitude. With that, we could create a maximum of two levels of superposition.
+We didn’t have enough information to stack them into four. Now, we have
+longitude as well. This is the information we need to manipulate photons in a
+coupled way and achieve dimensional increase. We are coordinating each
+planet’s rotation and spin and holding the two planets in strategic relation
+to each other.”
+
+“There is a lot of concern,” says Feng, “that mathematical encryption, no
+matter how complex, will become less and less effective because we are
+advancing so quickly in computing technologies. Quantum communication’s
+reliance on physical rather than mathematical barriers make it immune to these
+future threats. It’s more important than ever that we continue to develop and
+refine quantum communication technologies.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

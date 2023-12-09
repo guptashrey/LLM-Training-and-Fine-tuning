@@ -1,0 +1,225 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2016
+
+# Demystifying Big Data
+
+April 27, 2016 | Lucy Zhang
+
+Galen Reeves emphasizes the significance of a technical perspective on
+information
+
+How much information does one need to answer a question reliably? The
+mathematical tools used to understand the tradeoffs between data and
+uncertainty can be found in the fields of engineering, signal processing,
+information theory and statistics.
+
+Galen Reeves, an assistant professor with joint appointments in the Department
+of Electrical and Computer Engineering and the Department of Statistical
+Science, emphasizes the significance of a technical perspective on
+information.
+
+“Although the early applications of information theory were focused on signal
+processing and communication applications, the mathematical foundations apply
+much more broadly to problems in data analysis and statistical inference,”
+says Reeves. “So a lot of the analysis is, in a sense, a mathematical
+understanding of what it means to communicate.”
+
+## Digging into Data
+
+Many of the most important scientific and technological advances of the next
+several decades will follow from our ability to collect, understand and
+communicate massive amounts of data. The amount of data in the modern day has
+made the ability to understand and analyze invaluable. And according to
+Reeves, the vast amounts of information have created critical and complex
+questions.
+
+“Data is powerful,” says Reeves. “The information in medical data could
+greatly improve medicine. But how do you get it out, and what happens if you
+make a mistake? If you have the right data but conduct the wrong analysis, you
+can make the wrong conclusions. And that can result in a detrimental outcome."
+
+Reeves describes the study of information models at the “boundary” between two
+directions—one mathematical and the other applied. One type of model closely
+resembles reality and is difficult to draw conclusions from. The other
+contains more mathematical abstractions and is easier to study. While the
+latter is not necessarily clear in how it relates to the real world, it
+enables drawing deep, interesting conclusions.
+
+## Phase Transitions
+
+High-dimensional statistical inference problems sometimes exhibit phase
+transitions, in which a small change in information leads to large changes in
+measures of uncertainty (e.g. probability of error or posterior variance). The
+study of where and why these phase transitions occur provides new ways to
+characterize problems and to analyze tradeoffs between information,
+computation and structure. Such an understanding can lead to new ways of
+thinking and new solutions.
+
+For example, social networks follow this “phase transition” behavior. When
+observing which celebrities, politicians and other notable figures influence
+one another, the data is initially chaotic. Lines of influence connect a few
+figures but portray nothing clear about the relationships as a whole. But with
+a small bit of information, key players can suddenly be identified.
+
+The significance of these phase transitions extends into every area that
+entails massive amounts of data. “How do you understand these phase
+transitions?” asks Reeves.
+
+“How do you use them to inform algorithms used in a Google search or in
+solving some other basic problems?"
+
+## Blessings and Curses
+
+Analyzing the vast quantities of data involved with these "phase transitions"
+is not always possible with today’s computers. In his research, Reeves looked
+at the computational limitations of computers, which are still unable to
+accomplish tasks that “blow up exponentially in complexity.” Because there is
+an insufficient amount of computing power in the world to check all possible
+states, statisticians rely on algorithms and suboptimal searches to be
+computationally efficient.
+
+Reeves says this phenomenon is the “curse of dimensionality.” Originally
+coined by Richard Bellman, the phrase refers to how the number of possible
+states grows exponentially with known parameters, and how data can “blow up”
+to a million unknown values with a million observed variables.
+
+On the other hand, there is also the “blessing of dimensionality.” As data is
+scaled up, the number of random interactions becomes so large that the
+macroscopic behavior becomes predictable and nonrandom.
+
+“The analysis can become beautiful when the data are large and complex,”
+Reeves said. “But much of this math cannot be brute forced via numerical
+simulation. Instead, one sometimes needs to go back to the pencil and paper to
+understand the mathematical properties of data.”
+
+_Lucy Zhang is a freshman double majoring in electrical and computer
+engineering and computer science._
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2016
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

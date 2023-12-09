@@ -1,0 +1,208 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Finding New Life for First-Line Antibiotics
+
+April 23, 2015 | By Ken Kingery
+
+A simple strategy could make first-line antibiotics more effective against
+resistant bacteria.
+
+Researchers have identified a single, simple metric to inform medication
+regimen design that could bring an entire arsenal of first-line antibiotics
+back into the fight against drug-resistant pathogens.
+
+A computer simulation created by Hannah Meredith, a biomedical engineering
+graduate fellow at Duke University, revealed that a regimen based on a
+pathogen’s recovery time could eliminate an otherwise resistant strain of
+bacteria. In theory, a database of recovery times for bacterial and antibiotic
+combinations could allow first-line antibiotics to clear many resistant
+infections.
+
+Meredith has already begun lab work to create such a database, and early tests
+are confirming her model’s predictions.
+
+The study appears in PLOS Computational Biology on April 23, 2015.
+
+“Bacteria are forming resistance to antibiotics faster than we can make new
+ones, so there is a real need to use the antibiotics that are already on the
+market more efficiently,” said Meredith. “We hope this research will help
+hospitals improve patient outcomes while also making our antibiotics last as
+long as possible.”
+
+The computer simulation models the relationship between bacteria, antibiotics
+and a method of resistance called beta-lactamase—an enzyme that degrades beta-
+lactam antibiotics, one of the largest and most-used classes of antibiotics.
+Many beta-lactam antibiotics are currently disregarded out of concern for the
+infection being completely resistant to that type of antibiotic—even if the
+antibiotic appeared to be effective in the lab. The new model, however,
+reveals that the infection might be temporarily sensitive to the antibiotic
+before the beta-lactamase degrades the drug and allows the infection to
+recover.
+
+“You can think of this as a race between the cells and the antibiotics,” said
+Lingchong You, the Paul Ruffin Scarborough Associate Professor of Biomedical
+Engineering at Duke and Meredith’s advisor. “Before their beta-lactamase
+degrades the antibiotics, the cells are still sensitive and can be killed. But
+the antibiotics degrade faster than the cell population declines, allowing
+some cells to survive and repopulate.”
+
+When clinicians realize an infection is resistant, they often skip straight to
+some of the strongest antibiotics available. But the study indicates that if
+they instead changed the dosing frequency of first-line antibiotics such that
+each dose is delivered while the bacteria are weakened during their recovery
+period, some infections could be cleared without skipping to the last resort.
+
+Doctors also need to be careful, however, not to wreck native populations of
+bacteria vital to human health. A database detailing the responses of
+different strains to different antibiotics could allow Meredith’s computer
+model to determine the most efficient regimen to keep total exposure to a
+minimum. It could also indicate if multiple doses would not work, letting
+clinicians know when it is time to call in the heavy artillery.
+
+“There’s already a lot of work already being done to determine antibiotic
+dosing schedules,” said You. “But that typically involves building a model
+based on many complex biological mechanisms. This takes a lot of time, and
+there are thousands of constantly evolving bacterial strains, making it
+impossible for researchers to catch up. We’re trying to see if this one, easy-
+to-test metric of recovery time can make a good enough prediction without
+years of study.”
+
+Meredith has already begun laboratory work to answer this question and
+validate her computational model. She has received 80 well-known antibiotic-
+resistant bacteria strains from Duke Medicine and is putting her theory to the
+test.
+
+And the early results are promising.
+
+“Our preliminary data has confirmed many of the clinical aspects of the
+model’s predictions, so we are tremendously excited by those,” said Meredith.
+“If this strategy is successful, it could potentially reintroduce a large
+number of first-line antibiotics for patient treatment.”
+
+This work was funded by the National Science Foundation (CBET-0953202), the
+National Institutes of Health (1R01GM098642, 1RO1GM110494), a DuPont Young
+Professorship award, a David and Lucile Packard Fellowship, the National
+Science Foundation Graduate Research Fellowship, and the Howard G. Clark
+Fellowship.
+
+###
+
+“Bacterial Temporal Dynamics Enable Optimal Design of Antibiotic Treatment,”
+Hannah R. Meredith, Allison J. Lopatkin, Deverick J. Anderson, Lingchong You.
+PLOS Computational Biology, 2015, 11(4): e1004201. DOI:
+10.1371/journal.pcbi.1004201
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

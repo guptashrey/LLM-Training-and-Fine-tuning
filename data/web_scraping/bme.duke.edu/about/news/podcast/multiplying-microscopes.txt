@@ -1,0 +1,363 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Multiplying Microscopes
+
+March 30, 2023
+
+Today, researchers use a variety of imaging techniques to visualize and
+analyze biological systems, but there are limits to how much—and how
+well—these tools can see. But Duke BME’s Roarke Horstmeyer and his team are
+creating new microscopes and imaging algorithms to capture biomedical images
+at never-before-seen scales.
+
+## Listen
+
+Rate of Change · Multiplying Microscopes
+
+## Transcript
+
+**Michaela Kane 00:20**  
+This is rate of change a podcast from Duke dedicated to the ingenious ways
+that engineers are solving some of society's toughest problems. I'm Michaela
+Martinez. In the world of Biomedical Imaging, most people are concerned with
+what an image tells us is a bone broken our tumor cells shrinking our neurons
+firing. Today, researchers use a variety of imaging techniques to visualize
+and analyze biological systems. But there are limits to how much and how well
+these tools can see. Many optical tools can only capture lower resolution
+images with limited fields of view and slow video frame rates, all of which
+impact image clarity, but records Meyer and his lab have made it their mission
+to address these shortcomings.  
+  
+ **Roarke Horstmeyer 01:01**  
+So my name is Roarke Horstmeyer. I'm an assistant professor in the biomedical
+engineering department here. And I make optical devices and algorithms, mostly
+for biomedical applications.  
+  
+ **Michaela Kane 01:15**  
+Despite his current role in Dukes biomedical engineering department, Horace
+Meyers first experience with optical tools wasn't actually in a biomedical
+lab.  
+  
+ **Roarke Horstmeyer 01:23**  
+Yeah, so I actually was an undergraduate at Duke. And I studied physics. And
+from probably like that, when I was 18 years old onwards, I always worked on
+projects involving optics. The first project I worked on was taking data from
+the Hubble telescope and processing it very simply, I was learning programming
+at the time, but to help an astronomer at NASA through an internship. And so I
+learned about the telescope and how it worked. And I got interested in that.
+So when I was here at Duke, I worked with some neutrino data, which is not
+really optics, but it was detecting light, and then joined for about a year,
+David Brady's lab, here, he was obviously making all sorts of different
+cameras and optical devices. And so through that experience, I learned a ton.
+And then when I graduated, I went on to continue to work with cameras and
+algorithms for processing images. And that then led into microscopes. So I
+really came to biomedical engineering, kind of late, I'd say I, and I came
+from the perspective of someone making optical instruments and then learned a
+tiny bit, and still not that much about biology. It's a huge, crazy, new world
+for me, and I'm slowly learning different pieces of it as I can,  
+  
+ **Michaela Kane 02:56**  
+Even though he had a late entry into the Biological and Biomedical world.
+Horstmeyer has already found success by collaborating with researchers who can
+use his tools to better study biomedical phenomena. One of his most popular
+tools is the multi camera over a microscope, which packs several cameras
+together into a grid.  
+  
+ **Roarke Horstmeyer 03:14**  
+So with a regular microscope, you zoom in to see something at high resolution,
+but then you can't see that much area, you're limited to a small little, you
+know, something the size of a dime, maybe. And so if something's moving
+around, it can't move around very much, or at all, you would constrain it to
+be able to study it. And that is problematic if you want to study its natural
+behavior, or social interactions or kind of behavioral aspects of, it's more,
+it's more morphology and how that connects to its behavior. So if you can see
+a much bigger area, then you can watch them move around. And so with a
+microscope, you zoom out, but then you can't see it at such fine detail, you
+lose the resolution. And so by having many many microscopes and an array, you
+can simultaneously see over this big area. And at high resolution  
+  
+ **Roarke Horstmeyer 04:12**  
+Horstmeyer first began toying around with the idea for this microscope in
+graduate school, when a friend who worked at a smartphone company would give
+him rolls of the sensors that were used to create smartphone cameras.  
+  
+ **Roarke Horstmeyer 04:22**  
+And they would give me suddenly sensors, which are really amazing cameras. And
+they almost were like, just giving them to me as if they didn't cost anything.
+You think, Oh, it's this amazing piece of technology, which it is. But because
+they make so many of them, right, billions of them a year. The cost is like a
+fraction of $1 for each sensor. And so the way that they deliver these sensors
+to me, was in a roll. So each kind of sensor was like it was as if it was a
+roll of film, but each physical sensor was just in the little patch, and I'd
+get like several 100 and a roll and Here's just here's, here's just three. And
+so I thought that I was just amazed. I was like, these are like, commodity,
+you know, they're it's like, so cheap for them to make, but they're so
+powerful. And so a friend of mine, Mark, and I, at the time, we're thinking of
+ways to try to improve how microscopes work, and this array idea came up. And
+it was just so clear to me that if you wanted to put 100 of these microscopes
+together, you should use smartphone camera, right? They're cheap, and they're
+just they're really high performing. And so all of our engineering kind of
+efforts were built around using smartphone cameras and our microscopes. And so
+yeah, what we do is we get somewhere between 50 and 100 of those sensors. We
+pack them all together, almost touching, and then we put lenses on top. And
+then we have the biggest hardest part is having electronics behind it to be
+able to read in 50 or 100 videos all at once. And we along with a friend of
+mine before coming to Duke I we made a prototype of that, I guess it's been
+about five years now five years ago. And it's just slowly kind of progressed
+and gotten more. more nuanced in its applications and also better performing.
+We've, I think, got a pretty good design working. And we're using that to
+mostly image small model organisms as they move around.  
+  
+ **Michaela Kane 06:42**  
+One of the organisms Horstmeyer's microscope helps neuroscientists study at
+Duke is zebrafish. In traditional studies, researchers would need to
+anesthetize the young fish to keep them still while measuring their
+development. But there were concerns that this would harm the fish's growth
+and behavior, which would then skew the experiments results. In two papers
+that appear in nature photonics and Optica, Horstmeyer and his collaborators
+show that the multi camera at a microscope, or the MCAM, enables researchers
+to measure and visualize the behavior of the fish and other organisms non-
+invasively. These results were informed by early experiments that were
+completed in close collaboration with Dr. Eva Naumann's lab at Duke, which led
+to a recent publication in eLife  
+By stitching together 54 lenses, the team was able to collect 3d images, large
+scale video and take photos at a near cellular level.  
+  
+And videos posted to their website, users can explore images collected with
+the MCM. And one example which shows a mosaic of butterfly wings, it's
+possible to zoom in enough to see the individual colored scales on each wing.
+The technology has enabled Horstmeyer to build numerous collaborations both at
+Duke and at universities across the US. It has also led to the launch of
+Ramona Optics.  
+  
+ **Roarke Horstmeyer 07:47**  
+Yeah. And then we have a startup here in Durham. That's, that's developing the
+technology for not just labs at Duke, but other labs that are the
+universities. And so yeah, the microscopes definitely getting out there. It's
+probably at 10 different universities right now, primarily universities. And
+it's really starting at other research labs, because its capabilities are so
+new, that it's it's, you know, facilitating new discoveries. And so, we, yeah,
+are excited to try to make sure that the microscope can lead to these new
+findings. I think that's what motivates me, yeah, to push that technology for.  
+  
+ **Roarke Horstmeyer 08:35**  
+But if you're getting a ton of detail over a large space, not to mention
+collecting data from 54 synced sources, your file size is going to be big,
+really, really big. And when you're working with an image or video file jam
+packed with detail, it can be easy to miss small near cellular changes. How
+big is that video file?  
+  
+ **Roarke Horstmeyer 08:53**  
+Huge. Yeah. So currently, each frame that we create is almost gigabyte. So we
+call it a gigapixel. Okay. So your smartphone is, let's say 10 megapixels, or
+five megapixels? I don't know. It depends on the phone you buy. Some of them
+go bigger. And they say, Oh, you can get like a 30 megapixel phone. We're
+taking those sensors and putting 50 of them together. And so that quickly gets
+you up to 1000 megabytes, or megapixels or gigapixel. Okay, and then we're
+doing video. Yeah. And so if we're taking a video right now, let's say it's
+around 10 frames per second. You can see how much data can quickly accrue.
+When you just press play and wait for a minute, you fill up a terabyte hard
+drive. So yeah, that's fine, right? You can do that. And then say here, here's
+all your data to whoever is doing the experiment. The harder part is, what do
+you do with all that data? Yeah, you have to process it and extract useful
+information. And so that's why we're also really excited about developing
+algorithms to help sift through and make use of all of that image data. So the
+second project we work on is algorithms to process all these images. So the
+amount of data we're capturing is really large. If we're looking at a big area
+at high resolution, it's almost too large for, you know, someone just to sit
+there and look at and scroll through and try to make sense of easily in a
+efficient way. So we have to develop tools to kind of find organisms as
+they're moving around, track them, and try to understand what they're doing
+automatically. And that kind of algorithmic development not only applies to
+looking at things moving around these little organisms, but also looking at
+things that aren't moving, which is like specimen material from patients at
+the Duke clinic. So we have a number of collaborations there, looking at thin
+tissue sections, blood smear, cytology, smears, and trying to help the
+hematologists and cytologists and pathologists more rapidly and efficiently
+and effectively make clinical decisions from from lots and lots of image data
+that they have to sift through as well. So the algorithms that we're
+developing, are using machine learning to infer diagnostic or prognostic
+information that you would otherwise not expect, or perhaps otherwise not be
+able to directly achieve just from looking at the image data.  
+  
+ **Michaela Kane 11:35**  
+An example of this work involved Horstmeyer and his team imaging blood smears
+from patients during the COVID 19 pandemic  
+  
+ **Roarke Horstmeyer 11:42**  
+What we did is we took lots of images of different white blood cells from each
+patient, pass them into a machine learning network and had the network predict
+if the patient had COVID-19 or not, that's a start the simplest thing to
+start. And we did that for hundreds of patients. And then we also had a cohort
+that was sick, but not with COVID-19. Okay, and challenged the algorithm with
+that data, just from looking at the images of the blood cells, it was able to
+get pretty high accuracy, like over 90% accuracy. And so that was just
+interesting to see, and curious to us. But what we're really after is, you
+know, you can go ahead and just do that and say here's, here's, here's this
+result. My lab is really interested in why these machine learning algorithms
+are doing what they're doing. And so we took a few steps to try to figure that
+out. And one of them was kind of interesting, we first categorized all the
+white blood cells into their type of cell, and then looked at which cell type
+was most important, okay, for the diagnosis, and that link to some really
+recent findings that were saying these particular cell types were impacted by
+COVID-19. And not these other ones. Okay, so our algorithm was learning
+science that other people were doing, you know, right, concurrently at the
+same time, okay. And then we additionally showed a lot of the images that the
+algorithm of specific cells, the cells that were really important for its
+diagnosis to pathologists, so we kind of closed the loop from, you know,
+having the machine try to make a diagnosis to then trying to teach or show a
+clinician what was important. And yeah, some of the feedback we got was really
+interesting. And so what we're hoping is like, kind of like creating this loop
+between algorithms trying to make decisions and then having clinicians or
+others look at what the algorithm is doing. There's kind of this virtuous
+cycle of learning improvement, making the algorithms better, but then also
+teaching the clinicians something new that they may not have otherwise seen or
+suspected, whether it's  
+  
+ **Michaela Kane 13:57**  
+developing new algorithms to examine and identify cells, or creating new
+microscopes to view never before seen details and zebrafish development.
+Horstmeyer is excited about how his tools can be of use to all researchers.  
+  
+ **Roarke Horstmeyer 14:09**  
+Yeah, that's what's great about and I mean, what I love about making
+microscopes or just Yeah, imaging devices is that everyone needs images, or
+everyone wants to take pictures, either super high resolution or really far
+away of the stars or whatever. And so you get to learn about all sorts of
+applications. If you know you, you can help make better images for what people
+are trying to capture.  
+  
+ **Michaela Kane 14:36**  
+Thanks for tuning in to this episode of Rate of Change. Remember to follow us
+on social media for updates and be sure to subscribe to get alerts about
+future episodes. Thanks for listening.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Roarke Horstmeyer
+
+Assistant Professor of Biomedical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

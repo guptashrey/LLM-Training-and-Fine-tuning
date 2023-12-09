@@ -1,0 +1,234 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Boyuan Chen: Making General-Purpose Robots That Are Smarter and Self-Aware
+
+July 18, 2022 | Elizabeth Witherspoon
+
+The new Duke MEMS faculty member is developing robots that will help release
+human creativity
+
+Boyuan Chen has joined the faculty in the Thomas Lord Department of Mechanical
+Engineering & Materials Science (MEMS) in Duke University’s Pratt School of
+Engineering beginning July 1. With a vision toward making robots more self-
+aware and intelligent, Chen adds to the strong momentum in research and
+education regarding autonomous systems in the department.
+
+Chen joins Duke MEMS as an assistant professor from Columbia University, where
+he recently completed his PhD and MS in computer science. He will lead the
+General Robotics Lab, which aims to build robots that can perform general
+purpose tasks in the world, as opposed to highly specialized robots that
+perform a single task.
+
+“I am interested in developing generalist robots that learn, act and improve
+by perceiving and interacting with the complex and dynamic world. Ultimately,
+I hope that robots and machines can be equipped with high-level cognitive
+skills to assist people and unleash human creativity,” Chen said.
+
+Right now, robots need humans to take care of them and tell them what to do.
+
+> "Ultimately, I hope that robots and machines can be equipped with high-level
+> cognitive skills to assist people and unleash human creativity."
+>
+> **Boyuan Chen**
+
+Describing himself as a “full stack” roboticist, meaning an expert in both
+engineering the hardware and software to control robots, Chen is a well-
+rounded researcher with an undergraduate degree in biomedical and electrical
+engineering from Jilin University, in China. At Duke he plans to continue
+working across disciplines, to use artificial intelligence to develop robots
+that can perceive changes in their surroundings and learn to adapt.
+
+He has already had success in co-developing an animatronic robot face that
+learned how to mimic human facial expressions by imaging a “self-image” of
+what itself would look like under different expressions.
+
+This mimicry is a skill human children develop as babies as they learn to
+associate meanings, such as “happy” with a smile. At about the age of three or
+four years old, a child begins developing what neuroscientists call Theory of
+Mind, which is the ability to understand that other people have their own
+thoughts and desires separately from the child’s. Theory of mind enables
+humans to make inferences about others’ beliefs, intentions or desires, form
+mental pictures from that information, and then use them to understand and
+predict behavior.
+
+This concept of Theory of Mind is what inspired Chen's research.
+
+“A lot of my research actually tries to bake this capability of visualization
+into robots,” he said. “So, I have built a robot that looks at another robot
+and, without talking to it, can predict the future movements of it.”
+
+In the laboratory setting, this takes the form of a game of hide-and-seek
+between two robots, based not on logically calculated movements programmed
+into the robots, but on responsiveness between them as they learn through
+trial-and-error how to predict each other’s movements and visual perspectives.
+
+Moving forward, this month, Chen has published an article in Science Robotics
+to study how to enable robots to have a “sense of self” in the 3D world.
+Robots, for the first time, can model its entire morphology without any human
+supervision.
+
+Chen also wants to go beyond the concept of robots interacting with other
+robots to also include robots learning and responding to the physical
+environment. For example, Chen said that a walking robot cannot currently
+adjust to a wind gust the way humans intuitively lean into it. He wants to
+develop robots smart enough to detect and adapt to such environmental changes.
+
+“Learning abstract and interpretable information of the physical world from
+noisy and complex high-dimensional observation is essential to develop robots
+from lab to the real world,” Chen explained.
+
+Because this work is highly interdisciplinary, Chen said he knew Duke is the
+perfect place for him to conduct it. The proximity of the schools of medicine
+and engineering—within a few minutes’ walking distance of one another—will
+enable him to work on robotics for medicine and healthcare more easily and
+efficiently. Another deciding factor he said was the combination of materials
+science and mechanical engineering in the same department.
+
+“This is where I can find my collaborators,” Chen said.
+
+Chen also was drawn to Duke by the quality of the students and their
+excitement for learning more about robotics.
+
+Personally, he is also excited about the lifestyle that Durham and the larger
+Research Triangle area of North Carolina offer, as a change of pace from the
+last six years living in a New York City apartment. Nearby walking trails
+around the Duke University campus, nature preserves and Eno River, as well as
+the Sarah P. Duke Gardens, all fill a growing list of his planned
+explorations.
+
+“Both my wife and I really love nature and, in addition to the cat we brought
+with us, we also adopted a puppy in Durham,” he said.
+
+Chen is also thrilled by Duke’s and the surrounding area’s art scene. When he
+is not building or programming robots, he plays piano, paints and produces
+Chinese calligraphy.
+
+## Related News
+
+July 14, 2022 | Columbia University
+
+###  Boyuan Chen, Now With Duke MEMS, Develops a Robotic Arm That Learns to
+Imagine Itself
+
+August 31, 2021
+
+### Duke Takes Top Prizes in RoboSub Competition
+
+June 26, 2020
+
+### NASA Climbs Aboard with Support for Robot Project
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

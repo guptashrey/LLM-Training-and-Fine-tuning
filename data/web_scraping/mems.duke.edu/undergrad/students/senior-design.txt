@@ -1,0 +1,380 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Duke MEMS Senior Design
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+  3. Students
+
+Senior projects focus on the synthesis and application of the basic science,
+mathematics, engineering and design skills taught in earlier courses. It also
+provides students opportunities to exercise and apply the more advanced
+material taught in their senior year. Called "Capstone" courses, these
+culminating design classes give students a rigorously challenging, real-world
+immersive engineering experience.
+
+Students are guided through the various stages of a professional engineering
+design project, including the design, fabrication and experimental testing of
+a complex component or system. Faculty members mentor, consult and evaluate,
+and provide workshops on special topics, such as design and manufacturing of
+composite structures or design and programming of electronic components.
+
+The Duke mechanical engineering senior design experience helps students
+prepare for the workplace. During the first semester, in ME 421L(141L)
+Mechanical Design, students work in teams of 4 to 8 to design and implement a
+project, and use technical writing skills to produce a project plan and design
+report. During the second semester, in ME 424L(160L) Mechanical Systems
+Design, students complete their project and deliver a final report, project
+poster and oral presentation.
+
+The Duke senior design experience emphasizes the following skills:
+
+  * written communication
+  * oral communication
+  * engineering ethics
+  * project planning and scheduling
+  * decision-making
+  * team building and dynamics
+  * engineering economics
+  * developing/writing functional specifications
+  * safety in product design
+  * leadership
+  * standards and regulations
+  * drawings/creativity/concept generation
+  * analysis tools
+  * intellectual property/patents
+  * prototyping and testing
+  * optimization
+  * sustainability
+  * manufacturing processes
+  * risk assessment
+  * CAD design and layout
+  * product liability and quality assurance
+
+The project costs for senior design classes are funded through department,
+industry sponsors and foundation support, with individual project team budgets
+ranging from a few hundred dollars to several thousand.
+
+## Industry Sponsorship
+
+Often students will work with industrial partners in a collaborative research
+environment. As they tackle real-world engineering projects, the engineering
+students and their industry sponsors are afforded unlimited possibilities for
+learning and achievement.
+
+**Industry partners benefit by:**
+
+  * the opportunity to initiate elective research projects,
+  * collaboration with Duke research faculty,
+  * the design, analysis, testing and creative talent of students,
+  * the creation of innovative and competitive products,
+  * the development of improved manufacturing or business processes,
+  * the opportunity to see students at work and recruit seniors,
+  * networking at the end-of-semester presentations and competition.
+
+## Example Senior Design Reports
+
+  * Ram-Air Turbine Blue Team
+  * Ram-Air Turbine White Team
+  * Greenback Renewable Backup  
+Power Supply
+
+## Example Senior Design Student Project Descriptions
+
+**Solar Hot Water System in Duke Smart Home** \- The goal of this project was
+to improve the overall heat transfer rate of the solar hot water system in the
+Duke Smart Home, thereby increasing both energy and cost savings. The design
+team spent a semester investigating ways to improve the system’s efficiency
+through implementation of variable speed pumps. Preliminary design work was
+performed and is summarized in this report. The variable speed pumps were
+installed in the Smart Home and the programming and experimentation processes
+are outlined herein as well. The experiment resulted in a marked efficiency
+improvement by running the pumps at variable speed rather than constant speed.
+Results of this project are presented in detail and suggestions for further
+improvements are presented in the conclusion.
+
+**Ram Air Turbine (2 Teams)** \- The goal of this project is to create a ram-
+air turbine design, completely from scratch. The scope of the project includes
+the housing, blade geometry, electrical generator and mount; due to time
+constraints, a deployment mechanism for the RAT was not included. More
+formally, our goal is to create a turbine capable of generating supplemental
+power for an aircraft using only the air flow around that aircraft. Our
+intended market is small, low-speed aircraft, as our RAT will be undersized
+for large commercial aircraft applications; the wind tunnel at Duke University
+limits us to a diameter of 10 inches, whereas airliner RATs are on the order
+of two to three feet in diameter. One purpose for our product will of course
+be power production for the primary electrical system in emergency situations.
+However, our RAT could also be used to provide a continuous supply of power in
+normal flight to devices that are separate from the aircraft’s main electrical
+system; the best example of this are crop dusters, which sometimes use a ram
+air turbine to power their spray pumps. Applications for external pods on
+unmanned aerial vehicles are also possible. This project was completed as two
+team competition in which the teams were provided a set of design objectives.
+
+**Agua Delicioso: Peruvian Water System** \- The aim of this project was to
+provide a running water source at the school in Ciudad de Dios, Peru. Our team
+spent a semester designing a pumping system suitable for this purpose. A
+prototype of the pump was constructed and subjected to engineering analysis.
+The first few prototypes were successful at pumping water but also experienced
+an unacceptable level of slipping of the rope on the wheel and thus
+improvements were necessary to minimize the losses caused by this slippage.
+After trying a few different solutions to the slipping problem, we settled on
+using V-shaped metal brackets attached to the wheel to “catch” the pistons as
+the wheel turned. This version (prototype III) performed very reliably and
+efficiently and thus was settled upon for our final design.
+
+**Rod Bending Device for Spinal Fusion Surgery** \- The fusion of vertebrae
+along the human spine using titanium rods is a common surgical practice in the
+treatment of a number of spinal disorders. Such a procedure requires a
+titanium rod adequately bent to match the natural curvature of the backbone.
+Currently, surgeons must bend titanium rods using potentially tiring and time-
+consuming manual equipment. The objective of this project group was to
+conceive, design, and produce a working prototype of a device that will bend a
+titanium rod to a desired conformation quickly, with minimal physical effort
+on the part of the operator; it must be fabricated of sterilizable material
+and be usable in an operating room setting. A proof-of-concept prototype was
+built to illustrate the viability of the essential mechanism of the complete
+design of the device.
+
+**Blood Pressure Testing Machine** \- The aim of this project is to develop a
+device to test current blood pressure monitoring devices. This device will
+test the monitors till failure which is defined as a loss of accuracy and/or
+physical rupturing of the device. The design team spent a semester working to
+develop a prototype which would simulate pulsatile pressure and heartbeat
+which could be used to continuously test the blood pressure monitors. Data was
+taken and stored throughout the repeated cycles including the pressure data
+for each cycle, number of cycles versus time, and cuff pressure versus time.
+After over a thousand cycles, the wrist monitor had not failed as originally
+planned it would through both analytical and computational analysis. However,
+it had shown signs of wear traceable to bladder fatigue. Given more time,
+further cycles should be completed to ultimately determine method of failure
+and propose new bladder design for more durable and extended usage in
+developing countries.
+
+**Smart Mailbox (2 Teams)** \- The aim of this project was to construct a
+“smart mailbox” to suit the needs of the residents of the Duke Smart Home. The
+goal of the team was to build a prototype that is theft-proof and can indicate
+to the residents that mail has arrived, while also being aesthetically
+pleasing and constructed with environmentally friendly materials. This
+structure would also be sustainable against vandalism in the form of objects
+striking the side of the mailbox. After careful planning and consideration of
+requests, a design for a prototype was sketched, manufactured and tested.
+
+**Smart Home Energy Storage** \- The purpose of this project is to create a
+system that will convert human energy used during exercise to energy that
+could charge a battery and thus power a given appliance. The team spent the
+past semester and a half researching possible equipment that could be
+converted to satisfy the stated goal. A bicycle trainer made of used car parts
+and connected to a car alternator was chosen as the device that will be used
+to charge a power pack. All preliminary design and calculations were completed
+and are included within. Using the 3-D modeling software SolidWorks and the
+finite element analysis package COSMOS Works, a conceptual design was created
+and tested for structural integrity. A prototype based on this design was then
+constructed in the lab.
+
+**Autonomous Underwater Vehicle** \- The goal of this project was to design
+and fabricate multiple components to be utilized in an Autonomous Underwater
+Vehicle (AUV). It is our intent that with the help of other members of the
+Duke Robotics Club from the ECE/CS departments the AUV will compete in San
+Diego at the end of July. The scope of the project included the chassis,
+mechanical claw, and marker dropper. It was our aim to improve the previous
+designs of the chassis and marker dropper and the mechanical claw was
+incorporated as a new task for the upcoming competition. The tasks that must
+be completed during the competition involve both vision as well as acoustic
+software in concert with a durable mechanical structure.
+
+**Greenback Renewable Backup Power Supply** – The goal of the Green Back
+project was to create a backup power supply that would be renewable and
+“green” in nature. The focus of the project was on a functional residential
+power backup system that had a realistic potential to reach consumers and make
+a tangible difference in the real world. Analysis of the wants and needs of
+customers, of existing products, of government incentives provided a basic
+sketch of how the unit might function, and from there a prototype was
+manufactured.
+
+## Undergraduate Contacts
+
+### Donald Bliss
+
+Associate Professor and Director of Undergraduate Studies
+
+__919-660-5315
+
+__donald.bliss@duke.edu
+
+### Nico Hotz
+
+Associate Professor of the Practice and Associate Director of Undergraduate
+Studies
+
+__919-660-5118
+
+__nico.hotz@duke.edu
+
+### Amy Spaulding
+
+Director of Undergraduate Studies Assistant
+
+__919-660-5310
+
+__amy.spaulding@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

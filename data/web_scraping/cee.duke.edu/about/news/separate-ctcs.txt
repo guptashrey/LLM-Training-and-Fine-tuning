@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound Waves Could Provide 'Liquid Biopsies'
+
+July 3, 2018 | By Ken Kingery
+
+Acoustic microfluidic platform gently and quickly separates circulating tumor
+cells from blood samples
+
+Using sound waves, researchers have developed a gentle, contact-free method
+for separating circulating tumor cells from blood samples that is fast and
+efficient enough for clinical use.
+
+Circulating tumor cells (CTCs) are small pieces of a tumor that break away and
+flow through the bloodstream. They contain a wealth of information about the
+tumor, such as its type, physical characteristics and genetic mutations that
+are associated with prognosis and whether certain treatments may be effective.
+The ability to quickly and efficiently harvest and grow these cells from a
+blood sample would enable “liquid biopsies” capable of providing robust
+diagnosis, prognosis and suggestions for treatment strategies based on
+individual CTC profiling.
+
+CTCs are, however, extremely rare and difficult to catch. There are typically
+only a handful for every few billion blood cells running through a patient’s
+veins. And while there are many technologies designed to separate them from
+normal blood cells, none of them are perfect. They tend to damage or kill the
+CTCs in the process, lack efficiency, only work on specific types of cancer,
+or take far too long to be used in many situations.
+
+In a new study, researchers from Duke University, MIT and Nanyang
+Technological University (Singapore) demonstrate a platform based on sound
+waves capable of separating CTCs from a 7.5-mL vial of blood with at least 86
+percent efficiency in less than an hour. With additional improvements, the
+researchers hope the technology will form the basis of a new test through an
+inexpensive, disposable chip.
+
+The results were published on July 3 in the journal Small.
+
+Every year cancer claims the lives of millions of people around the world and
+researchers are still searching for better tools for cancer diagnosis,
+prognosis and treatment,” said Tony Jun Huang, the William Bevan Professor of
+Mechanical Engineering and Materials Science at Duke University. “Biopsy is
+the gold standard technique for cancer diagnosis, but it is painful and
+invasive and is often not administered until late in the cancer’s development.
+With our circulating tumor cell separation technology, we could potentially
+help find out, in a non-invasive manner, whether the patient has cancer, where
+the cancer is located, what stage it’s in, and what drugs would work best. All
+from a small sample of blood drawn from the patient.”
+
+The technology works by setting up a standing sound wave at an angle to a
+fluid flowing through a tiny channel. Because sound is nothing more than a
+pressure wave, this sets up pockets of pressure that push on particles
+suspended in the liquid as they pass through. This acoustic force acts more
+strongly on the larger, more rigid cancer cells than on normal blood cells,
+pushing the CTCs into a separate channel for collection.
+
+The power intensity and frequency of the sound waves are similar to those used
+in ultrasonic imaging, which is used safely in numerous medical procedures.
+The risk of damage to the CTCs is reduced even further because each cell
+experiences the acoustic wave for only a fraction of a second and does not
+require labeling or surface modification. These features give the technique
+the best possible chance at maintaining the functions and native states of the
+CTCs.
+
+The approach was first demonstrated three years ago in a proof-of-concept
+study and has since been improved to the point where it could be useful in a
+clinical setting. The first modification was to make one side of the channel
+out of glass, causing the acoustic wave to reflect off of it and strengthen
+the pressure waves inside the channel. The second was to introduce a divider
+arm along the center of the channel. This slows down the fluid and CTCs
+travelling next to the arm, which allows for an overall faster flow to make
+quicker work of a sample.
+
+The result is a prototype device that processes fluid at a rate of 7.5
+mL/hour, seven times faster than the original, without sacrificing any of its
+86 percent efficiency or numerous advantages over other methods.
+
+“The biggest asset of this acoustic method of separation is that it’s very
+gentle on the circulating tumor cells,” said Andrew Armstrong, associate
+professor of medicine, surgery, and pharmacology and cancer biology at the
+Duke University School of Medicine. “The cancer cells remain viable after
+passing through the chip and can be characterized, cultured or profiled, which
+allows us to do genotyping or phenotyping to better understand how to kill
+them. The idea is to develop personalized medicine approaches to individual
+patients based on their cancer biology, similar to what infectious disease
+doctors do with bacterial cultures and antibiotics.”
+
+Armstrong has already demonstrated how these abilities could be useful in a
+clinical setting. In the paper, he uses the technology to collect circulating
+tumor cells from men with prostate cancer and successfully profiles them for a
+range of markers and short-term growth characteristics. The researchers
+demonstrate that CTCs from patients vary widely in their expression of key
+targets for therapy, such as prostate specific membrane antigen (PSMA), which
+is commonly used for imaging and for targeting prostate cancer in the clinic.
+
+Moving forward, Huang is continuing to develop the technology to increase both
+its speed and efficiency, while Armstrong is working to establish the
+technique’s feasibility in a number of culturing and profiling projects to
+show its potential for clinical impact. The pair will also use the technology
+in a variety of research projects, such as working to understand what allows
+CTCs to survive in the bloodstream and metastasize.
+
+“The only FDA-approved technology for CTC detection can only count and do
+basic characterizations of CTCs but cannot grow CTCs outside of the body,
+because it basically kills the cells in the process,” said Armstrong. “Being
+able to get to these cells while they’re still alive gives us at least a
+chance at culturing them or profiling them outside of the body to do the types
+of drug sensitivity and genetic testing that may better inform therapy.”
+
+This research was supported by the National Institutes of Health (R01
+GM112048, R33 EB019785) and the National Science Foundation (CBET-1438126,
+IDBR-1455658).
+
+“Circulating Tumor Cell Phenotyping via High-Throughput Acoustic Separation.”
+Mengxi Wu, Po-Hsun Huang, Rui Zhang, Zhangming Mao, Chuyi Chen, Gabor Kemeny,
+Peng Li, Adrian V. Lee, Rekha Gyanchandani, Andrew J. Armstrong, Ming Dao,
+Subra Suresh, and Tony Jun Huang. Small, 2018. DOI: 10.1002/smll.201801131
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

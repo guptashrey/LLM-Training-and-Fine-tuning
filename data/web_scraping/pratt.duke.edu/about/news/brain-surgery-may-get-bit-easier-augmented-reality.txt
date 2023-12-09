@@ -1,0 +1,190 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Brain Surgery May Get a Bit Easier, with Augmented Reality
+
+October 5, 2016 | by Kara Manke
+
+HoloLens goggles can help surgeons visualize brain regions they can't see
+
+_Originally posted by Duke Today_
+
+Doctors do what it takes to save the lives of their patients -- even if it
+means drilling holes into their skulls and sticking giant needles into their
+brains.
+
+Luckily for those of us with heads, surgeons and engineers at Duke are working
+to make emergency neurosurgical procedures like this a whole lot safer, with
+the help the HoloLens, a new pair of augmented reality (AR) goggles from
+Microsoft.
+
+The HoloLens adds to, or “augments,” our existing reality by projecting
+virtual, 3D images onto real-world objects. The effect is just like spotting
+one of those colorful, virtual monsters from Pokemon Go -- except instead of
+seeing the virtual images in the screen of your phone, you see them through
+the lenses of the goggles.
+
+The idea for HoloLens-aided brain surgery started with Duke neurosurgery
+residents Andrew Cutler and Shervin Rahimpour, who were searching for a way to
+help guide doctors during “blind” surgeries like extraventricular drain (EVD)
+placement.
+
+EVD placement is a cringe-worthy, but often life-saving, procedure, designed
+to relieve pressure when excess fluid gathers in the brain. To perform EVD, a
+surgeon must quickly drill a hole through a patient’s skull and then stick a
+catheter – basically a thick, foot-long needle – into the precise spot where
+fluid has pooled. Doctors rarely have access to real-time brain imaging in
+these situations, instead relying on static CT scans and physical “landmarks”
+to place the needle.
+
+These landmarks are usually pretty accurate, Cutler said. But not always.
+
+“There are many times when the fluid space we are trying to target is too
+small or is shifted from a standard position, and these landmarks do not
+provide an accurate target for us.” Cutler said. “We wanted a fast and simple
+way to overlay a rebuilt CT scan onto a patient’s head.”
+
+Under the mentorship of their advisor Patrick Codd, who directs the Brain Tool
+Laboratory and is an assistant professor of mechanical engineering and
+materials science at Duke, the pair teamed up with DiVE Director Regis Kopper,
+assistant research professor of mechanical engineering and materials science,
+and graduate student Yameng Liu to create a prototype HoloLens simulation for
+EVD placement.
+
+Cutler and Rahimpour are not the first to envision using augmented reality
+goggles to aid in surgery, Kopper said at a Learn IT @ Lunch event last month.
+However, until now, these technologies have been plagued with issues like
+jitter, where the image shakes around, and latency, where movements of the
+images are delayed.
+
+“If you are operating on someone’s ankle and the model shakes around, it is
+not going to help you so much,” Kopper said. “That is where HoloLens has made
+great improvements. It allows us to do work that we haven’t done before.”
+
+In her simulation, Liu can place a three-dimensional image of a brain onto a
+head, and watch a virtual projection of the catheter as it pierces the brain.
+
+For now, the only patient to receive the HoloLens-aided EVD surgery is a life-
+size grey plastic model of a head. But if the procedure is successful in
+clinical settings, Cutler and Rahimpour think the holograms could be a boon in
+a variety of other neurological surgeries.
+
+“Since we can manipulate a hologram without actually touching anything, we
+have access to everything we need without breaking a sterile field,” Cutler
+said. “In the end, this is actually an improvement over the current OR system
+because the image is directly overlaid on the patient, without having to look
+to computer screens for aid.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

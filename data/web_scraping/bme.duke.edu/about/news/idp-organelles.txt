@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Researchers Create Artificial Organelles to Control Cellular Behavior
+
+August 3, 2020 | By Ken Kingery
+
+New form of synthetic biology for controlling cellular behavior uses
+intrinsically disordered proteins
+
+Biomedical engineers at Duke University have demonstrated a method for
+controlling the phase separation of an emerging class of proteins to create
+artificial membrane-less organelles within human cells. The advance, similar
+to controlling how vinegar forms droplets within oil, creates opportunities
+for engineering synthetic structures to modulate existing cell functions or
+create entirely new behaviors within cells.
+
+The results appear online on August 3 in the journal Nature Chemistry.
+
+Proteins function by folding into specific 3-D shapes that interact with
+different biomolecular structures. Researchers previously believed that
+proteins needed these fixed shapes to function. But in the last two decades, a
+large new class of intrinsically disordered proteins (IDPs) have been
+discovered that have large regions that are “floppy”—that is, they do not fold
+into a defined 3-D shape. It is now understood these regions play an
+important, previously unrecognized role in controlling various cellular
+functions.
+
+IDPs are also useful for biomedical applications because they can undergo
+phase transitions—changing from a liquid to a gel, for example, or from a
+soluble to an insoluble state, and back again—in response to environmental
+triggers, like changes in temperature. These features also dictate their phase
+behavior in cellular environments and are controlled by adjusting
+characteristics of the IDPs such as their molecular weight or the sequence in
+which the amino acids are linked together.
+
+“Although there are many natural IDPs that show phase behavior in cells, they
+come in many different flavors, and it has been difficult to discern the rules
+that govern this behavior,” said Ashutosh Chilkoti, the Alan L. Kaganov
+Distinguished Professor of Biomedical Engineering at Duke. “This paper
+provides very simple engineering principles to program this behavior within a
+cell.”
+
+“Others in the field have taken a top-down approach where they’ll make a
+change to a natural IDP and see how its behavior changes within a cell,” said
+Michael Dzuricky, a research scientist working in the Chilkoti laboratory and
+first author of the study. “We’re taking the opposite approach and building
+our own artificial IDPs from simple thermodynamic principles. This enables us
+and others to precisely tune a single property—the shape of the IDPs phase
+diagram—to better understand how this parameter affects biological behavior”
+
+In the new paper, the researchers begin by looking to nature for examples of
+IDPs that come together to form “biomolecular condensates” within cells. These
+weakly-held-together structures allow cells to create compartments without
+also building a membrane to encapsulate it. Using one such IDP from the common
+fruit fly as a basis, the researchers draw from their extensive history of
+working with IDPs to engineer a molecularly simpler artificial version that
+retains the same behavior.
+
+This simpler version allowed the researchers to make precise changes to the
+molecular weight of the IDP and amino acids of the IDPs. The researchers show
+that, depending on how these two variables are tweaked, the IDPs come together
+to form these compartments at different temperatures in a test tube. And by
+consistently trying various tweaks and temperatures, the researchers gained a
+solid understanding of which design parameters are most important to control
+the IDP’s behavior.
+
+A test tube, however, is not the same as a living cell, so the researchers
+then went one step further to demonstrate how their engineered IDPs behave
+within _E. coli_. As predicted, their artificial IDPs grouped together to form
+a tiny droplet within the cell’s cytoplasm. And because the IDP’s behavior was
+now so well understood, the researchers showed they could predictably control
+how they coalesced using their test tube principles as a guide.
+
+“We were able to change temperatures in cells to develop a complete
+description of their phase behavior, which mirrored our test tube
+predictions,” said Dzuricky. “At this point, we were able to design different
+artificial IDP systems where the droplets that are formed have different
+material properties.”
+
+Put another way, because the researchers understood how to manipulate the size
+and composition of the IDPs to respond to temperature, they could program the
+IDPs to form droplets or compartments of varying densities within cells. To
+show how this ability might be useful to biomedical engineers, the researchers
+then used their newfound knowledge, as nature often does, to create an
+organelle that performs a specific function within a cell.
+
+The researchers showed that they could use the IDPs to encapsulate an enzyme
+to control its activity level. By varying the molecular weight of the IDPs,
+the IDPs hold on the enzyme either increased or decreased, which in turn
+affected how much it could interact with the rest of the cell.
+
+To demonstrate this ability, the researchers chose an enzyme used by _E. coli_
+to convert lactose into usable sugars. However, in this case, the researchers
+tracked this enzyme’s activity with a fluorescent reporter in real-time to
+determine how the engineered IDP organelle was affecting enzyme activity.
+
+In the future, the researchers believe they could use their new IDP organelles
+to control the activity levels of biomolecules important to disease states. Or
+to learn how natural IDPs fill similar cellular roles and understand how and
+why they sometimes malfunction.
+
+“This is the first time anybody has been able to precisely define how the
+protein sequence controls phase separation behavior inside cells,” said
+Dzuricky. “We used an artificial system, but we think that the same rules
+apply to natural IDPs and are excited to begin testing this theory.”
+
+“We can also now start to program this type of phase behavior with any protein
+in a cell by fusing them to these artificial IDPs,” said Chilkoti. “We hope
+that these artificial IDPs will provide new tool for synthetic biology to
+control cell behavior.”
+
+This research was supported by the National Institutes of Health (R35GM127042)
+and the National Science Foundation (DMR-17-29671, CHE-1709735).
+
+“De Novo Engineering of Intracellular Condensates using Artificial Disordered
+Proteins.” Michael Dzuricky, Bradley A. Rogers, Abdulla Shahid, Paul S.
+Cremer, Ashutosh Chilkoti. Nature Chemistry, 2020. DOI:
+10.1038/s41557-020-0511-7
+
+## Related News
+
+October 15, 2018
+
+### Biomaterials with "Frankenstein Proteins" Help Heal Tissue
+
+January 30, 2017
+
+### Engineered "Spaghetti-Ball" Proteins Provide Biomedical Insights
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

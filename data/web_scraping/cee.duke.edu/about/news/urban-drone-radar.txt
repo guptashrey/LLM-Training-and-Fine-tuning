@@ -1,0 +1,281 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bringing Radar Down From the Clouds to the City Streets
+
+May 11, 2021 | By Ken Kingery
+
+Duke engineers are using machine learning and radar to detect drones in
+complicated urban settings
+
+Look, up in the sky! It’s a bird! It’s a plane! It’s…actually pretty easy for
+radar to tell the difference. Flying aliens from Krypton notwithstanding,
+there are simply not many things moving through the mostly empty, wide-open
+skies that are as big and fast as an airplane.
+
+But if radar signals move down from the clouds and into a city’s streets,
+there are suddenly many objects that can be mistaken for one another. With
+only distance, speed and direction to go on, drones can easily be “hidden in
+plain sight” on radar displays among slowly moving cars, bicyclists, a person
+jogging or even the spinning blades of an air conditioning unit.
+
+As drones become more popular and more worrisome from a security standpoint,
+many projects have sought to engineer systems to spot them. During his time as
+a Defense Advanced Research Projects Agency (DARPA) program manager, Jeffrey
+Krolik, professor of electrical and computer engineering at Duke University,
+launched one such project called “Aerial Dragnet.” Using a network of drones
+hovering above a cityscape or other large, developed area in need of defense,
+multiple types of sensors would peer down into the city’s canyons and pick out
+any drones. The project has recently successfully concluded with an urban test
+in Rossyln, Virginia, but challenges remain in discriminating drones from
+urban “clutter.”
+
+> “Most systems are designed in a laboratory to be taken out into the field.
+> This one learns from its environment, because most of the time a drone isn’t
+> there.”
+>
+> Jeffrey krolik
+
+Using a fleet of friendly drones to find enemy drones makes sense in a setting
+for a military unit that is trying to secure a wide urban area. However, in
+settings where protection of a fixed asset such as an embassy, hospital or
+encampment is the goal, a system that can maintain a perimeter from a safe
+stand-off distance is required. Once again funded by DARPA, Krolik is turning
+to radar, machine learning and specialized hardware to make a drone
+surveillance system with sufficient range to allow drones to be detected and
+stopped before they reach a protected area in a city.
+
+“Systems exist that can detect the signals used to control off-the-shelf
+drones, but they tend to be pretty expensive and there are already commercial
+drones that can be flown autonomously without any radio control at all,” said
+Krolik. “We need detection systems that can spot these things wherever and
+whenever they’re airborne, regardless of how they’re being controlled.”
+
+While a computer can be trained to visually spot a drone, an optical system
+would have a very limited range. A telescopic lens could be used, but then its
+field of view would be greatly constrained. Instead, Krolik is turning to the
+same technology that turned the tide against aerial enemies in World War
+II—radar. But the 1940s technology is getting a 2020s upgrade with the help of
+a type of machine learning called Deep Neural Networks (DNN).
+
+## Teaching Radar Street Smarts
+
+Krolik’s idea is to set up a radar antenna to scan the area of urban landscape
+under surveillance. Over the course of a few days or weeks, in the absence of
+drones, the DNN trains itself to differentiate between cars, bicycles, people
+and other objects by learning their kinematics, seen as “micro-Doppler” in the
+radar returns, as well as the paths they take moving through the space.
+
+“Most systems are designed in a laboratory to be taken out into the field,”
+said Krolik. “This one learns from its environment, because most of the time a
+drone isn’t there.”
+
+For example, cars generally follow paths defined by roadways. And while
+bicycles and pedestrians have more variable dynamics, their micro-Doppler
+signatures are very distinctive. Over time, the algorithm learns what radar
+signals are normal for a given space so that when a drone flies by, with
+propeller motion and trajectory that is very different to what is normally
+found in the area, it will trip an alarm.
+
+So far, it’s working. On Duke’s campus, the system has been able to
+successfully classify drones versus cyclists, pedestrians, cars and other
+objects 98 percent of the time.
+
+To be clear, Krolik and his team aren’t flying drones across campus at all
+hours of the day and night. Instead, they train the algorithm to learn the
+normal traffic around the Science Drive parking garage and separately collect
+data from a drone flying in Duke Forrest. They then put the data together
+computationally and let the DNN go to work on the resulting mashup.
+
+## Hardwiring a Neural Network
+
+For help with the drone-spotting DNN algorithm, Krolik turned to Helen Li, the
+Clare Boothe Luce Professor of Electrical and Computer Engineering at Duke.
+DNNs essentially work by sliding a window over an image in a grid-like
+fashion, determining which feature is present in each window, and passing that
+information on to a new layer of data. The process repeats itself until the
+image is distilled into its most basic features that allow the program to
+categorize it.
+
+DNNs are inevitably computationally dense programs that can tie up a
+traditional CPU for far longer than a drone surveillance system would require.
+The algorithm, however, can be sped up by breaking the tasks into pieces that
+can be processed simultaneously. A common choice for hardware to tackle this
+challenge are Graphics Processing Units (GPUs), which are specialized
+processors originally designed to accelerate graphics rendering that is also
+useful for machine learning, video editing and gaming applications.
+
+But anyone who has ever compiled an hour-long video or lost track of time
+gaming knows that GPUs produce a lot of heat by consuming a lot of power. To
+make their drone detection system more efficient, Li instead turned to Field
+Programmable Gate Arrays (FPGAs).
+
+> “While a GPU is super powerful, it’s also wasteful. We can instead make an
+> application-specific design that is just right for radar signal processing.”
+>
+> helen li
+
+“While a GPU is super powerful, it’s also wasteful,” said Li. “We can instead
+make an application-specific design that is just right for radar signal
+processing.”
+
+As the name implies, FPGAs can be designed and redesigned to process certain
+tasks more efficiently by hardwiring some of the computation into the device
+itself. This allows computer scientists to be surgical with how much
+computational power to provide each aspect of the algorithm.
+
+“An FPGA can be optimized for a specific neural network model without having
+to support any other models in different configurations and sizes,” continues
+Li, who helped start the trend of using FPGAs for machine learning
+applications. “And where typical codes first have to go through an operating
+system and compilers before reaching the hardware, our approach essentially
+implements the DNN algorithm directly on the FPGA boards.”
+
+## Setting the Bar High
+
+The result is a system that not only spots drones with 98% accuracy, but a
+system that also consumes 100 times less energy than a similar GPU-based
+system would, all while maintaining the performance and speed required to work
+in real-time.
+
+Krolik and Li think the results so far are promising, and DARPA thinks so too.
+After completing the first half-million-dollar phase of the project and
+presenting their results, the project was funded for a second half-million-
+dollar grant over nine months. Their challenge over that extended period of
+time?
+
+Birds.
+
+“As it turns out, when you’re only looking at the speed and bearing of a
+flying object, a bird can look a lot like a drone,” said Krolik. “With the
+help of staff at the Duke Gardens, we’ve been collecting radar data on a wide
+variety of birds around the garden’s duck pond. So far, our DNN algorithm has
+been able to differentiate birds from drones with over 97% accuracy. Now we
+have to put it all together to detect drones versus birds, cars and
+pedestrians in a truly urban setting. It’s been a lot of fun working with
+Helen and the rest of the team, and we have the rest of the summer to figure
+it out.”
+
+## Related News
+
+December 23, 2019
+
+### Detecting Backdoor Attacks on Artificial Neural Networks
+
+December 17, 2019
+
+### World Records, Drone Surveillance Systems and Falling Upwards
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,373 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Research Facilities & Instrumentation
+
+## Breadcrumb
+
+  1. Home
+  2. Research
+
+Duke MEMS provides faculty and students with state-of-the-art fabricating and
+testing technologies.
+
+Through Duke's shared resource SMIF, our researchers have access to advanced
+cleanroom fabrication, characterization and imaging facilities.
+
+## Fabrication
+
+3D Systems ProX DMP320
+
+    
+
+**Location:** The Foundry, Gross Hall
+
+**Contact:** Patrick McGuire patrick.mcguire@duke.edu
+
+**Description:**
+
+The 3D Systems ProX DMP320 machine is a high quality direct metal printing
+machine. It is currently set up to print medical-grade titanium in a 275x275x
+420mm build area, with a layer-by-layer additive powder melting process by
+laser.
+
+  * Demonstration video
+
+M1 Additive Printer
+
+    
+
+**Location:** Polymer Printing Lab, Fitzpatrick Center (FCIEMAS)
+
+****Contact:**** Eric Stach eric.stach@duke.edu
+
+**Description:**
+
+The M1 by Carbon 3d is an additive printer that uses several different
+polymers. Its innovative process produces parts with material properties and
+finish similar to injection molding. The M1 prints using UV-curable resins
+which include: prototyping (similar to SLA with custom coloring), rigid
+polyurethane, flexible polyurethane, elastomeric polyurethane, and cyanate
+ester.
+
+  * Demonstration video
+
+Stratasys Dimension 1200es and Fortus 250 Printers
+
+    
+
+**Location:** MEMS Prototype and Instrumentation Lab, Hudson Hall
+
+******Contact:****** Eric Stach eric.stach@duke.edu
+
+**Description:**
+
+The Stratasys Dimension 1200es and Fortus 250 printers are FDM (Fused
+Deposition Modeling) style printers located in the MEMS Prototype and
+Instrumentation Lab in Hudson Hall. Reliable and repeatable technology builds
+parts out of ABS plastic in a 10x10x10-inch build area to a minimum resolution
+of 0.007 inch.
+
+## Testing
+
+Bose ELF 3220
+
+    
+
+**Location:** Joint Mechanical Testing Laboratory, Medical Sciences Research
+Building
+
+**Contact:** Patrick McGuire patrick.mcguire@duke.edu or  
+Eric Stach eric.stach@duke.edu
+
+**Description:**
+
+The Bose ELF 3220 extended stroke materials testing machine has a frictionless
+linear actuator suitable for high resolution, low-force testing, and an
+auxiliary long-stroke actuator mountable in the movable crosshead. A hot/cold
+chamber may be mounted on the machine for testing in controlled temperature
+environments.
+
+Test Resources 830LE-AT
+
+    
+
+**Location:** Joint Mechanical Testing Laboratory, Medical Sciences Research
+Building
+
+****Contact:**** Patrick McGuire patrick.mcguire@duke.edu or  
+Eric Stach eric.stach@duke.edu
+
+**Description:**
+
+The Test Resources 830LE-AT is a biaxial fatigue-rated electrodynamic
+materials testing machine with an axial loading capacity of +/- 50 kN and
+torsion capacity of 280 N-m. A complete range of accessories includes a
+temperature chamber allowing testing at temperatures ranging from -155 °C to
+425° C, a temperature-controlled biobath, a wide range of grips and fixtures,
+and a digital video extensometer system.
+
+Instron 1321
+
+    
+
+**Location:** Joint Mechanical Testing Laboratory, Research Park 4
+
+****Contact:**** Patrick McGuire patrick.mcguire@duke.edu or  
+Eric Stach eric.stach@duke.edu
+
+**Description:**
+
+The Instron 1321 is a servohydraulic materials testing machine with tension
+and compression capacity of +/- 5kN. A broad range of testing fixtures allows
+for standard materials testing and specialized biomechanical testing of bones,
+joints, and soft tissues.
+
+Anechoic Chamber
+
+    
+
+**Location:** Room 029J, Hudson Hall
+
+**Contact:** donald.bliss@duke.edu.
+
+**Description:**
+
+The Duke Anechoic Chamber offers an acoustically isolated testing facility
+with highly absorptive walls for students and faculty to use. The non-echoing
+properties of the chamber allow for direct field measurements, simulating
+free-space and thus minimizing the reverberant field found in real-world
+environments.
+
+Dimensions: 9 x 12.5 x 7.5 feet.
+
+Sound absorption is achieved through the soft foam wedges and thick
+dissipative foam located along the chamber wall. Incident acoustic waves
+become trapped within the porous foam structure and converted into small
+amounts of heat that then dissipate behind a blanket of condensed fiberglass.
+The absorption process is most efficient at higher frequencies while
+experiments have shown near anechoic properties down to around 300 Hz.
+
+The chamber at Duke is fully anechoic (absorptive floor) and features a mesh
+floor grating for supporting equipment. Threaded rods are conveniently mounted
+onto the ceiling for hanging sound sources that can rotate through a stepper
+motor adapter, allowing for the testing of speaker directivity patterns.
+Electrical outlets are located on all four side walls along with a small
+window for feeding cables outside the room.
+
+Subsonic Wind Tunnel
+
+    
+
+**Location:** Basement Level, Hudson Hall Annex
+
+**Contact:** Patrick McGuire patrick.mcguire@duke.edu
+
+**Description:**
+
+The Duke Subsonic Wind Tunnel is an experimental apparatus used primarily for
+aerospace engineering research.
+
+Dimensions: 20 feet tall, with a footprint of 40 feet by 10 feet. The test
+section of the wind tunnel, in which experimental models can be placed, is
+about 50 inches long and has a cross section of 20 inches by 28 inches. The
+air flow through the test section is driven by a 75 hp electric motor and can
+reach air speeds up to 60 m/s. A gust response excitation system is available.
+
+Membrane Ground Vibration
+
+Data acquisition equipment: Air speed is measured by a pitot static tube and
+by a hot wire anemometer calibrated specifically for the range of air speed
+for this wind tunnel. Signals from the two instruments are collected by a
+National Instruments DAQ system, and read by LabVIEW software on the wind
+tunnel’s dedicated computer. In addition, the DAQ system has one 8-channel
+current input module, three 8-channel voltage input modules, and one 8-channel
+voltage output module.
+
+Instruments for measuring experimental model motion include teardrop
+accelerometers, a laser velocity meter, pressure sensors and strain gauges.
+There is also a stand-alone spectrum analyzer that can acquire data and
+compute the frequency content and transfer function using onboard software.
+
+Interior view
+
+Projects have included aeroelastic response of morphing wing aircraft,
+determining flutter boundaries for flexible membranes with various boundary
+conditions, unsteady aerodynamic and buffet studies of airfoils at very high
+angles of attack, and experimental demonstration of limit cycle oscillation
+behavior for an airfoil supported by springs with a novel geometrically
+nonlinear design.
+
+More information at aeroelasticity.pratt.duke.edu »
+
+## Cleanroom Fabrication, Characterization and Imaging
+
+Duke Shared Materials Instrumentation Facility (SMIF)
+
+    
+
+**Location:** Room 1593, Fitzpatrick Center
+
+**Website:** smif.pratt.duke.edu
+
+**Description:** An NSF-funded part of the National Nanotechnology
+Coordinating Infrastructure. The facility includes a cleanroom and
+instrumentation for electron-beam lithography, electron microscopy, MicroCT
+imaging, X-ray characterization and optical spectroscopy.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

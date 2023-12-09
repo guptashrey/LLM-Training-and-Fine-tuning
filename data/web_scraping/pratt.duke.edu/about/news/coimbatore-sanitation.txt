@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke's Community-Based Toilet System Begins Testing in India
+
+April 3, 2018 | By Ken Kingery
+
+Stand-alone waste facility aimed at sanitation crisis facing billions
+worldwide
+
+Researchers at Duke University have installed an experimental "reinvented
+toilet" at a textile mill in Coimbatore, India, to serve as a real-world
+testing site. The leaders of the new decentralized waste processing system
+hope that the trial will lead to commercialized solutions produced through the
+Bill & Melinda Gates Foundation's Reinvent the Toilet Challenge.
+
+The system is designed to reuse water, a huge plus in drought-prone areas. And
+while it does require a modest power supply, these needs can be met through
+solar panels or other off-grid solutions. The end goal is a stand-alone system
+that can help meet the needs of the 2.4 billion people who lack access to safe
+and effective sanitation.
+
+"This is the first wave of our systems being installed at high-profile sites
+for the Gates Foundation," said Brian Stoner, who started the program as a
+Senior Fellow at RTI International before joining Duke as a research professor
+and director of the Center for WaSH-AID (Water, Sanitation, Hygiene and
+Infectious Disease).
+
+"Data suggest that women are disproportionately affected by poor sanitation
+options, so we're focusing our first full system test on gaining their
+acceptance and supporting their needs," Stoner said. "Our aim is to be gender-
+transformative, empowering women and girls with the knowledge and choices to
+enhance their health, education and quality of life."
+
+With the help of Namrata Jha, the Bangalore-based director of Duke University
+India—launched in 2017 to help foster such collaborations—the researchers
+installed the sanitation system in a women's dormitory at a textile mill in
+Coimbatore, India. The project began with a survey of more than 2000
+households and 20 focus groups to help understand the social and user
+requirements of any new sanitation technology.
+
+Key takeaways included that, while the facility needs to be safe, its look and
+feel is just as important. They also found that something as simple as having
+a chute to discreetly dispose of feminine hygiene products can have a major
+effect on the community.
+
+"More than a quarter of Indian women drop out of school when they reach
+puberty, due in part from the lack of facilities to safely and discretely
+dispose of feminine hygiene products," said project co-leader Jeff Glass, a
+professor of electrical and computer engineering (ECE) at Duke. "Plus the
+women of the family strongly influence what facilities the family uses, so
+we're focusing on developing the technology in response to their needs."
+
+The technology works by using a sort of corkscrew conveyor belt to separate
+solid and liquid waste. The solids are then dried and burned using a novel
+combustion unit designed by partners at Colorado State University to produce
+energy, which is used in turn for both drying more solid waste and powering
+the electrochemical disinfection of the liquid waste. While the treated liquid
+is not drinkable, it can be safely discharged or reused for flushing.
+
+The first few years of the project were spent in laboratories at both Duke and
+RTI working out the technological needs of the system in highly controlled
+environments. A prototype was then installed at the CEPT University in
+Ahmedabad, India, where researchers could control how much the system was used
+and take it offline anytime they needed. The installation in Coimbatore is a
+significant step forward because it will spend the next year in full operation
+in a real-life setting.
+
+"This installation will really put the sanitation system through its paces,"
+Stoner said. "Success in a laboratory setting is an important first step, but
+testing it in more realistic conditions will help show where we can still make
+improvements."
+
+Besides putting the technology to the test, the installation in India is also
+key to learning how to gain community acceptance. The women workers will have
+their choice between regular toilet facilities and the experimental system.
+Learning which ones they prefer and why will be just as important to realizing
+an eventual solution, even though the sanitation technology used in the new
+system may be far superior to what is already available.
+
+One example of the importance of user feedback in the development of new
+technologies came when people stopped using the original prototype system at
+CEPT because the treated water being reused for flushing looked "dirty." While
+it met the necessary sanitation requirements, the researchers had to find a
+way to make it look like the community's regular water before people would use
+the toilet.
+
+"This is an important year for us," Glass said. "Besides proving that our
+sanitation system can work and that people will use it, we're also hoping to
+start partnering with potential manufacturers who want to translate the
+prototypes into a commercial product."
+
+The researchers have already partnered with a small business called Biomass
+Controls based in Connecticut, which earlier this year opened a small office
+in Durham, North Carolina, to help transition the technology into the field
+trials.
+
+The Gates Foundation's Reinvent the Toilet Challenge was launched in 2011 to
+bring sustainable solutions to the 2.5 billion people worldwide who don't have
+access to safe, affordable sanitation. The program has provided more than 15
+grants to scientists worldwide to pursue promising solutions to this health
+crisis.
+
+Among those awarded additional funding after successful proof-of-concept
+studies were Stoner and Glass at Duke. With one system now being tested in a
+real-life scenario in India and a second soon to launch in South Africa, the
+pair hope to attract commercial investors leading up to a showcase event this
+fall in Beijing, China.
+
+"Our goal is not to manufacture these systems ourselves," Stoner said.
+"Instead we want the Center for WaSH-AID to be a catalyst for
+commercialization by creating an environment that fosters collaboration
+between researchers and product development partners to create innovative,
+sustainable solutions for the global sanitation crisis."
+
+Visit washaid.pratt.duke.edu
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

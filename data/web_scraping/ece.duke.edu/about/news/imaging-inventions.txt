@@ -1,0 +1,255 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Imaging Inventions
+
+April 18, 2018
+
+Two Duke BME startups bring optical imaging technologies to patients across
+the spectrum of clinical settings
+
+**Joseph Izatt**
+
+Joseph Izatt first began working with optical coherence tomography, or OCT, in
+1991 as a postdoctoral researcher at the Massachusetts Institute of
+Technology. In the intervening years, he’s become one of the leading experts
+in OCT, and he has continued to advance the optical technology through both
+his lab at Duke University and his former company, Bioptigen, Inc.
+
+Optical coherence tomography is an imaging technique that uses coherent light
+waves to penetrate beneath the surface of living tissues, allowing researchers
+to diagnose and subsequently treat diseases. Today, the technique produces
+both 2-D and 3-D images of tissue in much finer detail than other techniques
+like ultrasound, CT or MRI scans. OCT can provide in-depth, cross-sectional
+images with a resolution of 10 micrometers—smaller than a width of human
+hair—making it an ideal technique for detecting and monitoring the treatment
+of serious eye diseases like glaucoma and age-related macular degeneration
+(AMD).
+
+“OCT allows you to advance from surface imaging to cross-sectional or
+volumetric imaging, and with much greater resolution,” says Izatt, the Michael
+J. Fitzpatrick Professor of Engineering at Duke. “That’s really important
+because many diseases that cause blindness are quite subtle to diagnose
+accurately with conventional instruments, and that requires many years of
+training. But OCT is a major advance in the speed and ease of diagnosing these
+problems, and just as importantly in monitoring their successful treatment.”
+
+Izatt came to Duke in 2001, in part to collaborate with leading
+ophthalmologists at the Duke University Eye Center. Among them was Dr. Cynthia
+Toth, a retinal surgeon at the Duke University School of Medicine and a
+professor in BME and ophthalmology. At the time, Toth and other
+ophthalmologists were able to use OCT on their patients before and after
+surgery, but not intraoperatively.
+
+“My lab was able to contribute to a revolution in the technology underlying
+OCT, which made it many times more sensitive and much faster at acquiring
+images in patients,” says Izatt. “After I started at Duke I was approached by
+Eric Buckland, an optics PhD and veteran executive who was looking to start a
+high-tech company in North Carolina.”
+
+After working with Duke to find incubator space, Izatt, Buckland and optical
+scientist William Brown founded Bioptigen in 2004. The team concentrated their
+efforts on developing technology that could show images to physicians in real-
+time, eventually creating their first successful product—a handheld OCT probe
+that allowed doctors to hold the tool over a patient’s eye and simultaneously
+see the image in a screen.
+
+“Dr. Toth had been asking me for OCT in the operating room since 1994, and she
+ended up taking the handheld tool into surgery with her,” says Izatt. “That
+still wasn’t especially convenient because she’d need to stop the surgery,
+move the microscope out of the way and put the probe over the patient, but it
+was so useful to have that information while the patient was still on the
+table that she was willing to do it.”
+
+By 2010, the company began to build OCT into a surgical microscope, resulting
+in their first intra-operative OCT tool. Its success drew the attention of
+Leica Microsystems, a European optical instrument brand that supplies top-
+quality research and surgical microscope systems. In 2015, the company
+acquired Bioptigen to incorporate its proven real-time OCT technology into
+their own surgical microscope product line.
+
+After the success of Bioptigen, Izatt and his team are enthusiastic about the
+ongoing entrepreneurial framework in Duke BME, and they are looking ahead to
+see how they can continue to advance OCT.
+
+“I was fortunate to work with talented surgeons at Duke, and at Bioptigen I
+was very lucky to work with talented managers and engineers,” says Izatt. “The
+whole experience was terrific, and to be able to go into an environment and
+see our technology being used to benefit patients is truly gratifying.”
+
+**Adam Wax**
+
+OCT is considered the gold standard for eye disease imaging and diagnosis, but
+its high cost—ranging between $35,000 to $150,000—often puts it out of reach
+for people without access to a large eye center or hospital. Adam Wax, a
+professor of biomedical engineering at Duke University, aimed to change that
+when he founded Lumedica in 2014.
+
+“Our goal is to democratize access to this valuable imaging tool. Say you live
+in a rural community and you need to be screened for retinal disease as you
+get older—are you going to be able to drive to the Duke Eye Center and get an
+OCT every year like you’re supposed to?” asks Wax. “Maybe you go the first
+year, maybe the second year, but it’s not easy to constantly go back. If it
+was at the doctor’s office in town, though, then they have an easier time
+getting screened.”
+
+With 20 years of experience in the field of biomedical optics, Wax started
+Lumedica  
+to commercialize low-cost biomedical imaging strategies developed in his lab
+at Duke.  
+The poster child for his work is Lumedica’s OQ LabScope, an OCT-equipped tool
+that is approximately the size of a shoebox and weighs less than 6 pounds.
+Rather than use metal parts in the spectroscope, Wax and his engineering team
+created a design with 3-D-printed parts, allowing the tool to be more flexible
+without affecting the spectrometer’s alignment.
+
+In addition to bringing the device to smaller ophthalmologist offices, Wax and
+his team plan to explore how their tool can also be used in the context of
+global health. “The most impressive demonstration is that we put it in a box,
+put it on a plane, and when we took it out of the box it immediately works
+without any additional calibration,” says Wax. “It’s the perfect modality for
+resource-limited settings.”
+
+While the device isn’t as precise as the high-end OCT tools used in eye
+centers, the OQ LabScope matches the performance of entry-level OCT systems.
+According to Wax, the tool is also three to five times less expensive than
+portable competitors, costing less than $10,000 while offering a more precise
+reading.
+
+“People have talked the talk, but we’re the first ones to walk the walk,” says
+Wax. “We’re really the first ones to put an acceptable OCT device on the
+market and there aren’t any competitors that are close to the price point.”
+
+In addition to helping patients with eye diseases, the lower price has piqued
+the interest of researchers who never thought to use OCT in their work because
+of the high cost. “While we can’t say we predicted every market the tool would
+go to, this price point makes it compatible for undergraduate and graduate
+laboratories,” Wax notes.
+
+Now, Wax and his collaborator, Nick Ulrich, an assistant professor of
+ophthalmology at the University of North Carolina in Chapel Hill,are working
+with the Duke-Coulter Translational Research Partnership to develop a device
+similar to the LabScope that is optimized to work for retinal imaging. To
+commercialize this idea, the team plans to start a spin-off from Lumedica,
+called Lumedica Vision, focused on bringing low cost OCT imaging to the
+ophthalmology market.
+
+“With lots of eye diseases, if you can find them you can halt their
+progression. The problem is that people often don’t go to the eye doctor until
+part of their vision is lost, and at that point they can’t reverse it,” says
+Wax. “With OCT, you have the capability of finding these problems early, so
+our goal is to put OCT where it wasn’t before.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

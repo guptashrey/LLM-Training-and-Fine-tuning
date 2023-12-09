@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Researchers Take Optical Coherence Tomography to the Next Level
+
+June 2, 2022 | By Aaron Cohen
+
+With clearer imaging and enhanced resolution, a new OCT approach developed at
+Duke could improve medical diagnostic imaging
+
+Duke University researchers have developed an enhanced version of optical
+coherence tomography (OCT) that can image biomedical samples at higher
+contrast and resolution over a wider 3D field of view than was previously
+possible. The new 3D microscope could be useful for biomedical research and
+eventually enable more accurate medical diagnostic imaging.
+
+In _Optica_, Optica Publishing Group’s journal for high-impact research, the
+researchers describe the new technique which they call 3D optical coherence
+refraction tomography (3D OCRT). Using various biological samples, they show
+that 3D OCRT produces highly detailed images that reveal features difficult to
+observe with traditional OCT.
+
+OCT uses light to provide high-resolution 3D images without requiring any
+contrast agents or labels. Although it is commonly used for ophthalmology
+applications, the imaging method can also be used to image many other parts of
+the body such as the skin and inside the ears, mouth, arteries and
+gastrointestinal tract.
+
+“OCT is a volumetric imaging technique widely used in ophthalmology and other
+branches of medicine,” said first author Kevin C. Zhou. “We developed a new
+and exciting extension, featuring novel hardware combined with a new
+computational 3D image reconstruction algorithm to address some well-known
+limitations of the imaging technique.”
+
+“We envision this approach being applied in a wide variety of biomedical
+imaging applications, such as _in vivo_ diagnostic imaging of the human eye or
+skin,” said research team co-leader Joseph A. Izatt. “The hardware we designed
+to perform the technique can also be readily miniaturized into small probes or
+endoscopes to access the gastrointestinal tract and other parts of the body.”
+
+## Seeing More with OCT
+
+Although OCT has proven useful both in clinical applications and biomedical
+research, it is difficult to acquire high-resolution OCT images over a wide
+field of view in all directions simultaneously due to fundamental limitations
+imposed by optical beam propagation. Another challenge is that OCT images
+contain high levels of random noise, called speckle, which can obscure
+biomedically important details.
+
+To address these limitations, the researchers used an optical design that
+incorporated a parabolic mirror. This type of mirror is commonly found in non-
+imaging applications, such as flashlights, where it surrounds the light bulb
+to direct the light in one direction. The researchers used an optical setup in
+which light was sent in the other direction, with the sample placed where the
+light bulb would be in a flashlight.
+
+This design made it possible to image the sample from multiple views over a
+very wide range of angles. They developed a sophisticated algorithm to combine
+the views into a single high-quality 3D image that corrects for distortions,
+noise and other imperfections.
+
+“The work published in _Optica_ extends on our previous research by overcoming
+significant engineering challenges, both in the hardware and software, to
+allow OCRT to work in 3D and make it more widely applicable,” said research
+team co-leader Sina Farsiu. “Because our system generates tens to hundreds of
+gigabytes of data, we had to develop a new algorithm based on modern
+computational tools that have recently matured within the machine learning
+community.”
+
+## Getting A Wider View
+
+The researchers demonstrated the versatility and broad applicability of the
+method by using it to image various biological samples including a zebrafish
+and fruit fly, which are important model organisms for behavioral,
+developmental and neurobiological studies. They also imaged mouse tissue
+samples of the trachea and esophagus to demonstrate the potential for medical
+diagnostic imaging. With 3D OCRT, they acquired 3D fields of view of up to
+±75° without moving the sample.
+
+“In addition to reducing noise artifacts and correcting for sample-induced
+distortions, OCRT is inherently capable of computationally creating contrast
+from tissue properties that are less visible in traditional OCT,” said Zhou.
+“For example, we show that it is sensitive to oriented structures such as
+fiber-like tissue.”
+
+The researchers are now exploring ways to shrink the system and make it faster
+for live imaging by taking advantage of recent developments in faster OCT
+system technologies and advances in deep learning that can speed up or improve
+data processing.
+
+**Citation** : K. C. Zhou, R. P. McNabb, R. Qian, S. Degan, A.-H. Dhalla, S.
+Farsiu, J. A. Izatt, “Computational 3D microscopy with optical coherence
+refraction tomography,” 9, 6 (2022).  
+DOI: 10.1364/OPTICA.454860
+
+## Related News
+
+August 04, 2021
+
+### Robotic Scanner Automates Diagnostic Imaging in the Eye
+
+May 04, 2021
+
+### AI Spots Individual Neurons in the Eye Better than Human Experts
+
+May 14, 2020
+
+### Retinal Texture Could Provide Early Biomarker Of Alzheimer’s Disease
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

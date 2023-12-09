@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Distinguishing Solar Panels from Swimming Pools
+
+August 29, 2016 | By Ken Kingery
+
+Duke students and researchers are using deep learning to autonomously spot
+solar panels from the sky
+
+The face of America’s energy grid is changing rapidly with the constant
+addition of small-scale solar panel installations. But due to a lack of
+detailed information, that portrait looks more like a Picasso than a
+Rembrandt.
+
+Earlier this year, the United States hit a benchmark of one million solar
+installations, generating enough electricity to power 5.7 million homes. That
+number is expected to double in just two years.
+
+While these data are tracked on a large scale—states provide information to
+the federal Department of Energy roughly once per year—there is little
+information about exactly where solar energy is being adopted on a county,
+city or neighborhood level. This is an oversight that the Department of Energy
+and other government agencies are turning to researchers to fix, including an
+interdisciplinary group at Duke University, led by Leslie Collins, professor
+of electrical and computer engineering and biomedical engineering at Duke.
+
+“Our power grid is designed for a single centralized power source to
+distribute energy out to the public,” said Kyle Bradbury, managing director of
+the Energy Data Analytics Lab at Duke. “But more and more we’re seeing these
+small solar panel installations being connected to the grid and actually
+contributing power. At some point, the needs of our power lines and grid
+infrastructure are going to change.”
+
+Regulatory agencies would like to get out in front of this shift toward
+distributed power generation, if possible. With precise data about where solar
+energy is being adopted and how it is changing over time, officials could
+predict where to install new technology to meet changing demands. Social
+scientists could get a better understanding of how policy affects the adoption
+of solar panels. Economists could better value the future of the 8,000 solar
+companies employing more than 200,000 American workers.
+
+At present, however, the only way to get this information is to go through the
+local public utility commission interconnection records, which is a tedious
+and not easily automated task. Alternatively, one could enlist the help of a
+group of students to pore over satellite images and pick out solar panels by
+hand—also a tedious task.
+
+But that’s exactly what Collins and Bradbury did through the summer Data+
+Program and an ongoing Bass Connections project. Data+ is a 10-week summer
+research experience for Duke undergraduates interested in data-driven
+approaches to interdisciplinary challenges. Bass Connections is a program at
+Duke offering grants to interdisciplinary collaborations.
+
+In the Data+ project, students built a data set to train computers to spot
+solar panels by meticulously annotating 58 square miles of satellite imagery
+of Fresno, California. That dataset formed the foundation for a Bass
+Connections project where students explored real-world machine learning
+techniques applied to relevant energy questions, including the hunt for solar
+panels.
+
+And luckily for everyone, the summer spent circling solar panels appears to
+have been enough to train a computer to do the job.
+
+“The aerial imagery being developed now has resolution down to about a foot,
+so you can see the solar panels by eye,” said Jordan Malof, a research
+scientist in Collins’s lab, who works on the algorithms designed to spot solar
+panels and leads the research in the Bass Connections project. “And the rule
+of thumb is that if a human can see it, then you can probably program a
+computer to see it too.”
+
+To teach computers how to spot solar panels, Malof is turning to “deep
+learning”—a buzzword in computer science circles. The idea is that if you give
+a computer enough examples of what solar panels look like from the sky and
+compare them to similar photos where there are no solar panels, the computer
+can teach itself to distinguish between the two.
+
+According to Malof, it’s almost like developing a synthetic visual cortex—the
+part of the brain that processes visual information through several
+consecutive layers of neurons. In a deep learning project, the trick is to
+pick how many layers to incorporate and how many connections to put between
+individual “neurons,” among other factors.
+
+The whole process involves turning different knobs and trying different
+settings to try to optimize the results. With a dataset of 20,000 individual
+annotated solar panels and 100,000 image chips covering 1.5 billion pixels of
+satellite imagery from the U.S. Geological Survey, Malof is starting to get
+dialed in.
+
+“The simple statement is that it’s working pretty well,” said Malof. “We can
+catch about 80 percent of the solar panels that are there with only three
+false positives per square kilometer.”
+
+As the research group continues to make improvements, they plan to expand
+their efforts beyond solar arrays.
+
+“We’re starting to look into more general estimates of energy consumption,”
+said Bradbury. “We want to see if we can use the volume of buildings,
+estimated from aerial photography, to approximate energy consumption in a
+given area. Not only would these techniques provide important information for
+smart grid infrastructure planning in the U.S., they could be valuable tools
+for international development in any country undergoing the process of energy
+infrastructure planning.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

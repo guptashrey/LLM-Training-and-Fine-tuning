@@ -1,0 +1,233 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Setting Ground Rules for Nanotechnology Research
+
+August 18, 2015 | By Ken Kingery
+
+Two new projects set the stage for nanotechnology research to move into Big
+Data
+
+In two new studies, researchers from across the country spearheaded by Duke
+University faculty have begun to design the framework on which to build the
+emerging field of nanoinformatics.
+
+Nanoinformatics is, as the name implies, the combination of nanoscale research
+and informatics. It attempts to determine which information is relevant to the
+field and then develop effective ways to collect, validate, store, share,
+analyze, model and apply that information -- with the ultimate goal of helping
+scientists gain new insights into human health, the environment and more.
+
+In the first paper, published on August 10, 2015, in the Beilstein Journal of
+Nanotechnology, researchers begin the conversation of how to standardize the
+way nanotechnology data are curated.
+
+Because the field is young and yet extremely diverse, data are collected and
+reported in different ways in different studies, making it difficult to
+compare apples to apples. Silver nanoparticles in a Florida swamp could behave
+entirely differently if studied in the Amazon River. And even if two studies
+are both looking at their effects in humans, slight variations like body
+temperature, blood pH levels or nanoparticles only a few nanometers larger can
+give different results. For future studies to combine multiple datasets to
+explore more complex questions, researchers must agree on what they need to
+know when curating nanomaterial data.
+
+“We chose curation as the focus of this first paper because there are so many
+disparate efforts that are all over the road in terms of their missions, and
+the only thing they all have in common is that somehow they have to enter data
+into their resources,” said Christine Hendren, a research scientist at Duke
+and executive director of the Center for the Environmental Implications of
+NanoTechnology (CEINT). “So we chose that as the kernel of this effort to be
+as broad as possible in defining a baseline for the nanoinformatics
+community.”
+
+The paper is the first in a series of six that will explore what people mean
+-- their vocabulary, definitions, assumptions, research environments, etc. --
+when they talk about gathering data on nanomaterials in digital form. And to
+get everyone on the same page, the researchers are seeking input from all
+stakeholders, including those conducting basic research, studying
+environmental implications, harnessing nanomaterial properties for
+applications, developing products and writing government regulations.
+
+The daunting task is being undertaken by the Nanomaterial Data Curation
+Initiative (NDCI), a project of the National Cancer Informatics Nanotechnology
+Working Group (NCIP NanoWG) lead by a diverse team of nanomaterial data
+stakeholders. If successful, not only will these disparate interests be able
+to combine their data, the project will highlight what data are missing and
+help drive the research priorities of the field.
+
+In the second paper, published on July 16, 2015, in Science of The Total
+Environment, Hendren and her colleagues at CEINT propose a new, standardized
+way of studying the properties of nanomaterials.
+
+“If we’re going to move the field forward, we have to be able to agree on what
+measurements are going to be useful, which systems they should be measured in
+and what data gets reported, so that we can make comparisons,” said Hendren.
+
+The proposed strategy uses functional assays -- relatively simple tests
+carried out in standardized, well-described environments -- to measure
+nanomaterial behavior in actual systems.
+
+For some time, the nanomaterial research community has been trying to use
+measured nanomaterial properties to predict outcomes. For example, what size
+and composition of a nanoparticle is most likely to cause cancer? The problem,
+argues Mark Wiesner, director of CEINT, is that this question is far too
+complex to answer.
+
+“Environmental researchers use a parameter called biological oxygen demand to
+predict how much oxygen a body of water needs to support its ecosystem,”
+explains Wiesner. “What we’re basically trying to do with nanomaterials is the
+equivalent of trying to predict the oxygen level in a lake by taking an
+inventory of every living organism, mathematically map all of their living
+mechanisms and interactions, add up all of the oxygen each would take, and use
+that number as an estimate. But that’s obviously ridiculous and impossible. So
+instead, you take a jar of water, shake it up, see how much oxygen is taken
+and extrapolate that. Our functional assay paper is saying do that for
+nanomaterials.”
+
+The paper makes suggestions as to what nanomaterials’ “jar of water” should
+be. It identifies what parameters should be noted when studying a specific
+environmental system, like digestive fluids or wastewater, so that they can be
+compared down the road.
+
+It also suggests two meaningful processes for nanoparticles that should be
+measured by functional assays: attachment efficiency (does it stick to
+surfaces or not) and dissolution rate (does it release ions).
+
+In describing how a nanoinformatics approach informs the implementation of a
+functional assay testing strategy, Hendren said “We’re trying to anticipate
+what we want to ask the data down the road. If we’re banking all of this
+comparable data while doing our near-term research projects, we should
+eventually be able to support more mechanistic investigations to make
+predictions about how untested nanomaterials will behave in a given scenario.”
+
+Both research papers were supported the National Science Foundation and the
+Environmental Protection Agency (DBI-1266252 and EF-0830093), and the paper on
+data curation was additionally supported by the National Institutes of Health
+(ES017552-01A2).
+
+###
+
+“The Nanomaterial Data Curation Initiative: A collaborative approach to
+assessing, evaluating, and advancing the state of the field.” Christine
+Ogilvie Hendren, Christina M. Powers, Mark D. Hoover and Stacey L. Harper.
+Beilstein J. Nanotechnol., 2015. DOI: doi:10.3762/bjnano.6.179
+
+“A functional assay-based strategy for nanomaterial risk forecasting.”
+Christine Ogilvie Hendrena, Gregory V. Lowrya, Jason M. Unrinea and Mark R.
+Wiesner. “Science of The Total Environment, 2015. DOI:
+10.1016/j.scitotenv.2015.06.100.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

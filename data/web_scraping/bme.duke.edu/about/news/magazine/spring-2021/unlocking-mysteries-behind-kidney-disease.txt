@@ -1,0 +1,278 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Unlocking the Mysteries Behind Kidney Disease
+
+March 24, 2021 | Michaela Kane
+
+BME’s Samira Musah and her lab use organ-on-a-chip models to explore the
+mechanism behind the damaging disease
+
+Samira Musah’s lab at Duke University focuses on a prevalent, but understudied
+problem: kidney disease.
+
+According to the Centers for Disease Control and Prevention, more than 15
+percent of the U.S. population––approximately 37 million people­­––have the
+disease. When the kidneys are operating correctly, they act like a filtering
+plant for the body, separating toxins from healthy nutrients and disposing of
+waste. But when kidney function is compromised, those toxins can back up in
+the system, leading to heart attacks and heart failure, high blood pressure
+and neurological issues.
+
+Samira Musah
+
+Although the issue is incredibly prevalent, as many as nine out of 10 adults
+with kidney disease are unaware they have any kidney problems, as they exhibit
+very few, if any, signs or symptoms until kidney function is significantly
+impaired. This delay often means that patients must go through kidney
+dialysis, and eventually need a kidney transplant.
+
+Both the prevalence and difficulty in diagnosing kidney disease proved to be
+an intriguing problem for Musah. During her post-doctoral fellowship at
+Harvard University, Musah was involved in a project to create various organ-
+on-chip platforms to model different organs throughout the body. Through this
+project, she realized that it was especially difficult to create a working
+model of the human kidney.
+
+“I quickly learned that one of the reasons we couldn’t make great models of
+kidneys was because we didn’t have access to a reliable source of kidney
+cells,” says Musah. “You couldn’t get cells from patients, as that would
+involve a really invasive process, so instead we were collecting cells from
+kidneys that were either already unhealthy or from organs that were rejected
+from transplantation.
+
+“It’s tough to use these samples to create healthy kidney models when the
+kidneys they came from didn’t work normally to begin with,” she says.
+
+Instead, Musah was curious if she could use her background in stem cell
+biology to create functional kidney cells out of pluripotent stem cells.
+
+The image shows human endothelial cells derived from human induced pluripotent
+stem cells
+
+Human podocytes cytoskeleton is dysregulated during injury
+
+“It actually started out as a side project during my post-doc, but I was
+really excited about it and I poured a lot of my energy into it,” says Musah.
+“I was able to create a new method that allowed us to differentiate human
+pluripotent stem cells into a specialized epithelial cell in the kidney. These
+cells are important because if they are damaged then the patient is more
+likely to progress to kidney failure and end-stage kidney failure, which is
+when people would need dialysis or a transplant. It was a cell that was a
+significant factor if we wanted to create a model for kidney disease.”
+
+Being able to turn stem cells into healthy and functional kidney cells allowed
+Musah and her team to create a new model of the kidney, where they could begin
+answering long-standing questions about how the kidneys develop and what
+biological changes occur in the organs to trigger kidney disease. Establishing
+a functional platform also allowed them to identify and test possible
+therapeutics for the global disease––something that’s been extremely difficult
+to accomplish.
+
+Since joining Duke in 2019, Musah has used her dual roles in the department of
+biomedical engineering and the nephrology division at Duke Health to advance
+this work. As her lab has grown, they’ve continued to explore how they can
+create new organ-on-a-chip models that are both more efficient and effective.
+
+Human podocytes, a type of kidney cell, in an organ-on-chip device
+
+George Mou completes work in the lab
+
+Their work was put to the test in the spring of 2020, when Musah attended a
+virtual symposium where physicians presented research that described how
+patients who never had any kidney-related issues were experiencing kidney
+disease or kidney failure after being infected with SARS-CoV-2, the virus that
+causes COVID-19.
+
+“It was shocking to hear doctors describe how patients that were perfectly
+healthy needed to go on dialysis after contracting COVID-19,” says Musah.
+“There were also reports that showed that patients with acute kidney disease
+were more likely to have a severe reaction to COVID-19.
+
+“All of this piqued my curiosity, and when we were approached by physicians
+about exploring the connection between the kidneys and COVID we jumped at the
+chance to use our models to answer this important question.”
+
+When the immune system is responding to a threat, it sends out proteins called
+cytokines to communicate with immune cells and trigger inflammation. But the
+immune system can sometimes overreact and flood the bloodstream with too many
+cytokines, creating a cytokine storm and triggering hyperinflammation. Musah
+and her lab wanted to explore whether the virus was directly affecting the
+kidneys, or if a cytokine storm was damaging the organs.
+
+Yasmin Roye examines samples
+
+“We used a pseudo-virus to conduct our tests, and we actually showed that the
+virus can bind directly to the kidneys,” says Musah. “We then worked with
+researchers in the Duke Human Vaccine Institute, and they used our model to
+show that the SARS-CoV-2 virus was directly binding to the kidney cells. We
+were really excited about having an in-vitro model that was directly relevant
+for occasions like this.”
+
+Musah credits the collaborative nature of Duke for her success, especially in
+the face of unprecedented global challenges.
+
+“Our platform allows us to answer all of these questions about kidneys and
+kidney disease that we haven’t previously been able to explore, and I think
+Duke is a wonderful environment to pursue this work because it’s so
+collaborative,” says Musah. “We can easily work with researchers in the Human
+Vaccine Institute or with virologists and experts in infectious disease
+through Duke Health, and this kind of teamwork allows us to tackle a prevalent
+and damaging issue like kidney disease head-on.”
+
+Members of the Musah lab pose in an 'M' formation outside
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

@@ -1,0 +1,251 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Bruce Maggs
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Pelham Wilder Distinguished Professor of Computer Science
+
+## Appointments and Affiliations
+
+  * Pelham Wilder Distinguished Professor of Computer Science
+  * Professor of Computer Science
+  * Faculty Network Member of The Energy Initiative
+  * Associate of the Duke Initiative for Science & Society
+  * Core Faculty in Innovation & Entrepreneurship
+
+## Contact Information
+
+  * **Office Location:** LSRC D312, Durham, NC 27708
+  * **Office Phone:** (919) 660-6523
+  * **Email Address:** bmm@cs.duke.edu
+  * **Websites:**
+    * http://www.cs.cmu.edu/~bmm/
+
+## Education
+
+  * Ph.D. Massachusetts Institute of Technology, 1989
+
+## Courses Taught
+
+  * COMPSCI 514: Advanced Computer Networks
+  * ECE 558: Advanced Computer Networks
+
+## In the News
+
+  * Web Surfing That Feels Instantaneous, Even Though It’s Not (Apr 13, 2022)
+  * Bruce Maggs Elected Fellow of Association for Computing Machinery (Dec 5,
+    2018)
+
+## Representative Publications
+
+  * Larisch, J., W. Aqeel, M. Lum, Y. Goldschlag, L. Kannan, K. Torshizi, Y.
+    Wang, et al. “Hammurabi: A Framework for Pluggable, Logic-Based X.509
+    Certificate Validation Policies.” In Proceedings of the Acm Conference on
+    Computer and Communications Security, 1857–70, 2022.
+    https://doi.org/10.1145/3548606.3560594.
+  * Chan, T. H. H., K. M. Chung, B. Maggs, and E. Shi. “Foundations of
+    Differentially Oblivious Algorithms.” Journal of the Acm 69, no. 4 (August
+    26, 2022). https://doi.org/10.1145/3555984.
+  * Zhang, X., T. Sen, Z. Zhang, T. April, B. Chandrasekaran, D. Choffnes, B.
+    M. Maggs, H. Shen, R. K. Sitaraman, and X. Yang. “AnyOpt: Predicting and
+    optimizing IP Anycast performance.” In Sigcomm 2021 Proceedings of the Acm
+    Sigcomm 2021 Conference, 447–62, 2021.
+    https://doi.org/10.1145/3452296.3472935.
+  * Shi, E., W. Aqeel, B. Chandrasekaran, and B. Maggs. “Puncturable
+    Pseudorandom Sets and Private Information Retrieval with Near-Optimal
+    Online Bandwidth and Time.” In Lecture Notes in Computer Science
+    (Including Subseries Lecture Notes in Artificial Intelligence and Lecture
+    Notes in Bioinformatics), 12828 LNCS:641–69, 2021.
+    https://doi.org/10.1007/978-3-030-84259-8_22.
+  * Bhattacherjee, D., W. Aqeel, G. Laughlin, B. M. Maggs, and A. Singla. “A
+    Bird's Eye View of the World's Fastest Networks.” In Proceedings of the
+    Acm Sigcomm Internet Measurement Conference, Imc, 521–27, 2020.
+    https://doi.org/10.1145/3419394.3423620.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

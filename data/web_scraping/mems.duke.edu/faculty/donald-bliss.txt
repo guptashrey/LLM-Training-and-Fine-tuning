@@ -1,0 +1,260 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Donald B. Bliss
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor of Mechanical Engineering and Materials Science
+
+Professor Bliss has broad research interests in fluid mechanics, aerodynamics,
+acoustics, and structural dynamics. His work emphasizes improved
+understandings of physical phenomena and the development of innovative ways to
+solve important engineering problems. Professor Bliss recently developed a
+general analysis method called Analytical/Numerical matching (ANM) that
+combines numerical and analytical solutions to gain accuracy and computational
+efficiency. ANM is currently being applied to a variety of problems in
+aerodynamics and structural acoustics.
+
+Much of Professor Bliss' research on fluid flows involves the aerodynamics of
+lifting surfaces and vortex wakes. For helicopter wakes he has developed
+curved vortex elements, constant vorticity contour wake models, and influence
+coefficient techniques. In collaboration with a private company, these have
+been incorporated into commercially available computer programs used by
+industry and government to predict helicopter performance, vibration, and
+noise. Currently, ANM is being used to develop a new unified treatment of
+lifting surfaces and wakes in unsteady compressible flow. Professor Bliss is
+also developing a new vortex roll-up analysis, and using ANM to study
+helicopter blade/vortex interaction.
+
+In acoustics, Professor Bliss' primary effort is in the application of ANM to
+structural acoustics, particularly to acoustic scattering from submerged
+elastic bodies with structural discontinuities. He has also developed a method
+called Alternate Resonance Tuning (ART) to prevent low frequency sound
+transmission into flexible wall enclosures, with applications to aircraft
+interior noise. He also conducts research on mathematical homogenization
+applied to structural acoustic systems, and on general boundary conditions for
+bulk-reacting sound absorbing surfaces.
+
+## Appointments and Affiliations
+
+  * Associate Professor of Mechanical Engineering and Materials Science
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** 148B Engineering Bldg, Box 90300, Durham, NC 27708
+  * **Office Phone:** (919) 660-5315
+  * **Email Address:** donald.bliss@duke.edu
+  * **Websites:**
+    * AeroElasticity Group
+    * Bliss Lab
+
+## Education
+
+  * B.S.E. Princeton University, 1968
+  * M.S. Massachusetts Institute of Technology, 1970
+  * Ph.D. Massachusetts Institute of Technology, 1973
+
+## Research Interests
+
+Fluid mechanics, aerodynamics, acoustics, and structural dynamics
+
+## Courses Taught
+
+  * ME 472: Aircraft Performance
+  * ME 491: Special Projects in Mechanical Engineering
+  * ME 492: Special Projects in Mechanical Engineering
+  * ME 536: Compressible Fluid Flow
+  * ME 571: Aerodynamics
+  * ME 572: Engineering Acoustics
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 676: Advanced Acoustics
+
+## In the News
+
+  * The Sky's the Limit for Duke Engineers Designing the Safest, Most Cost-
+    Efficien…
+
+## Representative Publications
+
+  * Su, K., and D. Bliss. “A numerical study of tilt-based wake steering using
+    a hybrid free-wake method.” Wind Energy 23, no. 2 (February 1, 2020):
+    258–73. https://doi.org/10.1002/we.2426.
+  * Raudales, David, Donald B. Bliss, Krista A. Michalis, Jerry W. Rouse, and
+    Linda P. Franzoni. “Benchmark analytical solutions for steady state high
+    frequency broadband sound fields in three rectangular enclosures.” The
+    Journal of the Acoustical Society of America 145, no. 4 (April 2019):
+    2601. https://doi.org/10.1121/1.5095771.
+  * Su, K., and D. Bliss. “A novel hybrid free-wake model for wind turbine
+    performance and wake evolution.” Renewable Energy 131 (February 1, 2019):
+    977–92. https://doi.org/10.1016/j.renene.2018.07.108.
+  * Su, K., and D. B. Bliss. “A hybrid free wake simulation comparison of
+    turbine wake steering with innovative turbine designs.” In Proceedings of
+    the Asme Turbo Expo, Vol. 9, 2017. https://doi.org/10.1115/GT2017-64105.
+  * Su, K., and D. Bliss. “Wind farm performance improvement by using wake
+    transport.” In Annual Forum Proceedings Ahs International, 4:3498–3509,
+    2016.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

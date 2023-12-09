@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Acoustic Cloaking Device Hides Objects from Sound
+
+March 11, 2014 | By Ken Kingery
+
+Duke engineers build world’s first 3-D acoustic cloaking device
+
+Using little more than a few perforated sheets of plastic and a staggering
+amount of number crunching, Duke engineers have demonstrated the world’s first
+three-dimensional acoustic cloak. The new device reroutes sound waves to
+create the impression that both the cloak and anything beneath it are not
+there.
+
+The acoustic cloaking device works in all three dimensions, no matter which
+direction the sound is coming from or where the observer is located, and holds
+potential for future applications such as sonar avoidance and architectural
+acoustics.
+
+The study appears online in Nature Materials.
+
+“The particular trick we’re performing is hiding an object from sound waves,”
+said Steven Cummer, professor of electrical and computer engineering at Duke
+University. “By placing this cloak around an object, the sound waves behave
+like there is nothing more than a flat surface in their path.”
+
+To achieve this new trick, Cummer and his colleagues turned to the developing
+field of metamaterials—the combination of natural materials in repeating
+patterns to achieve unnatural properties. In the case of the new acoustic
+cloak, the materials manipulating the behavior of sound waves are simply
+plastic and air. Once constructed, the device looks like several plastic
+plates with a repeating pattern of holes poked through them stacked on top of
+one another to form a sort of pyramid.
+
+To give the illusion that it isn’t there, the cloak must alter the waves’
+trajectory to match what they would look like had they had reflected off a
+flat surface. Because the sound is not reaching the surface beneath, it is
+traveling a shorter distance and its speed must be slowed to compensate.
+
+“The structure that we built might look really simple,” said Cummer. “But I
+promise you that it’s a lot more difficult and interesting than it looks. We
+put a lot of energy into calculating how sound waves would interact with it.
+We didn’t come up with this overnight.”
+
+To test the cloaking device, researchers covered a small sphere with the cloak
+and “pinged” it with short bursts of sound from various angles. Using a
+microphone, they mapped how the waves responded and produced videos of them
+traveling through the air.
+
+Cummer and his team then compared the videos to those created with both an
+unobstructed flat surface and an uncloaked sphere blocking the way. The
+results clearly show that the cloaking device makes it appear as though the
+sound waves reflected off an empty surface.
+
+Although the experiment is a simple demonstration showing that the technology
+is possible and concealing an evil super-genius’s underwater lair is a long
+ways away, Cummer believes that the technique has several potential commercial
+applications.
+
+“We conducted our tests in the air, but sound waves behave similarly
+underwater, so one obvious potential use is sonar avoidance,” said Cummer.
+“But there’s also the design of auditoriums or concert halls—any space where
+you need to control the acoustics. If you had to put a beam somewhere for
+structural reasons that was going to mess up the sound, perhaps you could fix
+the acoustics by cloaking it.”
+
+This research was supported by Multidisciplinary University Research
+Initiative grants from the Office of Naval Research (N00014-13-1-0631) and
+from the Army Research Office (W911NF-09-1-00539).
+
+###
+
+“Three-dimensional broadband omnidirectional acoustic ground cloak,” Zigoneanu
+L., Popa, B., Cummer, S.A. Nature Materials, March 9, 2014. DOI:
+10.1038/NMAT3901
+
+Download a free PDF of the publication
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

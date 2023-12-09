@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Biomaterials with "Frankenstein Proteins" Help Heal Tissue
+
+October 15, 2018 | By Michaela Kane
+
+Biomaterial that solidifies at body temperature integrates into wounds to help
+cells grow
+
+Biomedical engineers from Duke University and Washington University in St.
+Louis have demonstrated that, by injecting an artificial protein made from a
+solution of ordered and disordered segments, a solid scaffold forms in
+response to body heat, and in a few weeks seamlessly integrates into tissue.
+
+The ability to combine these segments into proteins with unique properties
+will allow researchers to precisely control the properties of new biomaterials
+for applications in tissue engineering and regenerative medicine.
+
+The research appears online on October 15 in the journal Nature Materials.
+
+Proteins function by folding, origami-like, and interacting with specific
+biomolecular structures. Researchers previously believed that proteins needed
+a fixed shape to function, but over the last two decades there has been a
+growing interest in intrinsically disordered proteins (IDPs). Unlike their
+well-folded counterparts, IDPs can adopt a plethora of distinct structures.
+However, these structural preferences are non-random, and recent advances have
+shown that there are well-defined rules that connect information in the amino
+acid sequences of IDPs to the collections of structures they can adopt.
+
+Researchers have hypothesized that versatility in protein function is
+achievable by stringing together well-folded proteins with IDPs—rather like
+pearl necklaces. This versatility is obvious in biological materials like
+muscle and silk fibers, which are made of proteins that combine ordered and
+disordered regions, enabling the materials to exhibit characteristics like
+elasticity of rubber and the mechanical strength of steel.
+
+IDPs are instrumental to cellular function, and many biomedical engineers have
+concentrated their efforts on an extremely useful IDP called elastin. A highly
+elastic protein found throughout the body, elastin allows blood vessels and
+organs—like the skin, uterus and lungs—to return to their original shape after
+being stretched or compressed. However, creating the elastin outside the body
+proved to be a challenge.
+
+So the researchers decided to take a reductionist engineering approach to the
+problem.
+
+“We were curious to see what types of materials we could make by adding order
+to an otherwise highly disordered protein,” said Stefan Roberts, a PhD student
+in the lab of Ashutosh Chilkoti and first author on the paper.
+
+Due to the challenges of using elastin itself, the research team worked with
+elastin-like polypeptides (ELPs), which are fully disordered proteins made to
+mimic pieces of elastin. ELPs are useful biomaterials because they can undergo
+phase changes—go from a soluble to an insoluble state, or vice-versa—in
+response to changes in temperature. While this makes these materials useful
+for applications like long-term drug delivery, their liquid-like behavior
+prevents them from being effective scaffolds for tissue engineering
+applications.
+
+But by adding ordered domains to the ELPs, Roberts and the team created
+“Frankenstein” proteins that combine ordered domains and disordered regions
+leading to so-called partially ordered proteins (POPs), which are equipped
+with the structural stability of ordered proteins without losing the ELPs
+ability to become liquid or solid via temperature changes.
+
+Designed as a fluid at room temperature that solidifies at body temperature,
+these new biomaterials form a stable, porous scaffold when injected that
+rapidly integrates into the surrounding tissue with minimal inflammation and
+promotes the formation of blood vessels.
+
+“This material is very stable after injection. It doesn’t degrade quickly and
+it holds its volume really well, which is unusual for a protein-based
+material,” Roberts said. “Cells also thrive in the material, repopulating the
+tissue in the area where it is injected. All of these characteristics could
+make it a viable option for tissue engineering and wound healing.”
+
+Although the scaffold created by the POP was stable, the team also observed
+that the material would completely re-dissolve once it was cooled. What’s
+more, the formation and dissolution temperatures could be independently
+controlled by controlling the ratios of disordered and ordered segments in the
+biomaterial. This independent tunability confers shape memories on the POPs
+via a phenomenon known as hysteresis, allowing them to return to their
+original shape after a temperature cue.
+
+The Duke team collaborated with the laboratory of Rohit Pappu, the Edwin H.
+Murty Professor of Engineering in the Department of Biomedical Engineering at
+Washington University in St. Louis to understand the molecular basis of
+sequence-encoded hysteretic behavior. Tyler S. Harmon, then a Physics PhD
+student in the Pappu lab, developed a computational model to show that the
+hysteresis arises from the differential interactions of ordered and disordered
+regions with solvent versus alone.
+
+“Being able to simulate the molecular basis for tunable hysteresis puts us on
+the path to design bespoke materials with desired structures and shape memory
+profiles,” Pappu said. “This appears to be a hitherto unrecognized feature of
+the synergy between ordered domains and IDPs.”
+
+Moving ahead, the team hopes to study the material in animal models to examine
+potential uses in tissue engineering and wound healing and to develop a better
+understanding of why the material promotes vascularization. If these studies
+are effective, Roberts is optimistic that the new material could become the
+basis for a biotech company. They also want to develop a deeper understanding
+of the interactions between the ordered and disordered portions in these
+versatile materials.
+
+“We’ve been so fascinated with the phase behavior derived from the disordered
+domains that we neglected the properties of the ordered domains, which turned
+out to be quite important,” Chilkoti said. “By combining ordered segments with
+disordered segments there’s a whole new world of materials we can create with
+beautiful internal structure without losing the phase behavior of the
+disordered segment, and that’s exciting.”
+
+This work was funded by the National institutes of Health through grants
+GM061232 to A.C. and R01Ns056114 to R.V.P., by the National Science Foundation
+through grants from the Research Triangle MRSEC (DMR-11-21107), NSF NMFREF
+(DMR-1729671) to A.C., MCB-1614766 to R.V.P., and through the Graduate
+Research Fellowship Program under Grant No. 1106401 to S.R.
+
+CITATION: "Injectable Tissue Integrating Networks From Recombinant
+Polypeptides With Tunable Order," S. Roberts, T.S. Harmon, J. Schaal, V. Miao,
+Li Kan, A. Hunt, Y. Wen, T. G. Oas, J. H. Collier, R. V. Pappu and A.
+Chilkoti, Nature Materials, (2018). https://doi.org/
+**10.1038/s41563-018-0182-6**.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

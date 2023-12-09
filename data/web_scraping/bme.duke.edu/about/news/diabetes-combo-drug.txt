@@ -1,0 +1,275 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Type 2 Diabetes Drugs Work Better in Tethered Combination Therapy
+
+August 26, 2020 | By Ken Kingery
+
+Slow-release molecule featuring two complementary type 2 diabetes drugs
+controls blood sugar levels while promoting weight loss in mice for one week
+following a single injection
+
+Biomedical engineers at Duke University have shown that the efficacy of a two-
+pronged type 2 diabetes treatment increases when the drugs are linked by a
+heat-sensitive tether rather than simply concurrently administered. The
+combination molecule is formed by an elastin-like polypeptide (ELP) linker
+that forms a gel-like depot when injected under the skin, which slowly
+dissolves and releases the active drug over time.
+
+This novel approach features the commonly prescribed type 2 diabetes drug
+glucagon-like peptide-1 (GLP-1) and the compelling drug candidate fibroblast
+growth factor 21 (FGF21) that together create tight glycemic control and
+potent weight-reduction in diabetic mice. Coupled with the slow-release
+function of the ELP, the effects last longer than one week with a single
+injection.
+
+Because GLP-1, a short peptide, and FGF21, a large folded protein, are such
+different compounds, these findings suggest that this approach to combination
+drug design could be applied to disease therapies beyond diabetes.
+
+The results appear online on August 26 in the journal Science Advances.
+
+“In the burgeoning field of multi-functioning single-molecule diabetes drug
+design, researchers primarily unite drugs that are similar in size, structure
+and function,” said Caslin Gilroy, a postdoctoral scholar at the University of
+California, Berkeley, who led the project while completing her PhD in
+biomedical engineering at Duke. “Being able to combine such structurally
+distinct drugs into a single molecule while maintaining the bioactivity and
+stability of each is a big technological achievement.”
+
+Type 2 diabetes is a progressive disease where body tissues become resistant
+to the effects of insulin, which regulates the movement of sugar from the
+bloodstream into cells. When this carefully tuned system breaks down, blood
+sugar levels remain toxically elevated and a host of serious complications can
+follow. While many treatment options exist, a single drug is rarely able to
+treat an advanced case. Conventional medications lose their potency over time
+and frequently cause weight gain, which itself can promote insulin resistance
+and exacerbate the disease.
+
+> “Being able to combine such structurally distinct drugs into a single
+> molecule while maintaining the bioactivity and stability of each is a big
+> technological achievement.” - Caslin Gilroy
+
+A growing class of drugs is based on GLP-1, a naturally occurring peptide
+released from the intestines after a meal. GLP-1 therapy enhances the release
+of insulin from the pancreas while promoting weight loss. However, the high
+doses of GLP-1 that are sometimes necessary to maintain healthy blood sugar
+levels have been shown to cause gastrointestinal distress. Researchers are
+exploring combination therapies that strategically pair GLP-1 with additional
+drugs to maximize glucose control, minimize side effects and augment weight
+loss.
+
+While most drug combinations incorporate small peptides from the same family
+as GLP-1, Gilroy and Ashutosh Chilkoti, the Alan L. Kaganov Distinguished
+Professor of Biomedical Engineering at Duke, chose to work with FGF21. A
+metabolic hormone, FGF21 regulates insulin sensitivity, energy expenditure and
+fat metabolism within body tissues.
+
+“FGF21 functions through a different mechanism than GLP-1, and we hypothesized
+that the two drugs would complement each other nicely,” said Gilroy. “GLP-1
+increases insulin secretion by the pancreas, while FGF21 enhances the body’s
+response to the insulin. GLP-1 reduces food intake, while FGF21 helps burn
+more calories.”
+
+But rather than simply injecting diabetic mice with both drugs at the same
+time, the researchers decided to link GLP-1 and FGF21 together into a single
+molecule. This approach to combination therapy has several advantages. A
+single molecule is more predictable in how it will disperse through the body,
+act on its target tissues and eventually be cleared. A single drug is also
+beneficial for the prescribing physician and patient, as it reduces the
+medication burden and simplifies the treatment regimen. And the FDA approval
+process for a single drug is more straightforward than for a drug mixture.
+
+GLP-1 and FGF21, however, are both peptide-based drugs, heavily reliant on
+shape and surface features to function. Tethering the two without interfering
+with either is easier said than done.
+
+To form one drug out of two, the researchers turned to the ELP—a specialty of
+the Chilkoti research group. ELPs are chains of repetitive peptide sequences
+that are highly disordered in nature. This disorder provides flexibility,
+enabling drugs fused at each end of the ELP the room to do their respective
+jobs. The modularity of ELPs also make them highly tunable, allowing for the
+design of the best delivery system possible.
+
+> “Linking the drugs to an ELP allows us to design a compound that is liquid
+> at room temperature but forms a gel-like depot upon injection. The depot
+> dissolves over the course of at least a week, slowly and regularly releasing
+> drug to the system over time.” - Caslin Gilroy
+
+Peptide-based drugs suffer from two notable disadvantages; they have a short
+half-life, due to rapid clearance from the body, and they must be administered
+by needle. An ELP-based delivery platform, however, addresses both of these
+issues.
+
+“Linking the drugs to an ELP allows us to design a compound that is liquid at
+room temperature but forms a gel-like depot upon injection,” said Gilroy. “The
+depot dissolves over the course of at least a week, slowly and regularly
+releasing drug to the system over time.”
+
+Chilkoti already has two Phase II clinical trials underway using ELPs as slow-
+release delivery systems. One trial aims to treat pulmonary arterial
+hypertension, while the second involves a potential therapy for COVID-19.
+
+In the study, after verifying that GLP-1 and FGF21 retain their respective
+functions and potencies when linked together by an ELP, Gilroy and Chilkoti
+tested their multi-functioning, slow-release molecule in a mouse model of
+diabetes.
+
+> "We were more than pleasantly surprised when Caslin showed that combining
+> these drugs into a single molecule clearly showed a synergistic therapeutic
+> effect compared to a mixture of the two drugs. The data is so compelling
+> that we believe it’s ready for a company to pursue this strategy
+> commercially. Duke’s Office of Licensing and Ventures is currently looking
+> to license it.” - Ashutosh Chilkoti
+
+The results show that levels of drug circulating in the system remained steady
+while blood sugar levels were brought down to a healthy level and maintained
+for up to 10 days following a single dosing. Mice treated with the GLP-1/FGF21
+combination drug were better able to recover from a glucose challenge compared
+to either drug alone, and were the only test group to lose weight during the
+trial.
+
+The drug combination also worked better when GLP-1 and FGF21 were tethered
+together rather than being delivered as a mixture of individual drugs. The
+researchers think that linking them guarantees that GLP-1 and FGF21 are always
+acting in concert at the same point in time, allowing their mechanisms of
+action to synergize and work together.
+
+“We had speculated that we may see synergy when we combined GLP-1 and FGF-21
+because they have different modes of action,” said Chilkoti. “That was really
+just a hope at the outset of this project, and we were more than pleasantly
+surprised when Caslin showed that combining these drugs into a single molecule
+clearly showed a synergistic therapeutic effect compared to a mixture of the
+two drugs. The data is so compelling that we believe it’s ready for a company
+to pursue this strategy commercially. Duke’s Office of Licensing and Ventures
+is currently looking to license it.”
+
+This work was supported by Duke MEDx, a Duke University program that supports
+engineering innovation in medicine.
+
+CITATION - “Sustained Release of a GLP-1 and FGF21 Dual Agonist from an
+Injectable Depot Protects Mice from Obesity and Hyperglycemia.” C.A. Gilroy,
+M.E. Capozzi, A.K. Varanko, J.Tong, D.A. D’Alessio, J.E. Campbell, A.
+Chilkoti. Science Advances, Aug. 26, 2020. DOI: 10.1126/sciadv.aaz9890
+
+# # #
+
+## Related News
+
+June 05, 2017
+
+### Injectable Solution May Provide Weeks of Glucose Control
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bacterial Genes Boost Current in Human Cells
+
+October 18, 2016 | By Ken Kingery
+
+Borrowing and tweaking bacterial genes to Enhance electrical activity might
+treat heart, nervous system injury
+
+Duke University biomedical engineers have harvested genes for ion channels
+from bacteria that, with a few tweaks, can create and enhance electrical
+signaling in human cells, making the cells more electrically excitable.
+
+The technique could one day be used to treat cardiac arrhythmia or to restore
+electrical functions to scarred heart or nervous system tissues. It might also
+prove useful for treating a variety of genetic diseases involving poor
+conductivity in human sodium and calcium channels.
+
+The study appears online in Nature Communications on October 18.
+
+In mammals, the genes controlling the sodium ion channels responsible for a
+cell’s electrical activity are surprisingly large. Too large, unfortunately,
+to be readily delivered to cells through a virus—standard procedure in modern
+gene therapy techniques.
+
+To skirt this size issue, the Duke team delivered smaller ion channels
+engineered from bacterial genes to primary human cells in a laboratory
+setting. With the replacement channels, cells that don’t normally produce
+electrical signals became electrically active, and cells that normally produce
+signals did so more strongly.
+
+“In current medical practice, there is nothing that can be done to stably
+augment the electrical excitability of cells in the heart or brain,” said
+Nenad Bursac, professor of biomedical engineering at Duke. “There are no drugs
+that can efficiently do it, and any mammalian genes that might help are too
+large for gene therapy applications. Our technique, however, uses much smaller
+bacterial ion channels that proved successful in human cells in the
+laboratory. We’re currently testing this in live animals.”
+
+While bacterial genes encoding sodium channels are different than their human
+counterparts, evolution has conserved many similarities of ion channel design
+since multi-celled animals diverged from bacteria hundreds of millions of
+years ago.
+
+Hung Nguyen, a doctoral student in Bursac’s laboratory, mutated these
+bacterial genes so that channels they encode could become active in human
+cells.
+
+In one experiment, the researchers placed cultured cells in several parallel
+lines, alternating between electrically active and inactive cells. When
+stimulated at one end, the electrical signal traveled across the lines very
+slowly.
+
+The researchers then delivered three genes to the electrically inactive cells:
+one bacterial gene for a sodium ion channel and two supporting genes encoding
+a potassium channel and connexin-43, a protein that helps shuttle electrical
+signals between cells.
+
+When delivered to unexcitable cells taken from the skin, heart and brain, the
+trio of genes caused the cells to become electrically active, speeding up the
+electrical signals as they raced across the lines.
+
+“You could imagine using this to alter electrically dead cardiac scar tissue
+after a heart attack to bridge gaps between healthy cells,” said Nguyen, who
+also points out that all three genes are small enough to be delivered
+simultaneously by a single virus.
+
+Nguyen and Bursac also showed that the gene encoding the bacterial sodium
+channel could, by itself, enhance the excitability of cells that are already
+electrically active. In a second experiment, they delivered the sodium channel
+gene to cardiomyocytes—electrically active heart cells—in conditions mimicking
+various diseases or stressful situations, such as a heart attack.
+
+“In those pathological conditions, these cells become electrically silent,”
+said Bursac. “But when we add the bacterial channel, we can keep them
+conducting electrical signals under more severe conditions.”
+
+Nguyen adds that this work contributes to a growing body of research that is
+looking to so-called “primitive” organisms for help with our own health.
+
+“There’s a large pool of bacterial species whose sodium channels might have
+slightly different electrical characteristics to draw from,” said Nguyen.
+“These channels can be also modified to pass calcium ions. We’re developing a
+framework for others to begin exploring these opportunities.”
+
+“I think this work is really exciting,” said Bursac. “We’re basically
+borrowing from bacteria to eventually help humans suffering from heart or
+brain diseases.”
+
+This work was supported by an American Heart Association Predoctoral
+Fellowship (PRE 16790012) and the National Institutes of Health (HL104326,
+HL132389, HL126524, HL126193).
+
+CITATION: “Engineering prokaryotic channels for control of mammalian tissue
+excitability,” Hung X. Nguyen, Robert D. Kirkton, and Nenad Bursac. Nature
+Communications, Online Oct. 18, 2016. DOI: 10.1038/NCOMMS13132
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

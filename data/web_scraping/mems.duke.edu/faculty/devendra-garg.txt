@@ -1,0 +1,237 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Devendra P. Garg
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor Emeritus in the Department of Mechanical Engineering and Materials
+Science
+
+Professor Garg's areas of interest include modeling, simulation, and control
+of dynamic systems and robotics. In particular, his research deals with
+characterization and control of nonlinear phenomena in physical systems such
+as robots, automated manufacturing, and high-speed ground transportation. In
+the area of robotics, he is interested in the design of feedback controllers
+using the concepts of modern control theory. In the area of high-speed ground
+transportation, he has conducted research on dynamics and control of ground-
+based, air-cushion and magnetically levitated vehicles.
+
+One challenging area of research which Professor Garg is currently pursuing
+deals with the coordination and control of two robots handling a large
+structural object performing a series of intricate maneuvers in a confined
+work space. Analytical development of path planning and collision avoidance
+strategies and their practical implementation are being carried out in the
+Robotics and Manufacturing Automation (RAMA) laboratory. Two ABB Industrial
+grade six-degree-of freedom revolute jointed robots are available for these
+experiments. Major challenges related to this research effort include the
+identification and design of techniques for incorporating sensory data in the
+control algorithm, modeling the nonlinear dynamics of the manipulators, and
+the development of intelligent and adaptive control schemes for the
+coordination of multiple arms in the presence of unknown parameters and
+payload variations. Another area of research that Professor Garg is actively
+pursuing is sensor modeling, data acquisition and management, and data fusion
+in the context of swarm robotics. For the experimental work in this area, the
+Robot Control Laboratory has a number of KheperaII robots, LADAR sensors, and
+vision sensors.
+
+## Appointments and Affiliations
+
+  * Professor Emeritus in the Department of Mechanical Engineering and
+    Materials Science
+
+## Contact Information
+
+  * **Office Location:** 223 Hudson Hall, Durham, NC 27708
+  * **Office Phone:** (919) 660-5330
+  * **Email Address:** dpgarg@duke.edu
+
+## Education
+
+  * B.S. Agra University (India), 1954
+  * B.S.E. University of Roorkee (India), 1957
+  * M.S. University of Wisconsin - Madison, 1960
+  * Ph.D. New York University, 1969
+
+## Awards, Honors, and Distinctions
+
+  * Edwin F. Church Medal. American Society of Mechanical Engineers. 2003
+
+## Representative Publications
+
+  * Zhang, G., G. K. Fricke, and D. P. Garg. “Spill detection and perimeter
+    surveillance via distributed swarming agents.” Ieee/Asme Transactions on
+    Mechatronics 18, no. 1 (January 1, 2013): 121–29.
+    https://doi.org/10.1109/TMECH.2011.2164578.
+  * Young, R., and D. Garg. “Potential Function Control of Distributed Multi-
+    agent Systems (Submitted).” Journal of Robotics, March 2011.
+  * Milutinović, D. L., and D. P. Garg. “Kalman smoother based force
+    localization and mapping using intravital video microscopy.” Journal of
+    Dynamic Systems, Measurement and Control, Transactions of the Asme 132,
+    no. 6 (November 30, 2010). https://doi.org/10.1115/1.4002485.
+  * Kumar, M., D. P. Garg, and V. Kumar. “Segregation of heterogeneous units
+    in a swarm of robotic agents.” Ieee Transactions on Automatic Control 55,
+    no. 3 (March 1, 2010): 743–48. https://doi.org/10.1109/TAC.2010.2040494.
+  * Kumar, M., and D. Garg. “Intelligent Sensor Uncertainty Modeling
+    Techniques and Data Fusion.” International Journal of Control and
+    Intelligent Systems 37, no. 2 (2009): 67–77.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

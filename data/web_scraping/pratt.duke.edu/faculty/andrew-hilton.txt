@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Andrew Douglas Hilton
+
+Professor of the Practice in the Department of Electrical and Computer
+Engineering
+
+Drew Hilton is an Associate Professor of the Practice in Electrical and
+Computer Engineering, as well as Pratt’s Director of Innovation in Computing
+Education.
+
+His main focus is on teaching professional-level programming skills to ECE’s
+master's students to prepare them for software engineering careers.
+
+Professor Hilton also teaches a 3-week introduction to Programming Python for
+Duke's Master in Interdisciplinary Data Science, and Duke's Center for
+Computational Thinking.
+
+He has two Coursera specializations, one in Java, and another in C.
+
+## Appointments and Affiliations
+
+  * Professor of the Practice in the Department of Electrical and Computer
+    Engineering
+  * Director of Innovation in Computing Education in the Pratt School of
+    Engineering
+  * Associate Professor of the Practice of Computer Science
+
+## Contact Information
+
+  * **Office Location:** PO Box 90291, Wilkinson 105, Durham, NC 27708
+  * **Office Phone:** (919) 660-5177
+  * **Email Address:** adhilton@ee.duke.edu
+  * **Websites:**
+    * http://adhilton.pratt.duke.edu
+
+## Education
+
+  * Ph.D. University of Pennsylvania, 2010
+
+## Research Interests
+
+Computer architecture, specifically architectural support for security and
+energy-efficient performance
+
+## Awards, Honors, and Distinctions
+
+  * Klein Family Distinguished Teaching Award. Pratt School of Engineering.
+    2015
+
+## Courses Taught
+
+  * COMPSCI 553: Compiler Construction
+  * ECE 551D: Programming, Data Structures, and Algorithms in C++
+  * ECE 553: Compiler Construction
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 651: Software Engineering
+  * ECE 899: Special Readings in Electrical Engineering
+  * POE 510: Winter Boot Camp
+
+## In the News
+
+  * Everything You'd Want to Know About Algorithms, Explained with Legos (Oct
+    26, 2020)
+  * Pratt-Honored Professor on Teaching Programming Before Coding in the
+    Classroom (Oct 15, 2015)
+
+## Representative Publications
+
+  * Huang, Z; Joao, JA; Rico, A; Hilton, AD; Lee, BC, _DynaSprint:
+    Microarchitectural sprints with dynamic utility and thermal management_ ,
+    Proceedings of the Annual International Symposium on Microarchitecture,
+    Micro (2019), pp. 426-439 [10.1145/3352460.3358301] [abs].
+  * Hilton, AD; Lipp, GM; Rodger, SH, _Translation from Problem to Code in
+    Seven Steps_ , Comped 2019 Proceedings of the Acm Conference on Global
+    Computing Education (2019), pp. 78-84 [10.1145/3300115.3309508] [abs].
+  * Hilton, AD; Lipp, GM; Rodger, SH, _A technique for translation from
+    problem to code_ , Annual Conference on Innovation and Technology in
+    Computer Science Education, Iticse (2018) [10.1145/3197091.3205807] [abs].
+  * Lehman, TS; Hilton, AD; Lee, BC, _MAPS: Understanding Metadata Access
+    Patterns in Secure Memory_ , Proceedings 2018 Ieee International Symposium
+    on Performance Analysis of Systems and Software, Ispass 2018 (2018), pp.
+    33-43 [10.1109/ISPASS.2018.00012] [abs].
+  * Jacobvitz, AN; Hilton, AD; Sorin, DJ, _Multi-program benchmark definition_
+    , Ispass 2015 Ieee International Symposium on Performance Analysis of
+    Systems and Software (2015), pp. 72-82 [10.1109/ISPASS.2015.7095786]
+    [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

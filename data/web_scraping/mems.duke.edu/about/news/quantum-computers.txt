@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# From the Abacus to Supercomputers to Quantum Computers
+
+June 8, 2017
+
+Jungsang Kim helps lead the charge into a new computing revolution
+
+If using quantum mechanics to compute problems that are unsolvable with
+today’s fastest supercomputers sounds outrageously ambitious, that’s because
+it is. There are many experts who say that it can’t be done.
+
+But that’s not stopping Jungsang Kim, professor of electrical and computer
+engineering at Duke University, from pursuing the impossible. A pioneer in
+translating theoretical quantum physics into physical hardware, Kim has been
+engineering the components for a quantum computer at Duke for more than a
+decade.
+
+And he’s starting to sniff the finish line.
+
+“We’ve put together and demonstrated all of the individual components needed
+to build a large, scalable quantum computer,” said Kim. “We are convinced that
+within the next few years we could turn this technology into much more
+sophisticated quantum computers with the potential to solve problems
+considered impossible today.”
+
+Read More:
+
+  * IonQ Raises $20M to Advance Quantum Computing for Commercial Applications
+  * $31.9M Grant Targets Quantum Computing's Error Control Challenge
+
+Imagine a computer trying to put together a jigsaw puzzle. Because computer
+code is binary, either a piece fits or it doesn’t, the most efficient method
+would be to pick a piece at random and attempt to attach every other available
+piece until one fits. Today’s computers would then take that two-piece unit,
+and repeat the entire process over and over until the puzzle is completed.
+
+Even with today’s supercomputers, this process would take a long time because
+it must be done sequentially. Quantum computers, however, have the advantage
+of occupying many different states at the same time.
+
+Now imagine a quantum computer with enough “qubits”—individual pieces of
+memory analogous to today’s transistors—to assign one to each puzzle piece.
+Thanks to quantum mechanics, all possible configurations are stored into a
+quantum memory, which is manipulated in a very careful way so that all the
+non-answers fade away very quickly and all the real answers emerge in a
+systematic way. This allows the quantum computer to converge on a solution
+much more efficiently than a classical computer.
+
+“Nobel Laureate Bill Phillips said that using quantum principles to compute is
+as different from classical computing as a classical supercomputer is from an
+abacus,” said Kim. “There are, however, several different ways that one might
+achieve this. Our group has focused on approaches using individually trapped
+ions.”
+
+The qubits in Kim’s quantum computer are individually trapped ions—atoms with
+electrons stripped away to give it a positive electric charge. That charge
+allows researchers to suspend the atoms using an electromagnetic field in an
+ultra-high vacuum. Kim and his colleagues then use precise lasers to
+manipulate their quantum states.
+
+The method is promising. Kim and colleague Christopher Monroe at the
+University of Maryland have secured more than $60 million in grant funding
+over the years to transition these ideas into large, scalable quantum
+computers. And they’re not alone—many other big companies like Google, IBM,
+Microsoft and Intel are starting to make big investments as well.
+
+With the potential to revolutionize industries such as materials design,
+pharmaceutical discovery and security encryption, the race is on. And Kim and
+his colleagues are the only ones betting on trapped ions, having started a
+company called IonQ to pursue commercialization of the technology.
+
+“Our collaboration actually has a small qubit quantum computer that's very
+generally programmable,” said Kim. “We think we know how to take this system
+and turn it into a much bigger system that is reliable, stable and much more
+scalable. We've come to a point where we believe that even commercially viable
+systems can be put together.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

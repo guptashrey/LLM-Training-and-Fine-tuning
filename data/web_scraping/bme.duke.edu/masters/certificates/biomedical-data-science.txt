@@ -1,0 +1,431 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Master's Certificate in Biomedical Data Science
+
+## Breadcrumb
+
+  1. Home
+  2. Masters
+  3. Certificates
+
+Giving biomedical engineers a competitive edge in industry and academia
+
+Biomedical engineering has become a prime discipline for applying data science
+techniques—and the job market for biomedical engineers with data science
+skills is expanding rapidly.
+
+With its pioneering expertise and leadership in biomedical engineering,
+machine learning, signal and image processing, and biostatistics, Duke is the
+ideal place to learn how to translate biomedical data into actionable health
+insights.
+
+By collaborating with and learning from leading researchers, students who earn
+a Biomedical Data Science Certificate can increase their competitiveness for
+positions in industry and doctoral programs.
+
+Enrollment in the four-course Master's Certificate in Biomedical Data Science
+is open to all Duke Master of Engineering (MEng) and Master of Science (MS)
+students intending to pursue careers or enter doctoral programs relating to
+biomedical data science.
+
+  * Requirements
+  * Faculty
+  * Courses
+  * Suggested Course Schedules
+  * How to Apply
+  * Contact us
+
+* * *
+
+## Requirements
+
+  1. Complete all departmental requirements for a master's degree
+  2. Complete at least four (4) of the approved courses relevant to data science. At least two (2) of these courses must be offered through Duke BME
+  3. Complete a biomedical data science-relevant project and submit a two-page abstract and poster to the Biomedical Data Science Committee. The project could result from previous course projects, independent study, or a master's thesis. It must have a non-trivial technical novelty and demonstrate proficiency in developing novel methodologies or scientifically utilizing a broad range of advanced data science tools to solve impactful biomedical problems
+
+* * *
+
+## Duke BME Faculty
+
+### Sina Farsiu
+
+**Professor in the Department of Biomedical Engineering  
+Chair of the Biomedical Data Science Committee**
+
+Sina Farsiu focuses on medical imaging and machine learning to improve overall
+health and vision outcomes for patients with ocular and neurological diseases
+(e.g., age-related macular degeneration, diabetic retinopathy, Alzheimer's,
+and ALS) through earlier and more personalized therapy. More »
+
+### Jessilyn Dunn
+
+**Assistant Professor of Biomedical Engineering**
+
+Jessilyn Dunn develops new tools and infrastructure for multimodal biomedical
+data integration to drive precision/personalized methods for early detection,
+intervention and prevention of disease. More »
+
+### Timothy Dunn
+
+**Assistant Professor of Biomedical Engineering**
+
+Timothy Dunn and his team develop novel 3D behavior-tracking technologies to
+track and model animal movement more precisely to decipher neuronal activity
+better. More »
+
+### Roarke Horstmeyer
+
+**Assistant Professor of Biomedical Engineering**
+
+Roarke Horstmeyer's work involves the development of new microscopes, cameras
+and computer algorithms to create better biomedical images. More »
+
+### Daniel Reker
+
+**Assistant Professor in Biomedical Engineering**
+
+Daniel Reker uses active machine learning to analyze and design new drug
+therapies against cancer and infectious diseases. More »
+
+* * *
+
+## Courses
+
+Courses for this master's certificate are offered by departments and programs
+within Duke's Pratt School of Engineering, School of Medicine, and Trinity
+College of Arts & Sciences.
+
+Click for course lists and department website links. _Be sure to review the
+Important Notes._
+
+Biomedical Engineering
+
+    
+
+bme.duke.edu »
+
+  * BME 590D: Deep Learning App HealthCare
+  * BME 548L: Machine Learning and Imaging
+  * BME 590L: Computational Foundations for Biomedical Simulations
+  * BME 671L: Signal Processing and Applied Mathematics
+  * BME/B&B 590: Intro Biomedical Data Science
+  * BME 590: Machine Learning in Pharmacology
+  * BME 544: Digital Image Processing
+  * BME 503: Computational Neuroengineering
+  * BME 574: Modeling and Engineering Gene Circuits
+  * BME 590: Data Science and Health
+  * EGR 590-06: AI for Everyone
+  * BME 590: Deep Neural Network Models of the Nervous System
+  * BME 790L: Linear Algebra
+
+Biostatistics and Bioinformatics
+
+    biostat.duke.edu »
+
+  * BIOSTAT 824: Case Studies in Biomedical Data Science
+  * BIOSTAT 707: Statistical Methods for Learning and Discovery
+
+Civil & Environmental Engineering
+
+    cee.duke.edu »
+
+  * CEE 690-05: Health and Environmental Data Science
+
+Computational Biology & Bioinformatics
+
+    biostat.duke.edu » 
+
+  * CBB 540: Statistical Methods for Computational Biology
+  * CBB 561, 662 or 663: Algorithms in Computational Biology
+
+Computer Science
+
+    cs.duke.edu »
+
+  * COMPSCI 527: Introduction to Computer Vision
+  * COMPSCI 671D: Theory and Algorithms for Machine Learning
+
+Electrical & Computer Engineering
+
+    ece.duke.edu »
+
+  * ECE 685D: Introduction to Deep Learning
+  * ECE 590: Advanced Deep Learning
+  * ECE 590: Computer Engineering ML and Deep Neural Nets
+  * ECE 590: Wearable and Ubiquitous Computing
+  * ECE 588: Image & Video Processing
+
+Important Notes
+
+    
+
+#### Course Content Overlap
+
+Some of the courses listed above have a significant overlap. Thus, only one
+(1) course from each of the following course groups will be counted among the
+four (4) courses required for this certificate:
+
+  * Group 1: BME 544, ECE 588
+  * Group 2: BME/B&B 590 (Intro Biomedical Data Science), BIOSTAT 707
+    (Statistical Methods for Learning and Discovery), CBB540: Statistical
+    Methods for Computational Biology
+  * Group 3: BME 590: Data Science and Health, EGR 590-06: AI for Everyone and
+    CEE690-05: Health and Environmental Data Science
+  * Group 4: CBB 561, CBB 662 and CBB 663
+
+#### Enrollment Prerequisites
+
+There is no list of universal course prerequisites for this program. Instead,
+each instructor sets the prerequisites for enrollment in each course.
+
+**Before enrolling** in a course, students are highly encouraged to contact
+the instructor to:
+
+  * Learn the prerequisites for the course, including the required programming
+    language background
+  * Obtain and carefully review the course syllabu _s_
+
+* * *
+
+## Suggested Course Schedules
+
+Because data science is so diverse, there is no mandate for a fixed course
+schedule. Click to see suggested schedules.
+
+Data Science in Imaging and Image Analysis
+
+     Semester 1 Semester 2 Semester 3  
+  
+BME/B&B 590: Intro Biomedical Data Science or ECE 685D: Introduction to Deep
+Learning
+
+BME 544: Digital Image Processing, or COMPSCI 527: Introduction to Computer
+Vision BME 548L: Machine Learning and Imaging  
+BME 590D: Deep Learning App HealthCare  
+Data Science in Pharmacology
+
+     Semester 1 Semester 2 Semester 3  
+  
+BME/B&B 590: Intro Biomedical Data Science
+
+CBB 662A: Algorithms in Structural Biology & Biophysics BME 590L: Machine
+Learning in Pharmacology  
+BME 574: Modeling and Engineering Gene Circuits  
+Data Science Theory
+
+     Semester 1 Semester 2 Semester 3  
+  
+BME/B&B 590: Intro Biomedical Data Science, or ECE 685D: Introduction to Deep
+Learning
+
+COMPSCI 671D: Theory and Algorithms for Machine Learning BME 590L:
+Computational Foundations for Biomedical Simulations  
+ECE 590: Advanced Deep Learning  
+  
+* * *
+
+## How to Apply
+
+Enrollment is open to all Duke Master of Engineering (MEng) and Master of
+Science (MS) students intending to pursue careers or enter doctoral programs
+relating to biomedical data science.
+
+  * Registration deadlines are July 1 for Fall graduation and November 1 for
+    Spring graduation
+  * To register, submit a Letter of Interest via email to the certificate
+    program coordinator declaring your interest in the Biomedical Data Science
+    Master's Certificate
+  * The committee will communicate the date for submission/presentation of the
+    biomedical data science-relevant project and the coursework checklist
+
+contact us by Email
+
+Start your application
+
+____
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+## Master's Contacts
+
+### Sina Farsiu
+
+Director, Master's Studies
+
+__pratt_masters@duke.edu
+
+### Paul J. Fearis
+
+Associate Director, Master's Studies
+
+__paul.fearis@duke.edu
+
+### Bev Gedvillas
+
+Master's Program Coordinator
+
+__919-660-5132
+
+__beverly.gedvillas@duke.edu
+
+### Admissions
+
+Have a question about the program or admissions? Contact the **Admissions &
+Recruiting team** at pratt_masters@duke.edu.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

@@ -1,0 +1,256 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Co-Designing Tomorrow's Computers
+
+September 27, 2021
+
+AI expert Hai "Helen" Li discusses how her lab designs new computer
+technologies, including personalized devices based on personalized algorithms
+
+## 1\. Machine learning is an area that has many, many applications, from
+image and speech recognition to medical pathology. What does your work focus
+on? Can you tell us about a couple of projects you’re working on right now?
+
+My broad research interest is hardware and software co-design to enable small,
+fast and efficient computing systems. Here’s what I mean by co-design: It used
+to be that engineers designed the hardware for a computer, and computer
+scientists designed the software. Everything was quite siloed. But the new
+trend is to design the entire stack—so that as you design the software, you’re
+considering what hardware resources you have, and how much of those resources
+you want to use.
+
+For example, image classification can be performed differently on a phone than
+on a laptop, because they have different capabilities. So when we design the
+software, we can take into account how exactly the task will be accomplished,
+and make the operation simpler and more power-efficient, or give it more power
+and higher performance if the system will allow it. We’re really tailoring the
+computing power to the particular situation. Eventually, we would like to hand
+every individual a personalized device that uses personalized algorithms,
+based on their own use patterns, to exactly fulfill their needs. The growing
+field of edge computing has some of the same aims: to make better overall
+models from large datasets, but to tailor devices to the individual user.
+
+**Machine learning:** the use and development of computer systems that are
+able to learn and adapt by using algorithms to analyze and draw inferences
+from patterns in data
+
+Another area I work in is designing new computer memory structures. Memory is
+a storage system. You can imagine information stored like shoes, in rows of
+shoeboxes, in a warehouse. But most of the shoeboxes have not yet been filled
+with shoes—out of 100 shoeboxes, let’s say only four contain the shoes you’re
+looking for, and those shoes are on different rows, at different ends of the
+warehouse. You have to make four trips to retrieve the shoes you’re looking
+for. Wouldn’t it be much quicker and more efficient to put all of those pairs
+of shoes together in one spot, and ignore all the other empty boxes? That’s
+obviously a simplification, but it hints at the work we do in optimizing
+memory structure and operations.
+
+> "Ultimately, we anticipate systems that, like our brains, can adapt,
+> recognize nuances and teach themselves as they work. It is an elegant,
+> organic and beautiful way to think."
+>
+> HAI LI, CLARE BOOTHE LUCE PROFESSOR OF ELECTRICAL AND COMPUTER ENGINEERING
+
+Another one of my major research focuses in the past ten years is neuromorphic
+computing. Neuromorphic computing is a new way of designing computing systems
+by mimicking human brain structure and operations. Ultimately, we anticipate
+systems that, like our brains, can adapt, recognize nuances and teach
+themselves as they work. It is an elegant, organic and beautiful way to think.
+Because brains are so different from today’s microprocessors, we must rethink
+and reconstruct the entire design philosophy and seek new technologies to
+support it.
+
+**Neuromorphic computing:** an approach to computing that takes inspiration
+from the way the human brain recognizes and sorts information
+
+## 2\. How is your work influencing the field?
+
+Our team is among the first to introduce hardware considerations to accelerate
+deep learning reserch, thereby bridging the gap between the hardware and
+machine learning communities. For example, our NeurIPS’16 paper on structured
+sparsity learning regularized the data structure during neural network
+training to optimize the memory-access pattern, so that we could speed up task
+execution. (Think again about the shoeboxes. Execution speedup, or retrieving
+the correct information, can be achieved by putting all the filled boxes
+together.) The structured sparsity concept has been widely recognized and
+adopted by industries such as Nvidia, Intel, and Facebook, as well as
+academia.
+
+## 3\. AI/ML is a wildly popular area of study. How has Duke ECE expanded its
+offerings so that students have more opportunities for learning in this field?
+
+Duke ECE offers a minor in ML/AI, which provides undergraduates with not only
+an understanding of the core concepts of ML and AI, but also rigorous and
+coherent exposure to both fundamental theories and applications. In addition,
+ECE has recently initialized many new courses from AI/ML fundamentals:
+
+  * ECE 685: Introduction to Deep Learning, by Vahid Tarokh
+  * ECE 687: Theory and Algorithms for Machine Learning, by Cynthia Rudin
+  * ECE 660: Computer Engineering, Machine Learning and Deep Neural Nets, by
+    myself and Yiran Chen, and
+  * ECE 590: Machine Learning in Adversarial Settings by Neil Gong.
+
+Students can also learn about use cases in various applications, with classes
+including:
+
+  * ECE 590: Human Element in Cybersecurity, by Missy Cummings, or
+  * ECE 590: Reinforcement Learning at Scale by Henry Pfister and Jay Hineman.
+
+These special topics courses change, so there are frequently new subjects to
+explore. We have also been working to integrate more AI/ML components into EGR
+101: Engineering Fundamentals, as well as senior capstone projects.
+
+**Edge computing:** Bringing computation and data storage closer to the data’s
+origin, to increase speed and allow for user customization
+
+## 4\. Together with Professor Yiran Chen,  you run a large and very
+productive lab, which is now located in the Wilkinson Building. What is the
+lab ecosystem like? What kinds of projects do undergraduates work on, and are
+they mentored by graduate students?
+
+The research in our lab covers a broad range in computer engineering, so we’ve
+formed several study groups led by senior PhD students. We always look for
+self-motivated and capable undergraduate students to work closely with
+graduate students, explore technical research and brainstorm new ideas. With
+the graduate students’ mentoring, undergraduates develop valuable hands-on
+skills.
+
+## 5.What is your favorite thing about the Duke ECE community?
+
+Every faculty member in Duke ECE is singular and exceptional. We don’t have
+the size of some other ECE departments in other schools, but our productivity
+and the impact of our research work is outstanding.
+
+I like that our faculty members work closely with other departments and that
+ECE serves as a meeting place for the applied sciences at Duke. It really is a
+great place for students who are interested in research studies on electrical
+and computing engineering in conjunction with other important application
+domains, such as health data analysis, business and law. I’m very proud to be
+here and to be a part of it.
+
+Learn more About AI/ML Research at Duke
+
+## Related News
+
+July 26, 2021
+
+### Catching Waves
+
+June 21, 2021
+
+### Higher Efficiency, Longer Lives
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

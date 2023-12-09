@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Timothy Dunn
+
+Assistant Professor of Biomedical Engineering
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Biomedical Engineering
+  * Assistant Professor in Neurosurgery
+  * Member of the Center for Cognitive Neuroscience
+
+## Contact Information
+
+  * **Email Address:** timothy.dunn@duke.edu
+  * **Websites:**
+    * Duke AI Health
+    * Duke Division of Global Neurosurgery and Neurology
+    * github.com/spoonsso
+    * www.tdunnlab.org
+    * www.timothy-dunn.com
+
+## Education
+
+  * Ph.D. Harvard University , 2015
+
+## Research Interests
+
+Machine learning, computer vision, neurobiology, animal behavior,
+computational neuroscience, prognostic modeling, traumatic brain injury
+
+## Awards, Honors, and Distinctions
+
+  * Technological Innovations in Neuroscience Award. McKnight Foundation. 2021
+  * Peer Recognition Honor. Duke, Pratt School of Engineering. 2020
+  * Certificate of Distinction in Teaching. Harvard University . 2017
+  * Certificate of Excellence in Teaching. Harvard University. 2017
+  * AI Watson XPrize Finalist (with team DataKind). IBM. 2017
+  * Certificate of Distinction in Teaching. Harvard University . 2013
+  * Graduate Research Fellowship. National Science Foundation . 2010
+  * I.L. Chaikoff Award for Undergraduate Research. UC Berkeley . 2008
+  * MCB Department Citation (Best in Class). UC Berkeley. 2008
+
+## Courses Taught
+
+  * AIPI 591: Special Readings in AI for Product Innovation
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 590: Special Topics in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+
+## In the News
+
+  * Bass Connections Team Aims for Global Health Change (Jan 20, 2023 | Bass
+    Connections)
+  * Welcome the Pratt School New Faculty (Oct 26, 2021 | Pratt School of
+    Engineering)
+  * Timothy Dunn: Tracking Movement to Decipher Brain Activity (Jun 22, 2021 |
+    Duke Engineering News)
+  * Learning to DANNCE (Apr 23, 2021 | Duke AI Health)
+  * Tim Dunn - The DANNCE Study (Apr 19, 2021 | Duke Forge)
+  * Neural Circuits at the Brain Scale (Nov 8, 2016 | Harvard MCB News)
+  * Calculating Time to Collision (Feb 3, 2016 | Harvard MCB News)
+
+## Representative Publications
+
+  * Li, T; Severson, KS; Wang, F; Dunn, TW, _Improved 3D Markerless Mouse Pose
+    Estimation Using Temporal Semi-supervision_ , International Journal of
+    Computer Vision (2023) [10.1007/s11263-023-01756-3] [abs].
+  * Thomson, EE; Harfouche, M; Kim, K; Konda, PC; Seitz, CW; Cooke, C; Xu, S;
+    Jacobs, WS; Blazing, R; Chen, Y; Sharma, S; Dunn, TW; Park, J; Horstmeyer,
+    RW; Naumann, EA, _Gigapixel imaging with a novel multi-camera array
+    microscope._ , Elife, vol 11 (2022) [10.7554/elife.74988] [abs].
+  * Adil, SM; Charalambous, LT; Rajkumar, S; Seas, A; Warman, PI; Murphy, KR;
+    Rahimpour, S; Parente, B; Dharmapurikar, R; Dunn, TW; Lad, SP, _Machine
+    Learning to Predict Successful Opioid Dose Reduction or Stabilization
+    After Spinal Cord Stimulation._ , Neurosurgery, vol 91 no. 2 (2022), pp.
+    272-279 [10.1227/neu.0000000000001969] [abs].
+  * Adil, SM; Elahi, C; Patel, DN; Seas, A; Warman, PI; Fuller, AT; Haglund,
+    MM; Dunn, TW, _Deep Learning to Predict Traumatic Brain Injury Outcomes in
+    the Low-Resource Setting._ , World Neurosurg, vol 164 (2022), pp. e8-e16
+    [10.1016/j.wneu.2022.02.097] [abs].
+  * Kirsch, EP; Suarez, A; McDaniel, KE; Dharmapurikar, R; Dunn, T; Lad, SP;
+    Haglund, MM, _Construct validity of the Surgical Autonomy Program for the
+    training of neurosurgical residents._ , Neurosurgical Focus, vol 53 no. 2
+    (2022) [10.3171/2022.5.FOCUS22166] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tweaked Genes Borrowed From Bacteria Excite Heart Cells in Live Mice
+
+February 3, 2022 | By Ken Kingery
+
+First approach to promote electrical excitation of heart cells in live mammals
+could lead to new gene therapy treatments for a wide range of heart diseases
+
+Biomedical engineers at Duke University have demonstrated a gene therapy that
+helps heart muscle cells electrically activate in live mice. The first
+demonstration of its kind, the approach features engineered bacterial genes
+that code for sodium ion channels and could lead to therapies to treat a wide
+variety of electrical heart diseases and disorders.
+
+The results appeared online February 2 in the journal Nature Communications.
+
+“We were able to improve how well heart muscle cells can initiate and spread
+electrical activity, which is hard to accomplish with drugs or other tools,”
+said Nenad Bursac, professor of biomedical engineering at Duke. “The method we
+used to deliver genes in heart muscle cells of mice has been previously shown
+to persist for a long time, which means it could effectively help hearts that
+struggle to beat as regularly as they should.”
+
+Sodium-ion channels are proteins in the outer membranes of electrically
+excitable cells, such as heart or brain cells, that transmit electrical
+charges into the cell. In the heart, these channels tell muscle cells when to
+contract and pass the instruction along so that the organ pumps blood as a
+cohesive unit. Damaged heart cells, however, whether from disease or trauma,
+often lose all or part of their ability to transmit these signals and join the
+effort.
+
+One approach researchers can take to restoring this functionality is gene
+therapy. By delivering the genes responsible for creating sodium channel
+proteins, the technique can produce more ion channels in the diseased cells to
+help boost their activity.
+
+In mammals, sodium channel genes are unfortunately too large to fit within the
+viruses currently used in modern gene therapies in humans. To skirt this
+issue, Bursac and his laboratory instead turned to smaller genes that code for
+similar sodium ion channels in bacteria. While these bacterial genes are
+different than their human counterparts, evolution has conserved many
+similarities in the channel design since multi-cellular organisms diverged
+from bacteria hundreds of millions of years ago.
+
+Several years ago, Hung Nguyen, a former doctoral student in Bursac’s
+laboratory who now works for Fujifilm Diosynth Biotechnologies, mutated these
+bacterial genes so that the channels they encode could become active in human
+cells. In the new work, current doctoral student Tianyu Wu further optimized
+the content of the genes and combined them with a “promoter” that exclusively
+restricts channel production to heart muscle cells. The researchers then
+tested their approach by delivering a virus loaded with the bacterial gene
+into veins of a mouse to spread throughout the body.
+
+“We worked to find where the sodium ion channels were actually formed, and, as
+we hoped, we found that they only went into the working muscle cells of the
+heart within the atria and ventricles,” Wu said. “We also found that they did
+not end up in the heart cells that originate the heartbeat, which we also
+wanted to avoid.”
+
+This gene therapy approach only delivers extra genes within a cell; it does
+not attempt to cut out, replace or rewrite the existing DNA in any way.
+Scientists believe these types of delivered genes make proteins while floating
+freely within the cell, making use of the existing biochemical machinery.
+Previous research with this viral gene delivery approach suggests the
+transplanted genes should remain active for many years.
+
+As a proof of concept, tests on cells in a laboratory setting suggest that the
+treatment improves electrical excitability enough to prevent human
+abnormalities like arrhythmias. Within live mice, the results demonstrate that
+the sodium ion channels are active in the hearts, showing trends toward
+improved excitability. However, further tests are needed to measure how much
+of an improvement is made on the whole-heart level, and whether it is enough
+to rescue electrical function in damaged or diseased heart tissue to be used
+as a viable treatment.
+
+Moving forward, the researchers have already identified different bacterial
+sodium channel genes that work better in preliminary benchtop studies. The
+team is also working with the laboratories of Craig Henriquez, professor of
+biomedical engineering at Duke, and Andrew Landstrom, director of the Duke
+Pediatric Research Scholars Program, to test the ability of these genes to
+restore heart functionality in mouse models that mimic human heart diseases.
+
+“I think this work is really exciting,” Bursac said. “We have been harnessing
+what nature made billions of years ago to help humans with modern-day
+disease.”
+
+This work was supported by the National Institutes of Health (HL134764,
+HL132389, HL126524, 1U01HL143336-01), the Duke Translating Duke Health
+Initiative, and the American Heart Association Predoctoral Fellowship
+(829638).
+
+CITATION: “Engineered Bacterial Voltage-Gated Sodium Channel Platform for
+Cardiac Gene Therapy,” Hung X. Nguyen, Tianyu Wu, Daniel Needs, Hengtao Zhang,
+Robin M. Perelli, Sophia DeLuca, Rachel Yang, Michael Tian, Andrew P.
+Landstrom, Craig Henriquez & Nenad Bursac. Nature Communications,
+(2022)13:620. DOI: 10.1038/s41467-022-28251
+
+LINK: https://www.nature.com/articles/s41467-022-28251-6.epdf
+
+# # #
+
+## Related News
+
+November 28, 2017
+
+### Beating Heart Patch is Large Enough to Repair the Human Heart
+
+October 18, 2016
+
+### Bacterial Genes Boost Current in Human Cells
+
+January 13, 2015
+
+### First Contracting Human Muscle Grown in Laboratory
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

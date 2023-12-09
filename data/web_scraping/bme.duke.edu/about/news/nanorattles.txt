@@ -1,0 +1,274 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Nanorattles Shake Up New Possibilities for Disease Detection
+
+September 13, 2022 | By Ken Kingery
+
+New nanoparticle shape can greatly enhance signals from multiple separate
+biomarkers at once, accurately detecting head and neck cancers without
+biopsies to improve global health
+
+Researchers at Duke University have developed a unique type of nanoparticle
+called a “nanorattle” that greatly enhances light emitted from within its
+outer shell.
+
+Loaded with light scattering dyes called Raman reporters commonly used to
+detect biomarkers of disease in organic samples, the approach can amplify and
+detect signals from separate types of nanoprobes without needing an expensive
+machine or medical professional to read the results.
+
+In a small proof-of-concept study, the nanorattles accurately identified head
+and neck cancers through an AI-enabled point-of-care device that could
+revolutionize how these cancers and other diseases are detected in low-
+resource areas to improve global health.
+
+The results appeared online September 2 in the Journal of Raman Spectroscopy.
+
+“The concept of trapping Raman reporters in these so-called nanorattles has
+been done before, but most platforms had difficulty controlling the interior
+dimensions,” said Tuan Vo-Dinh, the R. Eugene and Susie E. Goodson
+Distinguished Professor of Biomedical Engineering and professor of chemistry
+at Duke.
+
+“Our group has developed a new type of probe with a precisely tunable gap
+between the interior core and outer shell, which allows us to load multiple
+types of Raman reporters and amplify their emission of light called surface-
+enhanced Raman scattering,” Vo-Dinh said.
+
+> “Our group has developed a new type of probe with a precisely tunable gap
+> between the interior core and outer shell, which allows us to load multiple
+> types of Raman reporters and amplify their emission of light called surface-
+> enhanced Raman scattering."
+>
+> tuan vo-dinh
+
+To make nanorattles, researchers start with a solid gold sphere about 20
+nanometers wide. After growing a layer of silver around the gold core to make
+a larger sphere (or cube), they use a corrosion process called galvanic
+replacement that hollows out the silver, creating a cage-like shell around the
+core. The structure is then soaked in a solution containing positively charged
+Raman reporters, which are drawn into the outer cage by the negatively charged
+gold core. The outer hulls are then covered by an extremely thin layer of gold
+to lock the Raman reporters inside.
+
+The result is a nanosphere (or nanocube) about 60 nanometers wide with an
+architecture that resembles a rattle—a gold core trapped within a larger outer
+silver-gold shell. The gap between the two is only about a few nanometers,
+which is just large enough to fit the Raman reporters.
+
+Those tight tolerances are essential to controlling the Raman signal
+enhancement the nanorattles produce.
+
+When a laser shines on the nanorattles, it travels through the extremely thin
+outer shell and hits the Raman reporters within, causing them to emit light of
+their own. Because of how close the surfaces of the gold core and the outer
+gold/silver shell are together, the laser also excites groups of electrons on
+the metallic structures, called plasmons. These groups of electrons create an
+extremely powerful electromagnetic field due to the plasmons’ interaction of
+the metallic core-shell architecture, a process called plasmonic coupling,
+which amplifies the light emitted by the Raman reporters millions of times
+over.
+
+> “With how powerful the signal enhancement of the nanorattles is, we thought
+> we could make a simple test that could be easily read by anybody at the
+> point-of-care.”
+>
+> tuan vo-dinh
+
+“Once we had the nanorattles working, we wanted to make biosensing devices to
+detect infectious diseases or cancers before people even know they’re sick,”
+Vo-Dinh said. “With how powerful the signal enhancement of the nanorattles is,
+we thought we could make a simple test that could be easily read by anybody at
+the point-of-care.”
+
+In the new paper, Vo-Dinh and his collaborators apply the nanorattle
+technology to a lab-on-a-stick device capable of detecting head and neck
+cancers, which appear anywhere between the shoulders and the brain, typically
+in the mouth, nose and throat. Survival rate for these cancers have hovered
+between 40 and 60 percent for decades. While those statistics have improved in
+recent years in the United States, they have gotten worse in low-resource
+settings, where risk factors such as smoking, drinking and betel nut chewing
+are much more prevalent.
+
+“In low-resource settings, these cancers often present in advanced stages and
+result in poor outcomes due in part to limited examination equipment, lack of
+trained healthcare workers and essentially non-existent screening programs,”
+said Walter Lee, professor of head and neck surgery & communication sciences
+and radiation oncology at Duke, and a collaborator on the research.
+
+“Having the ability to detect these cancers early should lead to earlier
+treatment and improvement in outcomes, both in survival and quality of life,”
+Lee said. “This approach is exciting since it does not depend on a pathologist
+review and potentially could be used at the point of care.”
+
+> “Having the ability to detect these cancers early should lead to earlier
+> treatment and improvement in outcomes, both in survival and quality of life.
+> This approach is exciting since it does not depend on a pathologist review
+> and potentially could be used at the point of care.”
+>
+> walter lee
+
+The prototype device uses specific genetic sequences that act like Velcro for
+the biomarkers the researchers are looking for — in this case, a specific mRNA
+that is overly abundant in people with head and neck cancers. When the mRNA in
+question is present, it acts like a tether that binds nanorattles to magnetic
+beads. These beads are then concentrated and held in place by another magnet
+while everything else gets rinsed away. Researchers can then use a simple,
+inexpensive handheld device to look for light emitted from the nanorattles to
+see if any biomarkers were caught.
+
+In the experiments, the test determined whether or not 20 samples came from
+patients that had head and neck cancer with 100% accuracy. The experiments
+also showed that the nanorattle platform is capable of handling multiple types
+of nanoprobes, thanks to a machine learning algorithm that can tease apart the
+separate signals, meaning they can target multiple biomarkers at once. This is
+the goal of the group’s current project funded by the National Institutes of
+Health.
+
+“Many mRNA biomarkers are overly abundant in multiple types of cancers, while
+other biomarkers can be used to evaluate patient risk and future treatment
+outcome,” Vo-Dinh said. “Detecting multiple biomarkers at once would help us
+differentiate between cancers, and also look for other prognostic markers such
+as Human Papillomavirus (HPV), and both positive and negative controls.
+Combining mRNA detection with novel nanorattle biosensing will result in a
+paradigm shift in achieving a diagnostic tool that could revolutionize how
+these cancers and other diseases are detected in low-resource areas”.
+
+This study is supported by the National Institutes of Health
+(R01-DE030455-01A1).
+
+CITATION: “Machine Learning Using Convolutional Neural Networks for SERS
+Analysis of Biomarkers in Medical Diagnostics,” Joy Qiaoyi Li, Priya Vohra
+Dukes, Walter Lee, Michael Sarkis, Tuan Vo-Dinh. Journal of Raman
+Spectroscopy, Sept. 2, 2022. DOI: 10.1002/jrs.6447
+
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jrs.6447
+
+## Related News
+
+July 21, 2020
+
+### Silver-Plated Gold Nanostars Detect Early Cancer Biomarkers
+
+May 12, 2020
+
+### Silver Nanocubes Make Point-of-Care Diagnostics Easier to Read
+
+August 17, 2017
+
+### Gold Nanostars and Immunotherapy Vaccinate Mice Against Cancer
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

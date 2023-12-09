@@ -1,0 +1,214 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# MEMS Seminar- PEARSALL LECTURE : Boundary Layer Stability Analysis of the
+BOLT Hypersonic Flight Experiments
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Mar 23
+
+_This event has passed._
+
+##  Wednesday, March 23, 2022 – 12:00PM to 1:00PM
+
+## Presenter
+
+Graham V. Candler
+
+The Boundary Layer Transition and Turbulence (BOLT) sounding rocket flight
+experiments are designed to make detailed measurements of boundary layer
+transition and turbulence at hypersonic conditions. BOLT has a complex nose
+geometry, highly swept leading edges and a concave surface, which challenge
+the validity of conventional stability analysis methods. At the University of
+Minnesota, we have been developing new approaches for predicting instability
+growth and boundary layer transition for complex geometry flows. The seminar
+will discuss results and progress using high-order, low-dissipation numerical
+methods to perform "quiet" direct numerical simulations of the BOLT flow
+field. The simulations reveal four competing instability mechanisms; these
+include second-mode acoustic disturbances, a vortical mode associated with
+boundary layer roll-up on the centerline, traveling crossflow due to boundary
+layer distortion near the leading edge, and a multi-mode instability near the
+trailing edge. It is shown that breakdown to turbulence occurs due to
+interactions between the crossflow and acoustic modes. The prospects for
+extending the simulation approach to include the effects of free-stream
+turbulence and particulates will also be discussed.  
+  
+Bio:  
+Graham Candler is the Russell J. Penrose and McKnight Presidential Endowed
+Chair of Aerospace Engineering and Mechanics at the University of Minnesota.
+He uses computational methods to study high-speed flight with application to
+future hypersonic flight systems and the entry of spacecraft into planetary
+atmospheres. Candler and his research collaborators have developed widely-used
+computational methods and codes that are being used for the design and
+analysis of future hypersonic flight systems, including several NASA
+exploration missions. Recently, his work has focused on the development of
+high-accuracy simulation methods for the exploration of hypersonic flight
+system design space. He has published extensively in the areas of
+computational methods, high-temperature gas dynamics, boundary layer laminar
+to turbulent transition, and validation of computational simulations with
+hypersonic wind tunnel data. He is a Fellow of the AIAA and a member of the
+National Academy of Engineering. Candler received his undergraduate degree
+from McGill University and his graduate degrees in Aeronautics and
+Astronautics from Stanford University.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

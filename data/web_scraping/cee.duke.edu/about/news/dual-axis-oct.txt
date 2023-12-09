@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Eye Imaging Technology Breaks Through Skin by Crossing Beams
+
+December 1, 2021 | By Ken Kingery
+
+New approach to optical coherence tomography increases its depth of view in
+biological tissues
+
+Biomedical engineers at Duke University have demonstrated a method for
+increasing the depth at which optical coherence tomography (OCT) can image
+structures beneath skin.
+
+The gold standard for imaging and diagnosing diseases within the retina, OCT
+has yet to find widespread use as an imaging technique for other parts of the
+body due to its inability to return clear images from more than a millimeter
+beneath the skin’s surface.
+
+Duke researchers found that tilting the light source and detector used in the
+technique increases OCT’s imaging depth by almost 50%, putting skin diagnoses
+within reach. The “dual-axis” approach opens new possibilities for OCT to be
+used in applications such as spotting skin cancer, assessing burn damage and
+healing progress, and guiding surgical procedures.
+
+The results appear online on December 1 in the open-access journal Biomedical
+Optics Express.
+
+“It’s actually a fairly simple technique that sounds like something out of
+Ghostbusters — you get more power when you cross the beams,” said Adam Wax,
+professor of biomedical engineering at Duke. “Being able to use OCT even 2 or
+3 millimeters into the skin is extremely useful because there are a lot of
+biological processes happening at that depth that can be indicative of
+diseases like skin cancer.”
+
+Standard OCT is analogous to ultrasound but uses light instead of sound. A
+beam of light is shined down into an object, and by measuring how long it
+takes for it to bounce back, computers can deduce what the internal structure
+of the object looks like. It has become the go-to technology for imaging and
+diagnosing retinal diseases because the retina is so thin and easily
+accessible through the eye’s transparent cornea and lens.
+
+Most other biological tissues, however, scatter and reflect light, making it
+difficult to penetrate with standard OCT approaches. The deeper the light
+goes, the more likely it is to get lost in the sample and miss the device’s
+detection.
+
+In the new technique, researchers instead point the light at the object at a
+slight angle and set up the detector at an equal and opposite angle, creating
+a dual-axis. This allows the detector to benefit from the slight scattering
+angle introduced by the object’s physical nature.
+
+“By tilting the light source and detector, you increase your chances of
+collecting more of the light that’s scattering off at odd angles from a
+tissue’s depths,” said Evan Jelly, a doctoral student in Wax’s laboratory and
+first author of the paper. “And OCT is so sensitive that just a little bit
+more of that scattered light is all you need.”
+
+According to Jelly, researchers have tried this dual-axis approach in other
+imaging modalities. But through his experiments, Jelly discovered how to apply
+this to OCT. His key discovery was that the depth of the focal point of light
+within the tissue makes a large difference in how well the dual-axis approach
+works.
+
+However, there is a catch: The greater the angle used to identify deeper
+signal, the smaller the field of view becomes. To get around this issue, Jelly
+devised a method of scanning the focus of the narrower window through various
+depths of the tissue and then using a computational algorithm to combine the
+data into a single image.
+
+In the paper, Wax and Jelly tested this approach with fabricated tissues and
+hairless mice to benchmark its performance against standard OCT to see what
+information it could reveal in a live animal’s skin. The controlled
+experiments showed that the dual-axis OCT approach does tend to outperform the
+standard setup. And in the live mice, the dual-axis OCT was able to image the
+tip of a needle 2 millimeters beneath the skin’s surface, where 1.2
+millimeters is traditionally the landmark depth.
+
+“The dual-axis OCT gave us images and information from the layers of skin
+where blood and molecular exchanges are occurring, which is extremely valuable
+for detecting signs of diseases,” said Jelly. “The technology is still in its
+infancy, but it is primed to be highly successful for biosensing or guiding
+surgical procedures.”
+
+This research was funded by the National Science Foundation (CBET-2009841,
+IIP-1827560).
+
+CITATION: “Deep Imaging with 1.3 µm Dual-Axis Optical Coherence Tomography and
+an Enhanced Depth of Focus,” Evan T. Jelly, Yang Zhao, Kengyeh K. Chu, Hillel
+Price, Michael Crose, Zachary A. Steelman, and Adam Wax. Biomedical Optics
+Express, Nov. 18, 2021. DOI: 10.1364/BOE.438621  
+Online:
+https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-12-7689&id=464977
+
+## Related News
+
+May 14, 2020
+
+### Retinal Texture Could Provide Early Biomarker Of Alzheimer’s Disease
+
+June 28, 2019
+
+### Low-Cost Retinal Scanner Could Help Prevent Blindness Worldwide
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Turning Disordered Proteins into Stable, ‘Super-Sticky’ Materials
+
+October 29, 2019
+
+Improved protein control could lead to wound-healing gels and other
+applications
+
+Biomedical engineers from Duke University have demonstrated that they can
+create stable materials from engineered disordered proteins by altering the
+environmental triggers that cause them to undergo phase transitions.
+
+This discovery shines a light on previously unexplored behaviors of disordered
+proteins and allows researchers to create novel materials for applications in
+drug delivery, tissue engineering, regenerative medicine and biotechnology.
+
+The research appeared online on Oct. 18 in Science Advances.
+
+Proteins function by folding into 3-D shapes that interact with different
+biomolecular structures. Researchers previously believed that proteins needed
+to fold into a specific fixed shape in order to function, but in the last two
+decades, engineers seeking to create novel materials for biomedical
+applications have turned their attention to intrinsically disordered proteins,
+called IDPs, which dynamically shift among a wide array of structures.
+
+IDPs are especially useful for biomedical purposes because they can undergo
+phase transitions –– changing from a liquid to a gel, for example, or a
+soluble to an insoluble state, and back again –– in response to environmental
+triggers, like changes in temperature. This ability has made IDPs a go-to tool
+for long-term drug delivery, as IDPs can be injected in liquid form into the
+body and then solidify into a gel depot that slowly releases medication.
+
+But while their flexible structure makes IDPs useful in a variety of
+applications, researchers previously thought that this flexibility limited the
+stability of the resulting materials.
+
+In their recent paper, Ashutosh Chilkoti, the chair of Duke Biomedical
+Engineering, and Felipe Garcia Quiroz, a Ph.D. graduate of the Chilkoti Lab
+who is a postdoctoral fellow at Rockefeller University, demonstrate that they
+can precisely tune the stability of IDP-based materials by controlling how
+quickly IDPs associate and dissociate in response to environmental cues.
+
+“Unlike well-folded proteins, conventional IDPs have a hard time shielding
+different parts of their structures from each other,” Quiroz said. “So as IDPs
+become more abundant in a solution they begin to collide and clash frequently,
+with some of their exposed structures weakly sticking together and rapidly
+breaking apart.”
+
+If the rate of association and dissociation is equal, the IDP is in
+equilibrium and it doesn’t undergo any behavior change. But if something in
+the environment changes, such as temperature, then segments of the IDPs stick
+together for longer periods of time, and they break apart with less frequency,
+resulting in a phase transition from a soluble to an insoluble state that can
+be harnessed to build materials.
+
+Upon removing the environmental stimulus, however, conventional IDPs go back
+to exhibiting very weak associations, and the previously assembled materials
+fall apart.
+
+In their new work, Chilkoti and Quiroz created materials using newly-designed
+IDPs that change phase at different temperatures, and demonstrated that upon
+phase separation, these IDPs are knocked out of their usual equilibrium
+behavior. This triggers a process known as hysteresis, in which IDPs will
+stick together even if the environmental trigger of the initial phase
+transition is removed.
+
+“What is exciting about our new work is that we’ve shown that we can dial the
+degree of hysteresis to identify designs in which these proteins will stick
+together readily, and once those associations emerge, it becomes very
+difficult to break them,” Quiroz said. “IDPs are typically thought as being
+weakly sticky, but we now show that it’s possible to design super sticky IDPs,
+which become very stable building blocks.”
+
+“That super stickiness only emerges after we apply an environmental trigger,
+so they otherwise behave as regular IDPs and we don’t have to worry about
+their stickiness as we handle them,” Quiroz said. “From a materials
+perspective, many of our favorite materials are those that are easy to
+prepare, but can rapidly mature to a state that is highly stable and difficult
+to disrupt. Cement is a great example of this.”
+
+By showing that they could make a highly stable material out of IDPs, Quiroz
+said, they could build on earlier work with IDPs in fields like regenerative
+medicine. For example, in their liquid form, IDPs can flow into a wound
+cavity, adopt its shape and then phase into a gel to provide structural
+support and recruit key cells for tissue repair.
+
+Because current IDP-based materials lack stability, their effect is short-
+lived as they erode fairly quickly, but this new approach could make IDPs a
+good source of new materials for wound-healing.
+
+“IDPs have had a set of known characteristics, and we have been working within
+that range of characteristics to explore potential biomedical applications for
+the last two decades,” Quiroz said. “But now we essentially have new tools to
+play with, and that allows us to be more creative. Our discovery adds
+complexity to what we are able to do with IDP-based materials for applications
+spanning materials science and biology, which is exciting.”
+
+Ashutosh Chilkoti and Felipe Garcia Quiroz are inventors on a patent related
+to this work. The authors declare no other competing interests.
+
+This work was funded by the National Institutes of Health through grant (R01
+GM061232) and MIRA (R35GM127042), the National Science Foundation through a
+DMREF grant (NSF-DMR-1729671), and by the NSF through the Research Triangle
+MRSEC (NSF DMR-11-21107). Quiroz holds a Career Award at the Scientific
+Interface from BWF.
+
+CITATION: "Intrinsically Disordered Proteins Access a Range of Hysteretic
+Phase Separation Behaviors," Felipe Garcia Quiroz, Nan K. Li, Stefan Roberts,
+Patrick Weber, Michael Dzuricky, Isaac Weitzhandler, Yaroslava G. Yingling,
+Ashutosh Chilkoti. Science Advances, October 28, 2019. DOI:
+10.1126/sciadv.aax5177
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

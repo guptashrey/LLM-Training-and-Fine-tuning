@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Surprising Structural Reason Your Kitchen Sponge is Disgusting
+
+February 17, 2022 | By Ken Kingery
+
+Environmental structure affects interactions between microbial species, making
+the common kitchen sponge a better incubator for bacterial diversity than a
+laboratory Petri dish
+
+Researchers at Duke University have uncovered a basic but surprising fact:
+your kitchen sponge is a better incubator for diverse bacterial communities
+than a laboratory Petri dish. But it’s not just the trapped leftovers that
+make the cornucopia of microbes swarming around so happy and productive, it’s
+the structure of the sponge itself.
+
+In a series of experiments, the scientists show how various microbial species
+can affect one another’s population dynamics depending on factors of their
+structural environment such as complexity and size. Some bacteria thrive in a
+diverse community while others prefer a solitary existence. And a physical
+environment that allows both kinds to live their best lives leads to the
+strongest levels of biodiversity.
+
+Soil provides this sort of optimal mixed-housing environment, and so does your
+kitchen sponge.
+
+The Duke biomedical engineers say their results suggest that structural
+environments should be taken into account by industries that use bacteria to
+accomplish tasks such as cleaning up pollution or producing commercial
+products.
+
+The results appeared online February 9 in the journal Nature Chemical Biology.
+
+“Bacteria are just like people living through the pandemic — some find it
+difficult being isolated while others thrive,” said Lingchong You, professor
+of biomedical engineering at Duke. “We’ve demonstrated that in a complex
+community that has both positive and negative interactions between species,
+there is an intermediate amount of integration that will maximize its overall
+coexistence.”
+
+Microbial communities mix in varying degrees throughout nature. Soil provides
+many nooks and crannies for different populations to grow without much
+interaction from their neighbors. The same can be said for individual droplets
+of water on the tops of leaves.
+
+But when humans throw many bacterial species together into a structureless
+goop to produce commodities like alcohol, biofuel and medications, it’s
+usually on a plate or even a big vat. In their experiments, You and his
+laboratory show why these industrial efforts may be wise to begin taking a
+structural approach to their manufacturing efforts.
+
+The researchers barcoded about 80 different strains of _E. coli_ so that they
+could track their population growth. Then they mixed the bacteria in various
+combinations on laboratory growth plates with a wide variety of potential
+living spaces ranging from six large wells to 1,536 tiny wells. The large
+wells approximated environments in which microbial species can mix freely,
+while the small wells mimicked spaces where species could keep to themselves.
+
+Regardless of the habitat sizes, the results were the same. The small wells
+that began with a handful of species wound up evolving into a community with
+only one or two strains surviving. Similarly, the large wells that began with
+a broad range of biodiversity also ended the experiment with only one or two
+species remaining.
+
+“The small portioning really hurt the species that depend on interactions with
+other species to survive, while the large portioning eliminated the members
+that suffer from these interactions (the loners),” You said. “But the
+intermediate portioning allowed a maximum diversity of survivors in the
+microbial community.”
+
+The results, You says, create a framework for researchers working with diverse
+bacterial communities to begin testing what structural environments might work
+best for their pursuits. They also point toward why a kitchen sponge is such a
+useful habitat for microbes. It mimics the different degrees of separation
+found in healthy soil, providing different layers of separation combined with
+different sizes of communal spaces.
+
+To prove this point, the researchers also ran their experiment with a strip of
+regular household sponge. The results showed that it’s an even better
+incubator of microbial diversity than any of the laboratory equipment they
+tested.
+
+“As it turns out, a sponge is a very simple way to implement multilevel
+portioning to enhance the overall microbial community,” You said. “Maybe
+that’s why it’s a really dirty thing — the structure of a sponge just makes a
+perfect home for microbes.”
+
+This research was supported by the National Institutes of Health (R01GM098642,
+R01GM110494), the National Science Foundation (MCB-1412459, MCB-1937259; DEB
+1257882), the Office of Naval Research (N00014-12-1-0631) and the Army
+Research Office (W911NF-14-1-0490).
+
+CITATION: “Modulation of Microbial Community Dynamics by Spatial
+Partitioning,” Feilun Wu, Yuanchi Ha, Andrea Weiss, Meidi Wang , Jeffrey
+Letourneau, Shangying Wang, Nan Luo, Shuquan Huang, Charlotte T. Lee, Lawrence
+David and Lingchong You. Nature Chemical Biology, 2022. DOI:
+10.1038/s41589-021-00961-w
+
+# # #
+
+## Related News
+
+January 16, 2019
+
+### Simple Rules Predict and Explain Biological Mutualism
+
+February 21, 2018
+
+### New Tool Tells Bioengineers When to Build Microbial Teams
+
+October 08, 2013
+
+### Growing Bacteria Keep Time, Know Their Place
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

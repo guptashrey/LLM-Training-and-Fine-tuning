@@ -1,0 +1,250 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Taking a Landslide’s Temperature to Avert Catastrophe
+
+June 15, 2020 | By Ken Kingery
+
+A new model for deep-seated landslides that takes into account the temperature
+of a thin, unstable layer of clay could help stop catastrophes in their
+tracks.
+
+Engineers from Duke University have developed a comprehensive new model of
+deep-seated landslides and demonstrated that it can accurately recreate the
+dynamics of historic and current landslides that occur under various
+conditions.
+
+Peering past the standard measurements of velocity and water levels, the model
+points to the temperature of a relatively thin layer of clay at the base of
+the landslide as critical to its potential for sudden cataclysmic failure. The
+approach is currently being used to monitor an evolving landslide in Andorra
+and suggests methods for mitigating the risk of its escalation as well as any
+other future deep-seated landslides.
+
+The results appear online on June 15 in the Journal of Geophysical Research –
+Earth Surface.
+
+“I published a paper more than a decade ago that explained what happened at
+the Vajont Dam, one of the biggest manmade disasters of all-time,” said
+Manolis Veveakis, assistant professor of civil and environmental engineering
+at Duke. “But that model was extremely limited and constrained to that
+specific event. This model is more complete. It can be applied to other
+landslides, providing stability criteria and guidance on when and how they can
+be averted.”
+
+The disaster Veveakis is referring to occurred at the Vajont Dam, one of the
+tallest in the world at 860 feet, in northern Italy in 1963. After years of
+attempting to mitigate a slow, incremental landslide of roughly an inch per
+day in the adjoining mountainside by lowering the water level of the lake
+behind the dam, the landslide suddenly accelerated without warning. Nearly 10
+billion cubic feet of rock plummeted down the gorge and into the lake at
+almost 70 miles per hour. That created a tsunami more than 800 feet tall that
+crashed over the dam, completely wiping out several small towns below and
+killing nearly 2,000 people.
+
+Before the catastrophe occurred, scientists did not believe any potential
+landslide would result in a tsunami more than 75 feet tall. They remain
+puzzled at how this landslide had moved so violently and so suddenly.
+
+In 2007, Veveakis put the pieces together and developed a model that fit the
+scientific observations of the disaster. It showed how water seeping into rock
+above an unstable layer of clay caused a creeping landslide, which in turn
+heated up and further destabilized the clay in a feedback loop until it
+rapidly failed.
+
+“Clay is a very thermally sensitive material and it can create a shear band
+that is very susceptible to friction,” said Carolina Segui, a PhD candidate in
+Veveakis’s laboratory and first author of the new paper. “It’s the worst
+material to have in such a critical place and is a nightmare for civil
+engineers constructing anything anywhere.”
+
+This early model, however, used only the last month of data from the Vajont
+Dam, when the water level was almost constant. It ignored any sort of
+groundwater variation, essentially assuming that the external loading remained
+constant. While that model worked to explain the unexpected failure of the
+Vajont landslide, the model’s assumptions made it impossible to offer real-
+time assessments or use in other scenarios.
+
+In the new study, Veveakis, Segui and Hadrien Rattez, a postdoctoral
+researcher in Veveakis’s laboratory, plug the old model’s holes and provide
+the ability to incorporate a combination of time-dependent external loading
+and internal degradation. The resulting model is able to recreate and predict
+observations taken from very different, deep-seated landslides.
+
+“Traditional landslide models have a static internal material strength, and if
+you exceed it the landslide fails,” said Veveakis. “But in examples such as
+these, the landslide is already moving because its strength has already been
+exceeded, so those models don’t work. Others have tried to use machine
+learning to fit the data, which has worked sometimes, but it doesn’t explain
+the underlying physics. Our model incorporates the properties of soft
+materials, allowing it to be applied to more landslides with different loading
+characteristics and provide an operational stability criterion by monitoring
+its basal temperature.”
+
+Besides using the model to recreate the movements of the Vajont slide and
+explaining the mechanisms underpinning its motion for more than two years,
+Veveakis and Segui show that their model can accurately recreate and predict
+the movements from the Shuping landslide, another slow-moving landslide at the
+Three Gorges Dam in China, the largest dam in the world. But while that
+landslide is also the result of a manmade lake beside a dam, that’s where the
+similarities end.
+
+Before the Vajont Dam failed, there was a fairly linear relationship between
+the lake level and the velocity of the creeping landslide. The lower the lake
+level, the slower the landslide. The Shuping landslide, however, behaves in
+the opposite manner — the lower the lake level, the faster the landslide. And
+while the relationship between lake level and velocity was roughly linear at
+the Vajont Dam, the velocity of the Shuping landslide is non-linear,
+responding to additional sources of water and loading, such as seasonal
+monsoons. It is also composed of different materials.
+
+Despite these differences, the researchers’ new model is able to accurately
+reproduce the Shuping landslide’s movements over the past decade.
+
+In this case, the researchers do not have direct access to measurements taken
+from the shear band, which is less than one meter of brown breccia soil and
+silty clay. They have to make assumptions about the levels of friction and the
+internal temperatures to make their model work.
+
+In the mountains of Andorra, however, the slow-moving El Forn landslide
+threatens the safety of a nearby village called Canillo and is being closely
+monitored by the government. Unlike China or Italy, there is no dam or lake
+involved — this landslide is being accelerated by melting snow feeding the
+groundwater levels in the mountains above the city.
+
+Even though the conditions are completely different from the previous two
+landslides, the researchers are confident their model is up to the task.
+
+Thanks to numerous boreholes that have been taken to gain a better
+understanding of the El Forn landslide, Veveakis and Segui have been able to
+insert thermometers directly into the shear band of a small lobe that is
+sliding faster than the rest. With this level of data available, the
+researchers expect to validate and refine their model even more, and even
+provide advice as to how to avoid a potential catastrophe should one begin to
+develop.
+
+“One could imagine pumping water out of the ground, or circulating another
+cold fluid through the shear layer to cool it down and slow the landslide,”
+said Segui. “Or at the very least, if we couldn’t stop it, to provide enough
+warning to evacuate. That is exactly why we are there.”
+
+This research was supported by the National Science Foundation (CMMI-2006150).
+
+CITATION: “On the Stability of Deep-Seated Landslides. The cases of Vaiont
+(Italy) and Shuping (Three Gorges Dam, China),” C. Seguí, H. Rattez, and M.
+Veveakis. Journal of Geophysical Research – Earth Surface, e2019JF005203,
+2020. DOI: 10.1029/2019JF005203
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

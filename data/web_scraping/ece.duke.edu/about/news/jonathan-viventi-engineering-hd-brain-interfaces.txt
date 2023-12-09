@@ -1,0 +1,193 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Jonathan Viventi: Engineering HD Brain Interfaces
+
+September 26, 2014 | By Ken Kingery
+
+Named one of MIT Technology Review’s “35 Innovators Under 35” and one of
+Popular Science’s “Brilliant 10,” Viventi designs new flexible electronics
+that shrink sensors and simplify wiring, paving the way for a leap forward in
+brain-computer interfaces.
+
+Jonathan Viventi will join the biomedical engineering department in Duke
+University’s Pratt School of Engineering in November 2014. After helping to
+develop the technology behind 4G cellular networks, he decided to use his
+knowledge of advanced wireless and electronic devices to try to tap into a
+much faster network—the human brain.
+
+For the past several decades, the technology that allows researchers to
+connect to and monitor human brain function has not changed much. Electrodes
+are individually, painstakingly wired to separate electronics sitting far away
+inside a piece of recording equipment. The sheer volume of wiring in a
+constrained space limits most devices to around 100 sensors. Although getting
+up to 256 is possible, scaling up to thousands is not.
+
+To push the field forward, Viventi has developed flexible electronics that
+require a fraction of the wiring of past systems and dramatically increase the
+number of sensors researchers can deploy.
+
+“It’s like the difference between a piece of two-by-four lumber and a sheet of
+paper,” explains Viventi, who comes to Duke from New York University. “They
+are both made out of the same material, but have dramatically different
+physical properties. We’ve done the same thing with silicon, which is normally
+brittle and inflexible. But, by making silicon very thin—just 300 nanometers
+thick—we can make it extremely flexible.”
+
+Viventi has taken this thin, flexible version of silicon electronics and
+embedded it into a thin sheet of plastic to create an array of 360 sensors
+that requires only 39 wires. He hopes to scale the technology to thousands of
+sensors across a much larger area to give researchers a much finer picture of
+the electrical activity in the brain.
+
+Once that’s accomplished, a lot of cool things can start to happen.
+
+For example, Viventi wants to monitor the brain’s electrical activity just
+before a seizure in fine resolution. By characterizing the patterns of waves
+that move across the brain just before a seizure, he hopes to predict them in
+real time and use his technology as a sort of neural pacemaker to stop
+seizures before they start.
+
+Another avenue of research involves motor and auditory prosthetics. Viventi
+hopes his technology can extract enough information from an animal’s motor
+cortex to allow it to control a prosthetic device like a robotic limb,
+computer cursor or wheelchair just by thinking about it. While similar systems
+already exist, they have limitations.
+
+“The control of a robotic arm through a neural interface is currently slow and
+unreliable,” said Viventi. “We’re interested in seeing if we have 1,000
+sensors on the brain—or 10,000, for that matter—whether or not we can
+dramatically improve the performance of these sorts of devices.”
+
+Similarly, in auditory prosthetics, Viventi wants to use the same sensor
+technology to both record and stimulate the brain. A detailed neural sensor,
+for example, could help fine-tune the inputs of a cochlear implant. Or perhaps
+the sensor array could even inject the perception of sound back into the brain
+of a deaf person by electrically stimulating the surface of their brain.
+
+Whatever the goal—diagnosing and heading off epileptic seizures or
+revolutionizing prosthetic devices—Viventi says there is no shortage of
+potential collaborators at Duke.
+
+“Here, we have a world-class medical center right next door to the engineering
+school,” said Viventi, who also fits in well with Duke’s entrepreneurial
+spirit, having co-founded a company that produces electronics for modifying
+racecars called N2MB Racing. “It’s amazing to have everyone in the same place.
+There’s a critical mass of people here who are working on similar challenges
+in neuroengineering, and my lab will benefit from their expertise.”
+
+Meet our new 2014-2015 faculty members
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

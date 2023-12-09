@@ -1,0 +1,372 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Illuminating the Future of Biomedical Imaging Tools
+
+March 24, 2021 | Michaela Kane
+
+From microscopes to lasers, Roarke Horstmeyer is redesigning optical tools to
+uncover new information about biological systems and disease
+
+## Zooming in on a Tiny Parasite
+
+The malaria parasite is an expert when it comes to destroying red blood cells.
+
+When a human is bitten by an infected mosquito, the parasite enters the
+bloodstream and travels to the liver, where it multiplies before it’s released
+back into a patient’s bloodstream and begins its quick work of annihilating
+red blood cells from the inside out.
+
+According to the World Health Organization, there were more than 229 million
+cases of malaria across the globe in 2019, and more than 400,000 people died
+from the disease.
+
+It’s a significant amount of destruction for a parasite that measures less
+than one millionth of a meter.
+
+Although malaria is exceedingly common, it’s not the easiest disease to
+diagnose. When a doctor suspects that a patient has malaria, they’ll typically
+take a blood sample to track down the tiny parasite with a microscope.
+
+Although visual examination is considered the gold standard to confirm a
+diagnosis, signs of the malaria parasite are easy to miss––both trained
+physicians and current computer algorithms have a tough time at accurate
+identification. Complicating matters, high-resolution microscopes only allow
+clinicians to examine a few dozen cells at a time, and they’ll often need to
+examine a few thousand cells before they find any sign of the parasite, which
+can take tens of minutes per slide.
+
+But Roarke Horstmeyer, an assistant professor of biomedical engineering at
+Duke University, aims to make this process faster and more accurate through
+the creation of new optical tools and image post-processing methods.
+
+Horstmeyer runs the Computational Optics Lab at Duke, where his students
+develop new microscopes, cameras and computer algorithms for biomedical
+applications. According to Horstmeyer, it’s challenging to clearly capture
+biological events, as properties like image resolution, field-of-view and
+video frame rates of current optical tools are still surprisingly limited.
+
+“These limits affect areas across medicine, from the pathologist who cannot
+quickly measure an infection in blood cells to neuroscientists who can only
+use light to monitor neural activity along the top surface of the brain,” he
+says. “Our lab tries to address these shortcomings by coming up with new
+optical approaches that can give us a new way to see and study biological
+systems, as well as new algorithms that can assist us with these challenging
+tasks.”
+
+The LED microscope adapts its lighting to automatically detect diseases
+
+## Lighting Up Blood-Borne Diseases
+
+The microscope uses machine learning to automatically adapt its lighting to
+the best settings to diagnose diseases
+
+One of the lab’s largest projects involved the creation of a microscope that
+uses machine learning to automatically adapt its lighting to the best settings
+to diagnose diseases, like malaria.
+
+“We’re really excited about using machine learning for optimizing optical
+systems,” says Horstmeyer. “Nature has evolved thousands of types of eyes for
+different animals, and we were curious if we could re-create this evolutionary
+process with a computer, to produce a new type of ‘microscope eye’ that is
+optimized to pick up certain characteristics of a biological sample that are
+important for a diagnosis.”
+
+A standard microscope operates by shining a uniform amount of light on a
+sample from all directions. For their new microscope, Horstmeyer and his
+collaborators instead created a bowl-shaped light source embedded with LEDs,
+allowing the samples to be illuminated from different angles and with
+different colors. The new angled lighting pattern can then cast shadows and
+highlight different areas of the sample, depending on which set of LEDs is
+turned on.
+
+The team connected this LED panel to their microscope, which was programmed
+with a machine learning algorithm called a convolutional neural network. Using
+blood samples that carried the malaria parasite, the algorithm enabled the
+microscope to “learn” which features indicated malaria infection, and which
+light patterns could best highlight those features.
+
+> “Today it typically takes a clinician upwards of ten to 15 minutes to find
+> the malaria parasite in a blood sample. It’s so small that you need a really
+> powerful lens, and that only allows you to see about a dozen blood cells at
+> any given time,” says Horstmeyer. “But our tool can zoom out and scan
+> thousands of cells at once, and the microscope can make up for the drop in
+> resolution by optimizing the illumination to identify and highlight hard-to-
+> see features.”
+>
+> Roarke Horstmeyer
+
+Although imaging a larger area results in lower resolution and thus typically
+leads to very low detection accuracies, this new “intelligent” microscope can
+still correctly identify the malaria parasite in the sample about 95 percent
+of the time. The process also takes just a few seconds.
+
+Horstmeyer and his team are optimistic that the tool can be modified to
+rapidly diagnose other blood-borne diseases, like tuberculosis or even
+intestinal parasites. They could also use the tool to determine if certain
+tissue lesions show a risk of progressing to cancer.
+
+The top row shows infected cells without the aid of the microscope. The
+bottown shows the visible parasite as seen through the microscope.
+
+## Tracking a New Disease
+
+After the onset of the global coronavirus pandemic in March of 2020, the team
+also began to explore if their technology could be used to identify signs of
+the SARS-CoV-2 virus in blood samples taken from patients.
+
+“A year ago nobody really knew how the virus worked or about its interactions
+with the body, but it was vaguely understood that it affects the blood because
+we were seeing issues with blood clotting,” says Horstmeyer. “We figured it
+must be changing the morphology of the blood cells, which is something that
+other viruses do, and we were curious if we could use the microscope to
+identify these specific changes in the shape and color of blood cells and use
+that to detect and diagnose patients with the SARS-CoV-2.”
+
+Although the virus is too small to be seen in the microscope, the team worked
+with hematologists and pathologists at Duke Health to develop algorithms that
+could help the microscope identify specific changes in blood cells that could
+indicate a coronavirus infection.
+
+“Our original goal was to create a COVID diagnostic, but since the project
+began a year ago, we’ve also explored whether we can use the blood samples to
+both identify the infection and predict patient outcomes,” says Horstmeyer.
+“Living through a pandemic has provided the team with really unique
+circumstances in which to test this technology, so while it’s been challenging
+it’s also been really meaningful and exciting.”
+
+By linking together 96 smartphone camera sensors into a grid, each camera in
+the array can capture a detailed image of a small section of area
+
+## A Detailed Field of View
+
+Today’s microscopes allow users to zoom in on their object of study, enabling
+them to see details like the scales on a butterfly wing, the neuronal activity
+of a zebrafish or the pulsing cells in a tissue sample. Although these views
+are detailed, they’re also incredibly limited—requiring users to move their
+sample by a few millimeters every few moments as they piece together a full
+field of view.
+
+It’s incredibly challenging to make large camera lenses that can image a
+really large area at high resolution, so microscopes can rarely capture high-
+resolution detail over a multi-centimeter viewing area. But the Horstmeyer lab
+has developed a solution to this problem with a new multi-lens microscope
+design, called the micro-camera array microscope, or MCAM.
+
+By linking together 96 smartphone camera sensors into a grid, each camera in
+the array can capture a detailed image of a small section of area, which the
+researchers can then stich together into a larger, complete image that can
+contain up to one billion pixels (a gigapixel) per snapshot.
+
+“After we stitch the images together we can see a really large area, which for
+us would be the size of a full piece of paper, at high resolution – almost at
+the resolution to see single cells, which normal microscopes can’t do,” says
+Horstmeyer.
+
+Currently, Horstmeyer is collaborating with researchers in the neuroscience
+community, such as Eva Naumann in Duke’s Neurobiology Department, to use the
+microscope to observe animal models, like zebrafish, as they freely move
+around and interact across a large area.
+
+“We can outfit the microscope with fluorescent filters, which match up with
+fluorescent tags in the animal models, and that allows us to measure their
+neural activity as they freely move around and interact within their
+environment,” he says. “It’s a great tool because it allows us to see and
+record many things happening simultaneously, so we aren’t limited to looking
+at one small area or working with just one organism at a time.”
+
+Horstmeyer and his collaborators have been able to translate this technology
+into their own startup, Ramona Optics, where they’ll continue to develop and
+manufacture the MCAM.
+
+Click to zoom in on these gigapixel images from Ramona Optics:
+
+## Peering Beneath Tissue
+
+One of the lab’s newest projects involves using light to measure biological
+events deep inside tissue. One of the simplest and oldest tools currently
+available involves placing a small light source, like an LED, on the tissue
+surface, and then measuring the brightness of scattered light at a variety of
+other locations. This technique is particularly popular for measuring blood
+flow within the head. As light shines from the LED, blood will absorb the
+scattered light and affect the amount that ultimately hits each detector,
+resulting in measurable dips in brightness.
+
+“If you place multiple LEDs and sensors in different locations across the
+head, you can back out a really low-resolution image of blood flow, similar to
+a low-quality MRI. Then you can see how blood flow to certain areas of the
+brain changes when the subject completes different tasks,” says Horstmeyer.
+“We are changing this approach by using laser light, and instead of measuring
+how much light is absorbed, we’re measuring how fast blood is moving at
+different locations, by detecting the rapid variation of the laser light over
+time.”
+
+To achieve this, the team has modified a technique known as diffuse
+correlation spectroscopy, where they’re now using thousands of highly
+sensitive “single-photon avalanche diode” sensors placed into an array, to
+quickly detect even the slightest changes in light.
+
+“For our first tests we’re just trying to see what the smallest changes are
+that we can detect, and how quickly can we see them,” says Horstmeyer. “Our
+first results are really promising, and we’re now beginning to measure how
+blood flow changes during certain behavioral activities and similar
+applications. It’s an exciting prospect for us.
+
+> “Light has always been useful at helping us understanding biology and
+> optics,” says Horstmeyer. “I’m having a lot of fun working at the
+> intersection of the two.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

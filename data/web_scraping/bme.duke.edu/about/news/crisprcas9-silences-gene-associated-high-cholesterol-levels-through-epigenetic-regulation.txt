@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# CRISPR/Cas9 Silences Gene Associated with High Cholesterol Levels Through
+Epigenetic Regulation
+
+April 26, 2018
+
+Process marks the first time researchers have delivered CRISPR/Cas9 repressors
+for targeted therapeutic gene silencing in adult animal models
+
+Biomedical engineers at Duke University have used a CRISPR/Cas9 genetic
+engineering technique to turn off a gene that regulates cholesterol levels in
+adult mice, leading to reduced blood cholesterol levels and gene repression
+lasting for six months after a single treatment. This marks the first time
+researchers have delivered CRISPR/Cas9 repressors for targeted therapeutic
+gene silencing in adult animal models.
+
+The study appeared online in _Nature Communications_ on April 26.
+
+The CRISPR/Cas9 system is based on an antiviral defense mechanism in bacteria
+in which the Cas9 enzyme recognizes the viral DNA sequences of previous
+infections and cuts up invading DNA during re-infection. Researchers have
+engineered the CRISPR/Cas9 system to not only locate and cut specific
+sequences of DNA, but to also turn on or off the expression of targeted genes
+without making permanent changes to the DNA sequence. While this CRISPR/Cas9
+repressor technique has emerged as a robust tool for disrupting gene
+regulation in cell culture models, it had not yet been adapted for delivery to
+adult animals for applications such as gene therapy.
+
+In their most recent study, Charles Gersbach, the Rooney Family Associate
+Professor of Biomedical Engineering at Duke, and members of his laboratory
+develop an approach to efficiently package and deliver the CRISPR/Cas9
+repressor system to mice. They tested their delivery system by silencing
+Pcsk9, a gene that regulates cholesterol levels. While several drugs have been
+developed to treat high cholesterol and cardiovascular disease by blocking the
+activity of Pcsk9, this new approach would prevent Pcsk9 from being made.
+
+“We previously used these same types of tools to turn genes on and off in
+cultured cells, and we wanted to see if we could also deliver them to animal
+models with an approach that is relevant for gene therapy,” Gersbach said. “We
+wanted to change the genes in a way that would have a therapeutic outcome, and
+Pcsk9 is a useful proof-of-concept given its role regulating cholesterol
+levels, which in turn affect health issues like heart disease.”
+
+To test the targeted Pcsk9 repressor in an adult animal, the team opted to use
+adeno-associated viral (AAV) vectors—small viruses that have been engineered
+to target a variety of tissue types in human gene therapy clinical trials. Due
+to the vector’s small cargo limit, the team couldn’t use the common Cas9
+enzyme from _Streptococcus pyogenes_. Instead, they opted to use a smaller
+Cas9 from _Staphylococcus aureus_. They also deactivated the DNA cutting
+function of Cas9, creating a “dead” version of the enzyme, dCas9, that binds
+to but does not cut the targeted DNA sequence.
+
+The dCas9 can be combined with a KRAB protein that silences gene expression,
+creating a CRISPR/Cas9 repressor that blocks transcription, reduces chromatin
+accessibility, and silences gene expression without altering the underlying
+DNA sequence. Using an AAV vector to deliver CRISPR/Cas9-based repressors to
+the mouse liver, the researchers reduced Pcsk9 and cholesterol levels in
+treated mice.
+
+While the experiment was successful, the researchers also observed release of
+liver enzymes into the blood only in treatments that included Cas9. While
+these liver enzyme levels remained below a critical threshold and normalized
+over time, their elevated levels indicated that the therapy potentially caused
+immune responses in the liver where the virus and Cas9 enzyme accumulate,
+raising questions about the efficacy of multiple injections.
+
+“One of the interesting things we found looked like an immune response against
+the Cas9 protein,” said Pratiksha Thakore, the PhD student who led the work in
+Gersbach’s lab. “Following injection, we saw that levels of our target gene,
+Pcsk9, were reduced, but we also observed increases in expression of many
+immune cell genes , which indicates that immune cells were infiltrating the
+liver after we delivered Cas9 to the mice. Gaining a better understanding of
+this immune response and how to modulate it will be important for using Cas9
+technologies for therapies.”
+
+As researchers develop new ways to use the CRISPR/Cas9 for therapy and
+research, more information is emerging on how the immune system of living
+organisms responds to delivery of CRISPR/Cas9 system. Because the Cas9 enzyme
+is derived from bacteria, the immune system may recognize it as a foreign
+protein from an invading organism and mount a response. There is also concern
+that potential patients for a CRISPR/Cas9-based therapy may already be primed
+to harbor immune responses against these systems, as the Cas9 enzymes most
+commonly used in research come from common bacteria to which humans are
+routinely exposed.
+
+“The field is just starting to look at this, and it’s clear that immune
+response is an important issue,” said Gersbach. “Although we did see an immune
+response in the mice when we administered Cas9, the levels of liver enzymes in
+the serum seemed to mitigate over time without any intervention, and the
+effect of Pcsk9 repression was sustained regardless.”
+
+As they continue the research, Gersbach and his collaborators hope to gather
+more information to better understand the immune response against Cas9 and
+stability of epigenetic modulation.
+
+“There are still lots of things for us to explore with this approach,” said
+Thakore. “CRISPR/Cas9 tools have worked so well in cell culture models that
+it’s exciting to apply them more in vivo, especially when we’re examining
+important therapeutic targets and using delivery vehicles that would be
+relevant to treating human diseases.”
+
+The work was supported by an Allen Distinguished Investigator Award from the
+Paul G. Allen Frontiers Group, the Thorek Memorial Foundation, the National
+Institutes of Health (NIH) (R01DA036865, R21DA041878, UG3TR002142,
+UH3TR000505, P30AR066527, R41GM119914), the NIH Director’s New Innovator Award
+(DP2OD008586) the National Science Foundation Faculty Early Career Development
+(CAREER) Award (CBET-1151035), and the American Heart Association Scientist
+Development Grant (10SDG3060033).
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

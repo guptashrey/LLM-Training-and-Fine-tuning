@@ -1,0 +1,262 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Using Wearable Tech to Track a Viral Threat
+
+October 7, 2020 | Michaela Kane
+
+The Duke research study uses data from smartphones, smartwatches and health
+surveys to help detect COVID-19
+
+Once a tool reserved for athletes and tech-savvy exercisers, smartwatches have
+transformed into a popular and every-day accessory, giving users a chance to
+track everything from their blood oxygen levels to their workout statistics.
+Now, a team of engineers and clinicians at Duke University are hoping to use
+these ubiquitous tools for a new purpose—tracking and identifying early
+symptoms of the novel coronavirus.
+
+Originally launched in April 2020, CovIdentify (covIdentify.org) was designed
+to explore how data collected on smartphones, Apple Watches, Fitbits, Garmin
+Watches and other connected devices could help determine whether or not users
+have COVID-19, the disease caused by the novel coronavirus.
+
+“By early March it was clear that there was going to be an explosion of
+COVID-19 cases across the United States, and we knew this was going to be a
+long-term health care problem,” says Jessilyn Dunn, PhD an assistant professor
+of biomedical engineering and one of the leaders of the project.
+
+> “We wanted to see if we could use the data from mobile devices and
+> smartwatches to identify signals of early COVID-19 infection, and see if
+> there were biomarkers or health changes that indicated if someone was more
+> likely to develop a severe infection.”
+>
+> Jessilyn Dunn
+
+In previous research, Dunn had shown that biometric data collected from
+wearable devices could indicate if a person was more likely to develop health
+issues like diabetes or cardiovascular disease, or show they had an infection.
+This work would be expanded in CovIdentify, where students in Dunn’s Big Ideas
+Lab, including PhD students Brennae Bent, Peter Cho, Karnika Singh, Will Wang,
+will collect biometric data about a participant, including their sleep
+schedules, oxygen levels, activity levels and heart rate.
+
+“The first stage of the study was launched in the first week of April with
+covidentify.org, where participants could input their relevant demographics
+and medical information and agree to complete a daily survey,” says Dunn.
+“This is a short daily survey that would ask about social distancing and
+common symptoms, like nasal congestion, runny nose, cough, sore throat,
+headache, fever, chills and COVID-specific symptoms, like shortness of breath,
+nausea and loss of sense of taste and smell.”
+
+By pairing these surveys with changes in the biometric data from the watches,
+the researchers could explore which symptoms would indicate common issues like
+allergies and a cold, and which symptoms and biometric changes were likely to
+indicate a COVID-19 infection.
+
+“The biometric data helps us create a baseline to see what a person’s health
+usually looks like, and the ongoing data and surveys help us create a
+trajectory of the illness,” says Ryan Shaw, PhD, RN an associate professor of
+nursing and director of the Duke Mobile App Gateway . “We’ll be able to see
+how changes in the digital health data relate to the emergence of specific
+symptoms. Once this data is collected we can develop, test and refine our
+predictive algorithms to detect respiratory infections from the COVID-19
+virus.”
+
+In second phase of the study, which began in early June 2020, the team
+launched an iOS application, which can pull data from any device that syncs
+with the Apple HealthKit application. Beyond simplifying the sign-up and
+survey process, the app also expands the devices that the team can work with.
+
+Jessilyn Dunn with PhD student Brinnae Bent who is preparing to download
+information from a wearable health monitoring device.
+
+As the pandemic has played out, the CovIdentify team also noted that the virus
+had a disproportionate effect on underserved communities, minorities and
+people with chronic illnesses like diabetes and hypertension. Working with
+collaborators Chris Woods, MD, the associate director of the Duke Center for
+Applied Genomics and Precision Medicine, and Geoffrey Ginsburg, MD, PhD the
+director of MEDx and the Duke Center for Applied Genomics and Precision
+Medicine, the team developed plans to target and collect more comprehensive
+biometric data from these communities.
+
+“We’re seeing that underrepresented minorities are at a much greater risk of
+both contracting COVID-19 and developing a more severe illness, so it’s
+important that we explore what biometric factors may contribute to that risk,”
+says Shaw. “We’re also targeting recruitment of people who have a higher risk
+of contracting the disease, like grocery store workers, cleaning and cafeteria
+staff at hospitals, and people who live in high-density housing like dorms,
+military barracks and nursing homes.
+
+“We’ve procured some funding that allows us to provide devices for people who
+want to participate but may not be able to afford the devices as well,” says
+Shaw. “That being said, we’re still pursuing additional funding options so we
+can more comprehensively provide devices and expand the study.”
+
+According to Dunn, this expanded data collection from the second phase of
+their study may improve their ability to differentiate COVID-19 from other
+illnesses, which will be significant as states open back up and infections
+potentially coincide with flu season.
+
+“One of my lab’s goals is to arm health care professionals with tools and
+information to detect illness and intervene early by delivering the right
+treatment to the right person at the right time,” Dunn said.
+
+> “If this study is successful, we’d be able to use non-invasive and
+> accessible tools to help us control the spread of a dangerous virus, and
+> predict when someone may need more intensive care. If we can achieve this,
+> we may be able to help doctors save more lives.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

@@ -1,0 +1,271 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘Vortex Microlaser’ Encodes Information in Twisting Beams of Light
+
+May 18, 2020
+
+Engineers develop first tunable, chip-based vortex microlaser and detector,
+providing a new route to increasing the bandwidth of fiber optic
+communications
+
+Adapted from a press release from the University of Pennsylvania
+
+Researchers from a worldwide collaboration have demonstrated the ability to
+precisely control a property of a laser called its orbital angular momentum.
+The technology will allow researchers to transmit more data in optical
+communications devices, offering a new route to stay ahead of the world’s
+increasing demand for data.
+
+The study appeared online on May 14 in the journal Science and was a
+collaboration between the University of Pennsylvania, Duke University,
+Northeastern University and the Polytechnic University of Milan.
+
+“Our findings mark a large step toward launching large-capacity optical
+communication networks and confronting the upcoming information crunch,” said
+Liang Feng, assistant professor of materials science and engineering and
+electrical and systems engineering at UPenn.
+
+“This work began when both Professor Feng and I were at the University at
+Buffalo and demonstrated the first on-chip microlaser that could emit a fixed
+shape,” said Natasha Litchinitser, professor of electrical and computer
+engineering at Duke. “We were excited to continue our work by helping
+Professor Feng’s group increase the amount of data their new laser system can
+potentially carry.”
+
+As computers get more powerful and connected, their hunger for data is in a
+constant race with the technologies used to transmit it. Light-based optical
+fiber internet services from providers such as Google and AT&T are already
+replacing slower, outdated technologies based on electrons such as cable and
+DSL.
+
+Much of the difference in bandwidth, however, does not come from light’s
+ability to outrace electricity. Instead it comes from “multiplexing”
+techniques—the ability to layer data into multiple aspects of a light wave,
+such as its amplitude, wavelength and polarization. But the aspects that
+scientists are able to control are beginning to run out, as is the amount of
+room left to store data in the conventional properties of light.
+
+To break through this barrier, engineers are exploring some of light’s harder-
+to-control properties. In the new study, researchers have demonstrated a
+system that can manipulate one such property known as the orbital angular
+momentum (OAM), creating a microlaser that can be dynamically tuned to
+multiple OAM modes. Critically, they are the first to do so on small
+semiconductor chips and with enough precision that it can be used as a medium
+for transmitting information.
+
+“I explain OAM to my classes by thinking about planets,” said Litchinitser.
+“Spin angular momentum (SAM) is a light wave spinning on its axis like the
+Earth spins on its axis, which gives us night and day. But you can also get
+light to rotate around its axis of travel like the Earth rotates around the
+moving sun. And if you visualize this dynamic in three dimensions, it looks
+like the light is traveling in a vortex.”
+
+Such “vortex” lasers were first demonstrated by Feng and Litchinitser with
+quantum symmetry-driven designs in 2016. However, that original work and
+follow-up developments in the field have thus far been limited to transmitting
+a single, pre-set OAM mode, making them impractical for encoding more
+information.
+
+In the most basic form of optical communication, transmitting a binary message
+is as simple as representing 1s and 0s by whether the light is on or off. This
+is effectively a measure of the light’s amplitude — how high the peak of the
+wave is — which we experience as brightness. As lasers and detectors become
+more precise, they can consistently emit and distinguish between different
+levels of amplitude, allowing for more bits of information to be contained in
+the same signal.
+
+Even more sophisticated lasers can alter other properties of light, such as
+its wavelength, which corresponds to color, and its polarization, which is the
+orientation of the wave’s oscillations relative to its direction of travel.
+Many of these properties can be set independently of each other, allowing for
+increasingly dense multiplexing.
+
+Orbital angular momentum is yet another property of light, though it is
+considerably harder to manipulate, given the complexity of the nanoscale
+features necessary to generate it from computer-chip-sized lasers.
+
+“But because total angular momentum has to be conserved, even though we’re
+talking about two different types of momentum, if you decrease the spin
+angular momentum, the orbital angular momentum has to increase, and vice
+versa,” said Litchinitser.
+
+This means that under highly controlled spin-orbit interactions, spin angular
+momentum can be locked or converted into OAM. To take advantage of this
+phenomenon, Feng, his graduate student Zhifeng Zhang and their colleagues
+began with a “microring” laser, which consists of a ring of semiconductor,
+only a few microns wide, through which light can circulate indefinitely as
+long as power is supplied. When additional light is “pumped” into the ring
+from control arms on either side of the ring, the delicately designed ring
+emits “spinning” laser light. Critically, asymmetry between the two control
+arms allows for the spin of the resulting laser to be coupled with its orbit
+in a particular direction.
+
+Feng and his team were able to demonstrate the ability to dynamically control
+a laser’s OAM in three modes, -1, 0 and 1. These modes correspond to its
+chirality, or the direction the helices twist. Three modes, however, is not
+really enough to use in a multiplexing system for data transmission. To add
+more potential bandwidth to their technology, Feng turned to his former
+colleague.
+
+Litchinitser and her research scientist, Jingbo Sun, proposed to take
+advantage of a spin-to-orbital angular momentum transformation, which was
+realized by adding a cylindrically non-uniform metamaterial structure in front
+of the device. Using this metamaterial structure made of flat, concentric
+metal rings, vortex beams with SAM of charge +1 or -1 and OAM of +1 or -1 were
+converted to radially polarized vortex beams with an OAM of charge +2 or -2.
+While the wavelength of the vortex remains the same at these additional modes,
+its twisting pattern changes.
+
+“We demonstrated a microring laser that is capable of emitting five distinct
+OAM modes,” Feng said. “That may increase the data channel of such lasers by
+up to five times.”
+
+And while the SAM can only take two values, +1 and -1, the OAM has an
+unbounded number of positive and negative states, meaning its manipulation
+could potentially enablean unlimited number of new communication channels.
+
+“While this particular configuration enables us to get to the modes of 2 and
+-2, it can go further than that,” added Litchinitser. “We could achieve modes
+of 3 and -3 as well, or even further, but it would require a different
+design.”
+
+The ability to dynamically tune OAM values could also enable a photonic update
+to a classic encryption technique: frequency hopping. By rapidly switching
+between OAM modes in a pre-defined sequence known only to the sender and
+receiver, optical communications could be made impossible to intercept.
+
+By combining their unique expertise to fabricate on-chip tunable vortex
+microlasers, the collaborative team combining researchers from Feng’s and
+Litchinitser’s groups is now working to design integrated systems to
+demonstrate new concepts and applications, including multidimensional,
+classical, and quantum communication, optical manipulation, and computing.
+This demonstration of a new dimension for transmitting information based on
+OAM modes can help create richer superposition quantum states to increase
+information capacity by a few orders of magnitude.
+
+This research was supported by the National Science Foundation and the U.S.
+Army Research Office and was done in collaboration with Josep M. Jornet,
+associate professor at Northeastern University, and Stefano Longhi, professor
+at the Polytechnic University of Milan in Italy. Penn's Xingdu Qiao,
+Bikashkali Midya, Kevin Liu, Tianwei Wu, Wenjing Liu and Duke's Jingbo Sun
+significantly contributed to the work.
+
+CITATION: “Tunable topological charge vortex microlaser.” Zhifeng Zhang,
+Xingdu Qiao, Bikashkali Midya, Kevin Liu, Jingbo Sun, Tianwei Wu, Wenjing Liu,
+Ritesh Agarwal, Josep Miquel Jornet, Stefano Longhi, Natalia M. Litchinitser,
+Liang Feng. Science 368, 760–763 (2020). DOI: 10.1126/science.aba8996
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

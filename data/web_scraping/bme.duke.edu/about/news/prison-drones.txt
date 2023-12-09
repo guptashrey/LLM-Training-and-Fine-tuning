@@ -1,0 +1,248 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# An App for Stopping Drone Deliveries over Prison Walls
+
+June 19, 2019 | By Ken Kingery
+
+Duke engineers are developing an app for the North Carolina Department of
+Public Safety to detect and thwart drones attempting to deliver contraband at
+state prisons
+
+Engineers at Duke University are teaming up with the North Carolina Department
+of Public Safety to address a growing concern for correctional facilities
+worldwide—drones delivering contraband over prison walls.
+
+While companies like Amazon and Google are just beginning to test drone
+delivery services worldwide, criminals have already been receiving packages
+through the air for years. Seven members of a gang were convicted in 2018 of
+airlifting £500,000 worth of drugs into UK prisons. In 2017, a prisoner in
+South Carolina broke out of a maximum-security prison using wire cutters
+delivered through the use of a drone.
+
+Many of the larger prison facilities in North Carolina have found themselves
+caught up in the trend. Scotland Correctional Institution near Laurinburg, for
+example, has experienced several attempts to smuggle in contraband such as
+cell phones and tobacco through the use of drones. While commercial anti-drone
+systems do exist, they are too expensive to roll out on a state-wide basis or
+a state-level budget.
+
+“It’s been sporadic for our facilities, but obviously even a single incident
+is too many for us,” said Loris Sutton, chief of security for the North
+Carolina state prison system. “I heard that Professor Cummings would be a
+great resource to try to combat this problem, so I reached out to her to see
+if she’d be willing to work with us. And of course she was more than willing.”
+
+Mary “Missy” Cummings, professor of electrical and computer engineering at
+Duke, is one of the nation’s leading experts in autonomous vehicles. As one of
+the Navy’s first female fighter pilots and a doctorate in human-computer
+system interaction, flying drones are her specialty.
+
+But it was Cummings’s work with the Town of Cary and Sarah P. Duke Gardens
+that really caught Sutton’s attention. In 2017, Cummings received a National
+Science Foundation grant in partnership with landscape architects at Clemson
+University to develop an affordable and aesthetic system for deterring
+unwanted drones.
+
+Working together with her team of students, Cummings has been developing an
+alerting system that uses microphones and thermal cameras to detect unwanted
+drones and the people flying them. Their colleagues at Clemson, meanwhile,
+built a synthetic “bird’s nest” the size of a hawk’s nest to camouflage the
+associated equipment.
+
+The team will be beta testing the system with the Town of Cary later this
+summer, and eventually with Duke Gardens. If the initial results are
+promising, Sutton hopes the emerging system might be able to extend to
+monitoring the walls of North Carolina’s prisons.
+
+It likely could.
+
+Chunge Wang, a Duke undergraduate student majoring in computer science,
+created a new app interface for the equipment that is tailored to the needs of
+prisons, dubbed Prison Reconnaissance Information System (PRIS). In its
+current form, the hardware consists of a microphone connected to a Raspberry
+Pi—a simple, inexpensive computer board originally developed to teach basic
+programming—a data server and a smart phone, costing less than $1,000 total.
+
+The Raspberry Pi is loaded with a machine learning algorithm that constantly
+processes the data collected from the microphone to isolate the sounds a drone
+makes from background noise. When it detects the buzzing whir of a drone’s
+propellers, it sends a notification to an app loaded on smart phones carried
+by the prison’s security personnel.
+
+“The app displays the information in a visually dynamic way in real-time,
+using different symbols overlaid on a map view of the prison,” explained Wang.
+“The goal is for the users to be able to quickly understand where and how far
+away the potential threat is, how confident the system is that it’s actually a
+drone, and what’s most likely to happen next.”
+
+Eager to test PRIS out in a real-world environment, Cummings, Wang and their
+team recently visited one of North Carolina’s more remote prison facilities,
+Dan River Prison Work Farm in Caswell County. The group spent several hours
+collecting data and actually seeing how well the system was able to collect
+data and display it through the app.
+
+“We’re still trying to figure out some problems with false alarms caused by
+helicopters and weed eaters, both of which show up at prisons from time to
+time,” said Cummings. “But when we tested at a local airport, we were excited
+to see that we could filter out flying airplanes. We did have some trouble
+with airplanes that were taxiing, but you’re not very likely to run into those
+at a prison.”
+
+The researchers were also able to get the app in the hands of security
+personnel to get their feedback on the user interface. Other than a few
+suggestions about additional features, the reviews have been universally
+positive.
+
+“I think the work the team has done so far has been terrific,” said Sutton.
+“I’m excited about the possible outcomes of the project and look forward to
+the day that they can produce a finished product for us.”
+
+The Duke researchers are excited too. Wang is presenting his research this
+month at the American Institute of Aeronautics and Astronautics (AIAA)
+AVIATION Forum, the premier aviation conference in the nation. After a summer
+of testing, if the technology performs well, the team will look into
+commercializing it.
+
+“This low-cost, easy-to-use technology has the potential to put early warning
+drone detection capability into the hands of managers of small public venues
+and prison wardens, which substantially benefits public safety,” said
+Cummings. “This project demonstrates what can be achieved through excellence
+in research and engineering, as well as strong partnerships with a local
+community that has pressing needs.”
+
+This work is supported by the National Science Foundation and the North
+Carolina Department of Public Safety.
+
+CITATION: “A Mobile Alerting Interface for Drone and Human Contraband Drops.”
+Chunge Wang and Mary L. Cummings. AIAA AVIATION, 2019.
+
+# # #
+
+## Related News
+
+October 13, 2017
+
+### Deterring Drones from Ballparks and Botanical Gardens
+
+January 19, 2017
+
+### Cummings Named to New Federal Committee on Automation
+
+April 27, 2016
+
+### Piloting Drones into the Future
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

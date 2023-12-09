@@ -1,0 +1,896 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Academic Curricular Groups
+
+## Breadcrumb
+
+  1. Home
+  2. PhD
+
+Students pursue research within one of the following academic curricular
+groups, with mentorship from world-class faculty
+
+## Computer Engineering
+
+The computer engineering group plays a critical role in innovating in the
+computing ecosystem, with research that spans from new computational devices
+to systems and software. Computer engineering research includes cyber-physical
+systems, dependability, networking, machine learning, mobile computing, novel
+computing devices, power-efficient computing and security. Many computer
+engineering research projects are inter-disciplinary, and there are many
+collaborations with the Department of Computer Science.
+
+### View Associated Faculty
+
+    
+
+### Tyler K Bletsch
+
+Assistant Professor of the Practice in the Department of Electrical and
+Computer Engineering
+
+Research Interests: Software security, robotics, project-oriented education,
+and datacenter efficiency
+
+### John A. Board
+
+Associate Professor of Electrical and Computer Engineering
+
+Research Interests: High performance scientific computing and simulation,
+novel computer architectures, cluster computing and parallel processing;
+ubiquitous computing.
+
+### Robert Calderbank
+
+Charles S. Sydnor Distinguished Professor of Computer Science
+
+### Tingjun Chen
+
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Wireless networking, next-generation wireless and optical
+networks, edge cloud and computing, Internet-of-Things (IoT), mobile and
+embedded systems, platforms and testbeds
+
+### Yiran Chen
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Emerging memory and storage technologies Embedded systems,
+CPS, edge computing, and mobile applications Neuromorphic computing, deep
+learning and system security Low power circuit and system
+
+### Shaundra Daily
+
+Professor of Practice in the Department of Electrical and Computer Engineering
+
+Research Interests: Identity-inclusive computing, Human-centered design &
+engineering, justice-centered STEM education
+
+### Neil Gong
+
+Assistant Professor of Electrical and Computer Engineering
+
+Research Interests: Security, privacy, and machine learning.
+
+### Maria Gorlatova
+
+Nortel Networks Assistant Professor of Electrical and Computer Engineering
+
+Research Interests: Architectures, algorithms, and protocols for emerging
+mobile pervasive systems and the Internet of Things. Our work crosses
+traditional discipline boundaries and requires thinking across multiple layers
+of system and protocol stacks. We are focusing on breaking the barriers for…
+
+### Andrew Douglas Hilton
+
+Professor of the Practice in the Department of Electrical and Computer
+Engineering
+
+Research Interests: Computer architecture, specifically architectural support
+for security and energy-efficient performance
+
+### Hai "Helen" Li
+
+Clare Boothe Luce Professor of Electrical and Computer Engineering
+
+Research Interests: Neuromorphic computing systems Machine learning
+acceleration and trustworthy AIEmerging memory technologies, circuit and
+architecture Low power circuits and systems
+
+### Xin Li
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Integrated circuits, signal processing and data analytics
+
+### Genevieve Lipp
+
+Assistant Professor of the Practice in the Department of Electrical and
+Computer Engineering
+
+### Crystal Noel
+
+Assistant Professor of Electrical and Computer Engineering
+
+Research Interests: Quantum computing and simulation with trapped ions,
+integrated photonics for scalable trapped ion systems, and electric-field
+noise from surfaces
+
+### Miroslav Pajic
+
+Dickinson Family Associate Professor
+
+Research Interests: Design and analysis of autonomous cyber-physical systems
+(CPS), and in particular, embedded systems, AI, learning and controls, CPS
+security and high-assurance autonomy, with various application domains
+including robotics, automotive, and medical systems
+
+### Jian Pei
+
+Professor of Computer Science
+
+### Michael Reiter
+
+James B. Duke Distinguished Professor
+
+Research Interests: Prof. Reiter's research interests include all areas of
+computer and communications security, fault-tolerant distributed computing,
+and applied cryptography.
+
+### Cynthia D. Rudin
+
+Earl D. McLean, Jr. Professor
+
+### Daniel J. Sorin
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Computer architecture, designing microarchitectures so
+that they are easier to verify, improving computer system fault tolerance,
+developing memory systems for multicore processors, and designing special-
+purpose accelerators
+
+### Kishor S. Trivedi
+
+Hudson Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests: Markov models, Fault trees, Stochastic Petri nets,
+Reliability Modeling, Availability Modeling, Performability modeling,
+Survivability modeling, Cyber Security, Software reliability, Software Fault
+Tolerance, Software Aging and Rejuvenation
+
+### Lisa Wills
+
+Clare Boothe Luce Assistant Professor of Computer Science and Electrical and
+Computer Engineering
+
+Research Interests: I enjoy solving difficult problems surrounding
+computations with the goal to process large volumes of data efficiently. My
+research interests include computer architecture and microarchitecture,
+hardware-software co-designs, accelerators, and emerging application domains
+―…
+
+### Rabih Younes
+
+Assistant Professor of the Practice in the Department of Electrical and
+Computer Engineering
+
+Research Interests: Wearable computing, activity recognition, context
+awareness, machine learning, artificial intelligence, engineering education,
+and Middle Eastern politics
+
+## Engineering Physics
+
+Duke ECE is also the home of international leaders in information physics
+research, embodied in pathbreaking programs in metamaterials, quantum devices,
+and optical systems. This interdisciplinary research involves the design,
+fabrication and testing of revolutionary new devices, based on novel physical
+concepts, with a foundation in rigorous computational modeling in
+electromagnetics and quantum mechanics.
+
+### View Associated Faculty
+
+    
+
+### April S. Brown
+
+Professor of Electrical and Computer Engineering
+
+### Kenneth R Brown
+
+Michael J. Fitzpatrick Distinguished Professor of Engineering
+
+Research Interests: Quantum error correction, quantum control, quantum
+computer architecture, ion trap quantum computing, and the spectroscopy of
+sympathetically cooled molecular ions
+
+### Robert Calderbank
+
+Charles S. Sydnor Distinguished Professor of Computer Science
+
+### Lawrence Carin
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Applied statistics and machine learning
+
+### Leslie M. Collins
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Physics-based machine learning algorithms for big data,
+including developing remediation strategies for the hearing impaired and
+sensor-based algorithms for the detection of hazardous buried objects
+
+### Steven A. Cummer
+
+William H. Younger Distinguished Professor of Engineering
+
+Research Interests: Theoretical and experimental electromagnetic problems
+related to geophysical remote sensing and engineered electromagnetic
+materials.
+
+### Michael E. Gehm
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Primarily computational and compressive sensing and
+measurement in all modalities (with special emphasis in
+Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry),
+with side interests in optical physics, high-performance x-ray simulation, and
+rapid-…
+
+### Jeffrey Glass
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Electronic materials and the associated
+devices/instruments improved by these materials, especially electrode
+applications in miniature mass spectrometry, energy conversion and storage and
+liquid waste disinfection for developing regions. Electrochemical measurements
+and…
+
+### William T. Joines
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Electromagnetic field and wave interactions with materials
+and structures
+
+### Nan Marie Jokerst
+
+J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+
+### Jungsang Kim
+
+Schiciano Family Distinguished Professor of Electrical and Computer
+Engineering
+
+Research Interests: Quantum Computing with Trapped Ions, Quantum Information
+Science, Novel Photonic Devices, Application of Quantum Computers
+
+### Jeffrey L. Krolik
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Physics-based and statistical signal processing, sensor
+array processing, radar and sonar systems, pervasive distributed processing
+
+### Natalia Litchinitser
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Nanophotonics; Photonic Metamaterials; Nonlinear Optics;
+Fiber Optics; Photonic Crystal Fibers
+
+### Qing Huo Liu
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Computational electromagnetics and acoustics; inverse
+problems, and their application in geophysics, nanophotonics, and biomedical
+imaging
+
+### Iman Marvian
+
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Quantum information and computation theory
+
+### Maiken Mikkelsen
+
+James N. and Elizabeth H. Barton Associate Professor of Electrical and
+Computer Engineering
+
+Research Interests: Quantum nanophotonics, plasmonics, light-matter
+interactions in artificially structured nanoscale materials, hybrid molecular-
+scale materials and spin phenomena in the solid state
+
+### Christopher R Monroe
+
+Gilhuly Family Presidential Distinguished Professor
+
+Research Interests: quantum physics, applications in quantum information
+science
+
+### Loren W. Nolte
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Bayesian approach to signal detection, classification,
+estimation, tracking and decision and sensor fusion. Applications in ocean
+acoustics, and in medical imaging for cancer research.
+
+### Willie John Padilla
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Theoretical and experimental investigation of
+electromagnetic metamaterials and metasurfaces, and their application to
+imaging and sensing at microwave, terahertz, and infrared frequencies
+
+### Guillermo Sapiro
+
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests: Image and video processing, computer vision, computer
+graphics, computational vision, biomedical imaging, brain imaging, cryo-
+tomography of viruses, computational tools in cryo-tomography, computational
+tools in early diagnosis of psychiatric disorders, differential geometry and…
+
+### David R. Smith
+
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests: Theory, simulation and demonstration of novel
+electromagnetic metamaterials across the spectrum, from microwave through
+optical. Applications of metamaterials for antennas and imaging devices, with
+a focus on security imaging and satellite imaging. General studies on
+advanced…
+
+### Adrienne Stiff-Roberts
+
+Jeffrey N. Vinik Professor
+
+Research Interests: Thin-film deposition, MAPLE, hybrid perovskites, hybrid
+nanocomposites, organic thin films
+
+## Microelectronics, Photonics and Nanotechnology
+
+The fourth research area, microelectronics, photonics and nanotechnology
+(MPN), is highly vertically integrated, ranging from innovative materials,
+devices, and interconnects, through chip scale integrated systems. MPN
+research includes revolutionary microfluidic systems, nanoelectronics,
+optoelectronics, integrated optics, sensors, integrated multifunctional
+systems, energy conversion devices, and quantum sensors. The MPN research is
+highly interdisciplinary, and focused on design, fabrication through Duke’s
+Shared Materials Instrumentation Facility (SMIF) cleanroom and
+characterization facility, and device and system test.
+
+### View Associated Faculty
+
+    
+
+### Martin A. Brooke
+
+Associate Professor of Electrical and Computer Engineering
+
+Research Interests: Analog, RF, and optoelectronic circuits. Sensor interface
+circuits. Deployable sensor systems
+
+### April S. Brown
+
+Professor of Electrical and Computer Engineering
+
+### Kenneth R Brown
+
+Michael J. Fitzpatrick Distinguished Professor of Engineering
+
+Research Interests: Quantum error correction, quantum control, quantum
+computer architecture, ion trap quantum computing, and the spectroscopy of
+sympathetically cooled molecular ions
+
+### Richard B. Fair
+
+Lord-Chandran Distinguished Professor of Engineering
+
+Research Interests: Microfluidic systems for lab-on-a-chip applications based
+on electrowetting technology
+
+### Aaron D. Franklin
+
+Addy Professor of Electrical and Computer Engineering
+
+Research Interests: Nanomaterials in electronic devices, nanofabrication,
+printed electronics and internet of things (IoT), biosensing
+
+### Michael E. Gehm
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Primarily computational and compressive sensing and
+measurement in all modalities (with special emphasis in
+Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry),
+with side interests in optical physics, high-performance x-ray simulation, and
+rapid-…
+
+### Jeffrey Glass
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Electronic materials and the associated
+devices/instruments improved by these materials, especially electrode
+applications in miniature mass spectrometry, energy conversion and storage and
+liquid waste disinfection for developing regions. Electrochemical measurements
+and…
+
+### William T. Joines
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Electromagnetic field and wave interactions with materials
+and structures
+
+### Nan Marie Jokerst
+
+J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+
+### Jungsang Kim
+
+Schiciano Family Distinguished Professor of Electrical and Computer
+Engineering
+
+Research Interests: Quantum Computing with Trapped Ions, Quantum Information
+Science, Novel Photonic Devices, Application of Quantum Computers
+
+### Qing Huo Liu
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Computational electromagnetics and acoustics; inverse
+problems, and their application in geophysics, nanophotonics, and biomedical
+imaging
+
+### Hisham Z. Massoud
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Ultrathin gate dielectrics for CMOS ULSI – the technology,
+physics, modeling, simulation, and characterization of ultrathin-oxide MOSFETs
+
+### Maiken Mikkelsen
+
+James N. and Elizabeth H. Barton Associate Professor of Electrical and
+Computer Engineering
+
+Research Interests: Quantum nanophotonics, plasmonics, light-matter
+interactions in artificially structured nanoscale materials, hybrid molecular-
+scale materials and spin phenomena in the solid state
+
+### Willie John Padilla
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Theoretical and experimental investigation of
+electromagnetic metamaterials and metasurfaces, and their application to
+imaging and sensing at microwave, terahertz, and infrared frequencies
+
+### Tania Roy
+
+Assistant Professor of Electrical and Computer Engineering
+
+Research Interests: Neuromorphic computing • high-energy electronics
+
+### David R. Smith
+
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests: Theory, simulation and demonstration of novel
+electromagnetic metamaterials across the spectrum, from microwave through
+optical. Applications of metamaterials for antennas and imaging devices, with
+a focus on security imaging and satellite imaging. General studies on
+advanced…
+
+### Adrienne Stiff-Roberts
+
+Jeffrey N. Vinik Professor
+
+Research Interests: Thin-film deposition, MAPLE, hybrid perovskites, hybrid
+nanocomposites, organic thin films
+
+## Signal and Information Processing
+
+A particular strength is in the area of signal and information processing
+(SIP), embodied by successful collaborations between ECE, statistics and
+applied mathematics. Duke has long been a leader in SIP research with defense
+applications, and there has also been a significant expansion into biomedical
+applications, in collaboration with the Duke University Medical Center.
+
+### View Associated Faculty
+
+    
+
+### Martin A. Brooke
+
+Associate Professor of Electrical and Computer Engineering
+
+Research Interests: Analog, RF, and optoelectronic circuits. Sensor interface
+circuits. Deployable sensor systems
+
+### Robert Calderbank
+
+Charles S. Sydnor Distinguished Professor of Computer Science
+
+### Lawrence Carin
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Applied statistics and machine learning
+
+### Tingjun Chen
+
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Wireless networking, next-generation wireless and optical
+networks, edge cloud and computing, Internet-of-Things (IoT), mobile and
+embedded systems, platforms and testbeds
+
+### Yiran Chen
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Emerging memory and storage technologies Embedded systems,
+CPS, edge computing, and mobile applications Neuromorphic computing, deep
+learning and system security Low power circuit and system
+
+### Leslie M. Collins
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Physics-based machine learning algorithms for big data,
+including developing remediation strategies for the hearing impaired and
+sensor-based algorithms for the detection of hazardous buried objects
+
+### Mary "Missy" Cummings
+
+Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Human-unmanned vehicle interaction, human-autonomous
+system collaboration, human-systems engineering, public policy implications of
+unmanned vehicles, and the ethical and social impact of technology.
+
+### Ingrid Daubechies
+
+James B. Duke Distinguished Professor of Mathematics and Electrical and
+Computer Engineering
+
+### Michael E. Gehm
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Primarily computational and compressive sensing and
+measurement in all modalities (with special emphasis in
+Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry),
+with side interests in optical physics, high-performance x-ray simulation, and
+rapid-…
+
+### Michael Richard Gustafson II
+
+Associate Professor of the Practice of Electrical and Computer Engineering
+
+Research Interests: Computational methods for image analysis and information
+extraction, discrete event simulations, curriculum development and deployment
+
+### Lisa Gresham Huettel
+
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and
+Computer Engineering
+
+Research Interests: Engineering education, pedagogy and curriculum
+development, applications of statistical signal processing
+
+### Jeffrey L. Krolik
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Physics-based and statistical signal processing, sensor
+array processing, radar and sonar systems, pervasive distributed processing
+
+### Hai "Helen" Li
+
+Clare Boothe Luce Professor of Electrical and Computer Engineering
+
+Research Interests: Neuromorphic computing systems Machine learning
+acceleration and trustworthy AIEmerging memory technologies, circuit and
+architecture Low power circuits and systems
+
+### Loren W. Nolte
+
+Professor of Electrical and Computer Engineering
+
+Research Interests: Bayesian approach to signal detection, classification,
+estimation, tracking and decision and sensor fusion. Applications in ocean
+acoustics, and in medical imaging for cancer research.
+
+### Douglas Nowacek
+
+Randolph K. Repass and Sally-Christine Rodgers University Distinguished
+Professor of Conservation Technology in Environment and Engineering
+
+Research Interests: Marine mammal behavioral and acoustic ecologyOcean
+noiseOffshore renewable energy
+
+### Miroslav Pajic
+
+Dickinson Family Associate Professor
+
+Research Interests: Design and analysis of autonomous cyber-physical systems
+(CPS), and in particular, embedded systems, AI, learning and controls, CPS
+security and high-assurance autonomy, with various application domains
+including robotics, automotive, and medical systems
+
+### Henry Pfister
+
+Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Information theory, communications, probabilistic
+graphical models, machine learning, and deep neural networks
+
+### Galen Reeves
+
+Associate Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Information theory, high-dimensional statistical
+inference, statistical signal processing, compressed sensing, machine learning
+
+### Christ D Richmond
+
+Professor in the Department of Electrical and Computer Engineering
+
+### Cynthia D. Rudin
+
+Earl D. McLean, Jr. Professor
+
+### Guillermo Sapiro
+
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests: Image and video processing, computer vision, computer
+graphics, computational vision, biomedical imaging, brain imaging, cryo-
+tomography of viruses, computational tools in cryo-tomography, computational
+tools in early diagnosis of psychiatric disorders, differential geometry and…
+
+### Stacy L. Tantum
+
+Associate Professor of the Practice in the Department of Electrical and
+Computer Engineering
+
+Research Interests: Signal detection and estimation theory, statistical signal
+processing, pattern recognition and machine learning, remote sensing, matched-
+field processing, and ocean acoustics
+
+### Vahid Tarokh
+
+Rhodes Family Professor of Electrical and Computer Engineering
+
+Research Interests: Foundations of AI, Foundations of Signal Processing,
+Learning Representations, Transfer Learning, Meta-Learning, Physics Infused
+Learning, Extreme Value Theory, Dependence Modeling, Hypothesis Testing,
+Sequential Analysis.
+
+  * Quick Facts & Statistics
+  * More about Student Services & Amenities
+  * Meet Engineering PhD Alumni
+
+Browse Online
+
+____
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+## PhD Contacts
+
+### Michael E. Gehm
+
+Director of Graduate Studies and Professor of Electrical and Computer
+Engineering
+
+__919-660-5544
+
+__dgs@ee.duke.edu
+
+### Angela Chanh
+
+Senior Program Coordinator
+
+__919-660-5245
+
+__angela.chanh@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

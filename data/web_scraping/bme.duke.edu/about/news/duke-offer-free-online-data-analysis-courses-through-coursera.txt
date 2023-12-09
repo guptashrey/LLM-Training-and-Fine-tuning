@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke to Offer Free Online Data-Analysis Courses Through Coursera
+
+June 29, 2015 | By Jeni Baker
+
+Launching this fall, “Specialization in Data Analytics for Business” will help
+everyday professionals make the most of Big Data
+
+Duke University will soon begin offering free online courses aimed at teaching
+non-technical professionals to analyze and effectively utilize business data.
+
+The courses are made possible through support from Coursera, an education-
+platform company which partners with the world’s leading universities and
+organizations to offer online courses that anyone can take at no charge.
+
+The four-course “Specialization in Data Analytics for Business” is being
+developed and will be led by Daniel Egger, Executive in Residence and Director
+of the Center for Quantitative Modeling, and postdoctoral research associate
+Jana Schaich Borg.
+
+Using two popular software programs – Microsoft Excel and Tableau – learners
+will learn to perform fairly sophisticated data-analysis functions during the
+courses’ practical modules.
+
+**Making information actionable: “This is the future”  
+**Understanding and knowing how to effectively use information is vital to
+success in today’s business world, the Duke team says.
+
+“Anyone working in business these days has to understand the impact of Big
+Data and data analytics,” Egger says. “This is the future, and organizations
+that don’t respond to the opportunities and competition associated with data
+analytics will go out of business.”
+
+Many companies recognize that analyzing data and acting on the information
+gleaned gives them a significant competitive advantage in an increasingly
+data-heavy corporate landscape, says Schaich Borg.
+
+“Data analytics isn’t just about figuring out what the data say, it’s also
+about knowing which questions to ask and translating the answers into clear
+action items that people can understand,” she says.
+
+“Our goal is to empower learners to use data analytics to inform business
+decisions – from asking questions and figuring out which data can provide
+answers to extracting those answers and communicating the stories they tell.”
+
+It’s about seeing the data related to your business and extracting practical
+value from it, says Egger.
+
+“Understanding what information means and what can be done with it can help
+businesses do things like solve problems, be more operationally efficient,
+retain customers better, market their services more strategically, hire and
+manage employees more effectively, and generate more revenues from people who
+visit their websites,” he says.
+
+**Data analytics for non-techies: Accessible and user-friendly  
+**To make the course content accessible (and less intimidating) to people with
+a wide variety of knowledge and skill sets, Egger and Schaich Borg are
+designing it to be easily mastered by learners with only a high-school-level
+math proficiency and practical familiarity with the basic functions of
+Microsoft Excel. Learners will not be required to perform or understand
+computer coding.
+
+“Because almost everybody in business already uses Excel, we probably increase
+by tenfold the number of people who can take these courses,” says Egger. “The
+content builds on Excel basics to get to the advanced data analytics you can
+do with it – functions that most people don’t know it can do. And because
+Excel is familiar to so many people, there’s a much faster learning curve.”
+
+The first course, _Introduction to the Data Analytics “Business Ecosystem,”_
+is scheduled to launch in September 2015. The course will give learners an
+overview of data mining and data analytics, including types and models of data
+analysis and key ways data can be used.
+
+The second and third courses – _Using Data in a Business Context: Exploratory
+Data Analysis and the Role of “Descriptive Analysis”_ and _Using Data in a
+Business Context: Predictive Data Analysis and Communicating Analytic
+Insights_ – are slated to launch in October and November 2015, respectively.
+
+During these two courses, learners will learn to use Excel and Tableau to
+perform a range of data-analysis functions.
+
+The fourth course, _Managing Industrial-Size Data Sets_ , is scheduled for a
+December 2015 launch. The course will examine the use of databases, “which is
+where we go when we have so much data that we can’t work with it in Excel
+anymore,” Egger says.
+
+Although there is a fee for learners who take the four-course series for
+certification, anyone with an Internet connection can take advantage of the
+information at no charge. The materials will also be used in courses at Duke
+with registered Duke students.
+
+**Sharing Duke expertise  
+**When it comes to offering Coursera courses about data analytics, Duke is a
+natural fit.
+
+“With its longstanding commitment to interdisciplinary research and team
+building – not to mention global experts in math, statistics, computer
+science, engineering, and multi-modal data integration – Duke is a recognized
+leader in this area,” says Schaich Borg. “It’s a terrific environment for
+learning how to bridge the gaps between deep knowledge, data, and meaningful
+action.”
+
+In addition, for seven years Egger has been teaching Master of Engineering
+Management (MEM) learners many of the same topics the Coursera courses will
+offer.
+
+“Between the Information Initiative at Duke and the MEM Program, Duke has an
+ideal background for this,” Egger says. “Offering these courses is another
+great example of how the university is invested in practical problem-solving
+and providing educational resources to people outside of the Duke community.”
+
+**_The Duke data analytics courses will be available
+atcoursera.org/specializations/excel-mysql __beginning in September. To see
+all Duke Coursera courses, visit_** ** _coursera.org/duke._**
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

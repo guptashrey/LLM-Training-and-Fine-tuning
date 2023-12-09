@@ -1,0 +1,542 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About
+
+# COVID-19 Engineering Response Team
+
+In 2020, this team worked on projects to address Duke Health’s identified
+clinical equipment needs. Below are descriptions of projects completed by the
+team. Many include design information. This effort was coordinated by Duke
+EngEn, the Innovation Co-Lab and Duke MEDx.  
+  
+
+Contact us »
+
+* * *
+
+## Projects Completed
+
+### Isolation Tent (COVIAGE)
+
+An isolation chamber to be used around a patient's bed (or stretcher) designed
+for COVID-19 positive patients and patients with other infectious pathogens
+
+Inquire
+
+_Via Duke's Office of Licensing & Ventures (OLV)_
+
+#### Needs Met
+
+  * Increase usage of non-invasive ventilation by COVID-19 patients
+
+  * Minimize health care-worker exposure to respiratory droplets from COVID-19
+    patients
+
+#### Project Summary
+
+  * The team has designed a tent-like structure with an aluminum frame, full
+    zipper opening, sleeve/glove and double-door compartments, and an HVAC
+    system with negative pressure and HEPA filtration rate using nonmedical
+    filters
+  * Final particle/filter testing performed with partner Precision Air
+    Technologies—and passed
+  * Emergency Use Authorization obtained from the U.S. Food and Drug
+    Administration (FDA)
+
+#### Team
+
+Lead: Konstantinos Economopoulos (Surgery/BME)
+
+Members:
+
+  * School of Nursing Faculty: Jackie Vaughn, Ryan Shaw
+  * MEMS Faculty: W. Neal Simmons
+  * BME Faculty: Paul Fearis, Eric Richardson
+  * Engineering Students: Ben Wesorick, Theresa Thompson, Kanishka Patel,
+    Shikha Sharma, Yaas Bigdeli, Max Sondland, Dimitrios Bailas
+
+#### Project Partners
+
+  * Polyzen
+  * Precision Air Technology
+
+#### Media
+
+**News articles:**
+
+  * Engineering Student Works with Team Designing Isolation Chamber for
+    COVID-19 Patients
+
+**Video:**
+
+**Images:**
+
+### Surgical Hood (3D SHIELD)
+
+Adapts an ambient-air personal protection system into a sealed PAPR
+
+Request Design Download
+
+_Via Duke's Office of Licensing & Ventures (OLV)_
+
+#### Needs Met
+
+  * Shortage of powered air-purifying respirator (PAPR) systems, which provide
+    greater protection than an N95 respirator and face shield
+
+#### Project Summary
+
+The design seals the permeable part of a commercial surgical hood with
+transparent film and seals the fan on top of the helmet with a 3D-printed
+manifold so that air can be pulled through two in-line ventilator filters.
+This creates positive pressure inside the hood with filtered, not ambient,
+air.
+
+Over 80 institutions requested design files and nearly 30 licensing agreements
+were completed.
+
+#### Team
+
+  * Lead: Melissa Erickson (Surgery, Fuqua WEMBA)
+  * Members: Eric Richardson (BME), Paul Fearis (BME), Chip Bobbert (OIT),
+    Mark Palmeri (BME)
+
+#### Project Partner
+
+  * Precision Air Technology
+
+#### Media
+
+  * Duke Today: 3D Printing to Give Medical Teams the Highest Level of
+    Protection »
+  * Journal of Arthroplasty: Helmet Modification to PPE with 3D Printing
+    During the COVID-19 Pandemic at Duke University Medical Center: A Novel
+    Technique
+
+### Reusable Face Shield
+
+A robust injection-molded headband attached to a thermo-formed shield
+
+#### Design Note
+
+_The design is a derivative of thePrusa RC3._
+
+_Note: The design at this link is_ not _a Duke design._ _ **  
+**_
+
+#### Need
+
+Supplemental supply of reusable face shields.
+
+#### Summary
+
+  * 30,000 units manufactured; goal to produce 75,000 units
+  * Assembly is being completed by a team of more than 20 volunteers
+  * More than 100 downloads of license request; nearly 50 license agreements
+    signed
+
+#### Team
+
+  * Lead: Chip Bobbert (Office of Information Technology-OIT)
+  * Members: Evan Levine (OIT), Paul Fearis (BME), Mark Palmieri (BME) and
+    Ryan J. Shaw (School of Nursing)
+
+#### Project Partners
+
+  * Beechwood Metal Works
+  * Nike
+  * Protolabs
+
+#### Media
+
+  * Duke Today: Solving Pressing Challenges: 3D Printing of Medical Grade Face
+    Shields »
+
+### Aerosolization Sampler Clip
+
+#### Status: Clinical implementation
+
+#### Need
+
+A team investigating aerosolized virus in COVID 19 patient rooms requested
+design assistance for a clip for an aerosol sampling device.
+
+#### Summary
+
+  * Design completed
+  * First part has been produced
+  * Approvals received
+  * Clinical implementation
+
+#### Team
+
+  * Lead: Chip Bobbert (OIT)
+  * Members: Lucas Rocha-Melogno (CEE)
+
+#### Media
+
+### PAPR Bridge
+
+#### Needs
+
+  * Shortage of powered air-purifying respirator (PAPR) systems, which provide
+    greater protection than an N95 respirator and face shield
+  * Duke and the Durham VA hospitals have supplies of older PAPR hoods which
+    cannot be used because they do not connect to the PAPR pumps now in use
+
+#### Project Summary
+
+  * The team has developed two 3D-printed adaptors, which have undergone
+    testing
+  * The adaptors will allow two different pumps to be connected to three
+    different PAPR hoods
+  * Final designs completed and delivered to Durham VA Hospital
+
+#### Team
+
+  * Lead: Alejandro Pino (Pulmonology)
+  * Members: Eric Richardson (BME), Chip Bobbert (OIT), Paul Fearis (BME),
+    Neal Simmons (MEMS)
+
+#### Illustration
+
+### Device For Personalizing Ventilation Settings on a Shared System
+
+Inquire
+
+_Via Duke's Office of Licensing & Ventures (OLV)_
+
+#### Need
+
+A method to allow one ventilator to support two patients, even if two COVID-19
+patients have different pulmonary compliances—to be used only in emergencies
+when other options have been exhausted.
+
+#### Project Summary
+
+  * The team has developed an easy-to-use ventilator output splitter that can
+    be combined with novel airflow resistors
+  * The splitter and flow resistors are 3D printed from biocompatible
+    materials
+  * Decision-support mobile app developed with CrossComm Inc.
+  * Request for Emergency Use Authorization has been submitted to the U.S.
+    Food & Drug Administration (FDA)
+
+#### Team
+
+Lead: Muath Bishawi (Surgery/BME)
+
+Members: Ken Gall (EngEn); George Truskey and Amanda Randles (BME); David
+MacLeod, Anne Cherry, Jhaymie Cappiello (Anesthesiology); Amy Alger (Surgery)
+
+#### Project Partners
+
+  * CrossComm—founded by a Duke Computer Science graduate
+  * Restor3d—a Duke Engineering faculty startup
+  * LEGEND Technical Services Inc.
+
+#### Media
+
+## Projects Developed
+
+### Intubation Aerosol Shield
+
+#### Status: Project on Hold
+
+#### Need
+
+During intubation procedures, health care providers need shielding from
+respiratory droplets from COVID-19 patients.
+
+#### Project Summary
+
+  * Testing a design from outside of Duke
+  * Feedback communicated to the manufacturer
+  * Duke clinicians viewed existing solutions as adequate—project on hold
+
+#### Team
+
+  * Leads: Muath Bishawi (Surgery/BME), Kostantinos Economopoulos
+    (Surgery/BME)
+  * Members: Chip Bobbert (OIT), David MacLeod (Anesthesiology), John Whittle
+    (Anesthesiology)
+
+### Nasal Swabs
+
+#### Status: On hold
+
+#### Need
+
+A supplemental supply of nasal swabs for the diagnosis of COVID-19.
+
+#### Summary
+
+  * Team is investigating the 3D-printed nasal swab developed by USF Health,
+    Northwell Health and Formlabs
+  * Clinical feedback received
+  * Manufacturer identified
+
+#### Team
+
+  * Lead: Chip Bobbert (OIT)
+  * Members: Eric Richardson (BME), Donna Crenshaw (MEDx), Cameron Wolfe
+    (Infectious Diseases), Nancy Henshaw (Pathology)
+
+#### Project Partner
+
+  * Yukon Medical
+
+### Oxygen Mask
+
+#### Status: In Testing
+
+#### Need
+
+Safely deliver high-flow oxygen to COVID-19 patients without creating
+contagious aerosols.
+
+#### Summary
+
+  * Assessing a snorkel mask provided by a third-party company
+  * Testing completed at the Duke Center for Hyperbaric Medicine and
+    Environmental Physiology
+  * Working with partner to 3D-print and test snorkel mask design
+
+#### Team
+
+  * Lead: Alejandro Pino (Pulmonology)
+  * Members: Eric Richardson (BME), Donna Crenshaw (MEDx)
+
+#### Partner
+
+  * Hondajet
+
+### Hand Sanitizer Dispensers
+
+#### Status: In Design
+
+#### Need
+
+Create 200 dispensing stations for hand sanitizer to support the opening of
+Duke research laboratories.
+
+#### Summary
+
+  * Working on prototypes that include a stand and refill cartridges
+  * Tray designed and built to store and transport refilled cartridges
+  * Stand prototype received positive feedback
+  * Integrating design with local manufacturer to scale
+
+#### Team
+
+  * Leads: Eric Richardson (BME), Donna Crenshaw (MEDx), Chip Bobbert (OIT)
+  * Members: Collin Duckett, John Noonan and Scott Johanns
+
+### Ventilator O2 Short-Range Activation
+
+#### Status: In Testing
+
+#### Need
+
+To remotely press the "100% Oxygen Increase" button on a ventilator. This
+would enable a patient to receive increased oxygen flow without requiring a
+clinician to don full personal protective equipment.
+
+#### Summary
+
+  * Wired mechanism solution path chosen after initial meeting with
+    respiratory therapist
+  * Code, circuit diagram, CAD and bill of materials produced for wired
+    mechanism
+  * Prototyping has begun
+
+#### Team
+
+  * Lead: Alejandro Pino (Pulmonology)
+  * Members: Parker Faircloth-Henise (BME), Katherine Waugh (ME), Michael Wong
+    (BME)
+
+#### Media
+
+### ET Tube Joint
+
+#### Status: Prototyping
+
+#### Need
+
+Reduce aerosolized particle formation and protect staff members by minimizing
+the number of times an endotracheal tube (ET) must be disconnected.
+
+#### Summary
+
+  * The team has proposed two designs: a Y-joint that adds a bronchoscope
+    port, and a Y-joint-plus-connector
+  * Next steps include: 3D printing of designs for feedback from respiratory
+    therapists, consideration of a compression fitting to reduce unintentional
+    detachments and of a clip to secure the connection
+
+#### Team
+
+  * Lead: Alejandro Pino (Pulmonology)
+  * Members: Taylor Huie, Aidan Therien
+
+#### Media
+
+### New Projects
+
+#### Status: In queue
+
+  * **Clear Earloop Face Mask** — For Duke Occupational and Environmental
+    Safety Office (OESO) and the Disability Management System. A provider who
+    sees pediatric patients at Lenox Baker Children's Hospital and Duke
+    Children's Hospital and Health Center has requested an ADA accommodation
+    for a clear-front earloop mask.
+  * **Slit Lamp Shield** — Ophthalmologist Mark Goerlitz Jessen has requested
+    a shield for a slit lamp to protect patients and providers from airborne
+    infectious particles that may be transmitted during an eye exam.
+
+* * *
+
+## For More Information
+
+Contact Duke
+
+* * *
+
+## Duke Engineering COVID-19 Response Stories
+
+November 15, 2022 | Duke Engineering Magazine
+
+### Detecting How COVID-19 Can Directly Infect and Damage Human Kidney Cells
+
+April 21, 2022
+
+### COVID-19 Can Infect and Damage Human Kidney Cells
+
+January 07, 2022
+
+### Simple pH Adjustment May Enable a Preventative COVID-19 Nasal and Throat
+Spray
+
+December 03, 2021
+
+### Rapid Test Identifies Antibody Effectiveness Against COVID-19 Variants
+
+View all COVID-19 news
+
+* * *
+
+## Team Partners
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

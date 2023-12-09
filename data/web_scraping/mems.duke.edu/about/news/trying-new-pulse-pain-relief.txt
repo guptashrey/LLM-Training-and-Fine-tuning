@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Trying a New Pulse for Pain Relief
+
+October 28, 2015 | By Kendall Morgan
+
+CTSA-supported collaboration at Duke explores new spinal cord stimulation
+message to improve treatment of chronic pain
+
+_Originally posted on the Duke Translational Medicine Institute website_
+
+For people with incurable chronic pain, a small device that periodically
+stimulates the spinal cord with a small electric pulse can bring much needed
+relief. But the implantable devices don’t work for everyone. And when they do
+work, only about 60 percent of patients experience a halving of pain -- a
+success rate that hasn’t budged in 40 years despite technological advances.
+
+With support from the Duke CTSA through the Duke Translational Research
+Institute (DTRI) Collaborative Pilot Award, Warren Grill, a professor of
+Biomedical Engineering and Neurobiology, and Nandan Lad, a neurosurgeon, think
+they can do better. The key, they say, is to reprogram the devices to deliver
+pulses in a new way.
+
+**A Model for Pain Relief**
+
+Grill’s lab in the Department of Biomedical Engineering is focused on
+innovative therapies using electrical stimulation of the nervous system. Lad,
+too, is focused on medical innovation, driven in part by first-hand
+experiences with the limitations of spinal cord stimulation technologies he
+has seen through his patients. Their partnership began by looking at a simple
+question: how does spinal cord stimulation work to relive pain?
+
+“Spinal cord stimulation has been around for more than 40 years,” Grill said.
+“Remarkably, people do not understand the underlying mechanism.”
+
+To sort it out, the researchers developed a computational model to describe
+the behavior of neurons in the spinal cord that are responsible for processing
+pain. They showed that the model does a good job of reproducing published
+experimental results in the literature, evidence that it reflects what
+actually happens in the spinal cord’s pain networks. The model also led them
+to a promising prediction: spinal cord stimulation could be improved by
+changing the pattern and timing of pulses delivered to those pain neurons.
+
+According to the model, neurons involved in the sensation of pain fire in a
+way that depends heavily on the frequency with which spinal cord stimulation
+is delivered. The model also suggests that changes in the way the devices are
+programmed to deliver pulses would produce a more than 30 percent improvement
+in pain control.
+
+“In our innovative approach to spinal cord stimulation, what would change is
+the type of stimulation delivered,” Grill explained. “You can almost think
+about it as Morse code—a pattern of stimulation that from the data we expect
+will do a better job at treating pain than conventional patterns have.”
+
+Early indications from animal studies in the lab suggest their new approach to
+spinal cord stimulation works as intended. Grill and Lad will begin recruiting
+patients with existing spinal cord stimulators to test the new approach in the
+coming weeks. The plan is to reprogram the devices some of Lad’s patients
+already have, to see if a new pattern of pulses reduces their pain in the
+expected way.
+
+“There have been a lot of developments in hardware over the last several
+decades,” Lad said. “Going forward, software will become increasingly
+important. [The reprogrammed devices] will potentially use less energy and
+have better pain efficacy compared to traditional stimulation. It will be
+exciting to see how it works in patients.”
+
+**Recipe for Success**
+
+Grill and Lad have already filed two patent applications and they say these
+first-in-human studies will facilitate the translation of their work into a
+marketable product for the benefit of patients. Grill credits the geography of
+Duke—with an engineering school across the street from the medical center and
+hospital—and the DTRI-funding support for making it possible.
+
+“This kind of funding is really critical because it allows us to translate
+this innovation into humans very quickly—much faster than we might otherwise
+be able to do,” Grill said. “Rather than having to go through a more
+conventional funding route that’s slower with much lower success, we’re able
+to rapidly take this from the computer and animal laboratory to an initial
+feasibility trial in humans.
+
+“I think of these small supplemental grants as fertilizer,” he added. “They
+often produce an impact that is disproportionate to the dollars invested. They
+are also really important in promoting partnerships between the medical center
+and the campus.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

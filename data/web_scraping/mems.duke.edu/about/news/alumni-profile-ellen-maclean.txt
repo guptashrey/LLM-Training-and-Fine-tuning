@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Alumni Profile: Ellen MacLean
+
+May 2, 2014
+
+Senior Principal Engineer, Defense Industry | Greater San Diego, Calif.
+
+****
+
+**Graduation Year:** 1986
+
+**Major/Program:**  
+Electrical Engineering
+
+**Career Highlights:**
+
+A senior principal engineer at Orincon, a San Diego company later acquired by
+Lockheed Martin, Ellen MacLean builds algorithms for tracking and data-fusion
+technology used by the U.S. military, which enables sophisticated surveillance
+of areas from deserts to dense urban areas. Much of her work is for the U.S.
+Defense Advanced Research Projects agency, or DARPA, which means that much of
+her work is classified. But MacLean freely shares her passion for what she
+does, and her fascination for bringing these intricate formulas into action.
+
+> At Duke I got a broad look at what I could do, from building hardware in EE
+> labs to solving system problems to learning about different algorithms and
+> algorithm development. Duke let me see for myself where I wanted to go.
+
+#### Tell us about what you do.
+
+Essentially, we build technology that can use geographic location data, taken
+over time, to come up with an operating picture of all the motion in a
+particular area.
+
+For the last 20 years our work has been done using multiple hypothesis
+tracking, or MHT. Data from the area is gathered using a GTMI, or ground
+moving target indicator radar, and more recently we’ve also been using video
+sensors developed by DARPA. Then the MHT algorithm we develop sorts through
+all the data and how data relate to each other, and it develops the most
+probable models for what’s happening in these different areas of interest.
+We’re also working with an emerging technique that uses a graph-based approach
+to represent the data associations; it uses the same underlying technology as
+our MHT work, but graph-based approaches can be more useful when you’re in a
+dense urban environment, as opposed to when you’re out in a desert somewhere.
+
+It’s very much a niche technology, and it’s got a lot of applications in the
+defense arena. You could also apply it to homeland security problems, such as
+border crossing issues—it can be applied to any situation where you’d want to
+know about movement in a particular area.
+
+#### What do you enjoy most about your job?
+
+I enjoy the technical challenge of trying to solve the latest problem. The
+teamwork, working together in the lab and brainstorming to try to solve a new
+problem, is an absolutely fascinating process. I also really enjoy going out
+into the field when we take our solution into live tests. You do all this up-
+front work and then in real time it never works the same way your simulation
+did, so you’re having to do a lot of thinking on the fly. I like that
+combination of being able to be in the lab and then going out and putting our
+algorithms and software to the test, and figuring out where they’re breaking,
+and how to fix them on your feet.
+
+#### How did you get into this field?
+
+It was partly pure luck. When I was at Duke I got a summer internship in DC
+with a company that did a lot of underwater acoustic work—trying to find
+submarines underwater. They worked with interpreting sound signals; in other
+words, when sound passes through water and bounces off something, is it
+bouncing off the ocean floor or something else? After graduation I went back
+to work with that company and got involved with folks who were doing tracking
+work—taking that signal detection and putting it together over time to find
+out where the object was moving. I’ve stuck with the tracking and data fusion
+area ever since. In my career, I’ve applied it to underwater acoustics, ground
+tracking problems, air tracking problems and a combination of surface, ground
+and air-tracking problems.
+
+#### How did Duke affect your career path?
+
+Duke set me in the exact right direction to be able to make a career for
+myself. Even though I applied to the School of Engineering, at the time I
+thought that maybe I actually wanted to do math. But through the classes I
+took at Duke, I found that I was much more of an engineer with a mathematical
+bent. I got this broad look at what I could do, from building hardware in EE
+labs to solving system problems to learning about different algorithms and
+algorithm development. I got to explore what I wanted to do and how I could
+take what I learned from Duke, go to graduate school, apply it there, and then
+apply it to the working world. Duke let me see for myself where I wanted to
+go.
+
+Read more: ECE alumni discuss their career paths
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

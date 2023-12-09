@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Kishor S. Trivedi
+
+Hudson Distinguished Professor of Electrical and Computer Engineering
+
+Kishor Trivedi holds the Hudson Chair in the Department of Electrical and
+Computer Engineering at Duke University. He is known as a leading
+international expert in the domain of reliability and performability
+evaluation of Dependable systems, and has made seminal contributions to
+stochastic modeling formalisms and their efficient solution. He is currently
+carrying out experimental research in software reliability during operation
+where he is researching software fault tolerance through environmental
+diversity. This work, including software bug classification, empirical study
+of real failure data and associated theory of affordable software fault
+tolerance, has already gained significant attention.
+
+He has made key contributions to his field in many ways. He has encapsulated
+developed algorithms into usable and well circulated software packages, and
+applied research results to practical problems working directly with industry.
+This work has not only been able to solve difficult real-life problems but
+also produce new research based on the problems. He has published over 600
+articles, has supervised 48 Ph.D. dissertations and more than 50 postdoctoral
+associates. He is a Life Fellow of the Institute of Electrical and Electronics
+Engineers and a Golden Core Member of IEEE Computer Society. He has served on
+many editorial boards and conference committees and is the recipient of IEEE
+Computer Society Technical Achievement Award for his research on Software
+Aging and Rejuvenation. He is the recipient of IEEE Reliability Society's Life
+Time Achievement Award. He is on ISI’s highly cited list with an h-index of
+108, and has received grants from such governmental agencies as NASA, NATO,
+NSF, DARPA, AFOSR, ARO, NIH, NSWC, ONR, and RADC.
+
+Trivedi has also helped several high-profile companies carry out
+reliability/availability prediction of their products under design or in
+existence, including 3Com, Avaya, Boeing, Cisco, DEC, EMC, GE, HP, Huawei,
+IBM, Lucent, NEC, TCS, Union Switch and Signals, Wipro. Most notable among
+these, is his help in reliability modeling of the current return network
+subsystem of the Boeing 787 for FAA certification. The algorithm he developed
+for this problem has been jointly patented by Boeing and Trivedi. He led the
+reliability/availability modeling of SIP on IBM WebSphere; this model was
+responsible for the sale of the system by IBM to AT & T.
+
+Furthermore, Trivedi has written several influential books, including
+textbooks. He is the author of a well-known text entitled, Probability and
+Statistics with Reliability, Queuing and Computer Science Applications,
+originally published by Prentice-Hall; a thoroughly revised second edition
+(including its Indian edition) has been published by John Wiley. This book is
+translated into Chinese in Nov. 2015. This book has appeared as a paperback in
+July 2016.He has also published two other books titled, Performance and
+Reliability Analysis of Computer Systems, published by Springer and Queueing
+Networks and Markov Chains by John Wiley. His latest book, Reliability and
+Availability Engineering: Modeling, Analysis and Applications, is published by
+Cambridge University Press in 2017.
+
+## Appointments and Affiliations
+
+  * Hudson Distinguished Professor of Electrical and Computer Engineering
+  * Professor of Electrical and Computer Engineering
+  * Professor of Electrical and Computer Engineering at Duke Kunshan
+    University
+  * Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** Science Drive, 203 Hudson Eng Ctr, Durham, NC
+    27708-0291
+  * **Office Phone:** (919) 660-5269
+  * **Email Address:** kst@ee.duke.edu
+  * **Websites:**
+    * Duke High Availability Assurance Lab (DHAAL)
+    * My Research gate webpage
+
+## Education
+
+  * Ph.D. University of Illinois, 1974
+  * M.S. University of Illinois, 1972
+  * B.S.E.E. Indian Institute of Technology (India), 1968
+
+## Research Interests
+
+Markov models, Fault trees, Stochastic Petri nets, Reliability Modeling,
+Availability Modeling, Performability modeling, Survivability modeling, Cyber
+Security, Software reliability, Software Fault Tolerance, Software Aging and
+Rejuvenation
+
+## Awards, Honors, and Distinctions
+
+  * Lifetime Achievement Award. IEEE Reliability Society. 2021
+  * Life Fellow. IEEE. 2017
+  * ONR Faculty Fellow Summer 2015. ONR. 2015
+  * Fellow. Japan Society for the Promotion of Science. 2014
+  * NordsecMob Scholar. Norwegian University of Science and Technology. 2014
+  * Doctor Honoris Causa. USMP, Lima, Peru. 2012
+  * Technical Achievement Award. IEEE Computer Society. 2008
+  * Traditional Fulbright Scholarship. Council for International Exchange of
+    Scholars. 2002
+  * Highly Cited Researcher. Thomson Reuters. 2001
+  * Fellow. Institute for Electrical and Electronics Engineers. 1992
+
+## Courses Taught
+
+  * COMPSCI 393: Research Independent Study
+  * COMPSCI 555: Probability for Electrical and Computer Engineers
+  * ECE 555: Probability for Electrical and Computer Engineers
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 590K: Advanced Topics in Electrical and Computer Engineering
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * K_CMPSCI 320: Software Reliability
+
+## Representative Publications
+
+  * Ma, X; Trivedi, KS, _Reliability and performance of general two-
+    dimensional broadcast wireless network_ , Performance Evaluation, vol 95
+    (2016), pp. 41-59 [10.1016/j.peva.2015.09.005] [abs].
+  * Trivedi, KS; Xia, R, _Quantification of system survivability_ ,
+    Telecommunication Systems, vol 60 no. 4 (2015), pp. 451-470
+    [10.1007/s11235-015-9988-6] [abs].
+  * Rak, J; Pickavet, M; Trivedi, KS; Lopez, JA; Koster, AMCA; Sterbenz, JPG;
+    Çetinkaya, EK; Gomes, T; Gunkel, M; Walkowiak, K; Staessens, D, _Future
+    research directions in design of reliable communication systems_ ,
+    Telecommunication Systems, vol 60 no. 4 (2015), pp. 423-450
+    [10.1007/s11235-015-9987-7] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

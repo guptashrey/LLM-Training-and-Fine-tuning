@@ -1,0 +1,200 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Copper Ions Flow Like Liquid through the Frozen Atomic Network of a Crystal
+
+October 8, 2018 | By Ken Kingery
+
+Atomic insights into superionic crystals could lead to safer, more efficient
+rechargeable batteries
+
+Materials scientists have sussed out the physical phenomenon underlying the
+promising electrical and thermal properties of a class of materials called
+superionic crystals. A better understanding of such materials could lead to
+safer and more efficient rechargeable batteries than the current standard-
+bearer of lithium ion.
+
+Becoming a popular topic of study within the past five years, superionic
+crystals are a cross between a liquid and a solid. While some of their atoms
+retain a rigid crystalline structure akin to a frozen state, others become
+liquid-like above a certain temperature, and are able to flow through the
+solid scaffold.
+
+In a new study, scientists from Duke University, Oak Ridge National Laboratory
+(ORNL) and Argonne National Laboratory (ANL) probed one such superionic
+crystal containing copper, chromium and selenium (CuCrSe2) with neutrons and
+X-rays to determine how the material’s copper ions achieve their liquid-like
+properties. The results appear online on Oct. 8 in the journal Nature Physics.
+
+“When CuCrSe2 is heated above 190 degrees Fahrenheit, its copper ions fly
+around inside the layers of chromium and selenium about as fast as liquid
+water molecules move,” said Olivier Delaire, associate professor of mechanical
+engineering and materials science at Duke and senior author on the study. “And
+yet, it’s still a solid that you could hold in your hand. We wanted to
+understand the physics behind this phenomenon.”
+
+To probe the copper ions’ behavior, Delaire and his colleagues turned to two
+world-class facilities: the Spallation Neutron Source at Oak Ridge and the
+Advanced Photon Source at Argonne. Each machine provided a unique piece of the
+puzzle.
+
+> “If we can understand how superionic crystals work through this study and
+> future research, we could perhaps find a better, solid solution for
+> transporting ions in rechargeable batteries.”
+
+By pinging a large sample of powdered CuCrSe2 made at Oak Ridge with powerful
+neutrons, the researchers got a wide-scale view of the material’s atomic
+structure and dynamics, revealing both the vibrations of the stiff scaffold of
+chromium and selenium atoms as well as the random jumps of copper ions within.
+
+For a narrower but more detailed look at vibration modes, the researchers
+bombarded a tiny single grain of CuCrSe2 crystal with high-resolution X-rays.
+This allowed them to examine how the rays scattered off of its atoms and how
+scaffold vibrations enabled shear waves to propagate, a hallmark of solid
+behavior.
+
+With both sets of information in hand, Delaire’s group ran quantum simulations
+of the material’s atomic behavior at the National Energy Research Scientific
+Computing Center to explain their findings. Below the phase transition
+temperature of 190 degrees Fahrenheit, the copper atoms vibrate around
+isolated sites, trapped in pockets of the material’s scaffold structure. But
+above that temperature, they are able to hop randomly between multiple
+available sites. This allows the copper ions to flow throughout the otherwise
+solid crystal.
+
+While more work is needed to understand how the copper atoms interact with one
+another once both sites become occupied, the findings offer clues as to how to
+use similar materials in future electronic applications.
+
+“Most commercial lithium ion batteries use a liquid electrolyte to transfer
+ions between the positive and negative terminals of the battery,” Delaire
+said. “While efficient, this liquid can be dangerously flammable, as many
+laptop and smartphone owners have unfortunately discovered.”
+
+“There are variants of superionic crystals that contain ions like lithium or
+sodium that behave like the copper in CuCrSe2,” Delaire said. “If we can
+understand how superionic crystals work through this study and future
+research, we could perhaps find a better, solid solution for transporting ions
+in rechargeable batteries.”
+
+This research was supported by the Department of Energy (DE-SC0016166, DE-
+SC0001299, DE-AC02-06CH11357, DE-AC02-05CH11231, DEAC05-00OR22725).
+
+CITATION: “Selective Breakdown of Phonon Quasiparticles across Superionic
+Transition in CuCrSe2.” J. L. Niedziela, Dipanshu Bansal, Andrew F. May,
+Jingxuan Ding, Tyson Lanigan-Atkins, Georg Ehlers, Douglas L. Abernathy, Ayman
+Said, & Olivier Delaire. Nature Physics, 2018. DOI: 10.1038/s41567-018-0298-2
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

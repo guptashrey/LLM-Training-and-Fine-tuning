@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Traveling Salesman Uncorks Synthetic Biology Bottleneck
+
+January 5, 2016 | By Ken Kingery
+
+Computer program scrambles genetic codes for production of repetitive DNA and
+synthetic molecules
+
+Researchers have created a computer program that will open a challenging field
+in synthetic biology to the entire world.
+
+In the past decade, billions of dollars have been spent on technology that can
+quickly and inexpensively read and write DNA to synthesize and manipulate
+polypeptides and proteins.
+
+That technology, however, stumbles when it encounters a repetitive genetic
+recipe. This includes many natural and synthetic materials used for a range of
+applications from biological adhesives to synthetic silk. Like someone
+struggling with an “impossible” jigsaw puzzle, synthesizers have trouble
+determining which genetic piece goes where when many of the building blocks
+look the same.
+
+Scientists from Duke University have removed this hurdle by developing a
+freely available computer program based on the “traveling salesman”
+mathematics problem. Synthetic biologists can now find the least-repetitive
+genetic code to build the molecule they want to study. The researchers say
+their program will allow those with limited resources or expertise to easily
+explore synthetic biomaterials that were once available to only a small
+fraction of the field.
+
+The results appear in Nature Materials, January 4, 2016.
+
+“Synthesizing and working with highly repetitive polypeptides is a very
+challenging and tedious process, which has long been a barrier to entering the
+field,” said Ashutosh Chilkoti, the Theo Pilkington Professor of Biomedical
+Engineering and chair of the biomedical engineering department at Duke. “But
+with the help of our new tool, what used to take researchers months of work
+can now be ordered online by anyone for about $100 and the genes received in a
+few weeks, making repetitive polypeptides much easier to study.”
+
+Every protein and polypeptide is based on the sequencing of two or more amino
+acids. The genetic recipe for an individual amino acid—called a codon—is three
+letters of DNA long. But nature has 61 codons that produce 20 amino acids,
+meaning there are multiple codons that yield a given amino acid.
+
+Because synthetic biologists can get the same amino acid from multiple codons,
+they can avoid troublesome DNA repeats by swapping in different codons that
+achieve the same effect. The challenge is finding the least repetitive genetic
+code that still makes the desired polypeptide or protein.
+
+“I always thought there was a potential solution, that there must be a way of
+mathematically figuring it out,” said Chilkoti. “I had offered this problem to
+graduate students before, but nobody wanted to tackle it because it requires a
+particular combination of high-level math, computer science and molecular
+biology. But Nicholas Tang was the right guy.”
+
+After studying the problem in detail, Nicholas Tang, a doctoral candidate in
+Chilkoti’s laboratory, discovered that the solution is a version of the
+“traveling salesman” mathematics problem. The classic question is, given a map
+with a set of cities to visit, what is the shortest route possible that hits
+every city exactly once before returning to the original city?
+
+After writing the algorithm, Tang put it to the test. He created a laundry
+list of 19 popular repetitive polypeptides that are currently being studied in
+laboratories around the world. After passing the codes through the program, he
+sent them for synthesis by commercial biotechnology outfits—a task that would
+be impossible for any one of the original codes.
+
+Without the help of commercial technology, researchers spend months building
+the DNA that cells use to produce the proteins being studied. It’s a tedious,
+repetitive task—not the most attractive prospect to a young graduate student.
+But if the new program worked, the process could be reduced to a few weeks of
+waiting for machines to deliver the goods instead.
+
+When Tang received his DNA, they each were introduced into living cells to
+produce the desired polypeptide as hoped.
+
+“He made 19 different polymers from the field in one shot,” said Chilkoti.
+“What probably took tens of researchers years to create, he was able to
+reproduce in a single paper in a matter of weeks.”
+
+Chilkoti and Tang are now working to make the new computer program available
+online for anybody to use through a simple web form, opening a new area of
+synthetic biology for all to explore.
+
+“This advance really democratizes the field of synthetic biology and levels
+the playing field,” said Tang. “Before, you had to have a lot of expertise and
+patience to work with repetitive sequences, but now anyone can just order them
+online. We think this could really break open the bottleneck that has held the
+field back and hopefully recruit more people into the field.”
+
+This work was supported by the National Institutes of Health (GM061232) and
+the National Science Foundation through the Research Triangle Materials
+Research Science and Engineering Center (NSF DMR-11-21107).
+
+###
+
+“Combinatorial codon scrambling enables scalable gene synthesis and
+amplification of repetitive proteins.” Nicholas C. Tang and Ashutosh Chilkoti.
+Nature Materials, December, 2015. DOI: 10.1038/NMAT4521
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

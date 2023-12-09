@@ -1,0 +1,341 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Reclaiming Water from Waste
+
+September 17, 2020
+
+Washing our hands with soap and running water for at least twenty seconds
+helps prevent the spread of pathogens. For areas of the world where water is
+scarce, ECE faculty member Brian Stoner and his colleagues at WaSH-AID are
+reclaiming usable water from an unlikely source.
+
+## Listen
+
+## Transcript
+
+Miranda: This is Rate of Change, a podcast from Duke Engineering dedicated to
+the ingenious ways that engineers are solving society’s toughest problems. I’m
+Miranda Volborth.  
+  
+Theme music: Leopard Print Elevator by Kevin MacLeod (License)  
+  
+Among all the things we take for granted, one of the most important (toilet
+flushing) is the toilet. More broadly, I mean our access to safe, well-managed
+managed sanitation systems. When people who lack this access come into contact
+with water contaminated with human waste, the health effects are profound.  
+  
+In the early spring of 2020, I asked Brian Stoner, the director of the Duke
+Center for Wash-AID- Water, Sanitation, Hygiene and infectious Disease, to
+record a conversation about those effects. And how Wash-AID engineers are
+trying to increase access to safe sanitation, through solutions developed at
+their lab in Durham, and field tested in India—solutions including a toilet
+system called the Reclaimer, which treats wastewater electrochemically to
+render it pathogen-free and generates clean water for reuse.  
+  
+Then… (News clips that Duke’s campus has closed due to Covid-19.)  
+  
+Miranda: When I finally caught up with Brian, it was April. And it via Zoom,
+so our conversation sounds pretty echo-ey. Thanks for bearing with us.  
+  
+Miranda: How are you doing, and your team? Is everybody doing ok?  
+  
+Brian: Team’s doing well, I mean as well as can be expected. Being a lab-based
+center, it’s a bit challenging, when you’re doing that without a lab.  
+  
+Miranda: Yeah. What about your team in India? Have you—I mean, I assume you’ve
+been keeping tabs on them, how are they kind of dealing with everything?  
+  
+Brian: India’s a challenge. It’s a challenge to say, “Here’s what the World
+Health Organization is telling us,” and now trying to advise people to apply
+those procedures. For example, social distancing and hand washing is a middle-
+class luxury that we have. To say “wash your hands for 20 seconds” to people
+who live in an area where it’s been water-stressed for the last decade is… is
+not practical. You know, 20 seconds is a long time! I don’t know if you’ve
+tried to sing Happy Birthday twice, while washing your hands. I mean, we do
+that now, consciously, because we’re thinking about it, but that’s
+significantly longer than most people who have access to plenty of water would
+do.  
+  
+Miranda: you know, as we’re talking about this… earlier, I was kind of
+thinking about it as very distinct from what’s going on right now, but it’s
+not. It’s sanitation and hygiene as related to infectious disease. So it is
+all…  
+  
+Brian: Thank you for making that connection. We’ve been getting a lot of
+calls—I mean, there’s absolutely a lot of crossover. I think we’ve seeing it
+as well with Covid-19. I mean, what’s really sad about this most recent
+coronavirus is, it attacks those who… it attacks the poor. It attacks those
+who lack access to health care and a lot of what we are wrestling with on the
+toilet project and the global sanitation crisis—there’s a huge overlap in
+terms of— groups that are negatively impacted by the lack of safe and
+effective sanitation, are the most vulnerable in pandemics like this that are
+going to prey on areas that lack safe hygiene, sanitation, access to health
+care, people packed into tight spaces… there’s a huge overlap.  
+  
+Brian: It’s actually a sad statistic— in a world that has over seven billion
+people, you have probably more than four billion people in the world that lack
+access to what we call safely managed sanitation. And that means everything
+from no sanitation or no safe wastewater treatment directly, as well as
+infrastructure that is overburdened. This could be a waste treatment facility
+that was built 30 years ago, and now the city has grown by a factor of ten and
+it’s just overflowing. And so the water might go into a wastewater treatment
+facility, but it just goes out untreated. So that’s about 4.2 billion people
+in the world that lack access to properly managed sanitation. And the result
+is, you know, there are almost half a million diarrheal deaths every year,
+from lack of access to safe sanitation.  
+  
+Miranda: yeah, that number—every time I hear it, it does not shock me any
+less. It’s still a staggering number.  
+  
+(Music from https://www.zapsplat.com)  
+  
+Miranda: WaSH-AID has been working on a solution called The Reclaimer, which
+is currently funded by the Bill and Melinda Gates Foundation, as part of its
+Reinvent the Toilet Challenge. These toilets have to not only remove pathogens
+from human waste, but reclaim resources: energy, nutrients, or water.  
+  
+Brian: In areas that lack access to clean water… ideally, we want the ability
+to wash our hands. Or wash surfaces that we’re going to come into contact
+with. But in areas that are water-stressed, that’s a huge challenge. So if you
+have something like the Reclaimer, or more generally, the ability to treat
+wastewater and render it safe enough to be able to be used for non-potable
+applications, including handwash and other washing applications, that’s a huge
+bonus.  
+  
+So the Reclaimer is a system that’s designed to take fecal-contaminated water
+and it treats that in such a way that it’s safe to discharge directly to the
+environment, so it meets certain international standards for discharge. It’s
+treated even sufficient for human contact, just non-potable use. So it’s up
+to—stopping short of—being able to create drinking water from it.  
+  
+Miranda: I remember that when I went into your lab to meet you. That was one
+of the things that really stuck out to me, that I remembered, were the two
+vials on your windowsill. One was—the “before” vial—was just this murky, gray-
+brown kind of sludge, and the second was crystal-clear. It looked like
+rainwater.  
+  
+Brian: Yep, and that is striking, yes. The brown, muddy-looking water, that is
+what comes in, and what comes out is indistinguishable from clean tap water.
+It would need to go through one more stage if treatment to remove some of the
+inorganic compounds, and some of the salts that exist from following the
+treatment process, but otherwise, optically, to the human eye, it’s
+indistinguishable from clean tap water.  
+  
+Miranda: But… the end product didn’t look like clean tap water in 2014, when
+the Reclaimer was first put out into the field.  
+  
+Brian: In the beginning, our technology was able to clean and disinfect the
+liquid that met local discharge standards, but it was still slightly brown.
+When you see a brown liquid, and you know it came from a toilet, you know
+exactly what that brown liquid represents. You don’t want to touch it, you
+don’t want to smell it. Your goal is—your challenge, really, in converting
+that to something that is useful and something that someone would feel
+comfortable washing their hands with, is you have to first convince them that
+it’s ok. But then also I think there’s the challenge of turning it into
+something that looks and feels different. By this—and take the Reclaimer as an
+example—the Reclaimer uses the natural salts that exist in urine, and it
+converts them into chlorine. So we’ve been to pools—pools are treated with
+chlorine to prevent bacteria from building up. We know that smell. The smell
+of chlorine is often from bleach products and cleaning products—we associate
+that with something that’s been cleaned. We don’t associate that with
+something that is brown, fecal-contaminated water. And so part of our process
+—and I think one of the advantages is, as we take something that’s a brown
+smelly liquid and convert it to a clear liquid, you also end up with a
+residual amount of chlorine that’s dissolved in that liquid. So that when
+someone does smell it, they already perceive it as—and genuinely—as something
+that’s cleaner, and different, than what it came from.  
+  
+Miranda: Fun fact. Brian Stoner’s father was also an engineer who worked on
+similar projects for use in Navy submarines. They developed a way to harvest
+the salts that occur naturally in urine, convert them to chlorine, and use
+them to treat wastewater.  
+  
+Miranda: Brian says there’s no substitute for the feedback you can gather in
+the field.  
+  
+Brian: In the field we’ve gotten so much interesting feedback from how people
+are using it and experiencing the system that forced us to go beyond just
+getting a technology and worked in the lab and met the engineering standard,
+but also had to meet some of the social and cultural standards. Another
+interesting anecdote is, when we’re testing in the lab we don’t test all the
+ways someone can use, misuse, and abuse a system, and people get pretty
+creative. Cleaning solutions—standard cleaning solutions that we would use
+here in our labs at Duke are very different than what might be commonly
+available or typically used in India, for example. There’s a very aggressive
+acid-based solution that was being used in one village, and it was pretty
+common.  
+  
+Miranda: Brian says that every time visitors associated with the project would
+go to the test site, the system would break down. They were flummoxed.
+Eventually, they discovered that to get the site super clean, people were
+swamping it with hydrochloric acid, which the components just couldn’t stand
+up to.  
+  
+Brian: It just destroyed a number of the materials that we were using in our
+processes, and we never tested for that. We didn’t know about it, so we
+weren’t testing for it. By going out into the field you learn a lot of
+vulnerabilities to your system—we call it “stress-testing.” One of the
+challenges—you want your system to fail, meaning that you want to see how it
+fails and where it fails. And quickly feed that back to your engineering team,
+so you can design a system that becomes more robust to a broader set of use
+cases. If you develop something that can only survive when run continuously in
+your lab, you don’t have something that is useful when you start taking it out
+into the communities.  
+  
+Miranda: Women have emerged as a really crucial stakeholder group in this
+feedback process. How are you incorporating their feedback into revisions and,
+you know, continuing to improve the design?  
+  
+Brian: Thank you for bringing that up. It’s a sad fact that in many
+communities that lack safe and effective sanitation, that women and girls are
+disadvantaged in other ways. We consider women to be one of the more critical
+stakeholder groups for a number of reasons. Men, as we say, tend to go any
+way, anywhere, anyhow, with less constraints socially over how they use the
+bathroom. With women there are a lot more constraints. So for us it’s not just
+being able to provide a physical need, but it’s also a level of dignity—and in
+many cases, safety—that’s important. So in the very beginning, in 2014, we
+started working with a group called SEWA—it’s an acronym, S-E-W-A, Self-
+Employed Women’s Association—it grew out of the garment district in a state in
+India—they work with us to go into communities and establish a level of trust,
+especially with some of the female stakeholders, to understand what their
+needs are and to be able to talk about the safety and dignity portion of it,
+as well as the menstrual hygiene element. And so a lot of groups, people, or
+companies that try to develop sanitation solutions or toilet solutions for
+low-income communities neglect the need for safe disposal and replenishment of
+hygiene products, and that is a critical oversight.  
+  
+Miranda: You can learn much more about how WaSH-AID is addressing this
+oversight in the next episode of Rate of Change.  
+  
+Thanks for listening. Please subscribe for updates from Duke Engineering. And
+if you learned something from this podcast, please share it with others.
+
+## Featured Faculty
+
+### Brian Stoner
+
+Research Professor in the Department of Electrical and Computer Engineering
+
+View profile »
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

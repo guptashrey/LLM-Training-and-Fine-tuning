@@ -1,0 +1,334 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Re-Engineering the Consumer Product Life Cycle
+
+February 4, 2021 | Miranda Volborth
+
+Duke civil and environmental engineers are working to make raw materials more
+sustainable and reimagining how we deal with harmful waste
+
+**Reclaiming Waste**
+
+One day your new smartphone will slip from your hand to the sidewalk, and the
+shattered screen will need to be replaced—and then replaced again. The speaker
+will stop working. The processing speed will slow under the weight of 10,000
+photos of your dog. Soon, you’ll be headed to the store for an upgrade, like
+more than 1.5 billion others every single year.
+
+The endless production and disposal of consumer electronics has an oversized
+impact on the environment, though. Take for example just one of a smartphone’s
+many components: the touch-sensitive glass, which is doped with rare earth
+elements.
+
+Most of those rare earth elements come from Chinese mines. To get at them,
+vast swaths of topsoil are stripped from the earth, and chemicals are used to
+leach them out. Those chemicals are either pumped directly into the earth or
+held in ponds that are prone to leakage and spillage.
+
+“It’s intense, what mining rare earth elements does to landscapes and to water
+resources,” said Duke professor of civil and environmental engineering Heileen
+Hsu-Kim.
+
+Hsu-Kim knows another way to collect those materials—one that’s inextricably
+linked with another troubling environmental pollutant: coal ash.
+
+The U.S. generates almost a quarter of its electricity by burning coal, a
+process that leaves a considerable amount of coal ash waste behind. Much of
+the ash is incorporated into building products including cement, but
+sometimes, if the coal isn’t burned completely, the ash contains a lot of
+small carbon bits. If these coal fragments were incorporated into concrete,
+air pockets would form around them and make the concrete prone to cracking. So
+instead, that low-grade ash is shoveled into vast pits, which are susceptible
+to the same kinds of failures as mining wastewater ponds.
+
+“Oftentimes, virgin materials are desirable because they’re high quality,”
+said Hsu-Kim. “I’d like to see a different approach—the default mindset should
+be, ‘What can we find that would be thrown away anyway?’ We should engineer
+around those waste streams.”
+
+Hsu-Kim said the discarded ash is rich in resources and can be further refined
+to make specialty building materials like high-strength concrete and barrier
+walls. “You just have to get out the impurities,” she said, “which are rich in
+heavy metals, as well.”
+
+> Revenue isn’t the only thing of value that can come from re-engineering the
+> supply chain.
+
+Economic models show that the heavy metals wouldn’t generate nearly as much
+revenue as building materials would, for the plants extracting them—but
+revenue isn’t the only thing of value that can come from re-engineering the
+supply chain, said Kim. “There are aspects of the reclamation process that are
+hard to monetize—like having a domestic resource for metals that are mined
+overseas and diversifying a resource supply so you’re not as highly subject to
+geopolitical instability,” she said.
+
+**New Routes for Remediation**
+
+Often, the strategies used to remediate abandoned industrial sites are also
+intensive—and expensive. To clean contaminated soils and sediments around
+abandoned industrial sites, they’re frequently dredged and the toxic waste
+disposed of elsewhere, or capped. But Duke civil and environmental engineering
+professor Claudia Gunsch is battling toxic pollutants with the help of some
+unlikely allies. She studies naturally existing microbial communities in soil,
+water and sediment—microbes that can break toxic pollutants down and render
+them harmless.
+
+But of the multitudes of microbes out there, how exactly does she identify and
+select the right communities for the job?
+
+> Microbes sometimes evolve over decades to adapt to the pollutant as a food
+> source.
+
+Frequently, she’ll look at the site of the pollution, where microbes sometimes
+evolve over decades to adapt to the pollutant as a food source. In that case,
+she can take a sample back to the lab, cultivate it and experiment with ways
+to supercharge the microbes’ abilities, then replicate those conditions at the
+contaminated site.
+
+“Think of it like precision health, where you consider a medicine for a
+particular condition for a particular person,” said Gunsch. “We’re trying to
+figure out how to manipulate an environment to promote the growth of targeted
+microbes at that particular site.”
+
+Other times, if Gunsch is interested in a specific pollutant, she can look at
+the local wastewater treatment plant for a microbe capable of breaking it
+down. That’s because the veritable witch’s brew of pollutants that we humans
+collect on our skins and wash down the drain, or excrete and flush away, is
+brimming with microbial specialists.
+
+“It’s really simple. We take a sample of wastewater, we take it back to the
+lab, we add whatever contaminant we want, and we look at the fate of that
+compound over time,” said Gunsch. “If the compound breaks down, then you try
+to enrich the microbe that does that.”
+
+The less-simple part of Gunsch’s research is trying to predict what will
+happen to an entire delicately balanced ecosystem when a new microbe is
+introduced. “Part of a precision bioremediation framework is understanding the
+consequences of bringing in new microbes whose functions have been carried out
+by some of the other microbes in the community. What is the net impact?”
+Gunsch asked.
+
+In the long term, said Gunsch, she aims to develop a “menu” from which
+specific bacteria could be chosen to break down a designated contaminant,
+based on their ability to coexist with the microbial fingerprint already at a
+site in need of remediation.
+
+Gunsch said that goal is complicated by the fact that the vast majority of
+microbes have never before been cultured—less than 0.1 percent of them, in
+fact. And to understand one microbe, she said, you must also understand all of
+its neighbors in the community; you can’t cultivate one by itself, without
+also cultivating the next-door strain that contributes something the community
+needs to thrive.
+
+**Identifying Emerging Threats**
+
+Just down the hall from Gunsch’s lab, a couple of her colleagues are wading
+into another research wilderness—a sea of plastics.
+
+Let’s take another look at your new smartphone. Consider how many of its
+components are made of plastic. The case, the charger, and even the thin
+plastic film the box is wrapped in are usually thrown into the trash. In fact,
+humans have produced billions of tons of plastic--and recycled less than 10
+percent of it.
+
+> Increasingly, researchers are sounding alarms about how these materials
+> break down after they’re discarded, where the nanoscale particles of the
+> plastic and the plastic additives end up, and what effects they can have on
+> the environment and human health.
+
+Increasingly, researchers are sounding alarms about how these materials break
+down after they’re discarded, where the nanoscale particles of the plastic and
+the plastic additives end up, and what effects they can have on the
+environment and human health.
+
+“When we think about plastics in the environment, we think about the bird with
+the six-pack ring around its neck, or fish whose guts are full of fishing
+line,” said professor and CEE chair Mark Wiesner. “But there’s also what we
+believe to be a huge amount of plastic out in the ocean—and in fresh waters as
+well—that’s at the nanometric scale.”
+
+Wiesner is one of the world’s leading experts in nanomaterials; he’s led the
+NSF-funded Center for the Environmental Implications of NanoTechnology, or
+CEINT, for more than a decade. Recently, he’s been working on a project with
+the Army and the Consumer Product Safety Commission, looking at different ways
+that plastic composites can degrade—whether they’re being tossed around by
+ocean waves or gnawed on by a teething child—and calculating the rate at which
+they release.
+
+“We know where engineered nanomaterials go, because they’re so brilliantly
+designed,” said Wiesner. “We can track them in complex environments, and we
+know the really small particles collect in animal tissues. They cross the
+blood-brain barrier and the intestinal tract, and they accumulate in the
+liver.” Plastics can even be passed maternally in zebrafish, with adverse
+effects to heart and neurological function.
+
+And it’s not just the plastic itself that’s the problem, according to
+environmental chemist and CEE associate professor Lee Ferguson.
+
+“Plastics don’t exist as pure materials,” he said. “They’re almost always
+amended with additives.”
+
+Ferguson has made locating and studying emerging contaminants the focus of his
+entire career. His lab specializes in non-targeted analysis, which is
+exploratory in nature—rather than zeroing in on a single known contaminant,
+his lab characterizes the sample’s entire composition. Some of his earliest
+experiments with the technique involved house dust and river water, and over
+and over Ferguson saw plastic additives popping up in the samples he was
+collecting—things like antioxidants and UV inhibitors, which keep plastic
+materials from degrading, and plasticizers, which make them more flexible.
+
+> Over and over Ferguson saw plastic additives popping up in the samples he
+> was collecting—things like antioxidants and UV inhibitors, which keep
+> plastic materials from degrading, and plasticizers, which make them more
+> flexible.
+
+Sometimes, said Ferguson, the chemistry points to an origin. In water sources
+including North Carolina’s Haw, Neuse and Cape Fear rivers, for example,
+Ferguson’s lab has identified compounds associated with the manufacture of car
+tires—vulcanization accelerants and hindered amine light stabilizers, to name
+just a couple. These compounds peel away from tires as the rubber meets the
+road and make their way into the environment in stormwater.
+
+Yet it is difficult to find information about how these compounds affect human
+health and the environment, Ferguson noted. “When I went to look at the
+literature, there was almost nothing known about these additives, from the
+standpoint of their environmental fate or potential toxicity,” he said. “It’s
+a class of completely understudied emerging pollutants.”
+
+Ferguson co-leads the water quality monitoring program of the Polyfluorinated
+Alkyl Substance Testing (PFAST) network, which has sampled around 350
+municipal water supplies around North Carolina—a program established by a $5
+million grant from the state legislature after GenX, a Teflon byproduct,
+showed up in Wilmington’s drinking water several years ago.
+
+“We’ve wondered if treatments that can control PFAS contamination in drinking
+water and surface water—like activated carbon or membrane-based
+treatments—might work to remove plastic additives,” said Ferguson.
+
+That’s not his area of expertise, he emphasized—his specialty is in
+assessment. But along with his colleagues in Duke CEE, he’s working to make
+materials more sustainable, from cradle to grave.
+
+It might be making packaging from algae-based substances rather than plastic,
+said Wiesner, or applying Gunsch’s microbial biofilms to the soil via a
+biodegradable matrix like cellulose rather than a traditional polymer.
+
+“We all want materials to enhance the environment and human health, rather
+than degrade it,” said Wiesner.
+
+Explore Duke CEE Research
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

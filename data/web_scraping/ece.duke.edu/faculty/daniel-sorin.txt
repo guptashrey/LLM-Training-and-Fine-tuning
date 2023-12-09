@@ -1,0 +1,285 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Daniel J. Sorin
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Electrical and Computer Engineering
+
+Dr. Daniel Sorin is a professor of Electrical and Computer Engineering at Duke
+University. His research interests are primarily in computer architecture and
+dependability.
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+  * Bass Fellow
+  * Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** 403 Wilkinson Building, Durham, NC 27708
+  * **Office Phone:** (919) 660-5439
+  * **Email Address:** sorin@ee.duke.edu
+  * **Websites:**
+    * http://www.ee.duke.edu/~sorin
+
+## Education
+
+  * B.S. Duke University, 1996
+  * M.S. University of Wisconsin - Madison, 1998
+  * Ph.D. University of Wisconsin - Madison, 2002
+
+## Research Interests
+
+Computer architecture, designing microarchitectures so that they are easier to
+verify, improving computer system fault tolerance, developing memory systems
+for multicore processors, and designing special-purpose accelerators
+
+## Awards, Honors, and Distinctions
+
+  * Program Chair of HiPEAC 2017. HiPEAC. 2017
+  * Co-chair of selection committee for IEEE Micro's Top Picks 2016. IEEE
+    Micro. 2016
+  * Associate Editor in Chief. Computer Architecture Letters. 2015
+  * IEEE Micro Top Pick. IEEE Micro. 2015
+  * Best Paper Award. 20th International Symposium on High Performance
+    Computer Architecture. 2014
+  * IEEE Micro Top Pick. IEEE Micro. 2011
+  * Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of
+    Engineering. 2011
+  * ACM Senior Member. Association for Computing Machinery. 2009
+  * Eta Kappa Nu. Unknown. 2008
+  * Intel Graduate Fellowship. Unknown. 2008
+  * NSF Early CAREER Award. National Science Foundation. 2008
+  * Outstanding Graduate Research Award. University of Wisconsin. 2008
+  * Phi Beta Kappa. Unknown. 2008
+  * Tau Beta Pi. Unknown. 2008
+  * Top of 2004 - Nanocomputing Research. Technology Research News. 2008
+  * Faculty Early Career Development (CAREER) Program. National Science
+    Foundation. 2005
+
+## Courses Taught
+
+  * COMPSCI 250D: Computer Architecture
+  * COMPSCI 391: Independent Study
+  * ECE 250D: Computer Architecture
+  * ECE 552: Advanced Computer Architecture I
+  * ECE 554: Fault-Tolerant and Testable Computer Systems
+  * EGR 491: Projects in Engineering
+
+## In the News
+
+  * A Crystal Ball for the Decade Ahead (Jan 9, 2020)
+
+## Representative Publications
+
+  * Oswald, N., V. Nagarajan, D. J. Sorin, V. Gavrielatos, T. Olausson, and R.
+    Carr. “HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence
+    Protocols.” In Proceedings International Symposium on High Performance
+    Computer Architecture, 2022-April:756–71, 2022.
+    https://doi.org/10.1109/HPCA53966.2022.00061.
+  * Mehrabi, A., D. J. Sorin, and B. C. Lee. “Spatiotemporal Strategies for
+    Long-Term FPGA Resource Management.” In Proceedings 2022 Ieee
+    International Symposium on Performance Analysis of Systems and Software,
+    Ispass 2022, 198–209, 2022.
+    https://doi.org/10.1109/ISPASS55109.2022.00026.
+  * Sorin, D. J. “Reconfigurable Hardware in Postsilicon Microarchitecture.”
+    Computer 54, no. 3 (March 1, 2021): 4–5.
+    https://doi.org/10.1109/MC.2020.3047006.
+  * Mehrabi, A., D. Lee, N. Chatterjee, D. J. Sorin, B. C. Lee, and M.
+    O’Connor. “Learning Sparse Matrix Row Permutations for Efficient SpMM on
+    GPU Architectures.” In Proceedings 2021 Ieee International Symposium on
+    Performance Analysis of Systems and Software, Ispass 2021, 48–58, 2021.
+    https://doi.org/10.1109/ISPASS51385.2021.00016.
+  * Mehrabi, A., A. Manocha, B. C. Lee, and D. J. Sorin. “Bayesian
+    Optimization for Efficient Accelerator Synthesis.” Acm Transactions on
+    Architecture and Code Optimization 18, no. 1 (January 1, 2021).
+    https://doi.org/10.1145/3427377.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

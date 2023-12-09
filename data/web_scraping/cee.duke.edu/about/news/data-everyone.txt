@@ -1,0 +1,195 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Data Is for Everyone
+
+August 18, 2020
+
+Students in Duke’s Data+ program dive deep into data to gain insight into
+unexpected fields of study
+
+Each summer, the Rhodes Information Initiative at Duke’s Data+ program
+illustrates some of the many ways data science can make a difference in the
+real world. Faculty members and industry representatives who have data
+problems or questions collaborate with small interdisciplinary teams for ten
+weeks over the summer, solving problems and learning new approaches for
+analyzing and visualizing data along the way.
+
+“Engineering in the 21st century will combine disciplinary insight with data
+science expertise,” said Rhodes Information Initiative at Duke Director Robert
+Calderbank. “Data+ prepares students to succeed in the 21st century workforce
+by combining computational skills with mentorship, hands-on experience, and
+working in teams.”
+
+> "Engineering in the 21st century will combine disciplinary insight with data
+> science expertise."
+>
+> Robert Calderbank, DIRECTOR, RHODES INFORMATION INITIATIVE at Duke
+
+Data+ is not just for students of computer science or computer engineering; in
+2020, its sixth year, more than 180 students from a dozen Duke majors
+participated in Data+, composing more than 50 teams. There was something for
+everyone who was interested in learning how to work more deeply with
+data—whether it was modeling mechanical failures at sea, predicting blindness
+in Duke’s glaucoma patients or examining how land use affects water quality
+and aquatic ecosystems.
+
+Alex Bussey ’22, a civil and environmental engineering student interested in
+water resources, worked on the land use and water quality project along with
+another engineering student and a student from Duke’s Nicholas School of the
+Environment. Their team was directed by James Heffernan, a researcher at the
+Duke River Center who is interested in learning how variables like land use,
+nutrient inputs and canopy cover affect the condition of river ecosystems.
+
+Bussey said that she spent the first two weeks simply learning how to code in
+R, a statistical computing tool that helps users analyze and visualize data. A
+PhD student of statistical science, Olivier Binette, mentored the team in
+organizing its code to be easily reproducible and easily understood.
+
+Then, it was on to the data. “We spent a lot of time scraping different
+databases from organizations like the EPA and NGS,” said Bussey. “We had to
+look at all that data and see if there were patterns—what insights could we
+draw?”
+
+> “We had to look at all that data and see if there were patterns—what
+> insights could we draw?”
+>
+> Alex Bussey CEE '22
+
+The novel aspect of her team’s research, said Bussey, was its scope.
+Researchers focusing on the relationship between land use and river ecosystems
+generally look at one site at a time, but the Data+ team was essentially
+taking a birds-eye view, looking at 100 sites around the state. And her team
+was surprised to find that land development and the condition of aquatic
+ecosystems did not correspond in a strictly linear fashion—more developed
+surface area did not always result in more active microbial communities in the
+rivers and streams nearby. Why that is, exactly, is a question for future
+research.
+
+Hussey said that apart from learning to program in R—a new skill for her, but
+one she feels will be useful to her future—she became adept at interacting
+virtually with a team and giving virtual presentations. “I’ve also learned to
+‘zoom out,’” she said, “and bring technical information down to a more general
+level.”
+
+Learn More
+
+## Related News
+
+July 07, 2020
+
+### Data+ Alums Talk Career Paths and Mentoring with Duke Students
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

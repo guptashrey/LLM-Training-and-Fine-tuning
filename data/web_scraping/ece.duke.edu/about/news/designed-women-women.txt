@@ -1,0 +1,249 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Designed for Women, by Women
+
+May 7, 2020 | Miranda Volborth
+
+In ECE capstone course, a team designs a smart sports bra in partnership with
+Garmin
+
+From Duke Engineering’s first capstone design class in wearables, led by
+electrical and computer engineering professor of the practice Rabih Younes,
+came an impressive collection of futuristic clothing and accessories:
+construction work gloves that use sensors to detect studs and live wires, a
+shirt that vibrates with varying intensity to help people with visual
+impairments sense how far they are from obstacles, and a boot with automated
+heating/cooling and inflation/deflation capabilities, to aid treatment after a
+foot or ankle injury.
+
+Another team took on a real-world client: Garmin, a leading designer and
+manufacturer of GPS products whose product lineup includes a large array of
+wearable fitness trackers. The team of three women—Samantha Archer, Sarah
+Bland and Mary Stuart Elder—all describe themselves as athletic and belong to
+the segment of potential customers who might buy and wear fitness trackers
+with extra features, like heart rate monitoring.
+
+The thing is, heart rate monitors are most accurate when placed on your chest,
+but nothing currently on the market seemed to meet women’s needs. “What we
+found was that none of us were enticed by the chest-based heart rate monitor
+that many companies offer—it’s not comfortable for women to wear a sports bra
+that’s already tight, and then have to fit the monitor underneath it,” said
+Archer.
+
+> The team decided to focus on turning a sports bra into a comfortable,
+> accurate fitness tracker.
+
+When the team decided to focus on turning a sports bra into a comfortable,
+accurate fitness tracker, Garmin asked them to meet two broad goals: prove
+that the form factor of a chest-based monitor could work to monitor heart rate
+accurately, and add a new feature that would be compatible with Garmin’s
+existing product line.
+
+The team surveyed more than 60 women to see what kinds of features they were
+most interested in. Some of them, like cadence monitoring and running
+dynamics, were already included in Garmin products. One—posture
+detection—wasn’t, and the team thought they could achieve it by adding an
+accelerometer.
+
+They designed a sensor array mounted on a silicone band, which attaches
+securely to the wearer’s bra with magnets, and named the product
+“Heartbreakers,” which Elder said imbued the product with a sense of
+empowerment. (It also gave the team a chuckle to have hidden "her bra" in the
+name of the product .) But they were challenged to make the wireless
+communication work between the sensor and the Garmin interface.
+
+“The watches need a very specific type of wireless communication, to allow our
+product to talk to their watch,” explained Elder. “It was very different from
+using something like an Arduino, which is ready to be used out of the box and
+has numerous libraries to reference.”
+
+> Students and professors alike had to figure out how to work within the new
+> parameters mandated by physical distancing.
+
+Thankfully, the team solved most of its communication issues before spring
+break—a time that will be remembered by many students, especially graduating
+seniors, as both a line of demarcation separating “normal life” from an
+extended period lived mostly at home, and a time of intense reorganization,
+when students and professors alike had to figure out how to work within the
+new parameters mandated by physical distancing.
+
+For Bland, it meant cutting a road trip short to return to retrieve the team’s
+box of physical components from campus before access was curtailed and
+adopting a new role within the team: hardware lead, a role that had originally
+belonged to Archer. Tri-weekly Scrums moved to Zoom, and the team relied on
+Git to allow everyone to work on the coding aspect of the project from her own
+space. With technical support from Archer and Elder, Bland poured silicone and
+tested the prototype from her new lab—her Houston kitchen.
+
+> With technical support from Archer and Elder, Bland poured silicone and
+> tested the prototype from her new lab—her Houston kitchen.
+
+During the team’s final virtual presentation to the Garmin team, the students
+showed how the product they had designed could attach securely to the bra and
+continue to work during a period of sustained movement. Additionally, they
+demonstrated that the accelerometer-based posture monitor they had added to
+meet Garmin’s Goal 2—added functionality—could work to give the user feedback
+on her posture as she completed one of two yoga poses.
+
+“It’s a proof of concept, the idea being that posture detection could be added
+to any exercise that Garmin currently supports,” said Archer. “A user could
+download an exercise routine to her watch and get feedback to improve her
+posture as she completes it.” Younes noted that the functionality could also
+be a good fit for applications like physical therapy.
+
+“They certainly exceeded my expectations,” said Software Engineering Team
+Leader Travis Jones, who was the Duke’s team’s main point of contact at
+Garmin. “I thought their project was an ambitious one and that the likely
+outcome was separate components that worked but needed to be integrated. Even
+when working across three states, the team was able to put together a complete
+product that demonstrated the key principles of their vision.”
+
+> "Even when working across three states, the team was able to put together a
+> complete product that demonstrated the key principles of their vision.”
+>
+> Travis Jones, Software Engineering Team Leader, Garmin
+
+All three women agreed that working on an all-female team to design a product
+specifically for women was a blast.
+
+“There are fewer women than men in ECE, so it’s rare to work with all women in
+a project group like this,” said Archer. “Also, it was very cool that we got
+to implement something that we felt pretty motivated by—the fact that we were
+a team of women designing a product for women was something that we really
+enjoyed. It was a once-in-a-Duke-career kind of opportunity.”
+
+As seniors, the three students did not take the new first-year design course
+that is now required for all Duke engineers. “I’m going into software—I’m
+CS/ECE—so lots of times I don’t feel like a ‘real’ engineer because I don’t
+really build things. I’m mostly coding,” said Bland. “So it was neat to have
+the opportunity to build something with sensors and wires. I’m really happy
+that before I graduate I had the fulfilling experience of creating something
+from scratch.”
+
+More News
+
+## Related News
+
+May 05, 2020
+
+### Undergrads Go the Distance to Design for Garmin
+
+September 12, 2018
+
+### Rabih Younes: Integrating Machine Learning with Motion-Capturing Wearable
+Devices
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,269 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Craig S. Henriquez
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Biomedical Engineering
+
+A breakdown of the normal electrical activation sequence of the heart can
+sometimes lead to a state of ventricular fibrillation in which the heart
+ceases to function as an effective pump. Abnormal rhythms or arrhythmias often
+result after an episode of ischemia (a localized reduction of blood flow to
+the heart itself) which affects both the ionic processes necessary to elicit
+an impulse and the passive electrical properties of the tissue. Identifying
+the complex mechanisms of arrhythmogenesis will require experimentation as
+well as mathematical and computer models.
+
+Current projects include the application of the bidomain model to diseased
+tissue to investigate how changes in tissue structure (both natural and
+diseased induced) and changes in ionic current flow influences the nature of
+conduction and the onset of arrhythmia.
+
+Dr. Henriquez's group is also interested in developing realistic models that
+will enable investigators to better interpret electrophysiological
+measurements made in the clinic. For example, activation maps at the surface
+of the heart are typically constructed based on the detection of specific
+features of the surface extracellular recordings. However, for complex
+activation, such as might arise during an arrhythmia, the features are
+difficult to distinguish.
+
+The use of models that simulate both activation and the resulting
+extracellular potential and the application of signal processing techniques
+can lead to a tool for constructing more meaningful maps from experimental
+recordings during abnormal conduction. This works involves direct interaction
+with experimental research performed in the Experimental Electrophysiology
+Laboratory under the direction of Dr. Patrick Wolf and the Cardiac
+Electrophysiology & Tissue Engineering lab under the direction of Dr. Nenad
+Bursac.
+
+## Appointments and Affiliations
+
+  * Professor of Biomedical Engineering
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 274 Hudson Hall Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5168
+  * **Email Address:** ch@duke.edu
+
+## Education
+
+  * B.S. Duke University, 1981
+  * Ph.D. Duke University, 1988
+
+## Research Interests
+
+Large-scale computing, heart modeling, and brain modeling.
+
+## Courses Taught
+
+  * BME 244L9: Quantitative Physiology with Biostatistical Applications
+  * BME 244L: Quantitative Physiology with Biostatistical Applications
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 503: Computational Neuroengineering (GE, EL)
+  * BME 790: Advanced Topics for Graduate Students in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+  * EGR 393: Research Projects in Engineering
+  * NEUROSCI 503: Computational Neuroengineering (GE, EL)
+
+## Representative Publications
+
+  * Nguyen, Hung X., Tianyu Wu, Daniel Needs, Hengtao Zhang, Robin M. Perelli,
+    Sophia DeLuca, Rachel Yang, et al. “Engineered bacterial voltage-gated
+    sodium channel platform for cardiac gene therapy.” Nat Commun 13, no. 1
+    (February 2, 2022): 620. https://doi.org/10.1038/s41467-022-28251-6.
+  * Rossi, Simone, Laryssa Abdala, Andrew Woodward, John P. Vavalle, Craig S.
+    Henriquez, and Boyce E. Griffith. “Rule-based definition of muscle bundles
+    in patient-specific models of the left atrium.” Frontiers in Physiology 13
+    (January 2022): 912947. https://doi.org/10.3389/fphys.2022.912947.
+  * Henriquez, C. S., and W. Ying. “The bidomain model of cardiac tissue: from
+    microscale to macroscale.” In Cardiac Bioelectric Therapy: Mechanisms and
+    Practical Implications, 211–23, 2021.
+    https://doi.org/10.1007/978-3-030-63355-4_15.
+  * Pelot, Nicole A., David C. Catherall, Brandon J. Thio, Nathan D. Titus,
+    Edward D. Liang, Craig S. Henriquez, and Warren M. Grill. “Excitation
+    properties of computational models of unmyelinated peripheral axons.”
+    Journal of Neurophysiology 125, no. 1 (January 2021): 86–104.
+    https://doi.org/10.1152/jn.00315.2020.
+  * Gaeta, Stephen, Tristram D. Bahnson, and Craig Henriquez. “High-Resolution
+    Measurement of Local Activation Time Differences From Bipolar Electrogram
+    Amplitude.” Front Physiol 12 (2021): 653645.
+    https://doi.org/10.3389/fphys.2021.653645.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

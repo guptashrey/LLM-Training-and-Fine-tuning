@@ -1,0 +1,264 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# John Everett Dolbow
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in the Department of Mechanical Engineering and Materials Science
+
+Professor John E. Dolbow came to Duke University from Northwestern University,
+where he received an MS and PhD in Theoretical and Applied Mechanics. During
+the course of his graduate study, John was a Computational Science Graduate
+Fellow for the Department of Energy, and he spent a summer working at Los
+Alamos National Laboratory. Dr. Dolbow's research concerns the development of
+computational methods for nonlinear problems in solid mechanics. In
+particular, he is interested in modeling quasi-static and dynamic fracture of
+structural components, the evolution of interfaces with nonlinear constitutive
+laws, and developing models for stimulus-responsive hydrogels. A native of New
+Hampshire, Dr. Dolbow received his Bachelor's Degree in mechanical engineering
+from the University of New Hampshire.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Mechanical Engineering and Materials
+    Science
+  * Professor in the Department of Civil and Environmental Engineering
+  * Professor in the Department of Mathematics
+  * Faculty Network Member of The Energy Initiative
+  * Professor of Mathematics
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 319 Gross Hall, Box 90287, Durham, NC 27708
+  * **Office Phone:** (919) 660-5202
+  * **Email Address:** john.dolbow@duke.edu
+  * **Websites:**
+    * Dolbow Research Group
+
+## Education
+
+  * B.S.M.E. University of New Hampshire, 1995
+  * M.S. Northwestern University, 1998
+  * Ph.D. Northwestern University, 1999
+
+## Research Interests
+
+Modeling quasi-static and dynamic fracture of structural components, the
+evolution of interfaces with nonlinear constitutive laws, and developing
+models for stimulus-responsive hydrogels
+
+## Awards, Honors, and Distinctions
+
+  * R. H. Gallagher Young Investigator Award. U.S. Association for
+    Computational Mechanics. 2005
+  * Young Researcher Fellowship Award. First MIT Conference on Computational
+    Fluid and Solid Mechanics. 2001
+  * Robert J. Melosh Medal, Best Student Paper in Finite Element Analysis.
+    Duke University. 1999
+  * Computational Science Graduate Fellow. U.S. Department of Energy. 1997
+  * Highest Technical Content Award. ASME Regional Student Conference. 1995
+  * Walter P. Murphy Graduate Fellowship. Northwestern University. 1995
+  * Presidential Scholar. University of New Hampshire. 1991
+
+## Courses Taught
+
+  * CEE 530: Introduction to the Finite Element Method
+  * CEE 622: Fracture Mechanics
+  * ME 524: Introduction to the Finite Element Method
+  * ME 758S: Curricular Practical Training
+  * MENG 550: Master of Engineering Internship/Project
+  * MENG 551: Master of Engineering Internship/Project Assessment
+  * MENG 552: Master of Engineering Supplemental Internship
+
+## In the News
+
+  * Dolbow Named Assistant VP for Research (Apr 17, 2020)
+
+## Representative Publications
+
+  * Liu, Yangyuanchen, Susanne Claus, Pierre Kerfriden, Junqin Chen, Pei
+    Zhong, and John E. Dolbow. “Model-based simulations of pulsed laser
+    ablation using an embedded finite element method.” International Journal
+    of Heat and Mass Transfer 204 (May 2023): 123843.
+    https://doi.org/10.1016/j.ijheatmasstransfer.2022.123843.
+  * Fei, F., A. Costa, J. E. Dolbow, R. R. Settgast, and M. Cusini. “Phase-
+    Field Simulation of Near-Wellbore Nucleation and Propagation of Hydraulic
+    Fractures in Enhanced Geothermal Systems (EGS).” In Society of Petroleum
+    Engineers Spe Reservoir Simulation Conference, Rsc 2023, 2023.
+    https://doi.org/10.2118/212251-MS.
+  * Hu, T., J. E. Dolbow, and Z. Yosibash. “Towards validation of crack
+    nucleation criteria from V-notches in quasi-brittle metallic alloys:
+    Energetics or strength?” Computer Methods in Applied Mechanics and
+    Engineering 402 (December 1, 2022).
+    https://doi.org/10.1016/j.cma.2022.115419.
+  * Costa, A., M. Cusini, T. Jin, R. Settgast, and J. E. Dolbow. “A multi-
+    resolution approach to hydraulic fracture simulation.” International
+    Journal of Fracture 237, no. 1–2 (September 1, 2022): 165–88.
+    https://doi.org/10.1007/s10704-022-00662-y.
+  * Talamini, B., M. R. Tupek, A. J. Stershic, T. Hu, J. W. Foulk, J. T.
+    Ostien, and J. E. Dolbow. “Attaining regularization length insensitivity
+    in phase-field models of ductile failure.” Computer Methods in Applied
+    Mechanics and Engineering 384 (October 1, 2021).
+    https://doi.org/10.1016/j.cma.2021.113936.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

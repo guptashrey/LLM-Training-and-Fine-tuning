@@ -1,0 +1,452 @@
+
+
+Jump to navigation
+
+  * Duke Engineering
+  * Pratt School of Engineering
+  * Institute for Enterprise Engineering
+
+  * Industry Relations
+  * Leadership
+  * News
+  * Contact
+
+__
+
+  * Why Duke?
+    * The Duke Difference
+    * Career Services
+    * Graduate Outcomes
+    * What Tech Leaders Are Saying
+  * Degree
+  * Certificate
+  * Courses
+  * Faculty
+  * Apply
+
+__
+
+# AI for Product Innovation Courses
+
+Our novel curriculum gives students the skill set they need to build
+innovative AI-based products and systems
+
+## Pre-Program Preparation
+
+### AIPI 503: Python Programming Boot Camp
+
+The four-week online boot camp is designed to help students build proficiency
+in the use of Python for Data Science. It covers foundational concepts and
+also provides hands-on experience with critical skills including loading,
+cleaning, manipulating, visualizing, analyzing and interpreting data. Upon
+completion of this course, students will be in a position to use their skills
+to identify, formulate and solve some practical data analysis problems.
+
+The first two modules will provide an introduction to basic Python. From
+there, the class will focus on building proficiency with three critical for
+Data Science Python libraries (Numpy, Pandas, Matplotlib). The final module
+will focus on a review of probability and statistics with an emphasis on
+simulation of chance experiments. Topics for this last module will include
+discrete distributions, continuous density functions, combinatorics,
+conditional probabilities and a final review of important densities and
+functions.
+
+Students who are proficient in Python as well as the data science libraries
+covered will have the option to test out of the bootcamp.
+
+## Technical Core
+
+### AIPI 510: Sourcing Data for Analytics
+
+In industry, one of the main activities, and challenges, of implementing
+machine learning applications are collecting data to use in modeling. This
+course introduces students to methods and tools used for data collection,
+storage, manipulation, analysis and visualization. The first segment of the
+course will be an introduction to numerical programming focused on building
+skills in working with data via the Numpy and Pandas libraries, two of the
+most common tools used by teams working with data and modeling. Technical
+aspects covered will include the types of data, methods of sourcing data via
+the web, APIs, and from domain-specific sensors and hardware (IoT devices), an
+increasingly common source of analytics data in technical industries. The
+course also introduces methods and tools for evaluating the quality of data,
+performing basic exploratory data analysis, and pre-processing data for use in
+analytics. Non-technical aspects covered include an introduction to data
+privacy, GDPR, regulatory issues, bias, and industry-specific concerns
+regarding data usage.
+
+### AIPI 520: Modeling Process & Algorithms
+
+This course is an introduction to the modeling process and best practices in
+model creation, interpretation, validation, and selection of models for
+different uses. The primary machine learning algorithms, both supervised and
+unsupervised, are introduced and students become familiar with both the
+mathematical theory and the programming application of the models. The primary
+focus is on statistical learning approaches but the course also introduces
+deep learning and its applications. At the end of this course, students should
+have a solid understanding of the end-to-end modeling process and the
+different types of model algorithms along with the strengths, weaknesses,
+assumptions, and use cases for each type, and be capable of training and using
+models in Python. Students who have taken one or more prior machine learning
+courses in their undergraduate institution will have the option to take an
+additional technical elective instead of AIPI 520.
+
+### AIPI 530: Optimization in Practice
+
+Optimization is the ultimate skill in artificial intelligence and prescriptive
+analytics allowing practitioners to generate the best actionable solutions for
+business needs. This class will give students required skills to
+mathematically formulate relevant business problems as optimization models,
+use leading software modeling syntax and solvers to generate optimum solutions
+and meaningfully interpret these solutions. We will use both SAS/Optmodel and
+Python/Pyomo to give student experience with proprietary and open-source
+optimization software. Focus will be on problem formulation and results
+interpretation.
+
+### AIPI 531: Deep Reinforcement Learning Applications
+
+Deep Reinforcement Learning Applications will cover advanced sequential
+decision-making topics in AI and will consist of two parts 1) deep
+reinforcement learning theory and 2) deep reinforcement learning applications.
+The theory module will introduce students to major deep reinforcement learning
+algorithms, modeling process, and programming. The applications module will
+include case studies on the practical applications of deep reinforcement
+learning in industry. This is a project-based course with extensive
+Pytorch/Tensorflow hands-on exercises.
+
+### AIPI 540: Deep Learning Applications
+
+This course focuses on the primary use cases of deep learning to solve
+challenging problems particularly in the areas of computer vision, natural
+language processing and recommendation systems. Students will develop an
+understanding of both the mathematical theory and programmatic implementation
+of neural networks using Python. The course includes significant hands-on
+team-based project work and an emphasis on self-discovery. The semester will
+be split into three core modules: computer vision, NLP, and recommendation
+systems. Each module will include lectures, assignments, a team project, and a
+review of recent research in the field.
+
+## AI Operations Core
+
+### AIPI 501: Industry Seminar Series
+
+Students will attend a weekly seminar series featuring industry leaders
+discussing the opportunities, challenges and learnings they have gained from
+applying AI to products and services in their industry. Speakers will present
+live in-classroom or via video conference. The emphasis in the selection of
+speakers will be placed on representing more traditional industries that are
+poised to be disrupted by AI such as agriculture, health care/biotech, energy
+and environment, and manufacturing. The seminar series will reinforce the
+concepts learned in the core courses and expand students’ intuition for the
+opportunities to apply AI within more complex and/or traditional industries.
+
+### AIPI 560: Legal, Societal & Ethical Implications of AI
+
+Deploying AI within products and services has implications well beyond the
+technical considerations, which often include change management of operational
+workflows or staffing levels, data privacy considerations, bias risks and
+other ethical implications, and industry-specific regulations on the use of
+data and models operationally. This course will introduce students to the key
+areas of consideration when deploying products that contain AI:
+
+  1. Legal implications and industry regulation
+  2. Ethical considerations
+  3. Change management and organizational/societal implications
+
+Case studies will be used extensively to provide real-world examples.
+
+### AIPI 561: Operationalizing AI (MLOps)
+
+Deploying AI in production requires consideration of factors such as online
+model training, scaling, integration with software/hardware products,
+monitoring/support, security and failure resiliency. This course introduces
+students via real-world case studies to methods and best practices in
+deploying AI operationally within products and services, including both
+technology and support infrastructure considerations. The course will also
+introduce available technologies for working with Big Data in industries that
+require specialized infrastructure and tools due to the volume of data.
+
+## Management Core
+
+### MENG 540: Management of High-Tech Industries
+
+Decision making in complex environments; emphasis on project analysis, complex
+investment analyses, strategic decision making where outcomes depend on high
+technology, and the role of decisions in product development. Management in
+high tech firms; emphasis on management of professionals, management of
+project-based and team-based organizational structures, and the role of the
+manager in expertise-driven organizations.
+
+### MENG 570: Business Fundamentals for Engineers
+
+This comprehensive course examines core and evolving concepts in the business
+fundamentals of successful technology-based companies including Business Plan
+Development & Strategies, Marketing, Product & Process Development processes,
+Intellectual Property, Accounting, Finance, and Operations. Students will
+learn the fundamentals essential to understanding all aspects of a business
+and will be able to converse in some depth in each of the areas studied upon
+completion. Other topics will include Supply Chain Management, Stage-Gate
+Development Cycles, Balances Scorecards, Blue Ocean Strategy, and Disruptive
+Technologies.
+
+## Elective Options
+
+_Note: In addition to the courses listed below, students in this master's
+degree program may take other graduate-level elective courses within Duke's
+Pratt School of Engineering, on a space-available basis with instructor
+permission._
+
+ML Engineering Track
+
+### AIPI 590 / IDS 721: Data Analysis at Scale in the Cloud
+
+This course is designed to give students a comprehensive view of cloud
+computing including Big Data and Machine Learning. A variety of learning
+resources will be used including interactive labs on Cloud Platforms (Google,
+AWS, Azure). This is a project-based course with extensive hands-on
+assignments.
+
+####
+
+### AIPI 531: Deep Reinforcement Learning Applications
+
+This course will cover advanced sequential decision-making topics in AI and
+will consist of two parts: 1) deep reinforcement learning theory and 2) deep
+reinforcement learning applications. Deep reinforcement learning combines
+reinforcement learning and deep learning. The theory module will introduce
+students to major deep reinforcement learning algorithms, modeling process,
+and programming. The applications module will include case studies on the
+practical applications of deep reinforcement learning in industry. This is a
+project-based course with extensive Pytorch/Tensorflow hands-on exercises.
+Students will also have an opportunity to improve their GitHub profile by
+working on projects.
+
+### ECE 564: Mobile App Development
+
+Explores the world of mobile application development with a focus on the needs
+of engineers. Centered on the Apple environment, with the development
+environment being on OS X and the target environment being an iOS device-
+iPad, iPhone, iPod Touch or Apple Watch. Real-world- and context-focused on
+the common programming patterns for engineers in academia or business-
+standalone apps, apps connected to other systems, apps connected to the cloud.
+Covers fundamentals essential to understanding all aspects of app development.
+Taught in a team environment. Students are required to present their project
+proposals and deliver an app as a final project.
+
+###
+
+### EGRMGMT 590-01: Software, Solution & Enterprise Architecture
+
+Students learn the concepts and principles about how a software system is
+constructed at the highest level. Software architecture is the fundamental
+design of the entire system. It defines what elements are included in the
+system, what function each element has, and how each element relates to one
+another. In short, it is the big picture or overall structure of the whole
+system, how the enterprise technology system works together. Having a clear
+design of the overall system as a starting point helps to provide a solid
+basis for developers to follow and it allows higher productivity and software
+quality. Students immerse themselves into architecture understanding from
+multiple perspectives through various UML diagrams including different
+software architectures frameworks, when and how they are used, their
+advantages and disadvantages. Software architecture is tied to many practical
+business concerns. These include the skills and organization of the software
+engineering team, the needs of the business, the development cycle, and the
+intent of the software itself.
+
+### EGRMGMT 590-03: Software Business Management
+
+In today’s world software is pervasive in most if not all companies. A
+software business is a commercial activity aimed at producing, buying, and
+selling software products or services. Well-run software companies are known
+for their high profit margins. This course will focus on understanding the key
+success factors for software organizations to drive their portfolio strategy
+by mapping out monetization models, pricing, vendor management, professional
+services, development & continuous delivery, road mapping & maintenance.
+
+### CYBERSEC 511: Cybersecurity in the Software Development Lifecycle
+
+Teaches students about all steps of the software development lifecycle and the
+role Cybersecurity design principles play in requirements definition, design,
+development, testing, and maintenance. Tools and techniques to provide
+software security analysis and software assurance will be explored including
+software reverse engineering.
+
+### CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity
+
+The use of machine learning and AI is becoming more prevalent for collecting
+and analyzing data as its consolidation increases in value. Cyberattacks seek
+to steal, deny access, misrepresent (such as deepfakes), or compromise the
+privacy of information. Students will explore the power of machine learning
+and AI’s use in enhancing Cybersecurity tools across the NIST Framework and
+also in detecting and exploiting vulnerabilities in timeframes and ways
+heretofore unthinkable.
+
+### ECE 663: ML in Adversarial Settings
+
+Machine learning is being widely deployed in many aspects of our society. Our
+vision is that machine learning systems will become a new attack surface and
+attackers will exploit the vulnerabilities in machine learning algorithms and
+systems to subvert their security and privacy. In this course, we will discuss
+security and privacy attacks to machine learning systems and state-of-the-art
+defenses against them.
+
+### EGRMGMT 575: Software Quality Management
+
+This class will introduce students to five different business personas that
+play a key role in the software development lifecycle—customer, software
+engineer, software release/quality manager, customer support engineer, and
+general manager. The students will better appreciate the perspectives that
+each of these personas brings to their role and how that affects the
+"delivered" quality that customers actually experience. The course will also
+help students understand how to assess customer business outcomes,
+expectations and measure customer experience. Finally, the class will provide
+exposure to current industry practices and include guest speakers who can give
+real-world examples relevant to software quality management
+
+Data Science Track
+
+### BME 580: Biomedical Data Science
+
+This course will teach a combination of theory and application of biomedical
+data science principles using multi-scale biomedical data; including multi-
+omics, wearable sensor, and electronic health records data. Basic principles
+of data mining, exploratory data analysis, and statistics will be reviewed,
+and students will be introduced to supervised and unsupervised machine
+learning and model evaluation and selection methods. Methodology learned in
+classes will be applied in the assignments and class project to real-world
+multi-omics, wearable sensor, and electronic health records data.
+
+####
+
+### BIOSTAT 709: Observational Studies
+
+Methods for causal inference, including confounding and selection bias in
+observational or quasi-experimental research designs, propensity score
+methodology, instrumental variables and methods for non-compliance in
+randomized clinical trials.
+
+### EGRMGMT 590-05: Software Business Management
+
+In today’s world software is pervasive in most if not all companies. A
+software business is a commercial activity aimed at producing, buying, and
+selling software products or services. Well-run software companies are known
+for their high profit margins. This course will focus on understanding the key
+success factors for software organizations to drive their portfolio strategy
+by mapping out monetization models, pricing, vendor management, professional
+services, development & continuous delivery, road mapping & maintenance.
+
+####  __
+
+### STA 640: Causal Inference
+
+Statistical issues in causality and methods for estimating causal effects.
+Randomized designs and alternative designs and methods for when randomization
+is infeasible: matching methods, propensity scores, longitudinal treatments,
+regression discontinuity, instrumental variables, and principal
+stratification. Methods are motivated by examples from social sciences, policy
+and health sciences.
+
+### STA 663: Statistical Computation
+
+Statistical modeling and machine learning involving large data sets and
+challenging computation. Data pipelines and data bases, big data tools,
+sequential algorithms and subsampling methods for massive data sets, efficient
+programming for multi-core and cluster machines, including topics drawn from
+GPU programming, cloud computing, Map/Reduce and general tools of distributed
+computing environments. Intense use of statistical and data manipulation
+software will be required. Data from areas such as astronomy, genomics,
+finance, social media, networks, neuroscience.
+
+### ECE 682D: Probabilistic Machine Learning
+
+Introduction to concepts in probabilistic machine learning with a focus on
+discriminative and hierarchical generative models. Topics include directed and
+undirected graphical models, kernel methods, exact and approximate parameter
+estimation methods, and structure learning. The course assumes a prior
+background in linear algebra and probability & statistics.
+
+### __
+
+## Capstone Project
+
+### AIPI 549: Capstone Project
+
+Students will work in teams of 3-5 to complete a Machine Learning/Artificial
+Intelligence project for a company sponsor around a real-world problem or
+opportunity they are facing. The project will require students to put into
+practice many of the skills learned during the program, including both
+technical and non-technical. Students will have the opportunity to engage
+directly with representatives from their company partner organization as well
+as receive guidance from Duke faculty members over the course of the project.
+The capstone team will present their final deliverables to a sponsor panel
+and/or an external review panel.
+
+## Internship or Project
+
+### MENG 550: Master of Engineering Internship or Project
+
+  * Internships are typically 8-12 weeks. The minimum hourly requirement for
+    the internship is 320 hours, equivalent to 8 weeks, 40 hours per week.
+    Projects require approval from the AIPI program director. Projects must
+    fulfill the same learning objectives as internships. Although students are
+    responsible for finding their own internship, Duke provides an experienced
+    career development team to help with your search.
+
+All internships/projects must:
+
+  * Apply engineering principles to solving one or more problems outside the
+    classroom environment
+  * Define a problem and determine potential solutions
+  * Appreciate the importance of organizational dynamics and work
+    relationships
+  * Practice professional communication both written and orally
+  * Complement material presented in the AIPI courses
+  * Include a self-assessment upon completion in AIPI 551
+
+### MENG 551: Master of Engineering Internship or Project Assessment
+
+This assessment course is the culmination of your internship or project work.
+You will prepare a substantive assessment of your internship or project
+experience via a written report and/or oral presentation. A polished analysis
+should include:
+
+  * Problem or task conducted
+  * Challenges faced
+  * Solutions incorporated
+  * Workplace communication and interpersonal relationship critique
+  * Individual performance review
+
+​
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+## Admissions
+
+Have a question about the program or admissions? Contact the **Admissions &
+Recruiting team** at pratt_masters@duke.edu.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+  * __Main Menu
+    * __Why Duke?
+      *  __The Duke Difference
+      *  __Career Services
+      *  __Graduate Outcomes
+      *  __What Tech Leaders Are Saying
+    *  __Degree
+    *  __Certificate
+    *  __Courses
+    *  __Faculty
+    *  __Apply
+  * __Quick Links
+    * __Industry Relations
+    *  __Leadership
+    *  __News
+    *  __Contact
+
+    * 
+

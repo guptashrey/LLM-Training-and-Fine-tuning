@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# WWI Helmets Protect Against Shock Waves Just as Well as Modern Designs
+
+February 14, 2020 | By Ken Kingery
+
+French Adrian helmet suggests simple geometry may save brains from overhead
+blasts
+
+Biomedical engineers from Duke University have demonstrated that, despite
+significant advancements in protection from ballistics and blunt impacts,
+modern military helmets are no better at protecting the brain from shock waves
+created by nearby blasts than their World War I counterparts. And one model in
+particular, the French Adrian helmet, actually performed better than modern
+designs in protecting from overhead blasts.
+
+The research could help improve the blast protection of future helmets through
+choosing different materials, layering multiple materials of different
+acoustic impedance, or altering their geometry.
+
+The results appeared online on February 13 in the journal PLOS ONE.
+
+“While we found that all helmets provided a substantial amount of protection
+against blast, we were surprised to find that the 100-year-old helmets
+performed just as well as modern ones,” said Joost Op ‘t Eynde, a biomedical
+engineering PhD student at Duke and first author of the study. “Indeed, some
+historical helmets performed better in some respects.”
+
+Researchers have only recently begun to study the brain damage a shock wave
+can cause on its own — and for good reason. Helmets were originally designed
+to protect from penetrating objects like bullets and shrapnel, and blast waves
+will kill through pulmonary trauma long before they cause even minor brain
+damage.
+
+With the advent of body armor, however, soldiers’ lungs are much more
+protected from such blasts than they used to be. This has caused the incidence
+of pulmonary trauma following a blast to drop far below that of brain or spine
+injuries in modern military conflicts, despite the difference in blast
+tolerance.
+
+While there have been studies that suggest modern helmets provide a degree of
+protection from shock waves, no currently deployed helmet has been
+specifically designed for blast protection. And because soldiers today
+experiencing shock waves while wearing body armor aren’t all that different
+from soldiers 100 years ago experiencing shock waves while in the trenches, Op
+‘t Eynde decided to see if those old designs offered any lessons to be
+learned.
+
+“This study is, to the best of our knowledge, the first to assess the
+protective capabilities of these historical combat helmets against blasts,”
+said Op ‘t Eynde.
+
+Working with Cameron “Dale” Bass, associate research professor of biomedical
+engineering at Duke, Op ‘t Eynde created a system to test the performance of
+World War I helmets from the United Kingdom/United States (Brodie), France
+(Adrian), Germany (Stahlhelm) and a current United States combat variant
+(Advanced Combat Helmet).
+
+The researchers took turns placing different helmets on a dummy’s head
+outfitted with pressure sensors at various locations. They then placed the
+head directly underneath a shock tube, which was pressurized with helium until
+a membrane wall burst, releasing the gas in a shock wave. The helmets were
+tested with shock waves of varying strength, each corresponding to a different
+type of German artillery shell exploding from a distance of one to five meters
+away.
+
+The amount of pressure experienced at the crown of the head was then compared
+to brain injury risk charts created in previous studies. While all helmets
+provided a five-to-tenfold reduction in risk for moderate brain bleeding, the
+risk for someone wearing a circa-1915 French “Adrian” helmet was less than for
+any of the other helmets tested, including the modern advanced combat helmet.
+
+“The result is intriguing because the French helmet was manufactured using
+similar materials as its German and British counterparts, and even had a
+thinner wall,” said Op ‘t Eynde. “The main difference is that the French
+helmet had a crest on top of its crown. While it was designed to deflect
+shrapnel, this feature might also be deflecting shock waves.”
+
+It also might be that, because the pressure sensor was mounted directly under
+the crest, the crest provided an additional first layer for reflecting the
+shock wave. And the French helmet did not show the same advantage in pressure
+sensors at any other location. For locations such as the ears, performance
+seemed to be dictated by the width of the helmet’s brim and just how much of
+the head it actually covered.
+
+As for the modern helmet, Op ‘t Eynde theorizes that its layered structure
+might be important in its performance. Because a shock wave is reflected every
+time it encounters a new material with a different acoustic impedance, the
+layered structure of the modern helmet might contribute to its blast
+protection.
+
+But no matter which helmet was tested, the results clearly indicated that
+helmets might play an especially important role in protecting against mild
+blast-induced brain trauma. According to the researchers, this finding alone
+shows the importance of continuing this type of research to design helmets
+that can better absorb shock waves from nearby overhead explosions.
+
+“The difference a simple crest or a wider brim can make in blast protection,
+shows just how important this line of research could be,” said Op ‘t Eynde,
+who initially came to Duke on a scholarship from the Belgian American
+Educational Foundation, which was established with funds from American relief
+efforts in Belgium during World War I. “With all of the modern materials and
+manufacturing capabilities we possess today, we should be able to make
+improvements in helmet design that protects from blast waves better than
+helmets today or 100 years ago.”
+
+CITATION: “Primary Blast Wave Protection in Combat Helmet Design: a Historical
+Comparison between Present Day and World War I.” J. Op ‘t Eynde, A. W. Yu, C.
+P. Eckersley and C. R. Bass. PLOS ONE, February 13, 2020. DOI:
+10.1371/journal.pone.0228802
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

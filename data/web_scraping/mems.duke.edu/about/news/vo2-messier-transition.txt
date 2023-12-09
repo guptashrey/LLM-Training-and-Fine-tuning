@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Atomic Path from Insulator to Metal Messier than Thought
+
+November 1, 2018 | By Ken Kingery
+
+Utrafast view of atomic motions in vanadium dioxide lays groundwork for
+advances in computer hardware
+
+Researchers have peeked behind the curtain of the ultrafast phase transition
+of vanadium dioxide and found its atomic theatrics are much more complicated
+than they thought. It’s a material that has fascinated scientists for decades
+for its ability to shift from being an electrical insulator to a conductor.
+
+The study, which appears Nov. 2 in the journal Science, is a collaboration
+between researchers at Duke University, the SLAC National Accelerator
+Laboratory at Stanford, the Barcelona Institute of Science and Technology, Oak
+Ridge National Laboratory, and the Japan Synchrotron Radiation Research
+Institute.
+
+Vanadium dioxide has been intensely studied by researchers for more than five
+decades because of its unusual ability to switch from insulator to conductor
+at the conveniently attainable temperature of 152 degrees Fahrenheit. While
+other materials are also capable of this transition, most occur well below
+room temperature, making vanadium dioxide a better option for practical
+applications.
+
+More recently, materials scientists have explored how this same phase
+transition takes place when the material’s atomic structure is excited by an
+extremely short, ultrafast laser pulse. What makes the phenomenon so
+challenging to study is the remarkable speed at which it happens—about 100
+femtoseconds. That’s one tenth of a millionth of a millionth of a second.
+
+The ultra-bright X-ray pulses at SLAC’s Linac Coherent Light Source (LCLS),
+however, are even faster.
+
+By triggering vanadium dioxide’s electrical phase transition with a
+femtosecond laser and then pinging its atoms with X-ray pulses just tens of
+femtoseconds long, researchers were able to watch the transition unfold in
+full detail for the first time. They found that, rather than transitioning
+from one atomic structure to another in a direct, collaborative manner, the
+vanadium atoms arrived at their destinations through more unpredictable routes
+and independently of each other.
+
+“It was proposed that the material would go from one crystalline structure to
+the other by following a deterministic, well-defined shuffling,” said Olivier
+Delaire, associate professor of mechanical engineering and materials science
+at Duke and one of the leaders of the study. “Instead we discovered that, even
+within a single transition, each atom is doing its own thing independently of
+the others.”
+
+“The disorder we found is very strong, which means we have to rethink how we
+study all of these materials that we thought were behaving in a uniform way,”
+said Simon Wall, an associate professor at the Institute of Photonic Sciences
+in Barcelona and one of the leaders of the study.
+
+The atoms don’t move smoothly into their new positions like band members
+marching down a field; they stagger around like partiers leaving a bar at
+closing time.
+
+“If our ultimate goal is to control the behavior of these materials so we can
+switch them back and forth from one phase to another, it’s much harder to
+control the drunken choir than the marching band,” Wall said.
+
+To unravel the meaning of the experimental observations, Delaire’s group at
+Duke also led supercomputer simulations of atomic dynamics in the material.
+The simulations ran on supercomputers at the National Energy Research
+Scientific Computing center and the Oak Ridge Leadership Computing Facility.
+
+“It was mind-blowing when my student Shan Yang showed me the results of her
+quantum simulations of atomic motions,” continued Delaire. “It almost
+perfectly matched the experimental ‘movies’ of recorded X-ray intensities,
+even without the need for adjustable parameters.”
+
+Previous studies did not have access to the spatial and temporal resolution
+offered by the LCLS, and could only measure averages of the material’s atomic
+behaviors. Because of these limitations, they could not see the importance of
+random deviations from the average motions of vanadium atoms.
+
+With the sensitivity of the LCLS however, researchers could get a much clearer
+picture of what was going on.
+
+“It’s sort of like astronomers studying the night sky,” said Delaire.
+“Previous studies could only see the brightest stars visible to the naked eye.
+But with the ultrabright and ultrafast x-ray pulses, we were able to see the
+faint and diffuse signals of the Milky Way galaxy between them.”
+
+This study, and others like it, are key to understanding the behavior of
+photo-excited materials. For example, if properly harnessed, the atomic
+reaction of vanadium dioxide revealed in this study could form the basis of
+ultrafast transistors for computers combining photons and electrons. And
+researchers are also using this general concept in the pursuit of the dream of
+room-temperature superconductors.
+
+“The new knowledge we gained into the process of the photo-induced insulator-
+to-metal transition in vanadium dioxide should be directly relevant to re-
+evaluating our understanding of other materials,” said Delaire. “We’re just
+starting to explore this new realm of being able to control the behaviors of
+materials just by shining light on them, and combining state-of-the-art x-ray
+facilities with supercomputers to follow what’s happening. And we’re finding
+out that the atomic dynamics involved are even more complicated than we had
+previously thought.”
+
+This research was supported by the Department of Energy (DE-SC0016166, DE-
+AC02-76SF00515, DE-AC02-76SF00515, DE-AC02-05CH11231, DE-AC05-00OR22725).
+
+CITATION: “Ultrafast disordering of vanadium dimers in photoexcited VO2.”
+Simon Wall1, Shan Yang, Luciana Vidas, Matthieu Chollet, Michael Glownia,
+Michael Kozina, Tetsuo Katayama, Thomas Henighan, Mason Jiang, Timothy A.
+Miller, David A. Reis, Lynn A. Boatner, Olivier Delaire and Mariano Trigo.
+Science, 2018. DOI: 10.1126/science.aau3873
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

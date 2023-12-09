@@ -1,0 +1,194 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ARPA-E Supports Miniaturized Mass Spectrometer Project at Duke
+
+February 18, 2015
+
+The Department of Energy’s Advanced Research Projects Agency-Energy (ARPA-E)
+has awarded a team from Duke University a major grant to develop a next-
+generation methane detector to sniff out natural gas leaks across America.
+
+The grant is part of the Methane Observation Networks with Innovative
+Technology to Obtain Reductions (MONITOR) program focused on reducing methane
+emissions associated with energy production to build a more sustainable energy
+future. Led by Jeffrey Glass, professor of electrical and computer engineering
+and Hogg Family Director of Engineering Management & Entrepreneurship, the
+three-year, $3 million project will design, build and commercialize a
+miniaturized, low-cost mass spectrometer that can serve as an efficient and
+sensitive methane detector.
+
+“Developing a miniature mass spectrometer to measure methane leaks at well
+platforms will translate into reduced emissions and less waste of natural
+gas,” said Glass. “It fits into ARPA-E’s goals of becoming less dependent on
+foreign oil, and it will also help decrease the impact of the natural gas
+industry on the environment.”
+
+A mass spectrometer can tell many elements and chemicals apart by variations
+in how they move through the device caused by differences in their mass. After
+passing through a narrow slit, a molecule’s flight path is determined largely
+by its size, causing different molecules to hit a detector in different
+places.
+
+The Duke team’s design, called a coded aperture, uses many slits, allowing
+many more molecules to pass through in a smaller amount of time. The result is
+a jumbled mess on the other side—but a jumbled mess that can be decoded.
+
+“One of the reasons Duke was awarded this grant is because we have a group
+here that’s fantastic at designing and using coded apertures,” said Michael
+Gehm, associate professor of electrical and computer engineering at Duke and a
+member of the project team. “We’ve been doing this with light for a long time,
+and we’re the first group in the world to take on this approach with ions
+instead of photons in a major initiative.”
+
+According to Charles Parker, manager of the Glass Laboratory, the fact that
+the design allows many more molecules to pass through gives it a much higher
+sensitivity than a traditional mass spectrometer, with no loss in accuracy.
+Not only does this allow the spectrometer to detect lower levels of a molecule
+such as methane, it also cuts down on size and cost.
+
+“The end goal of this project is to commercialize a mass spectrometer that is
+around 20 pounds and can fit in a backpack,” said Parker. “That’s a big
+improvement from today’s behemoths weighing hundreds of pounds that have to be
+transported by truck, which is why they’re rarely transported at all.”
+
+Such a small and sensitive methane detector could be carried to natural gas
+platforms and other parts of the infrastructure that could have potentially
+large leaks to check for escaping methane. The goal is to eliminate leaks to
+reduce methane emissions into the environment while simultaneously reducing
+America’s dependence on foreign oil.
+
+“Although this grant is focused on engineering a methane detector for well
+platforms, it could eventually be used from well head to end user,” said Jason
+Amsden, a research scientist in Glass’s lab, who sees potential for the design
+to be used to check small commercial pipelines and connections in consumers’
+homes.
+
+Future applications are expected to expand well beyond environmental
+detection. “I expect it will eventually be used in every doctor’s office,”
+added Glass. “As we move into an era of personalized medicine, a small, cost-
+efficient device like this could look at a person’s individual biochemical
+characteristics. Rather than having to send samples out, clinicians could get
+their answers in real-time at the point of care.”
+
+Because ARPA-E always has its eye on future commercialization prospects of the
+projects it funds, Duke is partnering with RTI International along with
+several students in Duke’s Masters of Engineering Management program to look
+at potential spin-off companies or tech transfer strategies. RTI
+International’s Innovation Advisors group specializes in commercialization of
+early stage technologies making them a natural choice for collaboration on the
+project.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

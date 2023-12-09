@@ -1,0 +1,186 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Mind—and an Ear—for Big Data
+
+February 23, 2017 | By Ken Kingery
+
+At Duke, engineering doctoral student Chris Tralie discovered a passion for
+analyzing the topology of music—and for teaching undergraduates about the
+power of data science
+
+Chris Tralie wasn’t even working with big data when he came to Duke as a
+graduate student. But a movement gaining steam here in 2013 helped him realize
+he had the technical skillset to reveal structures and patterns where others
+saw chaos—or nothing.
+
+“There were people working on Big Data problems in various departments when I
+first got to campus,” said Tralie, a doctoral candidate in electrical &
+computer engineering (ECE) and a National Science Foundation Graduate Research
+Fellow. “Then the Information Initiative at Duke launched. It was brilliant
+because it brought everyone together and let them learn from each other’s
+work. There was real and sudden excitement in the air.”
+
+Tralie found his niche while learning about topology with John Harer, a
+professor of mathematics with a secondary appointment in ECE. The class boiled
+down to understanding the “shape” of data. Tralie thought, “Why can’t we do
+this with music?”
+
+Tralie designed a program that analyzes many different musical parameters of a
+song and mathematically reduces each time point into 3D space. The resulting
+shape can help determine which genre of music a song belongs to and can even
+recognize covers of songs by other bands.
+
+“Nobody thought you could do that, because of the differences in vocals and
+instruments,” said Tralie.
+
+Tralie took his own academic journey and used it to turn other Duke students
+on to big data—creating a “Data Expedition” using his method for visualizing
+songs as a fun and approachable way to teach undergraduates how to design
+data-crunching algorithms.
+
+Data Expeditions are projects proposed and taught by graduate students within
+the context of an existing undergraduate course. “Data Expeditions and Data+
+both benefit our undergraduates by making technical subjects more relevant and
+exciting, but they’re also professional development opportunities for our
+graduate students,” said Robert Calderbank, director of iiD, which sponsors
+both programs. “Industry and academia both need people who can lead projects
+and manage multidisciplinary teams, so these experiences can provide a
+competitive advantage for Duke graduates.”
+
+“The Data Expeditions were really useful for me growing as a mentor,” said
+Tralie. “I got to work with really talented students who were still learning
+the basics and yet had amazing new ideas that I could learn from too. Those
+skills will translate to my future career, where I hope to be a faculty member
+advising graduate students of my own someday in engineering or applied math.”
+
+He also developed a new course for graduate students about using data
+analytics on video recognition challenges, like tracking heartbeats from video
+clips. Tralie’s own promising work in that arena can potentially add another
+element to an app developed to recognize signs of autism by another of his
+advisors, Guillermo Sapiro, the Edmund T. Pratt, Jr. School Professor of
+Electrical and Computer Engineering.
+
+After defending his dissertation this spring, Tralie plans to stay in
+academia, at least in part because he loves the teaching experiences he has
+had while at Duke.
+
+“Mentoring and teaching forces me to explain my work in simple terms, which
+raises my own understanding of it,” said Tralie. “Plus the students all end up
+going out and doing their own interesting things, which they can later teach
+me about in return. They’re like my eyes and ears out there in the fast
+developing world of Big Data.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

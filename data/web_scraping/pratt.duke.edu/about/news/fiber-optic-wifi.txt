@@ -1,0 +1,233 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Capturing Free-Space Optical Light for High-Speed WiFi
+
+February 9, 2021 | By Ken Kingery
+
+Plasmonic speed enhancements previously constrained to nanoscale phenomena are
+replicated on macroscopic devices
+
+Visible and infrared light can carry more data than radio waves, but has
+always been confined to a hard-wired, fiber-optic cable. Working with
+Facebook’s Connectivity Lab, a Duke research team has now made a major advance
+toward the dream of ditching the fiber in fiber optics.
+
+While working to create a free-space optical communication system for high-
+speed wireless internet, the researchers also show that speed and efficiency
+properties previously demonstrated on tiny, single-unit plasmonic antennas can
+also be achieved on larger, centimeter-scale devices.
+
+The research appears online Feb. 11 in the journal Optica.
+
+In 2016, researchers from Internet.org’s Connectivity Lab—a subsidiary of
+Facebook—outlined a new type of light detector that could potentially be used
+for free-space optical communication. Traditionally, hard-wired optical fiber
+connections can be much faster than radio wave wireless connections. This is
+because visible and near-infrared light frequencies can carry much more
+information than radio waves (WiFi, Bluetooth, etc).
+
+But using these higher frequencies in wireless devices is difficult. Current
+setups use either LEDs or lasers aimed at detectors that can reorient
+themselves to optimize the connection. It would be much more efficient,
+however, if a detector could capture light from different directions all at
+once. The catch is that increasing the size of an optical receiver also makes
+it slower.
+
+This was also the case for the Connectivity Lab’s design. A spherical bundle
+of fluorescent fibers captured blue laser light from any direction and re-
+emitted green light that could be funneled onto a small receiver. While the
+prototype was able to achieve rates of two gigabits per second, most fiber
+optic internet providers offer up to 10 Gb, and higher-end systems can push
+into the thousands.
+
+Looking for a way to speed up their free-space optical communication designs,
+the Connectivity Lab turned to Maiken Mikkelsen, the James N. and Elizabeth H.
+Barton Associate Professor of Electrical and Computer Engineering and Physics
+at Duke. Over the past decade, Mikkelsen has been a leading researcher in the
+field of plasmonics, which traps light on the surface of tiny nanocubes to
+increase a device’s speed and efficiency at transmitting and absorbing light
+by more than a thousand times.
+
+“The Connectivity Lab’s prototype was constrained by the emissions lifetime of
+the fluorescent dye they were using, causing it to be inefficient and slow,”
+said Mikkelsen. “They wanted to increase the efficiency and came across my
+work showing ultrafast response times in fluorescent systems. My research had
+only proven that these efficiency rates were possible on single, nanoscale
+systems, so we didn’t know if it could scale up to a centimeter-scale
+detector.”
+
+All previous work, Mikkelsen explains, has been proof-of-principle
+demonstrations with a single antenna. These systems typically involve metal
+nanocubes spaced tens to hundreds of nanometers apart and placed just a
+handful of nanometers above a metal film. While an experiment might use tens
+of thousands of nanocubes over a large area, research showing its potential
+for superfast properties has historically cherrypicked just one cube for
+measurement.
+
+In the new paper, Mikkelsen and Andrew Traverso, a postdoctoral researcher
+working in her laboratory, brought a more purposeful and optimized design to a
+large-area plasmonic device. Silver nanocubes just 60 nanometers wide are
+spaced about 200 nanometers apart, covering 17% of the device’s surface. These
+nanocubes sit just seven nanometers above a thin layer of silver, spaced by a
+coating of polymer that is jam-packed with four layers of fluorescent dye.
+
+The nanocubes interact with the silver base in a way that enhances the
+photonic capabilities of the fluorescent dye, causing a 910-fold increase in
+the overall fluorescence and a 133-fold emission rate enhancement. The
+superfast antenna also can capture light from a 120-degree field of view and
+convert it to a directional source with a record-high overall efficiency of
+30%.
+
+“Plasmonic effects have always been known to lose a lot of efficiency over a
+large area,” said Traverso. “But we’ve shown that you can take attractive
+ultrafast emission features of a nanoscale device and recreate it on a
+macroscopic scale. And our method is very easily transferrable to fabrication
+facilities. We can create these largescale plasmonic metasurfaces in under an
+hour with pipettes and Petri dishes, just simple liquid depositions on metal
+films.”
+
+The overall effect of the demonstration is the ability to capture light from a
+large field of view and funnel it into a narrow cone without losing any speed.
+To move forward with this technology, researchers would need to piece several
+plasmonic devices together to cover a 360-degree field of view and once again
+include a separate interior detector. While there is work to be done, the
+researchers see a viable path forward.
+
+“In this demonstration, our structure acts to efficiently relay the photons
+from a wide angle into a narrow angle without losing speed,” said Mikkelsen.
+“We didn’t integrate a regular fast photodetector like the Connectivity Lab
+did in their original paper yet. But we solved the major bottleneck in the
+design and the future applications are very exciting!”
+
+This work was funded by Facebook and Air Force Office of Scientific Research
+(FA9550-15-1-0301, FA9550-18-1-0326).
+
+CITATION: “Low-loss, Centimeter-Scale Plasmonic Metasurface for Ultrafast
+Optoelectronics,” Andrew J. Traverso, Jiani Huang, Thibault Peyronel, Guoce
+Yang, Tobias G. Tiecke, and Maiken H. Mikkelsen. Optica, Feb. 11, 2021. DOI:
+10.1264/OPTICA.400731
+
+## Related News
+
+July 27, 2015
+
+### Superfast Fluorescence Sets New Speed Record
+
+October 13, 2014
+
+### Revving Up Fluorescence for Superfast LEDs
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

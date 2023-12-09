@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pajic, Zavlanos Part of the New Air Force Center of Excellence
+
+June 6, 2019
+
+New center will focus on assured autonomy in contested environments for a wide
+variety of Air Force systems
+
+Two faculty members from Duke University’s Pratt School of Engineering are
+part of a new consortium that will pioneer the development of autonomous
+technologies for the United States Air Force to enable assured autonomous
+missions in complex, uncertain and adversarial conditions.
+
+The recently awarded consortium, called the Air Force Office of Scientific
+Research (AFOSR) Center of Excellence (CoE) for Assured Autonomy in Contested
+Environments, is led by the University of Florida, partnering with Duke, the
+University of Texas at Austin and the University of California Santa Cruz.
+
+Joining the center from Duke are Miroslav Pajic, the Nortel Networks Assistant
+Professor of electrical and computer engineering, and Michael Zavlanos, the
+Mary Milus Yoh and Harold L. Yoh, Jr. Associate Professor of mechanical
+engineering and materials science.
+
+The sponsorship will cover an initial two-year period of $2 million, with
+extensions up to a total of six years and $6 million dollars. The consortium
+will collaborate with the Munitions (RW), Sensors (RY), and Space Vehicles
+(RV) Directorates within the Air Force Research Laboratory (AFRL).
+
+“This Center of Excellence is the scientific embodiment of basic research for
+assured and trustworthy autonomy of the U.S. Air Force’s future cyber-physical
+systems operating in contested environments,” said Frederick A. Leve, program
+officer for the Dynamics and Controls Program at AFOSR.
+
+"Autonomous systems must execute high-level mission plans with verifiable
+assurances despite operating in uncertain, potentially adversarial
+environments, where the integrity and availability of sensor information and
+communications may be challenged,” continued Pajic. “Consequently, the
+center’s efforts will focus on development of analysis, design and synthesis
+techniques and tools for potentially resource-constrained systems with complex
+dynamics to enable their autonomous operation even in highly-contested
+adversarial environments.”
+
+Pajic’s research at Duke focuses on high-assurance system design methodologies
+for cyber-physical systems (CPS), which feature tight interaction of computing
+with the physical world. CPS are the next generation of safety-critical
+embedded control systems, in domains spanning from autonomous vehicles,
+industrial automation and advanced manufacturing, to medical devices and
+systems, energy-efficient buildings and smart cities.
+
+Pajic will lead the center’s efforts to design attack-resilient autonomous
+systems for the Air Force. He and his students will develop algorithms and
+design methods to ensure that these systems are capable of successfully
+performing their missions, with no human supervision, even under a range of
+cyber and physical attacks.
+
+Zavlanos’s work at Duke centers on creating algorithms that allow groups of
+robots to work autonomously and collaboratively toward completing complex
+tasks in unknown environments. Within the new consortium, he will focus on
+tasks that extend beyond the classical point-to-point navigation and can
+capture temporal and Boolean requirements. For example, they can be sequencing
+or coverage, data gathering, intermittent communication or persistent
+surveillance, and can be captured using formal languages.
+
+These methods are notoriously computationally expensive, especially for large
+numbers of robots, so his research will emphasize methods that are scalable
+and distributed. Reinforcement learning methods will also be developed for
+optimal decision-making in unknown environments.
+
+The AFOSR Center of Excellence will be the first to look at assured autonomy
+in adversarial environments. The center will function as a hub where ideas and
+people are freely engaged, and exchanges flow between military laboratories
+and universities. Participating universities and military laboratories will
+jointly publish the research results.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

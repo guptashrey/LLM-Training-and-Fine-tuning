@@ -1,0 +1,445 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Five Days of Fieldwork
+
+November 1, 2017
+
+BME students test a diagnostic tool in Liberia
+
+The generator that powers the Redemption Clinic doesn’t click on until 10:30
+in the morning, but this delay doesn’t slow the crowd of patients who fill the
+health care center before 8 a.m. In one corner of the clinic, patients wait on
+rows of wooden benches as healthcare workers sort through medical files, the
+walls surrounding them adorned with murals that illustrate basic health
+instructions: wear a condom to prevent HIV, wash your hands to prevent the
+spread of germs, sleep with a mosquito net to prevent malaria and yellow
+fever.
+
+### From Duke BME Magazine
+
+Explore the Fall 2017 issue
+
+The clinic is adjacent to the larger Redemption Hospital in the densely
+populated community of New Kru Town, a neighborhood on the outskirts of
+Monrovia, Liberia’s capital city. Men and women of all ages come in to seek
+free medical care for a variety of issues, but one corner of the clinic is
+dedicated to a very specific purpose––screening children for signs of
+malnutrition.
+
+Staff from the Ministry of Health work their way through the growing queue of
+mothers and children, measuring the children’s weight, height and arm
+circumference before recording the measurements onto small squares of paper.
+The children vary in age, with the youngest in the crowd appearing to be no
+more than three months old. Some children seem content to calmly watch the
+process, while others cry when they’re taken out of their mother’s arms,
+contributing to the orchestra of noise that echoes through the clinic’s
+hallways.
+
+This was the scene that greeted Daniel Joh and Angus Hucknall when they
+arrived at Redemption on an early August morning. Joh, an MD-PhD student at
+Duke University, and Hucknall, a senior research scientist at the university,
+had traveled from the U.S. two days earlier, making the journey across the
+Atlantic to complete the next stage of their research––conducting a field test
+for a diagnostic device that would rapidly test for biomarkers of
+malnutrition.
+
+“You guys ready to get set up?” asked Trenton Dailey-Chwalibóg, a research
+project manager from the French non-governmental organization Action Against
+Hunger/Action Contre la Faim (ACF). For two years, organization has partnered
+with Liberian health authorities and Duke University Medical Center to
+investigate the clinical significance of the current diagnostic criteria of
+malnutrition in hospitals like Redemption. Through his role at ACF, Dailey-
+Chwalibóg had helped the Duke team coordinate their field test, and was now
+acting as their unofficial guide to Monrovia.
+
+Joh grabbed his gear. “Let’s get started!”
+
+## New Targets and New Tools
+
+Today, more than 25 percent of children under age five are malnourished.
+According to the United Nations Children’s Fund, more than 16 million of these
+children suffer from the most extreme form of the condition, severe acute
+malnutrition (SAM). Children with SAM have very low weights relative to their
+heights or a very small upper arm circumference. SAM is a major cause of death
+in children under five, as its victims are more likely to contract diarrhea,
+pneumonia and other communicable diseases that their immune systems can’t
+fight off.
+
+But despite the severity and extent of the problem, there is currently no
+simple test to diagnose malnutrition.
+
+“The World Health Organization recommends that we use two different criteria
+to diagnose severe acute malnutrition, with the first being the weight-for-
+height z-score, which is like a measurement for body mass index,” explains
+Dailey-Chwalibóg. “But we also measure their middle upper arm circumference,
+called MUAC. If children have a MUAC of less than 115 millimeters, that tells
+us that they are considered severely acutely malnourished and need
+rehabilitation, so we conduct more tests to determine if we can take them into
+our outpatient program. But what’s interesting is that these two measurement
+criteria don’t always identify the same populations of children as being
+severely acutely malnourished.”
+
+Based on these measurements, Dailey-Chwalibóg and his colleagues sort children
+into three categories: children who are considered malnourished based solely
+on their MUAC score; children who are considered malnourished just based on
+their z-score; and children who have _both_ a MUAC of less than 11.5
+centimeters and a low z-score.
+
+Focusing on both criteria poses a challenge, as it’s difficult to provide
+completely consistent measurements in the clinics, especially when a child is
+protesting and moving around during the measurement process. Even if a child
+remains still, there is no way to ensure that clinicians around the world have
+access to the same tools and training that would allow for consistent
+measurements.
+
+“Being able to use a rapid diagnostic test for malnutrition would relieve the
+staff of a huge burden,” says Issa Kemokai, a research program manager with
+ACF based in Liberia. “It would mean that we could help children regardless of
+the measurement criteria, and it would help us make our rehabilitation efforts
+more accurate.”
+
+But to make an efficient diagnostic test, researchers would need a single,
+easy-to-measure biological target. The problem was that no clear target for
+malnutrition had been identified.
+
+That changed after **Dr. Michael Freemark**, the division chief of pediatric
+endocrinology at the Duke University School of Medicine, conducted a field
+test in Uganda in 2014 to examine metabolic changes in children who were
+undergoing treatment for malnutrition.
+
+> “We recognized that 35 percent of the deaths of children around the world
+> are either caused by or exacerbated by malnutrition."–Michael Freemark
+
+“We analyzed comprehensively the hormonal and metabolic changes that occurred
+before and during recovery--no one had really ever done that before," says
+Freemark. "The factor that stood out as the most powerful determinant of the
+risk of death was a low level of a hormone called leptin.”
+
+Leptin, a marker of energy storage, is produced by white adipose tissue.
+Malnourished children have a low amount of this fatty tissue, making it more
+difficult for them to maintain the energy needed to keep their bodies properly
+functioning under severe stress. According to Freemark, this hormone also
+helps stimulate various components of the immune system, so patients who have
+lower levels of leptin can also develop an immune deficiency, making them more
+susceptible to infections.
+
+Freemark presented his findings at the 2014 International Atomic Energy Agency
+Conference, where he met with several researchers who expressed interest in
+studying leptin, including Dr. Benjamin Guesdon, a staff scientist for ACF.
+Together, they discussed forming a collaboration to use leptin as a biomarker
+for a diagnostic test.
+
+“Drawing blood from a patient and shipping it back for testing at Duke wasn’t
+really feasible,” says Freemark. “We needed a test that could work in settings
+around the world where malnutrition is a significant problem, and a colleague
+suggested I meet with **Ashutosh Chilkoti**, the chair of Duke’s biomedical
+engineering department, to see if he had any ideas about a point-of-care
+diagnostic test.”
+
+At the time, Chilkoti was working with Hucknall, Joh and other students in his
+lab to develop a diagnostic test using a unique non-stick coating that acted
+like Teflon for molecules and cells found in blood. “I told Tosh what I was
+looking for and asked for his advice, and he suggested using this new tool
+that he’d helped create,” says Freemark. “We ended up writing a grant with ACF
+and together we created a portable diagnostic device to measure various
+proteins including leptin.”
+
+Now, three years after the initial collaboration, they were going to see how
+the test performed in the field.
+
+## Trials and Triumphs ****
+
+Joh and Hucknall were led down a dark hallway to a room in the back of the
+clinic, where posters from ACF illustrating symptoms of malnutrition were
+nailed to the wall. A large wooden desk was in the middle of the room, facing
+away from a barred window that peered back into the clinic.
+
+“You guys can set up your stuff here. I’ll be back to bring you more samples
+as our patients come in,” Trenton said, leaving the room to help the staff
+with measurements.
+
+Joh nodded and began unloading his pack, pulling out two small blue boxes that
+contained their diagnostic test––the D4 assay.
+
+In resource-limited settings, clinicians typically rely on rapid diagnostic
+tests, called lateral flow tests, which can provide a diagnosis in five
+minutes and are highly portable. But the trade-off is a diminished
+sensitivity. Highly sensitive tests, like the ELISA platform, can give
+researchers a highly accurate analysis of a sample, but they aren't portable
+or rapid.
+
+Duke’s D4 assay was designed to combine the sensitivity of an ELISA platform
+with the portability and speed of a lateral flow assay.
+
+The D4 assay uses a matched pair of antibodies to detect and capture leptin in
+a biological sample. The array contains two types of antibodies ––immobilized
+capture antibodies and soluble detection antibodies––which are tagged with a
+fluorescent marker to allow the researchers to identify how much leptin is
+present. When a drop of blood is placed on the slide, the detection antibodies
+dissolve, separate from the array and bind to the leptin in the blood. These
+fluorescing antibody-leptin pairs then attach to the capture antibodies that
+are still on the slide.
+
+Unlike other diagnostic tests, D4 assay’s antibody array is printed on a novel
+polymer brush coating that works like Teflon to prevent non-target proteins
+from attaching to the surface of the slide. By preventing unwanted proteins
+from binding to the assay, the polymer brush makes it easier to detect low
+levels of target proteins by getting rid of the ‘background noise’ on the
+chip. Before reading the assay, users wash the chip in a buffer solution and
+dry it in a centrifuge before viewing the reading with a smartphone camera
+attachment.
+
+“This can achieve comparable sensitivity to the ELISA assay within 15 to 30
+minutes,” explains Joh. “If we think we need even greater sensitivity then we
+just let the sample incubate longer.”
+
+Initially, the team had packed 250 samples of the test, but during
+verification testing at ACF headquarters, they realized something was wrong.
+“When we read the slides with the smartphone detector, you should be able to
+see quantum dots, and those will tell you how much leptin is present in the
+sample,” says Jay Gupta, a sophomore studying biomedical engineering at Duke
+and the third member of the Chilkoti lab in Liberia for the field test. “But
+when we tested the slides we found that most of the tests we packed remained
+blank, where control dots didn’t even show a reaction.”
+
+The malfunction may have been caused by the drastic flux in temperatures
+during the assays’ journey from the USA to the cold cargo hold to Liberia, or
+by the difference in humidity between Liberia and the laboratory environment
+at Duke—but it was clear something had interfered with the activity of the
+biological reagents on the slides.
+
+After testing more samples from the remaining boxes, the team found that two
+boxes of assays still worked, though the results were faint. To get a more
+sensitive reading, they decided to try testing the assays with serum rather
+than whole blood to get a more concentrated sample. They also let the assay
+sit for an hour instead of 15 minutes to achieve greater sensitivity. By
+making these changes, the team could still test the D4 assay in the field.
+
+“We anticipated that there would be problems during these field tests,” says
+Chilkoti. “This iteration of design-build-test-modify and test again is
+inherent in all tech development, and it’s even more critical when the
+technology is made for demanding environments where point-of-care tests are
+used.”
+
+Dailey-Chwalibóg returned with a blood sample from a child who has been
+recruited into ACF’s OptiDiag project, a study designed to describe and
+compare the vulnerability of SAM patients based on their diagnostic category
+(MUAC, z-score or both).
+
+“Once a child is identified as being a candidate for OptiDiag, ACF workers
+will help the mother or caretaker fill out a questionnaire about her child’s
+health history and eating habits, and they’ll collect hair, urine and blood
+samples that we use in diagnostic tests to identify biomarkers, like leptin,”
+explains Dailey-Chwalibóg. “These kids then receive a weekly nutritional
+supplement with the nutrients they need for recovery, and return to the clinic
+weekly for a medical follow-up until they recover.”
+
+Joh snapped on the gloves and took the sample. After separating the serum from
+the blood, he applied it onto one of the D4 slides, setting a timer for an
+hour. Children peered into the room from the barred window behind Daniel,
+watching with curiosity as he worked.
+
+After an hour passed, Joh rinsed off the slide in the buffer solution before
+handing it to Angus, who plugged the slide into the phone attachment and
+turned on the camera. Although the quantum dots were faint, they were visible.
+
+“I think we’ll get a better reading using the tabletop scanner,” Joh said as
+he examined the photo. They planned to send the completed assays back to Duke
+where they could read them with the stronger scanner to get more accurate
+results.
+
+Once they finished the first slide, Joh and Hucknall cleaned up and prepared
+to run a second test while they waited for another sample.
+
+In addition to testing the D4 assay in Liberia, the team had also decided to
+collect samples to ship back to Duke so they could test them on freshly
+printed D4 assays and potentially determine what went wrong with their slides.
+
+Traditionally, biological samples collected in the field are transported by a
+cold chain process, which requires researchers to keep them frozen or
+refrigerated to prevent protein degradation. That wouldn’t work in this case,
+so the team opted to use the Neoteryx Mitra micro-sampler, a unique tool
+shaped like a Q-Tip that allows researchers to collect and ship biological
+samples at room temperature. A polymer in the micro-sampler preserves the
+sample and easily allows it to be reconstituted in the lab.
+
+“We’ll be able to bring these samples back to Duke and process them normally,
+as well as on the D4 chips as originally intended,” Gupta explained. “In doing
+so, we’ll be able to generate essential data which we can use to answer
+questions about how the D4 performs and how sampling methods like the Mitra
+perform in settings we haven’t tested yet.”
+
+## Farewell
+
+After a morning of collecting samples from children at the Slipway Clinic
+across the Mesurado River, Gupta joined Hucknall and Joh at the Redemption
+Clinic, where he helped run more D4 assay tests. They worked efficiently in a
+small ACF storeroom, holding vials up to the light to pipette the serum and
+placing the micro-samplers into their bags for shipment.
+
+Over the next three days, the team continued their work in this manner, with
+Hucknall and Joh traveling to Redemption to test the assays in the clinic
+while Gupta gathered samples at Slipway. The novel tests might not have worked
+as the team intended, but they did have a better understanding of the
+parameters where these diagnostic tests were needed.
+
+“Even the initial issue with the antibodies on the assay taught us a lot,” Joh
+said on the last day in Liberia. “The test won’t be useful to anyone if we
+can’t safely ship it, so it’s good for us to know and address.”
+
+For Chilkoti, the field test provided the team with an important opportunity
+to test their technology for any weak links or critical issues.
+
+“Now that we’ve had a chance to identify problems, this test gives us the
+confidence and critical information we need to make crucial modifications to
+the technology that we are hopeful will lead to success in the next round of
+field testing,” says Chilkoti.
+
+> “No amount of testing at Duke would have brought these issues to the
+> forefront, which is why the trip to Liberia was so useful, despite the
+> setbacks the team faced.”–Ashutosh Chilkoti
+
+The team left nearly 30 micro-samplers with Dailey-Chwalibóg and the ACF team
+to collect more samples over the coming weeks, with plans to ship them back to
+Duke when Dailey-Chwalibóg returned to Paris. As everyone said their final
+goodbyes there was already a discussion about how to improve the assay’s
+design for the next trip.
+
+“We’re bringing samples back to Duke and we’ll conduct a lot of experiments to
+see what went wrong with the sensitivity on the slides, but this trip showed
+us how this tool could be implemented in resource-limited settings,” said Joh.
+
+With their work complete and their bags packed, Gupta, Hucknall and Joh said
+goodbye to Dailey-Chwalibóg and Kemokai back at ACF Liberia base. “I’m sure
+we’ll see everyone soon,” Trenton said before everyone piled into the car that
+would take them back to the airport. “It’s great to see the progress on this.”
+
+“Definitely,” said Joh. “But there is always more to do.”
+
+Click here to read about other Duke BME researchers working on novel
+diagnostic tools.
+
+* * *
+
+OptiDiag is supported by the Humanitarian Innovation Fund, a program managed
+by ELRHA (Enhancing Learning and Research for Humanitarian Assistance), ECHO
+(European UnionCivil Protection and Humanitarian Aid) and the Fondation ACF
+pour la Recherche et l’Innovation. The views expressed herein should not be
+taken, in any way, to reflect the official opinion of these donors and they
+are not responsible for any use that may be made of the information it
+contains.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,161 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pajic Wins National Science Foundation CAREER Award
+
+March 22, 2017
+
+Grant will develop new techniques to guard against cyberattacks against cyber-
+physical systems.
+
+Miroslav Pajic, assistant professor of electrical and computer engineering at
+Duke University, has won a 2017 National Science Foundation Faculty Early
+Career Development Program (CAREER) award. Reserved for talented faculty
+members within the first five years of beginning their own research
+enterprise, the grant provides $440,000 over five years to support their
+research.
+
+Pajic’s research project, titled “Foundations for Secure Control of Cyber-
+Physical Systems,” focuses on creating new ways to guard against cyberattacks
+in these safety-critical systems. As autonomous vehicles become commonplace
+and medical devices become connected to the Internet of Things, opportunities
+for hackers increase, as do the stakes for thwarting their efforts.
+
+With the increase in complexity of these cyber-physical systems (CPS),
+traditional security standards and methods become inadequate. Pajic and his
+group will develop scientific foundations for the design of security-aware
+CPS. To ensure system safety even in the presence of attacks, they will
+develop algorithms for attack-resilient control and intrusion detection, as
+well as techniques for efficient controller instrumentation and recovery if
+the system has been compromised.
+
+Their approach is to exploit physical phenomena present in any interaction
+between cyber and physical worlds to derive cyber-physical security techniques
+with strong performance and resiliency guarantees. Pajic will also explore the
+use of security-aware human-cps interactions to additionally improve security
+guarantees, by taking advantage of the human power of inductive reasoning and
+the ability to provide context, in systems where a human is still present.
+This project will have
+
+This project will have an immediate industrial impact as Pajic and his team
+will develop security-aware automotive controllers for connected and
+autonomous vehicles with varying levels of autonomy and human supervision.
+
+“We’re moving into a new era of societal changes with the introduction of
+autonomous vehicles and smart cities,” said Pajic. “But if these systems are
+going to interact with and—even more challenging—control the world around us,
+they need to be built in a way that is safe, reliable and secure.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

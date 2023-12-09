@@ -1,0 +1,200 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# What Happens When a Dolphin Holds Its Breath?
+
+May 4, 2018 | Miranda Volborth
+
+_In a capstone design course, Duke ECE seniors create prototype sensors to
+find out_
+
+When dolphins dive deep to search for prey, their respiration stops. Their
+heartbeat slows. Yet they are still able to power all of the functions they
+need to hunt. No one is entirely sure how they do it, because no one has ever
+been able to measure their blood oxygenation levels during these deep dives.
+It's a logistically complex challenge; how do you attach a sensor to a massive
+sea-dwelling creature without doing harm? The rudimentary data that
+researchers have gathered so far has come from heart rate monitors bound to
+dolphins' bodies with thick, wide neoprene straps—dolphin girdles,
+essentially.
+
+This spring, Duke researchers tackled that challenge, designing sensors that
+they hoped would be able to better collect more of that vital information. The
+sensors work in much the same way that a pulse oximeter does—by reflecting
+light through the dermis to the blood-rich tissue beneath, and back to a
+photodetector sitting on the surface of the skin. The sensor incorporates a
+saltwater switch that tells the device when to start recording data, when to
+stop, and when to wirelessly communicate the resulting information back to the
+researchers. The sensor must be lightweight, power-efficient, and small enough
+to fit wholly inside a saucer-sized suction cup attached to an animal's body.
+
+Here's the really impressive part: these researchers weren't faculty. They
+were undergraduate students in a Duke Electrical and Computer Engineering
+design course, which synthesizes foundational ECE knowledge and skills through
+a single, unique sensor interface and design challenge.
+
+Nan Jokerst, the J. A. Jones Professor of Electrical and Computer Engineering
+at Duke, and Associate Professor Martin Brooke have co-taught this course
+together for 23 years, continually refining the syllabus and introducing new
+design themes and challenges. This spring, they collaborated with Dave Haas, a
+Duke PhD candidate in Marine Science and Conservation working under Professor
+Doug Nowacek, the Randolph K. Repass and Sally-Christine Rodgers University
+Associate Professor of Conservation Technology. Haas' research focuses on
+measuring cardiac variation and blood oxygen saturation in cetaceans—aquatic
+mammals including dolphins, whales and porpoises. Haas volunteered as a
+teaching assistant in the course, and is using the students' work to inform
+his own cetacean physiology sensor design, which also incorporates pressure
+sensors and accelerometers that convey information about the animal's depth
+and body orientation—like whether it's moving toward food, avoiding predators,
+or just cruising.
+
+"I've leapfrogged ahead because of their work," said Haas. "I could easily
+take their bio-optical sensor designs, integrate it with my tag system and my
+data collection system, and actually use that on live dolphins."
+
+As Haas leverages the work of the students, so are they able to leverage the
+unique resources of Duke's many collaborators—like UNC-Wilmington's samples of
+dolphin skin, stored in a subzero freezer in Duke's Shared Materials
+Instrumentation Facility.
+
+“When the students want to run tests, Dave [Haas] will bring the frozen
+dolphin tissue samples out and defrost a section, and then they can run the
+test on the actual mammalian tissue. They’re looking at things like signal-to-
+noise ratio, and trying to determine whether enough light gets transmitted
+through this pretty thick dolphin skin, so that we can see the reflected light
+coming back at our photodetector,” said Jokerst.
+
+The students worked in teams to prototype their designs, each team competing
+to build the most cost-effective sensor with the lowest energy consumption,
+smallest footprint and best performance. They were faced with real-world
+production challenges, too: lead times for acquiring parts that didn’t work
+with the development schedule, vendors that occasionally misplaced orders, and
+a rigorous schedule of weekly presentations to upper management—in this case,
+their instructors.
+
+Though the coursework was demanding, both teams exceeded expectations, earning
+perfect scores, plus bonus points, on their sensors’ design and performance at
+their final demonstration.
+
+Kimberly Eddleman, ECE ’18, credited the weekly presentations for keeping the
+groups motivated, but also noted that Haas’s participation was incredibly
+valuable to both teams throughout the process. “It probably would have taken
+more time and been more stressful without having an amazing mentor like Dave,”
+she said. “We could bounce ideas off of him, and ask him questions that we
+couldn’t find the answers to online.”
+
+Study Electrical and Computer Engineering at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

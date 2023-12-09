@@ -1,0 +1,266 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Student Team Wins Second Guinness World Record for Vehicle Efficiency
+
+July 10, 2019 | Miranda Volborth
+
+Making aerodynamic improvements to its car allowed the team to capture the
+world record for electric vehicle efficiency
+
+A vehicle built at Duke University has broken the Guinness World Record for
+electric vehicle efficiency, traveling 797 miles per kilowatt-hour, or 27,482
+MPGe. The new record was confirmed by Guinness on July 9.
+
+> A vehicle built at Duke University has broken the Guinness World Record for
+> electric vehicle efficiency, traveling 797 miles per kilowatt-hour, or
+> 27,482 MPGe.
+
+The successful run was completed at Galot Motorsports in Benson, NC. The Duke
+team unseated team TUfast from the Technical University of Munich for the win.
+Duke Electric Vehicles presidents Gerry Chen and Shomik Verma, along with
+recent graduates Patrick Grady ECE ’18 and Aniruddh Marellapudi BME ‘17 and
+mechanical engineering students Yukai Qian and Olga Suchankova, made up the
+world record-breaking team.
+
+This is the second Guinness World Record for vehicle efficiency the team has
+broken in the past year. Last July, the student-run Duke Electric Vehicles
+(DEV) club achieved a new record for fuel efficiency with a hydrogen fuel cell
+car named Maxwell. That car also won the Shell Eco-marathon Americas
+competition in Sonoma that same year, as well as a technical innovation prize
+for its unique fuel cell design.
+
+Chen, an electrical and computer engineering student, pointed out that while
+hydrogen fuel cell systems are notoriously finicky, electric battery
+technology is tried, true and predictable, so the team was able to focus
+almost exclusively on perfecting the vehicle’s aerodynamics over the past
+year. By improving aerodynamic performance by 39 percent, the team was able to
+capture the new world record.
+
+> The car has a drag force of less than one Newton at the race speed of
+> 6.7m/s, as measured in a full-scale wind tunnel. For comparison, a Toyota
+> Camry has a drag force of over twenty Newtons at the same speed.
+
+Qian’s weekly consultations with computational fluid dynamics engineers at
+Altair, a global information technology company, enabled huge leaps forward in
+the design of the new car, which has a drag force of less than one Newton at
+the race speed of 6.7m/s, as measured in a full-scale wind tunnel. For
+comparison, a Toyota Camry has a drag force of over twenty Newtons at the same
+speed.
+
+“Breaking the record absolutely would not have been possible without Yukai’s
+aerodynamic improvements,” said Grady.
+
+“Compared with Maxwell, our 2018 world record car, the new car uses a
+drastically different front wheel fairing design,” added Qian. “On Maxwell,
+the wheel fairings acted like vertically oriented wings and generated large
+wingtip vortices. The new fairing produces hardly any vortex.”
+
+Working out of their space in The Foundry, a 7,600-foot makerspace for Duke
+student clubs, the team also sharpened the trailing edges (the rearmost part
+of front fairings and the tail), which made the production of the carbon fiber
+shell more difficult. The team again consulted with outside specialists, this
+time at VX Aerospace, who advised using a technique called resin infusion to
+ensure the vehicle’s smooth surface and accurate shape.
+
+“Last but not least, we minimized the pressure changes of the air flowing
+under the car by making the leading edges slanted instead of vertical, and
+maximizing the space between the two front fairings,” said Qian.
+
+The team uses a motor specifically designed by Japanese manufacturer Mitsuba
+for high-efficiency prototype vehicles. It features a direct drive system
+enabling regenerative braking, which reduces cornering losses by more than 25
+percent.
+
+### The winning team
+
+Congratulations to all the students who developed the record-breaking vehicle:
+
+Gerry Chen, ECE '19  
+Shomik Verma, ME '19  
+Ryan YoungJae Kwon, ME '19  
+Uriel Salazar-Angelini, ME '19  
+Brian Weil, ME '20  
+Daichi Matsuda, ME '20  
+Jiwoo Song, ME '20  
+Yunfan Zhang, CS '20  
+Max Wang, ME '21  
+Mohaimenul Islam, ME '21  
+Olga Suchankova, ME '21  
+Vivian Kirby, CS '21  
+Will Smith, ME '21  
+Yukai Qian, ME '21  
+Isaac Poarch, ME '22  
+Jack Proudfoot, ECE '22  
+Quinn Edwards, ME '22
+
+Another important component of the vehicle’s design was its tires. According
+to Chen, competitors in the arena of concept-vehicle efficiency recognize that
+only one type of tire delivers the necessary performance a discontinued radial
+slick tire manufactured by Michelin specifically for the Shell Eco-marathon
+and known as a “black Michelin.”
+
+As tire after tire blew out on the track, the team’s hoard of black Michelins
+dwindled. To conserve the precious few remaining tires for competition, the
+team performed an informal experiment to see how much abuse the black
+Michelins could sustain before popping. They bought cheaper tires,
+overinflated them, and fitted them to ill-sized rims in an attempt to
+understand why they were losing so many—but the newer tires refused to pop.
+
+> “The DEV team is a great example of how Duke and the Pratt School of
+> Engineering successfully cultivate an environment where talented engineering
+> students can thrive, develop their own innovative solutions to energy
+> problems, and ambitiously tackle global challenges."
+>
+> NICO HOTZ, DUKE ELECTRIC VEHICLES FACULTY ADVISOR
+
+The aging, petroleum-based rubber in the tires was simply beginning to
+degrade, the team suspected, and Chen predicted that soon, many tires
+stockpiled by teams around the world may no longer be viable.
+
+“This was our window,” said Chen. “For any teams who want to try to overthrow
+our standing efficiency records—act fast, because the window may be closing.”
+
+Duke Mechanical Engineering and Materials Science faculty member Nico Hotz, an
+energy technology expert, has advised DEV since 2018, and said that there’s
+more to the group than setting records. “The DEV team is a great example of
+how Duke and the Pratt School of Engineering successfully cultivate an
+environment where talented engineering students can thrive, develop their own
+innovative solutions to energy problems, and ambitiously tackle global
+challenges. An important part of this environment is Duke’s Energy Initiative,
+which connects and supports students, faculty, industry, and funding sources,
+to allow student teams like DEV to be successful—and even break world
+records.”
+
+Learn about Duke Electric Vehicles
+
+## Related News
+
+August 07, 2018
+
+### Duke Students Break Guinness World Record for Fuel Efficiency
+
+April 27, 2018
+
+### Duke Engineers Score a Triple Win at Shell Eco-marathon Americas 2018
+
+May 02, 2017
+
+### Duke Electric Vehicle Takes First Place at Shell Eco-Marathon Americas
+2017
+
+Duke Engineering's signature undergraduate experience »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

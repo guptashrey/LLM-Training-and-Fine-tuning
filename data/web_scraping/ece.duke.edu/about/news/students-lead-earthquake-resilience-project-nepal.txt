@@ -1,0 +1,261 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Students Lead Earthquake Resilience Project in Nepal
+
+October 17, 2019 | Miranda Volborth
+
+Duke civil and environmental engineering team partners with engineering
+students in Nepal to develop earthquake resilience technology
+
+Duke engineering student Rachael Lau received two unexpected gifts from the
+universe, in honor of her 21st birthday.
+
+The first gift was being seated next to a Beloit College undergraduate from
+Kathmandu on the first leg of her trek from Illinois to Nepal. Lau was
+traveling to advance plans for a project supporting earthquake resiliency in
+Nepal. Her classmate and fellow NAE Grand Challenges Scholar Tenzin Yangkey,
+and civil and environmental engineering professor Henri Gavin would join her
+later, but for the time being she was flying solo. She was happy to have
+someone to talk to during the 17-hour flight, especially someone who had a
+personal stake in her project.
+
+Lau’s second gift was having their conversation overheard by another
+passenger— a Notre Dame University PhD candidate studying behavioral responses
+to earthquakes, who introduced herself to Lau at baggage claim when the plane
+landed in Delhi.
+
+The serendipity of meeting two student travelers who shared her interests was
+delightful, said Lau. But over the course of the summer, as the importance of
+understanding the human response to earthquake warnings would become clear,
+the chance encounter with the second student would help shape the future of
+the project.
+
+## Students Step Up
+
+In April and May of 2015, a series of powerful earthquakes with magnitudes of
+7.8 and 7.3 devastated Nepal, taking nearly 9,000 lives and costing $7 billion
+in damages—nearly half the country’s GDP. Pratiksha Sharma ’18 was a first-
+year Duke electrical engineering student at the time. That summer she worked
+in her home country, alongside fellow Nepali students studying at Duke, on
+relief efforts to supply shelter to outlying regions before the summer monsoon
+season started. By the time she began her second year at Duke she nurtured a
+bold ambition: to use her engineering knowledge to mitigate the disastrous
+effects of future earthquakes in Nepal.
+
+By the time Sharma graduated, she had developed a microcontroller-based
+earthquake detection sensor and deployed it in two locations in Kathmandu,
+where it is working effectively to this day. It was an incredible beginning to
+her dream of establishing an earthquake warning system in Nepal—but as any
+engineer knows, the first design is very rarely the final product.
+
+Gavin, who served as Sharma’s advisor, saw the potential to expand her project
+and strengthen its impact by working with partners in Nepal to advance sensor
+network technology and reliable AI. What’s more, he saw that students could
+take the helm. He recruited Lau, a civil and environmental engineering major
+who had already racked up significant international project management
+experience in Madagascar and China, for the project. Lau, in turn, reached out
+to Yangkey, who she knew to be interested in environmental issues facing the
+Himalayas. The team, which also included Flurina Boslough ME ’20, met weekly
+throughout the year, building connections with government agencies, NGOs, and
+their university partner, Tribhuvan University’s Institute of Engineering
+(IOE) in Lalitpur City, Nepal.
+
+At IOE—which is recognized as the country’s top engineering school—dozens of
+students had put their names forward to be considered for the project, and
+three civil and electrical engineering faculty members selected 26 motivated
+and talented individuals to go forward. At the very first meeting bringing
+together Duke and IOE, the students sorted themselves into three technical
+teams: hardware and software development, seismic attenuation modeling, and
+hazard analysis.
+
+They hit the ground running, and to say that Gavin was impressed by the teams’
+engineering prowess would be an understatement. “Talent and potential is a
+gift that is uniformly spread around the globe, and is concentrated in places
+like IOE,” said Gavin.
+
+Working together, the students from Duke and the IOE Pulchowk Campus improved
+the original sensor’s operating system to support an IoT server, making it
+programmable via the internet, while at the same time securing it from the
+threat of cyber hazards. They also extended the sensor’s original algorithm to
+make cooperation amongst multiple sensors possible. From the first three
+seconds of a quake’s pressure wave, or P-wave—the waves that precede the more
+damaging shear waves—they can invert to determine its origin and magnitude,
+and triangulate to determine the distance from the other sensors in the
+network.
+
+With all earthquake early warning systems, the tolerance for false positives
+(vibrations that are from a source other than seismic events) is essentially
+zero. The team can achieve this through continued refinement of P-wave
+detection and seismic source inversion.
+
+But there is another challenge—perhaps a greater one—to the future success of
+the project.
+
+## Clear Communications
+
+In July 2019, a magnitude 7.1 earthquake shook the Mojave Desert with quakes
+so strong that they were felt by residents of Los Angeles, 25 miles to the
+south. Half a million of those residents had downloaded a new app that was
+supposed to give advance warning of earthquakes, the LA Times reported. But,
+in this case, the app was silent.
+
+Prevailing public perception was that the app had failed. Seismologists,
+however, stated that it worked exactly as it was supposed to; in Los Angeles,
+the quakes didn’t meet the threshold necessary to generate an alert.
+
+The miscommunication illustrated a critical point—that efficiently and
+accurately gathering data solves only one part of the problem, and
+understanding how to best translate the data to be actionable and useful is
+quite another.
+
+For the Duke-IOE project, this means incorporating social knowledge alongside
+technical expertise. “It is our highest priority going forward,” said Gavin.
+“We need to build, in an evidence-based way, the knowledge required to
+demonstrate that this is a safe and viable solution—including knowledge of
+human response. Of all the aspects involved, the social science aspect is
+probably the most challenging and certainly the most understudied.”
+
+When the team decided that it was necessary to formally incorporate social
+sciences into their project, Lau knew exactly who to reach out to for advice
+on how to begin: Shana Scogin, the PhD student she’d met in the airport in
+Delhi, at the beginning of the summer. “She began asking us questions that we
+as engineers need to be thinking about, in terms of how earthquakes and
+warning systems are perceived socially,” said Lau.
+
+To delve into the realm of social sciences more deeply, Yangkey and Lau will
+teach a “House Course” in the spring of 2020, which will broadly cover the
+human response to both natural and human-made disasters.
+
+“The house course is primarily meant for facilitating discussions on
+understanding modern disaster through our lens of intersectional identities,”
+explained Yangkey. “We also hope to explore social sciences as part of
+disaster preparedness and response, which is one of the most important things
+for future project development, and one of the most challenging to get right.”
+
+At the same time, Yangkey and Lau will continue to work on getting the
+sensor’s false-positive rates down to zero.
+
+To demonstrate a commitment to the long-term vision of the project, Duke and
+IOE recently signed a Memorandum of Understanding that details objectives over
+the next several years.
+
+“Through peer-to-peer co-development, students are more than full partners in
+this project—they’re leaders,” said Gavin. “They’re leading their world toward
+a more resilient future.”
+
+More News From Duke CEE
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

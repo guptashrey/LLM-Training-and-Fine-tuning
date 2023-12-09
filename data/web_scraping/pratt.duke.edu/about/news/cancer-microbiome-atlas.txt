@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Cancer Microbiome Reveals Which Bacteria Live in Tumors
+
+January 13, 2021 | By Ken Kingery
+
+Researchers clean up data to identify the bugs better
+
+Biomedical engineers at Duke University have devised an algorithm to remove
+contaminated microbial genetic information from The Cancer Genome Atlas
+(TCGA). With a clearer picture of the microbiota living in various organs in
+both healthy and cancerous states, researchers will now be able to find new
+biomarkers of disease and better understand how numerous cancers affect the
+human body.
+
+In the first study using the newly decontaminated dataset, the researchers
+have already discovered that normal and cancerous organ tissues have a
+slightly different microbiota composition, that bacteria from these diseased
+sites can enter the bloodstream, and that this bacterial information could
+help diagnose cancer and predict patient outcomes.
+
+The results appear online on December 30, 2020 in the journal Cell Host &
+Microbe.
+
+TCGA is a landmark cancer genomics program that molecularly characterized over
+20,000 primary cancer and matched healthy samples spanning 33 cancer types. It
+has produced more than 2.5 million gigabytes of “omic” data. The atlas
+includes which DNA is present, what epigenetic markers are on the DNA, which
+DNA is turned on and which proteins are being produced. It is freely available
+for public use.
+
+One study from the atlas data revealed an abundance of Fusobacterium nucleatum
+in colorectal cancer, which has since been shown to be indicative of stage,
+survival, metastasis and even drug responses of this kind of cancer.
+
+Many more studies have searched for such bacterial biomarkers, however few
+have been discovered. A large reason for this is contamination. When bacteria
+get introduced into the samples accidentally by the laboratories, it becomes
+difficult to discern which species were actually in the samples to begin with.
+While similar microbiome studies using microbe-rich material such as feces can
+overcome small amounts of contamination, the relatively miniscule samples
+taken from live human organs and tumor samples cannot.
+
+When examining a subset of TCGA sequencing data, previous analyses found that
+microbial DNA from a number of species was the result of lab contamination.
+
+“All microbiota studies are plagued by the notion that if you find a microbe,
+was it really in the tissue or was it contamination introduced during
+processing?” said Xiling Shen, the Hawkins Family Associate Professor of
+Biomedical Engineering at Duke. “We’ve invented a method that can extract the
+microbes that were truly in each sample and used it to build what we’ve called
+The Cancer Microbiome Atlas, which will be a tremendous resource for the
+community and allow us to understand how cancer alters an organ’s microbiome.”
+
+The method for removing contamination from TCGA data was invented by Anders
+Dohlman, a graduate student in Shen’s laboratory. Dohlman first compared the
+microbiome signatures between cancer tissues from different organs and blood,
+and ruled out contaminant species that showed up indiscriminately. He then
+compared the microbiome signatures of identical samples that were processed at
+separate sites, ranging from Harvard to Baylor. Dohlman concluded that the
+microbial species that can only be detected from a specific site would be the
+contaminants, allowing him to assign a unique contamination signature for each
+site.
+
+“A big challenge in this process was mixed-evidence species, which are
+bacteria that are both a contaminant and endogenous to the tissue,” said
+Dohlman. “But because TCGA has so many different types of data, we were able
+to tease it out. Big data really helps!”
+
+> “We’ve invented a method that can extract the microbes that were truly in
+> each sample and used it to build what we’ve called The Cancer Microbiome
+> Atlas, which will be a tremendous resource for the community and allow us to
+> understand how cancer alters an organ’s microbiome.”
+>
+> \- Xiling shen
+
+The effort is already paying dividends in a variety of ways. After using
+Dohlman’s decontamination algorithm, the researchers took a close look at the
+microbiota signatures of samples taken from colorectal cancer patients. They
+discovered two unique groups of bacteria frequently found together, one of
+which appears to be associated with patient survival.
+
+The researchers also discovered that some cancers do indeed alter the
+microbiome of their resident organs. It might be, Shen reasons, that tumors
+alter an organ’s microenvironment, making it more or less hospitable to
+different microbial species. And by looking for microbial signatures within
+patient blood samples, they also found that, despite conventional wisdom to
+the contrary, some bacteria does find its way into the bloodstream, which
+could also provide an indication of a cancer’s progress.
+
+“There has been a sort of crisis in the field about whether or not high-
+profile papers can be reproduced, owing to the challenge of contamination,”
+said Shen. “For example, while one center would be able to reproduce its
+results, another center would not. This explains why: Each center has its own
+very consistent bias. (Its own resident microbe contaminants.) In the future,
+new studies can use our method to remove this bias and reproduce results, and
+research centers might be able to use their bias we’ve identified to mitigate
+their contamination.”
+
+This research was supported by the National Institutes of Health (R35GM122465,
+DK119795) and the Defense Advanced Research Projects Agency (W911NF1920111).
+
+CITATION: “The Cancer Microbiome Atlas: A Pan-Cancer Comparative Analysis to
+Distinguish Tissue-Resident Microbiota from Contaminants.” Anders B. Dohlman,
+Diana Arguijo Mendoza, Shengli Ding, Michael Gao, Holly Dressman, Iliyan D.
+Iliev, Steven M. Lipkin, Xiling Shen. Cell Host & Microbe, 2021. DOI:
+10.1016/j.chom.2020.12.001
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

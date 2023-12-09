@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cells Construct Living Composite Polymers for Biomedical Applications
+
+June 10, 2021 | By Ken Kingery
+
+Initial demonstration builds drug delivery system that protects the gut
+microbiome from antibiotics
+
+Biomedical engineers at Duke University have demonstrated that a class of
+interwoven composite materials called semi-interpenetrating polymer networks
+(sIPNs) can be produced by living cells. The approach could make these
+versatile materials more biologically compatible for biomedical applications
+such as time-delayed drug delivery systems.
+
+The research appears online on June 8 in the journal Nature Communications.
+
+The concept of sIPNs has been around for more than 100 years and has been used
+in automotive parts, medical devices, molding compounds and engineering
+plastics. The general idea is for one or more polymers to assemble around
+another polymer scaffold in such a way that they become interlocked. Even
+though the polymers are not chemically bonded, they cannot be pulled apart and
+form a new material with properties greater than the simple sum of its parts.
+
+Traditional methods for manufacturing sIPNs typically involve producing the
+constituent parts called monomers and mixing them together in the right
+chemical conditions to control their assembly into large networks in a process
+called polymerization.
+
+“When it works, it’s a fantastic platform that can incorporate different
+functionalities into the self-assembled layer for biomedical or environmental
+applications,” said Lingchong You, professor of biomedical engineering at
+Duke. “But the process is often not as biocompatible as you might want. So we
+thought why not use living cells to synthesize the second layer to make it as
+biocompatible as possible?”
+
+In the new paper, Zhuojun Dai, a former postdoc in the You lab who is now an
+associate professor at the Shenzhen Institute of Synthetic Biology, uses a
+platform that the lab has been developing for several years called “swarmbots”
+to do just that.
+
+The swarmbots are living cells that are programmed to produce biological
+molecules within their walls and then explode once their population reaches a
+certain density. In this case, they’re programmed to produce monomers called
+elastin-like polypeptides (ELPs) fused to functional features called SpyTag
+and SpyCatcher. These two molecular structures form a lock-and-key system,
+allowing the ELPs to self-assemble into a polymer chain when mixed. As they
+grow, these polymers entangle themselves with the polymeric microcapsules
+containing the cells to form sIPNs.
+
+Each monomer can contain multiple SpyTags or SpyCatchers and can also be fused
+to proteins that generate a readout or have specific functions. It’s sort of
+like making a chain-link fence out of many tiny charm bracelets that have room
+for clasps and charms.
+
+The researchers first program the cells to fill this accessorizable feature
+with a fluorescent protein to prove that the system can lock them into place.
+After that successful demonstration, they turn their attention to engineering
+a useful drug delivery system with their new invention.
+
+“You could replace the fluorescent marker with anything that has a function
+you want to feature,” said You. “We decided to touch on antibiotics because
+it’s one of the other focuses of our lab.”
+
+Beta-lactam antibiotics, such as penicillin and its derivatives, are some of
+the most commonly used antibiotics in the world. They’re also often overused
+and can have negative effects such as destroying the natural microbiome that
+lives within our guts.
+
+To demonstrate one way in which their new cell-built sIPNs could be useful,
+the researchers fill the accessorizable spot with beta-lactamase, which can
+degrade beta-lactam antibiotics. By injecting the newly functionalized sIPNs
+into mice, the researchers showed the platform could slowly release the
+otherwise short-lived protective molecule to help the mice’s gut microbiomes
+ward off negative side effects from the antibiotics.
+
+“Nobody has used living cells as a factory to produce monomers in real-time
+for sIPNs before,” said You. “The proof-of-principle demonstration shows that,
+not only can we fabricate these types of functional materials with live cells,
+but they can exhibit medically relevant functions.”
+
+This research was supported by the National Key Research and Development
+Program of China (ZD: 2018YFA0903000, ZD: 2020YFA0908100, LD:
+2019YFA09006700), the U.S. Army Research Ofﬁce (LY: W911NF-14-1-0490), the
+National Institutes of Health (LY: 2R01-GM098642, 1RO1AI25604), a David and
+Lucile Packard Fellowship (LY), Shenzhen Peacock Team Project (ZD:
+KQTD20180413181837372), and the National Natural Science Foundation of China
+(ZD:32071427, LD: 31971513).
+
+CITATION: “Living Fabrication of Functional Semi-Interpenetrating Polymeric
+Materials,” Zhuojun Dai, Xiaoyu Yang, Feilun Wu, Lihua Wang, Kun Xiang ,
+Pengcheng Li, Qingqing Lv, Jinhui Tang, Anders Dohlman, Lei Dai, Xiling Shen &
+Lingchong You. Nature Communications, June 8, 2021. DOI:
+10.1038/s41467-021-23812-7
+
+## Related News
+
+September 17, 2019
+
+### Programmable Swarmbots Help Make Flexible Biological Tools
+
+February 29, 2016
+
+### Engineered Swarmbots Rely on Peers for Survival
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,237 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Setting Boundaries Helps Machine Learning Find One-in-a-Trillion Solutions
+
+July 27, 2021 | By Ken Kingery
+
+New “neural-adjoint” machine learning method can help researchers find optimal
+solutions in extremely large design spaces such as dielectric metamaterials
+for communications
+
+Electrical engineers at Duke University have devised a new method for solving
+difficult design problems with many potential solutions in a large design
+space using machine learning. Dubbed the “neural-adjoint method,” the approach
+successfully unearths an optimized design for an electromagnetic
+communications device and could also be used for many other design challenges
+ranging from biomedical imaging to holography.
+
+The research appeared online February 24 in the journal Optics Express.
+
+The quandary being addressed by the new machine learning method is solving
+inverse problems, meaning researchers know the result they want but aren’t
+sure the best way to achieve it. Within this type of challenge is a class
+called ill-posed inverse problems, which means there’s an infinite number of
+solutions with no guidance as to which might be the best.
+
+“If given two numbers to add, you can get a direct and simple solution,”
+explained Willie Padilla, professor of electrical and computer engineering at
+Duke. “But if I say to give me two real numbers that add up to three, there’s
+an infinite set of numbers that could be the answer with zero understanding if
+the correct answer has been chosen. Flipping this simple task shows just how
+challenging an ill-posed inverse problem can be.”
+
+In the new research, the specific task Padilla is seeking to solve is finding
+the best design for a dielectric (metal-free) metamaterial that produces a
+specific electromagnetic response. Metamaterials are synthetic materials
+composed of many individual engineered features, which together produce
+properties not found in nature. They achieve this through their structure
+rather than their chemistry. In Padilla’s dielectric metamaterial experiment,
+he uses a large sheet built from individual two-by-two grids of silicon
+cylinders resembling short, square Legos.
+
+Calculating how the electromagnetic effects of an identical set of cylinders
+interact with one another is a straightforward process that can be done by
+commercial software. But working out the ill-posed inverse problem of which
+geometry will best produce a desired set of properties is a much more
+difficult proposition. Because each cylinder creates an electromagnetic field
+that extends beyond its physical boundaries, they interact with one another in
+an unpredictable, nonlinear way.
+
+“If you try to build a desired response by combining the electromagnetic
+effects produced by each individual cylinder, you’re going to get a
+complicated map of many high and low peaks that is not simply a sum of their
+parts,” said Professor Padilla. “It’s a huge geometrical parameter space and
+you’re completely blind—there’s no indication of which way to go.”
+
+Padilla’s new machine learning approach to navigating this complex design
+space starts by training a deep neural network with 60,000 simulations of
+different designs and the electromagnetic properties they produce. Even taking
+14 geometric parameters into account, the machine learning algorithm learned
+the function that connects the complex geometry with the electromagnetic
+result.
+
+At this point, the deep neural network could provide researchers with an
+answer to an inverse question of finding a geometry that can produce a desired
+response. But with 1.04 trillion potential solutions, it would take the neural
+network over three years to find an answer.
+
+“To my knowledge, this is the largest photonics problem of geometric space
+that anyone has worked on,” said Padilla. “If you tried to solve it with a
+normal computer algorithm, it’d take a 600million years. The deep neural
+network only sampled 0.00000575% of the design space, but it learned the
+function anyway.”
+
+While an impressive feat, it is the second step to this process that is truly
+novel. Although the researchers don’t know exactly what the function that the
+deep neural network came up with actually looks like, they can use it to work
+toward an optimal answer.
+
+The new neural-adjoint method works by starting at 16,000 random points and
+calculating how good of a solution each is. It then allows each to move toward
+a better solution—a process called gradient descent. By repeating this process
+multiple times, the algorithm works its way to locally optimized solutions.
+Crucially, the researchers also set minimum and maximum boundaries based on
+their knowledge of the space that the machine learning is accurate within,
+which stopped the algorithm from getting too crazy with its solutions.
+
+After 300 iterations, the program looks at the 16,000 locally optimal
+solutions it found and chooses the best option. It also indicates if there
+might be a boundary set on a parameter that might enable a better solution if
+it were expanded.
+
+“In doing this research, we saw all of our best solutions jammed up against
+the maximum height we had set for the cylinders,” said Padilla. “We were
+limiting ourselves but didn’t know it. So we extended the height, did even
+more simulations, and indeed found a better solution.”
+
+Applied to metamaterials, Padilla says this method could help develop flat
+communications antennas for the sides of buildings that can quickly
+reconfigure themselves to better reach nearby users. But he says it could also
+be used in a wide range of applications that collect information from
+electromagnetic waves. For example, interpreting x-rays or magnetic waves in
+medical imaging devices or developing computer-generated holograms.
+
+This research was funded by the U.S. Department of Energy (DESC0014372).
+
+“Neural-adjoint method for the inverse design of all-dielectric metasurfaces.”
+Yang Deng, Simiao Ren, Kebin Fan, Jordan M. Malof, and Willie J. Padilla.
+Optics Express, Vol. 29, No. 5, 2021. DOI: 10.1364/OE.419138
+
+## Related News
+
+September 25, 2019
+
+### Machine Learning Finds New Metamaterial Designs for Energy Harvesting
+
+May 01, 2018
+
+### Dielectric Metamaterial is Dynamically Tuned by Light
+
+January 27, 2017
+
+### Absorbing Electromagnetic Energy While Avoiding the Heat
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

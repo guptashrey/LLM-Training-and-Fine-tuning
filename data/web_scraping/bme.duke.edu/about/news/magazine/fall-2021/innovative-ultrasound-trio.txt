@@ -1,0 +1,521 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Meet Duke BME’s Innovative Ultrasound Trio
+
+October 5, 2021 | Michaela Kane
+
+Between cleaning up ultrasound images, developing non-invasive diagnostic
+tools and sparking a new subfield of ultrasound imaging, Gregg Trahey, Kathy
+Nightingale and Mark Palmeri have pushed the boundaries of biomedical imaging
+
+Gregg Trahey didn’t expect to spend his career working with ultrasound. In
+fact, he describes his life’s work as something that was initially ‘thrust
+upon him.’
+
+“After graduating from the University of Michigan with my master’s degree, I
+went to work for a company in Philadelphia where we did side-by-side
+evaluations of medical instruments,” says Trahey, the Robert Plonsey
+Distinguished Professor of Biomedical Engineering at Duke University. “I had
+taken one ultrasound class during my master’s career, and apparently that was
+enough to make me the ultrasound guy.”
+
+As the ‘ultrasound guy,’ Trahey was able to study a variety of fetal
+ultrasound monitors and ultrasonic imaging instruments, and to attend
+conferences around the country where he could meet ultrasound researchers from
+industry and universities. It was at one of these conferences where he met
+Olaf von Ramm and Steve Smith, biomedical engineers from Duke who pioneered
+the development of 3D ultrasound.
+
+“Duke was the place to be if you wanted to go into ultrasound, and by that
+time I had completely fallen in love with the field,” Trahey says. “So I quit
+my job and started work as a PhD student in Olaf’s lab.”
+
+Gregg Trahey
+
+## The Problem with Speckle
+
+Trahey spent his graduate career studying how to get rid of speckle, which
+occurs when ultrasound waves hit small structures in tissue and scatter. This
+scattering acts like noise and degrades an image’s quality.
+
+Trahey continued this work after graduation when he was offered the
+opportunity to stay at Duke as a professor and run his own ultrasound lab.
+Rather than just view speckle as a problem, however, the lab probed how they
+could use this noise to glean further information from their images.
+
+“When tissue moves the speckle also moves, so even though it’s noise, it’s
+useful noise in that regard,” says Trahey. “We did a lot of early experiments
+where we looked at speckle in two dimensions, and we were able track the
+displacement of speckle patterns and match that to track blood flow, which
+hadn’t been done before.”
+
+Nearly 40 years after starting his lab at Duke, Trahey is back to exploring
+how to improve ultrasound images from sources of degradation, but now they are
+utilizing a concept known as spatial coherence.
+
+Each series of image shows how speckle is reduced in an image, making the
+final image (on the right) clearer
+
+## Getting the Clearest Image Necessary
+
+With a typical ultrasound image, a sonographer can distinguish different
+structures based on the differences in brightness, which indicates the
+strength of the ultrasound waves that are returning to the sensor. But with
+spatial coherence, rather than tracking the strength of the reflected waves,
+users track the similarity of the reflected waves recorded at slightly
+different locations. This process allows researchers to better distinguish
+borders between blood and tissue and provides valuable information about
+levels and sources of noise that are corrupting the ultrasound image.
+
+Trahey’s lab has devised a way to pair spatial coherence with a technique
+known as adaptive imaging, which enables ultrasound systems to automatically
+detect and select the parameters that will provide the clearest image.
+
+“If you’ve ever used a DSLR camera, there are so many settings you can change,
+like the f-stop or the shutter speed, which changes the quality of the image,”
+explains James Long, a PhD student in the Trahey lab who works on adaptive
+imaging. “Ultrasound sonographers essentially make similar changes, but they
+are operating under a time constraint. So while they are trying to make these
+changes to optimize the image quality for clinicians to read and interpret,
+they have to do it very quickly.”
+
+Trahey’s new approach is really about efficiency. Rather than gathering images
+using standard settings and then using post-processing software to make them
+clearer, adaptive imaging techniques that rely on spatial coherence for image
+quality feedback allow researchers to quickly and easily collect the cleanest
+data from the get-go.
+
+One of the applications of this approach is in fetal ultrasound imaging.
+Although ultrasound is considered safe, there are exposure limits set by the
+Food and Drug Administration. Trahey’s lab has been exploring how to use
+spatial coherence and adaptive imaging to gather the best image of a fetus
+while using the lowest level of exposure possible.
+
+In a 2020 clinical study, Trahey and Katie Flint, a PhD student in the lab,
+tested 35 pregnant patients using their adaptive imaging ultrasound methods.
+They found that in many cases, the optimum image quality can be achieved using
+output levels much lower than the maximum values set by the FDA.
+
+Flint and Trahey showed that image quality plateaus after a certain level of
+power, as seen in the final 2 images
+
+“We found that in fetal ultrasound, you can increase the transmit power levels
+to improve image quality, but after a certain point it begins to level off,
+where more power doesn’t lead to a clearer image,” explains Flint.
+
+Although he didn’t intend to work in ultrasound, Trahey has helped build a
+large community of ultrasound engineers that extends across the country. His
+previous students have gone on to illustrious careers in industry, while
+others have found significant success in academia. This impressive list
+includes Muyinatu Bell, who continues ultrasound research as a faculty member
+at Johns Hopkins; Jeremy Dahl, an associate professor at Stanford University;
+Caterina Gallippi, a professor at UNC; Brett Bryam, an associate professor at
+Vanderbilt; Gianmarco Pinton, an associate professor at UNC; Richard Bouchard,
+an associate professor at MD Anderson; and Duke’s own Bill Walker, who is now
+the Mattson Family Director of Engineering Entrepreneurial Ventures at the
+Pratt School of Engineering
+
+But Trahey has also helped cultivate an innovative ultrasound community within
+Duke BME, where his collaborators work in the offices next door.
+
+## Measuring Tissue Stiffness and Elasticity
+
+As a PhD student in Trahey’s lab, Kathy Nightingale studied the potential uses
+of acoustic radiation force, or ARF, in diagnostic imaging. This technique
+allows researchers to send an ultrasonic impulse into tissue, which pushes on
+and momentarily displaces the tissue. At the time, Nightingale was using the
+technique to investigate how researchers could improve ultrasound techniques
+to better differentiate fluid-filled cysts from solid lesions in breast
+tissue.
+
+Kathy Nightingale
+
+“Generally, if you could determine that a breast mass was fluid-filled, it was
+a much less concerning finding than if a mass was hard and immovable,”
+explains Nightingale. “For my thesis, I demonstrated that you could use ARF to
+push on the fluid in a cyst and make the fluid swirl around. This movement
+could then be detected with ultrasound, making it easier to tell the
+difference between potentially benign and malignant masses.”
+
+The success of this project prompted Nightingale and Trahey to explore if they
+could similarly use ARF to gather information about a tissue’s material
+properties and use it to create images. They theorized that they could use ARF
+to remotely palpate a target area, and then use ultrasound to image the
+resulting tissue motion to learn about the tissue’s stiffness.
+
+To test this hypothesis, Nightingale and Trahey recruited the help of Mark
+Palmeri, who at the time was an undergraduate student at Duke.
+
+“I became Kathy and Gregg’s research fellow, and my summer project was to
+simulate how ARF could deform different types of soft tissues.” says Palmeri,
+now a professor of the practice in Duke BME. “We published a paper in 1999
+that laid out the foundation of this approach, and it was so successful that
+it actually led to the formation of this entirely new subfield of study in
+ultrasound.”
+
+The new research avenues available with ARF led to the development of ARFI
+imaging, or acoustic radiation force impulse imaging, which uses the
+ultrasound images of tissue displacement to create a 2D map that shows
+relative tissue stiffness.
+
+The graphic shows scans of two different breast masses. The top row shows a
+malignant mass, and it creates a clearer boundary in the ARFI displacement
+image on the far right. The bottom row shows a benign breast mass, which
+doesn't create a boundary in the final ARFI image.
+
+Nightingale, Trahey and Palmeri also began to investigate how ARF could be
+used to excite tissues to create shear waves, which are ripples that travel
+perpendicular to the acoustic disturbance. Nightingale theorized that they
+could use ultrasound to measure the speed of the waves as they moved across
+the tissue. This data could then help to specifically calculate the tissue’s
+stiffness. This measurement of stiffness could be used as a biomarker and help
+with disease diagnostics.
+
+The approach, called SWEI, or shear wave elasticity imaging, could be paired
+with ARFI imaging to help researchers target and then specifically examine the
+elasticity of areas of tissue. Initially, Nightingale studied how the approach
+could be used to better characterize breast lesions as benign or malignant,
+but she soon recognized that breast tissue wasn’t the most optimal target if
+the team wanted to make an impact on diagnostic procedures.
+
+“Breast tissue is fairly accessible, so it’s easier to do tissue biopsies
+without significant side effects, but the cost of a false negative is quite
+high,” explains Nightingale. “Unless we were almost perfect in our sensitivity
+with ARFI and specificity with SWEI, we were not really going to change
+clinical practice significantly.”
+
+But that wasn’t true when it came to diagnosing disease in the liver.
+
+“Liver biopsies are very painful, and they aren’t well tolerated. Physicians
+will therefore not perform liver biopsies frequently, so they aren’t used to
+monitor disease progression for things like liver fibrosis or cirrhosis, which
+causes scarring across the liver,” Palmeri says. “We found that we could use
+SWEI to numerically define the stiffness of different liver regions. This
+helped us identify when the tissue was diseased and scarred, allowing us to
+track progression in a very non-invasive way."
+
+This liver research was particularly exciting to Siemens Healthineers, a large
+manufacturer of ultrasound machines. The company, which had numerous
+longstanding collaborations with Trahey and Nightingale, pushed to
+commercially translate SWEI. The technique is now a feature on most commercial
+ultrasound scanners.
+
+“Over a period of eight years, this went from an idea on paper, to a simulated
+demonstration, to feasibility experiments, to experimental implementation, to
+commercial translation,” says Palmeri. “That’s the storybook fairy tale for an
+engineer, to have your ideas become commercially translated in a reasonable
+timeline."
+
+## Ultrasound Diagnostics Across the Body
+
+Now a tenured professor in Duke BME, Nightingale is still pursuing projects
+that involve imaging the liver, but she’s also expanded her to work to focus
+on technical improvements as well as clinical projects involving muscles and
+organs throughout the body. On the methodology front, her team has
+demonstrated improved SWEI data quality when imaging with more energy in the
+ARF push pulses. This work is currently led by graduate student Bofeng Zhang.
+
+One of the clinical projects, led by recent PhD graduate Cody Morris, focuses
+on new methods to diagnose prostate cancer. Men are regularly checked for
+prostate cancer as they get older. If a blood test or physical exam detects
+any irregularities, a physician will biopsy the prostate. Ultrasound probes
+are used to guide the needle directly to the prostate, but the traditional
+ultrasound technique isn’t sensitive enough to identify and target suspicious
+regions of the organ on its own.
+
+According to Nightingale, this created problems because physicians would need
+to complete systematic sampling of the prostate, taking samples from different
+regions. And while the prostate isn’t a large organ, it’s still possible to
+miss cancerous cells when you’re aiming without a clear target.
+
+In well-equipped research hospitals, a physician can perform a fusion biopsy,
+which involves using an MRI to identify suspicious regions and then overlaying
+that data with a live ultrasound to guide a targeted biopsy. This can help to
+ensure patients get an accurate diagnosis, but access to an MRI is
+inconsistent and expensive.
+
+Nightingale, Palmeri and the rest of the team are optimistic that ARFI and
+SWEI could be used to help identify cancerous regions of the prostate without
+the expense and time-commitment of the fusion biopsy. Now they are preparing
+for a clinical study, led by PhD student Derek Chan, to see if their ARFI and
+SWEI-based ultrasound approach is as accurate as the fusion biopsy.
+
+“We have funding to create our own ultrasound transducer that will improve our
+field of view, and we’ve got exciting partnerships set up with Drs. Tom
+Polascik, Rajan Gupta, Jiaoti Huang and Wen-Chi Foo in urology, radiology and
+pathology at Duke University Medical Center (DUMC),” says Nightingale. “Our
+vision is that this will be a good way to get more accurate diagnostic
+information in a single clinic visit, reducing patient stress, discomfort and
+the overall cost of the procedure.”
+
+The image on the left shows how brightiness can help identify specific regions
+of the prostate. The image on the right shows how imaging modalities including
+B-mode (figure A), ARFI (B), SWEI (C), and mpUS (D), demonstate structural
+consistency.
+
+Another key effort from the lab involves using ultrasound to study muscles and
+muscle health. Working with Dr. Lisa Hobson-Webb at DUMC, Nightingale,
+graduate students Anna Knight and Courtney Trutna and research scientist Ned
+Rouze are investigating how they can use techniques like ARFI and SWEI to
+assess the progression of diseases like muscular dystrophy.
+
+While the liver has a homogenous structure, muscle is made of fibers, and the
+shear waves move at different speeds depending on the orientation of the
+muscle. For example, these waves move faster if they are traveling in the
+direction of the fibers, but slow down if they travel perpendicular to them.
+
+Ultrasound typically relies on 2D images, which create a slice of the target,
+and this view makes it difficult to characterize the stiffness of the muscle
+structure. But Nightingale and her team have developed a system that lets them
+study the wave propagation in three dimensions.
+
+“Our goal with this muscle project is to monitor and assess disease
+progression. We also want to see if we can track treatment response,” says
+Nightingale. “These things are usually done via biopsy, but you obviously
+can’t be sampling pieces of muscles all the time. This work is in its early
+stages, but ultimately we’d like to use our ARFI and SWEI systems to create a
+non-invasive biomarker for muscle health, just like we did for liver
+stiffness.”
+
+In addition to this work, Nightingale and her team are also coordinating with
+Dr. Alison Toth and Laura Pietrosimone in the departments of orthopedics and
+physical therapy to study how patients recover after tearing their anterior
+cruciate ligament, or the ACL.
+
+In this project the team would use their new 3D scanner to assess muscle
+health before surgery, immediately after surgery, and then at regular
+intervals after to assess how the muscle is recovering and to predict how well
+they’ll respond to physical therapy.
+
+“If you tear your ACL there is a long recovery, and after surgery the muscles
+will often atrophy. Physical therapists also don’t have a quantitative way to
+measure how well a patient is recovering, so it’s sometimes difficult to
+manage strength training and therapy,” Nightingale explains. “Being able to
+come up with a non-invasive way to track their recovery could be really
+valuable in helping patients return to an active lifestyle more efficiently.”
+
+This video shows the particle velocity of a shear waves produced in the vastus
+lateralis muscle in vivo, with a Verasonics L7-4 Transducer rotating around
+the z axis in 5 degree increments, and acquiring 36 SWEI acquisitions.
+
+## Bringing Artificial Intelligence to Ultrasound
+
+Once Palmeri started ultrasound work as an undergraduate in Nightingale’s lab,
+he never looked back. After finishing up his undergraduate degree, Palmeri was
+accepted into Duke’s MD-PhD program, where he continued to work with
+Nightingale on SWEI research while simultaneously creating a Rolodex of future
+collaborators at DUMC. Now, as a professor of the practice in Duke BME,
+Palmeri juggles his research with his role as a leader of the department’s
+expanding design curriculum.
+
+Mark Palmeri
+
+“I have this unique role in that I’m a professor of the practice, which is
+typically a non-research position,” he says. “But because of Duke BME’s
+collaborative environment, I can keep up my own arms of research, I can have a
+couple of students, and I can work with Kathy and Gregg to help advance
+projects we’re really passionate about.”
+
+One of these passion projects centers on bringing deep learning methods to
+clean up ultrasound images. Rather than develop new sensors and hardware that
+can be added to the already-large ultrasound machines, Palmeri and MD-PhD
+student Ouwen Huang developed deep learning software that can automatically
+detect and remove speckle and other noise from ultrasound images.
+
+“There is a push away from some of these larger, glitzy ultrasound systems and
+more toward portable, handheld systems, so we created algorithms that can
+essentially replace all those technological extras,” says Palmeri. “We named
+the platform MimicNet, because it was designed to allow these cheaper
+ultrasound systems to mimic what the commercial, high-end hospital scanners
+can do. It’s a great resource for a point-of-care system.”
+
+MimicNet is able to use artifical intelligence to identify and remove speckle
+and other artifacts from ultrasound images, creating final results that are
+nearly as clear as clinical images from high-tech systems.
+
+In a separate project, Palmeri and PhD student Felix Jin are using deep
+learning to quantify shear wave speeds, making it easier to use SWEI for use
+in diagnostics. Their network can also provide feedback about the confidence
+of the calculation, which tells a sonographer if they need to repeat an
+ultrasound scan.
+
+Now, the team is testing their program to by using it to assess if cervical
+stiffness can be used to predict premature delivery. In a clinical study
+organized by collaborators at the University of Wisconsin, Madison, the team
+will use the ARFI and SWEI techniques paired with the new deep learning
+program to test and track the stiffness of the cervix in pregnant women
+throughout their pregnancy.
+
+“Cervical stiffness should decrease as a woman gets closer to her due date,
+but we want to see if this method can help us identify when the cervix is
+getting too soft too soon,” says Palmeri. “This clinical study will not only
+help us assess our deep learning framework, but it will also help us establish
+potential biomarkers that we can use to identify when a woman may be at risk
+for a premature delivery.”
+
+Like Trahey before him, Palmeri’s introduction to ultrasound was more
+accidental than planned, but he’s still grateful that he was introduced to the
+field as an undergraduate student in Nightingale’s class.
+
+“Gregg and Kathy are probably the number one reason I’ve stayed at Duke for my
+entire academic career. Everyone’s success is prioritized as the collective
+over any one person,” says Palmeri. “As the person with the most seniority,
+Gregg has fostered an environment where the success of everyone coming after
+him has been equally satisfying, and Kathy has continued that tradition. It’s
+really special to be a part of a community like that.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

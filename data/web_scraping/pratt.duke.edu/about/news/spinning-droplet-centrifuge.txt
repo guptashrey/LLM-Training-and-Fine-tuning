@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound Waves Spin Droplets to Concentrate, Separate Nanoparticles
+
+December 18, 2020 | By Ken Kingery
+
+New centrifuge-like device concentrates and separates biomedically important
+nanoparticles in tiny samples in less than a minute
+
+Mechanical engineers at Duke University have devised a method for spinning
+individual droplets of liquid to concentrate and separate nanoparticles for
+biomedical purposes. The technique is much more efficient than traditional
+centrifuge approaches, working its magic in under a minute instead of taking
+hours or days, and requires only a tiny fraction of the typical sample size.
+The invention could underline new approaches to applications ranging from
+precision bioassays to cancer diagnosis.
+
+The results appear online on December 18 in the journal _Science Advances_.
+
+“This idea originated from a very exciting recent finding that you can use
+surface acoustic waves to spin a droplet of liquid,” said Tony Jun Huang, the
+William Bevan Distinguished Professor of Mechanical Engineering and Materials
+Science at Duke. “We decided to investigate whether we could use this method
+to create a point-of-care system that can separate and enrich nanoparticles
+quickly and efficiently.”
+
+Huang and his doctoral student Yuyang Gu began their investigation by building
+a device capable of spinning individual droplets of liquid. In the center of a
+piezoelectric surface sits a ring of polydimethylsiloxane, a type of silicon
+commonly used in microfluidic technologies, which confines the droplet’s
+boundaries and keeps it in place. The researchers then placed a sound wave
+generator called a interdigitated transducer (IDT) on each side and slanted
+them so that sound waves with different frequencies travel through the
+piezoelectric surface to enter the droplet.
+
+When turned on, the IDTs create surface acoustic waves that push on the sides
+of the droplets like Donald Duck getting blown over by a gigantic pair of
+speakers. At low power settings, the top of the droplet begins to wobble
+around the ring like a muffin top made of Jell-O dessert. But when the power
+gets turned up to 11, the balance between the surface tension of the droplet
+and its centrifugal force causes it to take on the shape of a pill and begin
+spinning in place.
+
+The researchers then investigated how fluorescent nanoparticles of different
+sizes behaved within the spinning droplets. Because the droplet is spinning,
+the nanoparticles themselves also got dragged along in a helical pattern.
+Depending on their size and the frequency of sound, they were also pushed
+toward the center of the droplet due to the incoming force of the sound waves
+and hydrodynamics.
+
+The researchers found that by using different frequencies, they could
+specifically concentrate particles as small as tens of nanometers. These sizes
+correlate to biologically important molecules such as DNA and
+exosomes—biological nanoparticles released from every type of cell in the body
+that are thought to play an important role in cell-to-cell communication and
+disease transmission.
+
+But they were still faced with another problem. While nanoparticles of one
+size flocked to the center of the droplet, nanoparticles of other sizes were
+still flying randomly about, making it difficult to access the concentrated
+bounty.
+
+Their solution? A second spinning droplet.
+
+“We set up two droplets of different sizes next to each other so that they’d
+be spinning at different speeds,” said Gu. “By connecting them with a small
+channel, any nanoparticles not concentrating in the first end up spinning off
+and getting trapped in the second.”
+
+To further show how useful their dual-droplet centrifugal system could be, the
+researchers showed that it could successfully separate subpopulations of
+exosomes from a sample. And unlike common centrifugation methods that require
+large amount of samples and can take overnight to work, their solution only
+needed a much smaller sample volume—such as five microliters—and less than a
+minute.
+
+“We envision this work simplifying and speeding up sample processing,
+detection and reagent reactions in various applications such as point-of-care
+diagnostics, bioassays and liquid biopsies,” said Gu.
+
+“The ability to separate and enrich exosome subpopulations and other
+biological nanoparticles is extremely important.” added Huang. “For example,
+while the recent discovery of exosome subpopulations has excited biologists
+and researchers due to their potential to revolutionize the field of non-
+invasive diagnostics, exosome sub-populations have yet to be utilized in
+clinical settings. This is largely due to the difficulties associated with
+separating exosome subpopulations because of their small size. Our approach
+offers a simple, automated approach for separating exosome sub-populations in
+a fast and biocompatible manner. As a result, we believe that it is critical
+to unlocking the clinical utility of exosome subpopulations.”
+
+This research was supported by the National Institutes of Health (UG3TR002978,
+R01GM132603, R01GM135486, R33CA223908, R01GM127714, R01HD086325), the United
+States Army Medical Research Acquisition Activity (W81XWH-18-1-0242), and the
+National Science Foundation (ECCS-1807601).
+
+CITATION: “Acoustofluidic Centrifuge for Nanoparticle Enrichment and
+Separation,” Yuyang Gu, Chuyi Chen, Zhangming Mao, Hunter Bachman, Ryan
+Becker, Joseph Rufo, Zeyu Wang, Peiran Zhang, John Mai, Shujie Yang, Jinxin
+Zhang, Shuaiguo Zhao, Yingshi Ouyang, David T.W. Wong, Yoel Sadovsky, Tony Jun
+Huang. Science Advances, Dec. 18, 2020. DOI: sciadv.abc0467
+
+## Related News
+
+September 10, 2020
+
+### Sound Waves Replace Human Hands in Petri Dish Experiments
+
+September 18, 2017
+
+### Sound Waves Separate Biological Nanoparticles for 'Liquid Biopsies'
+
+January 26, 2017
+
+### Sound Waves Create Whirlpools to Round Up Tiny Signs of Disease
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Daniel Reker
+
+Assistant Professor of Biomedical Engineering
+
+The Reker lab tightly integrates biomedical data science and wet-lab
+experiments for the analysis and design of therapeutic opportunities.
+Automated experimentation can be guided by active machine learning to generate
+knowledge-rich datasets. A key aspect of our research is improving our
+understanding of the most effective active machine learning workflows to
+enable the broad deployment of adaptive machine learning and automated
+experimentation.
+
+We focus our adaptive model development on critical drug properties such as
+efficacy, biodistribution, metabolism, toxicity, and side-effects. Prospective
+applications of these predictions enable us to better understand limitations
+of currently approved medications as well as design new drug candidates,
+nanoparticles, and pharmaceutical formulations. By integrating clinical data
+analysis, we can rapidly validate the translational relevance of our
+predictions and conceive big data-driven protocols for precision medicine and
+personalized drug delivery.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Email Address:** daniel.reker@duke.edu
+  * **Websites:**
+    * Google Scholar
+    * Reker Lab
+
+## Education
+
+  * Sc.D. Swiss Federal Institute of Technology-ETH Zurich (Switzerland), 2016
+
+## Research Interests
+
+Integration of active machine learning, biomedical data science, and
+biochemical experiments for the analysis and design of personalized
+therapeutic opportunities.
+
+## Courses Taught
+
+  * BME 221L: Biomaterials
+  * BME 394: Projects in Biomedical Engineering (GE)
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 590L: Special Topics with Lab
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+  * EGR 393: Research Projects in Engineering
+
+## In the News
+
+  * Five Questions for Dan Reker on Bioengineering Better Drug Delivery (Aug
+    19, 2022 | Duke Government Relations)
+
+## Representative Publications
+
+  * Xiang, Y; Tang, Y-H; Lin, G; Reker, D, _Interpretable Molecular Property
+    Predictions Using Marginalized Graph Kernels_ (2023)
+    [10.26434/chemrxiv-2023-gd1gl] [abs].
+  * Wen, Y; Li, Z; Xiang, Y; Reker, D, _Improving Molecular Machine Learning
+    Through Adaptive Subsampling with Active Learning_ (2023)
+    [10.26434/chemrxiv-2023-h8905] [abs].
+  * Abramson, A; Kirtane, AR; Shi, Y; Zhong, G; Collins, JE; Tamang, S;
+    Ishida, K; Hayward, A; Wainer, J; Rajesh, NU; Lu, X; Gao, Y; Karandikar,
+    P; Tang, C; Lopes, A; Wahane, A; Reker, D; Frederiksen, MR; Jensen, B;
+    Langer, R; Traverso, G, _Oral mRNA delivery using capsule-mediated
+    gastrointestinal tissue injections_ , Matter, vol 5 no. 3 (2022), pp.
+    975-987 [10.1016/j.matt.2021.12.022] [abs].
+  * Shi, Y; Lin, C-H; Reker, D; Steiger, C; Hess, K; Collins, J; Tamang, S;
+    Ishida, K; Lopes, A; Wainer, J; Hayward, A; Walesky, C; Goessling, W;
+    Traverso, G, _A machine learning liver-on-a-chip system for safer drug
+    formulation_ (2022) [10.1101/2022.09.05.506668] [abs].
+  * Steiger, C; Phan, NV; Huang, H-W; Sun, H; Chu, JN; Reker, D; Gwynne, D;
+    Collins, J; Tamang, S; McManus, R; Lopes, A; Hayward, A; Baron, RM; Kim,
+    EY; Traverso, G, _Dynamic Monitoring of Systemic Biomarkers with Gastric
+    Sensors._ , Advanced Science (Weinheim, Baden Wurttemberg, Germany), vol 8
+    no. 24 (2021) [10.1002/advs.202102861] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

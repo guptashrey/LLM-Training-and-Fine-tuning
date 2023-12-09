@@ -1,0 +1,486 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Air Quality, Quick and Dirty
+
+August 30, 2019
+
+Air pollution degrades everything from cultural heritage sites like the Taj
+Mahal, to solar energy production. Duke civil and environmental engineering
+professor Mike Bergin is trying to fill in some of the knowledge gaps about
+what the pollution is and where it comes from, to better manage its effects.
+
+## Listen
+
+## Transcript
+
+M. Volborth: This is Rate of Change, a podcast from Duke Engineering dedicated
+to the ingenious ways that engineers are solving society's toughest problems.
+I'm Miranda Volborth.
+
+Mike Bergin: When you're in an airplane and you look down and let's say it's a
+clear day, you can see the ground pretty well. You see, I don't know, in the
+rural areas you see farms, trees, the country. Flying over a city, you see the
+city, buildings, stuff like that. But sometimes when the plane gets way up
+high, you're above the clouds and it just looks white. And the reason that
+looks white is all those cloud droplets are scattering the sun's energy back
+at us.
+
+Mike Bergin: So when you get off a plane in Delhi, it's very surprising. It
+looks like it's super cloudy and overcast, but it's not. It's just all this
+whiteness from the intense amount of pollution. You definitely can't see the
+sky often, and I would say the other thing about it is it seems dirty
+everywhere. There's kind of a layer, a film of grit everywhere. And that grit
+is pollution. It's on the buildings, it's on the cars. If you go to your hotel
+building, it's on the windows and if the windows have been open, it's in the
+room and everywhere. So I think the particles are so small that little
+particles of pollution get everywhere.
+
+M. Volborth: Mike Bergin is a professor of civil and environmental engineering
+at Duke University, though you probably wouldn't be surprised if he told you
+he was a bike mechanic or that he had spent the last 30 years touring with
+some obscure indie rock band. He's easy to laugh and he expresses a certain
+distrust for "the man," as it were.
+
+M. Volborth: But in reality, Mike has spent his entire adult life trying to
+understand air pollution and to educate people about it. In recent years, he's
+forged strong bonds with collaborators in India, particularly at the Indian
+Institute of Technology at Gandhinagar, and the group is neck deep in research
+seeking to better understand the effects that air pollution has on human
+health and on the economy.
+
+M. Volborth: I've never been to Delhi, or any of the places Mike goes to
+conduct his research, and I've only really experienced poor air quality during
+events like forest fires. If you haven't either, this might put it into
+perspective.
+
+Mike Bergin: Durham is a really clean place. Durham has a particulate matter
+level of roughly five to eight micrograms of particulate matter per cubic
+meter of air. And that's one of the cleaner places in the US, really one of
+the cleaner urban areas. The World Health Organization's standard is 10, so we
+consider 10 and below really clean. Delhi would be something like maybe one to
+three hundred micrograms per cubic meter. So 10 times above the standard,
+sometimes 1,000 or 2,000. So the levels are just off the charts, for sure.
+
+Mike Bergin: Many years ago, probably 10 years ago now, maybe a little bit
+more, I was invited to a conference, and it was in Agra where the Taj Mahal
+is. We went on a tour of the Taj Mahal, and I noticed that they had
+scaffolding up around a big part of it, and part of it looked pretty white
+where the scaffolding was, and part of it looked really brown. I was asking
+them about it and they said they were cleaning it off, and it's really, really
+a hassle to clean off. It takes a long time, a lot of effort.
+
+Mike Bergin: I asked him why it was and they said it has something to do with
+pollution. And so I thought, wow, what does that do with pollution? And then
+they told me a bunch of things that didn't really make sense to me. You know,
+they said, "Oh, there's a big plant over there emitting a bunch of junk that's
+depositing to the Taj Mahal."
+
+Mike Bergin: Since I know a little bit about it, I knew that one plant close
+by was not going to have that big of an influence. And I also knew that the
+city itself was, as I said before, India is a really hazy place and I knew the
+city was super hazy, so I knew that stuff was wafting in and probably
+depositing on the Taj Mahal.
+
+Mike Bergin: So to make a long story short, got a little bit of money, me and
+my collaborators in India, and we did a little project there and basically we
+got little marble pieces. The Taj Mahal's made of marble, and we cleaned them
+and we stuck them on the Taj Mahal. They let us do that. Then we came back
+like three, four months later and we collected and we looked at what was on
+them. And sure enough, it was pollution and it was kind of soot, and it was
+soot and particulate matter from burning stuff.
+
+Mike Bergin: The way people dispose of their trash in India is typically they
+put it outside their houses right outside the front door. Then usually what
+happens is that gets gone through by various folks outside of their houses who
+take things that are of use, and leave the rest. Then at some point in time,
+and it looks to me like it occurs on a weekly basis, whole neighborhoods get
+together and they get their trash put in a big pile and they burn it. It goes
+right up into the air. So I think consequently a large fraction of the trash
+made in India go straight up into the air.
+
+M. Volborth: Breathing that air has consequences. There are profoundly
+negative cardiovascular, respiratory, and neurological effects from exposure
+to pollution at that level.
+
+M. Volborth: But to begin to manage air quality, you should first have an
+emissions inventory, a database detailing the type and amount of pollutants
+regularly discharged into the atmosphere. Without it, any regulatory actions
+could be called arbitrary. But data on residential trash burning for whatever
+the reason hasn't really been included in emissions inventories. Maybe the
+relatively small fires seem nominal in the grand scheme of things, or maybe
+that data is just too difficult to capture.
+
+Heidi Vreeland: Plumes are pretty difficult to measure, especially outdoor
+plumes of smoke, because the wind can blow them all kinds of directions. They
+change size. It is hard if you have a sensor that's only at one point, like a
+lot of our monitoring historically has been from stationary monitors. Like the
+monitor's on the ground, maybe 50 feet away the air quality's totally
+different.
+
+M. Volborth: Heidi Vreeland is a PhD candidate in Mike's lab, and was one of
+the leads on a collaborative project with Duke, IIT, and also RTI
+International that sought to develop new approaches to monitoring air quality
+to help fill in some of this critical data. The group tested their approach in
+the neighborhoods around Ahmedabad.
+
+Heidi Vreeland: The sites we were going to were just like these small
+residential alleys. It was very easy to find trash burning everywhere. This is
+very, very, very common. These are small-scale piles that range from, I don't
+know, maybe a couple shoes' size to, I don't know, like a car maybe in area of
+piles that were constantly just smoldering. You drive by tons of smoldering
+piles all the time.
+
+Heidi Vreeland: Something that is also important for residential and roadside
+burning, like I mentioned before, it's hard to measure partially because the
+spatial area that that covers is very large and the signals are maybe small,
+but together they're probably a big deal. That's what most people think. So we
+were interested in trying to figure out how to cover a larger ground to look
+more at how to measure this large spatial area. And that's actually where the
+idea for drones came in.
+
+Heidi Vreeland: We have a low-cost sensor that we designed at Duke, and we
+attached that to the bottom of a drone, just a commercial drone. So having
+something that's portable is pretty revolutionary, and we're getting better at
+having more low-cost sensors and being able to deploy larger sensor networks
+so that we can use mathematical models to estimate the spatial area of what is
+the air pollution looking like over the city.
+
+Heidi Vreeland: But in the past, we had to measure everything with maybe
+satellites or a balloon. We'd just send it up with a sensor, or it'd be a
+stationary monitoring site. I guess we've also used planes, but all these
+things are very expensive. This high cost has been a big limiting factor in
+the past.
+
+M. Volborth: Do people see the drones and get excited and know what it is, and
+like-
+
+Heidi Vreeland: Oh yes. And that is why our original plan and protocol was we
+decided to change things a little bit because drones attracted a good bit of
+attention. A lot of spectators came out to look at the drone. So that could
+have changed behavior or... We're measuring particulate matter, an air
+pollution metric, so just little particles. So that also includes if people
+are stomping around outside, they're kicking up some dust and things, and that
+might get measured. So we didn't want anyone also standing really close to
+trash fires, which is where the drone was. So we're like, "We should do a
+different direction."
+
+Heidi Vreeland: So what we decided to do after that was, we also were planning
+to do this, but look at a big municipal dump site. It's a 84-acre dump site in
+Ahmedabad, has 80-foot walls of trash, and is just constantly smoldering. It's
+huge. So we're interested in looking at the air quality there. And just
+thinking about its sheer size, it's clear how a drone could be much more
+useful in measuring the air quality over that big area than me with a sensor
+or a stationary monitor. So-
+
+M. Volborth: Not to mention the safety.
+
+Heidi Vreeland: Oh yeah, the safety.
+
+M. Volborth: Like you can't get in the middle of an 84-acre-
+
+Heidi Vreeland: Absolutely. There was glass everywhere. Everything was on
+fire. Yeah. The students were not about to climb 80 feet of trash to go
+collect some data. Yeah. So that's been a big thing with drones. Drones are
+also used to measure wildfires and volcanic plumes. Things that, yeah, people
+can't access because they would be dangerous.
+
+M. Volborth: I asked Heidi what the group found, and if she was surprised by
+anything that they learned.
+
+Heidi Vreeland: There's a lot more plastic in India than there probably is
+here. Most of the waste that we saw was plastic.
+
+Heidi Vreeland: I was just thinking about how we actually collected trash from
+these different sites, and then we measured them in the field, but also
+collected samples to burn in a more controlled environment to try to get an
+idea of the characterization of these different emissions. So that required us
+sorting through a lot of trash, encountering some scary things like diapers.
+But yeah, so.
+
+M. Volborth: And that's the kind of stuff that just gets burned. I mean,
+everything just gets burned.
+
+Heidi Vreeland: Right.
+
+M. Volborth: Diapers, plastic.
+
+Heidi Vreeland: Right. Oh yeah. We saw car seats, all kinds of stuff. So yeah,
+some things burn better than others, I'll say that.
+
+M. Volborth: The bottom line is that all this plastic trash when burned is
+sent straight up into the air. And those particles of burnt matter appear to
+be a big contributor to India's air pollution problem.
+
+Mike Bergin: They're not good for the environment. They're depositing in the
+environment, they're getting transported around the environment. The different
+chemical species, people are breathing them in. In India, there's maybe two to
+five million people dying per year because of breathing these particles in. So
+we can educate people about that at the same time, and then we can say,
+there's also a huge benefit for renewable energy if you can decrease these
+pollutant concentrations. We're hoping that we'll figure out ways to connect
+with the public and show them this information in a way that would maybe make
+folks in the government spring to action.
+
+Mike Bergin: So, MAPSOLE stands for minimizing air pollution's impact on solar
+energy production, and it's a project that we're beginning here at Duke with a
+bunch of our collaborators. The idea is is that currently we know very little
+about air pollution's overall impact on solar energy production. So we've
+brought together a team of people from industry around the world, some
+national labs from various places around the world, as well as a bunch of our
+university collaborators.
+
+Mike Bergin: As it turns out, this problem is pretty complex to solve. So on
+one hand we're trying to develop remote-sensing techniques using satellites to
+look down and see if solar panels are dirty. That requires people that know
+about remote sensing, requires people that know about data analytics and image
+processing. Also we're trying to develop sensors that we can place at these
+places. Really cool, low-cost, autonomous, cheap sensors that can sense how
+dirty panels are getting that we put on these solar farms.
+
+Mike Bergin: But we're also really excited because we think we're developing
+tools that can be used at even the rooftop solar level so every day a
+satellite can look down on every location where there's a solar panel, as long
+as we can see through the clouds, and it can give you information about how
+your home solar panels are working or give your information if you're in the
+Arabian peninsula about how your solar farm's working, or your large solar
+farm in India or China.
+
+Mike Bergin: We're also developing really sophisticated tools that allow you
+to predict into the future what's going to happen with your solar panels, how
+dirty they're going to get, when you might want to clean them, when it would
+be best. For example, you wouldn't want to clean them if it's really going to
+rain really hard.
+
+M. Volborth: Michael Valerino is another PhD student in Mike Bergin's lab, and
+he's working on this aspect of the MAPSOLE project figuring out when solar
+farms should clean their panels. It sounds like a small thing, but it's really
+complex, and reliable database recommendations could have huge economic
+impact.
+
+M. Valerino: Basically you have to have people on either modified tractors or
+modified trucks with big brushes with water that go along and clean rows of
+panels. You imagine if you have a field with tens of thousands, hundreds of
+thousands of panels, how long that could take and how costly that good could
+end up being.
+
+M. Valerino: Right now, we estimate that this is somewhere between a $10 and
+$50 billion a year problem globally. So that has to do with lost energy as
+well as extra cleaning costs. So I mean, as you could imagine, especially in
+places without access to constant supply of clean water like India and the
+Middle East, places like that, drier climates, the cleaning costs can be
+pretty significant. So the overarching theme of the project is trying to get a
+better understanding of global soiling to allow energy producers to make more
+informed decisions regarding soiling mitigation.
+
+M. Volborth: For example, common sense would tell you that if it's been very
+dry and dusty, you'd want to clean your panels more frequently, right? But
+Michael says that humidity makes soiling worse because the particles get
+sticky and adhere to the panels. The tail end of the monsoon season actually
+saw soiling rates twice as high as normal. Effects like these that are
+seasonal and cyclical could shift the schedule by which solar farmers clean,
+and save them tons of money.
+
+M. Valerino: So our lab definitely focuses on the low cost. So as part of this
+project we've developed a couple of low-cost tools. The one I could talk about
+is the LAMPS station. We like our acronyms. LAMPS stands for low-cost
+alternative to Monitoring Photovoltaic Soiling. Basically it uses two small
+five-watt, about the size of an 8" x 10" sheet of paper, solar panels next to
+each other, and a custom software and hardware, which on the hardware side,
+thank goodness for computer engineering undergrads because that is not my
+background, but they were very helpful in designing a lot of the circuitry and
+whatnot.
+
+New Speaker:
+
+M. Valerino: So this LAMPS tool that we've developed can monitor soiling for
+about $200 a system. Right now we're comparing it to kind of our reference
+soiling station, which is on the order of $5,000 to $10,000 a system. And it
+seems to be working within a few percent.
+
+M. Valerino: As you could imagine, a lot of the lack of information in the
+soiling field comes from most studies being single location. Of course they're
+single location if each station is $10,000, right? But now with a $200 tool,
+you can start to get a better idea of global soiling simply because you can
+have more places that you're monitoring soiling.
+
+M. Volborth: It's kind of baffling, just the discrepancy in price. Like why is
+what's available commercially so expensive? That's crazy.
+
+M. Valerino: It is. It is crazy. I got this question at a conference once, and
+I was presenting a poster and somebody said, "Well, why is your station so
+much cheaper than this other one?" And I wasn't really sure. I mean, to be
+honest, it is kind of baffling.
+
+M. Valerino: So in terms of our station and a lot of what we do, I think it's
+almost you could think of it is that diminishing... What's the economic...
+Diminishing returns, right? So to make something 5% more accurate, you're
+going to have to spend twice as much money to make it another 5% accurate.
+You're going to have to spend-
+
+M. Volborth: Never heard that.
+
+M. Valerino: ... twice as much money, right? It's kind of like your returns
+are diminishing for your effort or money.
+
+Mike Bergin: I think often solving important problems does not take
+sophisticated instrumentation. I think there's a time and a place for that,
+and I would say that, for example, there's, in my field, environmental science
+and engineering and particularly in environmental monitoring, what tends to
+happen is as time goes on and people make more and more sophisticated
+instruments to look at more and more of the small nuances of particular
+pollutants, and I think that kind of research is really important. But then at
+the same time, when you think about it, just measuring something real simple
+like the total amount of particulate matter, the total amount of dust in the
+air in India, that's not a rocket science problem, but there's very few
+measurements of that all around India because there's just not the available
+equipment.
+
+Mike Bergin: So we've kind of focused on trying to get measurements to people
+so they can get an idea of what their environment is like around them, whether
+the environmental pollutant levels are fast and dirty, and so that they can
+understand what it means and then go and do something about it. So I think
+that's kind of been our approach, and we do some more sophisticated
+measurements as well, but increasingly we're going to try and do real simple
+stuff.
+
+M. Volborth: If you found this research interesting, do keep your eyes on the
+Bergin Group: bergin.pratt.duke.edu. Mike has begun to look at the
+relationship between air pollution and mental health, and is investigating
+ways to min social media for health data as it relates to air pollution. Stay
+tuned.
+
+M. Volborth: Thanks for listening. Subscribe for updates from Duke
+Engineering, and if you learned something from this podcast, please share it
+with others.
+
+Sound effects from https://www.zapsplat.com.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Michael Howard Bergin
+
+Sternberg Family Professor of Civil & Environmental Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

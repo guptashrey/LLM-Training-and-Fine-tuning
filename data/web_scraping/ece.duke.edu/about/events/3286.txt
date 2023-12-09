@@ -1,0 +1,255 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# ECE DISTINGUISHED SPEAKER SERIES: Qubit Mapping and Scheduling for Quantum
+Computing: Gap Analysis and Optimal Solutions
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Oct 20
+
+_This event has passed._
+
+##  Thursday, October 20, 2022 – 11:00AM to 12:00PM
+
+## Presenter
+
+Jason Cong, UCLA Computer Science Department, Director, Center for Domain-
+Specific Computing (CDSC)
+
+**Abstract:**
+
+How does the mapping of logical variables in a quantum algorithm to physical
+qubits on a quantum device affect overall performance? As quantum computing
+devices continue to scale up, this question of compiling from applications to
+quantum devices is becoming very important. In this talk, I focus on our
+recent work on the qubit mapping and scheduling step. By constructing a family
+of quantum circuits with the known optimal mapping depths, we evaluated
+several leading industry and academic qubit mapping tools, including Cirq from
+Google, Qiskit from IBM, and t|ket> from Quantinuum. We found their
+performance to be surprisingly sub-optimal–by a factor of up to 45x–even on
+near-term feasible circuits. This motivated us to develop a tool for optimal
+layout synthesis for quantum computing, named OLSQ, based on a general SMT-
+based optimization framework. OLSQ more compactly represents the solution
+space with exponential reduction in computational complexity, leading to
+optimal mapping and scheduling solutions for currently practical quantum
+applications. Further speedup of OLSQ is achieved for domain-specific
+applications, such as quantum approximate optimization algorithm (QAOA) by
+exploiting gate commutation and chemical simulation with optimal swap gate
+absorption. At the end, I will discuss the latest progress on optimal qubit
+mapping and scheduling on reconfigurable Rydberg atom arrays.
+
+Joint work with my PhD student Bochen Daniel Tan. ****
+
+**Biography:** ****
+
+Jason Cong is the Volgenau Chair for Engineering Excellence Professor at the
+UCLA Computer Science Department (and a former department chair), with joint
+appointment from the Electrical and Computer Engineering Department. He is the
+director of Center for Domain-Specific Computing (CDSC) and the director of
+VLSI Architecture, Synthesis, and Technology (VAST) Laboratory. Dr. Cong’s
+research interests include novel architectures and compilation for
+customizable computing, synthesis of VLSI circuits and systems, and highly
+scalable algorithms. He has close to 500 publications in these areas,
+including 16 best paper awards, three 10-Year Most Influential Paper Awards,
+and three papers inducted to the FPGA and Reconfigurable Computing Hall of
+Fame. He and his former students co-founded AutoESL, which developed the most
+widely used high-level synthesis tool for FPGAs (renamed to Vivado HLS after
+Xilinx’s acquisition). He was elected to an IEEE Fellow in 2000, ACM Fellow in
+2008, the National Academy of Engineering in 2017, and the National Academy of
+Inventors in 2020. He is the recipient of the 2022 IEEE Robert Noyce Medal for
+fundamental contributions to electronic design automation and FPGA design
+methods.
+
+**Host:** Yiran Chen & Helen Li
+
+ZOOM LINK:
+https://duke.zoom.us/j/96826027021?pwd=ckRzckJEbEV5Z00zVlMyZEJhOVhoZz09  
+PASSCODE: 541888
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

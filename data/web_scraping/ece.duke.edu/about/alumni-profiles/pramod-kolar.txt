@@ -1,0 +1,275 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Pramod Kolar
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Alumni profiles
+
+B.E., Electronics and Communication, National Institute of Technology
+Karnataka  
+PhD, ECE, Duke Engineering
+
+## Tell us about your work at Microsoft. How long have you been in your
+current role, and what are your responsibilities?
+
+I am a senior designer at Microsoft, in the quantum computing group, focusing
+on circuit design. I have been at Microsoft for about a year and a half, after
+nearly 15 years working as an engineer at Intel. My PhD work, advised by
+professor Hisham Massoud, was on quantum tunneling. That’s where I started,
+and it looks like I’m looping back!
+
+My primary responsibilities include circuit technology innovation, memory
+circuit solutions for artificial intelligence (AI), evaluating technology
+scaling and PPA (power, performance, area) studies, among other things.
+
+## What’s your favorite thing about your job?
+
+The innovation aspect is the best part of this job. Innovating new circuits
+and coming up with new ways of solving problems from a circuit standpoint is
+very interesting to me. It keeps the brain cells alive!
+
+Sometimes, when I talk to students, I get the feeling that they think circuit
+design is dead. That’s simply not true. They think most improvements are
+coming from technology scaling, but that’s not happening as much anymore. It’s
+plateauing, and no longer giving us the kind of results we’ve seen in the
+past. So if you and all of your competition are using the same kind of core
+components, how do you make your product shine? The answer is circuit design.
+That’s where your “special sauce” comes in.
+
+After a while, if you’re in very execution-oriented roles, it can become
+difficult to do things like write papers and seek patents, because of the
+pressures of deadlines and deliverables. I’m lucky to be at Microsoft, where
+you can be in a technical track and go very far, but still have the
+flexibility to create and come up with new ways of doing things.
+
+## Why did you choose Duke for your PhD study?
+
+Duke is known for more than engineering. There’s the medical school, the law
+school—all sorts of other disciplines with strong reputations. In my mind,
+engineers need to have a broad view of things, so I thought it would be a good
+decision to go to a school where you get exposure to fields other than the one
+you’re focused on.
+
+In my work now, I definitely see proof of the importance of thinking broadly.
+There are many pushes and pulls—what is the market doing? What are our
+competitors doing? There are financial considerations, legal considerations.
+Duke exposes you to all these disciplines and lets you see how all the aspects
+of business and industry come together.
+
+> "In my work now, I definitely see proof of the importance of thinking
+> broadly. There are many pushes and pulls—what is the market doing? What are
+> our competitors doing? There are financial considerations, legal
+> considerations. Duke exposes you to all these disciplines and lets you see
+> how all the aspects of business and industry come together."
+
+For example, I worked on a Braille reader while at Duke. For that project, the
+team spent time at the Duke Eye Center, working with some people with visual
+impairments who could test out our equipment for us. They and the doctors gave
+us feedback. We bounced ideas off of some people in Fuqua when we were making
+a business plan. We had access to all this expertise, and it was all within
+walking distance. That’s a huge selling point for a graduate program.
+
+If you’re considering Duke, know that it’s a wonderful environment. You can
+collaborate widely and see a good cross-section of research, beyond electrical
+and computer engineering. And the faculty are world class.
+
+## What advice do you have for students who are considering pursuing a PhD?
+
+First, ask yourself: do you want to do this? You need to know that it’s a
+long, hard slog. So, you really must like what you’re working on and you must
+be prepared to take quite a few blows along the way. The upside is, earning a
+PhD will really toughen you up. In the workplace you will differentiate
+yourself as someone who is not intimidated by a challenge. You will gain
+confidence in your own abilities. You will have mettle and know you can do
+difficult things. I’ve seen that to be generally true of the PhDs I work
+with—they keep at it. They don’t give up at the first sign of trouble. That’s
+very important in our industry.
+
+Meet Other Alumni
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Single-Photon Detector Can Count to Four
+
+December 15, 2017 | By Ken Kingery
+
+Quantum information scientists teach an old detector a new trick previously
+believed impossible
+
+Engineers have shown that a widely used method of detecting single photons can
+also count the presence of at least four photons at a time. The researchers
+say this discovery will unlock new capabilities in physics labs working in
+quantum information science around the world, while providing easier paths to
+developing quantum-based technologies.
+
+The study was a collaboration between Duke University, the Ohio State
+University and industry partner Quantum Opus, and appeared online on December
+14 in the journal Optica.
+
+“Experts in the field were trying to do this more than a decade ago, but their
+back-of-the-envelope calculations concluded it would be impossible,” said
+Daniel Gauthier, a professor of physics at Ohio State who was formerly the
+chair of physics at Duke. “They went on to do different things and never
+revisited it. They had it locked in their mind that it wasn’t possible and
+that it wasn’t worth spending time on.”
+
+“When we presented our data, world experts were just blown away,” continued
+Jungsang Kim, professor of electrical and computer engineering at Duke. “It’s
+neat having a group like ours that got started a bit later decide to try
+something because we didn’t have any blinders on.”
+
+The discovery deals with a new method for using a photon detector called a
+superconducting nanowire single-photon detector (SNSPD).
+
+At the heart of the detector is a superconducting filament. A superconductor
+is a special material that can carry an electric current forever with zero
+losses at low temperatures. But just like a normal piece of copper wire, a
+superconductor can only carry so much electricity at once.
+
+A SNSPD works by charging a looped segment of superconducting wire with an
+electric current close to its maximum limit. When a photon passes by, it
+causes that maximum limit in a small portion of the wire to drop, creating a
+brief loss of superconductivity. That loss, in turn, causes an electrical
+signal to mark the presence of the photon.
+
+In the new setup, the researchers pay special attention to the specific shape
+of the initial spike in the electrical signal, and show that they can get
+enough detail to correctly count at least four photons traveling together in a
+packet.
+
+“Photon-number-resolution is very useful for a lot of quantum
+information/communication and quantum optics experiments, but it’s not an easy
+task,” said Clinton Cahall, an electrical engineering doctoral student at Duke
+and first author of the paper. “None of the commercial options are based on
+superconductors, which provide the best performance. And while other
+laboratories have built superconducting detectors with this ability, they’re
+rare and lack the ease of our setup as well as its sensitivity in important
+areas such as counting speed or timing resolution.”
+
+For other labs to make use of the discovery, all they would need is a specific
+type of amplifier for boosting the SNSPD’s tiny electrical signal. The
+amplifier must work at the same low temperatures as the SNSPD -- minus 452
+degrees Fahrenheit -- to reduce background noise. It also must have wide
+bandwidth to avoid distorting the signal. Such amplifiers are already
+commercially available and many labs have them.
+
+The results will allow researchers around the world working in quantum
+mechanics to immediately gain new abilities with their existing equipment. As
+one example, the Duke-Ohio State group also recently reported how using the
+timing of incoming photons in addition to their quantum states could greatly
+increase the speed of quantum encryption techniques.
+
+The team is now working to optimize their setup to see just how far they can
+stretch its abilities. They believe with the right electronics and a bit of
+practice, they could count 10 or even 20 photons at a time. The group has also
+filed for a patent to create off-the-shelf devices based on their method.
+
+The research was supported by the Office of Naval Research (N00014-13-1-0627)
+and the National Aeronautics and Space Administration (NNX13AP35A).
+
+“Multi-Photon Detection using a Conventional Superconducting Nanowire Single-
+Photon Detector.” Clinton Cahall, Kathryn L. Nicolich, Nurul T. Islam, Gregory
+P. Lafyatis, Aaron J. Miller, Daniel J. Gauthier, and Jungsang Kim. Optica,
+2017. DOI: 10.1364/OPTICA.4.001534
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

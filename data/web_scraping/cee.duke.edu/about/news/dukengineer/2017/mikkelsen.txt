@@ -1,0 +1,248 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2017
+
+# Trapping Light to Enhance Material Properties
+
+May 1, 2017
+
+Q&A with Maiken Mikkelsen, Nortel Networks Assistant Professor of Electrical
+and Computer Engineering and assistant professor of physics
+
+Recent winner of the esteemed Cottrell Scholar and Maria Goeppert Mayer
+Awards, as well as a “triple crown” of Young Investigator Awards from the Air
+Force, Army and Navy, Professor Maiken H. Mikkelsen uses optics to tailor
+material properties to make them brighter and faster than found naturally. As
+Professor Mikkelsen teaches my ECE 340: Optics and Photonics course, I had the
+wonderful opportunity to ask her more about her research and experience at the
+Photonics Asia conference held in China in October 2016. She is a
+distinguished researcher who has received numerous accolades and has various
+publications on her research in Science, Nature Photonics and Nature Physics,
+to name a few. Professor Mikkelsen enjoys hiking, gardening, playing tennis
+and traveling in her free time. Below is an edited transcript of the
+interview.
+
+**Q: What sparked your interest in optics and photonics?**
+
+I was really excited about doing hands-on research where you could actually
+probe nanoscale and quantum phenomena from optical experiments. I started out
+looking into condensed matter and quantum information science and currently
+observe delicately designed nanostructures. Optics is, to some extent, a tool
+to modify the properties of materials.
+
+**Q: What does your lab do and how do students contribute?**
+
+During the last few years, my students and I have been structuring materials
+on the nanoscale to modify the local electromagnetic environment, which makes
+these materials behave in new ways. Students play a key role in all aspects of
+the research, from nanofabrication, to performing the optical experiments and
+presenting the results to the scientific community at conferences all over the
+world. The lab uses tiny metal structures to concentrate the incoming
+electromagnetic field of light to very small volumes—a research area known as
+plasmonics. Placing other materials in the near field of this modified
+environment causes electrons to behave completely differently. By controlling
+how these electrons behave and modifying the geometry of the material, we can
+gain a deeper understanding of the light-matter interactions. By combining
+these techniques with our optical experiments, we’re able to show
+modifications to material properties that are much stronger than have been
+seen before. It’s been very exciting!
+
+**Q: And this research is what you presented at the Photonics Asia
+conference?**
+
+Yes. With this knowledge, we can enhance the properties of materials
+significantly which in the future could lead to ultra-fast and much better
+LEDs, more efficient photodetectors, or more efficient solar cells and
+sensors. In Beijing China, I gave an overview of this research at the leading
+meeting for the photonics and optics industries in Asia, as well as at several
+other conferences and universities. It was very fulfilling to see how research
+I do in a dark lab actually gets noticed around the world and it is always
+deeply inspiring to learn about recent research breakthroughs from other
+research groups.
+
+**Q: What is the main purpose of trying to find these improved materials?**
+
+I am motivated by furthering our fundamental understanding, such as how do
+light and matter interact when we get to really small scales and how can this
+interaction be leveraged to achieve useful properties. I believe you often
+achieve the biggest technological breakthroughs when you’re not trying to
+solve one particular problem, but creating new materials that could lay the
+groundwork for a wide range of new technologies. For example, semiconductor
+materials, with a set of properties that are found naturally, are the
+cornerstone of most modern technologies. But if you imagine that you now have
+an entirely new set of building blocks with tailored properties instead, they
+could revolutionize a lot of different technologies down the road.
+
+By improving or completely changing the fabrication technique of these light-
+matter interactions, new properties begin to emerge. Generally, there’s always
+a big desire for having something that’s lighter, smaller, more efficient and
+more flexible. One of the applications we’re targeting with this research is
+ultrafast LEDs. While future devices might not use this exact approach, the
+underlying physics will be crucial.
+
+About a year ago, Facebook contacted me andwere interested in utilizing our
+research for detectors that could be ultrafast and detect signals from a wide
+range of incidence angles. This has led to a fruitful collaboration and is one
+example of how fundamental research can have applications in a wide range of
+areas—some that you may not even have imagined when you started!
+
+**Q: You won the Cottrell Scholar Award and the 2017 Maria Goeppert Mayer
+Award earlier this year! Congratulations! Do you think these awards changed
+your life, and if so, in what ways?**
+
+Receiving the Maria Mayer award was a great honor; it is given to only one
+early-career physicist a year in the entire world, so I was thrilled when I
+received that. It was also very nice to get emails from all of my old
+colleagues and friends congratulating me when they received the notice from
+the American Physical Societies listservs.
+
+The Cottrell Scholar Award of $100,000 is given to several young physics and
+chemistry faculty to support both research and educational activities. The
+scholarship gives winners the full academic freedom to explore and pursue
+whatever they find interesting and also creates a community with young
+professors in physics and chemistry across the country to explore and exchange
+ideas for innovative teaching techniques.
+
+**Q: What would be your advice to young researchers still trying to decide a
+career path for themselves or those interested in optics and photonics?**
+
+What really helped me was starting to do undergraduate research. I listened to
+talks by different faculty, asked them to do undergraduate research, and
+worked on a volunteer basis in their labs. I think that’s really a great way
+to see if you’re interested in research—use the amazing opportunities both at
+Duke and around the country. Doing research requires a lot of patience, but I
+think no two days are the same; there’s always a lot of creativity involved
+while troubleshooting new problems. After all, if it was easy or if we knew
+how to do it, it would have already been done. But it hasn’t, so we have to
+figure it out—I think that is a lot of fun. Doing internships in optics and
+photonics companies is also another option to learn more about research and
+development in the industry. Get as many experiences as possible and give
+things a chance!
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2017
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

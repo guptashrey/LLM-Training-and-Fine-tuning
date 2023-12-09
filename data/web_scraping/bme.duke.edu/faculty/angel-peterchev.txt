@@ -1,0 +1,315 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Angel V Peterchev
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in Psychiatry and Behavioral Sciences
+
+I direct the Brain Stimulation Engineering Lab (BSEL) which focuses on the
+development, modeling, and application of devices and paradigms for
+transcranial brain stimulation. Transcranial brain stimulation involves non-
+invasive delivery of fields (e.g., electric and magnetic) to the brain that
+modulate neural activity. It is widely used as a tool for research and a
+therapeutic intervention in neurology and psychiatry, including several FDA-
+cleared indications. BSEL develops novel technology such as devices for
+transcranial magnetic stimulation (TMS) that leverage design techniques from
+power electronics and computational electromagnetics to enable more flexible
+stimulus control, focal stimulation, and quiet operation. We also deploy these
+devices in experimental studies to characterize and optimize the brain
+response to TMS. Another line of work is multi-scale computational models that
+couple simulations of the electromagnetic fields, single neuron responses, and
+neural population modulation induced by electric and magnetic brain
+stimulation. These models are calibrated and validated with experimental
+neural recordings through various collaborations. Apart from understanding of
+mechanisms, we develop modeling, algorithmic, and targeting tools for response
+estimation, dose individualization, and precise localization of transcranial
+brain stimulation using advanced techniques such as artificial neural networks
+and machine learning. Moreover, BSEL is involved in the integration of
+transcranial brain stimulation with robotics, neuronavigation, intracranial
+electrophysiology recordings, and imaging modalities such as functional
+magnetic resonance imaging (fMRI) and electroencephalography (EEG), as well as
+the evaluation of the safety of device–device interactions, for example
+between transcranial stimulators and implants. Importantly, we collaborate
+widely with neuroscientists and clinicians within Duke and at other
+institutions to translate developments from the lab to research and clinical
+applications. For over 15 years, BSEL has been continuously supported with
+multiple NIH grants as well as funding by DARPA, NSF, Brain & Behavior
+Research Foundation, Coulter Foundation, Duke Institute for Brain Sciences,
+MEDx, Duke University Energy Initiative, and industry. Further, some of our
+technology has been commercialized, for example as ElevateTMS cTMS, or
+incorporated in free software packages, such as SimNIBS.
+
+## Appointments and Affiliations
+
+  * Associate Professor in Psychiatry and Behavioral Sciences
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Associate Professor of Biomedical Engineering
+  * Associate Professor in Neurosurgery
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** Dept. Psychiatry & Behavioral, Box 3620 DUMC, Durham,
+    NC 27710
+  * **Office Phone:** (919) 684-0383
+  * **Email Address:** angel.peterchev@duke.edu
+  * **Websites:**
+    * Brain Stimulation Engineering Lab
+    * Google Scholar
+    * ORCiD
+
+## Education
+
+  * B.A. Harvard University , 1999
+  * M.S. University of California - Berkeley, 2002
+  * Ph.D. University of California - Berkeley, 2005
+
+## Courses Taught
+
+  * BME 394: Projects in Biomedical Engineering (GE)
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * ECE 431: Power Electronic Circuits for Energy Conversion
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 531: Power Electronic Circuits for Energy Conversion
+  * ECE 899: Special Readings in Electrical Engineering
+  * ENERGY 396: Connections in Energy: Interdisciplinary Team Projects
+  * ENRGYEGR 431: Power Electronic Circuits for Energy Conversion
+  * ENRGYEGR 531: Power Electronic Circuits for Energy Conversion
+
+## In the News
+
+  * Energy Initiative-Supported Project Connects Brain Science with Electric
+    Cars (…
+  * A shocking result: Study finds new trend of applying electric currents to
+    your …
+  * Energy Initiative Provides First Round of Research Seed Funding (Apr 16,
+    2014)
+
+## Representative Publications
+
+  * Peterchev, Angel V., Kevin DʼOstilio, John C. Rothwell, and David L.
+    Murphy. “Controllable pulse parameter transcranial magnetic stimulator
+    with enhanced circuit topology and pulse shaping.” J Neural Eng 11, no. 5
+    (October 2014): 056023. https://doi.org/10.1088/1741-2560/11/5/056023.
+  * Mueller, Jerel K., Erinn M. Grigsby, Vincent Prevosto, Frank W. Petraglia,
+    Hrishikesh Rao, Zhi-De Deng, Angel V. Peterchev, et al. “Simultaneous
+    transcranial magnetic stimulation and single-neuron recording in alert
+    non-human primates.” Nat Neurosci 17, no. 8 (August 2014): 1130–36.
+    https://doi.org/10.1038/nn.3751.
+  * Peterchev, Angel V., Stefan M. Goetz, Gregory G. Westin, Bruce Luber, and
+    Sarah H. Lisanby. “Pulse width dependence of motor threshold and input-
+    output curve characterized with controllable pulse parameter transcranial
+    magnetic stimulation.” Clin Neurophysiol 124, no. 7 (July 2013): 1364–72.
+    https://doi.org/10.1016/j.clinph.2013.01.011.
+  * Goetz, Stefan M., Cong Nam Truong, Manuel G. Gerhofer, Angel V. Peterchev,
+    Hans-Georg Herzog, and Thomas Weyh. “Analysis and optimization of pulse
+    dynamics for magnetic stimulation.” Plos One 8, no. 3 (2013): e55771.
+    https://doi.org/10.1371/journal.pone.0055771.
+  * Peterchev, Angel V., Timothy A. Wagner, Pedro C. Miranda, Michael A.
+    Nitsche, Walter Paulus, Sarah H. Lisanby, Alvaro Pascual-Leone, and Marom
+    Bikson. “Fundamentals of transcranial electric and magnetic stimulation
+    dose: definition, selection, and reporting practices.” Brain Stimul 5, no.
+    4 (October 2012): 435–53. https://doi.org/10.1016/j.brs.2011.10.001.
+  * Lee, Won Hee, Zhi-De Deng, Tae-Seong Kim, Andrew F. Laine, Sarah H.
+    Lisanby, and Angel V. Peterchev. “Regional electric field induced by
+    electroconvulsive therapy in a realistic finite element head model:
+    influence of white matter anisotropic conductivity.” Neuroimage 59, no. 3
+    (February 1, 2012): 2110–23.
+    https://doi.org/10.1016/j.neuroimage.2011.10.029.
+  * Peterchev, Angel V., David L. Murphy, and Sarah H. Lisanby. “Repetitive
+    transcranial magnetic stimulator with controllable pulse parameters.” J
+    Neural Eng 8, no. 3 (June 2011): 036016.
+    https://doi.org/10.1088/1741-2560/8/3/036016.
+  * Deng, Zhi-De, Sarah H. Lisanby, and Angel V. Peterchev. “Electric field
+    strength and focality in electroconvulsive therapy and magnetic seizure
+    therapy: a finite element simulation study.” J Neural Eng 8, no. 1
+    (February 2011): 016007. https://doi.org/10.1088/1741-2560/8/1/016007.
+  * Peterchev, Angel V., Moacyr A. Rosa, Zhi-De Deng, Joan Prudic, and Sarah
+    H. Lisanby. “Electroconvulsive therapy stimulus parameters: rethinking
+    dosage.” J Ect 26, no. 3 (September 2010): 159–74.
+    https://doi.org/10.1097/YCT.0b013e3181e48165.
+  * Peterchev, Angel V., Reza Jalinous, and Sarah H. Lisanby. “A transcranial
+    magnetic stimulator inducing near-rectangular pulses with controllable
+    pulse width (cTMS).” Ieee Trans Biomed Eng 55, no. 1 (January 2008):
+    257–66. https://doi.org/10.1109/TBME.2007.900540.
+  * Peterchev, A. V., and S. R. Sanders. “Quantization resolution and limit
+    cycling in digitally controlled PWM converters.” Ieee Transactions on
+    Power Electronics 18, no. 1 II (2003): 301–8.
+    https://doi.org/10.1109/TPEL.2002.807092.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

@@ -1,0 +1,240 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Hacking into a Bionic Ear
+
+August 23, 2016 | By Ken Kingery
+
+Engineering student Vinay Nagaraj uses his experience hacking cochlear
+implants to land an internship designing wearables to improve children’s
+language skills.
+
+Can you see the last line better with number one…or number two? Number two…or
+number three?
+
+These are questions familiar to anyone who has ever gotten a prescription for
+glasses or contact lenses. Even with new technology to automatically detect
+your prescription, clients usually end up behind one of those face-covering
+devices that look better suited for a futuristic steampunk horror flick.
+
+Finding the best prescription that fits each individual’s eyes has been
+routine for decades. For individuals who need prescriptions for their ears,
+however, no such standardized set of rules exists.
+
+Cochlear implants are surgically implanted electronic devices that gather
+sounds from the world and transmit them to the brain through electric signals.
+Over the past 30 years, these devices have been steadily improved, giving deaf
+individuals the gift of hearing—most can even use a telephone. There are many
+nuanced adjustments that can be made to a cochlear implant, however, and
+finding the best set of parameters for each person is tricky.
+
+Vinay Nagaraj, a recently graduated mechanical engineer from Duke University,
+is attempting to fix this shortcoming of an otherwise transformative
+technology. By creating software that “hacks” a cochlear implant, Vinay is
+allowing people to adjust their own settings to maximize their auditory
+experience. The project has also helped Vinay in return by giving him valuable
+research experience and an internship opportunity that could help shape his
+career.
+
+“Duke has this program called Bass Connections that funds projects formed
+between different departments, which is how I got started with cochlear
+implants,” said Vinay. “It’s a fantastic program for someone like me without
+much of a background in research. I got a lot of experience and got to work
+closely with graduate students and Professor Leslie Collins. I’d say it was my
+defining experience as an undergraduate at Duke.”
+
+During his Bass Connections project, Vinay used a computer coding program
+called MATLAB to develop an interface that could adjust the minimum threshold
+and maximum comfort levels of a cochlear implant. That work went on for a
+semester and a summer, coming to an end before his senior year.
+
+But Vinay wasn’t ready to give up on the project just yet.
+
+“Vinay really wants to solve the problem in front of him,” said Collins,
+professor of electrical and computer engineering and biomedical engineering.
+“He’s engaged, focused and good at what he does. If he got stuck, he was quick
+to ask for help, and you never had to track him down.”
+
+Vinay continued his research into his senior year as an independent study,
+which eventually became his senior thesis. His work began focusing on the
+frequency allocation of cochlear implants.
+
+Each cochlear implant has a fixed number of electrodes that can send signals
+to the brain, and each electrode responds to a specific range of frequencies.
+For example, electrode 1 might cover 200-400 Hertz, while electrode two
+responds to 400-600 Hertz, and so forth.
+
+How the spectrum of audible frequencies is divided between the device’s
+electrodes comes preset from the factory. Vinay, however, wondered if changing
+those ranges on an individual basis might provide some improvement in speech
+recognition, so he developed a program that would allow individuals to
+experiment with different setups.
+
+At the end of his senior year, Vinay tried out his program on people with
+normal hearing by simulating how frequency allocations affects audio
+signals—and it worked. Now he is hoping to get the chance to try it out with
+people that actually have cochlear implants, as he is coming back to Duke for
+another year to complete a 4+1 Master of Engineering degree in biomedical
+engineering.
+
+In the meantime, Vinay has kept busy by listening to the world from the
+perspective of a baby.
+
+“I went to a startup networking fair toward the end of my last semester, and
+came across VersaMe,” said Vinay. “They have this interesting idea of using
+wearable devices for children to increase the quality of engagement that they
+have with their family.”
+
+Research shows that the more children interact with and hear speech from their
+parents, the quicker language skills will develop—an advantage that continues
+into schooling and adult years. VersaMe’s idea is to have a device—called the
+Starling—that counts the number of words that a baby is hearing from his or
+her parents, so that certain goals of interaction can be met.
+
+The challenge is that not every noise that a baby hears is speech from a
+family member. A listening device is constantly bombarded by noise from the
+outside world, conversations from the television and, as the child gets older,
+speech from the wearer.
+
+Distinguishing which noises count as influential words for a child from the
+background noise is a difficult task. But it’s a task that has a lot in common
+with the challenges raised by cochlear implants.
+
+“As it so happened, the recruiters from VersaMe have worked with Professor
+Collins before to improve their speech recognition algorithms,” said Vinay.
+“One of their first hires was even a doctoral student in Professor Collins’s
+lab. I was able to land the internship with her strong recommendation.”
+
+As a mechanical engineer, Vinay has spent the summer on the hardware aspects
+of the Starling, like designing how it is attached to children. With his
+experience working with cochlear implants, he’s also analyzing audio to
+process it in real-time more efficiently. And because VersaMe is a startup
+with only a relatively small number of employees, Vinay has also had the
+chance to do some marketing and other various jobs.
+
+Vinay isn’t exactly sure what his final year at Duke will bring while he’s
+earning his master’s degree. He could build on his research experience and
+pursue a PhD in a biomedical engineering field, perhaps working on cochlear
+implants. His internship with VersaMe might evolve into something more. Or his
+education in business leadership might push him in a new direction entirely.
+
+But whatever his path, those who have worked with him know he’ll succeed.
+
+“It will be interesting to see what Vinay does,” said Collins. “He has that
+curiosity and drive that would be perfect for somebody enrolling in graduate
+school. But I could also see him getting really captivated by something else
+and wanting to graduate and go save the world.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

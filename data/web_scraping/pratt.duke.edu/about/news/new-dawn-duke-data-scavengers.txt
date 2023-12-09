@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A New Dawn for Duke’s Data Scavengers
+
+November 4, 2019 | Miranda Volborth
+
+An undergraduate machine learning enthusiast secures $45,000 to fund a
+computing mini-cluster dedicated to student use
+
+Luke Truitt ECE ’21 has spent the last year scrounging for spare graphic
+processing units to support his machine learning hobby—even slivers of GPUs
+can add up to enough computational power to support a small project.
+
+Machine learning is used widely at Duke, especially in engineering, medicine
+and computer science. Anyone whose research hinges on parsing vast amounts of
+data is probably taking a machine learning approach—deploying mathematical
+models to make inferences or decisions based on sample data, or “training”
+data. (When machine learning folks talk about “training their model,” this is
+what they’re talking about.)
+
+Duke faculty use machine learning to scan video recordings for fleeting facial
+expressions that indicate potential signs of autism spectrum disorder, and to
+sort through mountains of clinical records and claims data in search of
+patients at risk for medical emergencies. They use machine learning to create
+better climate models, and recipes for new materials, like superhard carbon.
+
+Machine learning has taken off in recent years, in part because of the wide
+availability of GPUs. GPUs are a kind of computer chip that rapidly process
+data, and were originally used to render images, freeing up the central
+processor for other tasks. Now, they are also used for AI and machine learning
+applications.
+
+GPUs are available as physical components, and also in the Cloud, where anyone
+can get access to them—for a price. Some faculty members who focus on machine
+learning buy and maintain small GPU clusters of their own, but many choose to
+buy into a shared GPU-infused computing cluster administered by Duke’s Office
+of Institutional Technology. Costs for the service might easily reach into the
+tens of thousands of dollars, depending on the amount of data they need to
+process.
+
+But faculty members who pay for that access don’t always use the resource at
+capacity—little crumbs of computational power from the racks or credits in the
+Cloud might be left over, where undergraduates like Truitt can snap them up.
+
+> Little crumbs of computational power from the racks or credits in the Cloud
+> might be left over, where undergraduates like Truitt can snap them up.
+
+Truitt became interested in machine learning last year after a summer stint at
+General Motors, where he worked with a team trying to improve manufacturing
+processes. “You put an air cap on a tire, but how do you know the cap is
+actually secure?” Truitt asked. “Right now they take an image with a camera,
+and look at the contrast of the different parts, and it’s very error-
+prone—only around 97 percent accurate,” he explained. “So we applied machine
+learning for error detection, and we got the number up to 99.7 percent
+accuracy. The R&D team estimated that it saved the company something like 50
+million dollars a year. Since then I’ve just been trying to do as much with
+machine learning as I can, because it’s so cool.”
+
+Starting the Duke Applied Machine Learning Club and seeking out research
+projects that could benefit from machine learning helped to scratch Truitt’s
+itch. The club is currently working on two projects: cleaning up artifact data
+from anomalies like tattoos and metal fillings from brain FMRIs for the Duke
+Institute for Brain Sciences, and working with a PhD student in ECE professor
+Missy Cummings’s lab to analyze data gathered by a “fidget watch,” which lets
+its wearers interact with a watch app when bored or distracted. Information
+about the frequency and length of these interaction events, alongside health
+data like heart rate and movement data, could help researchers identify
+triggers for people with disorders like ADHD.
+
+The club’s FMRI project, said Truitt, runs entirely off of bits and pieces of
+scavenged computing.
+
+Truitt wasn’t satisfied with the precarious nature of the computing power
+available to the club, so he brought the problem to ECE professor John Board.
+The two put together a proposal for Duke Vice President for Research Larry
+Carin—himself a noted Duke ECE machine-learning expert—asking for a mini-
+cluster of GPUs dedicated to student use. Board thought that OIT might be able
+to integrate the extra GPUs into its existing framework, and split them up
+using technology developed by OIT’s own Mark McCahill, so more students could
+access them at a time.
+
+One day last week, Truitt woke up to an email in his inbox notifying him that
+he had been awarded a $45k grant to purchase the GPUs. Half had come from the
+Office of the Vice President for Research, and half from OIT.
+
+“I emailed Dr. Board to ask if it was real,” laughed Truitt. “It just solved
+so many of the problems we’ve had.”
+
+In addition to computing power, the grant will also fund a website to monitor
+the existing cluster, so administrators can track when and how it’s being
+used—and Truitt has plenty of ideas.
+
+For one, he thinks the university’s Data+ and +DS classes could benefit from
+the GPU addition, along with classes like _EGR 590: Deep Learning_. “Our
+homeworks are designed around the fact that we can’t do huge computations,”
+said Truitt. “We couldn’t perform cross-validation on our models because it’s
+computationally expensive. But if you could schedule one-fifth of a GPU per
+student for a week, they could perform that validation, and then pass it on to
+the next person.”
+
+The cluster could also fuel plain, old-fashioned intellectual curiosity.
+
+“What would happen if I went back 50 years, selected one company from the S&P
+500 every year, saw how the S&P 500 changed, graphed all of that, looked to
+see if there was anything unique? That’s just a fun kind of project that I
+would want to do on the side. You laugh, but that’s something that I think
+would be super-cool,” said Truitt, “and other people will, too.”
+
+MOre News From Duke ECE
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

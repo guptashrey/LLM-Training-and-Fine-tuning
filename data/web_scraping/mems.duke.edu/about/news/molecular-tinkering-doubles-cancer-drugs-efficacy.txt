@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Molecular Tinkering Doubles Cancer Drug’s Efficacy
+
+August 4, 2015 | By Ken Kingery
+
+Molecular packaging enhances a drug’s effects in mice
+
+Researchers have packaged a widely used cancer drug into nanoparticles, more
+than doubling its effectiveness at destroying tumors.
+
+The drug paclitaxel has been used for decades to fight breast, ovarian, lung
+and other cancers. But its effectiveness has been limited by its small
+molecular size and insolubility in water—properties that allow the body to
+clear the drug too quickly, reducing its accumulation in tumors.
+
+Many molecular packaging systems have been developed to deliver the drug while
+counteracting these effects, with a protein-bound version of the drug called
+Abraxane currently the leading therapy.
+
+But Ashutosh Chilkoti, professor and chair of the Department of Biomedical
+Engineering at Duke University, thought his team could do better.
+
+By surrounding molecules of paclitaxel with self-assembling spheres composed
+of amino acids, the Duke team doubled tumor exposure to the drug compared to
+Abraxane while simultaneously reducing its effects on healthy tissue. This
+kept mice with tumors alive significantly longer and, in some cases,
+completely eradicated the tumors.
+
+The results were published online in Nature Communications on August 4, 2015.
+
+The big difference between Abraxane and the Duke approach is the types of
+molecular bonds that are formed. In Abraxane, the paclitaxel is physically
+surrounded by albumin, a common blood protein. In the new packaging system,
+multiple copies of the drug are chemically bonded to an amino acid
+polypeptide, forming a water-soluble nanoparticle with the drug hidden in its
+core.
+
+These nanoparticles are highly soluble in blood and are the perfect size to
+penetrate and accumulate in tumors where they take advantage of a tumor’s
+acidic environment.
+
+“The chemical bonds holding the polypeptide cage together are stable in blood,
+but dissolve in a tumor’s lower pH levels,” said Jayanta Bhattacharyya, senior
+researcher in Chilkoti’s lab and first author on the paper. “This delivers the
+drug directly to the tumor and helps prevent it from randomly absorbing into
+healthy tissue, reducing side effects.”
+
+To test their system, Chilkoti, Bhattacharyya and their colleagues used two
+groups of mice. The first group had human breast cancer growing in their own
+mammary glands. While none of the mice treated with Abraxane survived past 85
+days, most of the mice treated with the new packaging system survived past 100
+days.
+
+A second group of mice had human prostate tumors growing under their skin.
+Similarly, while they did not survive past 60 days when treated with Abraxane,
+every single mouse treated with the new packaging system survived past 70
+days, with some experiencing a complete cure.
+
+As the mortality rates suggest, the Duke technology showed a higher
+concentration of paclitaxel in the tumors with more staying power than
+Abraxane, while simultaneously showing much lower levels throughout the rest
+of the mice’s bodies.
+
+“Clearly in the animal model there is a night and day difference, and if that
+translates to people it will be transformative for patients,” said Neil
+Spector, an oncologist at Duke Medicine familiar with the work. “But it’s not
+just the increase in clinical efficacy and outcomes that are exciting, it’s
+also the improvement in targeting and reduction in toxicity, which is just
+icing on the cake. And since this platform could potentially be used for such
+a broad array of drugs, it could be a game-changer for cancer therapy.”
+
+In future work, Chilkoti and coworkers will begin applying the packaging
+system to other cancer drugs with the goal of developing a “one size fits all”
+technology to improve the effectiveness of many other cancer drugs.
+
+This research was supported by the National Institutes of Health (R01
+EB000188, R01 EB007205).
+
+###
+
+“A Paclitaxel-Loaded Recombinant Polypeptide Nanoparticle Outperforms Abraxane
+in Multiple Murine Cancer Models.” Jayanta Bhattacharyya, Joseph J. Bellucci,
+Isaac Weitzhandler, Jonathan R. McDaniel, Ivan Spasojevic, Xinghai Li, Chao-
+Chieh Lin, Jen-Tsan Ashley Chi and Ashutosh Chilkoti. Nature Communications,
+2015. DOI: 10.1038/ncomms8939
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,234 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tiny Jumping Genes Fingered as Culprit in Rise of Antibiotic Resistance
+
+April 5, 2022 | By Ken Kingery
+
+Activity levels of transposons provide the handle needed for selection to
+spread antibiotic resistance from wild microbes to human pathogens
+
+Biomedical engineers at Duke University believe they have discovered the
+physical mechanism that causes high doses of antibiotics to promote the spread
+of antibiotic resistance between bacteria.
+
+The culprit, they say, is an overabundance of “jumping genes,” called
+transposons, that carry the genetic instructions for resistance from the
+cell’s source code to plasmids that shuttle between cells.
+
+The results appeared online March 28 in the journal Nature Ecology &
+Evolution.
+
+“There’s a lot of evidence that suggests human pathogens likely pick up
+antibiotic resistance from other species living in the natural environment,”
+said Lingchong You, professor of biomedical engineering at Duke. “Intuitively,
+it makes sense that high levels of antibiotics in these environments are
+facilitating the jumping of resistance genes from chromosomes to plasmids so
+that they can spread, but the underlying mechanism never been directly tested.
+That’s where our work comes in.”
+
+It’s no secret that the rise in antibiotic resistance in human pathogens has
+coincided with the rise in the use of antibiotics in large-scale industrial
+endeavors like farming and manufacturing. While the genes that provide
+resistance appear to be relatively new to these pathogens, some date back
+millions of years in bacteria living in certain wild ecosystems. Coupled with
+experiments that show high levels of antibiotics promote the spread of
+resistance both within and between bacterial species, it’s easy to draw the
+conclusion that human pathogens have acquired these resistance genes from the
+environment due to its increasing ambient levels of antibiotics.
+
+While the cause and effect seems clear, research has never firmly established
+the underlying mechanisms, You said. Scientists know that small, free-floating
+bundles of DNA called plasmids carry resistance genes between cells. You’s own
+research, however, has shown that the presence of antibiotics does not
+increase the rate at which plasmids carry out these gene swaps. What then, the
+researchers asked, is the fundamental force driving this natural selection?
+
+In the new paper, You and his postdoc Yi Yao show that this mysterious
+mechanism could be the antibiotic-mediated selection on “jumping genes,”
+called transposons, that carry the resistance genes from the cell’s
+chromosomes to the plasmids.
+
+> “Intuitively, it makes sense that high levels of antibiotics in these
+> environments are facilitating the jumping of resistance genes from
+> chromosomes to plasmids so that they can spread, but the underlying
+> mechanism never been directly tested. That’s where our work comes in.”
+>
+> lingchong you
+
+“Yi’s experiments were designed to test this possible pathway that explains
+how different pathogens actually get resistance from environmental species,”
+You said. “And he demonstrated that not only is this possible, it’s also very
+likely.”
+
+Transposons are tiny pieces of DNA that constantly jump around the inside of a
+cell. They can jump from place to place within a cell’s central genetic
+database, and they can jump from the database of the DNA to the larger
+plasmids capable of traveling between cells, or vice versa. This can lead to
+chromosomes or plasmids that contain many copies of the same genetic
+blueprints.
+
+In a series of experiments, Yao exposed cells resistant to various types of
+antibiotics to a range of concentrations of that antibiotic. As the
+concentration increased, invariably there came a point at which the cells
+carrying plasmids with more copies of the resistance genes began outcompeting
+their peers.
+
+“All the curves looked almost exactly the same,” You said. “It’s actually
+surprising just how robust the trend is.”
+
+The researchers say that the copy number of transposons on the plasmids
+affects how many antibiotic resistance proteins the cell is producing. That
+production comes at an energy cost, and it’s not until the amount of
+antibiotics reaches a certain level that the extra energy expended is a
+valuable trait to carry.
+
+It is not clear, however, if the higher levels of antibiotics are directly
+causing the resistance transposons within these cells to become more active.
+Rather, it demonstrates that if the transposon jumping is already happening,
+antibiotic selection would always enrich the population containing resistance
+genes that have jumped to plasmids.
+
+The levels of antibiotics required to begin driving this selection, the
+researchers say, varies greatly between species and the specific drugs in
+question. But this range is not uncommon in today’s natural environments,
+potentially providing the pressure needed for human pathogens to pick up the
+resistance genes with more regularity.
+
+“We’re now working to prove that this dynamic is actively occurring in real
+environments like hospitals and not just in a Petri dish,” You said. “We also
+want to see if we can use this knowledge to selectively dial in the flow of
+genes to optimize bacteria engineered for industrial uses.”
+
+This work was supported by the National Institutes of Health (R01A1125604,
+R01GM110494, R01EB029466), the National Science Foundation (MCB-1937259) and
+the David and Lucile Packard Foundation.
+
+CITATION: “Intra- And Interpopulation Transposition Of Mobile Genetic Elements
+Driven By Antibiotic Selection,” Yi Yao, Rohan Maddamsetti, Andrea Weiss,
+Yuanchi Ha, Teng Wang, Shangying Wang and Lingchong You. Nature Ecology &
+Evolution, March 28, 2022. DOI: 10.1038/s41559-022-01705-2
+
+## Related News
+
+April 11, 2016
+
+### Antibiotics Don't Promote Swapping of Resistance Genes
+
+April 23, 2015
+
+### Finding New Life for First-Line Antibiotics
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

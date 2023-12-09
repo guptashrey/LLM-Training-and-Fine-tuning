@@ -1,0 +1,244 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke’s Guillermo Sapiro Elected a Member of the National Academy of
+Engineering
+
+February 11, 2022 | Ken Kingery
+
+The professor of electrical and computer engineering was recognized for three
+decades of transformative contributions to the theory and practice of imaging
+
+Guillermo Sapiro, the James B. Duke Distinguished Professor of Electrical and
+Computer Engineering at Duke University, has been named a member of the
+National Academy of Engineering (NAE)—among the highest professional
+distinctions for an engineer.
+
+Sapiro was cited “for contributions to the theory and practice of imaging,”
+which have had significant effects on fields as diverse as image recognition
+and stock market prediction.
+
+“Guillermo has long been working at the forefront of the imaging and machine
+learning fields—a true pioneer sparking innovation in both fields, leading to
+their intertwining over time,” said Jerome P. Lynch, the Vinik Dean of the
+Pratt School of Engineering at Duke. “Many of the projects he has developed,
+such as his ongoing work to create an app to help detect signs of autism in
+early childhood, are inspiring examples of the positive impact engineering has
+on real people. Duke is extremely proud of Guillermo because his nomination to
+the NAE celebrates the importance of engineering innovation in bettering the
+human condition, a core mission of our school and university.”
+
+> “I am honored and humbled by being in the NAE with some of my heroes, and I
+> am looking forward to making them proud.”
+>
+> **Guillermo Sapiro** | James B. Duke Distinguished Professor of Electrical
+> And Computer Engineering
+
+He is part of the 2022 class of 111 new NAE members and 22 international
+members announced by the academy. Sapiro’s election increases the number of
+faculty members at Duke Engineering to hold the distinction to 10.
+
+“This is a recognition not to me but my mentors, students and collaborators,”
+Sapiro said. “I am honored and humbled by being in the NAE with some of my
+heroes, and I am looking forward to making them proud.”
+
+His transformative research has focused on developing and applying new
+computer science and engineering tools to improve a wide range of imaging
+applications.
+
+In 2009, Sapiro published a paper that was the first to propose a general-
+purpose, highly effective “dictionary learning” algorithm efficient enough to
+train itself on truly massive data sources without getting bogged down. This
+innovation led to a wide range of machine learning algorithms and set the
+stage for developing more complex machine learning concepts, such as deep
+learning.
+
+The International Conference on Machine Learning recognized the paper’s
+importance with a “Test of Time” award in 2019. Sapiro had previously received
+a similar “Test of Time” award from the International Conference on Computer
+Vision, giving him the rare honor of having received the distinction in two
+fields.
+
+His work has since progressed in the realms of general computer imaging theory
+and practical applications of its use, which have resulted in high-impact
+industry collaborations.
+
+As one example, he designed algorithms capable of sharpening video blurred by
+a shaky camera. That work found its way into Adobe’s After Effects video
+editing software, used to create Hollywood movies.
+
+He also led work in collaboration with Volvo Cars to adapt short-range LiDAR
+(light detection and ranging) imaging algorithms to work for long-range
+detection schemes. These are much more difficult to achieve with the
+technology. Notably, his algorithms were used as part of a mission to Mars.
+
+Another notable collaboration evolved with colleagues at the Duke University
+School of Medicine—a mobile application to screen for autism in young
+children. The project, which has been under development for nearly a decade,
+has led to new insights about autism spectrum disorder (ASD) and has the
+potential to transform how child development is screened and monitored.
+
+> With Guillermo Sapiro’s election, the number of Duke Engineering faculty
+> members of the National Academy of Engineering increased to 10.
+>
+> Meet Duke's NAE Members »
+
+“A distinctive theme of faculty research at Duke ECE is that it is actively
+and energetically interdisciplinary—of which Guillermo’s research
+collaborations within our department, across Duke, and with innovators around
+the world are shining examples,” said Krishnendu Chakrabarty, chair of Duke
+ECE and the John Cocke Professor of Electrical and Computer Engineering. “This
+is a great day for our colleague Guillermo and for the entire Duke ECE
+community of faculty, staff, students, alumni and friends.”
+
+Sapiro’s other honors include election to the American Academy of Arts and
+Sciences in 2018.
+
+He is also a fellow of the Institute of Electrical and Electronics Engineers
+(IEEE) and the Society for Industrial and Applied Mathematics (SIAM). Sapiro
+was the founding editor-in-chief of the SIAM _Journal on Imaging Sciences_.
+Sapiro is also affiliated with Apple in its AI/machine learning organization.
+
+As a member of NAE, Sapiro will help the academy carry out its mission to
+provide engineering leadership in service to the nation. With 2,500 peer-
+elected members and international members, the academy serves as an advisor to
+the United States government and conducts independent studies examining
+important engineering and technology topics.
+
+Other Pratt School of Engineering faculty members of the NAE are:
+
+  * Ana Barros (CEE, emeritus)
+  * Robert Calderbank (ECE/CS)
+  * Ingrid Daubechies (Math/ECE)
+  * Earl Dowell (MEMS)
+  * Kenneth Hall (MEMS)
+  * Henry Petroski (CEE, emeritus)
+  * Vahid Tarokh (ECE)
+  * Mark Wiesner (CEE)
+  * Blake Wilson (BME/ECE)
+
+Go to Duke ECE
+
+## Related News
+
+June 12, 2019
+
+### Building Dictionaries for Machine Learning from Sparse Data
+
+March 03, 2017
+
+### An App for Autism Screening
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

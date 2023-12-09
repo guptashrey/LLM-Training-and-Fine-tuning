@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Crystal Noel: Hot on the Heels of a Long-Lasting Qubit
+
+August 20, 2020 | by Miranda Volborth
+
+As the Duke Quantum Center comes online, Noel is already imagining what we
+need to build the next generation of quantum information systems
+
+Crystal Noel will join Duke University’s Department of Electrical and Computer
+Engineering and Department of Physics and add her experience in quantum error
+correction to the rapidly expanding Duke Quantum Center (DQC). Noel will begin
+as a research scientist in the summer of 2021 and join the faculty in summer
+2022.
+
+Noel has spent the past year as a postdoctoral associate in the lab of
+University of Maryland professor Chris Monroe, part of a team building an
+IARPA-funded quantum computer system called EURIQA—the Error-corrected
+Universal Reconfigurable Ion-trap Quantum Archetype.
+
+## Crystal Noel
+
+Assistant Professor, Electrical and Computer Engineering and Physics (July
+2022)
+
+**Hometown:** Alexandria, VA
+
+**Alma Maters:** MIT BS '13 and UC Berkeley PhD '19
+
+**Representative Publication:**
+https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.063427
+
+**Fun Facts:** Serves on an alumnae advisory council that advises officers in
+Pi Beta Phi, her college sorority. “I love mentoring officers, helping them
+grow into leaders,” said Noel.
+
+Though until recently the members of the DQC team, which include Duke
+Engineering’s Jungsang Kim and Kenneth Brown, have been spread across the
+eastern seaboard, they shared a single approach to quantum computing—ion
+trapping, which uses lasers to cool and manipulate ions held in a chamber
+where background gases are lower than in the vacuum of space. In this rarefied
+environment, the trapped ions can hold a superposition—a phenomenon of physics
+that allows them to exist in two states simultaneously. These kinds of ions
+serve as the quantum bits, or qubits, at the heart of EURIQA.
+
+But the tiniest environmental disturbance can cause qubits to toggle on or off
+in the middle of calculations.
+
+“If a qubit flips to a zero or a one in the middle of a calculation, that’s an
+error,” said Noel. “You have to come up with a protocol by which you can probe
+the system, find errors, and fix them. What if I make three copies of the
+qubit, and only one flips? Then I know what the error was. But we can’t just
+copy a qubit like we would a normal bit. It requires more cleverness in
+construction.”
+
+> If one perfects a method that continually corrects the environmental factors
+> disrupting a system, said Noel, one could create a qubit with enough stamina
+> to complete computing tasks that are exponentially out of reach for current
+> computer technologies.
+
+As of now, EURIQA has evolved to the point where the frequent calibrations
+needed to keep the system operational are run remotely, leaving Noel more time
+to further refine software and work with theorists to imagine the next
+generation of quantum computers, whose computational capabilities will
+increase exponentially as qubits are added. “We need to think farther ahead,”
+said Noel. “As of now there’s no clear picture of how we’re going to go from
+20 qubits to 100. How can we do that with smart engineering of the traps
+themselves? At this point in the field, it’s more and more important to use
+good engineering practices and design for the future.”
+
+The EURIQA system located at the University of Maryland will also relocate to
+Duke, serving as the temporary flagship computer of DQC; the center will
+feature a user-facing lab where theorists will be able to explore problems far
+too complex for a classical computer to handle.
+
+> “DQC will be very different from what is currently offered commercially in
+> the Cloud, because we’ll be able to interact with the theorists and
+> customize the machine as needed."
+>
+> Crystal Noel
+
+Noel said the opportunity to be part of the Duke team launching this unique
+quantum computing hub was the main motivator for her move. “DQC will be very
+different from what is currently offered commercially in the Cloud, because
+we’ll be able to interact with the theorists and customize the machine as
+needed,” said Noel. “We’re going to be bringing in collaborators right away.
+It’s going to be a fast-paced, exciting time, and the collaboration among
+experts in a single building is really going to accelerate the research."
+
+## Related News
+
+August 20, 2020
+
+### Chris Monroe: Realizing Ion-Trap Quantum Computers to Solve Unsolvable
+Problems
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

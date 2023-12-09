@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Spotting Air Pollution with Satellites, Better Than Ever Before
+
+April 22, 2020 | By Ken Kingery
+
+Machine learning algorithm uses high-resolution micro-satellite imagery and
+weather data to detect levels of harmful air pollution with as much accuracy
+and more resolution than any current method
+
+Researchers from Duke University have devised a method for estimating the air
+quality over a small patch of land using nothing but satellite imagery and
+weather conditions. Such information could help researchers identify hidden
+hotspots of dangerous pollution, greatly improve studies of pollution on human
+health, or potentially tease out the effects of unpredictable events on air
+quality, such as the breakout of an airborne global pandemic.
+
+The results appear online in the journal Atmospheric Environment.
+
+“We’ve used a new generation of micro-satellite images to estimate ground-
+level air pollution at the smallest spatial scale to date,” said Mike Bergin,
+professor of civil and environmental engineering at Duke. “We’ve been able to
+do it by developing a totally new approach that uses AI/machine learning to
+interpret data from surface images and existing ground stations.”
+
+The specific air quality measurement that Bergin and his colleagues are
+interested in is the amount of tiny airborne particles called PM2.5. These are
+particles that have a diameter of less than 2.5 micrometers—about three
+percent of the diameter of a human hair—and have been shown to have a dramatic
+effect on human health because of their ability to travel deep into the lungs.
+
+For example, PM2.5 was globally ranked as the fifth mortality risk factor,
+responsible for about 4.2 million deaths and 103.1 million years of life lost
+or lived with disability, by the 2015 Global Burden of Disease study. And in a
+recent study from the Harvard University T.H. Chan School of Public Health,
+researchers found that areas with higher levels of PM2.5 also are associated
+with higher death rates due to COVID-19.
+
+Current best practices in remote sensing to estimate the amount of ground-
+level PM2.5 use satellites to measure how much sunlight is scattered back to
+space by ambient particulates over the entire atmospheric column. This method,
+however, can suffer from regional uncertainties such as clouds and shiny
+surfaces, atmospheric mixing, and properties of the PM particles, and cannot
+make accurate estimates at scales smaller than about a square kilometer. While
+ground pollution monitoring stations can provide direct measurements, they
+suffer from their own host of drawbacks and are only sparsely located around
+the world.
+
+“Ground stations are expensive to build and maintain, so even large cities
+aren’t likely to have more than a handful of them,” said Bergin. “Plus they’re
+almost always put in areas away from traffic and other large local sources, so
+while they might give a general idea of the amount of PM2.5 in the air, they
+don’t come anywhere near giving a true distribution for the people living in
+different areas throughout that city.”
+
+In their search for a better method, Bergin and his doctoral student Tongshu
+Zheng turned to Planet, an American company that uses micro-satellites to take
+pictures of the entire Earth’s surface every single day with a resolution of
+three meters per pixel. The team was able to get daily snapshot of Beijing
+over the past three years.
+
+The key breakthrough came when David Carlson, an assistant professor of civil
+and environmental engineering at Duke and an expert in machine learning,
+stepped in to help.
+
+“When I go to machine learning and artificial intelligence conferences, I’m
+usually the only person from an environmental engineering department,” said
+Carlson. “But these are the exact types of projects that I’m here to help
+support, and why Duke places such a high importance on hiring data experts
+throughout the entire university.”
+
+With Carlson’s help, Bergin and Zheng applied a convolutional neural network
+with a random forest algorithm to the image set, combined with meteorological
+data from Beijing’s weather station. While that may sound like a mouthful,
+it’s not that difficult to pick your way through the trees.
+
+A random forest is a standard machine learning algorithm that uses a lot of
+different decision trees to make a prediction. We’ve all seen decision trees,
+perhaps as an internet meme that uses a series of branching yes/no questions
+to decide whether or not to eat a burrito. Except in this case, the algorithm
+is looking through decision trees based on metrics such as wind, relative
+humidity, temperature and more, and using the resulting answers to arrive at
+an estimate for PM2.5 concentrations.
+
+However, random forest algorithms don’t deal well with images. That’s where
+the convolutional neural networks come in. These algorithms look for common
+features in images such as lines and bumps and begin grouping them together.
+As the algorithm “zooms out,” it continues to lump similar groupings together,
+combining basic shapes into common features such as buildings and highways.
+Eventually the algorithm comes up with a summary of the image as a list of its
+most common features, and these get thrown into the random forest along with
+the weather data.
+
+“High-pollution images are definitely foggier and blurrier than normal images,
+but the human eye can't really tell the exact pollution levels from those
+details,” said Carlson. “But the algorithm can pick out these differences in
+both the low-level and high-level features—edges are blurrier and shapes are
+obscured more—and precisely turn them into air quality estimates.”
+
+“The convolutional neural network doesn’t give us as good of a prediction as
+we would like with the images alone,” added Zheng. “But when you put those
+results into a random forest with weather data, the results are as good as
+anything else currently available, if not better.”
+
+In the study, the researchers used 10,400 images to train their model to
+predict local levels of PM2.5 using nothing but satellite images and weather
+conditions. They tested their resulting model on another 2,622 images to see
+how well it could predict PM2.5.
+
+They show that, on average, their model is accurate to within 24 percent of
+actual PM2.5 levels measured at reference stations, which is at the high end
+of the spectrum for these types of models, while also having a much higher
+spatial resolution. While most of the current standard practices can predict
+levels down to 1 million square meters, the new method is accurate down to
+40,000—about the size of eight football fields placed side-by-side.
+
+With that level of specificity and accuracy, Bergin believes their method will
+open up a wide range of new uses for such models.
+
+“We think this is a huge innovation in satellite retrievals of air quality and
+will be the backbone of a lot of research to come,” said Bergin. “We’re
+already starting to get inquiries into using it to look at how levels of PM2.5
+are going to change once the world starts recovering from the spread of
+COVID-19.”
+
+This research was supported in part by the Research Initiative for Real-time
+River Water and Air Quality Monitoring program funded by the Department of
+Science and Technology, Government of India and Intel and a Duke Energy
+Initiative Energy Data Analytics PhD Fellowship.
+
+CITATION: “Estimating Ground-Level PM2.5 Using Micro-Satellite Images by a
+Convolutional Neural Network and Random Forest Approach,” Tongshu Zheng,
+Michael H. Bergin, Shijia Hu, Joshua Miller, and David E. Carlson. Atmospheric
+Environment, April 8, 2020. DOI: 10.1016/j.atmosenv.2020.117451
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

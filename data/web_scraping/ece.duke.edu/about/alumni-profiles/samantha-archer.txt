@@ -1,0 +1,270 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Samantha Archer
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Alumni profiles
+
+### Samantha Archer, ECE and Math, Class of 2020
+
+**Hometown: Alexandria, VA**  
+ **Position: Hardware Engineer, NVIDIA**
+
+#### Tell us about your job! How do you arrive where you are?
+
+I am a hardware engineer at NVIDIA. I work on synthesis, which is a step in
+the process of designing computer chips. Synthesis bridges the initial, more
+abstract phase of designing a chip and the physical design—all of this occurs
+before a chip is a fabricated. I was always interested in hardware, and I was
+lucky to land an internship at NVIDIA on the Place and Route team the summer
+before my senior year at Duke. When I returned as a full-time engineer, I
+decided I wanted to learn something new, so I switched teams and ended up
+working on synthesis.
+
+#### How did the skills you learned at Duke prepare you for this role?
+
+I learned much about the chip design process at Duke, however, I didn’t take
+any classes on synthesis in particular. Most of my synthesis learning has
+occurred on the job. In my design classes, however, I developed strong
+communication and teamwork skills. I also learned how to ask for productive
+feedback. These soft skills have been equally important to any technical
+skills I’ve developed at Duke and as an engineer.
+
+Above all else, though, my participation in DTech—Duke Technology Scholars—is
+what prepared me the most for the workforce, particularly as a woman working
+in tech. Through relationships with my peers and through industry mentorship,
+DTech taught me how to navigate the industry, speak up for myself, and
+communicate my ideas.
+
+> "If you’re interested in a class or a subject, don’t be afraid to go out of
+> your comfort zone."
+
+#### Why did you choose Duke?
+
+I toured Duke, and it was love at first sight. The engineering school
+particularly piqued my interest. I remember on the tour they told us about
+E-Ball, and I thought that made the engineering school sound like a great
+balance of academics and amusement.
+
+I was interested in everything Duke had to offer. Duke engineering students
+can explore subjects outside of engineering. During my time as an undergrad, I
+participated in Duke Engage and studied abroad in Sydney, Australia. I pursued
+my academic interests outside of class by being a TA, volunteering with
+FEMMES+, and doing undergraduate research with Dr. Daniel Sorin and Dr. Robert
+Calderbank. Our research focused a data encoding project, using mathematical
+techniques to protect data from errors in memory systems.
+
+#### What was your favorite class at Duke?
+
+ECE 350, Digital Systems
+
+My favorite class was ECE 350, Digital Systems, which was a deeper dive into
+circuit design and the process of designing computers. As someone who likes
+hardware, I found the material really engaging. Towards the end of the
+semester, you complete a bigger, more technical design project. Earlier in the
+course, you design a processor, and for the final project, you deploy the
+processor to create a project of your choice. My partner and I designed a
+Tetris game that we built from scratch, and along with it, we designed a
+footpad, _Dance Dance Revolution-_ style. So, it was Tetris that you played
+with your feet. I had such a great experience in this class, and I wound up
+being a TA for ECE 350 for the rest of my time at Duke.
+
+#### What advice do you have for engineering students who are just beginning
+at Duke, and finding their way?
+
+If you’re interested in a class or a subject, don’t be afraid to go out of
+your comfort zone. On the one hand, you might really enjoy it—I loved all the
+classes I took in history, humanities, and public policy. On the other hand,
+if you don’t like something, trying something and realizing it’s not for you
+is just as valuable of an experience.
+
+And, have fun!
+
+Meet other alumni
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

@@ -1,0 +1,248 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pursuing Research: 2021 Pratt Fellows
+
+April 21, 2021
+
+A glimpse into the projects pursued by three Pratt Undergraduate Research
+Fellows and the lessons provided by their experience
+
+Using AI to model clinical neural stimulation. Creating new materials for
+flexible, thin-film solar cells. Understanding how protein mutations affect
+the structural properties of biological tissues. While the research topics
+pursued by Pratt Undergraduate Research Fellows are as diverse as Duke
+Engineering, the experiences gained are the same.
+
+Pratt Fellows pursue intensive research projects for three semesters while
+receiving course credit as well as an opportunity for summer research. The
+experiences gained allow students to better understand what a career in
+research might be like, gain deep exposure to a specific field and develop a
+wide array of skills useful to whatever careers they may pursue after Duke.
+
+“The Pratt Research Fellows program provides students with the opportunity to
+contribute to cutting-edge research topics, while gaining a deep understanding
+of advanced concepts within their fields,” said Carmen Rawls, assistant dean
+for advising and outreach for Duke Engineering. “These students grow as
+engineers and as researchers, prepared to tackle any challenges they will face
+in the future.”
+
+Learn about the experiences of a few fellows below, and be sure to check out
+the full class of 2021 Pratt Fellows.
+
+## Adrian Lopez
+
+**_Major:_** Electrical and Computer Engineering, Mathematics  
+**_Advisor:_** Angel Peterchev, associate professor of psychiatry and
+behavioral sciences, electrical and computer engineering, biomedical
+engineering, and neurosurgery  
+**_Project Title:_** Estimating Effects of tES on Neuron Models Using Deep
+Learning
+
+### What’s your project all about?
+
+Transcranial Magnetic Stimulation (TMS) is a promising new therapy for brain
+disorders and is FDA-cleared for the treatment of depression, obsessive-
+compulsive disorder, smoking addiction and migraine. TMS works by allowing
+psychiatrists to modulate brain activity in a specific region in the brain,
+for example the prefrontal cortex. However, the placement of the TMS coil on
+the patient's head and the intensity of stimulation must be accounted for.
+There is no known “rational design” for these parameters, meaning that in
+order for parameters to be approved for clinical use, a clinical trial must be
+done.
+
+Our goal is to be able to estimate the effects of TMS on brain cells (neurons)
+in the cortex through computational methods with the help of deep learning. By
+using realistic neuron models created by Aman Aberra, a PhD candidate in BME,
+we can run simulations where the neurons are exposed to different TMS
+parameters. Then, we use the data from those simulations to train deep neural
+networks—3D convolutional neural networks, specifically—to rapidly predict the
+effects. This cuts simulation time from around a week to about four minutes,
+with a very small amount of error.
+
+There is another emergent therapy, called transcranial direct current
+stimulation (tDCS), that is approved for use in Europe. We are using deep
+neural networks to estimate this therapy’s effects on neurons as well. We plan
+to package this product into software that will allow neuroscientists and
+other specialists to design better therapies and learn more about the brain.
+
+### What’s your biggest takeaway from the Pratt Research Fellows program?
+
+The biggest thing I’ll take away from this experience is how to do meaningful
+research as a member of a lab. The Peterchev Lab, specifically Dr. Angel
+Peterchev and Aman Aberra, have been very helpful in my development these past
+two years, and I’ve learned a lot from them. It taught me firsthand that a
+career in medical research is something that I want to pursue in the future.
+
+## Eric Chang
+
+**_Majors:_** Mechanical Engineering, Computer Science  
+**_Advisor:_** David Mitzi, Simon Family Distinguished Professor of Mechanical
+Engineering and Materials Science  
+**_Project Title:_** Synthesis and Characterization of Selenium-Alloyed
+Bournonite CuPbSb(S1-xSex)3: A Prospective Semiconductor for Optoelectronic
+Applications
+
+### What’s your project all about?
+
+I've been studying a material called bournonite (CuPbSbS3) and its potential
+for thin-film solar cells and other energy applications. Thin-film solar cells
+are a newer version of solar cells that are lighter weight and more flexible
+than the first-generation version.
+
+More specifically, I've synthesized a novel alloy (CuPbSb(S1-xSex)3),
+characterized its properties in powder form, and am working on synthesizing
+films and solar devices (i.e. solar cells) to analyze the efficiency of this
+new material.
+
+### What’s your biggest takeaway from the Pratt Research Fellows program?
+
+The Pratt Research Fellowship has given me the opportunity to lead my own
+research project, use state-of-the-art equipment and processes, and
+collaborate with and learn from leaders in the field. By providing a thorough
+exposure to academic research, the experience has helped me develop a passion
+for research, and I'll be continuing on to graduate school next year. Although
+I'll be moving to a different research area, the program has equipped me with
+a set of research skills and experience that can be generally applied to any
+topic, allowing me to feel that I am well-prepared for graduate school and on
+a solid path toward a research career.
+
+## Taylor Huie
+
+**_Major:_** Biomedical Engineering  
+_**Advisor:**_ Brenton Hoffman, James L. and Elizabeth M. Vincent Associate
+Professor of Biomedical Engineering  
+_**Project Title:**_ Examining N-cadherin’s Force Sensitive Interfaces
+
+### What’s your project all about?
+
+Within tissues, cell-cell adhesions enable structure formation, maintain
+mechanical integrity and facilitate signal transmission by resisting
+mechanical loads. These adhesions contain a protein called N-cadherin, which
+we genetically-encode with a FRET-based tension sensor for imaging. I worked
+to understand how mutations of this protein would affect the cell-cell
+adhesions and resulting physiological responses.
+
+### What’s your biggest takeaway from the Pratt Research Fellows program?
+
+I am so incredibly thankful for the mentorship and acquired skills from my
+last three years of working in the Hoffman lab. I have learned a great deal
+about the science of cellular and molecular mechanobiology, but am most
+thankful for my training in efficient scientific problem solving—something I
+know I will apply in my future career.
+
+LEARN MORE ABOUT PRATT RESEARCH FELLOWS
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

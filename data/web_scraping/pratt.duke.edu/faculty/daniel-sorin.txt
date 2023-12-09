@@ -1,0 +1,208 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Daniel J. Sorin
+
+Professor of Electrical and Computer Engineering
+
+Dr. Daniel Sorin is a professor of Electrical and Computer Engineering at Duke
+University. His research interests are primarily in computer architecture and
+dependability.
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+  * Bass Fellow
+  * Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** 403 Wilkinson Building, Durham, NC 27708
+  * **Office Phone:** (919) 660-5439
+  * **Email Address:** sorin@ee.duke.edu
+  * **Websites:**
+    * http://www.ee.duke.edu/~sorin
+
+## Education
+
+  * Ph.D. University of Wisconsin - Madison, 2002
+  * M.S. University of Wisconsin - Madison, 1998
+  * B.S. Duke University, 1996
+
+## Research Interests
+
+Computer architecture, designing microarchitectures so that they are easier to
+verify, improving computer system fault tolerance, developing memory systems
+for multicore processors, and designing special-purpose accelerators
+
+## Awards, Honors, and Distinctions
+
+  * Program Chair of HiPEAC 2017. HiPEAC. 2017
+  * Co-chair of selection committee for IEEE Micro's Top Picks 2016. IEEE
+    Micro. 2016
+  * Associate Editor in Chief. Computer Architecture Letters. 2015
+  * IEEE Micro Top Pick. IEEE Micro. 2015
+  * Best Paper Award. 20th International Symposium on High Performance
+    Computer Architecture. 2014
+  * IEEE Micro Top Pick. IEEE Micro. 2011
+  * Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of
+    Engineering. 2011
+  * ACM Senior Member. Association for Computing Machinery. 2009
+  * Eta Kappa Nu. Unknown. 2008
+  * Intel Graduate Fellowship. Unknown. 2008
+  * NSF Early CAREER Award. National Science Foundation. 2008
+  * Outstanding Graduate Research Award. University of Wisconsin. 2008
+  * Phi Beta Kappa. Unknown. 2008
+  * Tau Beta Pi. Unknown. 2008
+  * Top of 2004 - Nanocomputing Research. Technology Research News. 2008
+  * Faculty Early Career Development (CAREER) Program. National Science
+    Foundation. 2005
+
+## Courses Taught
+
+  * COMPSCI 250D: Computer Architecture
+  * COMPSCI 391: Independent Study
+  * ECE 250D: Computer Architecture
+  * ECE 552: Advanced Computer Architecture I
+  * ECE 554: Fault-Tolerant and Testable Computer Systems
+  * EGR 491: Projects in Engineering
+
+## In the News
+
+  * A Crystal Ball for the Decade Ahead (Jan 9, 2020)
+
+## Representative Publications
+
+  * Oswald, N; Nagarajan, V; Sorin, DJ; Gavrielatos, V; Olausson, T; Carr, R,
+    _HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence
+    Protocols_ , Proceedings International Symposium on High Performance
+    Computer Architecture, vol 2022-April (2022), pp. 756-771
+    [10.1109/HPCA53966.2022.00061] [abs].
+  * Mehrabi, A; Sorin, DJ; Lee, BC, _Spatiotemporal Strategies for Long-Term
+    FPGA Resource Management_ , Proceedings 2022 Ieee International Symposium
+    on Performance Analysis of Systems and Software, Ispass 2022 (2022), pp.
+    198-209 [10.1109/ISPASS55109.2022.00026] [abs].
+  * Sorin, DJ, _Reconfigurable Hardware in Postsilicon Microarchitecture_ ,
+    Computer, vol 54 no. 3 (2021), pp. 4-5 [10.1109/MC.2020.3047006] [abs].
+  * Mehrabi, A; Lee, D; Chatterjee, N; Sorin, DJ; Lee, BC; O'Connor, M,
+    _Learning Sparse Matrix Row Permutations for Efficient SpMM on GPU
+    Architectures_ , Proceedings 2021 Ieee International Symposium on
+    Performance Analysis of Systems and Software, Ispass 2021 (2021), pp.
+    48-58 [10.1109/ISPASS51385.2021.00016] [abs].
+  * Mehrabi, A; Manocha, A; Lee, BC; Sorin, DJ, _Bayesian Optimization for
+    Efficient Accelerator Synthesis_ , Acm Transactions on Architecture and
+    Code Optimization, vol 18 no. 1 (2021) [10.1145/3427377] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Connecting the Symptoms of Pancreatic Cancer with Big Data
+
+September 12, 2016
+
+Duke’s Data+ program explores the connection between type 2 diabetes and
+pancreatic cancer in the Duke electronic medical record
+
+_Originally published by the Duke Social Science Research Institute_
+
+_By Shelbi Fanning, Multimedia Specialist, Social Science Research Institute_
+
+A staggering 94 percent of pancreatic cancer patients will die within five
+years of diagnosis, and 74 percent of patients die just within the first year.
+Multiple factors contribute to the low survival rate. It’s not only incredibly
+aggressive, but also difficult to detect early and, once detected, poorly
+responsive to treatment. It’s a perfect storm of factors that make it one of
+the more deadly forms of cancer.
+
+Some recent studies have shed light on the disease, showing a connection
+between diabetes and pancreatic cancer. Though what exactly that connection
+may be is yet to be defined, evidence indicates that type 2 diabetes is a risk
+factor and also may result from pancreatic cancer. With approximately 80
+percent of pancreatic cancer patients having glucose intolerance or diabetes,
+the connection is well worth further investigation.
+
+For Lisa Satterwhite (BME), the electronic medical record (EMR) could be the
+key to defining this relationship. Her Data+ team comprising Zidi Xiu, Albert
+Antar and Shaobo Han spent 10 weeks in the summer processing and modeling data
+and making connections between symptoms in the medical record and eventual
+diagnoses.
+
+“What we’re trying to do is find pancreatic cancer before they diagnose it,
+which is typically stage IV, and try to see if there are symptoms that are
+present that haven’t been associated with pancreatic cancer prior to the
+cancer spreading,” Satterwhite said. If it’s found early enough, treatment has
+a better chance of working, so making connections to the earliest symptoms
+could give patients a fighting chance.
+
+Discussing each team member’s strengths and how they contributed to the
+overall project, it’s clear that Satterwhite couldn’t be more enthusiastic
+about their work together and her team’s preliminary predictive model.
+
+Shaobo Han, Ph.D., project mentor (ECE), suggested applying several machine
+learning approaches to this Duke EMR data. “Pre-processing the noisy, sparse
+and large-scale EMR data is the first step. Zidi Xiu (graduate student in
+biostatistics) used her advanced statistical programming skills to complete a
+task that might have taken months or days in only hours.” Han said.
+
+Antar (Trinity ’18), with his goal of attending medical school after
+completing his undergraduate degree, was a constant force pushing for medical
+relevance. Everything the team generated was put through this lens so that
+their work could make a difference as quickly as possible.
+
+“A couple things we found is that the earliest significant symptoms occur
+about a year and a half before a stage IV diagnosis and rapid progression of
+type 2 diabetes seems to be common with many patients,” Antar said. “In our
+dataset, 42 percent of people went from type 2 diabetes to uncontrolled type 2
+diabetes, which seems like a really high percentage of people.”
+
+The team looked at diagnosis codes from the past 10 years in electronic
+medical records and, through several machine learning algorithms, identified
+several highly discriminative groups of codes that are relevant to the disease
+outcome and evaluated the predictive performance.
+
+“We’ve been trying to learn interpretable and predictive patterns from the
+data and then visualize each patient on a similarity map,” Xiu said.
+
+In the last few weeks together, Xiu tested the predictive performance of the
+prototype developed to find pancreatic cancer in the Duke electronic medical
+record data and observed some patients without a pancreatic cancer diagnosis
+that surrounded with those with a known diagnosis.
+
+“We think some diabetes patients might already be on their way to developing
+pancreatic cancer.” Satterwhite said.
+
+In the last week together, the team tested the ability of their supervised
+topic model to find pancreatic cancer in the EMR and found patients without a
+diagnosis that clustered with patients with a diagnosis, indicating possible
+undiagnosed cases. While this result is preliminary, it illustrates the power
+of the approach. Late stage pancreatic cancer is devastating and any edge on
+it is worth pursuing.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

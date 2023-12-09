@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Wireless Device Converts "Lost" Energy into Electric Power
+
+November 7, 2013
+
+Using inexpensive materials configured and tuned to capture microwave signals,
+Duke researchers have designed a power-harvesting device with efficiency
+similar to that of modern solar panels
+
+By Karyn Hede
+
+Using inexpensive materials configured and tuned to capture microwave signals,
+researchers at Duke University's Pratt School of Engineering have designed a
+power-harvesting device with efficiency similar to that of modern solar
+panels.
+
+The device wirelessly converts the microwave signal to direct current voltage
+capable of recharging a cell phone battery or other small electronic device,
+according to a report appearing in the journal _Applied Physics Letters_ in
+December 2013. (It is now available online.)
+
+It operates on a similar principle to solar panels, which convert light energy
+into electrical current. But this versatile energy harvester could be tuned to
+harvest the signal from other energy sources, including satellite signals,
+sound signals or Wi-Fi signals, the researchers say.
+
+The key to the power harvester lies in its application of metamaterials,
+engineered structures that can capture various forms of wave energy and tune
+them for useful applications.
+
+Undergraduate engineering student Allen Hawkes, working with graduate student
+Alexander Katko and lead investigator Steven Cummer, professor of electrical
+and computer engineering, designed an electrical circuit capable of harvesting
+microwaves.
+
+They used a series of five fiberglass and copper energy conductors wired
+together on a circuit board to convert microwaves into 7.3V of electricity. By
+comparison, Universal Serial Bus (USB) chargers for small electronic devices
+provide about 5V.
+
+"We were aiming for the highest energy efficiency we could achieve," said
+Hawkes. “We had been getting energy efficiency around 6 to 10 percent, but
+with this design we were able to dramatically improve energy conversion to 37
+percent, which is comparable to what is achieved in solar cells.”
+
+“It’s possible to use this design for a lot of different frequencies and types
+of energy, including vibration and sound energy harvesting,” Katko said.
+“Until now, a lot of work with metamaterials has been theoretical. We are
+showing that with a little work, these materials can be useful for consumer
+applications.”
+
+For instance, a metamaterial coating could be applied to the ceiling of a room
+to redirect and recover a Wi-Fi signal that would otherwise be lost, Katko
+said. Another application could be to improve the energy efficiency of
+appliances by wirelessly recovering power that is now lost during use.
+
+“The properties of metamaterials allow for design flexibility not possible
+with ordinary devices like antennas,” said Katko. “When traditional antennas
+are close to each other in space they talk to each other and interfere with
+each other’s operation. The design process used to create our metamaterial
+array takes these effects into account, allowing the cells to work together.”
+
+With additional modifications, the researchers said the power-harvesting
+metamaterial could potentially be built into a cell phone, allowing the phone
+to recharge wirelessly while not in use. This feature could, in principle,
+allow people living in locations without ready access to a conventional power
+outlet to harvest energy from a nearby cell phone tower instead.
+
+“Our work demonstrates a simple and inexpensive approach to electromagnetic
+power harvesting,” said Cummer. “The beauty of the design is that the basic
+building blocks are self-contained and additive. One can simply assemble more
+blocks to increase the scavenged power.”
+
+For example, a series of power-harvesting blocks could be assembled to capture
+the signal from a known set of satellites passing overhead, the researchers
+explained. The small amount of energy generated from these signals might power
+a sensor network in a remote location such as a mountaintop or desert,
+allowing data collection for a long-term study that takes infrequent
+measurements.
+
+The research was supported by a Multidisciplinary University Research
+Initiative from the Army Research Office (Contract No. W911NF-09-1-0539).
+
+An open access copy of the original report is freely available from Duke
+University for those who do not have access to _Applied Physics Review._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

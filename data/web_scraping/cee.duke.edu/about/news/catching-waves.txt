@@ -1,0 +1,247 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Catching Waves
+
+July 26, 2021
+
+Duke ECE’s Steven Cummer, the William H. Younger Distinguished Professor of
+Engineering, discusses new metamaterials research in this Q&A– and explains
+why invisibility paint is not on the horizon
+
+**metamaterials** (noun, plural): engineered structures that manipulate waves
+to “bend” light, sound and other kinds of waves in ways that produce effects
+outside of conventional physics.
+
+Duke ECE faculty pioneered the field of metamaterials. Watch this video for a
+simple explanation of how metamaterials function:
+
+## 1\. What makes Duke ECE strong in metamaterials research?
+
+For one thing, we have great breadth within Duke ECE. Between myself, David
+Smith, Willie Padilla, Natasha Litchinitser and Maiken Mikkelsen, we do just
+about everything—acoustics, radio frequencies, optical, terahertz. And we’re
+all doing that, to some extent, in an applied way.
+
+Another factor is the presence of so many strong collaborators in the
+department and the school. For example, we recently had an idea for a new way
+of controlling ultrasound waves, and we needed a transistor-like structure
+that we could print on top of a specific kind of crystal. In that case I was
+able to walk down the hall and ask someone with exactly that expertise in non-
+traditional transistor-like structures (Duke ECE professor Aaron Franklin) for
+his thoughts.
+
+I think that’s true across all the metamaterials work going on here at Duke.
+It’s easy to find an expert to fold into the space you want to work in.
+
+## 2\. What work is happening in your lab right now that you’re excited about?
+
+One really exciting collaboration we have is with Duke MEMS professor Tony
+Huang, who is an expert in acoustic tweezers. Acoustic tweezers use ultrasound
+waves to push small particles through fluids. They can move the particles
+toward a target, spin them, hold them in place, or separate one kind of
+particle from another.
+
+One approach that Tony has taken to control these particles is to load a chip
+with a lot of ultrasound transducers that generate waves at different points
+to push the particles around. Another approach—this is where my own research
+comes in—is to create the waves on the outside of the chip but then use
+passive metamaterial structures to perform the wave control function.
+
+The size of the structure must match the wavelength of the wave that it’s
+trying to control. Audio frequencies are large, so the structures that control
+them can be large. Ultrasound wavelengths are measured in millimeters, so the
+corresponding controlling structures are only hundreds of microns across. So,
+we’re learning to scale down from our prior work. We’ve been experimenting
+with using 3D printed molds to cast very small structures made of silicone
+polymer, which is a material that works well in water and allows ultrasound
+waves to travel through it.
+
+## 3\. What are the big research challenges in metamaterials right now, in
+your opinion?
+
+There are all kinds of great ideas that work… partly. If you review the last
+20 years of metamaterials work, you’ll see there have been a ton of really
+interesting theoretical ideas that have emerged, showing different ways of
+controlling waves that we didn’t appreciate before. Negative refraction,
+cloaking, acoustic cloaking… These ideas are all amazing theoretically, but
+they all have limits as far as practical implementation. You can’t make a
+cloaking shell for a large object that’s super thin, for example. The shell
+needs to be thick enough to capture and redirect the wave energy to where it
+needs to go to render the object effectively invisible. That just can’t be
+done with a shell that is much, much thinner than the object being hidden.
+
+**wave** (noun): the disturbance that transfers energy from one place to
+another place.
+
+> "Finding practical design problems that metamaterials and metamaterial ideas
+> can help solve is the most interesting thing about the field."
+
+So, to me, finding practical design problems that metamaterials and
+metamaterial ideas can help solve is the most interesting thing about the
+field. It’s hard to do that—people read popular articles about metamaterials
+that lead them to believe we can cloak anything, with anything. A potential
+collaborator might ask us, for example, if we can develop a paint that’s two
+nanometers thick and will make a building invisible. And the answer is no—they
+cannot have that! There’s sometimes some back-and-forth between what’s desired
+and what’s possible. And if we’re lucky, there’s something in the middle
+that’s a significant improvement on existing technology.
+
+## 4\. Are there opportunities to participate in metamaterials research at
+Duke at the undergraduate level? If so, what kind of background is necessary?
+
+As far as background, what’s helpful is an interest in the physics of waves.
+You can of course be interested in other things as well, but if you hate
+physics, then metamaterials is probably not a great space to be in, at least
+on the theory side. That said, there are parts of the research that are not
+strictly related to metamaterials, but more about developing relevant
+components that help support metamaterials research. For example, students
+interested in 3D printing and exploring the limits of the smallest structures
+that can be reliably made, might be a good fit for my lab—that would be super
+helpful skill for us to have.
+
+## 5\. What about at the graduate level—what makes a successful student?
+
+Many of the graduate students I have in my lab working in acoustic
+metamaterials have backgrounds in acoustics, and those working in
+electromagnetic metamaterials have backgrounds in electromagnetics and
+antennas. But as an undergraduate you really only scratch the surface of
+metamaterials anyway, so the depth of your technical background isn’t
+critical. It’s more about motivation. What is it you really like to do? What
+scientific papers do you really enjoy reading on your own—what resonates? When
+interviewing students who might be interested in joining my group, I try to
+figure out whether we’re interested in solving the same kinds of problems.
+
+When I look back at the graduate students who have passed through my group,
+I’m happiest when there’s been a signature paper published that we’re both
+proud of. If there’s been a new contribution to the field, if people have paid
+attention, and if you, the student, did most of the heavy lifting so that you
+can call it your own, I call that a success.
+
+## Related News
+
+September 25, 2019
+
+### Machine Learning Finds New Metamaterial Designs for Energy Harvesting
+
+February 13, 2019
+
+### Liberating Data to Discover New Polymer Nanocomposites and Metamaterials
+
+September 04, 2018
+
+### Duke-Northrop Grumman Partnership Seeks to Unflatten Metamaterial Antennas
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

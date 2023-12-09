@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+#  Students Code Alternate Realities
+
+August 13, 2020
+
+This summer, two Code+ teams sent visitors to Madagascar and Cameron Stadium,
+with the help of augmented reality
+
+It’s been months since the Duke Basketball Museum welcomed fans through its
+doors, and months since a Duke Lemur Center tour guide showed a ring-tailed
+lemur to an excited kid. It may be many more months until these spaces reopen
+to the public. But thanks to Duke’s Code+ program and its ambitious and
+hardworking students, both spaces may be able to offer a new kind of access to
+visitors in the future—through augmented reality.
+
+Code+ is a 10-week program for undergraduate students, run by Duke’s Office of
+Information Technology (OIT). Code+ focuses on projects in software and
+product development, and project leads are professional IT developers like
+Hugh Thomas, an OIT consultant and adjunct faculty member who mentored two
+teams incorporating augmented reality into their apps this summer.
+
+Both teams knocked it out of the park.
+
+“It’s almost frightening how talented everybody is,” said Ryan Craig, the Duke
+Athletics director of digital strategy, at the final presentation of the Code+
+team that partnered with his unit to develop an app for the Duke Basketball
+Museum.
+
+> Using the app, Duke Basketball Museum visitors can step into giant
+> basketball shoes, shoot hoops virtually, and scan their environment to
+> search for objects that have additional information attached.
+
+Using the app, Duke Basketball Museum visitors can step into giant basketball
+shoes, shoot hoops virtually, and scan their environment to search for objects
+that have additional information attached—a static photo of a game-winning
+shot might trigger a video highlight reel to play on top of it, for example.
+In the future, when the museum reopens, the team will be able to set jerseys
+and trophies as triggers that recap iconic moments in Duke basketball history.
+
+Users can even explore Cameron Indoor Stadium without being physically being
+present—a very helpful feature in the era of COVID-19 closures. To accomplish
+this, the team first created a large spherical framework around the user, then
+added images to the inside of the sphere to make them feel like they were
+right in the middle of the action.
+
+The Code+ team working with the Duke Lemur Center took a similar approach,
+surrounding its users with flora and fauna native to Madagascar, where lemurs
+are found in the wild. And, because lemurs themselves can be shy and difficult
+to spot, the team added an AR ring-tailed lemur that leaps across the screen.
+Since no prepackaged animations of lemurs were available, the team made its
+animation from scratch, creating the lemur’s skeleton, mapping its range of
+motion, and using a process called UV mapping—pulling all the layers apart and
+painstakingly hand-coloring each in Photoshop before packaging them together
+again—to give it a lifelike appearance.
+
+> The Duke Lemur Center team made its animation from scratch, creating the
+> lemur’s skeleton, mapping its range of motion, and using a process called UV
+> mapping—pulling all the layers apart and painstakingly hand-coloring each in
+> Photoshop before packaging them together again—to give it a lifelike
+> appearance.
+
+The team’s work was partially supported by a National Center for Women and
+Information Technology (NCWIT) Academic Alliance Seed Fund Award.
+
+“Getting into the world of augmented reality, understanding the new set of
+tools and the pipeline of software required to create the assets for this
+application, was a huge part of the work the students did this summer,” said
+Thomas.
+
+Both AR teams met daily in a single Zoom room and were able to share what they
+were learning, speeding the process for one another. They were also able to
+tap into the expertise of Duke electrical and computer engineering (ECE)
+faculty member Maria Gorlatova and PhD student Tim Scargill, who work on
+augmented reality applications.
+
+“Throughout the process we worked really closely with the ECE department—Maria
+and Tim provided us with a lot of material and helpful information in creating
+a lot of the AR content,” said Ryleigh Byrne ECE/CS ‘23. Scargill shared some
+hard-to-find assets—a 3D model of a map of Madagascar, as well as some lemur
+sound effects— that the team incorporated into its augmented reality landscape
+feature. Gorlatova offered her advice and thoughts on the field, as well.
+“Maria was a great support and hosted a coffee chat with the girls on our team
+and the augmented reality basketball museum team,” said Byrne. “She provided
+us with insight into her career and research in engineering and computer
+science, as well.”
+
+Craig said that Duke Athletics plans to integrate parts of the Duke Basketball
+Museum app into its existing platform in the future. “I’m excited about what
+this could bring to our official athletics platform, and to our fans,” he
+said. His sentiment was echoed by the Duke Lemur Center’s Director of
+Research, Erin Ehmke. “The potential for what could be provided this way is
+huge,” she said.
+
+More News from Duke Engineering
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

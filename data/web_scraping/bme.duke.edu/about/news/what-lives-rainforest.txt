@@ -1,0 +1,263 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# What Lives in the Rainforest?
+
+November 19, 2020
+
+In competition for the newest XPRIZE, Duke engineering students develop drone-
+deployed tools to inventory the incredibly rich plant and animal life in
+rainforest ecosystems
+
+**Picturing Flora and Fauna**  
+After advancing to the Ocean XPRIZE finals in 2018 and dipping its toes into
+the ANA Avatar XPRIZE in 2019-20, Duke has its eyes on another XPRIZE—this
+time, the $10 million Rainforest XPRIZE, which aims to catalogue the
+astounding biodiversity thriving under the rainforest’s dense, near-
+impenetrable canopy.
+
+Associate Professor of electrical and computer engineering Martin Brooke is
+again leading the Duke effort, alongside collaborator Stuart Pimm, the Doris
+Duke Professor of Conservation Biology at the Nicholas School of the
+Environment. The two are orchestrating small teams of students as they develop
+drones that can deploy to identify and count plants and animals. One of those
+teams this semester (Grayson Elias, ECE/CS ’21; Natasha von Seelen, ECE/CS
+’21; Jacob Thomas, ECE ’22; and Umika Paul, ECE/CS ’21) plans to use infrared
+cameras to identify expertly camouflaged birds and mammals.
+
+“The IR imaging works best at night and in the early morning, before the trees
+and ground get so warm that it’s difficult to distinguish animals from
+background,” explained von Seelen. “It will be very useful when non-thermal-
+photography drones cannot see very well. We are working on software that would
+recognize areas with high heat signatures and then alert the drone pilot to
+take a closer look and try to determine what kind of an animal it is.”
+
+> The infrared sensor illuminated a nearby mourning dove that was hidden so
+> well it was indiscernible to the naked eye.
+
+The team took some test footage around their homes this semester, using the
+infrared cameras. Elias captured footage of his dogs that let the team see
+them as a python or anaconda would—as areas of active warmth in a cooler
+environment. And von Seelen, in working to distinguish squirrels from their
+arboreal background and track their motion, found that the infrared sensor
+illuminated a nearby mourning dove that was hidden so well it was
+indiscernible to the naked eye.
+
+But cataloguing biodiversity isn’t limited to fauna; each thread of the
+rainforest’s vegetative tapestry must be identified, too. Of the Duke students
+working on this aspect of the challenge, half were on campus this semester,
+and took charge of the drone that will one day deploy to take photos in a
+rainforest ecosystem. Those students tested flight maneuvers and controls and
+suggested settings that will one day help pilots navigate their drone through
+the densely treed environment. The other two students, Carrie Hunner and Harry
+Ross, both ECE/CS ’21, started developing a plant identification app, working
+remotely from their home bases in Minnesota and New York City.
+
+“We laid a really good foundation,” said Hunner. “We have a working app that
+interfaces with Google Photos, letting the user select photos to show to the
+identification algorithm. The user gets back a list and a score. For example,
+‘There is a 50 percent chance that the plant you’re showing me is a rosy
+periwinkle.’”
+
+But Ross acknowledges that the identification algorithm they’re using was
+trained on a limited dataset of plant images—a gap that’s sure to widen in the
+rainforest, where one new species is discovered, on average, every two days.
+
+“A possible extension for future work is to integrate a second API that lets
+people crowdsource the plant ID,” said Ross. “You create posts about a
+mysterious plant, and experienced naturalists can weigh in with what they
+think the species might be.”
+
+Ross acknowledges that the manual upload is time- and resource-intensive, and
+presents yet another path for future students to explore. “The biggest hurdle
+in automating is getting the photos from the drone to the human, remotely.
+Right now there’s an SD card that must be removed. What happens when a drone
+crashes in that nearly unnavigable terrain and can’t be retrieved?” asked
+Ross.
+
+**Listening for Clues**  
+The Duke network encompasses nearly as many people as the Amazon has leaves
+and branches, and two of them—Sam Kelly MEMS ‘18 and PhD candidate David
+Haas—have been happy to serve as informal advisors to the Duke students as
+they work through these kinds of challenges, particularly those related to
+sampling and processing audio information.
+
+Right now, the sound team is working to effectively compress and format all
+the audio they do collect before writing the data to SD cards, where it can be
+retrieved and analyzed for the chirps, whistles and hoots that give
+researchers clues about the animals that shelter in the rainforest.
+
+“It’s an ambitious project for people who have never done embedded programming
+before,” said Kelly. “The undergraduates designed the architecture to sample
+the audio the competition requires, at the correct frequency and memory. They
+really delivered. And what’s even cooler is, now we’ve got them hooked on
+embedded programming.”
+
+> Conservationists desperately need easy-to-use, inexpensive tools to monitor
+> the state of the environment—which is exactly what the Rainforest XPRIZE
+> teams are producing.
+
+Conservationists desperately need easy-to-use, inexpensive tools to monitor
+the state of the environment—which is exactly what the Rainforest XPRIZE teams
+are producing, said Kelly, who works at technology company Conservation X
+Labs.
+
+Though the XPRIZE focuses specifically on quickly cataloguing biodiversity,
+the Duke team might be able to deliver additional insight into events that are
+happening in real time if they can figure out how to process some of the data
+onboard the drone. This could provide a valuable fringe benefit to the
+ecosystem in question—picking up the sound of chainsaws, for example, or
+hearing the roar of a fire, might trigger an alert to local authorities.
+“And,” added Kelly, “the team will be able to reduce the exorbitant amount of
+ambient noise data that would be otherwise be collected.”
+
+“It’s really hard to create a scientific tool that’s both easy to use and
+upholds the standards that science expects,” said Kelly. “If we can get this
+out there, there’s a huge need for it. I’m really excited to see where it
+goes.”
+
+**Delivering Sound Traps**
+
+  
+
+  
+Brooke has been a client for several First-Year Design teams that are helping
+him get sound recorders and other longer-term recording devices like camera
+traps into the rainforest. Those design teams have developed delivery
+techniques that let the same drones that take the infrared and visual images
+also drop sound recorders onto branches in the canopy. (Currently, researchers
+must climb hundreds of feet into the air to attach these devices.) The
+recently demonstrated drop-off of a camera trap device using a lightweight
+Parrot Anfi drone (by first year students Lucas Ramirez, Ian Morales, Zachary
+Kannam, and Ryan Wolfram) could usher in a new age of long-term canopy
+research.
+
+## Related News
+
+May 01, 2020
+
+### Teaching through Competition
+
+September 04, 2019
+
+### 'I Can Do This'—Duke’s First-Year Design Course Boosts Student Self-
+Efficacy
+
+March 07, 2018
+
+### Duke Students Advance to Finals in $7 Million Ocean Discovery XPRIZE
+Competition
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bacterial Defense Mechanism Targets Duchenne Muscular Dystrophy
+
+February 19, 2015 | By Ken Kingery
+
+Gene therapy approach could treat 60 percent of Duchenne Muscular Dystrophy
+patients.
+
+Duke researchers have demonstrated a genetic therapeutic technique that has
+the potential to treat more than half of the patients suffering from Duchenne
+Muscular Dystrophy (DMD).
+
+One of the challenges of treating DMD is that the disease can be caused by
+mutations to a number of different DNA sequences, few of which occur with any
+substantial frequency. The new technique, however, gets around this sticking
+point by targeting a large region of the gene that contains many different
+mutations.
+
+The study was published on Feb. 18 online in Nature Communications.
+
+“There are no effective therapies currently available for people with DMD,”
+said Charles Gersbach, assistant professor of biomedical engineering at Duke
+University. “DMD patients are in a wheelchair by age 10 and typically die in
+their 20s. They have nothing to stop this right now—and we’re trying to work
+on that.”
+
+DMD is caused by problems with the body’s ability to produce dystrophin, a
+long-chain protein that binds the interior of a muscle fiber to its
+surrounding support structure. Dystrophin is coded by a gene with 79 genetic
+“chunks” called exons. If any one exon gets a debilitating mutation, the chain
+does not get built. Without dystrophin providing support, muscle tends to
+shred and slowly deteriorate.
+
+The disease affects one in 3,500 newborn males. The mutation is on the X
+chromosome so female children with two copies of X should have at least one
+functioning copy of the gene.
+
+While some clinical trials are under way for drugs that restore dystrophin
+production from mutant genes, they only target one exon and thus can only be
+used for up to 13 percent of DMD cases. The new approach, however, can
+theoretically target any region of the gene of any size. In this study, the
+researchers targeted a span of 11 exons that account for 60 percent of DMD
+cases.
+
+A shortened dystrophin protein is the hallmark of a variation of the disease
+called Becker Muscular Dystrophy (BMD). While the effects of BMD can vary
+widely, many patients live long, full lives, and some people live with the
+disease their entire lives without any significant effects.
+
+Gersbach’s goal is to transform DMD into BMD by cutting out the genetic chain
+links that are most often problematic—exons 45 through 55. To shorten the
+genetic code, he is turning to a bacterial viral defense system called CRISPR.
+
+Over the past decade, researchers discovered the CRISPR system that bacteria
+use to slice the DNA of invading viruses. Soon after its discovery,
+researchers hijacked the system and began using it to fix mistakes in the
+human genome.
+
+“What makes CRISPR exciting is that it is easy, cheap and fast to work with
+compared to other methods scientists have been developing in the past decade,”
+said David Ousterout, a graduate student in the Gersbach lab and first author
+of the study.
+
+The researchers programmed CRISPR to make cuts to the dystrophin gene before
+the 45th and after the 55th exon. Sometimes only one cut is made and the body
+repairs the damage. Sometimes both cuts are made, but the cell stitches the
+whole sequence back together. But sometimes, after both cuts are made, the
+middle of the gene floats away before the cuts can be repaired—and that’s the
+outcome Gersbach is after.
+
+If it sounds like an inefficient process, that’s because it is. Even though
+CRISPR is continually cutting the gene for several days, human cells are very
+good at repairing DNA damage. But due to the sheer volume of cuts specifically
+at the target site, a significant fraction of the dystrophin genes are
+effectively altered.
+
+In the new study, Gersbach and his team demonstrated that the technique works
+on cultured muscle cells taken from DMD patients. They also implanted these
+cells into mice and showed the treated cells began making human dystrophin.
+
+“We still need to improve the efficiency and ensure the safety of the CRISPR-
+based approach,” said Gersbach. “We also need to tackle the challenge of how
+this would be delivered to a DMD patient. We still have a long way to go, but
+this is a very promising start.”
+
+This work was funded by the Muscular Dystrophy Association (MDA277360), the
+Duke-Coulter Translational Partnership, The Hartwell Foundation, the March of
+Dimes Foundation, and the National Institutes of Health (UH3TR000505,
+P30AR066527, DP2-OD008586).
+
+# # #
+
+"Multiplex CRISPR/​Cas9-based genome editing for correction of ​dystrophin
+mutations that cause Duchenne muscular dystrophy," David G. Ousterout, Ami M.
+Kabadi, Pratiksha I. Thakore, William H. Majoros, Timothy E. Reddy, Charles A.
+Gersbach. Nature Communications, Feb. 18, 2015.
+
+DOI: 10.1038/ncomms7244
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

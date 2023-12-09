@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Heat and Light Create Never-Before-Seen Biocompatible Microparticles
+
+March 12, 2020 | By Ken Kingery
+
+Innovative manufacturing technique can create new types of microparticles for
+applications such as drug delivery, diagnostics and tissue engineering
+
+Biomedical engineers at Duke University have devised a method for making small
+particles that are safe for living tissues that will allow them to create new
+shapes attractive for drug delivery, diagnostics and tissue engineering.
+
+The results appear online on March 12 in the journal Nature Communications.
+
+“With nothing more than some heat and light, we can make some pretty bizarre
+microparticles,” said Stefan Roberts, a biomedical engineering research
+scientist at Duke. “The technique is simple enough that it could be scaled up
+to make billions of microparticles in a matter of minutes.”
+
+In the world of biocompatible microparticles, shape, size, internal
+microstructure and type of material dictate their intrinsic properties.
+Although companies and research labs can already fabricate many complex
+microparticles, the process usually involves sophisticated manufacturing
+techniques such as multiple-emulsion microfluidics or flow lithography. Both
+have their disadvantages.
+
+Multiple-emulsion microfluidics tediously controls a series of individual oil
+droplets, but struggles to keep materials completely separate from one another
+and cannot be used for large-scale production. Flow lithography shines light
+through a patterned mask to etch shapes in soft materials and can make many
+particles in short order, but the process is difficult to tailor to
+complicated shapes and internal architectures.
+
+Working with Ashutosh Chilkoti, the Alan L. Kaganov Distinguished Professor of
+Biomedical Engineering at Duke, Roberts set out to try a completely new
+approach -- biological materials. The research pair have a history of working
+with elastin-like polypeptides (ELPs), which are disordered proteins that,
+much like a ball of spaghetti, derive their stability from chaos and have no
+true shape. More recently, the team began working with partially ordered
+proteins (POPs), which retain many of the ELPs’ biologically useful properties
+but have enough ordered segments to provide more stability than wet noodles.
+
+Both types of proteins can be engineered to shift back and forth between phase
+states at certain temperatures. While this is a useful feature for
+applications such as slowly releasing drugs into the body or supporting tissue
+growth in wounds, the researchers soon discovered that they could also create
+various particle shapes by putting ELPs and POPs together.
+
+“Disordered proteins are a hot topic in biology, with many researchers trying
+to discover how proteins without shape can still have a biological purpose,”
+said Roberts. “An undercurrent of our work is to instead think of these
+proteins as a materials scientist would and see if we can engineer them for
+our own biological functions in ways that can’t be achieved with current
+materials.”
+
+In the paper, Roberts and Chilkoti demonstrate some new microparticles made
+with these two types of proteins. By tweaking the temperatures at which they
+assemble and disassemble, and sweeping back and forth through a range of
+temperatures at various rates, the researchers show that they are able to
+create a suite of shapes such as a shell with a solid core, a shell with no
+core, and a tangle of cords dotted with shells that they dubbed “fruits on a
+vine.” Then, by incorporating photosensitive amino acids, they show that they
+can freeze these shapes into solid microparticles with a flash of light.
+
+The researchers say that the ability to create microparticles with precisely
+separated regions is relevant for applications such as drug delivery and
+tissue engineering.
+
+Each set of parameters simultaneously creates millions of solid, biocompatible
+microparticles slightly larger than an average cell. It only takes a few
+minutes, and it all happens in a volume of liquid about the size of a drop of
+water.
+
+“This is a test case for a type of material that is flexible and simple enough
+to create both commonly used shapes and architectures that aren’t seen using
+current techniques,” said Roberts. “We’re using new biocompatible materials to
+create never-before-seen shapes simply by heating, cooling and shining a light
+on them.”
+
+This research was supported by the National Institutes of Health (R35GM127042)
+and the National Science Foundation’s Research Triangle MRSEC (DMR-11-21107),
+Analytical Instrumentation Facility at NC State University (ECCS-1542015) and
+Graduate Research Fellowship Program (1106401).
+
+CITATION: “Complex Microparticle Architectures from Stimuli-Responsive
+Intrinsically Disordered Proteins,” Stefan Roberts, Vincent Miao, Simone
+Costa, Joseph Simon, Garrett Kelly, Tejank Shah, Stefan Zauscher, Ashutosh
+Chilkoti. Nature Communications, 2020. DOI: 10.1038/s41467-020-15128-9
+
+## Related News
+
+October 15, 2018
+
+### Biomaterials with "Frankenstein Proteins" Help Heal Tissue
+
+January 30, 2017
+
+### Engineered "Spaghetti-Ball" Proteins Provide Biomedical Insights
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

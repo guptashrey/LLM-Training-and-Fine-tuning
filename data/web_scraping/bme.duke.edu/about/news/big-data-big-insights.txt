@@ -1,0 +1,272 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Big Data, Big Insights
+
+July 10, 2013 | by Karl Bates
+
+The new Information Initiative at Duke (iiD) brings together a supergroup of
+experts to translate massive data into major breakthroughs—in arenas from
+homeland security to human health.
+
+from _Duke Engineering: Leading Research 2013_
+
+We're at a moment in which we seem to have become better at collecting data
+than understanding it. Sensors, cameras, computers and smart phones capture
+and store an unending torrent of data about human activity via ubiquitous
+wireless signals, making nearly everything measurable and identifiable.
+
+## Related Stories
+
+  * Data-based detective work
+  * Geometries of data, from molecules to threat detection
+  * The art of analysis
+  * Probability, not certainty
+  * Shaping data
+  * Teaching machines to watch TV
+
+Billions of fingers perform trillions of keystrokes and clicks, all of them
+leaving traces somewhere.
+
+Every two days now, wired humanity creates 5 exabytes of new data(1018 bytes).
+That’s about how much was recorded from the dawn of civilization until 2003.
+YouTube’s collection of video grows by 72 hours each minute of the day, double
+the growth rate from the previous year.
+
+Thousands of people have had their 3-billion-bit genomes sequenced,and
+millions more will follow.
+
+Google chairman Eric Schmidt has said we’re fast approaching an age in which
+“everything is available, knowable, and recorded by everyone all the time.”
+But for now, it’s a tower of Babel.
+
+There are surely some profound and useful insights buried in this mismatched
+mountain of information that could improve public services,homeland security,
+environmental stewardship and global health if we could only see the patterns.
+But parsing through a boundless sea of incompatible, wildly diverse data sets
+will take some extraordinary effort.
+
+Duke is assembling a supergroup of talents to begin making sense of this “Big
+Data.”
+
+“We are going to bring the engineering discipline of control into things you
+never thought it could be applied to,” said Robert Calderbank, the Phillip
+Griffiths professor of computer science, mathematics and electrical and
+computer engineering at Duke University. With support from Pratt School of
+Engineering Dean Thomas Katsouleas, Provost Peter Lange and many other campus
+leaders, Calderbank is leading the launch of the Information Initiative at
+Duke (iiD).
+
+The effort is bringing together nearly a hundred faculty and student
+researchers from diverse fields and backgrounds into a shared space on the
+third floor of Duke’s newly remodeled Gross Hall. They will join forces to
+turn “Big Data” into big insights, and start creating the next generation of
+thinkers who can carry the data revolution forward.
+
+The initiative draws on Duke’s expertise in Bayesian statistics, image
+processing, genomics, remote sensing, wireless devices, social science,
+healthcare, signal processing, finance, machine learning,computer science and
+a host of other fields.
+
+"There are a group of people here—math, stats, engineering-type people—who
+work together already on a wide variety of projects related to big data,” said
+Lawrence Carin, the William H.Younger distinguished professor and chair of
+electrical and computer engineering (ECE), who helped to launch the new
+initiative. The group has already won major grant competitions such as a $3
+million Mathematics of Sensing, Exploitation and Execution program through
+DARPA, and is also involved in large research programs for the Department of
+Homeland Security.
+
+“It’s not something where we said ‘We wish we had a center, let’s make one.’
+This initiative formalizes something that already exists,” Carin said.
+
+“These are people who just decided they wanted to get together,” said
+Calderbank. “We are really good at this.”
+
+Once assembled, the experts at the iiD will reach out to people from across
+campus who have big data problems. One of those researchers is neuroscientist
+Ahmad Hariri, who has fMRI brain scans, genetics and questionnaire data on
+hundreds of volunteer study subjects. It’s a massive and complicated
+collection that requires equally complicated analyses to reveal important
+clues about varying responses to life’s challenges that can distinguish risk
+and resiliency to mental illness. Working with Carin, statistics professor
+David Dunson and others, the big data team is jointly studying the MRI scans,
+questionnaire data and associated genetic data as a package to identify
+specific patterns connecting genes, brain and behavior to mental illness.
+
+ECE, computer sciences and biomedical engineering professor Guillermo Sapiro
+is working with child psychiatrist Helen Egger, chief of Duke’s division of
+child and family mental health and developmental neuroscience, to automate the
+analysis of hundreds of hours of video of children interacting with their
+parents, school peers, teachers, friends and doctors. Egger has enlisted
+graduate students to analyze the tapes for various behaviors and telltale
+signs of anxiety disorders, but it is extraordinarily labor-intensive,
+requiring several hours to code two hours of tape per patient. For their study
+to scale up, Egger would like to see how much of the coding could be automated
+by Sapiro’s algorithms. Like Hariri, she also has questionnaire data, brain
+scans and genetics that need to be mined for larger patterns.
+
+As more kinds and volumes of data are brought into the iiD, social scientists
+will be involved to help formulate new questions, says Tom Nechyba, director
+of Duke’s Social Science Research Institute(SSRI). The institute is also
+moving some of its operations into the second floor of Gross Hall. For
+example, statisticians and computer scientists are planning to assemble a
+collection that combines census data by ZIP code with anonymized Medicare and
+Social Security records, and then the social scientists will help figure out
+what questions to ask of it.
+
+“We have the potential to be the best place in the world where information
+science meets the social sciences,” Calderbank said.
+
+The space in Gross Hall has been designed with what Carin calls ‘flex space’
+to enable scholars to move in for a year or so to work intensively with the
+team on a problem and then return to their home unit with new skills and
+collaborations.The social scientists, one floor below, are also building a
+coffee shop into their space to encourage spontaneous and relaxed
+interactions.
+
+“What this initiative hopes to be is the hub of a wheel,” Carin said. “The
+spokes are different segments of Duke, including the medical center, the
+Institute for Genome Sciences & Policy, Arts and Sciences, neuroscience,
+political science, SSRI, and anyone else out there with massive data they need
+to have analyzed.”
+
+But for Calderbank and Carin, the iiD is as much about education as it is
+about research. “Ask yourself, what sort of people does IBM want to hire?”
+says Calderbank. The answer, he thinks, are engaged, socially adept students
+who also have killer analytical skills—the sorts of students Duke is already
+attracting. “A company with a big data problem wants to be able to talk to
+somebody who can listen to their challenges and then build something
+quantifiable.” Duke students engaged with real-world problems of big data will
+be equipped with the quantitative and communication skills to help them thrive
+in the data-driven world, he said.
+
+“The student experience will start with some new gateway courses dealing with
+big data in modules to get students excited about the intersections of
+information, society and culture,” Calderbank said.“We’re going to have them
+navigate our curriculum in a more intentional, purposeful way,” to assemble
+the tools they need.
+
+David Dunson said the new initiative is also interested in partnerships with
+outside companies. “These companies and researchers have needs; we have
+methods. You have a problem, you can come to us and we’ll help you solve it,”
+he said. Corporate partnerships may also supply some funding to the iiD and
+could create real-world opportunities for Duke students. “The idea is to make
+Duke a leader in this field,” through both research and teaching, he said.
+
+“If you want to engage with the world, you’re going to engage around data,”
+Calderbank said.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

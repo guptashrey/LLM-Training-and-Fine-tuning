@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineering Solutions to Foodborne Illness
+
+May 16, 2019
+
+Christine Schinedler and Dutch Waanders's startup PathSpot aims to make
+restaurant kitchens cleaner, and safer, for consumers
+
+Romaine lettuce. Ground beef. Eggs. Chicken. Turkey. The list of foodborne
+illness outbreaks in 2018 was so long it mirrored a grocery list and made
+eating some of your favorite meals seem like a risky activity. The Centers for
+Disease Control and Prevention estimates that more than 48 million people get
+sick, 128,000 are hospitalized, and 3,000 die from foodborne diseases each
+year in the United States. Despite the prevalence of foodborne pathogens,
+there isn’t an easy way to make sure they don’t pass from people to produce.
+
+After watching what felt like endless newscasts announcing a new foodborne
+outbreak, Chris-tine Schindler and Dutch Waanders decided they wanted to do
+something to address the issue.
+
+Both 2015 graduates of Duke University’s Department of Biomedical Engineering,
+Schindler and Waanders recognized that their combined experience in
+entrepreneurship, global health and engineering gave them a unique perspective
+on the problem. They wanted to create an easy-to-use device that could detect
+signs of pathogens like salmonella, E. coli or listeria in a real-world
+setting.
+
+“We looked to see if there was a company out there already working on this,
+but we couldn’t find anyone doing instantaneous detection of pathogens in food
+service or in the restaurant space,” says Schindler.
+
+Using electronic components bought at a RadioShack going-out-of-business sale,
+the duo created a hand-dryer-sized device that uses spectroscopy to scan
+people’s hands for food-borne contaminants. As light from the device bounces
+off hands and back into the camera, a proprietary algorithm compares the wave-
+lengths of the reflected light to those of different indicators for foodborne
+pathogens including listeria, salmonella, hepatitis A and norovirus. If no
+contaminants are detected, the device flashes a green light and employees are
+cleared to handle food.
+
+“We went to restaurants door to door to ask them about the issue and what they
+needed in their facilities,” says Waanders. “People said that they’ve waited
+for a device like this for ten years. There was a ton of enthusiasm, so
+Christine and I quit our jobs and started working full time on PathSpot.”
+
+In tests in restaurants in Durham, New York City and Detroit, the researchers
+observed that each device was used an average of 170 times each week, and an
+average of 20 percent of scans detected some form of contamination in the
+first week.
+
+Although PathSpot is the team’s first startup to specifically tackle a health-
+related issue, Schindler and Waanders gained valuable entrepreneurial ex-
+perience when launching their national non-profit, Girls Engineering Change.
+Founded by Schindler in 2012 during her sophomore year at Duke, GEC was
+created to help young girls realize the difference engineering can make in the
+world by giving them hands-on de-sign experience.
+
+“We bring girls to college campuses and teach them how to build and assemble
+things that are then donated throughout the world so they can see the real
+impact of engineering,” says Schindler. “For example, we have them make solar-
+powered USB chargers that we’ll donate to disaster-relief settings. These are
+simple products, but they can make a big difference to people in need.”
+
+As the organization grew and chapters were established across the nation, it
+was even recognized by President Bill Clinton. Although Schindler and Waanders
+have handed over the reins to a new team of leaders, they credit their time
+with Girls Engineering Change for showing them how they could use their
+engineering education to address unmet needs.
+
+Today, the pair is working to expand PathSpot.
+
+“The education we received at Duke really pre-pared us to use our engineering
+skills to help people, and that’s why we’ve pursued the projects we have,”
+says Schindler. “Our engineering skills can be translated to so many different
+fields and in so many different ways, and I’m happy that we can serve both
+consumers and business owners through PathSpot.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

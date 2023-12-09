@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Nathaniel Chaney
+
+Assistant Professor of Civil and Environmental Engineering
+
+Prior to arriving at Duke, I was a postdoctoral research associate in the
+program in Atmospheric and Oceanic Sciences at Princeton University and had a
+dual appointment as a visiting research scientist at the NOAA Geophysical
+Fluid Dynamics Laboratory. I obtained my undergraduate degree at U.C. Berkeley
+where I received a Bachelor of Arts in Atmospheric Sciences and Applied
+Mathematics. For my graduate studies, I attended Princeton University where I
+completed a Ph.D. in Hydrology in the department of Civil and Environmental
+Engineering.
+
+My research harnesses the existing petabytes of global environmental data to
+improve understanding of the terrestrial water cycle. More specifically, I
+focus on quantifying and uncovering the role of multi-scale spatial
+organization over land (i.e., heterogeneity) in the Earth system. To this end,
+my group's research has three overarching themes: 1) improve the
+representation of land heterogeneity in Earth system models, 2) harness
+environmental data to characterize the observed spatial patterns and features
+over land, and 3) quantify the sensitivity of the hydrologic cycle to spatial
+heterogeneity. The tools that my group uses include numerical modeling,
+satellite remote sensing, machine learning, and high performance computing.
+
+I am currently looking for highly motivated Ph.D. and postdocs. If the
+research themes of my group are of interest to you, please don't hesitate to
+email me.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Civil and Environmental Engineering
+
+## Contact Information
+
+  * **Office Location:** CIEMAS 2463, Durham, NC 27708
+  * **Office Phone:** (919) 660-5195
+  * **Email Address:** nathaniel.chaney@duke.edu
+  * **Websites:**
+    * www.chaneylab.earth
+
+## Education
+
+  * Ph.D. Princeton University, 2015
+
+## Research Interests
+
+Hydrology, Earth system science, soil science, ecology, geomorphology,
+numerical modeling, high performance computing, machine learning,
+environmental data delivery and data assimilation.
+
+## Courses Taught
+
+  * CEE 506: Environmental Spatial Data Analysis
+  * CEE 690: Advanced Topics in Civil and Environmental Engineering
+  * CEE 691: Independent Study: Advanced Topics in Civil and Environmental
+    Engineering
+  * CEE 692: Independent Study: Advanced Topics in Civil and Environmental
+    Engineering
+  * CEE 701: Graduate Colloquium
+
+## In the News
+
+  * Climate Scientists Listen to the Clouds (Jan 10, 2023 | Duke Magazine)
+  * Duke Experts on Hurricane Recovery: Need a Long-Term Focus (Sep 30, 2022 |
+    Duke News)
+  * A Step Toward Better Weather Forecasts (Nov 2, 2021 | Pratt School of
+    Engineering)
+  * Hurricanes: How to Prepare and Why They’re Getting More Dangerous (Sep 4,
+    2019)
+  * What Researchers Are Watching Out For This Hurricane Season (May 28, 2019
+    | Pratt School of Engineering)
+  * Nathaniel Chaney: Harnessing Petabytes to Better Understand the Global
+    Water Cycle (Aug 27, 2018 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Chaney, NW; Van Huijgevoort, MHJ; Shevliakova, E; Malyshev, S; Milly, PCD;
+    Gauthier, PPG; Sulman, BN, _Harnessing big data to rethink land
+    heterogeneity in Earth system models_ , Hydrology and Earth System
+    Sciences, vol 22 no. 6 (2018), pp. 3311-3330 [10.5194/hess-22-3311-2018]
+    [abs].
+  * Chaney, NW; Metcalfe, P; Wood, EF, _HydroBlocks: a field-scale resolving
+    land surface model for application over continental extents_ ,
+    Hydrological Processes, vol 30 no. 20 (2016), pp. 3543-3559
+    [10.1002/hyp.10891] [abs].
+  * Chaney, NW; Wood, EF; McBratney, AB; Hempel, JW; Nauman, TW; Brungard, CW;
+    Odgers, NP, _POLARIS: A 30-meter probabilistic soil series map of the
+    contiguous United States_ , Geoderma, vol 274 (2016), pp. 54-67
+    [10.1016/j.geoderma.2016.03.025] [abs].
+  * Chaney, NW; Herman, JD; Reed, PM; Wood, EF, _Flood and drought hydrologic
+    monitoring: The role of model parameter uncertainty_ , Hydrology and Earth
+    System Sciences, vol 19 no. 7 (2015), pp. 3239-3251
+    [10.5194/hess-19-3239-2015] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

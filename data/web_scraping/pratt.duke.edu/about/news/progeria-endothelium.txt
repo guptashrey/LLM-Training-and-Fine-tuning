@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineered Living-Cell Blood Vessel Provides New Insights to Progeria
+
+February 6, 2020 | By Ken Kingery
+
+New model reveals a unique role of the cells lining blood vessels in progeria,
+a rare accelerated-aging disease
+
+Biomedical engineers at Duke University have developed the most advanced
+disease model for blood vessels to date and used it to discover a unique role
+of the endothelium in Hutchinson-Gilford Progeria Syndrome. Called progeria
+for short, the devastating and extremely rare genetic disease causes symptoms
+resembling accelerated aging in children.
+
+The model is the first to grow both the smooth muscle and inner lining, or
+endothelium, layers of blood vessels from stem cells derived from the
+patients’ own skin. Combined with an advanced experimental setup that pushes
+culture media that models blood through the engineered blood vessels, the
+model reveals that the endothelium responds differently to flow and shear
+stress with progeria than it does when healthy.
+
+The study shows that a diseased endothelium alone is enough to produce
+symptoms of progeria, and also demonstrates a new way of studying blood
+vessels in dynamic 3D models to better understand and test treatments for
+serious diseases.
+
+The results appear online on February 6 in the journal Stem Cell Reports.
+
+“The endothelium expresses the toxic protein that causes the symptoms of
+progeria, but it does so at much lower levels than the outer layer of blood
+vessels made of smooth muscle,” said Nadia Abutaleb, a biomedical engineering
+PhD student at Duke and co-first author of the paper. “Because of this, the
+entire field has been focused on smooth muscle, and the few that have looked
+at the endothelium have mostly looked at it in a static 2D culture. But we’ve
+discovered that it’s necessary to work dynamically in three dimensions to see
+the full effects of the disease.”
+
+Progeria is a non-hereditary genetic disease caused by a random single-point
+mutation in the genome. It is so rare and so deadly that there are only about
+250 people known to be currently living with the disease worldwide.
+
+Progeria is triggered by a defect in a protein called progerin that leads it
+to accumulate outside of a cell's nucleus rather than becoming part of the
+nuclear structural support system. This causes the nucleus to take on an
+abnormal shape and inhibits its ability to divide. The resulting symptoms look
+much like accelerated aging, and affected patients usually die of heart
+disease brought on by weakened blood vessels before the age of 15.
+
+"Progeria isn't considered hereditary, because nobody lives long enough to
+pass it on," said George Truskey, the R. Eugene and Susie E. Goodson Professor
+of Biomedical Engineering at Duke. "Because the disease is so rare, it’s
+difficult to get enough patients for clinical trials. We're hoping our
+platform will provide an alternative way to test the numerous compounds under
+consideration."
+
+Blood vessels are difficult to simulate because their walls have multiple
+layers of cells, including the endothelium and the media. The endothelium is
+the innermost lining of all blood vessels that interacts with circulating
+blood. The media is made mostly of smooth muscle cells that help control the
+flow and pressure of the blood.
+
+In 2017, the Truskey laboratory engineered the first 3D platform for testing
+blood vessels grown from skin cells taken from progeria patients. The blood
+vessels exhibited many of the symptoms seen in people with the disease and
+responded similarly to pharmaceuticals.
+
+“While the smooth muscle cells in our previous study were created using cells
+from progeria patients, the endothelial cells were not,” said Abutaleb. “We
+suspected that the endothelial cells might be responsible for some of the
+lingering symptoms in the original study, so we began working to grow blood
+vessels with both smooth muscle and endothelial cells derived from the same
+patient.”
+
+By successfully growing endothelial cells derived from progeria patients, the
+researchers were able to create a more complete model of the disease. They
+also tested the endothelium’s unique contribution to the disease’s symptoms by
+mixing impaired endothelium with healthy smooth muscle.
+
+They found that a diseased endothelium alone was enough to produce many of the
+symptoms of progeria, but that these results only appeared when the cells were
+tested under dynamic conditions.
+
+“One of the major findings is that the progeria endothelium responds to flow
+and shear stresses differently than healthy endothelium,” said Abutaleb.
+
+The new model’s healthy blood vessels responded to pharmaceuticals more
+strongly than in past papers, and the diseased blood vessels showed a greater
+drop in functionality. With this advanced model in hand, the team is now
+beginning to investigate how new and current drugs for progeria affect a
+patient’s blood vessels.
+
+This research was supported by the National Institutes of Health (R01
+HL138252-01, UH3TR000505, UH3TR002142) and the National Science Foundation
+(GRFP Grants #1106401 and DGE1644868).
+
+CITATION: “iPSC-derived Endothelial Cells Affect Vascular Function in a Tissue
+Engineered Blood Vessel Model of Hutchinson-Gilford Progeria Syndrome,” Leigh
+Atchison, Nadia O. Abutaleb, Elizabeth Snyder-Mounts, Yantenew Gete, Alim
+Ladha, Thomas Ribar, Kan Cao, George A. Truskey. Stem Cell Reports, vol. 14,
+issue 2 (2020). DOI: 10.1016/j.stemcr.2020.01.005
+
+# # #
+
+## Related News
+
+September 13, 2017
+
+### Tissue Chips Take Aim at Atherosclerosis and Rheumatoid Arthritis
+
+August 14, 2017
+
+### Artificial Blood Vessels Mimic Rare Accelerated Aging Disease
+
+September 23, 2014
+
+### $3 Million NIH Grant to Further 3-D Tissue Chip Research at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

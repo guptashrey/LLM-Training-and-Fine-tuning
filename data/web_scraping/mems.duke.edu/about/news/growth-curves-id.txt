@@ -1,0 +1,247 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# AI May Offer a Better Way to ID Drug-Resistant Superbugs
+
+August 3, 2020 | By Ken Kingery
+
+Machine learning algorithm uses high-temporal-resolution growth curves to
+identify pathogens with 98% accuracy and predict antibiotic resistance just as
+well as genetic-based methods
+
+Biomedical engineers at Duke University have shown that different strains of
+the same bacterial pathogen can be distinguished by a machine learning
+analysis of their growth dynamics alone, which can then also accurately
+predict other traits such as resistance to antibiotics. The demonstration
+could point to methods for identifying diseases and predicting their behaviors
+that are faster, simpler, less expensive and more accurate than current
+standard techniques.
+
+The results appear online on August 3 in the Proceedings of the National
+Academy of Sciences.
+
+For most of the history of microbiology, bacteria identification has relied on
+growing cultures and analyzing the physical traits and behaviors of the
+resulting bacterial colony. It wasn’t until recently that scientists could
+simply run a genetic test.
+
+Genetic sequencing, however, isn’t universally available and can often take a
+long time. And even with the ability to sequence entire genomes, it can be
+difficult to tie specific genetic variations to different behaviors in the
+real world.
+
+For example, even though researchers know the genetic mutations that help
+shield/protect bacteria from beta-lactam antibiotics—the most commonly used
+antibiotic in the world—sometimes the DNA isn’t the whole story. While a
+single resistant bacteria usually can’t survive a dose of antibiotics on its
+own, large populations often can.
+
+Lingchong You, professor of biomedical engineering at Duke, and his graduate
+student, Carolyn Zhang, wondered if a new twist on older methods might work
+better. Maybe they could amplify one specific physical characteristic and use
+it to not only identify the pathogen, but to make an educated guess about
+other traits such as antibiotic resistance.
+
+“We thought that the slight variance in the genes between strains of bacteria
+might have a subtle effect on their metabolism,” You said. “But because
+bacterial growth is exponential, that subtle effect could be amplified enough
+for us to take advantage of it. To me, that notion is somewhat intuitive, but
+I was surprised at how well it actually worked.”
+
+How quickly a bacterial culture grows in a laboratory depends on the richness
+of the media it is growing in and its chemical environment. But as the
+population grows, the culture consumes nutrients and produces chemical
+byproducts. Even if different strains start with the exact same environmental
+conditions, subtle differences in how they grow and influence their
+surroundings accumulate over time.
+
+In the study, You and Zhang took more than 200 strains of bacterial pathogens,
+most of which were variations of _E. coli_ , put them into identical growth
+environments, and carefully measured their population density as it increased.
+Because of their slight genetic differences, the cultures grew in fits and
+starts, each possessing a unique temporal fluctuation pattern. The researchers
+then fed the growth dynamics data into a machine learning program, which
+taught itself to identify and match the growth profiles to the different
+strains.
+
+To their surprise, it worked really well.
+
+“Using growth data from only one initial condition, the model was able to
+identify a particular strain with more than 92 percent accuracy,” You said.
+“And when we used four different starting environments instead of one, that
+accuracy rose to about 98 percent.”
+
+Taking this idea one step further, You and Zhang then looked to see if they
+could use growth dynamic profiles to predict another phenotype—antibiotic
+resistance.
+
+The researchers once again loaded a machine learning program with the growth
+dynamic profiles from all but one of the various strains, along with data
+about their resilience to four different antibiotics. They then tested to see
+if the resulting model could predict the final strain’s antibiotic resistances
+from its growth profile. To bulk up their dataset, they repeated this process
+for all of the other strains.
+
+The results showed that the growth dynamic profile alone could successfully
+predict a strain’s resistance to antibiotics 60 to 75 percent of the time.
+
+“This is actually on par or better than some of the current techniques in the
+literature, including many that use genetic sequencing data,” said You. “And
+this was just a proof of principle. We believe that with higher-resolution
+data of the growth dynamics, we could do an even better job in the long term.”
+
+The researchers also looked to see if the strains exhibiting similar growth
+curves also had similar genetic profiles. As it turns out, the two are
+completely uncorrelated, demonstrating once again how difficult it can be to
+map cellular traits and behaviors to specific stretches of DNA.
+
+Moving forward, You plans to optimize the growth curve procedure to reduce the
+time it takes to identify a strain from 2 to 3 days to perhaps 12 hours. He’s
+also planning on using high-definition cameras to see if mapping how bacterial
+colonies grow in space in a Petri dish can help make the process even more
+accurate.
+
+This research was conducted in collaboration with groups of Deverick J.
+Anderson, Joshua T. Thaden and Vance G. Fowler from the Duke University School
+of Medicine, and Minfeng Xiao from BGI Genomics.
+
+This research was partially supported by the National Institutes of Health
+(LY, R01GM098642, R01GM110494, 1A1125604), the Army Research Office (LY,
+W911NF-14-1-0490), the David and Lucile Packard Foundation, the Shenzhen
+Peacock Team Plan grant (MX, No. KQTD2015033117210153), the Centers for
+Disease Control and Prevention (DJA, U54CK000164), AHRQ (DJA, R01-HS23821),
+NIH (VGF, R01-AI068804), and the National Science Foundation’s Graduate
+Research Fellowship (CZ, HRM).
+
+“Temporal encoding of bacterial identity and traits in growth dynamics.”
+Carolyn Zhang, Wenchen Song, Helena R. Ma, Xiao Peng, Deverick J. Anderson,
+Vance G. Fowler Jr, Joshua T. Thaden, Minfeng Xiao, and Lingchong You. PNAS,
+2020. DOI: 10.1073/pnas.2008807117
+
+## Related News
+
+December 05, 2018
+
+### Distinguishing Resistance from Resilience to Prolong Antibiotic Potency
+
+November 22, 2017
+
+### Managing Antibiotics Not Enough to Reverse Resistance
+
+April 11, 2016
+
+### Antibiotics Don't Promote Swapping of Resistance Genes
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

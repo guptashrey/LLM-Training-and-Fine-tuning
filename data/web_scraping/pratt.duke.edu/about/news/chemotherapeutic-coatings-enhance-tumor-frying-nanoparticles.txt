@@ -1,0 +1,190 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Chemotherapeutic Coatings Enhance Tumor-Frying Nanoparticles
+
+July 13, 2015 | By Ken Kingery
+
+Researchers at Duke University have devised a heat-induced nanoparticle drug
+delivery system to add firepower to a treatment already in clinical trials
+
+In a move akin to adding chemical weapons to a firebomb, researchers at Duke
+University have devised a method for making a promising nanoscale cancer
+treatment even more deadly to tumors.
+
+The invention allows an extremely thin layer of hydrogels (think contact
+lenses) to be deposited on the surface of nanoshells -- particles about a
+hundred nanometers wide designed to absorb infrared light and generate heat.
+When heated, these special hydrogels lose their water content and release any
+molecules (such as drugs) trapped within.
+
+By depositing the hydrogels on tumor-torching nanoshells and loading the new
+coating with chemotherapeutic drugs, a formidable one-two punch is formed.
+
+The technique is described in a paper published in the journal ACS
+Biomaterials Science & Engineering on July 13, 2015, and was highlighted as an
+ACS Editor’s Choice.
+
+“The idea is to combine tumor-destroying heat therapy with localized drug
+delivery, so that you can hopefully have the most effective treatment
+possible,” said Jennifer West, the Fitzpatrick Family University Professor of
+Engineering at Duke, who holds appointments in biomedical engineering,
+mechanical engineering and materials science, cell biology, and chemistry.
+“And many chemotherapeutic drugs have been shown to be more effective in
+heated tissue, so there’s a potential synergy between the two approaches.”
+
+The photothermal therapy is already in clinical trials for several types of
+cancers being conducted by Nanospectra Biosciences, Inc., a company West
+founded. The nanoshells are tuned to absorb near-infrared light, which passes
+harmlessly through water and tissue. The nanoshells, however, quickly heat up
+enough to destroy cells, but only where the light shines.
+
+Besides being able to accurately target specific locations in the body with
+the light, the treatment also hinges on the fact that nanoshells tend to
+accumulate within a tumor due to leaky vasculature.
+
+“But you have to keep their size under about 500 nanometers,” said West. “We
+had to come up with a new process to create a very thin polymer coating on the
+surface of these nanoparticles to keep them under that threshold.”
+
+In the new study, West and doctoral student Laura Strong loaded the newly
+coated nanoshells with a potent chemotherapeutic drug and delivered them to
+tumor cells in a laboratory setting. The treatment worked as planned; the
+nanoshells heated up and destroyed most of the tumor cells while releasing the
+drugs, which cleaned up the survivors. Completely eradicating every cancerous
+cell is extremely important, as the escape of even a single cell capable of
+metastasizing could prove deadly down the road.
+
+The next step for the new cancer treatment is tests in live animals. While
+those experiments are in progress, human trials are still at least a couple
+years away.
+
+But the technology need not be limited to cancer therapy.
+
+“The hydrogels can release drugs just above body temperature, so you could
+potentially look at this for other drug-delivery applications where you don’t
+necessarily want to destroy the tissue,” said West. “You could do a milder
+warming and still trigger the drug release.”
+
+This research was supported by the National Institutes of Health (T32EB009379
+and U54CA151668).
+
+###
+
+“Hydrogel-Coated Near Infrared Absorbing Nanoshells as Light-Responsive Drug
+Delivery Vehicles.” Laura E. Strong and Jennifer L. West. ACS Biomaterials,
+2015. DOI: 10.1021/acsbiomaterials.5b00111
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

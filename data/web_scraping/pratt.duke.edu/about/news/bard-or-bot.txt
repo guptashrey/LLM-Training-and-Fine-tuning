@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bard or Bot?
+
+November 16, 2018 | by Robin A. Smith
+
+Duke team wins prize for most human-like sonnet written by A.I.
+
+_From Duke Today  
+_
+
+Shall I compare thee to a robo-poet? Last spring, a team of Duke students
+embarked on a class project to see if they could teach a computer to write
+Shakespearean sonnets that could pass for ones written by humans.
+
+One semester later, the algorithm they developed has won the 2018 “PoetiX”
+competition for computer-generated poetry.
+
+Team member Peter Hase ’19 admits he’s no poet. “I could not write a sonnet.
+I’m not artistic,” Hase said.
+
+But the exercise forced him and fellow student programmers and data geeks to
+think about what goes into writing poetry, while picking up machine learning
+skills along the way.
+
+Poetry presents unique challenges for computers, said the team’s coach Cynthia
+Rudin, associate professor of computer science, electrical and computer
+engineering, and statistics at Duke.
+
+As humans, we intuitively understand the often unwritten rules of grammar and
+syntax, not to mention metaphors, idioms and turns of phrase. But “there are a
+lot of nuances in the English language that computers don’t know,” Rudin said.
+
+A human would recognize that the word “blue” can refer to a mood or a color,
+for example—one of many double meanings that machines fail to grasp.
+
+Not to mention that you can’t tell a computer to tap into its feelings.
+
+The system learned how to compose sentences by studying other writers. To
+train their model, the team fed their bot the collected works of Walt Whitman,
+as well as “The Hunger Games” trilogy, and a poem in iambic pentameter by John
+Keats. It was then up to the computer to write its own sonnets.
+
+Given a one-word prompt—such as “love,” “sad” or “nature”—it automatically
+spits out 14 lines of rhyming verse, with the da-DUM da-DUM da-DUM rhythm of
+iambic pentameter.
+
+The algorithm composes each line in reverse, starting with the end rhyming
+words and working backward one word at a time until it has 10 syllables per
+line.
+
+It can quickly identify all the words in its 14,000-word vocabulary that give
+it the right meter and crank out its creations in roughly 10 minutes.
+
+“You can produce a lot of poems in a short period of time,” said team member
+John Benhart ’19.
+
+Joined by Duke students Tianlin Duan ’18 and Liuyi Zhu ’19, the team hasn’t
+created a computerized Shakespeare successor or Walt Whitman hopeful yet.
+
+Some of the more cringe-worthy results made their friends and classmates
+laugh. Commas sometimes appear in the wrong place, or grammatical errors give
+them away.
+
+“If we went through and picked the worst quatrains you’d say ‘this doesn’t
+make any sense,’” Hase said. “It’s kind of high-variance.”
+
+But their algorithm serves up more than word salad with the correct rhythm and
+rhyme scheme. “Sometimes these poems are coincidentally really good,” Rudin
+said. “Every once in a while it generates something that just happened to make
+beautiful sense.”
+
+For the PoetiX competition, computer-generated sonnets were mixed with sonnets
+written by flesh-and-blood humans, then a panel of judges had to guess whether
+they were written by a person or a machine.
+
+While none of the machine-written entries in this year’s competition managed
+to dupe the judges, a computer-generated sonnet from the Duke team’s algorithm
+was deemed the most convincing.
+
+Computer-generated poetry is not new. In the 1830s and 1840s, an eccentric
+English inventor named John Clark spent over a decade building Eureka, a
+nightstand-sized machine that generated gloomy Latin verse, one line per
+minute, for the price of a shilling.
+
+And in 2011, a Duke undergraduate named Zachary Scholl developed a poetry bot
+that got published in Duke's literary magazine The Archive, without revealing
+to the editors that the poems were written by a machine.
+
+“After working on this it feels like computers are pretty far away from being
+able to write a play or a novel,” said Benhart, who also enjoys writing the
+old fashioned way.
+
+“Now we’re trying to add more meaning and coherence in between lines,” Benhart
+said. “There’s still so much room to improve.”
+
+_The Duke Data Science Team got its start as a computer science class first
+offered in spring 2018, taught by Cynthia Rudin, with teaching assistant
+Rachel Ballantyne-Draelos. Within its first six months the team has entered
+and won two competitions._
+
+_CITATION: "Shall I Compare Thee to a Machine-Written Sonnet? An Approach to
+Algorithmic Sonnet Generation," John Benhart, Tianlin Duan, Peter Hase, Liuyi
+Zhu and Cynthia Rudin.https://arxiv.org/abs/1811.05067. November 13, 2018._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

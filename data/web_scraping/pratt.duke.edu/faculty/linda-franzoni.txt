@@ -1,0 +1,197 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Linda Franzoni
+
+Professor of the Practice in the Thomas Lord Department of Mechanical
+Engineering and Materials Science
+
+Professor Franzoni's research areas include: acoustics, and structural
+dynamics and vibration. Practical applications of this work include: acoustics
+of enclosures (rooms or vehicle interiors) and underwater acoustics (acoustic
+radiation and scattering from submarines).
+
+Professor Franzoni's interior noise research has focused on developing
+improved methods for predicting sound pressure levels in acoustic spaces which
+contain high-frequency sound waves with moderate damping. For these types of
+sound fields, accurate prediction methods currently require extensive
+computational effort. Professor Franzoni's research goal is to develop
+computationally efficient methods that provide the acoustician with a fairly
+detailed description of the sound field.
+
+Professor Franzoni's work in underwater acoustics has focused on applying
+Bliss' method of Analytical/Numerical Matching (ANM) to the prediction of
+acoustic radiation and scattering from flexible elastic submerged structures
+with discontinuities. Work is underway to implement this method in existing
+Navy computer codes. A recent extension of this work is a novel method for the
+homogenization of structures using a local/global decomposition method. The
+result is a reduction in computational effort for certain types of problems.
+
+## Appointments and Affiliations
+
+  * Professor of the Practice in the Thomas Lord Department of Mechanical
+    Engineering and Materials Science
+  * Associate Dean of Undergraduate Education
+
+## Contact Information
+
+  * **Office Location:** 305 Teer, Box 90271, Durham, NC 27708
+  * **Office Phone:** (919) 660-5996
+  * **Email Address:** franzoni@duke.edu
+
+## Education
+
+  * Ph.D. Duke University, 1991
+  * M.S. Duke University, 1988
+  * B.S. Yale University, 1980
+
+## Research Interests
+
+Acoustics of enclosures, underwater acoustics, structural dynamics and
+vibration.
+
+## Courses Taught
+
+  * EGR 101L: Engineering Design and Communication
+  * EGR 590: Special Topics in Engineering
+  * HOUSECS 59: House Course
+  * ME 499: Undergraduate Research Seminar Series
+
+## In the News
+
+  * Fundamental Concepts: What is Engineering? (May 12, 2021)
+
+## Representative Publications
+
+  * Raudales, D; Bliss, DB; Michalis, KA; Rouse, JW; Franzoni, LP, _Benchmark
+    analytical solutions for steady state high frequency broadband sound
+    fields in three rectangular enclosures._ , The Journal of the Acoustical
+    Society of America, vol 145 no. 4 (2019) [10.1121/1.5095771] [abs].
+  * Burton, LJ; Bliss, DB; Franzoni, LP, _Sound attenuation and prediction of
+    porous media properties in hybrid ducts utilizing spatially periodic area
+    changes_ , 2008 Proceedings of the Noisecon/Asme Ncad, Ncad 2008 (2009),
+    pp. 363-371 [abs].
+  * He, Q; Bliss, DB; Franzoni, L, _Noise reduction strategies using multi-
+    element flexible structures_ , 2008 Proceedings of the Noisecon/Asme Ncad,
+    Ncad 2008 (2009), pp. 373-383 [abs].
+  * Bliss, D; Franzoni, L; Michalis, K, _Characterization of high frequency
+    radiation from panels subject to broadband excitation_ , 2008 Proceedings
+    of the Noisecon/Asme Ncad, Ncad 2008 (2009), pp. 357-361 [abs].
+  * Michalis, K; Bliss, D; Franzoni, L, _Prediction and modification of
+    broadband interior noise in enclosures using energy-intensity bem and
+    absorption scaling_ , 2008 Proceedings of the Noisecon/Asme Ncad, Ncad
+    2008 (2009), pp. 339-347 [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

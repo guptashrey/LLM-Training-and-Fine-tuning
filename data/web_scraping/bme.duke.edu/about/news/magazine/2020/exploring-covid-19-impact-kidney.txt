@@ -1,0 +1,224 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Exploring COVID-19’s Impact on the Kidney
+
+October 7, 2020 | Michaela Kane
+
+By guiding stem cells to model kidney cells, Duke BME’s Samira Musah is
+studying how the novel coronavirus can damage the important organs
+
+Before the coronavirus pandemic spread around the globe, Samira Musah was
+focused on a different disease plaguing the world’s population.
+
+In her lab in Duke University’s Department of Biomedical Engineering, Musah
+studies human kidney disease, a disorder that affects nearly 15 percent of
+people. When functioning correctly, kidneys filter blood and remove waste from
+the body. But when kidney function breaks down, dangerous levels of fluid and
+waste can build up in the body, damaging the heart, brain and immune system
+
+Musah, an assistant professor in Duke BME and Medicine, uses pluripotent stem
+cells from patients to design environments that send signals to stem cells,
+telling them to differentiate into specific cell types, like kidney cells. By
+determining how to create different types of kidney cells, her lab can create
+more complex in-vitro models that mimic the overall structure and function of
+the kidneys, potentially allowing them to identify early disease markers for
+patients developing kidney disease.
+
+As coronavirus cases began to rise in late March and early April, Musah began
+seeing reports that some patients diagnosed with COVID-19, the disease caused
+by SARS-CoV-2, were also developing kidney disease, sometimes resulting in
+organ failure.
+
+> “The kidneys are the third most affected organs in patients hospitalized
+> with COVID-19. Reports from several hospitals in China and the US suggest
+> that about 70 percent of COVID-19 patients with acute kidney disease die,
+> and those still living require renal replacement therapies."
+>
+> Samira Musah
+
+Titilola Kalejaiye prepares material for the lab so they can better understand
+how the virus enters kidney cells
+
+“We don’t fully understand the mechanism of this disease, or how it targets
+and damages the kidneys. To make things more challenging, the virus does not
+infect or cause COVID-19 in animals as it does in humans, so we don’t have an
+animal model that can help answer these questions fully.”
+
+Using their stem cell-derived organ-on-a-chip model to mimic key structures
+and functions of the human kidney, Musah and her team, including postdoctoral
+fellow, set out to answer these questions by exploring what changes occur in
+the kidney cells after they’ve been infected with a synthetic version of SARS-
+CoV-2.
+
+“We’ll be focusing our work on exploring how the virus enters kidney cells,
+and we’ll also check for activated immune cells,” says Kalejaiye. “A recent
+report outlined that there is direct injury to kidney tubules and epithelia
+from the virus, as opposed to damage caused by an immune reaction, like a
+cytokine storm, so we’ll use our platform to explore those ideas.”
+
+The team also hopes to use their models to help test and develop therapies for
+COVID-19 infection. According to Musah, most drugs fail in clinical trials
+because they are toxic to the kidneys. They’re optimistic that their platform
+can speed up the drug development process and nephrotoxicity screening for
+COVID-19 and other diseases.
+
+“Several research teams are exploring the possibility of repurposing some
+existing FDA-approved drugs to help treat COVID-19,” says Musah. “If
+successful, our strategy could speed up this drug development timeline and
+potentially help improve patient outcomes.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

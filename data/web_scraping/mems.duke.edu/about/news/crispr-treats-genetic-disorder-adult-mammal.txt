@@ -1,0 +1,260 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# CRISPR Treats Genetic Disorder in Adult Mammal
+
+January 4, 2016 | By Ken Kingery
+
+Duke University researchers deliver gene-editing system to mouse model of
+Duchenne muscular dystrophy
+
+Researchers have used CRISPR to treat an adult mouse model of Duchenne
+muscular dystrophy. This marks the first time that CRISPR has successfully
+treated a genetic disease inside a fully developed living mammal with a
+strategy that has the potential to be translated to human therapy.
+
+Researchers from Duke University had previously used CRISPR to correct genetic
+mutations in cultured cells from Duchenne patients, and other labs had
+corrected genes in single-cell embryos in a laboratory environment. But the
+latter approach is currently unethical to attempt in humans, and the former
+faces many obstacles in delivering treated cells back to muscle tissues.
+
+Another approach, which involves taking CRISPR directly to the affected
+tissues through gene therapy techniques, also faces challenges, particularly
+with delivery. In the new study, Duke University researchers overcame several
+of these obstacles by using a non-pathogenic carrier called adeno-associated
+virus, or AAV, to deliver the gene-editing system.
+
+The paper appears on December 31, 2015 in Science.
+
+“Recent discussion about using CRISPR to correct genetic mutations in human
+embryos has rightfully generated considerable concern regarding the ethical
+implications of such an approach,” said Charles Gersbach, associate professor
+of biomedical engineering at Duke University. “But using CRISPR to correct
+genetic mutations in the affected tissues of sick patients is not under
+debate. These studies show a path where that’s possible, but there’s still a
+considerable amount of work to do.”
+
+Duchenne muscular dystrophy is caused by problems with the body’s ability to
+produce dystrophin, a long protein chain that binds the interior of a muscle
+fiber to its surrounding support structure. Dystrophin is coded by a gene
+containing 79 protein-coding regions, called exons. If any one exon gets a
+debilitating mutation, the chain does not get built.
+
+Without dystrophin providing support, muscle tends to shred and slowly
+deteriorate.
+
+Duchenne affects one in 5,000 newborn males. Most patients are wheelchair-
+bound by age 10 and don’t live beyond their 20s or early 30s. The mutation is
+on the X chromosome so female children with two X chromosomes should have at
+least one functioning copy of the gene.
+
+Gersbach has been working on potential genetic treatments for Duchenne with
+various gene-altering systems since starting his lab at Duke in 2009. His lab
+recently began focusing on CRISPR/Cas9—a modified version of a bacterial
+defense system that targets and slices apart the DNA of familiar invading
+viruses.
+
+While Gersbach has had success in cultured patient cells by using a jolt of
+electricity to punch holes in their membranes to deliver the CRISPR system,
+this strategy was not practical in a patient’s muscle tissues.
+
+“A major hurdle for gene editing is delivery. We know what genes need to be
+fixed for certain diseases, but getting the gene editing tools where they need
+to go is a huge challenge,” said Chris Nelson, the fellow in Gersbach’s
+laboratory who led the work. “The best way we have to do it right now is to
+take advantage of viruses, because they have spent billions of years evolving
+to figure out how to get their own viral genes into cells.”
+
+Nelson and Gersbach began working on packaging gene editing tools into AAV—the
+most popular virus for delivering genes today. They were assisted through
+collaborations with AAV experts Aravind Asokan, associate professor at the
+University of North Carolina – Chapel Hill School of Medicine, and Dongsheng
+Duan at the University of Missouri School of Medicine. Duan also provided
+significant expertise from a long history of work on gene therapy for
+neuromuscular disorders.
+
+To use viruses as delivery vehicles for gene therapy, researchers take all the
+harmful and replicative genes out of the virus and put in the therapeutic
+genes they want to deliver. While early virus types didn’t work well for
+various reasons, such as integrating into the genome and causing problems or
+triggering immune responses, AAV thus far has proven special. It’s a virus
+that many people are exposed to anyway and is non-pathogenic, but still
+exceptionally effective at getting into cells.
+
+AAV is in use in many late-stage clinical trials in the United States, and has
+already been approved for use in one gene therapy drug in the European Union.
+There are also different versions of AAV that can preferentially go to
+different tissues, such as skeletal and cardiac muscle, so researchers can
+deliver them systemically.
+
+But there’s always a catch, and for Gersbach it was a matter of size.
+
+“AAV is a really small virus and CRISPR is relatively large,” said Gersbach.
+“It simply doesn’t fit well, so we still had a packaging problem.”
+
+The solution came from Feng Zhang, an investigator at the Broad Institute of
+the Massachusetts Institute of Technology and Harvard. Earlier this year,
+Zhang described a CRISPR system from a different bacterium than the one
+commonly used.
+
+In the natural bacterial immune system, CRISPR is the mug shot that helps
+identify the target DNA, and Cas9 is the blade that slices the strands. The
+large Cas9 protein typically used by researchers comes from the bacterial
+species Streptococcus pyogenes. After scouring the bacterial kingdom, Zhang
+discovered the much smaller Cas9 protein of Staphylococcus aureus.
+
+Small enough to fit comfortably inside of AAV.
+
+In the study, researchers worked with a mouse model that has a debilitating
+mutation on one of the exons of the dystrophin gene. They programmed the new
+CRISPR/Cas9 system to snip out the dysfunctional exon, leaving the body’s
+natural repair system to stitch the remaining gene back together to create a
+shortened—but functional—version of the gene.
+
+Besides being much easier and more efficient than replacing the dysfunctional
+exon with a working copy, simply snipping out the weak link is a strategy that
+would be effective in a larger swath of the patient population.
+
+Gersbach and his team first delivered the therapy directly to a leg muscle in
+an adult mouse, resulting in the restoration of functional dystrophin and an
+increase in muscle strength. They then injected the CRISPR/AAV combination
+into a mouse’s bloodstream to reach every muscle. The results showed some
+correction of muscles throughout the body, including in the heart—a major
+victory because heart failure is often the cause of death for Duchenne
+patients.
+
+“There is still a significant amount of work to do to translate this to a
+human therapy and demonstrate safety,” said Gersbach. “But these results
+coming from our first experiments are very exciting. From here, we’ll be
+optimizing the delivery system, evaluating the approach in more severe models
+of DMD, and assessing efficiency and safety in larger animals with the
+eventual goal of getting into clinical trials.”
+
+The work at Duke was supported by the Muscular Dystrophy Association, The
+Hartwell Foundation, the March of Dimes Foundation, the National Institutes of
+Health, the Duke-Coulter Translational Partnership, and the Duke/UNC-Chapel
+Hill Clinical and Translational Science Awards Consortium.
+
+###
+
+“In vivo genome editing improves muscle function in a mouse model of Duchenne
+muscular dystrophy.” Christopher E. Nelson, Chady H. Hakim, David G.
+Ousterout, Pratiksha I. Thakore, Eirik A. Moreb, Ruth M. Castellanos Rivera,
+Sarina Madhavan, Xiufang Pan, F. Ann Ran, Winston X. Yan, Aravind Asokan, Feng
+Zhang, Dongsheng Duan, Charles A. Gersbach. Science, December 31, 2015. DOI:
+10.1126/science.aad5143
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

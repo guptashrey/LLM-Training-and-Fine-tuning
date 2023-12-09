@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Growing Bacteria Keep Time, Know Their Place
+
+October 8, 2013 | by Karyn Hede
+
+Engineered gene circuit could have energy, biology implications
+
+Working with a synthetic gene circuit designed to coax bacteria to grow in a
+predictable ring pattern, Duke University scientists have revealed an
+underappreciated contributor to natural pattern formation: time.
+
+In a series of experiments published Oct. 8, 2013, in the journal _Molecular
+Systems Biology_ , associate professor of biomedical engineering Lingchong You
+and his colleagues show that their engineered gene circuit functions as a
+timing mechanism, triggering a predictable ring growth pattern that adjusts to
+the size of its environment.
+
+The unexpected result provides a potential explanation for how organs such as
+the heart and lungs know when to stop growing and runs counter to established
+theories, one of which dates back to computer pioneer Alan Turing. The finding
+also lays a foundation for engineering patterned bacteria as a biological
+scaffold for new materials such as metallic films, which have potential
+applications in the energy field.
+
+“Everywhere you look in nature there are patterns, many of them very beautiful
+and even inspirational,” said You. “Our work adds another dimension to the
+general principles of pattern formation.”
+
+Turing's ideas guided theories of pattern formation in biology for decades. He
+imagined biological patterns arose from the interaction of chemicals he termed
+“morphogens” that initiated and directed patterns by triggering on- or off-
+switches, depending on their concentration in a particular location. In a
+theoretical treatise published in 1952, Turing used math to show how these
+morphogens could move in space, revealing patterns that mimic those seen in
+animal skins and leaf shapes.
+
+But like persistent myths, theories can also become entrenched. You and his
+colleagues became puzzled when a synthetic gene circuit they built to test
+Turing’s model didn’t create the growth pattern they were expecting.
+
+Using molecular biology techniques, he and his colleagues had programmed the
+common laboratory bacterium E. coli to produce two molecules. One served as
+the “on” switch that spreads throughout the growing colony. The other served
+as the “off” switch that would be triggered by an increasing concentration of
+the “on” signal.
+
+The researchers also engineered the bacteria to produce fluorescent colors so
+they could watch patterns form. But as the colonies grew, the emerging
+patterns didn’t behave as predicted. They were much smaller than the research
+team expected based on how fast the “on” signal should diffuse.
+
+To solve the mystery, the scientists added a high concentration of the “on”
+signal to the growth chamber, flooding the bacteria with the signal. The
+bacteria formed the same distinctive ring pattern over the same time, which
+showed they weren't responding to changes in the concentration of the "on"
+signal in space.
+
+Instead, the researchers reasoned that the “on” signal served as a timing cue.
+The research team then created a mathematical model of the timing mechanism
+and predicted how the cells would respond to changes in the size of their
+growth chamber.
+
+“By serving as a timing cue, the morphogen ‘on’ signal enables the system to
+sense and respond to the size of the environment,” said You. “The larger the
+area, the longer it takes for the morphogen to accumulate to a high enough
+concentration to trigger pattern formation. As such, a larger area will lead
+to a larger ring pattern.”
+
+Follow-up experiments confirmed the model, and provided a simple example of
+how growing organs may be able to sense the size of their environment -- and
+when it’s time to stop growing -- potentially solving a persistent mystery in
+developmental biology.
+
+You and his colleagues plan to use the artificial gene circuit to create more
+complex biological patterns, both to further explore general principles of
+pattern formation and to serve as scaffolds for making new materials, such as
+thin metal films for energy applications.
+
+The lead authors for this work are Stephen Payne and Bochong Li from Duke’s
+Department of Biomedical Engineering. In addition, Yangxiaolu Cao, also from
+the Department of Biomedical Engineering, as well as David Schaeffer and Marc
+D. Ryser of Duke’s Department of Mathematics, contributed to the work.
+
+The research was supported by the Office of Naval Research (N00014-12-1-0631),
+the National Institutes of Health (1R01- GM098642; R01-GM096190-02), a DuPont
+Young Professorship, a David and Lucile Packard Fellowship, and a National
+Science Foundation CAREER award to You (CBET-0953202), as well as NIH graduate
+fellowship funding to Payne.
+
+_Video: Growth of a bacterial colony (green) over about 60 hours. The blue
+"on" signal spreads outward from the center; red represents the "off" signal
+triggered over time. Credit: Stephen Payne, Pratt School of Engineering,
+Duke._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

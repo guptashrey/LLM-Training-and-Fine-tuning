@@ -1,0 +1,274 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Kathryn Radabaugh Nightingale
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Theo Pilkington Distinguished Professor of Biomedical Engineering
+
+The goals of our laboratory are to investigate and improve ultrasonic imaging
+methods for clinically-relevant problems. We do this through theoretical,
+experimental, and simulation methods. The main focus of our recent work is the
+development of novel, acoustic radiation force impulse (ARFI)-based elasticity
+imaging methods to generate images of the mechanical properties of tissue,
+involving interdisciplinary research in ultrasonics and tissue biomechanics.
+We have access to the engineering interfaces of several commercial ultrasound
+systems which allows us to design, rapidly prototype, and experimentally
+demonstrate custom sequences to explore novel beamforming and imaging
+concepts. We employ FEM modeling methods to simulate the behavior of tissues
+during mechanical excitation, and we have integrated these tools with
+ultrasonic imaging modeling tools to simulate the ARFI imaging process. We
+maintain strong collaborations with the Duke University Medical Center where
+we work to translate our technologies to clinical practice. The ARFI imaging
+technologies we have developed have served as the basis for commercial imaging
+technologies that are now being used in clinics throughout the world. We are
+also studying the risks and benefits of increasing acoustic output energy for
+specific clinical imaging scenarios, with the goal of improving ultrasonic
+image quality in the difficult-to-image patient.
+
+## Appointments and Affiliations
+
+  * Theo Pilkington Distinguished Professor of Biomedical Engineering
+  * Professor in the Department of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 277 Hudson Hall Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5175
+  * **Email Address:** kathy.nightingale@duke.edu
+  * **Websites:**
+    * Google Scholar
+    * http://kathynightingalelab.pratt.duke.edu/
+
+## Education
+
+  * B.S. Duke University, 1989
+  * Ph.D. Duke University, 1997
+
+## Research Interests
+
+Ultrasonic and elasticity imaging, specifically nonlinear propagation,
+acoustic streaming and radiation force; the intentional generation of these
+phenomena for the purpose of tissue characterization; finite element modeling
+of normal and diseased tissue when exposed to ultrasound, and performing both
+phantom and clinical experiments investigating these phenomena. Other areas of
+interest include prostate imaging, abdominal imaging, image-guided therapies,
+and the bioeffects of ultrasound.
+
+## Courses Taught
+
+  * BME 354L: Introduction to Medical Instrumentation
+  * BME 493-1: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 542: Principles of Ultrasound Imaging (GE, IM)
+  * BME 845: Elasticity Imaging
+
+## In the News
+
+  * Nightingale, Wilson Elected Fellows of the National Academy of Inventors
+    (Dec 6…
+  * Duke Adds 21 Faculty to Distinguished Faculty Rank (May 7, 2019)
+  * Bringing Scholarship to the Classroom (Nov 19, 2013 | Duke Today)
+
+## Representative Publications
+
+  * Paley, Courtney Trutna, Anna E. Knight, Felix Q. Jin, Spencer R.
+    Moavenzadeh, Laura S. Pietrosimone, Lisa D. Hobson-Webb, Ned C. Rouze,
+    Mark L. Palmeri, and Kathryn R. Nightingale. “Repeatability of Rotational
+    3-D Shear Wave Elasticity Imaging Measurements in Skeletal Muscle.”
+    Ultrasound Med Biol 49, no. 3 (March 2023): 750–60.
+    https://doi.org/10.1016/j.ultrasmedbio.2022.10.012.
+  * Zhang, Bofeng, Nick Bottenus, Felix Q. Jin, and Kathryn R. Nightingale.
+    “Quantifying the Impact of Imaging Through Body Walls on Shear Wave
+    Elasticity Measurements.” Ultrasound in Medicine & Biology 49, no. 3
+    (March 2023): 734–49. https://doi.org/10.1016/j.ultrasmedbio.2022.10.005.
+  * Knight, Anna E., Felix Q. Jin, Courtney Trutna Paley, Ned C. Rouze,
+    Spencer R. Moavenzadeh, Laura S. Pietrosimone, Mark L. Palmeri, and
+    Kathryn R. Nightingale. “Parametric Analysis of SV Mode Shear Waves in
+    Transversely Isotropic Materials Using Ultrasonic Rotational 3-D SWEI.”
+    Ieee Trans Ultrason Ferroelectr Freq Control 69, no. 11 (November 2022):
+    3145–54. https://doi.org/10.1109/TUFFC.2022.3203935.
+  * McCune, Erica P., David Q. Le, Peter Lindholm, Kathryn R. Nightingale,
+    Paul A. Dayton, and Virginie Papadopoulou. “Perspective on ultrasound
+    bioeffects and possible implications for continuous post-dive monitoring
+    safety.” Diving and Hyperbaric Medicine 52, no. 2 (June 2022): 136–48.
+    https://doi.org/10.28920/dhm52.2.136-148.
+  * Rouze, Ned C., Annette Caenen, and Kathryn R. Nightingale. “Phase and
+    group velocities for shear wave propagation in an incompressible,
+    hyperelastic material with uniaxial stretch.” Physics in Medicine and
+    Biology 67, no. 9 (April 2022). https://doi.org/10.1088/1361-6560/ac5bfc.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

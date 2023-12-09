@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Researchers Aim to Develop New Techniques for Creating High-Temperature
+Alloys
+
+August 25, 2015
+
+A new grant seeking to develop new techniques for creating high-temperature
+materials is taking advantage of Duke University’s expertise in computational
+materials genomics—the computer modeling of novel materials to identify which
+might have desirable properties.
+
+Led by NC State University, the new initiative is aimed at addressing
+fundamental scientific questions that could lead to the development of so-
+called “entropy-stabilized alloys” that can withstand extremely high
+temperatures. The initiative also includes the University of Virginia and the
+University of California, San Diego, and is funded by a five-year, $8.4
+million grant from the Office of Naval Research (ONR).
+
+“The Defense Department has a need for materials that are mechanically and
+chemically stable at ultra-high temperatures – meaning temperatures of 2,000
+degrees Celsius or more,” says Don Brenner, Kobe Steel Distinguished Professor
+of Materials Science and Engineering at NC State and principal investigator
+under the ONR grant. “These materials can have significant aerospace
+applications, but the number of usable materials is currently small, and those
+materials rely on strong chemical bonding to remain stable. At high
+temperatures, most materials are simply no longer stable.”
+
+To address the shortage of ultra-high temperature materials, ONR has tasked
+Brenner and the rest of the research team with investigating the viability of
+creating entropy-stabilized alloys that withstand these temperatures. Entropy-
+stabilized alloys are materials that consist of four or more elements in
+approximately equal amounts, and they have garnered significant attention in
+recent years because they can have remarkable properties.
+
+“Our role in this project is to create an algorithm for rapidly quantifying
+the stability of systems that are losing or have lost their crystalline
+structure,” said Stefano Curtarolo, professor of mechanical engineering and
+materials science at Duke. “We can do this through a combination of kinetics
+descriptors and analysis of our ever-expanding library of theoretical
+materials, the automatic-flow consortium repository (aflowlib.org)."
+
+These alloys are of interest for use in ultra-high temperature applications
+because of their unique ability to “absorb” disorder in a material’s
+crystalline structure that otherwise would lead to the breakdown of a
+material.
+
+**Why Disorder Is Important**
+
+Crystals are composed of a repeating arrangement of atoms, which can be
+different from crystal to crystal. That arrangement is called the crystal’s
+“lattice type.” For example, think of one crystal as having its atoms arranged
+as a series of cubes, while another crystal may have its atoms arranged as a
+series of three-dimensional hexagons.
+
+As the temperature of a crystal is increased, it begins to lose its ordering.
+That means that individual atoms may move around. And when those atoms get
+rearranged, it can affect the structure – one of the cubes might start
+changing into a different shape. This can occur in different ways, such as
+distortions of the lattice or atoms missing from their lattice sites. At high
+enough temperatures this disordering can lead to melting, or otherwise cause a
+material to lose strength.
+
+But in entropy stabilized alloys, the mix of elements can be arranged in many
+different ways on a single lattice type. In other words, the structure can
+continue to be a series of cubes, even if the elements that make up the
+structure get shuffled around. Researchers think this ability to retain its
+structural integrity even when the atoms become disordered has the potential
+to increase melting points and make materials useful at ultra-high
+temperatures.
+
+**Research Questions**
+
+The ONR grant is tasking the research team to develop the scientific concepts
+needed to determine whether it’s possible to create ultra-high temperature
+high entropy alloys – and, if it is possible, how.
+
+“We’ll be developing new experimental approaches for evaluating high entropy
+alloys at ultra-high temperatures,” Brenner says. “For example, how do you
+test an alloy if the equipment containing the alloy melts before the alloy
+does? And how can we evaluate whether a material will oxidize at extreme
+temperatures, thus altering the material’s properties?”
+
+The researchers will also be developing and modifying computational techniques
+for identifying the most promising possible high entropy alloys, which can
+then be targeted for additional experimental testing.
+
+“Our computational models and databases will help identify good candidates,”
+said Curtarolo. “Once established, experimentalists in the group will work to
+synthesize, process and test their abilities.”
+
+“However, our work is not aimed at necessarily creating new materials,” added
+Brenner. “But rather introducing new theoretical, computational and
+experimental tools into the larger ultra-high temperature materials community.
+
+“It’s also important to stress that all of this work is truly
+interinstitutional, drawing on expertise from all of the parties involved,”
+Brenner says.
+
+And the researchers won’t be working in a vacuum. There will be significant
+input from a variety of third-parties to help guide the work.
+
+“Researchers from Lockheed-Martin, the Naval Air Weapons Station at China
+Lake, the Air Force Research Laboratory, and the Naval Research Laboratory,
+together with other DoD-related laboratories will help to advise our work,
+especially in terms of DoD and civilian needs,” Brenner says.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

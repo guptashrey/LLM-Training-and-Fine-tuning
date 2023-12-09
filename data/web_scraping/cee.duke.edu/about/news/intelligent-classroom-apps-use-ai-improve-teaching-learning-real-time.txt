@@ -1,0 +1,316 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘Intelligent Classroom’ Apps Use AI to Improve Teaching & Learning in Real-
+Time
+
+October 8, 2021 | Mark Schreiner
+
+Duke-developed machine-learning tools show promise of focused, personalized
+instruction—regardless of how many students are being taught
+
+Using creativity and lines of computer code, Duke Engineering’s Jon
+Reifschneider has created an assistant that evaluates his teaching and
+measures his students’ progress.
+
+This fall, Reifschneider hopes to bring another virtual teaching assistant
+online—a machine-learning powered tutor that can assess a student’s ability to
+write computer code and provide them a personalized, adaptive learning path
+based on their current abilities and their motivations for learning to
+program.
+
+This executive-in-residence and master’s-level instructor at Duke’s Pratt
+School of Engineering has aimed these powerful computational tools to
+challenges related to how he teaches and how well his students learn.
+
+Like every good engineering project, it started with a problem.
+
+> “Codeable provides a new learning space for the programmer community that
+> creates personalized learning plans and offers useful online resources
+> throughout a learner’s journey, increasing the success rate for those new to
+> programming."
+>
+> **Qi Dai** | Duke Master of Engineering Management Student
+
+“Even in a small class, it is difficult for an instructor to know on a day-to-
+day basis where students are doing well and where they are struggling,” said
+Reifschneider, who is director of the Duke AI for Product Innovation (AIPI)
+Master of Engineering degree program. “In some cases, mastery might not be
+understood until a mid-term exam or after a final exam. By then, it’s too late
+to do anything about it. Plus, it’s impossible, usually, to know in real-time
+if the root of the problem is specific to the student, or if it was a broader
+class-wide issue related to how well (or poorly) a topic was taught.”
+
+To shorten the feedback loop so that he could improve the lessons he was
+delivering to his students, Reifschneider decided that an AI/ML tool might
+provide a solution.
+
+As he teaches in his master’s courses in data science and machine learning,
+the first step is acquiring data, preferably lots of data.
+
+In an unexpected silver lining of the mass transition to remote instruction
+during the COVID-19 pandemic, Reifschneider had lots of data with which to
+work.
+
+## From Information to Insight
+
+“Everything we did at Duke moved online,” he said. “This provided rich pools
+of data.”
+
+All lectures were virtual, meaning they were recorded and transcribed. Every
+word Reifschneider spoke in the lectures was available for AI evaluation.
+Assignments and quizzes were digital, too.
+
+To this point, it was a reasonably standard data-acquisition process. The
+answers Reifschneider sought on the quality of his teaching and on the
+progress of his students were in there, in that mound of data. But how to get
+the answers out, and on a useful timescale, was an engineering challenge.
+
+By human eye and hand, that analytical task would take perhaps months. Machine
+learning could do those analyses far faster than any human. Its programming
+could “teach itself” what good student performance looked like and report
+where it saw it and where it was lacking. ML could analyze the thousands and
+thousands of words in Reifschneider’s lectures and map them to the core topics
+described in the course’s syllabus.
+
+But, as he teaches his students in a course on the limitations and ethical
+dimensions of AI and ML, such systems are far from perfect. Programming and
+results must be reviewed for bias and accuracy. A good developer constantly
+assesses and makes improvements.
+
+Into his machine learning tool, dubbed “Intelligent Classroom,” he poured Zoom
+transcripts, quiz questions and answers, and student assignments. Then, the
+Intelligent Classroom Assistant began analyzing the data and offering
+insights.
+
+Take quizzes for just one example. All questions were multiple-choice to
+facilitate analysis. In addition to showing neatly how many students answered
+each question correctly, the tool scored each question for difficulty. For
+example, in the Week 3 quiz, less than 30 percent answered Question 5
+correctly. Why? Was the topic not taught clearly? Was the question
+unreasonably tricky?
+
+Since the analysis was done quickly, Reifschneider had time to revisit topics
+in the following lecture or office hour, to fill learning gaps among students
+in real-time. He could also make a note for next semester to potentially
+reword questions that scored as needlessly difficult.
+
+The tool allowed him to do a similar analysis for each student, providing
+personalized views of learning gaps and problem topic areas. This informed
+one-on-one student meetings.
+
+His students in a recent semester were given access to a student portal where
+they could see their Intelligent Classroom data for themselves and access an
+ML-derived index of course lecture transcripts. A student who had trouble
+mastering a topic such as “types of missing data” would get a direct link to
+the video recording of the Week 7 lecture with instructions to start it at the
+1 hour, 37-minute mark. Students could also use plain language to search the
+lectures; the tool provided results similar to an online search engine with
+links to relevant portions of lectures.
+
+## Improving the Performance of Students and Instructors
+
+Reifschneider said the tool has great potential to improve the performance of
+both instructors and students. Perhaps most significantly, the Intelligent
+Classroom can provide individualized instructional insights no matter how many
+students are in a course.
+
+“Beyond helping teachers improve class quality, machine-learning tools could
+enable them to do so at vastly increased scale,” Reifschneider said. “This
+offers the promise of widespread, personalized teaching, no matter the class
+size. As a result, instructors could provide more individualized guidance and
+learners could learn more. Society as a whole would reap benefits, too.”
+
+This fall at Duke, Reifschneider will introduce his students to a new machine-
+learning tool called Codeable, which aims to provide personalized support to
+students learning to code.
+
+The tool is based in part on ethnographic research conducted over the summer
+by Duke Master of Engineering Management student Qi Dai on the challenges
+students face in building programming skills.
+
+“Codeable provides a new learning space for the programmer community beyond
+the physical classroom that creates personalized learning plans and offers
+useful online resources throughout a learner’s journey, increasing the success
+rate for those new to programming," Dai said.
+
+Inside Codeable is official background documentation for the Python coding
+language, large-scale digital libraries created at multiple institutions that
+match snippets of computer code with their meanings in plain English and
+Reifschneider’s own database of programming-code/English-word “pairs.”
+
+A recent demonstration showed how a student could point Codeable to code they
+have already written. Codeable would then review the code to determine their
+proficiency in different aspects of programming. It would recommend a set of
+next topics to learn and provide links to those lessons. After completing that
+work, the student could return to Codeable for an almost instant analysis of
+their progress since the last visit and receive additional personalized
+suggestions.
+
+> "My big discovery was that sometimes students do not realize what they are
+> struggling with. I needed a tool that could identify issues that are
+> difficult to spot.”
+>
+> **Jon Reifschneider** | director, Duke AI for Product Innovation Master of
+> Engineering degree
+
+“The idea for this came from weekly lesson planning,” Reifschneider said.
+“Intelligent Classroom recommended topics that needed review. Some topics
+students were struggling with came up again and again, so we returned to those
+topics in class. My big discovery was that sometimes students realize what
+they are struggling with, but many times they do not. I thought about building
+a tool that could work one-on-one with a student as an extension of the course
+instructor, helping the instructor identify issues that often are difficult to
+spot.”
+
+The Codeable tutor can understand where a student is struggling, and then
+scale its recommendations to the student. Its recommendations will grow and
+progress at the pace the student learns.
+
+Reifschneider has received a grant to support the continued development of the
+Intelligent Classroom tools from Duke Learning Innovation, an expert group on
+campus that facilitates online learning and works with faculty to develop new
+learning technologies, as part of their “Carry the Innovation Forward”
+program. In the fall, he’ll hire two research assistants to help him build out
+and improve the system while it continues to be used in AIPI courses.
+
+Codeable will pitch in on making improvements, too. In the world of machine
+learning, Codeable implements a combination of what is known as “supervised
+learning” and “unsupervised learning”. It learns patterns from uncategorized
+data. Then, through mimicry of what it discovers, the machine builds an
+internal representation of its world and can generate insights based on those
+patterns.
+
+“Codeable will continue to improve as it goes,” Reifschneider said. “It is not
+perfect, but it’s proven itself good enough already to be valuable in
+improving my teaching and my students’ learning.”
+
+Earn a master's in AI from Duke
+
+## Related News
+
+July 29, 2021 | Duke Today
+
+### NSF Launches Artificial Intelligence Center at Duke
+
+August 13, 2020
+
+### New Master’s Degree Applies AI to Product Innovation
+
+May 29, 2020
+
+### Duke Launches Graduate Certificate in AI for Product Innovation
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

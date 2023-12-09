@@ -1,0 +1,324 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Autonomous Systems
+
+## Breadcrumb
+
+  1. Home
+  2. Research
+
+Duke MEMS researchers are at work on new **control, optimization, learning,
+and artificial intelligence (AI) methods** for autonomous dynamical systems
+that can make independent intelligent decisions and learn in uncertain,
+unstructured, and unpredictable environments. We design autonomous systems
+that span **robotics, cyber-physical systems, internet of things, and
+medicine.**
+
+## Research Areas
+
+  * Autonomous medical devices and systems
+  * Control theory and optimization
+  * Cyber-physical systems
+  * Human-autonomy systems
+  * Machine learning (ML) and artificial intelligence (AI)
+  * Networked and distributed systems
+  * Robotics, autonomous systems, surgical robotics
+  * Nonlinear dynamics and systems
+
+## Major Centers & Initiatives
+
+Externally funded efforts in autonomy which Duke leads, or is a partner,
+include:
+
+  * US Air Force Office of Scientific Research Center of Excellence for
+    Assured Autonomy in Contested Environments
+  * Duke Robotics Research Group
+  * NSF Research Traineeship Program for the Advancement of Surgical
+    Technologies (TAST)
+
+Related Study Opportunities
+
+    
+
+### PhD
+
+Specializations include:
+
+  * Dynamics, Controls & Robotics
+  * Mechanics, Design & Computing
+
+### Master of Science (MS) or Master of Engineering (MEng)
+
+Concentrations include:
+
+  * Autonomous, Intelligent Machines & Systems
+  * Optimal Design of Physical and Virtual Systems
+
+## Highlights
+
+More MEMS research news
+
+### Cross-Training Graduate Students to Develop Smart Robotic Surgical
+Instruments
+
+Duke’s new NSF Research Traineeship Program brings engineers and computer
+scientists into the operating room to solve unmet surgical challenges
+
+### Coordinating Complex Behaviors Between Hundreds of Robots
+
+A new approach to designing motion plans for multiple robots grows “trees” in
+the search space to solve complex problems in a fraction of the time
+
+### NASA Climbs Aboard with Support for Robot Project
+
+The robot can autonomously place an IV in an astronaut’s arm for crewed space
+missions and to improve access to healthcare on Earth.
+
+## Associated Faculty
+
+### Leila Bridgeman
+
+Assistant Professor of Mechanical Engineering and Materials Science
+
+Research Interests: Robust and optimal control, linear matrix inequalities
+(LMIs), model predictive control (MPC), delayed systems, input-output
+stability, passivity.
+
+### Daniel Buckland
+
+Assistant Professor of Emergency Medicine
+
+### Boyuan Chen
+
+Assistant Professor in the Thomas Lord Department of Mechanical Engineering
+and Materials Science
+
+Research Interests: Robotics, computer vision, machine learning, AI for
+science
+
+### Patrick James Codd
+
+Associate Professor of Neurosurgery
+
+### Mary "Missy" Cummings
+
+Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Research Interests: Human-unmanned vehicle interaction, human-autonomous
+system collaboration, human-systems engineering, public policy implications of
+unmanned vehicles, and the ethical and social impact of technology.
+
+### Henri P. Gavin
+
+Professor in the Department of Civil and Environmental Engineering
+
+Research Interests: Structural dynamics, earthquake engineering, seismic
+hazard mitigation for building contents, nonlinear dynamics, system
+identification, optimal control with application to systems with controllable
+damping.
+
+### Brian Mann
+
+Professor in the Department of Mechanical Engineering and Materials Science
+
+Research Interests: Nonlinear dynamics and vibration utilizing analytical,
+numerical, and experimental techniques. Fundamental investigations of
+phenomenon and application areas where dynamical systems theory plays an
+important role.
+
+### Xiaoyue Ni
+
+Assistant Professor of Mechanical Engineering and Materials Science
+
+Research Interests: Flexible electronics, precision measurement, non-
+destructive testing, deformation physics of random media, mechanical
+metamaterials, robotic materials and smart structures, machine learning
+
+### Miroslav Pajic
+
+Dickinson Family Associate Professor
+
+Research Interests: Design and analysis of autonomous cyber-physical systems
+(CPS), and in particular, embedded systems, AI, learning and controls, CPS
+security and high-assurance autonomy, with various application domains
+including robotics, automotive, and medical systems
+
+### Rebecca Simmons
+
+Associate Professor of the Practice in the Department of Mechanical
+Engineering and Materials Science
+
+### Lawrence N. Virgin
+
+Professor of Mechanical Engineering and Materials Science
+
+Research Interests: Study of the behavior of nonlinear dynamical systems,
+including the investigation of the fundamental nature of nonlinear systems
+based on a mathematical description of their underlying equations of motion
+and the application of recent results from nonlinear dynamical systems…
+
+### Michael Zavlanos
+
+Yoh Family Professor of Mechanical Engineering and Materials Science
+
+Research Interests: Control theory, optimization, and learning; in particular,
+robotics and autonomous systems, networked and distributed control systems,
+and cyber-physical systems.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

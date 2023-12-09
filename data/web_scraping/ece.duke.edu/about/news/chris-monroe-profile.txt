@@ -1,0 +1,303 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Chris Monroe: Realizing Ion-Trap Quantum Computers to Solve Unsolvable
+Problems
+
+August 20, 2020 | By Ken Kingery
+
+An international leader in quantum computing, architect of the U.S. National
+Quantum Initiative, and member of the National Academy of Sciences, Chris
+Monroe will join longtime long-distance collaborators at Duke to build
+practical quantum computers for use in fields from finance to pharmaceuticals
+
+Chris Monroe, one of the world’s leading experts in trapping atoms and
+manipulating their quantum state for applications in quantum information
+science, has joined the faculty at Duke University. With a dual appointment in
+the Department of Electrical and Computer Engineering and the Department of
+Physics, Monroe joins longtime collaborators Jungsang Kim and Kenneth Brown on
+a formidable—and fast-growing—team focused on the outrageously ambitious task
+of engineering the world’s first practical quantum computer.
+
+## Christopher R. Monroe
+
+Professor of Electrical & Computer Engineering and Physics (January 1, 2021)
+
+**Co-Founder (with Duke’s Jungsang Kim), Chief Scientist and Former CEO, IonQ,
+Inc.**
+
+**Member, National Academy of Sciences  
+Architect of the U.S. National Quantum Initiative**
+
+**Hometown:** Detroit, Michigan
+
+**Alma Maters:** MIT, University of Colorado
+
+“The one quality I see at Duke that is unique is the ability of this whole
+campus to rally around a singular idea and really go after it,” said Monroe,
+who comes to Duke from the University of Maryland – College Park. “We won’t
+only propel Duke to the top of quantum computer science and technology, we
+will do it in a way that nobody else is doing.”
+
+At Duke, Monroe, Kim, Brown and recently hired faculty members Marko Cetina
+and Crystal Noel in Physics and ECE will accelerate their push to develop
+practical quantum computer systems based on ion-trapping technology. Their
+approach, which has attracted more than $100 million in research funding from
+the Federal government alone over the past dozen years, has long been a player
+in the race to realize reliable, scalable quantum computing; in 2015 Kim and
+Monroe launched a startup based on the technology, IonQ, that has attracted
+more than $80 million in investor funding.
+
+With Monroe’s arrival at Duke, the team plans to launch the Duke Quantum
+Center to accelerate their progress and build custom quantum computers to
+solve specific research challenges, such as modeling complex molecules for new
+materials or forecasting the impacts of climate change. To be housed in the
+Chesterfield Building in downtown Durham, the hub will launch in the 2020-2021
+academic year.
+
+“We’re on the verge of creating a quantum system that people can actually use
+on a regular basis,” said Monroe. “Our goal is to build these systems in a new
+user facility that can provide researchers with regular, dependable access to
+these capabilities. Getting actual people to use quantum computers for
+different projects is the only way we’re going to be able to figure out the
+fields in which these computers can have the most impact.”
+
+In the classical computers that people use every day, information is stored as
+bits in transistors as either a “1” or a “0” and must be manipulated
+sequentially. In quantum computers, information is stored in components called
+“qubits” that, thanks to quantum mechanics, can be both a 1 and a 0 at the
+same time. With multiple qubits, the number of possible values grows
+enormously, allowing a quantum computer to process huge amounts of information
+in ways that are impossible using a classical computer.
+
+This is only true, however, for certain problems that sample a huge number of
+configurations and converge to a single solution. For straightforward tasks
+such as the trajectory of a cannonball, a quantum computer wouldn’t likely
+compete with a classical computer. But for problems such as determining which
+set of 1,000 variables minimizes an equation or what shape a complex molecule
+will take due to its atomic dynamics, a quantum computer could succeed where a
+traditional computer could never even sniff at the answers.
+
+## Why Duke?
+
+> “The unique ability of the entire campus to rally around a singular idea and
+> really go after it.”
+>
+> —Chris Monroe
+
+Years before Monroe even dreamed of building quantum computers, he began his
+career manipulating individual atoms. After earning his bachelor’s degree in
+physics from the Massachusetts Institute of Technology, he worked on his
+doctoral thesis at the University of Colorado, Boulder. In the laboratory of
+future Nobel laureates Carl Wieman and Eric Cornell, Monroe learned emerging
+techniques for creating super-cold states of matter. He then took that
+training and applied it to entangling atoms to make better atomic clocks at
+the National Institute of Standards and Technology under another future Nobel
+laureate, David Wineland.
+
+After theoretical research suggested that a computer that harnesses the power
+of quantum mechanics could potentially solve unsolvable problems such as
+factoring numbers and breaking codes, Monroe realized that he was basically
+already working with a very simple version of a quantum computer. He struck
+out on his own to pursue the physics that would make more complex designs
+possible, joining the faculty at the University of Michigan in 2000 and the
+University of Maryland – College Park in 2007.
+
+It was around this time that Monroe realized that, while he was making steady
+progress on the physics required to power a quantum computer, he was going to
+need help putting the physics into practice. He needed an engineer.
+
+That engineer turned out to be Jungsang Kim, professor of electrical and
+computer engineering at Duke, who has been collaborating with Monroe for over
+two decades.
+
+“Jungsang started looking at this technology from an engineering perspective,
+which was really attractive to me because that’s the side that I knew little
+about,” said Monroe. “The two of us remain complementary in many ways, but we
+see the same endgame, and that’s why our collaboration has been so
+successful.”
+
+Since 2009, Monroe, Kim and their colleagues have raised more than $100
+million from government sources to pursue quantum computers based on trapped
+ion technology. In 2015, as Monroe puts it, the two joined hands, leaped off
+of a cliff and founded IonQ to pursue commercialized versions of their
+technology.
+
+But they weren’t alone. Industry giants including Microsoft, IBM and Google
+also began pursuing quantum computing technologies, but through different
+means. Their technologies use superconducting solid-state circuits that are
+controlled electronically. IonQ is the first company pursuing ion trap quantum
+computing systems, although Honeywell has recently started a notable effort.
+Trapped ion qubits are produced by stripping an atom of a single electron,
+giving it a positive electric charge so that it can be suspended in a vacuum,
+cooling it to ultra-low temperatures with lasers and manipulating it with
+additional laser controllers.
+
+“The solid state systems used by most other researchers are further along in
+terms of the number of qubits they’re using and the interface that allows
+researchers to actually use them,” said Monroe. “But their technology has
+inherent limitations that are already holding them back. I believe they will
+eventually decide that our technology is really the future of quantum
+computing. They’ve had a 75-year head start on engineering their systems,
+while we are just beginning.”
+
+For the past few years, Duke has been building its expertise in this realm of
+quantum technology, hiring collaborators Ken Brown and Iman Marvian. With the
+addition of Monroe, Cetina, Noel, and others to come, Duke is poised to lead
+the way into our quantum future, integrating physics, chemistry, engineering,
+computer science and mathematics in ways nobody else is doing. “While we will
+start with trapped ion qubits at the very bottom, the Duke Quantum Center will
+have a keen eye on integrating new qubit technologies into our systems in
+coming years,” notes Monroe.
+
+Through this concentrated effort, Monroe envisions building multiple quantum
+computing systems in the Chesterfield Building, each more advanced and
+tailored to specific tasks than the last. As he puts it, the group will look
+to implement a more vertical strategy in the field than they have in the past,
+integrating the engineering of new computers, control systems, software, user
+interfaces and field testing.
+
+“Right now it takes an average of 18 months between a researcher inquiring
+about using our systems to us designing a circuit that can carry out their
+idea to publishing a paper on the experiment,” said Monroe. “We’d like to get
+that down to weeks or months and build multiple systems and qubit technologies
+that are tailored for specific applications.”
+
+Besides realizing these ambitious goals, Monroe will also be tasked with
+classroom teaching duties that he sees as critical to maintaining a connection
+to students and also keeping up to speed with fundamentals. Having focused his
+energies in three different areas—research, building a company from the ground
+up and advocating for the National Quantum Initiative in Washington DC—Monroe
+looks forward to growing his research group at Duke, contributing to a world-
+class research center for quantum information technology, and also teaching
+undergraduates in areas ranging from Quantum Physics 101 to The Physics of
+Music.
+
+## Related News
+
+August 07, 2018
+
+### Duke to Lead $15 Million Program to Create First Practical Quantum
+Computer
+
+July 28, 2017
+
+### IonQ Raises $20M to Advance Quantum Computing for Commercial Applications
+
+June 08, 2017
+
+### From the Abacus to Supercomputers to Quantum Computers
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

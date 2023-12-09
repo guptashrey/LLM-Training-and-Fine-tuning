@@ -1,0 +1,278 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Ultrasensitive, Rapid Diagnostic Detects Ebola Earlier Than Gold Standard
+Test
+
+April 7, 2021 | Michaela Kane
+
+Portable platform detects early biomarkers of the Ebola virus faster than PCR,
+the current industry standard
+
+An interdisciplinary team of scientists at Duke University has developed a
+highly sensitive and rapid diagnostic test for Ebola virus (EBOV) infection.
+In monkeys infected with Ebola, this diagnostic, called the D4-assay, proved
+to be 1000 times more sensitive than the currently approved rapid diagnostic
+test and capable of detecting the virus a full day earlier than the gold
+standard polymerase chain reaction (PCR) test.
+
+This work, which appears in Science Translational Medicine on April 7, was
+done by biomedical engineers, molecular biologists, and immunologists at Duke
+University, and the University of Texas Medical Branch in Galveston and the
+Galveston National Laboratory.
+
+Ebola virus gained global notoriety in early 2014 after an outbreak began
+spreading across the populous capital cities in Guinea, Liberia and Sierra
+Leone in Western Africa. By the time the pandemic was officially declared
+ended in 2016, more than 28,000 people had been infected and more than 11,300
+people had died of the virus.
+
+As of March 2021, there are two ongoing Ebola outbreaks in the Democratic
+Republic of the Congo that have resulted in more than 2,200 deaths, and Guinea
+declared a new outbreak of Ebola virus disease (EVD) after a cluster of cases
+appeared in February.
+
+Early treatment and contact tracing of Ebola virus disease is critical for two
+reasons: First, patients are highly contagious once they begin showing
+symptoms, and early diagnosis can help contain the spread of EVD by make
+contact tracing and patient isolation easier. Second, the fatality rate of EVD
+can be as high as 90 percent if left untreated or treated late, but can be
+reduced to roughly 10 percent with monoclonal antibodies if patients are
+treated early in the infection.
+
+The current gold standard for detecting Ebola virus is the reverse
+transcriptase polymerase chain reaction (RT-PCR) test, which identifies and
+amplifies viral RNA. Although RT-PCR has proven to be sensitive and capable of
+diagnosing Ebola infection much earlier than current alternatives, it has been
+difficult to implement in the remote settings where EVD outbreaks frequently
+originate.
+
+Recent advances in RT-PCR test design have made it easier for untrained
+technicians to use the platform and reduced the need for expensive equipment.
+However, at $22.50 per test, the platform is expensive and, because it is lab-
+based, can be slow. In some studies, the median time required to confirm a
+diagnosis in the field is 6 days, making it a suboptimal tool when dealing
+with a highly contagious virus.
+
+The current alternate diagnostic option is lateral flow assays, which detect
+antibodies or antigens that appear during an infection. These tests are
+cheaper, easy to use, and typically yield results in less than 30 minutes, but
+the trade-off is a greatly diminished sensitivity, so there is a greater
+possibility of the test missing an early infection.
+
+To help address the shortcomings of both tests, the Duke team adapted the D4
+assay, an ultrasensitive, point-of-care diagnostic previously developed by the
+Ashutosh Chilkoti lab, to quickly and accurately detect secreted glycoprotein
+(sGP), a biomarker produced by the Ebola virus during the early stages of
+infection.
+
+Besides, Chilkoti, the Alan L. Kaganov Distinguished Professor of Biomedical
+Engineering, the team included Cassio Fontes, a former graduate student and
+now a senior research scientist in the Chilkoti lab, Michael Gunn, MD, a
+professor of medicine and immunology, and Barbara Lipes, an assistant
+professor of medicine at the Duke University School of Medicine.
+
+“Prior studies suggested that Ebola virus produces secreted glycoprotein at
+high levels early in infection to act as a decoy and distract the immune
+system while the virus replicates and binds to the host cells,” Fontes said.
+“We thought that if we could detect that, we could help facilitate earlier
+diagnosis, containment, and treatment during Ebola outbreak.”
+
+However, antibodies against sGP were not available, so Lipes, an antibody
+engineering expert in the Gunn lab, created a large library of antibodies that
+bind to sGP and screened for the antibodies that bound most strongly.
+
+The two labs then worked together to identify the capture-detection antibody
+pair that provided the greatest sensitivity on the D4 platform.
+
+The D4 assay for Ebola is made by inkjet printing these two antibodies against
+secreted glycoprotein onto a glass slide: detection antibodies, which are
+tagged with a fluorescent marker, and capture antibodies, which are primed to
+bind the target antigen. When a drop of blood or a throat or nose swab is
+placed on the slide, the detection antibodies separate from the array and bind
+to the target in the sample. These antibody-biomarker complexes then attach to
+the capture antibodies on the slide, which glow to indicate a capture.
+
+To further improve sensitivity, the D4 assay is printed on a stealth polymer
+brush coating developed by the Chilkoti lab, which prevents non-target
+proteins from attaching to the slide’s surface. This removes any ‘background
+noise’ on the chip, making it easier to detect very low levels of the target
+proteins, which makes the D4 assay very sensitive.
+
+In parallel, the Chilkoti lab also developed a cheap but highly sensitive
+hand-held detector — the D4Scope — to read the results of the D4 assay.
+
+“Jason Liu, a graduate student in my lab, worked to develop the D4Scope, which
+is a low-cost, battery-powered, compact, wide-field fluorescence reader that
+can image microarray spots with high sensitivity,” Chilkoti said. “It was
+specifically designed using off-the-shelf components, so that parts could
+easily be replaced if the reader was damaged in the field.”
+
+To test their platform, the team worked with collaborators at the University
+of Texas Medical Branch in Galveston, where they showed that the D4 assay
+could detect EBOV in non-human primates a full day earlier than the RT-PCR.
+
+“We’ve put the lateral flow assay to shame, sensitivity wise,” said Fontes.
+“This is exciting because by understanding the biology of this virus, we’ve
+shown that there may be a target to look for where immunoassays like the D4
+can outperform the PCR. It’s really breaking new ground.”
+
+As the team moves forward, they aim to continue to refine their platform with
+the goal of shortening the time to results from 60 minutes to 30 minutes.
+Experiments are underway using molecular evolution to increase the sensitivity
+of the capture and detection antibodies.
+
+They are also improving the design of the platform to make it a fully self-
+contained test. This would mean that users would only need to add a drop of
+blood to one port of a flow cell and a buffer solution to a second port to run
+the test under gravity flow. These changes would also allow for improved
+biocontainment and biosafety when handling potentially dangerous fluids.
+
+Once these changes are made, the team hopes to coordinate clinical experiments
+in the field.
+
+“I think it’s a tremendous opportunity to really change the way Ebola testing
+works,”  
+Gunn said.
+
+“When controlling an outbreak, it’s key to identify the infected and be able
+to trace their contacts very quickly, and our hope is that test would allow
+you to do that,” Gunn said. “With such a simple and rapid assay, you can also
+quickly screen people who are at risk of having contracted Ebola. It seems
+simple, but in the grand scheme of things could represent the difference
+between an outbreak and a pandemic.”
+
+This research was funded by the National Institutes of Health (NIH,
+R01AI150888; U19AI142785; UC7AI094660), the US Special Operations Command
+(w81XWH- 16C-0219), the National Council for the Improvement of Higher
+Education and the Science Without Borders project. Partial support was
+provided by the Department of Health and Human Services. The team also
+received the support of the Biosafety Level 4 (BSL-4) lab at the Galveston
+National Laboratory.
+
+Competing Interests: The underlying technology of the D4 was developed by
+Angus Hucknall and Ashutosh Chilkoti, and was acquired by Immucor Inc
+(Norcross, GA) in 2014. The other authors declare no competing financial
+interests.
+
+CITATION: “Ultrasensitive Point-Of-Care Immunoassay for Secreted Glycoprotein
+Detects Ebola Infection Earlier Than PCR,” Cassio Fontes, Barbara Lipes, Jason
+Liu, Krystle Agans, Aiwei Yan, Patricia Shi, Daniela Cruz, Garrett Kelly,
+Kelli Luginbuhl, Daniel Joh, Stephanie Foster, Jacob Heggestad, Angus
+Hucknall, Maiken Mikkelson, Carl Pieper, Roarke Horstmeyer, Thomas Geisbert,
+Michael Gunn, Ashutosh Chilkoti. Science Translational Medicine, April 7,
+2021. DOI 10.1126/scitranslmed.abd9696
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

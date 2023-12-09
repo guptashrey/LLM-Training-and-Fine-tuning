@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# For This Metal, Electricity Flows, But Not the Heat
+
+February 3, 2017 | by Sarah Yang
+
+Law-breaking property in vanadium dioxide could lead to applications in
+thermoelectrics, window coatings
+
+_Adapted from apress release from Lawrence Berkeley National Laboratory  
+_
+
+There's a known rule-breaker among materials, and a new discovery by an
+international team of scientists adds more evidence to back up the metal's
+nonconformist reputation. According to a study led by scientists at the
+Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab),
+the University of California, Berkeley, and Duke University, electrons in
+vanadium dioxide can conduct electricity without conducting heat.
+
+The findings, published in the Jan. 27 issue of the journal _Science_ , could
+lead to a wide range of applications, such as thermoelectric systems that
+convert waste heat from engines and appliances into electricity.
+
+Olivier Delaire, associate professor of mechanical engineering and materials
+science and of physics at Duke, and his colleagues at Berkeley Lab have been
+trying to unlock the mysterious material’s secrets for the better part of a
+decade. By simulating the fundamental behaviors of the material’s electrons,
+they’ve managed to get a better understanding of vanadium dioxide’s stability,
+structure and functional properties.
+
+For most metals, the relationship between electrical and thermal conductivity
+is governed by the Wiedemann-Franz Law. Simply put, the law states that good
+conductors of electricity are also good conductors of heat. That is not the
+case for metallic vanadium dioxide, a material already noted for its unusual
+ability to switch from an insulator to a metal when it reaches a balmy 67
+degrees Celsius, or 152 degrees Fahrenheit.
+
+“There’s been this conundrum about vanadium oxide,” said Delaire, who also has
+an appointment at Oak Ridge National Laboratory. “When vanadium oxide switches
+to a metal, its electrical conductivity increases by 1000 times, but its
+thermal conductivity changes little when it should increase in a similar way.
+This study was meant to probe and answer some of those lingering questions by
+looking at its atomic vibrations.”
+
+Using results from simulations and X-ray scattering experiments, Delaire and
+his colleagues were able to tease out the proportion of thermal conductivity
+attributable to the vibration of the material's crystal lattice, called
+phonons, and to the movement of electrons.
+
+To their surprise, they found that the thermal conductivity attributed to the
+electrons is ten times smaller than what would be expected from the Wiedemann-
+Franz Law.
+
+"The electrons were moving in unison with each other, much like a fluid,
+instead of as individual particles like in normal metals," said study
+principal investigator Junqiao Wu, a physicist at Berkeley Lab’s Materials
+Sciences Division and a UC Berkeley professor of materials science and
+engineering. “For electrons, heat is a random motion. Normal metals transport
+heat efficiently because there are so many different possible microscopic
+configurations that the individual electrons can jump between. In contrast,
+the coordinated, marching-band-like motion of electrons in vanadium dioxide is
+detrimental to heat transfer as there are fewer configurations available for
+the electrons to hop randomly between."
+
+Notably, the amount of electricity and heat that vanadium dioxide can conduct
+is tunable by mixing it with other materials. When the researchers doped
+single crystal vanadium dioxide samples with the metal tungsten, they lowered
+the phase transition temperature at which vanadium dioxide becomes metallic.
+At the same time, the electrons in the metallic phase became better heat
+conductors. This enabled the researchers to control the amount of heat that
+vanadium dioxide can dissipate by switching its phase from insulator to metal
+and vice versa, at tunable temperatures.
+
+Such materials can be used to help scavenge or dissipate the heat in engines,
+or be developed into a window coating that improves the efficient use of
+energy in buildings. Imagine a window that automatically blocks ultraviolet
+radiation when the sun heats it a few degrees. Vanadium oxide could
+potentially also be used as a transistor in computer processers, as it
+switches from conductor to insulator in less than 100 femtoseconds—about 100
+times faster than silicon transistors on the market today.
+
+"This material could also be used to help stabilize temperature," said study
+co-lead author Fan Yang, a postdoctoral researcher at Berkeley Lab's Molecular
+Foundry, a DOE Office of Science User Facility. "By tuning its thermal
+conductivity, the material can efficiently and automatically dissipate heat in
+the hot summer because it will have high thermal conductivity, but prevent
+heat loss in the cold winter because of its low thermal conductivity at lower
+temperatures."
+
+Vanadium dioxide has the added benefit of being transparent below about 30
+degrees Celsius (86 degrees Fahrenheit), and absorptive of infrared light
+above 60 degrees Celsius (140 degrees Fahrenheit).
+
+Yang noted that there are more questions that need to be answered before
+vanadium dioxide can be commercialized, but said that this study highlights
+the potential of a material with "exotic electrical and thermal properties."
+
+While there are a handful of other materials besides vanadium dioxide that can
+conduct electricity better than heat, those occur at temperatures hundreds of
+degrees below zero, making it challenging to develop into real-world
+applications, the scientists said.
+
+Other co-lead authors of the study include Sangwook Lee at Kyungpook National
+University in South Korea, Kedar Hippalgaonkar at the Institute of Materials
+Research and Engineering in Singapore, and Jiawang Hong at the Beijing
+Institute of Technology in China. Lee and Hippalgaonkar started work on this
+paper as postdoctoral researchers at UC Berkeley. Hong began his work as a
+postdoctoral researcher at Oak Ridge National Laboratory. The full list of
+authors is available online.
+
+Additional support for this work came through the use of facilities supported
+by the Electronic Materials Program at DOE's Office of Science.
+
+###
+
+Lawrence Berkeley National Laboratory addresses the world’s most urgent
+scientific challenges by advancing sustainable energy, protecting human
+health, creating new materials, and revealing the origin and fate of the
+universe. Founded in 1931, Berkeley Lab’s scientific expertise has been
+recognized with 13 Nobel Prizes. The University of California manages Berkeley
+Lab for the U.S. Department of Energy’s Office of Science. For more, visit
+https://www.lbl.gov/.
+
+DOE’s Office of Science is the single largest supporter of basic research in
+the physical sciences in the United States, and is working to address some of
+the most pressing challenges of our time. For more information, please visit
+energy.gov/science/office-science.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

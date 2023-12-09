@@ -1,0 +1,194 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Awarded $12M Research Grant to Use Artificial Intelligence to Detect
+Autism
+
+September 7, 2022 | By Alexis Porter
+
+Duke ECE and CEE faculty will use AI to identify and track behavioral
+characteristics associated with autism
+
+_From Duke Health_
+
+The Duke Center for Autism and Brain Development has been awarded a $12
+million federal grant to develop artificial intelligence tools for detecting
+autism during infancy and identifying brain-based biomarkers of autism.
+
+The grant, from the National Institute of Child Health and Human Development,
+extends the Duke Autism Center of Excellence research program for an
+additional 5 years.
+
+Geraldine Dawson, Ph.D., director of the Duke Center for Autism and Brain
+Development and professor of psychiatry and behavioral sciences, will lead a
+team of researchers that includes Duke faculty from psychiatry, pediatrics,
+biostatistics and bioinformatics, computer and electrical engineering, and
+civil and environmental engineering.
+
+“We are thrilled to receive this award, which allows Duke to remain at the
+forefront of autism research,” Dawson said. “Our goal is to use advanced
+computational techniques to develop better methods for autism screening that
+will reduce known disparities in access to early diagnosis and intervention.”
+
+> “Our goal is to use advanced computational techniques to develop better
+> methods for autism screening that will reduce known disparities in access to
+> early diagnosis and intervention.”
+>
+> geraldine dawson
+
+In a project led by Dawson and Guillermo Sapiro, Ph.D., professor of
+electrical and computer engineering, researchers will test a digital app, used
+by parents at home on a smart phone, to videotape young children’s behavior
+and interactions with their caregivers. Artificial intelligence will
+automatically code the videotapes to identify behavioral characteristics of
+infants and toddlers who are later diagnosed with autism and track their
+development.
+
+A second project, led by Benjamin Goldstein, Ph.D., associate professor of
+biostatistics and bioinformatics, and Gary Maslow, M.D., associate professor
+of psychiatry and behavioral sciences, will use artificial intelligence to
+analyze 260,000 health insurance claims, including those from 6,000 children
+diagnosed with autism, from birth to 18 months.
+
+That data will be used to develop an algorithm to predict autism during
+infancy and identify the nature of early medical conditions associated with a
+later diagnosis of autism. Based on the algorithm, a team led by Lauren Franz,
+M.D., assistant professor of psychiatry and behavioral sciences, will develop
+support tools to help primary care providers screen and guide patients.
+
+The third project, led by Kimberly Carpenter, Ph.D., assistant professor of
+psychiatry and behavioral sciences, and David Carlson, Ph.D., assistant
+professor of civil and environmental engineering, will use artificial
+intelligence to monitor brain wave activity, which is synchronized with
+videotaped behavior of three- to six-year-old children diagnosed with autism.
+The data will be used to identify brain networks associated with behaviors
+characteristic of autism.
+
+The Duke Center for Autism and Brain Development has been an NIH Autism Center
+of Excellence since 2017. It is part of a trans-NIH initiative that supports
+large-scale studies on autism spectrum disorders with the goal of determining
+autism's causes and potential therapies.
+
+Discover more about the evolution of the "Autism and Beyond" app:
+
+  * 2014: Screening for Autism: There's an App for That
+  * 2015: Duke Launches Autism Research App with Global Reach
+  * 2017: Duke Receives $12.5 Million to Study Children With Autism and ADHD  
+
+  * 2018: Mobile App for Autism Screening Yields Useful Data
+  * 2019: Researchers Are Using Machine Learning to Screen for Autism in
+    Children
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

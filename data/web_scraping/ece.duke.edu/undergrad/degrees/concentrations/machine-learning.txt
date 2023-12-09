@@ -1,0 +1,299 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Concentration in Machine Learning
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+  3. Degrees
+  4. Concentrations
+
+Complete five courses—Earn a notation on your Duke transcript
+
+Students pursuing a major in ECE may focus their course selection within the
+major by following a defined thematic pathway within the major.
+
+Successful completion of all requirements will result in a designation of "
+**Concentration in Machine Learning** " on the official transcript.
+
+> The Concentration in ML does _**not**_ require additional courses
+
+ECE majors can declare this concentration by selecting this option on the
+Pratt Declaration of Major form
+
+Completion of the Concentration in Machine Learning requires a minimum of 5
+courses.
+
+These requirements can be met within the general requirements of the ECE major
+and do not require any _additional_ courses; however, the _choice_ of classes
+has been constrained to fit the Concentration requirements.
+
+## Requirements
+
+#### Important Notes
+
+  * The ECE major requirement being fulfilled appears in square brackets:
+    [...]
+  * No course may be used to fulfill more than one requirement
+
+  1. **ECE 480: Applied Probability for Statistical Learning**
+
+[ECE Concentration Elective #1—Signal Processing, Communications and Control
+Systems (SPC&C)]
+
+  2. **ECE 580: Introduction to Machine Learning**
+
+[ECE Concentration Elective #2—SPC&C]
+
+  3. **One of the following**
+
+[ECE Area of Concentration Elective #3—any area, including SPC&C]:
+
+    * _ECE 588: Image & Video Processing_
+    * _ECE 661: Computer Engineering Machine Learning & Deep Neural Networks_
+    * _ECE 662: Machine Learning Acceleration & Neuromorphic Computing_
+    * _ECE 663: Machine Learning in Adversarial Settings_
+    * _ECE 682D/CS 571/Stat 561: Probabilistic Machine Learning_
+    * _ECE 684: Natural Language Processing_
+    * _ECE 685D: Deep Learning_
+    * _ECE 687D/CS 671D/Stat 671D: Machine Learning_
+    * ECE 590: Special Topic courses on Machine Learning that are **approved area of concentration** electives (with DUS approval) 
+      * ECE 590 (F20, F21): Machine Learning Acceleration & Neuromorphic Computing (Now taught as ECE 662)
+  4. **One of the following**
+
+[ECE Free Elective]:
+
+    * _ECE 588: Image & Video Processing_
+    * _ECE 661: Computer Engineering Machine Learning & Deep Neural Networks_
+    * _ECE 662: Machine Learning Acceleration & Neuromorphic Computing_
+    * _ECE 663: Machine Learning in Adversarial Settings_
+    * _ECE 682D/CS 571/Stat 561: Probabilistic Machine Learning_
+    * _ECE 684: Natural Language Processing_
+    * _ECE 685D: Deep Learning_
+    * _ECE 687D/CS 671D/Stat 671D: Machine Learning_
+    * _ECE 689: Advanced Topics in Deep Learning_
+    * ECE 590: Special Topic courses on Machine Learning (with DUS approval): 
+      * ECE 590 (S23): Brain Computer Interfaces
+      * ECE 590 (S21, S22, S23): Advanced Topics in Deep Learning (Now taught as ECE 689)
+      * ECE 590 (S21, F21): Machine Learning in Adversarial Settings (Now taught as ECE 663)
+      * ECE 590 (S21): Computer Engineering Machine Learning & Deep Neural Nets (Now taught as ECE 661)
+      * ECE 590 (F20, F21): Machine Learning Acceleration & Neuromorphic Computing (Now taught as ECE 662)
+  5. **One of the following**
+
+[ECE Extension Elective]:
+
+    * _ECE 588: Image & Video Processing_
+    * _ECE 661: Computer Engineering Machine Learning & Deep Neural Networks_
+    * _ECE 662: Machine Learning Acceleration & Neuromorphic Computing_
+    * _ECE 663: Machine Learning in Adversarial Settings_
+    * _ECE 682D/CS 571/Stat 561: Probabilistic Machine Learning_
+    * _ECE 684: Natural Language Processing_
+    * _ECE 685D: Deep Learning_
+    * _ECE 687D/CS 671D/Stat 671D: Machine Learning_
+    * ECE 590: Special Topics courses on Machine Learning (with DUS approval): 
+      * ECE 590 (S23): Brain Computer Interfaces
+      * ECE 590 (S21, S22, S23): Advanced Topics in Deep Learning (Now taught as ECE 689)
+      * ECE 590 (S21, F21): Machine Learning in Adversarial Settings (Now taught as ECE 663)
+      * ECE 590 (S21): Computer Engineering Machine Learning & Deep Neural Nets (Now taught as ECE 661)
+      * ECE 590 (F20, F21): Machine Learning Acceleration & Neuromorphic Computing (Now taught as ECE 662)
+    * _CompSci 371: Elements of Machine Learning_
+    * _CompSci 527: Computer Vision_
+    * _Math 465/CompSci 445: Introduction to High Dimensional Data Analysis_
+    * _Stat 340: Introduction to Statistical Decision Analysis_
+    * _Stat 360: Bayesian Inference and Modern Statistical Methods_
+
+## Undergraduate Contact
+
+### Lisa Gresham Huettel
+
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and
+Computer Engineering
+
+__919-660-5237
+
+__lisa.huettel@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

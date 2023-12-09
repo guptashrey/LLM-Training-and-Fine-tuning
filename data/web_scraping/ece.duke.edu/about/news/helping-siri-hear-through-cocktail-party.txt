@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Helping Siri Hear Through a Cocktail Party
+
+August 13, 2015 | By Ken Kingery
+
+A new sensor developed at Duke University helps computers separate overlapping
+sounds.
+
+People trying to talk to Siri may soon no longer have to look like they’re
+about to eat their iPhones, thanks to a new technology demonstration that
+solves the “Cocktail Party” conundrum.
+
+In a crowded room with voices coming from every direction, the human auditory
+system is incredibly good at homing in on a single voice while filtering out
+the background jabber.
+
+Computers are not.
+
+A new approach from engineers at Duke University, however, may soon improve
+their performance in loud environments. The sensor uses metamaterials—the
+combination of natural materials in repeating patterns to achieve unnatural
+properties—and compressive sensing to determine the direction of a sound and
+extract it from the surrounding background noise.
+
+Once miniaturized, the device could have applications in voice-command
+electronics, medical sensing devices that use waves, like ultrasound, and
+hearing aids and cochlear implants.
+
+The study was featured in the Proceedings of the National Academy of Sciences
+on August 11, 2015.
+
+“We’ve invented a sensing system that can efficiently, reliably and
+inexpensively solve an interesting problem that modern technology has to deal
+with on a daily basis,” said Abel Xie, a PhD student in electrical and
+computer engineering at Duke and lead author of the paper. “We think this
+could improve the performance of voice-activated devices like smart phones and
+game consoles while also reducing the complexity of the system.”
+
+The proof-of-concept device looks a bit like a thick, plastic, pie-shaped
+honeycomb split into dozens of slices. While the honeycomb openings may all
+look the same, their depth varies from hole to hole. This gives each slice of
+the honeycomb pie a unique pattern.
+
+“The cavities behave like soda bottles when you blow across their tops,” said
+Steve Cummer, professor of electrical and computer engineering at Duke. “The
+amount of soda left in the bottle, or the depth of the cavities in our case,
+affects the pitch of the sound they make, and this changes the incoming sound
+in a subtle but detectable way.”
+
+When a sound wave gets to the device, it gets slightly distorted by the
+cavities. And that distortion has a specific signature depending what slice of
+the pie it passed over. After being picked up by a microphone on the other
+side, the sound is transmitted to a computer that is able to separate the
+jumble of noises based on these unique distortions.
+
+The researchers tested their invention in multiple trials by simultaneously
+sending three identical sounds at the sensor from three different directions.
+It was able to distinguish between them with a 96.7 percent accuracy rate.
+
+While the prototype is six inches wide, the researchers believe it could be
+scaled down and incorporated into the devices we use on a regular basis. And
+because the sensor is made of plastic and does not have any electric or moving
+parts, it is extremely efficient and reliable.
+
+“This concept may also have applications outside the world of consumer
+electronics,” said Xie. “I think it could be combined with any medical imaging
+device that uses waves, such as ultrasound, to not only improve current
+sensing methods, but to create entirely new ones.
+
+“With the extra information, it should also be possible to improve the sound
+fidelity and increase functionalities for applications like hearing aids and
+cochlear implants. One obvious challenge is to make the system physically
+small. It is challenging, but not impossible, and we are working toward that
+goal.”
+
+This work was supported by a Multidisciplinary University Research Initiative
+under Grant N00014-13-1-0631 from the Office of Naval Research.
+
+###
+
+“Single-sensor “cocktail party listening” withacoustic metamaterials.” Yangbo
+Xie, Tsung-Han Tsai, Adam Konneker, Bogdan-Ioan Popa, David J. Brady, and
+Steven A. Cummer. PNAS, 2015. DOI: 10.1073/pnas.1502276112
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

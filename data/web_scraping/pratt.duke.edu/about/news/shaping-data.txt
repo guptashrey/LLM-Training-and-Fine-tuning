@@ -1,0 +1,159 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Shaping data
+
+July 10, 2013 | by Ashley Yeager
+
+Mathematician and computer science/ECE professor John Harer and his
+collaborators want to unwind the variety of biological clocks found in cells
+
+from _Duke Engineering: Leading Research 2013_
+
+It doesn’t tick, but biology keeps excellent time. Mathematician and computer
+science/ECE professor John Harer and his collaborators want to unwind the
+variety of biological clocks found in cells, looking closely at their
+timepieces to see how they work individually and how they work together.
+
+He’s also interested in understanding the rhythms of the heart and how
+anomalies show up as complex shapes in EKGs. Topological data analysis is a
+mathematical tool that uses geometric algorithms to scrutinize a database and
+draw out inherent shapes within the data.
+
+Harer explains that at a basic level, topological analyses convert the two-
+dimensional peaks and troughs of an EKG into a multi-dimensional dataset,
+transforming periodic patterns into circular shapes. And other anomalies turn
+into other interesting shapes. The added dimensions of the topological
+analysis ultimately let scientists perceive patterns in the data they wouldn’t
+normally see, Harer says.
+
+Topological data analysis is based on topology, an older area of mathematics
+that scientists have only recently started using to look at large, complex
+datasets. The technique takes measurements, of ten health indicators of a
+thousand people, for example, and plots them as points in a ten-dimensional
+space to get a data cloud. Harer can use the cloud to look for spheres,
+curvature and other shapes to identify the factors, say age and weight, that
+may heavily influence blood pressure, cholesterol and the other included
+health measures.
+
+That’s a hypothetical example, Harer says. He explains that the technique has
+worked well so far for finding subtle relationships between indicators, like
+linking between EKG and EEG patterns. It may also help him and other
+scientists look for characteristic structures in gas plumes, which could
+signal chemical warfare, help with tracking behavioral groups, which could
+indicate terrorist activity, and identify signature clock genes within a
+variety of cells.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

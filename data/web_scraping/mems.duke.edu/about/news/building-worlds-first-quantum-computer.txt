@@ -1,0 +1,204 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Building the World’s First Quantum Computer
+
+February 11, 2016 | By Ken Kingery
+
+Fitzpatrick Institute for Photonics researchers work to integrate proven
+components into a quantum processor
+
+From the newsletter of the Fitzpatrick Institute for Photonics, Broadband
+
+In a building full of advanced photonics research, the laboratory of Jungsang
+Kim just might have the most complicated optical setups. After all, not many
+engineering challenges involve controlling the frequency of a laser to within
+a millionth of a percent.
+
+But building the world’s first quantum computer does.
+
+This is the next big goal for Kim, a professor of electrical and computer
+engineering at Duke University. And he’s not too far from achieving it.
+
+“Back in the 1940s, researchers were just discovering how to use vacuum tubes
+as simple switches,” explained Kim. “These switches could then form logic
+gates, which could be linked together to form the first logic circuits. That’s
+where we’re at now with quantum processors. We have verified that all the
+components work. The next step is to engineer the smallest, yet most
+interesting circuit possible.”
+
+## Grant Targets Quantum Computing's Error Control Challenge
+
+Delve into more detail and learn about Kim's new, five-year, multimillion
+dollar grant from the Intelligence Advanced Research Projects Activity to
+tackle the issue of qubit degreadation in quantum computing systems.
+
+Read more
+
+According to David DiVincenzo, a prominent computer scientist at IBM,
+researchers must meet five criteria to create a true quantum computing device.
+
+First, Kim needs **a well-defined system that can represent different
+states.** For example, classical computers use small electrical switches made
+out of semiconductors to indicate a 1 or a 0. But because an atom’s quantum
+spin can point in an infinite number of directions, controlling its state with
+a high degree of reliability is very difficult. Kim’s group has demonstrated
+this feat with an accuracy on par with anyone in the world.
+
+Once an atom’s quantum state can be controlled, the system must be made
+**quantum-mechanically coherent**. If the atom interacts with the outside
+world even a little bit, it loses its “quantumness,” which is bad. Again,
+Kim’s laboratory has demonstrated this ability.
+
+They have also demonstrated the ability to initialize their system to **a
+well-defined starting state**. For example, in a laptop, each bit starts in
+the same place – a zero – until data is written to the chip.
+
+Fourth, a quantum processor needs enough components to **produce a universal
+set of gates** , which allows one to implement arbitrary computational tasks.
+Kim’s setup combines a simple two-quantum-bit gate with the ability to control
+each quantum bit’s state to accomplish that.
+
+Last but not least, a quantum computer needs to have the **ability to report
+its solution**. To do that, there must be good quantum measurements, which
+again, Kim’s laboratory has already demonstrated.
+
+“All of these criteria our system meets pretty much as well as anybody else’s
+can,” said Kim. “But those are just the components. If you want to build a
+computer, you have to put a large number of these things together in a way
+that you can control them and interact with them at will. And that system
+integration is something that we are currently working on.”
+
+After scientists in the 1940s put together the first string of vacuum tubes,
+it wasn’t long before they filled rooms with tens of thousands of them to
+create the first digital computer. Kim hopes to demonstrate the first small
+string of “quantum vacuum tubes” within a year. After that, it will be up to
+the cutting-edge technologies developed for semiconductors and
+telecommunications to scale the system up.
+
+“We do all of these quantum manipulations with atomic ions trapped on silicon
+chips, so we could actually start to think about systems where we have 100
+atomic ions,” said Kim. “That’s a small processor, but we have ways of
+connecting multiple units to build large-scale systems. The result would be
+similar to data processing centers with thousands of processors linked
+together.”
+
+“The challenge is getting today’s telecommunications technologies to work with
+our quantum systems, because they operate on different wavelengths,” Kim
+added. “I think we’re getting close. And if successful, not only could we make
+scalable quantum computing clusters, but also quantum networks that
+communicate over long distances.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

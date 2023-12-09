@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Protecting Thin, Flexible Brain Interfaces from the Human Body
+
+April 8, 2020 | By Ken Kingery
+
+Next-generation brain implants with more than a thousand electrodes can
+survive for more than six years
+
+Researchers have demonstrated the ability to implant an ultrathin, flexible
+neural interface with thousands of electrodes into the brain with a projected
+lifetime of more than six years. Protected from the ravaging environment of
+internal biological processes by less than a micrometer of material, the
+achievement is an important step toward creating high-resolution neural
+interfaces that can persist within a human body for an entire lifetime.
+
+The results, appearing online April 8 in the journal Science Translational
+Medicine, were published by a team of researchers led by Jonathan Viventi,
+assistant professor of biomedical engineering at Duke University; John Rogers,
+the Louis Simpson and Kimberly Querrey Professor of Materials Science and
+Engineering, Biomedical Engineering and Neurological Surgery at Northwestern
+University; and Bijan Pesaran, professor of neural science at New York
+University.
+
+“Trying to get these sensors to work in the brain is like tossing your
+foldable, flexible smartphone in the ocean and expecting it to work for 70
+years,” said Viventi. “Except we’re making devices that are much thinner and
+much more flexible than the phones currently on the market. That’s the
+challenge.”
+
+The human body is an unforgiving place to live if you’re an uninvited guest —
+especially if you’re made of polymers or metal. Besides attacks from the
+surrounding tissues and immune system, foreign objects must be able to stand
+up to a corrosive, salty environment.
+
+Engineering electrical devices that can withstand this assault is an even more
+daunting prospect. Current long-term implantable devices are almost
+universally hermetically sealed within a laser-welded titanium casing. Think
+of a pacemaker, for example.
+
+“Building water-tight, bulk enclosures for such types of implants represents
+one level of engineering challenge,” Rogers said. “We’re reporting here the
+successful development of materials that provide similar levels of isolation,
+but with thin, flexible membranes that are one hundred times thinner than a
+sheet of paper.”
+
+But when it comes to the human brain, space and flexibility is of the essence.
+There is no room for rigid devices with millimeter-thick walls. These
+challenges mean that existing neural interfaces can sample only about a
+hundred sites, which pales in comparison to the tens of billions of neurons
+that make up the human brain. Any attempt to make these devices larger
+invariably runs into the hurdle of wiring logistics—because each sensor
+requires its own wire, size constraints quickly become an issue.
+
+Viventi and his colleagues have been working on a different approach.
+
+“You need to move the electronics to the sensors themselves and develop local
+intelligence that can handle multiple incoming signals,” said Viventi. “This
+is how digital cameras work. You can have tens of millions of pixels without
+tens of millions of wires because many pixels share the same data channels.”
+
+Through their work, the researchers have already demonstrated flexible neural
+devices just 25 micrometers thick with 360 electrodes. But previous attempts
+to keep them safe from harm inside the body have failed, as even the tiniest
+defect can thwart the entire effort.
+
+“We tried a bunch of strategies before. Depositing polymers as thin as is
+required resulted in defects that caused them to fail, and thicker polymers
+didn’t have the flexibility that was required,” said Viventi. “But we finally
+found a strategy that outlasts them all and have now made it work in the
+brain.”
+
+All it took was perfection.
+
+In the new paper, Viventi, Rogers, Pesaran and their colleagues demonstrate
+that a thermally grown layer of silicon dioxide less than a micrometer thick
+can ward off the hostile environment within the brain, degrading at a rate of
+only 0.46 nanometers per day. And because this form of glass is biocompatible,
+any trace amount that dissolves into the body should not create any problems
+of its own.
+
+They also show that, even though the glass encapsulation is not conductive,
+the device’s electrodes can detect neural activity through capacitive sensing.
+This is the same sort of technology that can detect the movements of a finger
+on a smartphone’s touchscreen. They implanted a 64-electrode neural interface
+into a rat for over a year and a 1,008-electrode neural interface into the
+motor cortex of a monkey reaching to a touchscreen.
+
+“Successfully deploying the device in monkeys doing human-like tasks is a huge
+leap forward,” said Perasan. “Now we can refine our technology to help people
+suffering brain disorders.”
+
+Based on these results and experiments to heat the devices to simulate longer
+periods of time, the researchers believe their devices could withstand
+implantation for more than six years.
+
+While these results are enormous steps forward in comparison to current state-
+of-the-art devices, they’re not anywhere near the level of the researchers’
+aspirations. Viventi’s student is currently working to scale the prototype up
+from 1,000 electrodes to more than 65,000. And they expect that by using
+commercial foundries to make the electrodes, which are far superior to their
+own capabilities, that the performance of their neural interface will increase
+greatly both in terms of signal quality and surviving within the human body.
+
+“One of our goals is to create a new type of visual prosthetic that interacts
+directly with the brain that can restore at least some sight capacity for
+people with damaged optic nerves,” said Viventi. “But we can also use these
+types of devices to control other types of prosthetics or in a wide range of
+neuroscience research projects.”
+
+This research is supported by the National Institute of Neurological Disorders
+and Stroke (U01 NS099697), the National Science Foundation (CCF1422914,
+CCF-1564051), a Steven W Smith Fellowship, a L’Oreal USA for Women in Science
+Fellowship, and the Defense Advanced Research Programs Agency (DARPA-
+BAA-16-09, DARPA-BAA-13-20).
+
+CITATION: “Development of a Neural Interface for High Definition, Long-term
+Recording in Rodents and Non-Human Primates,” Chia-Han Chiang, Sang Min Won,
+Amy L. Orsborn, Ki Jun Yu, Michael Trumpis, Brinnae Bent, Charles Wang,
+Yeguang Xue, Seunghwan Min, Virginia Woods, Chunxiu Yu, Bong Hoon Kim, Sung
+Bong Kim, Rizwan Huq, Jinghua Li, Kyung Jin Seo, Flavia Vitale, Andrew
+Richardson, Hui Fang, Yonggang Huang, Kenneth Shepard, Bijan Pesaran, John A.
+Rogers, & Jonathan Viventi. Science Translational Medicine, April 9, 2020.
+DOI: 10.1126/scitranslmed.aay4682
+
+# # #
+
+## Related News
+
+April 09, 2018
+
+### Viventi Receives NSF CAREER Award to Optimize Neural Interfaces
+
+September 26, 2014
+
+### Jonathan Viventi: Engineering HD Brain Interfaces
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# When the Physics Say “Don’t Follow Your Nose”
+
+April 18, 2019 | By Ken Kingery
+
+Researchers are using the physics of airflows to locate gaseous leaks more
+quickly in complex scenarios
+
+Engineers at Duke University are developing a smart robotic system for
+sniffing out pollution hotspots and sources of toxic leaks. Their approach
+enables a robot to incorporate complex calculations of airflows in confined
+spaces made on the fly, rather than simply guide the robot to 'follow its
+nose'.
+
+“Many existing approaches that employ robots to locate sources of airborne
+particles rely on bio-inspired educated but simplistic guesses, or heuristic
+techniques, that drive the robots upwind or to follow increasing
+concentrations,” said Michael M. Zavlanos, the Mary Milus Yoh and Harold L.
+Yoh, Jr. Associate Professor of Mechanical Engineering and Materials Science
+at Duke. “These methods can usually only localize a single source in open
+space, and they cannot estimate other equally important parameters such as
+release rates.”
+
+But in complex environments, these simplistic methods can send the robots on
+wild goose chases into areas that contain no sources of the leak but where the
+concentrations are artificially increased by the physics of the airflows.
+
+“If somebody is smoking outside, it doesn’t take long to find them by just
+following your nose because there’s nothing stopping the air currents from
+being predictable,” said Wilkins Aquino, the Anderson-Rupp Professor of
+Mechanical Engineering and Materials Science at Duke. “But put the same
+cigarette inside an office and suddenly it becomes much more difficult because
+of the irregular air currents created by hallways, corners and offices.”
+
+In a recent paper published online in the IEEE Transactions on Robotics,
+Zavlanos, Aquino and newly minted PhD graduate Reza Khodayi-mehr instead take
+advantage of the physics behind these airflows to trace the source of an
+emission more efficiently.
+
+Their approach combines physics-based models of the source identification
+problem with path planning algorithms for robotics in a feedback loop. The
+robots take measurements of contaminant concentrations in the environment and
+then use these measurements to incrementally calculate where the chemicals are
+actually coming from.
+
+“Creating these physics-based models requires the solution of partial
+differential equations, which is computationally demanding and makes their
+application onboard small, mobile robots very challenging,” said Khodayi-mehr.
+“We’ve had to create simplified models to make the calculations more
+efficient, which also makes them less accurate. It’s a challenging trade-off.”
+
+Khodayi-mehr built a rectangular box with a wall nearly bisecting the space
+length-wise to create a miniature U-shaped hallway that mimics a simplified
+office space. A fan pumps air into the corridor at one end of the U and back
+out of the other, while gaseous ethanol is slowly leaked into one of the
+corners. Despite the simplicity of the setup, the air currents created within
+are turbulent and messy, creating a difficult source identification problem
+for any ethanol-sniffing robot to solve.
+
+But the robot solves the problem anyway.
+
+The robot takes a concentration measurement, fuses it with previous
+measurements, and solves a challenging optimization problem to estimate where
+the source is. It then figures out the most useful location to take its next
+measurement and repeats the process until the source is found.
+
+“By combining physics-based models with optimal path planning, we can figure
+out where the source is with very few measurements,” said Zavlanos. “This is
+because physics-based models provide correlations between measurements that
+are not accounted for in purely data-driven approaches, and optimal path
+planning allows the robot to select those few measurements with the most
+information content.”
+
+“The physics-based models are not perfect but they still carry way more
+information than just the sensors alone,” added Aquino. “They don’t have to be
+exact, but they allow the robot to make inferences based on what is possible
+within the physics of the airflows. This results in a much more efficient
+approach.”
+
+These physics-based planning algorithms aren’t yet faster than heuristic
+methods, but they can still be run onboard small robots and are much more
+robust. They can also handle situations with multiple sources, which is
+currently impossible for heuristic approaches, and can even measure the rate
+of contamination.
+
+The group is still working to create machine-learning algorithms to make their
+models even more efficient and accurate at the same time. They’re also working
+to extend this idea to programming a fleet of robots to conduct a methodical
+search of a large area. While they haven’t tried the group approach in
+practice yet, they have published simulations that demonstrate its potential.
+
+“Moving from a lab environment with controlled settings to a more practical
+scenario obviously requires addressing other challenges too,” said Khodayi-
+mehr. “For example, in a real-world scenario we probably won’t know the
+geometry of the domain going in. Those are some of the ongoing research
+directions we’re currently working on.”
+
+CITATION: “Model-Based Active Source Identification in Complex Environments.”
+Reza Khodayi-mehr, Wilkins Aquino, Michael M. Zavlanos. IEEE Transactions on
+Robots, 2019.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,225 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Kathryn Radabaugh Nightingale
+
+Theo Pilkington Distinguished Professor of Biomedical Engineering
+
+The goals of our laboratory are to investigate and improve ultrasonic imaging
+methods for clinically-relevant problems. We do this through theoretical,
+experimental, and simulation methods. The main focus of our recent work is the
+development of novel, acoustic radiation force impulse (ARFI)-based elasticity
+imaging methods to generate images of the mechanical properties of tissue,
+involving interdisciplinary research in ultrasonics and tissue biomechanics.
+We have access to the engineering interfaces of several commercial ultrasound
+systems which allows us to design, rapidly prototype, and experimentally
+demonstrate custom sequences to explore novel beamforming and imaging
+concepts. We employ FEM modeling methods to simulate the behavior of tissues
+during mechanical excitation, and we have integrated these tools with
+ultrasonic imaging modeling tools to simulate the ARFI imaging process. We
+maintain strong collaborations with the Duke University Medical Center where
+we work to translate our technologies to clinical practice. The ARFI imaging
+technologies we have developed have served as the basis for commercial imaging
+technologies that are now being used in clinics throughout the world. We are
+also studying the risks and benefits of increasing acoustic output energy for
+specific clinical imaging scenarios, with the goal of improving ultrasonic
+image quality in the difficult-to-image patient.
+
+## Appointments and Affiliations
+
+  * Theo Pilkington Distinguished Professor of Biomedical Engineering
+  * Professor in the Department of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 277 Hudson Hall Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5175
+  * **Email Address:** kathy.nightingale@duke.edu
+  * **Websites:**
+    * Google Scholar
+    * http://kathynightingalelab.pratt.duke.edu/
+
+## Education
+
+  * Ph.D. Duke University, 1997
+  * B.S. Duke University, 1989
+
+## Research Interests
+
+Ultrasonic and elasticity imaging, specifically nonlinear propagation,
+acoustic streaming and radiation force; the intentional generation of these
+phenomena for the purpose of tissue characterization; finite element modeling
+of normal and diseased tissue when exposed to ultrasound, and performing both
+phantom and clinical experiments investigating these phenomena. Other areas of
+interest include prostate imaging, abdominal imaging, image-guided therapies,
+and the bioeffects of ultrasound.
+
+## Awards, Honors, and Distinctions
+
+  * Joseph H. Holmes Basic Science Pioneer Award. American Institute of
+    Ultrasound in Medicine. 2022
+  * Fellow (NAI). National Academy of Inventors. 2019
+  * Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of
+    Engineering. 2018
+  * Fellow. American Institute for Medical and Biological Engineering. 2016
+  * Capers and Marion McDonald Teaching and Research Award. Pratt School of
+    Engineering. 2015
+  * Klein Family Distinguished Teaching Award. Pratt School of Engineering.
+    2007
+
+## Courses Taught
+
+  * BME 354L: Introduction to Medical Instrumentation
+  * BME 493-1: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 542: Principles of Ultrasound Imaging (GE, IM)
+  * BME 845: Elasticity Imaging
+
+## In the News
+
+  * Nightingale, Wilson Elected Fellows of the National Academy of Inventors
+    (Dec 6, 2019 | Pratt School of Engineering)
+  * Duke Adds 21 Faculty to Distinguished Faculty Rank (May 7, 2019)
+  * Bringing Scholarship to the Classroom (Nov 19, 2013 | Duke Today)
+
+## Representative Publications
+
+  * Paley, CT; Knight, AE; Jin, FQ; Moavenzadeh, SR; Pietrosimone, LS; Hobson-
+    Webb, LD; Rouze, NC; Palmeri, ML; Nightingale, KR, _Repeatability of
+    Rotational 3-D Shear Wave Elasticity Imaging Measurements in Skeletal
+    Muscle._ , Ultrasound Med Biol, vol 49 no. 3 (2023), pp. 750-760
+    [10.1016/j.ultrasmedbio.2022.10.012] [abs].
+  * Zhang, B; Bottenus, N; Jin, FQ; Nightingale, KR, _Quantifying the Impact
+    of Imaging Through Body Walls on Shear Wave Elasticity Measurements._ ,
+    Ultrasound in Medicine & Biology, vol 49 no. 3 (2023), pp. 734-749
+    [10.1016/j.ultrasmedbio.2022.10.005] [abs].
+  * Knight, AE; Jin, FQ; Paley, CT; Rouze, NC; Moavenzadeh, SR; Pietrosimone,
+    LS; Palmeri, ML; Nightingale, KR, _Parametric Analysis of SV Mode Shear
+    Waves in Transversely Isotropic Materials Using Ultrasonic Rotational 3-D
+    SWEI._ , Ieee Trans Ultrason Ferroelectr Freq Control, vol 69 no. 11
+    (2022), pp. 3145-3154 [10.1109/TUFFC.2022.3203935] [abs].
+  * McCune, EP; Le, DQ; Lindholm, P; Nightingale, KR; Dayton, PA;
+    Papadopoulou, V, _Perspective on ultrasound bioeffects and possible
+    implications for continuous post-dive monitoring safety._ , Diving and
+    Hyperbaric Medicine, vol 52 no. 2 (2022), pp. 136-148
+    [10.28920/dhm52.2.136-148] [abs].
+  * Rouze, NC; Caenen, A; Nightingale, KR, _Phase and group velocities for
+    shear wave propagation in an incompressible, hyperelastic material with
+    uniaxial stretch._ , Physics in Medicine and Biology, vol 67 no. 9 (2022)
+    [10.1088/1361-6560/ac5bfc] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

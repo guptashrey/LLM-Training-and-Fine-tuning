@@ -1,0 +1,302 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Neural Engineering
+
+## Breadcrumb
+
+  1. Home
+  2. Research
+
+Neural engineering research at Duke focuses upon developing new tools and
+methods to enable fundamental research on the nervous system, as well as
+treatments for neurological disorders. Specifically, we conduct research on
+novel neural technologies that can interact with the brain on a much finer
+scale and with greater coverage than previously possible, using both
+electrical and optical measurements.
+
+Research in neural engineering has strengths in the development of novel
+neural technologies such as brain machine interfaces, neural prostheses and
+implantable devices for the treatment of neurological disorders. In addition,
+system-level computational modeling and imaging techniques provide key
+insights into the function of the nervous system in both health and disease.
+
+Current research activity includes deep brain stimulation for the treatment of
+motor disorders, electrical stimulation for the restoration of bladder
+function, and electrical stimulation for restoration of multi-joint motor
+function (e.g., reaching). We develop novel electrode arrays that can record
+and stimulate large areas of the surface of the brain and high resolution,
+data acquisition systems to wirelessly interface these devices with remote
+systems, and genetically encoded sensors to record and stimulate the brain
+using light. These tools and others are applied to understand how large
+populations of neurons can efficiently communicate information and how
+communication pathways can be dynamically re-configured. This work is
+conducted in the context of spatial and emotional memory and decision making
+and is aimed at the treatment of learning deficits and memory disorders.
+
+Neural engineering research at Duke involves a variety of in vitro, in vivo
+and computational modeling techniques that bridge knowledge of the detailed
+biophysical mechanisms of single neurons with the study of their activity at
+the population level. Researchers in neural engineering have extensive
+collaborations with the Duke Institute for Brain Sciences, the Center for
+Cognitive Neuroscience, and the Duke University School of Medicine departments
+of Neurology, Neurosurgery and Radiology, and the interdepartmental program in
+Neurobiology.
+
+## A Decade of Trailblazing
+
+Explore highlights of Duke BME scholarship in our 2008-2018 Nature Reprint
+Collection »
+
+## Primary Faculty
+
+### Roger C. Barr
+
+Professor of Biomedical Engineering
+
+Research Interests: Bioelectricity and biomedical computing.
+
+### Timothy Dunn
+
+Assistant Professor of Biomedical Engineering
+
+Research Interests: Machine learning, computer vision, neurobiology, animal
+behavior, computational neuroscience, prognostic modeling, traumatic brain
+injury
+
+### Yiyang Gong
+
+Assistant Professor in the Department of Biomedical Engineering
+
+Research Interests: Recording and understanding brain activity by developing
+novel combinations of optical microscopy and genetically encoded sensors.
+Using these technologies, we wish to dissect neural circuit function and
+investigate how neural activity drives complex behaviors.
+
+### Warren M. Grill
+
+Edmund T. Pratt, Jr. School Distinguished Professor of Biomedical Engineering
+
+Research Interests: Neural engineering and neural prostheses and include
+design and testing of electrodes and stimulation techniques, the electrical
+properties of tissues and cells, and computational neuroscience with
+applications in restoration of bladder function, treatment of movement
+disorders…
+
+### Craig S. Henriquez
+
+Professor of Biomedical Engineering
+
+Research Interests: Large-scale computing, heart modeling, and brain modeling.
+
+### Marc A. Sommer
+
+Associate Professor of Biomedical Engineering
+
+Research Interests: Neuronal circuits of the brain, including recording from
+single neurons and studying the effects of inactivating or stimulating well-
+defined brain areas. His goals are to understand how individual areas process
+signals and how multiple areas interact to cause cognition and…
+
+### Michael Raphael Tadross
+
+Assistant Professor of Biomedical Engineering
+
+Research Interests: Our goal is to bridge the gap between the study of brain
+as a computational device and the search for novel neuropathological
+treatments. We develop technologies to manipulate molecules, cells, and
+synapses in the brain, and deploy these reagents in mouse models of disease.
+
+### Jonathan Viventi
+
+Assistant Professor in the Department of Biomedical Engineering
+
+Research Interests: Using flexible electronics to create new technology for
+interfacing with the brain at high resolution over large areas. These new
+tools can help diagnose and treat neurological disorders such as epilepsy, and
+help improve the performance of brain machine interfaces.
+
+### Patrick D. Wolf
+
+Associate Professor of Biomedical Engineering
+
+Research Interests: Advanced instrumentation for diagnosis and treatment of
+electrophysiological problems. This research covers two primary organ systems:
+the heart and the brain. In the heart, Dr. Wolf is developing an image guided
+ablation system for treatment of arrhythmias. In the brain, he is…
+
+### Junjie Yao
+
+Assistant Professor of Biomedical Engineering
+
+Research Interests: Photoacoustic tomography (PAT) technologies, and
+translating PAT advances into diagnostic and therapeutic applications,
+especially in functional brain imaging and early cancer theranostics.
+
+## Secondary Faculty
+
+### Greg D. Field
+
+Adjunct Associate Professor of Neurobiology
+
+## Faculty Emeritus
+
+### Wanda Krassowska Neu
+
+Professor Emeritus of Biomedical Engineering
+
+Research Interests: Electroporation-mediated drug delivery and gene therapy;
+Control of cardiac arrhythmias using nonlinear dynamics
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

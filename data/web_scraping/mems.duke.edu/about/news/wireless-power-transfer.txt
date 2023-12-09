@@ -1,0 +1,246 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Turning Your Living Room into a Wireless Charging Station
+
+October 24, 2016 | By Ken Kingery
+
+Flat-screen technology could produce wide-range, wireless power transfer
+devices
+
+DURHAM, N.C. -- The flat-screen TV on your living room wall could soon be
+remotely charging any device within its line of sight. Well, not your actual
+TV, but a device that is similar in size and shape.
+
+In a paper posted October 23, 2016 on the arXiv pre-print repository,
+engineers at Duke University, the University of Washington and Intellectual
+Ventures’ Invention Science Fund (ISF) show that the technology already exists
+to build such a system --it’s only a matter of taking the time to design it.
+
+“Whether it's headphones, cell phones, watches, or even your mouse and
+keyboard, a major irritation for consumers is the hassle of being tethered to
+cords to recharge batteries,” said David Smith, professor and chair of the
+Department of Electrical and Computer Engineering at Duke. “And of course they
+always run dry at the worst possible moment. Our proposed system would be able
+to automatically and continuously charge any device anywhere within a room,
+making dead batteries a thing of the past.”
+
+Some wireless charging systems already exist to help power speakers, cell
+phones and tablets. These technologies rely on platforms that require their
+own wires, however, and the devices must be placed in the immediate vicinity
+of the charging station.
+
+This is because existing chargers use the resonant magnetic near-field to
+transfer energy. The magnetic field produced by current flowing in a coil of
+wire can be quite large close to the coil and can induce a similar current in
+a neighboring coil. Magnetic fields also have the added bonus of being
+considered safe for human exposure, making them a convenient choice for
+wireless power transfer.
+
+The magnetic near-field approach, however, is not an option for power transfer
+over larger distances. This is because the coupling between source and
+receiver—and thus the power transfer efficiency—drops rapidly with distance.
+The wireless power transfer system proposed in the new paper operates at much
+higher microwave frequencies, where the power transfer distance can extend
+well beyond the confines of a room.
+
+To maintain reasonable levels of power transfer efficiency, the key to the
+system is to operate in the Fresnel zone--a region of an electromagnetic field
+that can be focused, allowing power density to reach levels sufficient to
+charge many devices with high efficiency.
+
+“As long as you’re within a certain distance, you can build antennas that
+gather electromagnetic energy and focus it, much like a lens can focus a beam
+of light,” explained Smith.
+
+The problem to date has been that the antennas in a wireless power transfer
+system would need to be able to focus on any device within a room. This could
+be done with a movable antenna dish, for example, but that would take up too
+much space, and nobody wants a big, moving satellite dish on their mantel.
+
+Another solution is a phased array --an antenna with a lot of tiny antennas
+grouped together, each of which can be independently adjusted and tuned. That
+technology also exists, but would be too costly and consume too much energy
+for household use.
+
+The solution proposed by Smith and his colleagues in the new paper instead
+relies on metamaterials --a synthetic material composed of many individual,
+engineered cells that together produce properties not found in nature.
+
+“Imagine you have an electromagnetic wave front moving through a flat surface
+made of thousands of tiny electrical cells,” said Smith. “If you can tune each
+cell to manipulate the wave in a specific way, you can dictate exactly what
+the field looks like when it comes out on the other side.”
+
+If this technology sounds far-fetched, it’s not. Smith and his laboratory used
+this principle to create the world’s first cloaking device that bends
+electromagnetic waves around an object held within.
+
+Several years ago, Nathan Kundtz, a former graduate student and postdoc from
+Smith’s group, led an ISF team that developed the metamaterials technology for
+satellite communications. The team founded Kymeta, which builds powerful, flat
+antennas that could soon replace the gigantic revolving satellite dishes often
+seen atop large boats. Three other companies, Evolv, Echodyne and Pivotal have
+also been founded using different versions of the metamaterials for imaging,
+radar and wireless communications, respectively.
+
+“One of the coolest things about our approach to this problem is that it
+allows us to manufacture our antennas at the same plants that produce LCD
+televisions,” said Kundtz. LCD refers to liquid crystal displays; it is the
+liquid crystal integrated with the metamaterial elements that enables Kymeta’s
+reconfigurable satellite antennas. Kymeta has been producing antennas using
+this production capacity for about one year.
+
+In the paper, Smith and his colleagues work through calculations to illustrate
+what a metamaterials-based wireless power system would be capable of.
+According to the results, a flat metamaterial device no bigger than a typical
+flat-screen television could focus beams of microwave energy down to a spot
+about the size of a cell phone within a distance of up to 10 meters. It should
+also be capable of powering more than one device at the same time.
+
+"The ability to safely direct focused beams of microwave energy to charge
+specific devices, while avoiding unwanted exposure to people, pets and other
+objects, is a game-changer for wireless power," said co-author Matt Reynolds,
+associate professor of electrical engineering and computer science and
+engineering at the University of Washington. "Our proposed Fresnel-zone
+approach takes advantage of widely used LCD technology to enable seamless
+wireless power delivery to all kinds of smart devices. And we’re looking into
+alternatives to liquid crystals that could allow energy transfer at much
+higher power levels over greater distances."
+
+There are, of course, challenges to engineering such a wireless power transfer
+system. A powerful, low cost, highly efficient electromagnetic energy source
+would need to be developed. The system would have to automatically shut off if
+a person or a pet were to walk into the focused electromagnetic beam. And the
+software and controls for the metamaterial lens would have to be optimized to
+focus powerful beams while suppressing any unwanted secondary “ghost” beams.
+
+But the technology is there.
+
+“All of these issues are possible to overcome—they aren’t roadblocks,” said
+Smith. “We actually came up with some nice analytical formulas for coverage
+areas and efficiencies that would be possible. I think building a system like
+this, which could be embedded in the ceiling and wirelessly charge everything
+in a room, is a very feasible scheme. Moreover, there are versions of the
+concept that can deliver larger power over much larger distances”
+
+###
+
+“An Analysis of Beamed Wireless Power Transfer in the Fresnel Zone Using a
+Dynamic, Metasurface Aperture.” David R. Smith, Vinay R. Gowda, Okan
+Yurduseven, Stéphane Larouche, Guy Lipworth, Yaroslav Urzhumov, and Matthew S.
+Reynolds. arXiv, 2016. ID: 1610.06799
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

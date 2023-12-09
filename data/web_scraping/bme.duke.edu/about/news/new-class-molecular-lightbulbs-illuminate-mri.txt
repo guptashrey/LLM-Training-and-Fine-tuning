@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Class of Molecular 'Lightbulbs' Illuminate MRI
+
+March 28, 2016
+
+Discovery could enable cheaper, more versatile bioimaging
+
+Originally published on Duke Today
+
+Duke University researchers have taken a major step towards realizing a new
+form of MRI that could record biochemical reactions in the body as they
+happen.
+
+In the March 25 issue of Science Advances, they report the discovery of a new
+class of molecular tags that enhance MRI signals by 10,000-fold and generate
+detectable signals that last over an hour. The tags are biocompatible and
+inexpensive to produce, paving the way for widespread use of magnetic
+resonance imaging (MRI) to monitor metabolic processes of conditions like
+cancer and heart disease in real time.
+
+“This represents a completely new class of molecules that doesn’t look
+anything at all like what people thought could be made into MRI tags,” said
+Warren S. Warren, James B. Duke Professor and Chair of Physics at Duke, and
+senior author on the study. “We envision it could provide a whole new way to
+use MRI to learn about the biochemistry of disease.”
+
+MRI takes advantage of a property called spin, which makes the nuclei in
+hydrogen atoms act like tiny magnets. Applying a strong magnetic field,
+followed by a series of radio waves, induces these hydrogen magnets to
+broadcast their locations. Since most of the hydrogen atoms in the body are
+bound up in water, the technique is used in clinical settings to create
+detailed images of soft tissues like organs, blood vessels and tumors inside
+the body.
+
+But the technique also has the potential to show body chemistry in action,
+said Thomas Theis, assistant research professor of chemistry at Duke and co-
+lead author on the paper. “With magnetic resonance in general, you have this
+unique sensitivity to chemical transformations. You can see them and track
+them in real time,” Theis said.
+
+MRI’s ability to track chemical transformations in the body has been limited
+by the low sensitivity of the technique, which makes small numbers of
+molecules impossible to detect without using unattainably massive magnetic
+fields.
+
+For the past decade, researchers have been developing methods to
+“hyperpolarize” biologically important molecules, converting them into what
+Warren calls magnetic resonance “lightbulbs.”
+
+With this boosted signal, these “lightbulbs” can be detected even in low
+numbers. “Hyperpolarization gives them 10,000 times more signal than they
+would normally have if they had just been magnetized in an ordinary magnetic
+field,” Warren said.
+
+While promising, Warren says these hyperpolarization techniques face two
+fundamental problems: incredibly expensive equipment -- around 3 million
+dollars for one machine -- and most of these molecular lightbulbs burn out in
+a matter of seconds.
+
+“It’s hard to take an image with an agent that is only visible for seconds,
+and there are a lot of biological processes you could never hope to see,” said
+Warren. “We wanted to try to figure out what molecules could give extremely
+long-lived signals so that you could look at slower processes.”
+
+Jerry Ortiz Jr., a graduate student at Duke and co-lead author on the paper,
+synthesized a series of molecules containing diazarines, a chemical structure
+which is composed of two nitrogen atoms bound together in a ring. Diazirines
+were a promising target for screening because their geometry traps
+hyperpolarization in a “hidden state” where it cannot relax quickly.
+
+Using a simple and inexpensive approach to hyperpolarization called SABRE-
+SHEATH, in which the molecular tags are mixed with a spin-polarized form of
+hydrogen and a catalyst, the researchers were able to rapidly hyperpolarize
+one of the diazirine-containing molecules, greatly enhancing its magnetic
+resonance signals for over an hour.
+
+Qiu Wang, assistant professor of chemistry at Duke and co-author on the paper,
+said this structure is a particularly exciting target for hyperpolarization
+because it has already been demonstrated as a tag for other types of
+biomedical imaging.
+
+“It can be tagged on small molecules, macro molecules, amino acids, without
+changing the intrinsic properties of the original compound,” said Wang. “We
+are really interested to see if it would be possible to use it as a general
+imaging tag.”
+
+The scientists believe their SABRE-SHEATH catalyst could be used to
+hyperpolarize a wide variety of chemical structures at a fraction of the cost
+of other methods.
+
+“You could envision, in five or ten years, you’ve got the container with the
+catalyst, you’ve got the bulb with the hydrogen gas. In a minute, you’ve made
+the hyperpolarized agent, and on the fly you could actually take an image,”
+Warren said. “That is something that is simply inconceivable by any other
+method.”
+
+Other authors include Angus W. J. Logan, Kevin E. Claytor, Yesu Fang, William
+P. Huhn, Volker Blum and Steven J. Malcolmson of Duke University and Eduard Y.
+Chekmenev of Vanderbilt University.
+
+This research was supported by the National Science Foundation (CHE-1058727,
+CHE-1363008, CHE-1416268), the National Institutes of Health (1R21EB018014),
+the Department of Defense Congressionally Directed Medical Research Programs
+Breast Cancer grant (W81XWH-12-1-0159/BC112431), the Pratt School of
+Engineering Research Innovation Seed Fund, the Burroughs Wellcome Fellowship
+and the Donors of the American Chemical Society Petroleum Research Fund.
+
+CITATION: "Direct and cost-efficient hyperpolarization of long-lived nuclear
+spin states on universal 15N2-diazirine molecular tags," Thomas Theis, Gerardo
+X. Ortiz Jr., Angus W. J. Logan, Kevin E. Claytor, Yesu Feng, William P. Huhn,
+Volker Blum, Steven J. Malcolmson, Eduard Y. Chekmenev, Qiu Wang and Warren S.
+Warren. Science Advances, March 25, 2016. DOI: 10.1126/sciadv.1501438 The full
+text can be found here in Duke Space, the university's online repository of
+open-access research.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

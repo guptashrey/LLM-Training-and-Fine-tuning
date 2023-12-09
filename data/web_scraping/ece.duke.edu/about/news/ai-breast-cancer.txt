@@ -1,0 +1,265 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The First AI Breast Cancer Sleuth That Shows Its Work
+
+January 14, 2022 | By Ken Kingery
+
+New AI for mammography scans aims to aid rather than replace human decision-
+making
+
+Computer engineers and radiologists at Duke University have developed an
+artificial intelligence platform to analyze potentially cancerous lesions in
+mammography scans to determine if a patient should receive an invasive biopsy.
+But unlike its many predecessors, this algorithm is interpretable, meaning it
+shows physicians exactly how it came to its conclusions.
+
+The researchers trained the AI to locate and evaluate lesions just like an
+actual radiologist would be trained, rather than allowing it to freely develop
+its own procedures, giving it several advantages over its “black box”
+counterparts. It could make for a useful training platform to teach students
+how to read mammography images. It could also help physicians in sparsely
+populated regions around the world who do not regularly read mammography scans
+make better health care decisions.
+
+The results appeared online December 15 in the journal Nature Machine
+Intelligence.
+
+“If a computer is going to help make important medical decisions, physicians
+need to trust that the AI is basing its conclusions on something that makes
+sense,” said Joseph Lo, professor of radiology at Duke. “We need algorithms
+that not only work, but explain themselves and show examples of what they’re
+basing their conclusions on. That way, whether a physician agrees with the
+outcome or not, the AI is helping to make better decisions.”
+
+> "Without these explicit details, medical practitioners will lose time and
+> faith in the system if there’s no way to understand why it sometimes makes
+> mistakes."
+>
+> ALINA BARNETT
+
+Engineering AI that reads medical images is a huge industry. Thousands of
+independent algorithms already exist, and the FDA has approved more than 100
+of them for clinical use. Whether reading MRI, CT or mammogram scans, however,
+very few of them use validation datasets with more than 1000 images or contain
+demographic information. This dearth of information, coupled with the recent
+failures of several notable examples, has led many physicians to question the
+use of AI in high-stakes medical decisions.
+
+In one instance, an AI model failed even when researchers trained it with
+images taken from different facilities using different equipment. Rather than
+focusing exclusively on the lesions of interest, the AI learned to use subtle
+differences introduced by the equipment itself to recognize the images coming
+from the cancer ward and assigning those lesions a higher probability of being
+cancerous. As one would expect, the AI did not transfer well to other
+hospitals using different equipment. But because nobody knew what the
+algorithm was looking at when making decisions, nobody knew it was destined to
+fail in real-world applications.
+
+“Our idea was to instead build a system to say that this specific part of a
+potential cancerous lesion looks a lot like this other one that I’ve seen
+before,” said Alina Barnett, a computer science PhD candidate at Duke and
+first author of the study. “Without these explicit details, medical
+practitioners will lose time and faith in the system if there’s no way to
+understand why it sometimes makes mistakes.”
+
+Cynthia Rudin, professor of electrical and computer engineering and computer
+science at Duke, compares the new AI platform’s process to that of a real-
+estate appraiser. In the black box models that dominate the field, an
+appraiser would provide a price for a home without any explanation at all. In
+a model that includes what is known as a ‘saliency map,’ the appraiser might
+point out that a home’s roof and backyard were key factors in its pricing
+decision, but it would not provide any details beyond that.
+
+“Our method would say that you have a unique copper roof and a backyard pool
+that are similar to these other houses in your neighborhood, which made their
+prices increase by this amount,” Rudin said. “This is what transparency in
+medical imaging AI could look like and what those in the medical field should
+be demanding for any radiology challenge.”
+
+The researchers trained the new AI with 1,136 images taken from 484 patients
+at Duke University Health System.
+
+They first taught the AI to find the suspicious lesions in question and ignore
+all of the healthy tissue and other irrelevant data. Then they hired
+radiologists to carefully label the images to teach the AI to focus on the
+edges of the lesions, where the potential tumors meet healthy surrounding
+tissue, and compare those edges to edges in images with known cancerous and
+benign outcomes.
+
+Radiating lines or fuzzy edges, known medically as mass margins, are the best
+predictor of cancerous breast tumors and the first thing that radiologists
+look for. This is because cancerous cells replicate and expand so fast that
+not all of a developing tumor’s edges are easy to see in mammograms.
+
+“This is a unique way to train an AI how to look at medical imagery,” Barnett
+said. “Other AIs are not trying to imitate radiologists; they’re coming up
+with their own methods for answering the question that are often not helpful
+or, in some cases, depend on flawed reasoning processes.”
+
+> “We need algorithms that not only work, but explain themselves and show
+> examples of what they’re basing their conclusions on. That way, whether a
+> physician agrees with the outcome or not, the AI is helping to make better
+> decisions.”
+>
+> joseph lo
+
+After training was complete, the researches put the AI to the test. While it
+did not outperform human radiologists, it did just as well as other black box
+computer models. When the new AI is wrong, people working with it will be able
+to recognize that it is wrong and why it made the mistake.
+
+Moving forward, the team is working to add other physical characteristics for
+the AI to consider when making its decisions, such as a lesion’s shape, which
+is a second feature radiologists learn to look at. Rudin and Lo also recently
+received a Duke MEDx High-Risk High-Impact Award to continue developing the
+algorithm and conduct a radiologist reader study to see if it helps clinical
+performance and/or confidence.
+
+“There was a lot of excitement when researchers first started applying AI to
+medical images, that maybe the computer will be able to see something or
+figure something out that people couldn’t,” said Fides Schwartz, research
+fellow at Duke Radiology. “In some rare instances that might be the case, but
+it’s probably not the case in a majority of scenarios. So we are better off
+making sure we as humans understand what information the computer has used to
+base its decisions on.”
+
+This research was supported by the National Institutes of Health/National
+Cancer Institute (U01-CA214183, U2C-CA233254), MIT Lincoln Laboratory, Duke
+TRIPODS (CCF-1934964) and the Duke Incubation Fund.
+
+CITATION: “A Case-Based Interpretable Deep Learning Model for Classification
+of Mass Lesions in Digital Mammography,” Alina Jade Barnett, Fides Regina
+Schwartz, Chaofan Tao, Chaofan Chen, Yinhao Ren, Joseph Y. Lo and Cynthia
+Rudin. Nature Machine Intelligence, Dec. 15, 2021. DOI:
+10.1038/s42256-021-00423-x
+
+## Related News
+
+October 12, 2021
+
+### Duke Professor Wins $1 Million Artificial Intelligence Prize, A ‘New
+Nobel’
+
+December 04, 2019
+
+### Simple Machine Learning Scorecard for Seizures is Saving Lives
+
+May 13, 2019
+
+### Stop Gambling with Black Box and Explainable Models on High-Stakes
+Decisions
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,292 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# William Paul Segars
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in Radiology
+
+Our current research involves the use of computer-generated phantoms and
+simulation techniques to investigate and optimize medical imaging systems and
+methods. Medical imaging simulation involves virtual experiments carried out
+entirely on the computer using computational models for the patients as well
+as the imaging devices. Simulation is a powerful tool for characterizing,
+evaluating, and optimizing medical imaging systems. A vital aspect of
+simulation is to have realistic models of the subject's anatomy as well as
+accurate models for the physics of the imaging process. Without this, the
+results of the simulation may not be indicative of what would occur in actual
+clinical studies and would, therefore, have limited practical value. We are
+leading the development of realistic simulation tools for use toward human and
+small animal imaging research.  
+  
+These tools have a wide variety of applications in many different imaging
+modalities to investigate the effects of anatomical, physiological, physical,
+and instrumentational factors on medical imaging and to research new image
+acquisition strategies, image processing and reconstruction methods, and image
+visualization and interpretation techniques. We are currently applying them to
+the field of x-ray CT. The motivation for this work is the lack of
+sufficiently rigorous methods for optimizing the image quality and radiation
+dose in x-ray CT to the clinical needs of a given procedure. The danger of
+unnecessary radiation exposure from CT applications, especially for
+pediatrics, is just now being addressed. Optimization is essential in order
+for new and emerging CT applications to be truly useful and not represent a
+danger to the patient. Given the relatively high radiation doses required of
+current CT systems, thorough optimization is unlikely to ever be done in live
+patients. It would be prohibitively expensive to fabricate physical phantoms
+to simulate a realistic range of patient sizes and clinical needs especially
+when physiologic motion needs to be considered. The only practical approach to
+the optimization problem is through the use of realistic computer simulation
+tools developed in our work.
+
+## Appointments and Affiliations
+
+  * Associate Professor in Radiology
+
+## Contact Information
+
+  * **Office Location:** Hock Plaza Suite 302, 2424 Erwin Road, Durham, NC
+    27705
+  * **Office Phone:** (919) 684-1473
+  * **Email Address:** paul.segars@duke.edu
+  * **Websites:**
+    * Google Scholar
+
+## Education
+
+  * Ph.D. University of North Carolina - Chapel Hill, 2001
+
+## Courses Taught
+
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+
+## In the News
+
+  * Artemis Launches With Two Duke Experiments (Nov 16, 2022)
+  * Meet Helga and Zohar, Duke's Space Pioneers (Sep 7, 2022 | Pratt School of
+    Engi…
+
+## Representative Publications
+
+  * Gonzales, Matthew J., Gregory Sturgeon, Adarsh Krishnamurthy, Johan Hake,
+    René Jonas, Paul Stark, Wouter-Jan Rappel, et al. “A three-dimensional
+    finite element model of human atrial anatomy: new methods for cubic
+    Hermite meshes with extraordinary vertices.” Med Image Anal 17, no. 5
+    (July 2013): 525–37. https://doi.org/10.1016/j.media.2013.03.005.
+  * Hsu, Christina M. L., Mark L. Palmeri, W Paul Segars, Alexander I. Veress,
+    and James T. Dobbins. “Generation of a suite of 3D computer-generated
+    breast phantoms from a limited set of human subject data.” Med Phys 40,
+    no. 4 (April 2013): 043703. https://doi.org/10.1118/1.4794924.
+  * Segars, W. P., Jason Bond, Jack Frush, Sylvia Hon, Chris Eckersley,
+    Cameron H. Williams, Jianqiao Feng, et al. “Population of anatomically
+    variable 4D XCAT adult phantoms for imaging research and optimization.”
+    Med Phys 40, no. 4 (April 2013): 043701.
+    https://doi.org/10.1118/1.4794178.
+  * Li, Xiang, Ehsan Samei, Cameron H. Williams, W Paul Segars, Daniel J.
+    Tward, Michael I. Miller, J Tilak Ratnanather, Erik K. Paulson, and Donald
+    P. Frush. “Effects of protocol and obesity on dose conversion factors in
+    adult body CT.” Med Phys 39, no. 11 (November 2012): 6550–71.
+    https://doi.org/10.1118/1.4754584.
+  * Zhang, Yakun, Xiang Li, W Paul Segars, and Ehsan Samei. “Organ doses,
+    effective doses, and risk indices in adult CT: comparison of four types of
+    reference phantoms across different examination protocols.” Med Phys 39,
+    no. 6 (June 2012): 3404–23. https://doi.org/10.1118/1.4718710.
+  * Hsu, Christina M. L., Mark L. Palmeri, W Paul Segars, Alexander I. Veress,
+    and James T. Dobbins. “An analysis of the mechanical parameters used for
+    finite element compression of a high-resolution 3D breast phantom.” Med
+    Phys 38, no. 10 (October 2011): 5756–70.
+    https://doi.org/10.1118/1.3637500.
+  * Veress, Alexander I., W Paul Segars, Benjamin M. W. Tsui, and Grant T.
+    Gullberg. “Incorporation of a left ventricle finite element model defining
+    infarction into the XCAT imaging phantom.” Ieee Trans Med Imaging 30, no.
+    4 (April 2011): 915–27. https://doi.org/10.1109/TMI.2010.2089801.
+  * Li, Xiang, Ehsan Samei, W Paul Segars, Gregory M. Sturgeon, James G.
+    Colsher, Greta Toncheva, Terry T. Yoshizumi, and Donald P. Frush.
+    “Patient-specific radiation dose and cancer risk estimation in CT: part
+    II. Application to patients.” Med Phys 38, no. 1 (January 2011): 408–19.
+    https://doi.org/10.1118/1.3515864.
+  * Li, Xiang, Ehsan Samei, W Paul Segars, Gregory M. Sturgeon, James G.
+    Colsher, Greta Toncheva, Terry T. Yoshizumi, and Donald P. Frush.
+    “Patient-specific radiation dose and cancer risk estimation in CT: part I.
+    development and validation of a Monte Carlo program.” Med Phys 38, no. 1
+    (January 2011): 397–407. https://doi.org/10.1118/1.3515839.
+  * Tward, Daniel J., Can Ceritoglu, Anthony Kolasny, Gregory M. Sturgeon, W
+    Paul Segars, Michael I. Miller, and J Tilak Ratnanather. “Patient Specific
+    Dosimetry Phantoms Using Multichannel LDDMM of the Whole Body.” Int J
+    Biomed Imaging 2011 (2011): 481064. https://doi.org/10.1155/2011/481064.
+  * Segars, W. P., G. Sturgeon, S. Mendonca, Jason Grimes, and B. M. W. Tsui.
+    “4D XCAT phantom for multimodality imaging research.” Med Phys 37, no. 9
+    (September 2010): 4902–15. https://doi.org/10.1118/1.3480985.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

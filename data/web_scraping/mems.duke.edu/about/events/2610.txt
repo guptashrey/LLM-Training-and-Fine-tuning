@@ -1,0 +1,210 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Next-generation Solar Energy Conversion with Functional Hybrid Materials
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Mar 22
+
+_This event has passed._
+
+##  Wednesday, March 22, 2023 – 9:00AM to 10:00AM
+
+## Presenter
+
+Mingyang Wei
+
+As the most abundant renewable energy source, solar energy is a crucial
+component of decarbonizing the global energy sector. However, the widespread
+adoption of solar energy could intensify land competition among activities,
+leading to potential environmental impacts, such as biodiversity loss. This
+land use challenge is due in part to the inherent limitations of market-
+dominating silicon photovoltaics, which have limited flexibility and low
+theoretical efficiency (~29%).  
+Hybrid materials, such as metal-halide perovskites, offer promising solutions
+for advancing photovoltaics by combining desirable optical, electronic, and
+structural properties beyond those of silicon. In this talk, I will first
+detail my work on the design of perovskite heterostructures to advance next-
+generation photovoltaics in two emerging directions: luminescent solar
+concentrators (LSCs) for land-saving integrated photovoltaics, and high-
+efficiency tandem photovoltaics. For LSCs, I introduce the concept of
+narrowband exciton routing using phase-tuned self-assembled quantum wells,
+which allows for low-loss perovskite-based LSCs with high internal quantum
+efficiency and large dimensions. For tandem solar cells, I develop mixed-
+dimensional heterojunctions to reduce the oxidation of tin-lead perovskite
+bottom cells, ultimately leading to over 26%-efficiency all-perovskite tandem
+solar cells - exceeding the efficiency of single-junction perovskites for the
+first time.  
+I will then describe the commercialization prospects of next-generation
+photovoltaic technologies. My recent research has shown that interface
+engineering can enhance the performance of perovskite solar cells, but at the
+expense of high-temperature operating stability. Through the design of
+molecular passivators, I have demonstrated commercial-viable operating-stable
+single-junction perovskites. However, the commercialization of high-efficiency
+tandem/triple-junction technologies require more innovative solutions for
+stability breakthroughs. Furthermore, sustainability challenges must be
+addressed to ensure the large-scale deployment of these technologies. This
+includes replacing toxic solvents, minimizing lead leakage and end-life
+recycling strategies.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

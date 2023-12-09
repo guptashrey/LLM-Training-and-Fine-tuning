@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Integrated Design Challenge Restores Balance to the Force
+
+April 14, 2023 | Miranda Volborth
+
+Student teams in ECE 110L build and program small robots that collect and
+process data, on a Star Wars-themed field of play
+
+**“That’s no moon.”**
+
+The aging R-2 units that guide the Rebel Alliance’s X-wing Starfighters are
+ready to be retired. They’ll be replaced with shiny new CX-B droids built and
+programmed by an elite team of ECE 110L engineers. Once installed, the new
+droids will work together to intercept pieces of code broadcast by the
+Imperial fleet and use the code to coordinate an attack on the Empire’s
+hulking battle station.
+
+The fate of the galaxy now rests in the hands of Duke Engineering students.
+
+The death star is, of course, a theoretical concept represented by a
+3D-printed model the size of a baseball. The ventilation shaft through which
+the starships will attack is marked in black tape. But the intensity with
+which the students approach the challenge could rival Luke Skywalker’s.
+
+“After nearly two decades of teaching, I’ve found that the best way to connect
+with and engage a student is to connect their learning to something they
+likely enjoy,” said Adam Davidson, the lab administrator for electrical and
+computer engineering. “It helps to provide something topical and, if possible,
+relevant to pop culture—right now, Star Wars is both of those.”
+
+ECE 110L is a foundational course for students majoring in electrical and
+computer engineering, and it’s required for biomedical engineering students as
+well. That’s because the core concepts covered in this lab—sensor data
+acquisition and processing—provide a foundation of knowledge and skills upon
+which every subsequent course will build.
+
+Central to the course is the “integrated design challenge,” or IDC, which is
+the framework that helps sequence and structure all the topics that students
+will master over the course of the semester: using servos with QTI sensors to
+navigate dark paths against light backgrounds and RGB color sensors to
+differentiate among colored objects, displaying data on LCD screens, and
+transmitting and receiving information via wireless XBee devices.
+
+From year to year, the theme of the IDC changes. Other recent challenges have
+hinged on Quidditch and the Olympic games. Teaching assistant Michaela Harris,
+a student studying ECE and BME, took the class last semester when the theme
+was “Mission to Mars.”
+
+“My own semester started out rough because I had no experience with the
+programming language that we use, so I had a hard time completing some of the
+checkpoints,” said Harris. “I put in some time outside of class to learn a
+little more about C/C++ and learned the syntax of the language, which helped
+me enjoy lab more as the semester progressed.”
+
+Harris said she feels lucky that she had a fun lab with great teaching
+assistants who helped keep the stress level down. She said she became a TA
+herself to “pay that experience forward.” Because of her own initial
+difficulty understanding C/C++, Harris created slides for her section that
+introduced them to the language and gave examples to refer to in the early
+labs—which she noticed they frequently did. “They also worked super hard to
+get through this challenge—they talked to each other, consulted the internet a
+bunch and asked super awesome questions when they were stuck,” said Harris.
+
+One issue that she didn’t foresee, though, was prevailing problems with the
+bots’ power supply. “The robots had a lot of commands to run for a long period
+of time and the batteries of their bots drained quickly,” explained Harris.
+
+Despite the fact that a couple of teams were still debugging their code in the
+minutes before their final runs, it was only the power supply issues that
+caused problems for Harris’s section— the buggy code proved to have been fixed
+and those bots completed their tasks flawlessly.
+
+“Power management is a pain, a real pain,” said Davidson. “In STEM education
+we are often taught at a young age to think outside of the box, and that you
+have an unlimited budget and all the supplies you want or need. Reality is in
+stark contrast to this.”
+
+> “Our students leave ECE 110L with a higher degree of knowledge about how to
+> deploy microcontrollers, servos, and a smattering of sensors and displays,
+> all of which they’ll continue to have access to and be expected to use in
+> their advanced design courses."
+>
+> ECE lab manager Adam Davidson
+
+It’s great to shoot for the pie-in-the-sky scenario, said Davidson, but
+students also have to work with changing conditions and constraints—like being
+handed an older lithium-ion battery. “Students sometimes have to account for
+conditions on the fly,” said Davidson. “We want our students to develop a
+mentality of resilience and to learn from a failure, even if that failure may
+sting a little. In the real world of engineering, this will happen more often
+than not.”
+
+After the IDC concludes, each student participates in an oral defense. (Or, in
+this semester’s case, a “final run debrief.”) During the defense, lab
+administrators and teaching assistants will quiz students on their code and
+ask questions about the choices they made in their builds. This ensures that
+they’ve got a solid grasp of the concepts before they move on to more advanced
+classes.
+
+“After they finish ECE 110L, our students are more prepared to take courses on
+microelectronic devices and circuits, fields and waves, signals and systems,
+and a variety of BME courses as well,” said Davidson. “Our students leave ECE
+110L with a higher degree of knowledge about how to deploy microcontrollers,
+servos, and a smattering of sensors and displays, all of which they’ll
+continue to have access to and be expected to use in their advanced design
+courses. They’ll be comfortable with standard benchtop equipment, too, like
+oscilloscopes, waveform generators, digital multimeters and DC power supplies,
+which they’ll use in courses and labs throughout their time here at Duke.”
+
+More News from Duke ECE
+
+## Related News
+
+April 09, 2019
+
+### First Year, First Patent Pending
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

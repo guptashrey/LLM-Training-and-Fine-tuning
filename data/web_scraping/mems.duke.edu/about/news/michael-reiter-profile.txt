@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Michael Reiter: Cybersecurity Is a Moving Target
+
+September 2, 2020 | By Karl Bates
+
+New faculty member Michael Reiter spends a lot of time with his head in the
+clouds, but his work on computer security started long before 'the cloud' was
+even a thing
+
+Computer scientist Michael Reiter, who will join the Duke faculty in January,
+spends a lot of time with his head in the clouds. But his work on computer
+security started long before ‘the cloud’ was even a thing.
+
+Specifically, Reiter is looking for ways to make cloud computing more secure
+for its users, despite the cloud being an ever-shifting assembly of servers
+located who-knows-where and populated by machines that are considered virtual,
+not real. Cloud computing means lots of different users can share resources
+more efficiently and affordably than traditional computing, but sometimes your
+neighbor in the cloud may be up to no good.
+
+## Michael Reiter
+
+Professor of Computer Science and Electrical & Computer Engineering (January
+1, 2021)
+
+**Hometown:** Asheville, North Carolina
+
+**Alma Maters:** UNC-Chapel Hill, Cornell University
+
+**Representative Publication:** M. Sharif, S. Bhagavatula, L. Bauer, and M. K.
+Reiter. A general framework for adversarial examples with objectives. ACM
+Transactions on Privacy and Security 22(3), June 2019
+
+**Fun Fact:** Works with the middle and high school program 'Girls Who Code'
+
+“One of the great things about security is that the issues that one has to
+address change over time as new technologies emerge,” Reiter says from his
+bookshelf-lined home office in Chapel Hill.
+
+A national authority on cybersecurity, Reiter is currently the Lawrence M.
+Slifkin distinguished professor of computer science at UNC-Chapel Hill, and
+will join Duke as a professor of computer science in Arts & Sciences and
+electrical and computer engineering in the Pratt School of Engineering.
+
+”The kind of issue that we've tried to explore is when an adversary is co-
+resident with your computations on the cloud, running on the same hardware,”
+he says. “The footprint that your computation leaves on the physical hardware
+might reveal information to the adversary who's also right on that hardware.
+Even though the adversary does not have privileges to see your data or
+computations, they can still figure out what you were doing.”
+
+By studying how an adversary might be able to watch your work come and go from
+a shared data cache, “we were able to demonstrate from these hints that you
+could actually do things like steal cryptographic keys,” Reiter says. It’s one
+of several forms of ‘leakage’ his team has been exploring.
+
+## WHY DUKE?
+
+> "I got to learn about what Duke was interested in [regarding cybersecurity]
+> and I thought ‘Well now, this is interesting. You know what, maybe I will
+> talk to those guys, because there's a lot of ambition at Duke in this
+> space.’"
+>
+> —Michael Reiter
+
+Technology and security are ever-changing, however.
+
+“One of the things we try to do educationally is to equip people with the
+right tools to be able to recognize forthcoming security issues when they're
+out in the wild, developing new products or developing new technologies,”
+Reiter says. “You know, as soon as a new technology comes out, there's all
+kinds of unforeseen consequences or all kinds of new issues that come up. We
+try to give (students) the tools to head some of this off at the pass.”
+
+Reiter has also worked on something called the Byzantine Generals Problem, in
+which a network of computers are communicating to come up with a unified
+strategy, but they cannot be sure that all of the other machines are
+trustworthy or telling the truth.
+
+“This shows up in modern vernacular primarily in blockchain systems,” he says.
+“You have a collection of computers that are physically distributed trying to
+maintain a totally ordered ledger of financial transactions or something like
+that. And some of them may be motivated to try to cause different parts of the
+system to see different versions of that ledger.”
+
+Reiter’s recruitment to Duke was sort of a happy accident. As a good friend
+and neighbor of Duke's, the UNC professor agreed to join a lunch meeting last
+year at which Duke faculty were trying to recruit a new expert to beef up
+their work on cybersecurity.
+
+“I was more than happy to do that, and it would have been a pleasure to have a
+colleague right next door,” Reiter said. “But through that lunch, I got to
+learn about what Duke was interested in and I thought ‘Well now, this is
+interesting.’” Negotiations with the candidate didn’t work out and that person
+decided not to come to Duke.
+
+“Once it played out that way, I thought, ‘You know what, maybe I will talk to
+those guys, because there's a lot of ambition at Duke in this space.’ And I
+found it kind of exciting.”
+
+So did Duke.
+
+Reiter also has been involved with efforts at UNC to improve the diversity of
+computer science, including work with the middle and high school program
+“Girls Who Code.”
+
+“One of the things that I really kind of regret about where we are in computer
+science is the field doesn't seem to be attracting brains from a lot of
+different parts of humanity,” Reiter says. “We have to engage all corners in
+developing this technology that's going to rule our lives or support our
+lives.”
+
+Reiter grew up in Texas and graduated high school in Asheville, NC, before
+coming to UNC for undergrad. After earning a PhD in computer science from
+Cornell, Reiter worked at AT&T Labs and Carnegie Mellon University before
+returning to Chapel Hill.
+
+For now, Reiter has no plans to move his wife and daughter from their home in
+south Chapel Hill, though he says his commute just got a little harder.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

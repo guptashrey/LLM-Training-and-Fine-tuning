@@ -1,0 +1,377 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Opening the Black Box
+
+August 30, 2019
+
+Cynthia Rudin is a professor of computer science and electrical and computer
+engineering at Duke University, and an outspoken critic of using black box
+algorithms for high-stakes decisions.
+
+## Listen
+
+## Show Notes
+
+Links to Cynthia Rudin's code can be found at
+users.cs.duke.edu/~cynthia/code.html, and Rebecca Wexler's fascinating story
+on the case of Glenn Rodriguez may be read in full at Washington Monthly.
+
+## Transcript
+
+M. Volborth: This is Rate Of Change, a podcast from Duke Engineering dedicated
+to the ingenious ways that engineers are solving society's toughest problems.
+I'm Miranda Volborth.
+
+M. Volborth: Algorithms run constantly in the backgrounds of our lives,
+monitoring our online presence, scanning our environment, predicting our
+behaviors, and they can affect our lives in profound ways. They're used in
+finance, healthcare, and even in the criminal justice system. Yet we allow
+them to make these high stakes decisions in secret, hidden within black boxes.
+
+Cynthia Rudin: A black box predictive model is a mathematical formula that's
+too complicated for a human to understand or a formula that's proprietary,
+meaning that it is hidden by a company. There are a lot of problems with black
+boxes. Sometimes they depend on variables you don't want them to and you don't
+know about it, because you can't really tell what's in your black box.
+
+M. Volborth: This is Cynthia Rudin, an Associate Professor of Computer Science
+and Electrical and Computer Engineering at Duke University. Cynthia runs the
+university's Prediction Analysis Lab and she is an expert at making
+projections and predictions from huge complicated data sets. Along the way,
+she's become interested in the potential pitfalls of black box algorithms.
+
+M. Volborth: Where would someone like me come across black box algorithms in
+my day-to-day life?
+
+Cynthia Rudin: You'd be surprised how often you you come across black box
+machine learning algorithms. Whenever you go to the go to the internet and you
+look at a website that sells products, they're using black box AI. You can see
+why a company that sells products wants to use black box algorithms, right?
+There are tons of factors to consider for whether to recommend you a product.
+
+Cynthia Rudin: They would look at your purchase history, the number of times
+you've looked at the product before, what time of day you look at what season
+it is, what your friends are saying about it, what the weather's doing. All of
+these things might contribute to whether you get a recommendation to buy a
+pair of rain boots or to stream a new TV show.
+
+Cynthia Rudin: And of course these algorithms are proprietary and the black
+box models keep it safe from competitors. The problem is that these secret
+algorithms aren't used just to make low-stakes decisions. People are using
+these algorithms for high-stakes decisions— like, key events that deeply
+affect people. And they think that you can just apply the same algorithms and
+strategy that you can for web search. Like for web search, if you get an
+incorrect recommendation, who cares? But there've been a lot of situations
+lately where bad stuff has happened because these algorithms are not
+transparent.
+
+Cynthia Rudin: Like, for instance, whether or not you get denied credit. And
+then, also things like air quality index. It would be quite bad if an air
+quality index said that everything was fine outside, and it's beautiful, and
+your car's were covered in a layer of ash, which actually did happen during
+the California wildfires recently.
+
+News reel: [It just sits there like the house guest who refuses to leave. An
+ominous blanket made up a vehicle, exhaust, ozone, and especially smoke from
+wildfires.]
+
+News reel: [I just noticed that it's really smoky and as difficult to
+breathe.]
+
+News reel: [I can just smell it and I would start sneezing and coughing really
+badly.]
+
+M. Volborth: Despite clear evidence to the contrary, some widgets were telling
+residents in central California that the air was good. The ideal air quality
+for outdoor activities. Even as physicians were urging people to stay indoors.
+That's a big problem for people with say asthma, or other respiratory
+problems, but that's only one example of a black box model being used to make
+high-stakes decisions. There are others. Here's Cynthia Rudin again.
+
+Cynthia Rudin: The criminal justice system has a lot of black box algorithms
+that are being used in it right now and they're being used for things like
+bail decisions and parole decisions, and that's causing a lot of problems.
+Like, people can be denied parole without even knowing why.
+
+M. Volborth: Let's talk about that a little bit more. The term COMPAS comes up
+a lot in these conversations about the justice system. Can you explain what
+COMPAS is?
+
+Cynthia Rudin: So COMPAS is a black box model for predicting recidivism, which
+is like whether somebody's going to be arrested within a certain period of
+time and COMPAS is, it's proprietary, nobody knows exactly what's inside of it
+and it's being used sort of widely throughout the U.S. Justice system. There
+was this famous case, the case of Glen Rodriguez, he was up for parole...
+
+M. Volborth: Glenn Rodriguez, an inmate at the Eastern Correctional Facility
+in upstate New York, was denied parole in spite of being a model prisoner. The
+parole board referenced his quote, "High COMPAS risk score for prison
+misconduct", unquote in its denial. But Rodriguez hadn't had a disciplinary
+action in 10 years. Rodriguez suspected something was wrong with the model and
+according to Rebecca Wexler, an attorney and former Yale Public Interest
+Fellow at the Legal Aid Society of New York city, Rodriguez began a process of
+checking his own survey responses against those of other prisoners and looking
+at the outcomes. He suspected that on his survey, the answer to question
+number 19 regarding disciplinary action had been entered incorrectly.
+
+Cynthia Rudin: Now, I don't think his case is unique. I think these scores are
+miscalculated all the time because if you have to enter 137 numbers into a
+model, you know the chances are that you're going to enter at least one of
+those numbers in wrong. So these miscalculations, we think, we have a lot of
+evidence that they appear fairly often.
+
+M. Volborth: What are the most important factors out of those 137?
+
+Cynthia Rudin: Well, I'm not sure exactly, because the model's not
+transparent, so I can't figure that out. One of the questions they ask in the
+COMPAS scoring sheet is, "Well, has your mother ever been arrested?" And why
+does the company need to know that? Right? I'm guessing that doesn't help you
+predict recidivism and in fact I'm quite sure that it doesn't help them
+predict recidivism, because our models can predict recidivism just as well as
+they can, and we don't have whether or not anybody's mother was arrested.
+
+M. Volborth: What do you mean your models?
+
+Cynthia Rudin: Well, we develop a lot of transparent models in my lab, so
+models that are really easy to double check and really easy to evaluate. These
+models, they don't even require a calculator to compute. You can just compute
+them in your head. So we developed a model to compete with COMPAS from a
+dataset that comes from Broward County, Florida. And the model--I'm going to
+tell you the whole model, it's a machine learning model. It's going to sound
+like a rule of thumb, but it's actually a machine learning model and it's just
+as accurate as COMPAS for predicting whether somebody's going to be arrested
+within two years.
+
+Cynthia Rudin: Okay, so here's the model. If your age is 18 to 20 years old,
+or if you're 21 to 22 years old and have two to three prior offenses, or if
+you have at least three prior offenses, then you're likely to be arrested in
+the next two years, and otherwise not. Okay? That's the whole machine learning
+model, not a rule of thumb, that's the whole model.
+
+M. Volborth: And that's just as accurate as the model with 137 factors?
+
+Cynthia Rudin: According to our data from Florida.
+
+M. Volborth: So why, if your tiny model works just as well and it provides
+transparency, why is the black box algorithm being used?
+
+Cynthia Rudin: Yeah, that's a really good question. It's complicated. So
+there's sort of a widespread belief that because a model is a black box, it's
+more accurate. And that as far as I can tell is wrong. Right? I've worked on
+many different applications in medical care, in energy, in credit risk, and in
+criminal recidivism, and we've never found an application where we really
+needed a black box. We could always use an interpretable model for a high
+stakes decision problem.
+
+Cynthia Rudin: But I think part of it is also the history of the field of
+machine learning. In 2012 there was a big splash where these deep learning
+algorithms did really well for a benchmark computer vision task and so since
+that time, people really thought you needed... They said, "Oh great, we can do
+image classification better than we can do it before", and then people got
+really excited about these black box algorithms and then they started applying
+them to these high stakes decisions without really thinking about the
+ramifications about doing that.
+
+Cynthia Rudin: Very often we don't train our computer scientists in the right
+topics. We don't train them in basic statistics for instance. We don't train
+them in ethics, so they don't know. They developed this technology without
+worrying about what it's used for and that's a problem.
+
+M. Volborth: So that benchmark tasks in machine learning kind of triggered a
+wave of black box applications. What about a benchmark task for interpretable
+transparent models?
+
+Cynthia Rudin: There hasn't been a real benchmark in interpretability, but
+there's been one in explainability which is related. So explainability scares
+me. Explainability is where you're supposed to take a black box model and
+explain it. Okay? So there was a competition in 2018 the company FICO, The
+Fair Issac Corporation, provided a dataset to just really freely available and
+then people could compete to provide... They wanted everyone to provide a
+black box and then explain it afterward.
+
+Cynthia Rudin: So my team got a hold of this data set and we looked at it and
+we said, "I don't think you need a black box for this data set." So what we
+did was we completely violated the rules and provided a model that was
+interpretable, fully interpretable, so no black box at all. And we sent our
+model off to the judges. I think they had trouble evaluating the competition--
+like, the organizers of the competition didn't know how to evaluate
+explainability or interpretability. But we did get an email a few weeks ago
+saying that FICO was awarding us with the FICO recognition prize for our work
+on the challenge, so we were thrilled about that.
+
+M. Volborth: Are things looking up or looking down for opening up the black
+box?
+
+Cynthia Rudin: Well, at the moment I would say things are looking down. In
+fact California for instance now is going to a no-bail system where an
+algorithm makes decisions, and I believe that they're thinking about using
+COMPAS for it. I mean, these algorithms--there are a lot of companies that
+make profits off of selling these black box models, and these companies have
+been fairly successful in getting their models to penetrate the justice
+system.
+
+Cynthia Rudin: So I would say that at the moment the black boxes are
+succeeding, but I'm hoping that if we get the word out there that these
+transparent models are just as accurate as the black box models, that people
+will start using the transparent ones instead.
+
+M. Volborth: How can researchers like you at universities like Duke help?
+
+Cynthia Rudin: Well, if the criminal justice system wants a model for
+recidivism prediction, they should be turning to academics to create that
+model, or to to charities, rather than a company. Because we can do it just as
+well, and we'll give it away for free.
+
+M. Volborth: What's the outcome you're hoping for?
+
+Cynthia Rudin: I'm hoping that people realize the risks in explainable models
+and that they don't actually need black boxes at all. They can use models that
+are completely interpretable.
+
+Cynthia Rudin: I would like to see a system in which no black box model is
+used for a high stakes decision unless there is no equally accurate,
+interpretable model. Now, I'm pretty sure that for all of the high stakes
+problems I've worked done, there's no need for a black box model at all in
+that case. So I'm hoping that if we govern interpretability before black
+boxes, then we will have only interpretable models.
+
+M. Volborth: Rudin's team made it's competition entry for the FICO challenge
+publicly available. Anyone who wants to can go onto the website and explore
+the model through its web interface to understand how it works. She also makes
+all her code available. So if you're a machine learning expert listening to
+this podcast, you can get her code and use it to build interpretable models
+for your own datasets. You can find that address in our show notes.
+
+M. Volborth: Thanks for listening. Please subscribe for updates from Duke
+Engineering, and if you learned something from this podcast, please share it
+with others.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Cynthia D. Rudin
+
+Earl D. McLean, Jr. Professor
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

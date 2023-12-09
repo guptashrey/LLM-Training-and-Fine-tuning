@@ -1,0 +1,257 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Higher Efficiency, Longer Lives
+
+June 21, 2021
+
+In this Q&A, Duke ECE professor and computer architecture expert Daniel Sorin
+talks about teaching, FLUNCHing, and collaborating to solve computer memory
+storage challenges
+
+## 1\. It’s been said that the ECE 250: Computer Architectures class you teach
+is quite difficult. Do you think that perception is true?
+
+> I think a lot of students psych themselves out, so I try hard in the first
+> week to assure them that no one else in the class knows anything either...
+
+It’s funny how many students will say, “I didn’t know anything about this
+topic coming in.” Well, of course you didn’t—it’s computer architecture! It’s
+not a standard thing to come across in undergraduate studies in the same way
+that programming is. I think a lot of students psych themselves out, so I try
+hard in the first week to assure them that no one else in the class knows
+anything either and that they’re going to be fine. This class has been taught
+for more than ten years now; we’ve got this.
+
+computer architecture: the design of computer processors
+
+At the end of the most recent semester, we asked the students to give one
+adjective to describe the course, and you might have thought they disliked it
+from the adjectives they chose: “challenging,” “difficult,” “brutal.” But
+evaluations were, in fact, very positive. They liked the course and they
+appreciated the efforts to keep it lively. They appreciated the connections.
+They regularly came to FLUNCH to discuss the class and ask questions about the
+field.
+
+## 2\. Did you say “FLUNCH?”
+
+Duke has long had an institution of FLUNCH, in which students can take a
+faculty member out to lunch and charge it to Duke. This semester, obviously,
+that couldn’t happen, so we decided to try virtual lunches. I opened a Google
+doc to sign up and 30 people responded in the first ten minutes. There were
+around 150 by the end of the day. People showed up to ask questions or just to
+chat. We even had people show up from China at 1 a.m. local time. They just
+seem tickled to talk to their classmates after being apart for so long. I’m
+looking forward to FLUNCHing in person again very soon.
+
+## 3\. You always seem to have interesting collaborations in the works. Tell
+us about one or two of those projects.
+
+I have a project happening with Robert Calderbank that started out
+fortuitously, with a PhD student of mine who was taking his class. Robert is
+the world’s foremost expert on encoding information, and the student started a
+project that applies to computer storage, which is something I work on.
+
+In this project we used a type of code that’s common in Robert’s field but
+uncommon in mine, called coset coding, and applied it to a new type of storage
+technology. We found that we could greatly extend the lifetime of this type of
+storage by figuring out how to encode information so that we could write to it
+many more times before it fails. We’ve gotten a couple of NSF grants, and
+we’ve continued to find ways to encode information that improves reliability,
+lifetime, and vulnerability to transient errors. Sometimes when your computer
+fails and you get the Blue Screen of Death, it’s because of corruption in your
+storage or disk, so there are obvious wins if this technology gets adopted.
+
+processor: the part of the computer that performs the computations. Other
+parts of a computer include memory, disk, networking, etc.
+
+We’re also looking at ways to encode the information sent between processor
+cores so it’s less likely to get corrupted, and there’s lower likelihood of
+the signals interfering with each other to cause crosstalk.
+
+Or let’s say we want to deploy an embedded system—a little sensor with a bit
+of processing power and some storage. A good example might be a piece of
+equipment you’re sending to space, like the Mars Rover. You deploy it but you
+can’t replace the battery or service it in any way. Wouldn’t it be nice if you
+could encode the information it collects so that it uses less energy on each
+write, and therefore lasts longer?
+
+As an architect, I bring problems like these to Robert, he solves them in ways
+that are mathematically beautiful but potentially unbuildable, and we iterate
+until we get to something that is feasible and that works. It’s a very fun way
+to collaborate.
+
+I’ve also been collaborating with faculty and students at the University of
+Edinburgh since 2018, when I was on sabbatical there. We began a project that
+remains ongoing, working to automate an aspect of computer design dealing with
+protocols, or the messages exchanged between cores. It’s a hugely complicated
+thing to get right, but we’ve managed it for simple protocols and now we’re
+working on more complicated system models, like smartphones, that use all
+different types of cores—cores that do general-purpose computing, cores that
+handle graphics, ones that process what’s happening with your camera.
+
+protocol: a set of rules or procedures for transmitting data between
+electronic devices.
+
+## 4\. If students share your enthusiasm for computer architecture and want to
+dive deeper into the field, how should they proceed?
+
+Coming out of ECE/CompSci 250, in which we design a computer and build a
+simulator of cache memory, students generally take one of two paths. Students
+who enjoy the hardware aspect of it tend to go to ECE/CompSci 350, Digital
+Systems, where you learn how to physically build a digital system like a
+computer. You can hold what you build in your hands and show it to your
+parents, which is very satisfying.
+
+Then there’s ECE 552/CompSci 550, Advanced Computer Architecture, which dwells
+not so much in implementation as design. At the end of 250 you can make a
+computer and you understand how it works, but you would not be able to sell
+it. It would be a slow, single-core processor that is functionally correct.
+That’s a great place to be after only one semester, without a doubt. But by
+the end of 552, you’re at the bleeding edge of computer design. You’ll
+understand how the computer in your laptop works and you’ll be able to imagine
+what features a computer five or ten years from now might have.
+
+Those are the next steps in terms of curriculum. But there are many other
+courses that fit tangentially. Architecture is just one piece of the
+stack—you’ve also got implementation, and then you’ve got people designing
+transistors, you’ve got solid-state physics, you’ve got the operating system….
+I recommend students take Operating Systems (ECE 353) and Compilers (ECE 553)
+if they’re prepared for that challenge.
+
+There are also research opportunities—there’s the Pratt Research Fellows
+program, and I’ve worked with many undergraduate students, independently, in
+my lab. I treat them as junior grad students, and in fact I’ve published with
+at least a dozen different undergraduate students in peer-reviewed journals.
+
+## 5\. What makes Duke ECE strong in trustworthy computing?
+
+The strength of any program is in its people and the research they’re doing.
+The term “trustworthy computing” encompasses so many brilliant people doing
+innovative and wildly different things. It includes both hardware and
+software. It includes making sure designs are bug-free and resilient, and that
+they’re secure. Duke ECE has people at the very top of their fields in all
+those different aspects. It’s just a great team.
+
+> The term “trustworthy computing” encompasses so many brilliant people doing
+> innovative and wildly different things.
+
+Once upon a time, I was an undergraduate here and I took Computer
+Architecture. I had the benefit of taking it from John Board, and it was a
+life-changing experience for me. Computer architecture, when it clicks, when
+you understand how computers work—it’s a defining moment. It’s why I’m here
+today.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

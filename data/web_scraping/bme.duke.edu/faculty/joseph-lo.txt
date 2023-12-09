@@ -1,0 +1,286 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Joseph Yuan-Chieh Lo
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in Radiology
+
+My research uses computer vision and machine learning to improve medical
+imaging, focusing on breast and CT imaging. There are three specific projects:
+
+(1) We design deep learning models to diagnose breast cancer from mammograms.
+We perform single-shot lesion detection, multi-task
+segmentation/classification, and image synthesis. Our goal is to improve
+radiologist diagnostic performance and empower patients to make personalized
+treatment decisions. This work is funded by NIH, Dept of Defense, Cancer
+Research UK, and other agencies.
+
+(2) We create "digital twin" anatomical models that are based on actual
+patient data and thus contain highly realistic anatomy. With customized 3D
+printing, these virtual phantoms can also be rendered into physical form to be
+scanned on actual imaging devices, which allows us to assess image quality in
+new ways that are clinically relevant.
+
+(3) We are building a computer-aided triage platform to classify multiple
+diseases across multiple organs in chest-abdomen-pelvis CT scans. Our
+hospital-scale data sets have hundreds of thousands of patients. This work
+includes natural language processing to analyze radiology reports as well as
+deep learning models for organ segmentation and disease classification.
+
+## Appointments and Affiliations
+
+  * Professor in Radiology
+  * Professor in the Department of Electrical and Computer Engineering
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Office Location:** 2424 Erwin Road, Suite 302, Ravin Advanced Imaging
+    Labs, Durham, NC 27705
+  * **Office Phone:** (919) 684-7763
+  * **Email Address:** joseph.lo@duke.edu
+  * **Websites:**
+    * Google Scholar
+    * Home Page
+
+## Education
+
+  * B.S.E.E. Duke University, 1988
+  * Ph.D. Duke University, 1993
+  * Duke University, 1995
+
+## Courses Taught
+
+  * RROMP 301B: Radiology, Radiation Oncology & Medical Physics
+
+## In the News
+
+  * The First AI Breast Cancer Sleuth That Shows Its Work (Jan 20, 2022 |
+    Pratt Sch…
+
+## Representative Publications
+
+  * Tushar, Fakrul Islam, Vincent M. D’Anniballe, Rui Hou, Maciej A.
+    Mazurowski, Wanyi Fu, Ehsan Samei, Geoffrey D. Rubin, and Joseph Y. Lo.
+    “Classification of Multiple Diseases on Body CT Scans Using Weakly
+    Supervised Deep Learning.” Radiol Artif Intell 4, no. 1 (January 2022):
+    e210026. https://doi.org/10.1148/ryai.210026.
+  * Grimm, Lars J., Benjamin Neely, Rui Hou, Vignesh Selvakumaran, Jay A.
+    Baker, Sora C. Yoon, Sujata V. Ghate, et al. “Mixed-Methods Study to
+    Predict Upstaging of DCIS to Invasive Disease on Mammography.” Ajr Am J
+    Roentgenol 216, no. 4 (April 2021): 903–11.
+    https://doi.org/10.2214/AJR.20.23679.
+  * Draelos, Rachel Lea, David Dov, Maciej A. Mazurowski, Joseph Y. Lo,
+    Ricardo Henao, Geoffrey D. Rubin, and Lawrence Carin. “Machine-learning-
+    based multiple abnormality prediction with large-scale chest computed
+    tomography volumes.” Med Image Anal 67 (January 2021): 101857.
+    https://doi.org/10.1016/j.media.2020.101857.
+  * Abadi, Ehsan, William P. Segars, Benjamin M. W. Tsui, Paul E. Kinahan,
+    Nick Bottenus, Alejandro F. Frangi, Andrew Maidment, Joseph Lo, and Ehsan
+    Samei. “Virtual clinical trials in medical imaging: a review.” J Med
+    Imaging (Bellingham) 7, no. 4 (July 2020): 042805.
+    https://doi.org/10.1117/1.JMI.7.4.042805.
+  * Hou, Rui, Maciej A. Mazurowski, Lars J. Grimm, Jeffrey R. Marks, Lorraine
+    M. King, Carlo C. Maley, Eun-Sil Shelley Hwang, and Joseph Y. Lo.
+    “Prediction of Upstaged Ductal Carcinoma In Situ Using Forced Labeling and
+    Domain Adaptation.” Ieee Trans Biomed Eng 67, no. 6 (June 2020): 1565–72.
+    https://doi.org/10.1109/TBME.2019.2940195.
+  * Georgian-Smith, Dianne, Nancy A. Obuchowski, Joseph Y. Lo, Rachel F. Brem,
+    Jay A. Baker, Paul R. Fisher, Alice Rim, Wei Zhao, Laurie L. Fajardo, and
+    Thomas Mertelmeier. “Can Digital Breast Tomosynthesis Replace Full-Field
+    Digital Mammography? A Multireader, Multicase Study of Wide-Angle
+    Tomosynthesis.” Ajr Am J Roentgenol 212, no. 6 (June 2019): 1393–99.
+    https://doi.org/10.2214/AJR.18.20294.
+  * Rossman, Andrea H., Matthew Catenacci, Christine Zhao, Dhiraj Sikaria,
+    John E. Knudsen, Danielle Dawes, Michael E. Gehm, Ehsan Samei, Benjamin J.
+    Wiley, and Joseph Y. Lo. “Three-dimensionally-printed anthropomorphic
+    physical phantom for mammography and digital breast tomosynthesis with
+    custom materials, lesions, and uniform quality control region.” J Med
+    Imaging (Bellingham) 6, no. 2 (April 2019): 021604.
+    https://doi.org/10.1117/1.JMI.6.2.021604.
+  * Sturgeon, Gregory M., Subok Park, William Paul Segars, and Joseph Y. Lo.
+    “Synthetic breast phantoms from patient based eigenbreasts.” Med Phys 44,
+    no. 12 (December 2017): 6270–79. https://doi.org/10.1002/mp.12579.
+  * Ikejimba, Lynda, Joseph Y. Lo, Yicheng Chen, Nadia Oberhofer, Nooshin
+    Kiarashi, and Ehsan Samei. “A quantitative metrology for performance
+    characterization of five breast tomosynthesis systems based on an
+    anthropomorphic phantom.” Med Phys 43, no. 4 (April 2016): 1627.
+    https://doi.org/10.1118/1.4943373.
+  * Erickson, David W., Jered R. Wells, Gregory M. Sturgeon, Ehsan Samei,
+    James T. Dobbins, W Paul Segars, and Joseph Y. Lo. “Population of 224
+    realistic human subject-based computational breast phantoms.” Med Phys 43,
+    no. 1 (January 2016): 23. https://doi.org/10.1118/1.4937597.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

@@ -1,0 +1,213 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Programming Cell Behavior
+
+October 31, 2019 | By Mary-Russell Roberson
+
+With work spanning gene circuits, antibiotic resistance and the mathematical
+modeling of cellular networks, Lingchong You explores how to best to harness
+microbes for medical purposes
+
+When Lingchong You earned his PhD in chemical engineering in 2002, synthetic
+biology was in its infancy. Yet he was drawn to the field right away.
+
+“Synthetic biology to me is just like programming,” You says. “Every cell is
+like a computer. In this case the code is in the form of DNA.”
+
+You had spent years building mathematical models of viral infection in
+graduate school and was ready to do some experiments with living cells. As a
+postdoctoral researcher in the Caltech lab of Frances Arnold (who won a Nobel
+Prize last year), he dove into gene circuit design, which involves
+manipulating the genes of microbes so they will perform a desired function,
+like producing pharmaceuticals or biofuel.
+
+“I just fell in love with this type of research, integrating both mathematical
+modeling and experiments,” he says. “As an engineer, you cannot get more
+‘engineering’ than this! You introduce stuff into cells and look at how they
+behave and even predict how they will behave.”
+
+Today, as a professor in Duke’s Department of Biomedical Engineering, You
+studies and manipulates the dynamics of microbial communities with the goal of
+developing practical applications in medicine and other fields.
+
+One of his areas of research involves the growing problem of antibiotic
+resistance.
+
+“We’re facing this antibiotic resistance crisis and there is a huge innovation
+gap in terms of lack of development of new antibiotics,” You says. “In my
+view, in the foreseeable future we have to deal with the situation by using
+the existing antibiotics in a more clever way.”
+
+He and members of his lab have shown that pathogens can pass small bits of DNA
+that confer antibiotic resistance back and forth among themselves. These DNA
+bits are called plasmids, and they get shared in a process called horizontal
+gene transfer.
+
+In a recent project, You analyzed hundreds of bacterial pathogens that show
+resistance to beta-lactam antibiotics such as penicillin and its cousins. He
+found that at least 25 percent of the pathogens can transfer resistance among
+themselves via horizontal gene transfer. In other words, a cell that has never
+been exposed to an antibiotic can still contain the plasmid that confers
+resistance to it. Furthermore, horizontal gene transfer happens rapidly enough
+to keep the plasmid in circulation in a microbial community, even though its
+presence is costly to an individual cell in the absence of an antibiotic.
+“That’s why it’s so difficult to eliminate this antibiotic resistance,” You
+says. “We’re trying to understand how you can control the plasmid dynamics.”
+
+You and his students have engineered a synthetic plasmid that can replace the
+antibiotic-resistant plasmids in bacteria. The idea is that the synthetic
+plasmid, or something like it, could one day be given as a supplemental
+medicine along with a beta-lactam antibiotic. If antibiotic-resistant plasmids
+are present, the synthetic plasmid will spring into action to replace and
+eliminate them, leaving the door open for the antibiotic to kill the
+pathogenic cells. Once the antibiotic-resistant plasmids are gone, the
+synthetic ones become inactive.
+
+“This is one example of synthetic biology where we designed a genetic program
+to control cell behavior,” You says.
+
+He is working on several other aspects of antibiotic resistance as well. In
+collaboration with Deverick Anderson, an infectious disease physician in the
+Department of Medicine, he described the dynamics of a microbial community
+that is resistant in the face of antibiotic treatment, and compared that to
+the dynamics in a “resilient” community—one that appears to be resistant but
+is not. The researchers showed in the lab how a resilient community can be
+knocked out with first-line antibiotics by using a customized strategy of
+timing and dosing.
+
+You is also active in another branch of synthetic biology—programming microbes
+to build patterns or structures. “Look at nature,” he says. “Nature gives us
+all these living functional materials. I grew into this shape from a single
+cell. If you think about that, it’s quite amazing. As an engineer, I wonder
+how can we do something like this?”
+
+In one project, You and colleagues engineered bacteria such that they
+spontaneously grew into dome shapes. When provided with gold nanoparticles,
+the bacteria incorporated them into the structures. The researchers then used
+a pair of these conductive domes to create a pressure sensor in an electrical
+circuit.
+
+“This is the first time anyone has built a structure in a predictable manner
+using living cells that carry out a specific function,” You says.
+
+You’s research projects may seem wide-ranging, but they are all driven by the
+same questions: how do microbial communities behave in space and time, and how
+can those behaviors be modified?
+
+“Deep down I’m very curious,” You says. “It’s incredibly, incredibly
+fascinating to me—all of this.”  
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

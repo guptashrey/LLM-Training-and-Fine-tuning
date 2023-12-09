@@ -1,0 +1,244 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Antimicrobial Coating for Orthopedic Implants Prevents Dangerous Infections
+
+September 17, 2021 | By Ken Kingery
+
+Customizable to individual patients and requiring less than 10 minutes to
+prepare and use, new surgical implant coating prevented 100% of infections in
+mice
+
+Biomedical engineers and surgeons at Duke University and UCLA have
+demonstrated an antibiotic coating that can be applied to orthopedic implants
+minutes before surgery that eliminates the chances of an infection around the
+implant.
+
+In early trials in mice, the coating prevented all subsequent infections, even
+without infusions of antibiotics into the bloodstream, which is the current
+standard of care. After 20 days, the coating did not reduce the bone’s ability
+to fuse with the implant and was completely absorbed by the body.
+
+The results appear online September 16 in the journal Nature Communications.
+
+The project began when Tatiana Segura, professor of biomedical engineering at
+Duke, met Nicholas Bernthal, interim chair and executive medical director at
+the David Geffen School of Medicine at UCLA, who specializes in pediatric
+orthopedic oncology and surgery. He told Segura that many children being
+treated for bone cancer have large portions of bone removed, which then
+requires orthopedic implants. But because the patients are usually also
+undergoing chemotherapy, their immune systems are weak and they are especially
+vulnerable to bacteria colonizing the surface of the implant.
+
+“These kids face the choice of having chemotherapy versus saving their limb or
+even sometimes needing amputations to survive, which sounds horrific to me,”
+Segura said. “All they really need is something to rub on the implant to stop
+an infection from taking hold, because preventing an infection is much easier
+than treating one. So we came up with this coating technology that we hope
+will provide a solution.”
+
+Implant infections aren’t unique to children or to cancer patients, however.
+For joint replacement surgeries, for example, infection occurs in 1% of
+primary and up to 7% of revision surgeries, which requires repeated revision
+surgeries and prolonged intravenous antibiotics. Treatment doesn’t always
+work, however, as these patients have a higher five-year mortality risk than
+those diagnosed with HIV/AIDS or breast cancer. Implant infections are
+estimated to cost the health care system more than $8.6 billion annually in
+the U.S. alone.
+
+Part of the challenge of treating these infections is that bacteria colonize
+the surface of the implants themselves. This means that there are no blood
+vessels flowing through the bacterial colonies to deliver the antibiotics
+coursing through a patient’s veins. The only recourse is often the removal of
+the original implant, which is usually the best of what are only bad options.
+
+Some doctors have taken to their own solutions, such as using antibiotic
+powder when closing the surgical wound or infusing the bone cement used to
+hold the implant in place with antibiotics. Neither of these tactics have been
+proven to be clinically effective. There is also the option of implant
+manufacturers adding antibiotic properties to their devices. But this would
+greatly reduce the product’s shelf life and also require a long and
+complicated process of FDA approval, since the implants would then be in a new
+classification.
+
+Segura’s new antibiotic coating sidesteps all of these challenges.
+
+“We’ve shown that a point-of-care, antibiotic-releasing coating protects
+implants from bacterial challenge, and can be quickly and safely applied in
+the operating room without the need to modify existing implants,” said
+Christopher Hart, a resident physician in UCLA Orthopaedic Surgery who helped
+conduct the experiments.
+
+The new antimicrobial coating is made of two polymers, one that repels water
+and one that mixes well with water. Both are combined in a solution with an
+antibiotic of the physician’s choosing and then applied directly to the
+orthopedic implant by dipping, painting or spraying. When exposed to a bright
+ultraviolet light, the two polymers couple together and self-assemble into a
+grid-like structure that traps the antibiotics.
+
+The reaction is an example of “click chemistry,” which is a general way of
+describing reactions that happen quickly at room temperature, produce only a
+single reaction product, have an extremely high yield and occur within a
+single container.
+
+"This study is a great example of the power of click chemistry in biomedical
+applications,” said Weixian Xi, now a senior scientist at Illumina who was a
+postdoctoral researcher at UCLA during the study. “This ‘smart’ and
+‘clickable’ polymeric coating enables protections of implants from bacterial
+infection and makes a personalized approach possible."
+
+“Our coating can be personalizable because it can use almost any antibiotic,”
+Segura continued. “The antibiotic can be chosen by the physician based on
+where in the body the device is being implanted and what pathogens are common
+in whatever part of the world the surgery is taking place.”
+
+The click chemistry polymer grid also has an affinity for metal. Tests
+involving various types of implants showed that the coating was very difficult
+to rub off during surgical procedures. Once inside the body, however, the
+conditions cause the polymer to degrade, slowly releasing the antibiotics over
+the course of two to three weeks.
+
+In the study, researchers rigorously tested the coating in mice with either
+leg or spine implants. After 20 days, the coating did not inhibit the bone’s
+growth into the implant and prevented 100% of infections. This time period,
+the researchers say, is long enough to prevent the vast majority of these
+types of infections from occurring.
+
+The researchers have not yet tested their coating on larger animals. Since
+larger animals—such as humans—have larger bones and need larger implants,
+there is much more surface area to protect against bacterial infections. But
+the researchers are confident that their invention is up to the task and plan
+to pursue the steps needed to commercialize the product.
+
+“We believe this transdisciplinary work represents the future of surgical
+implants, providing a point of application coating that transforms the implant
+from a hotspot for infection into a ‘smart’ antimicrobial therapeutic,”
+Bernthal said. “You only need to treat a single patient with an infected
+implant to realize how transformational this could be for patient care —saving
+both life and limbs for many.”
+
+This research was supported by the National Institute of Arthritis and
+Musculoskeletal and Skin Diseases of the National Institutes of Health
+(5K08AR069112-01, T32AR059033).
+
+“Point-Of-Care Antimicrobial Coating Protects Orthopaedic Implants From
+Bacterial Challenge.” Weixian Xi, Vishal Hegde, Stephen D. Zoller, Howard Y.
+Park, Christopher M. Hart, Takeru Kondo, Christopher D. Hamad, Yan Hu, Amanda
+H. Loftin, Daniel O. Johansen, Zachary Burke, Samuel Clarkson, Chad Ishmael,
+Kellyn Hori, Zeinab Mamouei, Hiroko Okawa, Ichiro Nishimura, Nicholas M.
+Bernthal and Tatiana Segura. Nature Communications, Sept. 17, 2021. DOI:
+10.1038/s41467-021-25383-z
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

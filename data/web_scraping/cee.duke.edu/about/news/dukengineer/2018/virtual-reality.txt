@@ -1,0 +1,280 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2018
+
+# Duke's New Reality
+
+July 2, 2018 | By Samuel Lester
+
+With Duke now featuring four locations for virtual reality, the Duke community
+can enter worlds never before imaginable
+
+_What is real? Is it what we see? With virtual reality, that answer is a
+completely new one, especially at Duke. Home now to four locations, the DiVE,
+Bolt VR, TEC VR and the Multimedia Project Studio, the Duke community can
+enter worlds never before imaginable. Follow below as we explore what each of
+these virtual reality experiences has to offer._
+
+## The DiVE
+
+Since 2005, the Duke immersive Virtual Environment, also known as the DiVE,
+has been a large-scale virtual reality (VR) facility. Users explore VR in a
+box-like display where they walk into a completely enclosed cube with screens
+projected onto each of the six faces. With users wearing special glasses, the
+system projects a different image for each eye to trick the mind into seeing
+an illusion of depth.
+
+This principle is called stereoscopic vision. The projected display shows each
+eye a specific image of the environment from the individual eye's perspective,
+causing the brain to merge both images into a single picture that contains
+depth information. This is similar to the experience of a 3-D movie.
+
+As opposed to 3-D movies, however, the DiVE allows users to interact with the
+virtual environment through the use of motion tracking sensors. A sensor is
+placed on the user's glasses to track the head position and another one is
+placed in the hand controller. The system then renders motion from the user's
+point of view as they travel the virtual environment, and the hand controller
+allows the user to perform actions such as picking up objects or flying
+through the environment.
+
+Those user interactions require advanced technology to run smoothly. The DiVE
+system has recently upgraded its six render nodes—intricate computers that
+each now have an i7 processor, 64 GB of RAM and one Nvidia Quadro K6000
+graphics cards that enable the display of highly complex graphics— and a
+master node that manages the other six. This level of computational power
+allows for graphics to be displayed in real time, providing highly realistic
+immersive experiences.
+
+Regis Kopper, assistant research professor of mechanical engineering and
+materials science and director of the DiVE, says virtual reality is extremely
+versatile. There have been humanities classes that have taken tours through
+ancient buildings, simulations of archeological dig sites, an Olympic trap-
+shooting simulator that teaches marksmanship while the brain is analyzed by an
+EEG system, and other environments that deal with complex interaction
+techniques designed and evaluated in the DiVE. And that barely scratches the
+surface of the fun the DiVE has had in its more than a decade of existence.
+
+There is also much research being conducted in the DiVE to develop training
+programs for professions that allow for consistent yet risk-free scenarios,
+one of the main advantages of virtual reality. Applications in public
+services, education, therapy, design, manufacturing and health care are
+boundless in VR, and the DiVE serves as a resource for the Duke community to
+wander deliberately in worlds already created and yet to be made.
+
+There are many courses that Duke students can take that make use of the DiVE.
+At the undergraduate level, David Zielinski teaches ISS 320: Introduction to
+User Interface Design in Unity 3-D in the fall, which helps students with
+little technical and programming background to develop skills necessary to
+build virtual reality applications. At the graduate level, Kopper teaches ME
+555.07: Virtual Reality Systems Research and Design in the spring, which gives
+an overview of the stateof- the-art research in virtual reality and involves a
+semester-long research project. Much can be done, no matter your experience,
+to experience the best of virtual reality.
+
+## Bolt & TEC VR
+
+Adding to the accessibility, the Bolt VR and the newly built TEC VR spaces
+offer a theater where students and faculty can dabble in virtual reality. More
+than sixty VR titles are in each space that bring new worlds and new
+experiences where you are directly in the thick of it.
+
+The immersion is done with an HTC Vive Headset and associated controllers. To
+keep track of your movements in the 10'x10' space, sensors shoot out a
+volumetric stream of infrared lasers to keep track of the positional
+orientation and acceleration of the headset and the controllers. For the
+visual immersion, the level of data streaming to and from the computer is
+massive due to the two lenses in the headset. Each lens has a resolution of
+1080x1200, meaning each eye takes about 90-95 percent of the horsepower that
+gaming on a normal monitor takes, which makes VR impossible to run on subpar
+tech.
+
+According to Mark Everett Papa McGill, the manager of these spaces, "In order
+to have a high-quality visual experience, the system needs to run at 90 frames
+per second at all times. Any drop below that results in an unpleasant, non-
+immersive experience. If you've tried VR and didn't like it, you probably had
+a bad setup." McGill continues by talking about how the Bolt and TEC VR spaces
+are built to take on the toughest, longest gaming sessions to "give you
+virtual reality at a consumer level but at its best."
+
+The difference between the Bolt VR and the TEC VR spaces is that the TEC VR
+space has an educational component rather than just an entertainment focus, as
+the Bolt VR does. TEC VR is also equipped with additional capabilities,
+specifically a green screen to help in hosting VR events.
+
+In the near future, there will be a faculty reservation process along with
+trained staff to allow instructors to craft ways to help students learn
+conceptually difficult topics via a virtual environment. Two games worth
+mentioning are Organon, which takes users on a detailed, virtual tour through
+the human anatomy, and Titans of Space 2.0, which provides a gorgeous trip
+through our cosmos fit for any stargazer. This showcases how applicable this
+tool can be for any area of knowledge.
+
+## Multimedia Project Studio
+
+The Multimedia Project Studio (MPS) located in Perkins Library next to the
+Link is one last place to find virtual reality. Designed for the Duke
+community to craft, edit and finalize any form of media, this space recently
+added an Oculus Rift for constructing virtual reality, adding another avenue
+for students and faculty to create and innovate.
+
+The core software running the space are AutoDesk, Blackmagic Fusion, DAZ 3D,
+Maya, Unity and Unreal Engine. And with that level of software comes a steep
+learning curve. The space has trained instructors, however, to help get you
+started. Chip Bobbert, director of the MPS, says, "It is a grand experiment
+for us," and looks forward to seeing what the Duke community does with this
+powerful and sophisticated technology.
+
+To help with that learning curve, Devils Cross Reality (DXR) is a new student
+organization that uses all forms of virtual reality at Duke and strives to
+teach and expose students to what VR can do, no matter their background or
+skill level. The club was founded by Mark Steelman, a junior DiVE researcher
+who has made it his mission to create a VR community that brings students and
+faculty together to learn and explore the ways VR can benefit Duke.
+
+"It's hard to talk and understand VR unless you've tried it," remarked
+Steelman. "Virtual reality is still very much in the R&D stage and there isn't
+much education for it. This group was made for teaching each other together
+and enjoying the vastness of VR."
+
+The club plans on hosting larger public events that provide opportunities not
+offered at the existing outlets for VR, such as presentations from industry
+professionals, demos of applications under development and career-building
+opportunities.
+
+## So What Is Reality?
+
+At Duke, it is not a matter of what is seen; it is what you can do that is
+real, and with virtual reality being an accessible, limitless and mind-blowing
+tool, there is only time in our way before we create worlds to help this one.
+With this combination of the DiVE, Bolt VR, TEC VR and the Multimedia Project
+Studio, there is nothing virtual about the reality Duke can make.
+
+**Samuel Lester is a sophomore pursuing a degree in mechanical engineering.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2018
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

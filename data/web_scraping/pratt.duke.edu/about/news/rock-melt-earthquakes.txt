@@ -1,0 +1,208 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘Melting Rock’ Models Predict Mechanical Origins of Earthquakes
+
+January 17, 2020 | By Ken Kingery
+
+New model accurately predicts why and how friction drops as rocks slide past
+one another with greater speed and undergo a phase change
+
+Engineers at Duke University have devised a model that can predict the early
+mechanical behaviors and origins of an earthquake in multiple types of rock.
+The model provides new insights into unobservable phenomena that take place
+miles beneath the Earth’s surface under incredible pressures and temperatures,
+and could help researchers better predict earthquakes—or even, at least
+theoretically, attempt to stop them.
+
+The results appear online on January 17 in the journal Nature Communications.
+
+“Earthquakes originate along fault lines deep underground where extreme
+conditions can cause chemical reactions and phase transitions that affect the
+friction between rocks as they move against one another,” said Hadrien Rattez,
+a research scientist in civil and environmental engineering at Duke. “Our
+model is the first that can accurately reproduce how the amount of friction
+decreases as the speed of the rock slippage increases and all of these
+mechanical phenomena are unleashed.”
+
+For three decades, researchers have built machines to simulate the conditions
+of a fault by pushing and twisting two discs of rock against one another.
+These experiments can reach pressures of up to 1450 pounds per square inch and
+speeds of one meter per second, which is the fastest underground rocks can
+travel. For a geological reference point, the Pacific tectonic plate moves at
+about 0.00000000073 meters per second.
+
+“In terms of ground movement, these speeds of one meter per second are
+incredibly fast,” said Manolis Veveakis, assistant professor of civil and
+environmental engineering at Duke. “And remember that friction is synonymous
+with resistance. So if the resistance drops to zero, the object will move
+abruptly. This is an earthquake.”
+
+In these experiments, the surface of the rocks either begins to turn into a
+sort of gel or to melt, lowering the coefficient of friction between them and
+making their movement easier. It’s been well established that as the speed of
+these rocks relative to one another increases to one meter per second, the
+friction between them drops like a rock, you might say, no matter the type.
+But until now, nobody had created a model that could accurately reproduce
+these behaviors.
+
+In the paper, Rattez and Veveakis describe a computational model that takes
+into account the energy balance of all the complicated mechanical processes
+taking place during fault movement. They incorporate weakening mechanisms
+caused by heat that are common to all types of rock, such as mineral
+decomposition, nanoparticle lubrication and melting as the rock undergoes a
+phase change.
+
+After running all of their simulations, the researchers found that their new
+model accurately predicts the drop in friction associated with the entire
+range of fault speeds from experiments on all available rock types including
+halite, silicate and quartz.
+
+Because the model works well for so many different types of rock, it appears
+to be a general model that can be applied to most situations, which can reveal
+new information about the origins of earthquakes. While researchers can’t
+fully recreate the conditions of a fault, models such as this can help them
+extrapolate to higher pressures and temperatures to get a better understanding
+of what is happening as a fault builds toward an earthquake.
+
+“The model can give physical meaning to observations that we usually cannot
+understand,” Rattez said. “It provides a lot of information about the physical
+mechanisms involved, like the energy required for different phase
+transitions.”
+
+“We still cannot predict earthquakes, but such studies are necessary steps we
+need to take in order to get there,” said Veveakis. “And in theory, if we
+could interfere with a fault, we could track its composition and intervene
+before it becomes unstable. That’s what we do with landslides. But, of course,
+fault lines are 20 miles underground, and we currently don’t have the drilling
+capacity to go there.”
+
+This work was supported by the Southern California Earthquake Center
+(118062196) under the National Science Foundation (EAR-1033462) and the United
+States Geological Survey (G12AC20038).
+
+“Weak phases production and heat generation controls fault friction during
+seismic slip.” Hadrien Rattez & Manolis Veveakis. Nature Communications, 2020.
+DOI: 10.1038/s41467-019-14252-5
+
+###
+
+## Related News
+
+October 24, 2017
+
+### Manolis Veveakis: Cracking Geophysical Enigmas Worldwide
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

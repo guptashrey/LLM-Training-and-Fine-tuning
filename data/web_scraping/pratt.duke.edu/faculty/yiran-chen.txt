@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Yiran Chen
+
+Professor in the Department of Electrical and Computer Engineering
+
+Yiran Chen received B.S (1998) and M.S. (2001) from Tsinghua University and
+Ph.D. (2005) from Purdue University. After five years in the industry, he
+joined the University of Pittsburgh in 2010 as Assistant Professor and was
+promoted to Associate Professor with tenure in 2014, holding Bicentennial
+Alumni Faculty Fellow. He is now the Professor of the Department of Electrical
+and Computer Engineering at Duke University and serving as the director of the
+NSF AI Institute for Edge Computing Leveraging the Next-generation Networks
+(Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for
+Alternative Sustainable and Intelligent Computing (ASIC), and the co-director
+of Duke Center for Computational Evolutionary Intelligence (DCEI). His group
+focuses on the research of new memory and storage systems, machine learning
+and neuromorphic computing, and mobile computing systems. Dr. Chen has
+published 1 book and about 500 technical publications and has been granted 96
+US patents. He has served as the associate editor of more than a dozen
+international academic periodicals and served on the technical and
+organization committees of more than 60 international conferences. He is now
+serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He
+received eight best paper awards, one best poster award, and sixteen best
+paper nominations from reputable international conferences and workshops such
+as MICRO, KDD, DATE, SEC, etc. He received numerous awards for his technical
+contributions and professional services such as the IEEE Computer Society
+Edward J. McCluskey Technical Achievement Award, ACM SIGDA Service Award, etc.
+He is a Fellow of the ACM and IEEE and now serves as the chair of ACM SIGDA.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Electrical and Computer Engineering
+  * Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** 405 Wilkison Building, 534 Research Dr., Durham, NC
+    27705
+  * **Office Phone:** (919) 660-1372
+  * **Email Address:** yiran.chen@duke.edu
+  * **Websites:**
+    * Duke Center of Computational Evolutionary Intelligence (CEI)
+    * Google Scholar Page
+    * NSF AI Institute for Edge Computing Leveraging Next Generation Networks (Athena)
+    * NSF IUCRC for Alternative Sustainable and Intelligent Computing (ASIC) 
+
+## Education
+
+  * Ph.D. Purdue University, 2005
+
+## Research Interests
+
+Emerging memory and storage technologies
+
+Embedded systems, CPS, edge computing, and mobile applications
+
+Neuromorphic computing, deep learning and system security
+
+Low power circuit and system
+
+## Awards, Honors, and Distinctions
+
+  * Edward J. McCluskey Technical Achievement Award. Institute of Electrical
+    and Electronics Engineers (IEEE). 2022
+  * ACM Fellow. ACM. 2020
+  * IEEE Fellow. IEEE. 2018
+
+## Courses Taught
+
+  * COMPSCI 393: Research Independent Study
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+
+## In the News
+
+  * Three Duke Faculty Elected AAAS Fellows (Jan 31, 2023 | Duke Today)
+  * NSF Launches Artificial Intelligence Research Center at Duke (Jul 29,
+    2021)
+  * Yiran Chen: Integrating Tomorrows Technology into Todays Devices (Jan 3,
+    2017)
+
+## Representative Publications
+
+  * Hanson, E; Li, S; Qian, X; Li, HH; Chen, Y, _DyNNamic: Dynamically
+    Reshaping, High Data-Reuse Accelerator for Compact DNNs_ , Ieee
+    Transactions on Computers, vol 72 no. 3 (2023), pp. 880-892
+    [10.1109/TC.2022.3184272] [abs].
+  * Chang, CC; Pan, J; Xie, Z; Hu, J; Chen, Y, _Rethink before Releasing Your
+    Model: ML Model Extraction Attack in EDA_ , Proceedings of the Asia and
+    South Pacific Design Automation Conference, Asp Dac (2023), pp. 252-257
+    [10.1145/3566097.3567896] [abs].
+  * Yang, X; Li, S; Zheng, Q; Chen, Y, _Improving the Robustness and
+    Efficiency of PIM-Based Architecture by SW/HW Co-Design_ , Proceedings of
+    the Asia and South Pacific Design Automation Conference, Asp Dac (2023),
+    pp. 618-623 [10.1145/3566097.3568358] [abs].
+  * Chang, CC; Pan, J; Xie, Z; Li, Y; Lin, Y; Hu, J; Chen, Y, _Fully Automated
+    Machine Learning Model Development for Analog Placement Quality
+    Prediction_ , Proceedings of the Asia and South Pacific Design Automation
+    Conference, Asp Dac (2023), pp. 58-63 [10.1145/3566097.3567881] [abs].
+  * Wu, C; Yang, X; Chen, Y; Li, M, _Photonic Bayesian Neural Network Using
+    Programmed Optical Noises_ , Ieee Journal of Selected Topics in Quantum
+    Electronics, vol 29 no. 2 (2023) [10.1109/JSTQE.2022.3217819] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

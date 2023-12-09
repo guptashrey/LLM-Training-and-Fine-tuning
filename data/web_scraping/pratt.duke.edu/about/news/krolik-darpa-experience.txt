@@ -1,0 +1,237 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# World Records, Drone Surveillance Systems and Falling Upwards
+
+December 17, 2019
+
+After spending nearly five years as Duke’s first Defense Advanced Research
+Projects Agency (DARPA) program manager, Jeffrey Krolik, professor of
+electrical and computer engineering, talks about the position, the projects he
+managed and what he took away from the experience
+
+## How did you become a DARPA project manager?
+
+I’ve been engaged in DARPA projects throughout my career—most of them focused
+on sonar and radar signal processing—and so people who knew me there asked me
+about coming to DARPA to be a program manager. At this stage in my career, I
+thought it would be a way to have a greater impact on solutions to some
+important national defense challenges, so I expressed interest and I was
+selected. The Dean and the ECE Chair at the time agreed that it would be very
+worthwhile public service, so I was granted a government service leave from
+Duke to take the position.
+
+I moved to Washington DC because my job involved constant interaction with
+industrial, government and military officials, often in secure facilities.
+
+## What exactly does it mean to be a DARPA program manager?
+
+DARPA program managers are selected because they often bring new ideas to
+solve difficult defense-related problems. Almost everyone at DARPA is there
+for a limited term, typically three to five years, so in order to see results
+while you’re there, you feel pushed to have projects progress as fast as
+possible. Program managers develop ideas for projects with the help of experts
+all over the country and present them to the Director for approval.
+
+One of the best things about being at DARPA is that virtually everyone you
+reach out to wants to help you develop ideas for projects. Once the project is
+approved, a solicitation is published and proposals from teams are evaluated
+based on formal selection criteria, often with an emphasis on the novelty of
+their solution. In the Strategic Technology Office of DARPA, where I was
+employed, the focus is on the development of large systems beyond fundamental
+research.
+
+Because everyone at DARPA is there for a limited time, quite often the
+execution of a project extends beyond the tenure of the original program
+manager, so the management transitions to someone new. During my time at
+DARPA, I started four programs and took over two programs started by others.
+At one point, I was managing four projects at once, which was incredibly
+intense, especially since most involved field experiments executed by
+different teams.
+
+## What was the most interesting project you worked on?
+
+One of the most interesting projects I initiated involved putting up a series
+of nanosatellites to improve the performance of over-the-horizon radar.
+Nanosatellites typically weigh less than 25 pounds and are measured in size by
+the number of four-inch “cubes” they occupy. Our so-called “CubeSats” were the
+first of their kind for this application and posed many unexpected challenges
+with respect to spacecraft attitude control. I attended the launch of our
+first spacecraft on a Minotaur rocket from Cape Canaveral which was very
+exciting. Watching a rocket launch is a lot more fun knowing that your payload
+is going into orbit!
+
+I also started a drone surveillance program whose aim is to detect and track
+small drones in urban environments. The program involves a fusion of multiple
+sensors. The project is aimed at drone surveillance for troops operating
+outside the US, but there has also been a lot of interest for using these
+systems for drone surveillance in the US.
+
+## What would you say was the most successful program you pursued?
+
+Probably the most successful program I managed was one that I finished but
+didn’t start. Its goal was to achieve wireless data transfer from an aircraft
+to a ground station at fiber-optic data rates, which are speeds of at least
+10s of gigabits per second. Compared to the fastest commercial mobile wireless
+data rates of less than 100 megabits per second, that’s insanely fast. We
+easily broke the previous world record by demonstrating data transfers at more
+than 40 gigabits per second at distances greater than 30 km using large
+bandwidths at millimeter-wave frequencies, many bits per symbol, and multiple-
+input-multiple-output (MIMO) antennas and waveforms.
+
+## How about the most headache-inducing program?
+
+The most unusual program I managed had a goal to provide the US Navy with the
+ability to pre-position assets underwater. For the assets to survive until
+needed, the idea was to store them at the bottom of the ocean in pressure
+vessels. When needed, a command would be sent to release the pressure vessel,
+which would then float to the surface and deploy its payload.
+
+Besides there being all kinds of issues with how to ensure the vessels could
+withstand the intense pressure at depths of over 4,000 meters and the
+challenges of communicating with it, we attracted some crazy media coverage.
+The program also appeared to inspire an NCIS television series episode about
+“pre-positioned assets or PPA’s.” The TV script was a murder mystery involving
+deeply submerged Navy pressure vessels supposedly used to store illegal drugs!
+The fictional program was much more sensational than the real program.
+
+## What were your biggest takeaways from your time at DARPA?
+
+I learned that there are a lot of very dedicated and talented people in the
+defense department and the military. Overall, I was very impressed by the
+professionalism of the people who choose to serve their country in this way.
+
+I also learned to appreciate the importance of teams and what it takes to be
+both a good team leader and team member. As a program manager, I was
+responsible for program leadership and was also held accountable as a
+government team member. Developing complex new systems is hard. I found that
+just getting a lot of smart people together isn’t enough. They all must be
+able to work effectively together, which requires leadership and
+accountability.
+
+## What are your research plans now that you’re back at Duke, and did your
+time at DARPA influence them at all?
+
+I’m hoping to branch out beyond traditional military applications of radar and
+sonar. In the last few years, new commercial millimeter-wave radar and
+acoustic sensor arrays have opened up a whole host of new sensing
+possibilities for signal processing research. Right now, we’re looking at
+everything from radar signal processing for human health assessment to sensor
+array processing for coherently combining a set of widely distributed
+microphones, e.g. in smart speakers, to improve speech processing in noisy
+environments. In addition, I look forward to initiating new collaborations and
+starting new projects with some of the great faculty we have at Pratt.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

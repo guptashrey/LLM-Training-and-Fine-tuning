@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Light and Sound Gauge the Temperature of Deep Tissues
+
+February 13, 2019 | By Michaela Kane
+
+Non-invasive imaging technique could greatly enhance cancer therapies
+
+Measuring a fever is usually pretty simple: place a thermometer under a
+patient’s tongue and get an accurate temperature reading within 30 seconds.
+But that simplicity does not translate when it comes to measuring the
+temperatures of specific tissues deep inside the body.
+
+Biomedical engineers at Duke University have demonstrated how photoacoustic
+imaging can take the temperature of deep tissue more quickly and accurately
+than current techniques. This discovery is expected to play an important role
+in advancing thermal-based therapies to treat cancer. The research appears
+February 12 in the journal Optica.
+
+Tracking the temperature of internal tissues is essential for many biomedical
+studies and thermal therapies of cancers, often affecting a treatment’s
+efficiency or side effects.
+
+“If we use MRI or ultrasound, we’re looking at relative temperature and
+operating under the assumption that the patient has a baseline temperature of
+98 degrees Fahrenheit, which isn’t always the case,” said Junjie Yao,
+assistant professor of biomedical engineering at Duke. “We found a way to
+measure absolute temperature by using photoacoustic imaging to probe the
+thermal memory of the tissue.”
+
+As the name implies, photoacoustic imaging allows researchers to combine the
+properties of light and sound. This technique allows researchers to convert
+light beamed through tissue into ultrasound waves that can then be analyzed to
+create high-resolution images.
+
+"It's basically compressing one second's worth of summer-noon sunlight over a
+fingernail area in a single nanosecond," said Yao, who has been working with
+the technology for nearly a decade. "When the laser hits a cell, the energy
+causes it to heat up a tiny bit and expand instantaneously, creating an
+ultrasonic wave. It's analogous to striking a bell to cause it to ring."
+
+According to Yao, researchers have wanted to use photoacoustic imaging to
+measure temperature for a long time, but they’ve consistently experienced
+technical roadblocks.
+
+“The conversion efficiency between light and sound is temperature-dependent,
+so we know it’s possible to measure temperature by listening to soundwaves
+generated by light,” Yao said. “However, we haven’t previously been able to
+measure absolute temperature because the process itself needs to know how many
+photons are reaching the tissue, which is technically challenging.”
+
+To get around this missing information, Yao is working with Pei Zhong, a
+professor in the department of mechanical engineering and materials science
+who has generated deep tissue heating using high intensity focused ultrasound
+(HIFU). Their team devised a new approach named thermal-energy-memory-based
+photoacoustic thermometry, or TEMPT, which uses photoacoustic imaging to
+measure the tissue’s “thermal memory.”
+
+With TEMPT, researchers take a baseline temperature reading before bombarding
+the tissue with a burst of nanosecond-long laser pulses. The pulses
+temporarily increase the tissue’s temperature, which is then measured using
+another photoacoustic pulse.
+
+The research team was able to use these measurements and a mathematical model
+to estimate the absolute temperature without knowing how many photons were
+delivered.
+
+The ability to more precisely measure the temperature of tissues deep in the
+body has important implications for treating cancer with thermal ablation,
+which involves heating up tumor cells using HIFU or radio waves until they
+die. Although thermotherapy is a newcomer in the battle of fighting cancers,
+researchers are very enthusiastic about this treatment because it doesn’t
+cause the serious side-effects associated with radiotherapy and chemotherapy.
+
+“One of the challenges with thermotherapy is that we need to keep the
+temperature in the most efficient range,” Yao said. “If the temperature is too
+high, we can damage the surrounding tissues, and if it’s too low, we’re not
+causing enough damage to the tumor. The TEMPT technology could be incorporated
+into the treatments to hone in on the perfect temperature.”
+
+Yao said researchers are eager to explore the most precise temperature range
+for efficiently killing tumor cells. Beyond the therapeutic potential, Yao and
+his collaborators are also examining how their work can be applied to other
+fundamental research questions.
+
+“We’re already forming new collaborations, both with physicians and engineers,
+to continue to advance this new technology in the lab and beyond,” Yao said.
+“This is very exciting because it can potentially be translated to clinical
+impacts and benefit cancer patients ”
+
+This research was supported by the Duke MEDx Basic Science Pilot Grant, Duke
+Center for Genomic and Computational Biology Faculty Pilot Research Grant, the
+American Heart Association Collaborative Sciences Award (18CSA34080277);
+National Key R&D Program of China (2016YFC0102200); National Natural Science
+Foundation of China (NSFC) (81471665 and 81561168023) and National Institutes
+of Health (R37-DK052985-21).
+
+CITATION: “Thermal Memory Based Photoacoustic Imaging of Temperature,” Yuan
+Zhou, Mucong Li, Wei Liu, Georgy Sankin, Jianwen Luo, Pei Zhong, and Junjie
+Yao. Optica, February 12, 2019.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

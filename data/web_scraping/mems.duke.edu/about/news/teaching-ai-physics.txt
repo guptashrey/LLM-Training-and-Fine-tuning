@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Teaching Physics to AI Makes the Student a Master
+
+May 17, 2022 | By Ken Kingery
+
+Incorporating known physics into neural network algorithms allows them to
+discover new insights into material properties
+
+Researchers at Duke University have demonstrated that incorporating known
+physics into machine learning algorithms can help the inscrutable black boxes
+attain new levels of transparency and insight into material properties.
+
+In one of the first projects of its kind, researchers constructed a modern
+machine learning algorithm to determine the properties of a class of
+engineered materials known as metamaterials and to predict how they interact
+with electromagnetic fields.
+
+Because it first had to consider the metamaterial’s known physical
+constraints, the program was essentially forced to show its work. Not only did
+the approach allow the algorithm to accurately predict the metamaterial’s
+properties, it did so more efficiently than previous methods while providing
+new insights.
+
+The results appear online the week of May 9 in the journal Advanced Optical
+Materials.
+
+“By incorporating known physics directly into the machine learning, the
+algorithm can find solutions with less training data and in less time,” said
+Willie Padilla, professor of electrical and computer engineering at Duke.
+“While this study was mainly a demonstration showing that the approach could
+recreate known solutions, it also revealed some insights into the inner
+workings of non-metallic metamaterials that nobody knew before.”
+
+Metamaterials are synthetic materials composed of many individual engineered
+features, which together produce properties not found in nature through their
+structure rather than their chemistry. In this case, the metamaterial consists
+of a large grid of silicon cylinders that resemble a Lego baseplate.
+
+Depending on the size and spacing of the cylinders, the metamaterial interacts
+with electromagnetic waves in various ways, such as absorbing, emitting or
+deflecting specific wavelengths. In the new paper, the researchers sought to
+build a type of machine learning model called a neural network to discover how
+a range of heights and widths of a single cylinder affects these interactions.
+But they also wanted its answers to make sense.
+
+> “Neural networks try to find patterns in the data, but sometimes the
+> patterns they find don’t obey the laws of physics, making the model it
+> creates unreliable. By forcing the neural network to obey the laws of
+> physics, we prevented it from finding relationships that may fit the data
+> but aren’t actually true.”
+>
+> jordan malof
+
+“Neural networks try to find patterns in the data, but sometimes the patterns
+they find don’t obey the laws of physics, making the model it creates
+unreliable,” said Jordan Malof, assistant research professor of electrical and
+computer engineering at Duke. “By forcing the neural network to obey the laws
+of physics, we prevented it from finding relationships that may fit the data
+but aren’t actually true.”
+
+The physics that the research team imposed upon the neural network is called a
+Lorentz model — a set of equations that describe how the intrinsic properties
+of a material resonates with an electromagnetic field. Rather than jumping
+straight to predicting a cylinder’s response, the model had to learn to
+predict the Lorentz parameters that it then used to calculate the cylinder’s
+response.
+
+Incorporating that extra step, however, is much easier said than done.
+
+“When you make a neural network more interpretable, which is in some sense
+what we’ve done here, it can be more challenging to fine tune,” said Omar
+Khatib, a postdoctoral researcher working in Padilla’s laboratory. “We
+definitely had a difficult time optimizing the training to learn the
+patterns.”
+
+Once the model was working, however, it proved to be more efficient than
+previous neural networks the group had created for the same tasks. In
+particular, the group found this approach can dramatically reduce the number
+of parameters needed for the model to determine the metamaterial properties.
+
+They also found that this physics-based approach is capable of making
+discoveries all on its own.
+
+As an electromagnetic wave travels through an object, it doesn’t necessarily
+interact with it in exactly the same way at the beginning of its journey as it
+does at its end. This phenomenon is known as spatial dispersion. Because the
+researchers had to tweak the spatial dispersion parameters to get the model to
+work accurately, they discovered insights into the physics of the process that
+they hadn’t previously known.
+
+“Now that we’ve demonstrated that this can be done, we want to apply this
+approach to systems where the physics is unknown,” Padilla said.
+
+“Lots of people are using neural networks to predict material properties, but
+getting enough training data from simulations is a giant pain,” Malof added.
+“This work also shows a path toward creating models that don’t need as much
+data, which is useful across the board.”
+
+This work was supported by the Department of Energy (DESC0014372).
+
+CITATION: “Learning the Physics of All-Dielectric Metamaterials With Deep
+Lorentz Neural Networks.” Omar Khatib, Simiao Ren, Jordan Malof, Willie J.
+Padilla. Advanced Optical Materials, 13 May 2022. DOI: 10.1002/adom.202200097
+
+https://onlinelibrary.wiley.com/doi/10.1002/adom.202200097?af=R
+
+## Related News
+
+July 27, 2021
+
+### Setting Boundaries Helps Machine Learning Find One-in-a-Trillion Solutions
+
+September 25, 2019
+
+### Machine Learning Finds New Metamaterial Designs for Energy Harvesting
+
+May 01, 2018
+
+### Dielectric Metamaterial is Dynamically Tuned by Light
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

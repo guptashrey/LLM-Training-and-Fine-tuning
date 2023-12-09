@@ -1,0 +1,408 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Hurricane Season
+
+September 28, 2022
+
+Hurricane season is here. Here’s what you should know about flooding,
+floodwater contaminants, and those baffling spaghetti models
+
+**Are hurricanes going to get worse?**
+
+Most projections say that our climate is on a trajectory that will continue to
+grow wetter and warmer. According to scientists at the National Center for
+Atmospheric Research, that suggests that future hurricanes could dump even
+more rain where they hit.
+
+How can vulnerable areas prepare? How well can we estimate where flooding will
+occur the next time around? And why can't we make better predictions about
+where hurricanes will hit?
+
+Experts in Duke University’s Civil and Environmental Engineering department
+answer some of these critical questions.
+
+Andrew Bragg: Predicting Hurricanes
+
+Nathaniel Chaney: Inland Flooding
+
+Heileen Hsu-Kim: Toxic Contaminants
+
+* * *
+
+## Q&A: Why Hurricanes are So Unpredictable
+
+Andrew Bragg, Assistant Professor of Civil and Environmental Engineering
+
+### In this day and age, why can’t we accurately predict where a hurricane
+will make landfall, or how strong it will be?
+
+There are basically two answers to this: the first is associated with our
+imperfect knowledge of the initial hurricane conditions, and the second is our
+imperfect hurricane models.
+
+When you try to predict a hurricane, one of the things you need to know is the
+initial conditions of the system. You take those initial conditions and run
+them with the model, and then try to predict the future state of the
+hurricane.
+
+In predicting the path of a hurricane, you need to know information about,
+say, the initial humidity, temperature, wind speed and so on—and you can never
+know those perfectly, because measurements that come from instrumentation
+always have some kind of uncertainty associated with them.
+
+Now—if you’re trying to make predictions for a simple system, this is really
+not an issue, because a small error in your initial conditions will just lead
+to a small error in the final prediction. Think about firing a cannonball, for
+example. If you make a tiny miscalculation in the angle of the cannon, that
+will lead to a very small error in predicting where the cannonball will land,
+and so the small error in the initial condition is not very consequential.
+
+However, weather systems like hurricanes are not at all like that, because
+they are chaotic. For a chaotic system, tiny errors in the initial conditions
+are amplified with time, so that your prediction for the long-term behavior of
+the system can be in enormous error, despite the fact that errors in your
+initial conditions were miniscule.
+
+Since we can never know exactly what the initial conditions are for
+hurricanes, then even in principle it's impossible to perfectly predict the
+behavior of hurricanes, including their path and strength.
+
+The second thing that makes hurricanes so difficult to predict is that they
+are incredibly complex and therefore very difficult to model. Hurricane models
+are very imperfect since they do not fully capture all of the complex physics
+associated with this kind of weather system. So even if we did know the
+initial conditions perfectly—which we don't—we still would not be able to
+perfectly predict hurricanes, because of imperfections in the models we have.
+
+### With every hurricane, forecasters show “spaghetti models” that show a
+number of projected paths. How are we supposed to interpret all of these
+possible outcomes?
+
+Let's suppose you represent the initial state or condition of the weather
+system not with a single point, but with a region—the region representing the
+fact that you don't know exactly what the initial conditions are. Then you run
+a model with different initial conditions drawn from this region of
+uncertainty. Each time you run the model you'll get a slightly different
+prediction, because you've used a different initial condition—different
+initial temperature, humidity, or wind speed. You run the model many times
+using the different initial conditions, and that creates an ensemble of
+predictions. These predictions allow you to say, "I don't know _exactly_ where
+the hurricane is going to make landfall, but I can say statistically, within a
+certain amount of _probability,_ where it's going to land and what category
+it's going to be when it makes landfall."
+
+You could also make an ensemble using a single set of initial conditions, but
+using a multiplicity of weather models.
+
+The key point is that hurricanes are so complex that we can never make
+perfect, precise predictions, but using these ensemble predictions we can make
+meaningful and important probabilistic predictions.
+
+### Can the models be engineered to improve accuracy?
+
+Yes, one of the ways models can be engineered to improve accuracy is to
+improve the representation of the so-called "unresolved physics."
+
+Numerical weather models are solved on a computational grid, and you’d like
+the grid resolution to be as small as possible to resolve all of the relevant
+physics. But the problem is that the finer the grid, the more grid points you
+have, and then the more grid points you have, the longer it takes to run the
+model on a computer.
+
+A typical weather model will be solved on a grid whose resolution is several
+kilometers, which is a million times larger than the scale at which some of
+the key hurricane processes take place. For example, one of the things that
+drives the behavior of hurricanes is the condensation of water vapor, and
+that's a process that takes place on a scale of micrometers and is affected by
+really complex phenomena such as small-scale air turbulence.
+
+The small-scale processes that are not resolved in the simulation therefore
+have to be parameterized, and the parametrizations are, quite frankly, often
+very crude.
+
+The more powerful the computer, the smaller the grid resolution you can use,
+and therefore the less reliant you are on these parameterizations. So, the
+development of computational resources is one of the things that will improve
+the degree to which hurricanes can be accurately modeled.
+
+However, it's going to be a long time before computers are powerful enough for
+us to be able to resolve all of the physical processes governing hurricanes.
+As a result, improving the parametrizations in the models is crucial. A key
+point here is that in order to model something faithfully, you really have to
+first understand it, and the fact is that many of the key processes that
+happen on the small scales aren’t understood very well at all. For example,
+the air in the atmosphere is very turbulent at the small scales, and that can
+cause large fluctuations in the temperature of the air, which affects the rate
+at which these condensational processes take place. But that process is not
+very well understood, and the current model parametrizations used for it
+therefore may be very imprecise—we just don't know. This is one of the areas
+that my lab focuses on: understanding and modeling turbulent flows.
+
+So, another way we can develop better improve the models is by understanding
+these fundamental, small-scale processes better, and that will then allow us
+to parameterize them more faithfully. And then the goal is that we can use
+these improved parameters in large-scale weather forecasting, with the end
+goal that we improve the predictions from the models.
+
+**Andrew Bragg** is an assistant professor of civil & environmental
+engineering at Duke and runs the Duke Theoretical and Computational Fluid
+Dynamics Group, which works to better understand and model the motion of
+turbulent fluids in the environment.
+
+* * *
+
+## Q&A: Why We Flood Inland, Too
+
+Nathaniel Chaney, Assistant Professor of Civil and Environmental Engineering
+
+### It seemed that every time it rained in Durham in the fall of 2018, long
+after the hurricanes had passed, there was another flash flood warning. Why?
+
+Overall, (2018) was very wet in Durham. What made matters worse was that
+Hurricane Florence thoroughly soaked the soils, setting the stage for what
+seemed to be the incessant storms that followed. Here in North Carolina,
+especially in the Piedmont, our soils are mostly clay, and water infiltrates
+at a much slower rate through clay than through sand. Basically, the soil
+doesn’t soak up water as well. The water runs into streams, the streams
+overflow their banks and rush into the floodplains, thus enhancing the flood
+risk. Add onto that the ever-increasing urbanization in the Triangle and the
+region’s high clay content soils and you had all the ingredients for the
+persistent flood risks that we faced.
+
+### Are urban areas more or less likely to flood?
+
+In general, urbanization will increase the chances of flooding since paved
+areas are not nearly as effective at absorbing rainwater as soils are. As a
+result, it is much easier for the falling rain to make it into the stormwater
+drainage system and streams in a shorter time period, thus enhancing the flood
+risk. That being said, this is one of the reasons why flood control
+infrastructure such as retention ponds is built—since it helps slow down the
+release of rainwater into the streams and thus decreases flood risk. For
+example, in my own home, we have a rain garden that helps temporarily hold the
+water that runs off from our driveway, roof, and lawn into the local stream.
+
+### Is there a way to predict how badly different areas will flood?
+
+Scientists use computer models to predict flooding, but the models rely on
+detailed maps that describe the types of soils in a given region, where the
+streams run, and where paved areas lie. Knowing that information is necessary
+for computer models to be able to take the predicted rainfall from weather
+models to help determine where flooding might occur. One of the areas of my
+research focuses on compiling all the different types of environmental data,
+such as soil, vegetation, and elevation—information that can be used for these
+computer models. And then I use machine learning algorithms and available
+satellite information to merge all these different data sources to provide the
+best possible spatial maps that describe the land characteristics—for example,
+the clay content in the soils. These data are necessary to predict where and
+when it is going to flood.
+
+**Nathaniel Chaney** is an assistant professor of civil and environmental
+engineering at Duke University. His research group uses numerical modeling,
+satellite remote sensing, machine learning, and high-performance computing to
+better understand the terrestrial water cycle.
+
+* * *
+
+## Q&A: Why Floodwaters Pose Unseen Risks
+
+Heileen Hsu-Kim, Professor of Civil and Environmental Engineering
+
+### After significant flooding from hurricanes, we’ve seen soil and water in
+affected areas become contaminated with toxic materials. How exactly does
+flooding cause contamination?
+
+The soil at active or closed industrial sites can be contaminated with toxic
+metals or organic compounds that don’t degrade. When there’s a flooding event,
+like a hurricane, the water can pick up the contaminated soil and move it to
+other places, and then the contaminants leach out. Basically, flooding
+distributes pollution. It brings contaminants out of isolation, to places
+where they could be a danger to people and animals. Those contaminants can
+travel as far as the soil particles travel—so, as far as the floodwater goes.
+
+When Hurricane Harvey came through Texas we saw this happen. There are a lot
+of petrochemical industries in that area of the country, and some closed sites
+are contaminated with chemicals, like hydrocarbons and other kinds of
+solvents, and metals, like chromium, mercury, or lead, that could be hazardous
+to people.
+
+### Doesn’t boiling water make it safe to drink?
+
+Boiling water can kill microbes and pathogens, but it can’t get rid of
+chemical contaminants, or make them less hazardous.
+
+### Won’t the floodwaters wash away the contaminants as they recede?
+
+With a flooding event, everything is diluted. With the flooding that occurred
+with Florence last year, the water overtopped a coal ash dam and mixed coal
+ash into the surrounding environs. From what I remember of seeing some of the
+measurements taken, the contaminants associated with coal ash—let’s take
+arsenic, for example—was very really low in concentration because it was
+diluted by water. The problem is that the flooding brought all this coal ash
+out of the storage basin and into the environment, and we don’t know how much
+ash is now in an uncontrolled place, re-depositing and re-concentrating in
+other locations.
+
+Over the long term, that is a problem because when the floodwaters recede, the
+volume of water goes away but the mass of the contaminant is still there. It
+becomes more concentrated.
+
+In my lab, we have done a lot of work looking at coal ash storage ponds and
+release of contaminants, focusing on what chemical forms they take. For
+example, we ask what form of arsenic is in coal ash? The answer really matters
+because how much of the contaminant leaches off depends on the chemical form
+the arsenic takes. Some forms are more toxic than others.
+
+### What effects could these contaminants have?
+
+The chemical exposure risks are not limited to people. They also create risks
+to wildlife. For example, coal ash contains a lot of selenium, and selenium is
+an ecotoxin. It isn’t as much of a problem for us, as humans, but it’s a
+teratogen for fish, meaning it causes embryos to be malformed. Selenium from
+coal ash ponds can affect fish populations in neighboring bodies of water—this
+has been known for decades. And when you disrupt a major component of the food
+web, you cause a lot of damage to the ecosystem. It takes a while for that
+ecosystem to recover.
+
+**Heileen Hsu-Kim** is an environmental engineer who specializes in
+environmental aquatic chemistry and geochemistry. She is an expert on
+pollutant metals and the biogeochemical processes that alter their
+distribution in water, soil and air. She has performed extensive research on
+coal ash, studying its environmental impacts and developing techniques for
+rare earth metals extraction.
+
+Hydrology & Fluid Dynamics at Duke
+
+> "When there’s a flooding event, like a hurricane, the water can pick up the
+> contaminated soil and move it to other places, and then the contaminants
+> leach out. Basically, flooding distributes pollution."
+>
+> Heileen Hsu-KIm, Associate Professor of Civil and Environmental Engineering
+
+## Related News
+
+October 28, 2021
+
+### Including Small, Sharp Landscape Contrasts Refines Weather Forecasts
+
+February 04, 2021
+
+### Re-Engineering the Consumer Product Life Cycle
+
+December 16, 2019
+
+### Understanding How Energy Travels Through Turbulence
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Smuggling Light Through Opaque Materials
+
+October 5, 2021 | By Ken Kingery
+
+Newly proven physics opens chalcogenide glasses to applications at visible and
+ultraviolet wavelengths
+
+Electrical engineers at Duke University have discovered that changing the
+physical shape of a class of materials commonly used in electronics and near-
+and mid-infrared photonics—chalcogenide glasses—can extend their use into the
+visible and ultraviolet parts of the electromagnetic spectrum. Already
+commercially used in detectors, lenses and optical fibers, chalcogenide
+glasses may now find a home in applications such as underwater communications,
+environmental monitoring and biological imaging.
+
+The results appear online on October 5 in the journal Nature Communications.
+
+As the name implies, chalcogenide glasses contain one or more
+chalcogens—chemical elements such as sulfur, selenium and tellurium. But
+there’s one member of the family they leave out: oxygen. Their material
+properties make them a strong choice for advanced electronic applications such
+as optical switching, ultra-small direct laser writing (think tiny rewritable
+CDs) and molecular fingerprinting. But because they strongly absorb
+wavelengths of light in the visible and ultraviolet parts of electromagnetic
+spectrum, chalcogenide glasses have long been constrained to the near- and
+mid-infrared with respect to their applications in photonics.
+
+“Chalcogenides have been used in the near- and mid-IR for a long time, but
+they’ve always had this fundamental limitation of being lossy at visible and
+UV wavelengths,” said Natalia Litchinitser, professor of electrical and
+computer engineering at Duke. “But recent research into how nanostructures
+affect the way these materials respond to light indicated that there might be
+a way around these limitations.”
+
+In recent theoretical research into the properties of gallium arsenide (GaAs),
+a semiconductor commonly used in electronics, Litchinitser’ s collaborators,
+Michael Scalora of the US Army CCDC Aviation and Missile Center and Maria
+Vincenti of the University of Brescia predicted that nanostructured GaAs might
+respond to light differently than its bulk or even thin-film counterparts.
+Because of the way that high-intensity optical pulses interact with the
+nanostructured material, very thin wires of the material lined up next to one
+another might create higher-order harmonic frequencies (shorter wavelengths)
+that could travel through them.
+
+> “We found that illuminating a metasurface made of judiciously designed
+> nanowires with near-infrared light resulted in generation and transmission
+> of both the original frequency and its third harmonic, which was very
+> unexpected because the third harmonic falls into the range where the
+> material should be absorbing it."
+>
+> Natalia litchinitser
+
+Imagine a guitar string that is tuned to resonate at 256 Hertz—otherwise known
+as middle C. The researchers were proposing that if fabricated just right,
+this string when plucked might also vibrate at frequencies one or two octaves
+higher in small amounts.
+
+Litchinitser and her PhD student Jiannan Gao decided to see if the same might
+be true for chalcogenide glasses. To test the theory, colleagues at the Naval
+Research Laboratory deposited a 300-nanometer-thin film of arsenic trisulfide
+onto a glass substrate that was next nanostructured using electron beam
+lithography and reactive ion etching to produce arsenic trisulfide nanowires
+of 430 nanometers wide and 625 nanometers apart.
+
+Even though arsenic trisulfide completely absorbs light above 600 THz—roughly
+the color of cyan—the researchers discovered their nanowires were transmitting
+tiny signals at 846 THz, which is squarely in the ultraviolet spectrum.
+
+“We found that illuminating a metasurface made of judiciously designed
+nanowires with near-infrared light resulted in generation and transmission of
+both the original frequency and its third harmonic, which was very unexpected
+because the third harmonic falls into the range where the material should be
+absorbing it,” Litchinitser said.
+
+This counterintuitive result is due to the effect of nonlinear third-harmonic
+generation and its “phase locking” with the original frequency. “The initial
+pulse traps the third harmonic and sort of tricks the material into letting
+them both pass through without any absorption,” Litchinitser said.
+
+Moving forward, Litchinitser and her colleagues are working to see if they can
+engineer different shapes of chalcogenides that can carry these harmonic
+signals even better than the initial nanostrips. For example, they believe
+that pairs of long, thin, Lego-like blocks spaced certain distances apart
+might create a stronger signal at both third and second harmonic frequencies.
+They also predict that stacking multiple layers of these metasurfaces on top
+of one another might enhance the effect.
+
+If successful, the approach could unlock a wide range of visible and
+ultraviolet applications for popular electronic material and mid-infrared
+photonic materials that have long been shut out of these higher frequencies.
+
+This work was supported by Office of Naval Research (N00014-19-1-2163,
+N00014-20-1-2558), the Army Research Laboratory Cooperative Agreement
+(W911NF-20-2-0078), and the National Science Foundation (ECCS-1846766,
+OMA-1936276).
+
+“Near-Infrared to Ultra-Violet Frequency Conversion in Chalcogenide
+Metasurfaces.” Jiannan Gao, Maria Antonietta Vincenti, Jesse Frantz, Anthony
+Clabeau, Xingdu Qiao, Liang Feng, Michael Scalora, Natalia M. Litchinitser.
+Nature Communications, 2021. DOI: 10.1038/s41467-021-26094-1
+
+## Related News
+
+May 18, 2020
+
+### ‘Vortex Microlaser’ Encodes Information in Twisting Beams of Light
+
+May 08, 2020
+
+### Litchinitser, Collaborators Win Aspen Institute Italia Award 2020
+
+November 19, 2018
+
+### Bending Light Around Tight Corners Without Backscattering Losses
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

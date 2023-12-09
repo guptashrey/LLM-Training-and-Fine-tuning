@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Making Smart Meters Smarter
+
+September 21, 2016 | By Ken Kingery
+
+Duke engineers seek energy insights by reading a building's electrical
+signatures
+
+Each of the appliances in your home has its own personality. Not that your
+coffeemaker and refrigerator are dancing the night away à la Beauty and the
+Beast, but they do each have their own energy signature.
+
+Your coffeemaker likes to turn on around 7 a.m. every day and use 600 watts of
+energy for precisely five minutes. Your refrigerator, however, is active all
+day long, drawing 250 watts for tens of minutes at a time at regular
+intervals.
+
+With enough insight, it’s possible to determine which electronics most of the
+energy in a home is feeding by these sorts of patterns. There are already
+several commercial devices available for household use that attempt to do just
+this, theoretically providing more control over energy usage and helping to
+save money.
+
+But these industry pioneers leave plenty to be desired. They struggle with
+recognizing different appliances below a certain power consumption level.
+Their installation is complicated and their insights are limited. They can’t
+be used in larger industrial or professional buildings.
+
+That’s where engineers at Duke University are entering the playing field.
+
+“With the rise of smart meters that have the potential to include apps, we’ve
+started exploring methods for real-time energy disaggregation that could be
+deployed instantly into millions of smart meters around the country,” said
+Kyle Bradbury, managing director of the Energy Data Analytics Lab at Duke, who
+co-leads the project with Leslie Collins, professor of electrical and computer
+engineering at Duke.
+
+Smart meters are digital replacements for the traditional analog energy meters
+used for decades in most every building across the nation. Their benefit is
+the ability to transmit data back to the energy provider every hour. This
+gives utilities a better understanding of power demands and trends in usage,
+notifications of power outages, and real-time monitoring of power quality. It
+also allows them to charge more during peak hours.
+
+Bradbury wondered if these meters could be pushed to provide even more. If the
+software that teases out your coffeemaker from your refrigerator and
+television could be made small and efficient enough, it could be programmed
+directly onto these meters already being installed on millions of homes. And
+unlike today’s commercial products, these newer, smarter meters could provide
+the information to both consumers and utility companies.
+
+The trick is finding that line where there’s enough data to meet these goals,
+but not so much that it overloads the meters and their networks.
+
+“Right now, a smart meter typically transmits data every 60 minutes, and
+that’s too large of a sample period to be able to pick out different
+appliances being used,” said Mary Knox, a research scientist in Collins’s
+laboratory. “We’re finding we can get pretty good results at intervals of six
+seconds, but we’re trying to see what we can accomplish with different
+algorithms by pushing that out to every 30 or 60 seconds.”
+
+Many energy companies now send their customers monthly information on how
+their energy use stacks up to other households. Research shows that these
+insights help a home save roughly three percent on its energy bill. While
+that’s an improvement, the number jumps to 12 percent when customers have
+access to real-time information.
+
+“The potential for energy savings is huge, as 40 percent of the energy used in
+the United States is being consumed by buildings,” said Bradbury. “That figure
+is split evenly between residential and commercial buildings. But because most
+research is focused on residential consumers, there’s an opportunity to move
+into commercial spaces.”
+
+The challenge is that there’s much less information available about how
+industrial and professional buildings use energy. Many use large, power-hungry
+machines that don’t have a parallel in residential spaces. Others have
+hundreds of monitors, computers, lights and mini-refrigerators in use at any
+one time, making singling any one type of device out that much more
+complicated.
+
+To determine if this approach is even possible on a commercial scale, Bradbury
+and Knox are developing synthetic datasets—computer models of the thousands of
+devices that might be drawing power in a given business. By developing new
+algorithms and applying them to the synthetic data, they hope to determine the
+feasibility of disaggregating the energy usage of a commercial business.
+
+“Maybe different businesses might have one or two key pieces of equipment that
+we could pick out from the sea of offices that turn out to be crucial to
+energy savings,” said Bradbury. “It’s a challenging area that we don’t even
+know if we can help with yet. But because a single commercial building uses as
+much power as dozens of residential households, the potential is too large to
+ignore.”
+
+“This line of work is going to be crucial in the next decade as more people
+begin using smart meters, smart thermostats, electric cars, home energy
+storage systems, solar panels and devices connected to the Internet of
+Things,” said Knox. “We’re just starting to understand the value of this
+data.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

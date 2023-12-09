@@ -1,0 +1,176 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Henry Pfister: Inferring Answers through Graphical Models
+
+September 16, 2014 | By Ken Kingery
+
+Constructing graphical models and inferring how variables relate to one
+another can help researchers analyze large and small data sets—and test
+devices before they’re even built
+
+Henry Pfister recently joined both the electrical and computer engineering
+department in Duke’s Pratt School of Engineering as well as the
+interdisciplinary Information Initiative at Duke (iiD). An expert in
+extracting information from both mountains and molehills of data, he will
+tackle informatics challenges in realms such as personalized health care,
+compressed sensing and wireless communications.
+
+In today’s digitized world, many companies and research enterprises are
+compiling statistics at an exponential rate. In some fields, however, the
+sample size is too small to find trends and patterns in the data. In either
+case, it is Pfister’s job to create graphical models and algorithms to infer
+answers to the questions being asked of the data.
+
+“Our goal is to abstract away all the details of the problem,” said Pfister,
+who joins the Duke community from Texas A&M University. “If you can understand
+the kernel of the fundamental problem, then the implications can help you
+answer many questions based on that kernel.”
+
+Suppose, for example, doctors want to know whether or not a trial drug helps
+people live longer. A large clinical study will easily provide the general
+answer to that question, but what if you want to drill down to smaller
+categories? Looking at a subset of people with specific genetic profiles might
+yield a tiny sample size.
+
+To get around this problem, Pfister builds graphical models to explore how
+certain variables correlate to one another. By finding overlaps and inferring
+their effects on each other, researchers can develop better algorithms to
+analyze smaller sample sizes and increase their confidence in the answers.
+
+Graphical models are also used to build error-correcting codes for data
+storage applications. Building a hard drive controller microchip is expensive,
+and developers can’t test it until it’s built. Nor can they test it virtually,
+as it would take today’s fastest computers years of simulation to observe a
+single read error. But by understanding error-correcting codes based on
+graphical models, theorists can accurately approximate the system’s error rate
+and ensure that it is too low to notice during regular use.
+
+Pfister’s work can be a boon to many research projects, and Duke’s engineering
+school is teeming with prospective collaborators.
+
+“I believe that many problems being studied today are very similar across
+disciplines. Some people want to build a better cell phone while others want
+to design a better experiment, but the math problems they end up solving
+become very similar,” said Pfister. “Multidisciplinary centers, like the iiD,
+where people can find these common elements and work on them together, are
+very valuable. A big reason I came to Duke is the opportunity to work with a
+lot of exceptional researchers on these sorts of problems.
+
+“And also the spring is beautiful in North Carolina.”
+
+Meet our new 2014-2015 faculty members
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,213 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Amanda Randles: Computing Complex Biological Systems
+
+June 5, 2015
+
+Supercomputers model blood flow to improve care outcomes
+
+Amanda Randles, a pioneer in using supercomputers to gain insight into
+biomedical challenges, will join Duke University’s Biomedical Engineering
+Department on July 1, 2015. Bringing with her computer models of how blood,
+particles and cells travel through our veins and arteries, Randles will work
+with Duke Medicine physicians to identify the best ways to treat patients with
+ailments like aneurysms, cancer and coronary artery disease on a case-by-case
+basis.
+
+This line of research fuses two of Pratt’s burgeoning strengths together—the
+strong ties between engineering and Duke Medicine and the newly endowed
+Information Initiative at Duke (iiD)—and opens a new line of research that
+many are sure to follow.
+
+“The iiD is delighted to have helped the Biomedical Engineering Department
+bring Amanda to Duke, and we are looking forward to developing new
+partnerships with Pratt,” said Robert Calderbank, the Charles S. Sydnor
+Professor of Computer Science, a professor of electrical and computer
+engineering and the director of the iiD. “Her expertise in large-scale
+computing brings a new capability to the iiD community.”
+
+“Amanda will help Duke’s Biomedical Engineering Department be one of the first
+to take the plunge into high performance computational bioengineering,” echoed
+Ashutosh Chilkoti, director of Duke’s Biomedical Engineering Department. “We
+are very excited to help chart this new and exciting course for the field.”
+
+Randles’s appointment is a coming home of sorts, as she graduated from Duke
+University with dual bachelor’s degrees in computer science and physics in
+2005. While focusing on computational methods in genetics and bioinformatics,
+she wrote her undergraduate thesis on optics under the tutelage of David
+Brady, professor of electrical and computer engineering, and Bob Guenther,
+adjunct professor of physics.
+
+After three years at IBM as a developer on its Blue Gene project—the world’s
+fastest supercomputer at the time—Randles returned to school so she could
+conduct more research on the supercomputers she was helping to develop. She
+enrolled at Harvard University, where she earned a master’s degree in computer
+science and a PhD in applied physics. After moving to Lawrence Livermore
+National Laboratory to work with some of the country's largest supercomputers,
+Randles was able to fully fund her cardiovascular modeling project last year
+and found herself ready to start her own research enterprise.
+
+She chose to return to Duke among many enticing offers—and not just for the
+basketball (although she’s known to be a diehard Blue Devil).
+
+“I’ve spent the past few years focusing on the computer science required to
+develop a 3D model of the cardiovascular system, and now I want to focus on
+using my work to make a medical impact,” said Randles. “Being able to walk to
+a hospital and meeting physicians who explicitly want to work with engineers
+is exactly what I was looking for, and that’s what I found at Duke.”
+
+Randles specializes in writing code for supercomputers with thousands of
+processors that work in parallel. By splitting the computational tasks among
+them simultaneously, researchers can cut calculations that would otherwise
+take weeks down to days or even hours.
+
+The code that Randles is cultivating creates 3D models of a patient’s specific
+blood-flow dynamics. With this information in hand, doctors can noninvasively
+measure risk factors and choose the best surgical or interventional option for
+that patient. For example, the model could indicate blood vessels with areas
+of low shear stress, which is an indicator of where plaque may build up along
+the wall of an artery.
+
+The video below highlights some of the 3D models she developed while working
+on her PhD in applied physics in the research group of Efthimios Kaxiras, the
+John Hasbrouck Van Vleck Professor of Pure and Applied Physics at Harvard
+University.
+
+Randles’s work can already create the calculations needed to model a small
+segment of the cardiovascular system, and she has been using 3D-printed models
+to test her predictions. After moving to Duke, however, she wants to begin
+working with physicians to verify that her program is accurate in actual
+biological systems.
+
+“We’ve only recently gotten to the point where CT or MRI scans are detailed
+enough to even try to model blood flowing through the 3D geometry of the
+vasculature system,” said Randles. “And with supercomputers that were
+originally dedicated to physics or Department of Defense experiments now
+starting to be used by biomedical engineers, I think we’re only a few years
+away from being able to help real people.”
+
+The second prong of Randles’s work, however, will take much longer to see
+through to fruition. Once the small segments of her model have been verified,
+Randles wants to scale her work up to model the entire vascular system. From
+there, she hopes to use fluorescent metastatic cancer cells to determine what
+physical features of a person’s blood flow affect where a new tumor will start
+to grow.
+
+“Realizing that dream is at least a decade or two away, though,” said Randles.
+“The supercomputers I will need to run those calculations haven’t even been
+built yet. But they’re coming, and I’ll be ready when they arrive.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

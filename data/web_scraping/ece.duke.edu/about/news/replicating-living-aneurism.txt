@@ -1,0 +1,288 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Replicating a Living Aneurysm with 3D Printing and Computer Simulations
+
+October 21, 2020 | By Jeremy Thomas
+
+Lab team develops first-ever living 3D-printed aneurysm to improve surgical
+procedures, personalize treatments
+
+_From Lawrence Livermore National Laboratory_
+
+Brain aneurysms affect about one in every 50 Americans and can lead to serious
+medical emergencies, including stroke, brain damage and death if they burst.
+Existing treatment options are limited and often invasive, and surgical
+outcomes can vary widely from person to person.
+
+But medical practitioners may be able to improve existing treatment methods
+and develop new personalized ones, thanks to researchers at Lawrence Livermore
+National Laboratory (LLNL) and their outside collaborators. The team, which
+includes scientists at Duke University and Texas A&M, has become the first to
+produce a living, bioprinted aneurysm outside of the human body, perform a
+medical procedure on it and observe it respond and heal as it would in an
+actual human brain.
+
+As described in the journal _Biofabrication_ , an LLNL team led by engineers
+William "Rick" Hynes and Monica Moya were able to replicate an aneurysm _in
+vitro_ by 3D printing blood vessels with human cerebral cells. Hynes performed
+an endovascular repair procedure on the printed aneurysm — inserting a
+catheter into the blood vessel and tightly packing platinum coils inside the
+aneurysm sac. After the packing treatment, the researchers introduced blood
+plasma into the aneurysm and observed the formation of a blood clot where the
+coils were located, cutting it off from fluid flow. The researchers also were
+able to observe the "post-op" healing process of the endothelial cells within
+the vessels.
+
+LLNL scientists said the platform, when combined with computer modeling,
+represents a significant step to developing patient-specific care for
+aneurysms based on an individual's blood vessel geometry, blood pressure and
+other factors, and could help overcome one of biomedical engineering's biggest
+hurdles — the time it takes for new surgical techniques and technologies to
+leap from the laboratory to the clinic.
+
+"While there are a lot of promising treatment options, some still have a long
+way to go," said Moya, the project's principal investigator. "Animal models
+aren't necessarily the best way to try out these options, as they lack direct
+observation of treatment effects and have uncontrollable aneurysm geometries.
+Having this robust, human in vitro testing platform could help facilitate new
+treatments. If we can replicate aneurysms as much as we need to with these
+devices, we might help accelerate some of these products into the clinic and
+essentially provide patients with better treatment options."
+
+Caused by a weakening in the artery walls, cerebral aneurysms are
+characterized by a "ballooning" or bulging of a blood vessel in the brain and
+can be potentially fatal if they rupture. One common treatment is surgical
+"clipping" — attaching a metal clip to the base of the aneurysm to redirect
+blood flow away and keep it from bursting. The procedure is highly invasive,
+requiring surgeons to open up the skull and expose the brain. In some cases,
+such as when the aneurysm is located in inaccessible regions within the brain,
+the treatment isn't even an option.
+
+A more common and less invasive treatment is the endovascular metal coiling
+approach, where a surgeon feeds a thin metal catheter — inserted into an
+artery in the groin — up through the body and into the aneurysm, packing it
+with coils or stents and causing it to clot. The endothelium lining the blood
+vessel grows over the clotted plug, walling the aneurysm off from the rest of
+the vasculature. The downside to "coiling" is that success is highly dependent
+on a variety of factors, including the geometry of the patient's blood
+vessels, which differ from one person to the next, researchers said.
+
+To take some of the guesswork out of aneurysm treatments, Hynes, the original
+principal investigator who proposed the project, realized researchers would
+need a way to validate more predictive 3D models that take patient geometry
+into account. Bioprinting with human cells, Hynes said, allows researchers to
+create biologically relevant experimental models of aneurysm interventions
+that are identical to the computer models, in order to validate them
+accurately and easily.
+
+"We looked at the problem and thought that if we could pair computational
+modeling and experimental approaches, maybe we could come up with a more
+deterministic method of treating aneurysms or selecting treatments that could
+best serve the patient," said Hynes, who led the project for its first year.
+"Now we can start to build the framework of a personalized model that a
+surgical practitioner could use to determine the best method for treating an
+aneurysm."
+
+Hynes said LLNL is taking a "three-pronged approach," teaming with former LLNL
+scientist Duncan Maitland — who leads a biomedical engineering group at Texas
+A&M and also heads a company that develops an experimental shape memory coil
+for treating aneurysms — and Amanda Randles, a former Lab computational
+scientist and current Duke University assistant professor who developed a code
+for simulating blood flow, called HARVEY. Using the device, Lab researchers
+were able to validate Randles' flow dynamics model, verifying results that
+would be observed in the real world. At low flow rates, researchers saw little
+movement of blood into the aneurysm, whereas an increased flow rate, such as
+occurs when a person is agitated or nervous, resulted in a circular flow of
+blood throughout the aneurysm, as would be expected in a true brain aneurysm.
+
+To create the bioprinted aneurysm, Hynes and the team started by printing the
+vessel geometry with a "sacrificial" ink, surrounded by a protein-based
+hydrogel. They cooled the system to dissolve the ink, leaving the vasculature
+shape behind. Then they introduced human brain endothelial cells, which coated
+the channels, forming the actual blood vessels and aneurysm. Hynes performed
+the coiling procedure with a microcatheter and platinum coils, believed to be
+the first surgical intervention ever performed on an artificial living tissue.
+Eight days after the procedure, the researchers observed the endothelium
+beginning to heal itself.
+
+By combining the 3D-printed platform with computational models, researchers
+said they've developed a potential tool for surgeons to pre-select the best
+coil types needed to fully pack an aneurysm to result in the best treatment
+outcome, and perform "test runs" of procedures before attempting them on the
+human patient.
+
+"Essentially a clinician could literally look at somebody's brain scan, run it
+through the modeling software, and the software could show the fluid dynamics
+prior to treatment," Hynes said. "It also should be able to simulate that
+treatment and allow the practitioner to narrow down to a certain type of coil
+or packing volume to ensure the best possible outcome."
+
+Most computational models of aneurysms are validated by inducing animals with
+aneurysms and performing surgery on them. Animal models are imperfect,
+researchers explained, because it's difficult to gather data on them, and
+their vessel geometries aren't reproducible. Scientists also use non-
+biological devices, such as 3D-printed silicone tubes, where vessel geometry
+can be controlled, but the results may not reflect human biology.
+
+Unlike animal models, LLNL's platform allows scientists to directly measure
+the fluid dynamics inside the vessels and aneurysm while maintaining
+biological relevance, the best of all worlds for validating a computer model,
+researchers said.
+
+"This is an ideal platform for an in silico model because we can make these
+flow measurements that would be incredibly difficult to make if you were doing
+this in an animal," Moya said. "What's exciting is that this platform mimics
+blood vessel compliance and the mechanical stiffness of brain tissue. It's
+also robust enough to handle a coiling procedure. You're seeing the vessel
+distend and move, but it's able to withstand the procedure — very much like
+you would in vivo. This makes it ideal to be used as a training platform for
+surgeons or as an in vitro testing system for embolization devices."
+
+In addition to patient-specific care and serving as a testbed for surgical
+training, researchers said the platform has potential for improving the
+understanding of basic biology and the post-surgery healing response.
+
+While early results are promising, the researchers cautioned there's a long
+way to go before the platform sees application in the clinical environment.
+The team's next step is to combine a two-dimensional blood-clotting model
+developed by LLNL computational engineer and paper co-author Jason Ortega with
+Randles' 3D fluid dynamics model, to simulate how blood clots form in response
+to the coils in three dimensions. They aim to compare the traditional bare
+coils with the experimental shape memory polymer coils developed by Maitland
+that are designed to expand inside the aneurysm to promote better clotting and
+enhance patient outcomes.
+
+The work was funded by the Laboratory Directed Research and Development
+program. Co-authors included Lindy Jang of Texas A&M University, Javier
+Alvarado and Elisa Wasson of LLNL, Marianna Pepona of Duke University and
+Landon Nash of Shape Memory Medical.
+
+## Related News
+
+May 13, 2020
+
+### Virtual Reality Blood Flow Simulation To Improve Cardiovascular
+Interventions
+
+August 06, 2019
+
+### Simulating Blood Flow at the Cellular Level
+
+May 02, 2019
+
+### HARVEY Helps Move Bioprinted Organs Closer to Reality
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

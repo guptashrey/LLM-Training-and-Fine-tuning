@@ -1,0 +1,247 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Molecular Paddlewheels Propel Sodium Ions Through Next-Generation Batteries
+
+January 11, 2022 | By Ken Kingery
+
+Insights into the atomistic dynamics of emerging solid-state batteries will
+help speed their evolution
+
+Materials scientists at Duke University have revealed paddlewheel-like
+molecular dynamics that help push sodium ions through a quickly evolving class
+of solid-state batteries. The insights should guide researchers in their
+pursuit of a new generation of sodium-ion batteries to replace lithium-ion
+technology in a wide range of applications such as data centers and home
+energy storage.
+
+The results appeared online November 10 in the journal Energy & Environmental
+Science.
+
+In general, rechargeable batteries work by moving electrons through external
+wires from one side to the other and back again. To balance this transfer of
+energy, atoms with an electric charge called ions, such as lithium ions, move
+within the battery through a chemical substance called an electrolyte. How
+quickly and easily these ions can make their journey plays a key role in how
+fast a battery can charge and how much energy it can provide in a given amount
+of time.
+
+“Most researchers still tend to focus on how the crystalline framework of a
+solid electrolyte might allow ions to quickly pass through an all-solid
+battery,” said Olivier Delaire, associate professor of mechanical engineering
+and materials science at Duke. “In the last few years, the field has begun to
+realize that the molecular dynamics of how the atoms can jump around are
+important as well.”
+
+Lithium ion batteries have long been the dominant technology used for most all
+commercial applications requiring energy storage, from tiny smart watches to
+gigantic data centers. While they have been extremely successful, lithium ion
+batteries have several drawbacks that make new technologies more attractive
+for certain applications.
+
+For example, lithium ion batteries have a liquid electrolyte inside that,
+while extremely efficient at allowing lithium ions to travel quickly through,
+is also extremely flammable. As the market continues to grow exponentially,
+there are worries about being able to mine enough lithium from the relatively
+limited global deposits. And some of the rare earth elements used in their
+construction — such as cobalt and manganese — are even rarer and are only
+mined in a few locations around the world.
+
+Many researchers believe that alternative technologies are necessary to
+supplement the skyrocketing demand for energy storage, and one of the leading
+candidates is sodium-ion batteries. While not as energetically dense or fast
+as their lithium-ion batteries, the technology has many potential advantages.
+Sodium is much cheaper and more abundant than lithium. The materials required
+for their constituent parts are also much more commonly available. And by
+replacing the liquid electrolyte with a solid-state electrolyte material
+instead, researchers can build all-solid batteries that promise to be more
+energy dense, more stable and less likely to ignite than currently available
+rechargeable batteries.
+
+These advantages lead researchers to consider sodium-ion batteries a
+potentially viable replacement for lithium-ion batteries in applications that
+are not as constrained by space and speed requirements as thin smart phones or
+light electric vehicles. For example, large data centers or other buildings
+that require large amounts of energy over a long period of time are good
+candidates.
+
+“This is generally a very active area of research where people are racing
+toward the next generation of batteries,” said Delaire. “However, there is not
+a sufficiently strong fundamental understanding of what materials work well at
+room temperature or why. We’re providing insights into the atomistic dynamics
+that allow one popular candidate to transport its sodium ions quickly and
+efficiently.”
+
+The material studied in these experiments is a sodium thiophosphate, Na3PS4.
+Researchers already knew that the crystalline structure of the phosphorus and
+sulfur atoms creates a one-dimensional tunnel for sodium ions to travel
+through. But as Delaire explains, nobody had looked to see whether the
+movement of neighboring atoms also plays an important role.
+
+To find out, Delaire and his colleagues took samples of the material to Oak
+Ridge National Laboratory. By bouncing neutrons off the atoms at extremely
+fast rates, researchers captured a series of snapshots of the atoms’ precise
+motions. The results showed that the pyramid-shaped phosphorus-sulfur PS4
+units that frame the tunnels twist and turn in place and almost act as
+paddlewheels that help the sodium ions move through.
+
+“This process has been theorized before, but the arguments are usually made in
+a cartoonish way,” said Delaire. “Here we show what the atoms are actually
+doing and show that, while there’s a bit of truth to this cartoon, it’s also
+much more complex.”
+
+The researchers confirmed the neutron-scattering results by computationally
+modeling the atomic dynamics at the National Energy Research Scientific
+Computing Center. The team used a machine learning approach to capture the
+potential energy surface in which the atoms vibrate and move. By not needing
+to recalculate the quantum mechanical forces at every point in time, the
+approach sped up the calculations by several orders of magnitude.
+
+With the new insights into the atomistic dynamics of one sodium-ion
+electrolyte and the new approach to quickly modeling their behavior, Delaire
+hopes the results will help push the field forward more quickly, from Na3PS4
+and beyond.
+
+“Even though this is one of the leading materials because of its high ionic
+conductivity, there’s already a slightly different version being pursued that
+uses antimony instead of phosphorus,” Delaire said. “But despite the speed at
+which the field is moving, the insights and tools we present in this paper
+should help researchers make better decisions about where to go next.”
+
+This research was supported by the Department of Energy (DE-SC0019978, DE-
+AC02-05CH11231, DE-AC02-06CH11357) and the National Science Foundation EPSCOR
+RII Track 4 award (No. 2033397).
+
+CITATION: “Fast Na Diffusion and Anharmonic Phonon Dynamics in Superionic
+Na3PS4.” Mayanak K. Gupta, Jingxuan Ding, Naresh C. Osti, Douglas L.
+Abernathy, William Arnold, Hui Wang, Zachary Hood and Olivier Delaire. Energy
+& Environmental Science, Nov. 10, 2021. DOI: 10.1039/D1EE01509E
+
+## Related News
+
+March 15, 2021
+
+### Twisting, Flexible Crystals Key to Solar Energy Production
+
+September 04, 2020
+
+### ‘Floppy’ Atomic Dynamics Help Turn Heat into Electricity
+
+October 08, 2018
+
+### Copper Ions Flow Like Liquid through the Frozen Atomic Network of a
+Crystal
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

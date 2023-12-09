@@ -1,0 +1,233 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New CRISPR Class Expands Genetic Engineering Toolbox
+
+September 23, 2019
+
+The new approach opens up nearly 90 percent of CRISPR-Cas systems for use in
+human cells, including biomedical research and potential gene and cell
+therapies
+
+Biomedical engineers at Duke University have used a previously unexplored
+CRISPR technology to accurately regulate and edit genomes in human cells.
+
+With this new approach, the researchers hope to dramatically expand the
+CRISPR-based tools available to biomedical engineers, opening up a new and
+diverse frontier of genome engineering technologies.
+
+In a study appearing on Sept. 23 in _Nature Biotechnology_ , Charles Gersbach,
+the Rooney Family Associate Professor of Biomedical Engineering at Duke, and
+Adrian Oliver, a post-doctoral fellow in the Gersbach lab who led the project,
+describe how they successfully harnessed Class 1 CRISPR systems to turn target
+genes on and off and edit the epigenome in human cells for the first time.
+
+CRISPR-Cas is a defense system in which bacteria use RNA molecules and CRISPR-
+associated (Cas) proteins to target and destroy the DNA of invading viruses.
+The discovery of this phenomenon and the repurposing of the molecular
+machinery set off a genome-editing revolution as researchers learned how to
+wield the tool to specifically target and edit DNA in human cells.
+
+CRISPR-Cas9, the most commonly used genome editing tool today, is categorized
+as a Class 2 CRISPR system. Class 2 systems are less common in the bacterial
+world, but they are theoretically simpler to work with, as they rely on only
+one Cas protein to target and cleave DNA.
+
+Class 1 systems are not so simple, relying on multiple proteins working
+together in a complex called Cascade (CRISPR-associated complex for antiviral
+defense) to target DNA. After binding, Cascade recruits a Cas3 protein that
+cuts the DNA.
+
+"If you were to look at the individual CRISPR systems of all the bacteria in
+the world, nearly 90 percent are Class 1 systems," said Gersbach. "CRISPR-Cas
+biology is an incredible source for biotechnology tools, but until recently
+everyone has only been looking at a small slice of the pie."
+
+To demonstrate the capabilities of the Class 1 system, Oliver attached gene
+activators to specific sites along a type I E. coli Cascade complex and
+targeted the system to bind gene promoters, which regulate gene expression
+levels. Because she did not include the Cas3 protein in the experiment, there
+was no cutting of the DNA and no change to underlying DNA sequence. The
+experiment showed that the Cascade activator not only binds to the correct
+site and can turn up the levels of the target gene, but does so with accuracy
+and specificity comparable to CRISPR/Cas9.
+
+Oliver repeated the process using type I Cascade complexes from an additional
+bacterial strain that was particularly robust in working at a variety of
+target sites. She also showed that the activator domain could be swapped for a
+repressor to turn target genes off. Again, the researchers noted accuracy and
+specificity comparable to CRISPR/Cas9 methods.
+
+"We have found Cascade's structure to be remarkably modular, allowing for a
+variety of sites to attach activators or repressors, which are great tools for
+altering gene expression in human cells," Oliver said. "The flexible nature of
+Cascade makes it a promising genome engineering technology."
+
+Gersbach and Oliver were encouraged to investigate the more complicated Class
+1 CRISPR systems by their collaborators at nearby North Carolina State
+University, Professors Rodolphe Barrangou and Chase Beisel, who is now at the
+Helmholtz Centre for Infection Research in Germany. Barrangou is a
+microbiologist who has studied the natural biology of diverse CRISPR defense
+mechanisms for nearly two decades, and Beisel is a chemical engineer who has
+worked with Barrangou on engineering microorganisms with Class 1 CRISPR
+systems. They were both curious whether Gersbach's lab could use these systems
+in human cells similar to their work with Cas9.
+
+"This work and the resulting technologies are a fantastic example of how
+collaboration across disciplines and across universities in the North Carolina
+Research Triangle can be highly innovative and productive" says Barrangou, the
+Todd R. Klaenhammer Distinguished Professor in Probiotics Research at North
+Carolina State University.
+
+Now, the team is optimistic that their study, and the related work of others
+in the field, will incentivize new research into Class 1 CRISPR systems.
+
+"The purpose of this project was to explore the diversity of CRISPR systems,"
+said Gersbach. "There have been thousands of papers about CRISPR-Cas9 in the
+last decade, and yet we're constantly learning new things about it. With this
+study we're applying that mindset to the other 90% of what's out there."
+
+So far, the team has shown that these Class 1 systems are comparable to to
+CRISPR-Cas9 in terms of accuracy and application. As they consider future
+directions, they are curious to explore how these systems differ from their
+Class 2 counterparts, and how these differences could prove useful for
+biotechnology applications.
+
+The team is also interested in studying how Class 1 systems could address
+general challenges for CRISPR-Cas research, especially issues that complicate
+potential therapeutic applications, like immune responses to Cas proteins and
+concurrently using multiple types of CRISPR for different genome engineering
+functions.
+
+"We know CRISPR could have a big impact on human health," said Gersbach. "But
+we're still at the very beginning of understanding how CRISPR is going to be
+used, what it can do, and what systems are available to us. We expect that
+this new tool will enable new areas of genome engineering."
+
+This work was supported by the National Institutes of Health, the National
+Science Foundation, Locus Biosciences, an Allen Distinguished Investigator
+Award from the Paul G. Allen Frontiers Group, the Thorek Memorial Foundation,
+a Pfizer-NCBiotech Distinguished Postdoctoral Fellowship, and internal funds
+from Duke University and North Carolina State University.
+
+Charles Gersbach, Adrian Pickar-Oliver, Rodolphe Barrangou, and Chase Beisel
+have filed patent applications related to genome engineering with Type I
+CRISPR systems. Charles Gersbach is a co-founder and advisor to Locus
+Biosciences and Element Genomics, and an advisor to Sarepta Therapeutics.
+Rodolphe Barrangou is a co-founder and Science Advisory Board member of Locus
+Biosciences and Intellia Therapeutics. Chase Beisel is a co-founder and
+Science Advisory Board member of Locus Biosciences.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

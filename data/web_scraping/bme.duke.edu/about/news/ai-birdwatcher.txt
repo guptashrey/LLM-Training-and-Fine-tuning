@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# This A.I. Birdwatcher Lets You 'See' through the Eyes of a Machine
+
+October 31, 2019 | by Robin Smith
+
+New research aims to open the ‘black box’ of computer vision
+
+_From Duke Today_
+
+It can take years of birdwatching experience to tell one species from the
+next. But using an artificial intelligence technique called deep learning,
+Duke University researchers have trained a computer to identify up to 200
+species of birds from just a photo.
+
+The real innovation, however, is that the A.I. tool also shows its thinking,
+in a way that even someone who doesn't know a penguin from a puffin can
+understand.
+
+The team trained their deep neural network—algorithms based on the way the
+brain works—by feeding it 11,788 photos of 200 bird species to learn from,
+ranging from swimming ducks to hovering hummingbirds.
+
+The researchers never told the network "this is a beak" or "these are wing
+feathers." Given a photo of a mystery bird, the network is able to pick out
+important patterns in the image and hazard a guess by comparing those patterns
+to typical species traits it has seen before.
+
+Along the way it spits out a series of heat maps that essentially say: "This
+isn't just any warbler. It's a hooded warbler, and here are the features—like
+its masked head and yellow belly—that give it away."
+
+Duke computer science Ph.D. student Chaofan Chen and undergraduate Oscar Li
+led the research, along with other team members of the Prediction Analysis Lab
+directed by Duke professor Cynthia Rudin.
+
+They found their neural network is able to identify the correct species up to
+84% of the time—on par with some of its best-performing counterparts, which
+don't reveal how they are able to tell, say, one sparrow from the next.
+
+Rudin says their project is about more than naming birds. It's about
+visualizing what deep neural networks are really seeing when they look at an
+image.
+
+Similar technology is used to tag people on social networking sites, spot
+suspected criminals in surveillance cameras, and train self-driving cars to
+detect things like traffic lights and pedestrians.
+
+The problem, Rudin says, is that most deep learning approaches to computer
+vision are notoriously opaque. Unlike traditional software, deep learning
+software learns from the data without being explicitly programmed. As a
+result, exactly how these algorithms 'think' when they classify an image isn't
+always clear.
+
+Rudin and her colleagues are trying to show that A.I. doesn't have to be that
+way. She and her lab are designing deep learning models that explain the
+reasoning behind their predictions, making it clear exactly why and how they
+came up with their answers. When such a model makes a mistake, its built-in
+transparency makes it possible to see why.
+
+For their next project, Rudin and her team are using their algorithm to
+classify suspicious areas in medical images like mammograms. If it works,
+their system won't just help doctors detect lumps, calcifications and other
+symptoms that could be signs of breast cancer. It will also show which parts
+of the mammogram it's homing in on, revealing which specific features most
+resemble the cancerous lesions it has seen before in other patients.
+
+In that way, Rudin says, their network is designed to mimic the way doctors
+make a diagnosis. "It's case-based reasoning," Rudin said. "We're hoping we
+can better explain to physicians or patients why their image was classified by
+the network as either malignant or benign."
+
+The team is presenting a paper on their findings at the Thirty-third
+Conference on Neural Information Processing Systems (NeurIPS 2019) in
+Vancouver on December 12.
+
+Other authors of this study include Daniel Tao and Alina Barnett of Duke and
+Jonathan Su at MIT Lincoln Laboratory. This work was supported in part by a
+grant from MIT Lincoln Laboratory.
+
+CITATION: "This Looks Like That: Deep Learning for Interpretable Image
+Recognition," Chaofan Chen, Oscar Li, Daniel Tao, Alina Barnett, Jonathan Su
+and Cynthia Rudin. Electronic Proceedings of the Neural Information Processing
+Systems Conference. December 12, 2019.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

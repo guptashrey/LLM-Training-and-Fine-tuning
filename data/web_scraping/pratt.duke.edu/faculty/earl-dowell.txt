@@ -1,0 +1,254 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Earl H. Dowell
+
+William Holland Hall Distinguished Professor
+
+Professor Dowell's principal teaching interest and research activity is in the
+field of aeroelasticity - which is the study of the dynamic interaction
+between an aerodynamic flow and an elastic structure, such as aircraft wings
+in high speed flight, long span bridges and tall buildings responding to wind
+loadings, or airflow through the mouth and lungs. Dr. Dowell has also done
+research in acoustics, nonlinear dynamics, structural dynamics, and unsteady
+aerodynamics.
+
+Professor Dowell's major research accomplishments include the first definitive
+research monograph on the aeroelasticity of plates and shells, the first
+derivation and solution of the nonlinear equations of motion for a helicopter
+rotor blade (the Hodges-Dowell equations), and work with Professor Kenneth
+Hall and several graduate students and post-doctoral fellows on reducing the
+dimensions of mathematical models for very complex high-dimensional
+fluid/structural systems. Professor Dowell teaches undergraduate and graduate
+courses on dynamics and aeroelasticity.
+
+Here are seven short videos showing experimental aeroelastic models undergoing
+limit cycle oscillations in the Duke wind tunnel.
+
+  1. An airfoil with a nonlinear freeplay  in the connection from the main airfoil to the trailing edge control surface.
+  2. A delta wing with a strong structural nonlinearity  as a result of tension in the mid-plane of the plate-like wing induced by bending of the wing out of its initially undeformed plane.
+  3. A very high aspect ratio wing  that behaves as a beam with double bending (both transverse to and in-line with the aerodynamic flow field) and twisting. A nonlinear coupling among double bending and twisting occurs. Also the aerodynamic flow field experiences separation due to the large motions involved.
+  4. A delta wing with an external store, flutter and limit cycle oscillations.
+  5. LCO and Flutter of WingStore model
+  6. Flapping Flag Flutter
+  7. LCO of Cropped Delta Wing In the video you will see a cropped delta wing (that simply means we cropped off that would otherwise be a delta or triangular wing). The wind speed in the wind tunnel is shown by the dial in one of the frames. In the other two frames you see signals from two strain gauge bridges, bending and torsion, and of course the wing itself.   
+The wind speed at which flutter is predicted to occur theoretically is about
+19 meters/second. The experimental flutter speed based on observation of the
+strain gauge signals is about 21 meters/second. Note that at the wind speed
+when flutter starts, both strain gauges show dominant response at a frequency
+of 12 Hz. This large peak at a single frequency is a characteristic identifier
+of flutter. Also note that the motion of the wing is not easily visible to the
+eye until a higher wind speed in the range of 24-26 meters/second and the
+motion is most visible at the wing tip. Once the flutter speed is exceeded,
+limit cycle oscillations occur due a strong structural nonlinearity.
+
+  8. Experimental Aeroelastic Models: Design and Wind Tunnel Testing for Correlation with New Theory \- An overview of Wind Tunnel Testing in Duke University
+
+## Appointments and Affiliations
+
+  * William Holland Hall Distinguished Professor
+  * Professor of Mechanical Engineering and Materials Science
+  * Faculty Network Member of The Energy Initiative
+  * Affiliate of the Duke Initiative for Science & Society
+
+## Contact Information
+
+  * **Office Location:** 185 Hudson Hall, Box 90300, Durham, NC 27708
+  * **Office Phone:** (919) 660-5321
+  * **Email Address:** earl.dowell@duke.edu
+  * **Websites:**
+    * AeroElasticity Group
+
+## Education
+
+  * D.Sc. Massachusetts Institute of Technology, 1964
+  * Sc.M. Massachusetts Institute of Technology, 1961
+  * B.S. University of Illinois, 1959
+
+## Research Interests
+
+Aeroelasticity, acoustics, nonlinear dynamics, structural dynamics, and
+unsteady aerodynamics.
+
+## Awards, Honors, and Distinctions
+
+  * Daniel Guggenheim Medal. American Institute of Aeronautics and
+    Astronautics. 2009
+  * Den Hartog Medal. ASME. 2009
+  * Spirit of St. Louis Medal. American Society of Mechanical Engineers. 2008
+  * Walter J. and Angeline H. Crichlow Trust Prize. American Institute of
+    Aeronautics and Astronautics. 2007
+  * Honorary Fellow. AIAA. 2004
+  * Theodore von Karman Lectureship Award. American Institute of Aeronautics
+    and Astronautics. 2001
+  * Board of Governors. Research Triangle Institute. 1994
+  * Distinguished Service Award. American Academy of Mechanics. 1994
+  * Elected Member. National Academy of Engineering. 1993
+  * Fellow. American Society of Mechanical Engineers. 1993
+
+## Courses Taught
+
+  * CEE 625: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+  * ENERGY 395T: Bass Connections Energy & Environment Research Team
+  * ENERGY 795T: Bass Connections Energy & Environment Research Team
+  * ME 392: Undergraduate Projects in Mechanical Engineering
+  * ME 394: Engineering Undergraduate Fellows Projects
+  * ME 491: Special Projects in Mechanical Engineering
+  * ME 492: Special Projects in Mechanical Engineering
+  * ME 493: Engineering Undergraduate Fellows Projects
+  * ME 494: Engineering Undergraduate Fellows Projects
+  * ME 541: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 775: Aeroelasticity
+
+## In the News
+
+  * The Sky's the Limit for Duke Engineers Designing the Safest, Most Cost-
+    Efficient Aircraft and Turbomachinery (May 24, 2021 | Pratt School of
+    Engineering)
+  * Dowell Receives Highest Individual Honor for Achievement in Aeronautics
+    (Jun 16, 2016)
+  * AIAA congratulates Earl Dowell (Apr 21, 2016 | American Institute of
+    Aeronautics and Astronautics newsletter)
+  * Earl Dowell: Celebrating 75 Years of Duke Engineering (Jan 14, 2015)
+  * Earl Dowell: Will arming pilots stop a terrorist attack? (Apr 21, 2014 |
+    The Huffington Post)
+
+## Representative Publications
+
+  * Latif, U; Dowell, EH; Uddin, E; Yamin Younis, M, _Parametric aerodynamic
+    and aeroelastic study of a deformable flag-based energy harvester for
+    powering low energy devices_ , Energy Conversion and Management, vol 280
+    (2023) [10.1016/j.enconman.2023.116846] [abs].
+  * Thomas, JP; Dowell, EH, _Methodology for Numerically Stabilizing a
+    Harmonic-Balance-Based Forced Response Aeroelastic Solution Approach_ ,
+    Aiaa Journal, vol 61 no. 2 (2023), pp. 965-972 [10.2514/1.J061599] [abs].
+  * Modaress-Aval, AH; Bakhtiari-Nejad, F; Dowell, EH; Shahverdi, H; Peters,
+    D, _Comparative Study of Beam and Plate Theories for Moderate Aspect Ratio
+    Wings_ , Aiaa Journal, vol 61 no. 2 (2023), pp. 859-874
+    [10.2514/1.J061671] [abs].
+  * Geronel, RS; Dowell, EH; Bueno, DD, _Estimating the oscillation frequency
+    of a payload mass on quadcopter in non-autonomous flight_ , Journal of
+    Vibration and Control, vol 29 no. 1-2 (2023), pp. 236-250
+    [10.1177/10775463211046699] [abs].
+  * Brown, C; McGowan, G; Cooley, K; Deese, J; Josey, T; Dowell, EH; Thomas,
+    JP, _Convolution/Volterra Reduced-Order Modeling for Nonlinear Aeroelastic
+    Limit Cycle Oscillation Analysis and Control_ , Aiaa Journal, vol 60 no.
+    12 (2022), pp. 6647-6664 [10.2514/1.J061845] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

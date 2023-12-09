@@ -1,0 +1,295 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Decoding the Circuitry of the Primate Brain
+
+October 5, 2021 | Michaela Kane
+
+Marc Sommer develops tools and tactics to illuminate neural pathways across
+the brain
+
+Marc Sommer works with circuits, but not the ones that involve wires,
+microchips or capacitors. Instead, Sommer, the W.H. Gardner, Jr. Associate
+Professor of Biomedical Engineering at Duke University, explores the circuits
+that make up the body’s most complex organ­­—the brain. The brain is made up
+of 86 billion neurons, and these cells communicate via electrical and chemical
+signals. They are responsible for controlling everything from the simple act
+of blinking to the still-mysterious task of processing memories. Researchers
+and physicians have long been working on ways to decode these signals, with
+approaches ranging from directly measuring electrical activity in individual
+neurons to creating sensors that flash when many neurons are activated.
+
+In his lab at Duke, Sommer combines his expertise in neuroscience,
+engineering, and neurobiology to study how neurons across different brain
+areas can talk to each other, and how these circuits enable us to think, move
+and perceive the world.
+
+A slice of a brain is displayed under a microscope. Credit: Jessi Cruger
+
+## Controlling and Lighting Up Brain Activity
+
+One of the most revolutionary advances in the field of the past decade is a
+technique called optogenetics. It involves delivering genes to produce the
+protein opsin, which is related to a protein found in the retina that can
+detect light. By inserting opsin genes into specific types of neurons,
+researchers can precisely control activity in the brain by activating or
+deactivating targeted cells.
+
+“Once we can control these neurons, we can activate or inactivate them to
+study what they do,” Sommer explains.
+
+Marc Sommer
+
+A related technique uses the same principles but inserts genes for designer
+receptors that are not naturally found in neurons. With this chemogenetic
+approach, molecules instead of light can be used to turn on and off neurons of
+precisely selected types. Whereas optogenetics works at superfast time scales,
+chemogenetics has the staying power to influence circuits over many minutes,
+which can be crucial for studying impacts on behavior.
+
+Both of these specialized genes, coding for light sensors or designer
+receptors, can be introduced to the brain using modified viruses. These
+viruses have been programmed so they don’t replicate like standard viruses,
+but instead act like a delivery system. While this method has been highly
+effective in small animal models, it doesn’t work as well in the primate
+brain, which is about 200 times larger than the rodent brain and equipped with
+stronger defenses.
+
+“Primates have a much more sophisticated immune system, which can more
+effectively destroy these viral delivery methods,” says Sommer. “If we are
+going to make any advances in studying the primate brain, we need to tackle
+this problem head-on, so my lab is collaborating with experts in virology and
+human gene therapy to develop more effective delivery vectors.”
+
+Martin Bohlen
+
+Since starting the project four years ago, the team—led by postdoctoral fellow
+Martin Bohlen—is optimizing several viruses identified as promising delivery
+candidates. They are also developing immunosuppressive approaches that help
+mitigate the primate immune response. Establishing this groundwork is a
+critical step for making optogenetics and chemogenetics routine methods for
+primate neuroscience, which could then translate directly to new clinical
+therapies.
+
+## The Circuit Less Looked At
+
+When neuroscientists examine how the brain processes visual information, they
+typically focus on a neuronal circuit that projects from the retina to the
+thalamus and the visual cortex in the back of the brain. That circuit was the
+first visual system to be described in primates and has clear links to
+perception and decision-making. But Sommer and a collaborator in the
+Department of Neurobiology, Greg Field, wondered why a second pathway from the
+retina was being neglected: just as many retinal cells connect to the
+brainstem, which is responsible for the body’s subconscious behaviors, like
+breathing, circulating blood, and regulating temperature.
+
+This circuit is much more difficult to reach and control with current viral
+delivery tools due to its location. In primates, it has barely been explored.
+Sommer and his colleagues are applying their new viral technologies to
+describe the circuit comprehensively and see if it plays any role in attention
+deficit disorders, as it connects the retina directly to a structure
+associated with subconscious behavior.
+
+“We had a nagging question of why this big visual input is going to the
+brainstem, specifically to an area called the superior colliculus,” says
+Sommer. “That area helps us detect things in the world and orient our body to
+look at them. That clearly involves attention. Our hypothesis is that this
+pathway could be damaged in people with attention disorders, as they are more
+easily distracted. Our goal is to use these evolving viral delivery methods to
+finally begin exploring it.”
+
+Raveena Kothare demonstrates a tool used in transcranial magnetic stimulation.
+Credit: Jessi Cruger
+
+## Understanding Magnetic Manipulation
+
+Sommer and his lab are also actively working on projects involving
+transcranial magnetic stimulation, or TMS. During this procedure, an
+electrical current is pulsed through a coil, which creates an electromagnetic
+field. If the coil is placed close to the head, the field can pass through the
+skull and stimulate neural activity across the brain, non-invasively and
+painlessly.
+
+“TMS is FDA-approved to treat long-term depression, OCD and other psychiatric
+disorders. But the standard treatment techniques have mostly been arrived at
+through trial and error because we don’t know the ins and outs of what it’s
+doing to neurons,” Sommer says. “We want to understand exactly what TMS does
+to different types of neurons, and how it affects broader circuits in the
+primate brain.”
+
+The challenge to this, however, is that laboratory instruments such as
+computers and electrical sensors are also affected by large electromagnetic
+fields. But in a project that was highlighted in Nature Neuroscience, Sommer
+and his collaborators Warren Grill and Angel Peterchev engineered a setup that
+allowed them to use electrodes to directly measure the response of individual
+neurons to the treatment. A second generation system is currently being
+refined by Sommer lab PhD student Raveena Kothare. These engineering successes
+have laid the groundwork for understanding the larger physiological effects of
+TMS.
+
+Most recently, Sommer and his team have been exploring how varying levels of
+neural activity can affect TMS. Their hope is that this will help scientists
+understand if the state of the brain at the time TMS is applied—the ongoing
+level of neural activity—is important for making TMS more effective.
+
+“Understanding the small and large physiological effects of TMS are building
+blocks that will hopefully help us optimize the therapy,” says Sommer. “My
+lab’s long-term goal is to tie all of our lines of research into a synergistic
+research program, so every level of success is a step toward that goal.”
+
+The Sommer Lab
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

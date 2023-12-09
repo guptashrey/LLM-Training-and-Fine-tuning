@@ -1,0 +1,240 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Inkjet-Printed Tool Enables Sensitive Diagnostic Testing in Point-of-Care
+Settings
+
+August 8, 2017 | By Michaela Kane
+
+New portable platform can show results in 15 minutes, allowing for rapid and
+sensitive diagnostic testing in resource-limited settings
+
+Biomedical engineers at Duke University have created a portable diagnostic
+tool that can detect telltale markers of disease as accurately as the most
+sensitive tests on the market, while cutting the wait time for results from
+hours or even days to 15 minutes.
+
+Created by inkjet-printing an array of antibodies onto a glass slide with a
+nonstick polymer coating, the diagnostic tool, called the D4 assay, is a self-
+contained test that can detect low levels of antigens, the protein markers of
+a disease, from a single drop of blood. By creating a sensitive, easy-to-use
+“lab on a chip,” the researchers plan to bring rapid diagnostic testing to
+areas that lack access to standard lab-based diagnostic technologies.
+
+The platform is described August 7, 2017 in the _Proceedings of the National
+Academy of Sciences._
+
+Beyond detecting diseases, healthcare workers use diagnostic tools to assess
+the severity of an illness, plan an effective treatment strategy, and track an
+individual’s response to treatment. While some tests, like the lateral flow
+test, are fast, portable and easy to use, they aren’t usually sensitive enough
+to provide information beyond the presence or absence of a particular
+biomarker, so healthcare workers often need to use quantitative methods to
+determine how severe an infection is.
+
+Currently, the gold standard for quantitative diagnostic tests is the enzyme-
+linked immunosorbent assay (ELISA), which identifies how many specific
+antigens are present in a biological sample. While ELISA is among the most
+sensitive immunoassay tools on the market for detecting diseases like Zika and
+HIV or tracking hormone levels in the blood, it requires trained researchers
+or liquid handling robotic devices to follow a series of time-consuming steps
+to ensure that no unwanted proteins stick to the assay and muddy the results.
+The test also requires bulky laboratory instruments for data analysis, making
+it ill-equipped for use in resource-limited settings.
+
+As an added complication, the ELISA platform can take up to 24 hours to show
+test results --which often means a delay in treatment even as the disease
+continues to spread.
+
+The D4 assay allows clinicians to avoid these problems without sacrificing
+sensitivity or accuracy. The new assay can identify a disease biomarker in as
+few as 15 minutes, and results can be read using a tabletop scanner or 3-D
+printed smartphone attachment that uses the phone’s camera to read the
+results, enabling the tool to be used in point-of-care settings for rapid
+diagnosis.
+
+Like the ELISA platform, the D4 assay uses a matched pair of antibodies to
+detect and capture a target protein in a blood sample. The array contains two
+types of antibodies ––immobilized capture antibodies and soluble detection
+antibodies --which are tagged with a fluorescent marker to allow the
+researchers to identify how much of the antigen is present. When a drop of
+blood is placed on the slide, the detection antibodies dissolve, separate from
+the array and bind to the target proteins in the blood. These fluorescing
+antibody-protein pairs then attach to the capture antibodies that are still on
+the slide.
+
+But unlike other diagnostic tests like the ELISA or lateral flow test, D4
+assay’s antibody array is printed on a novel polymer brush coating. When a
+sample is placed on the slide, the coating works like Teflon to prevent the
+non-target proteins from attaching to the surface of the slide. By preventing
+unwanted proteins from binding to the assay, the polymer brush makes it easier
+to detect low levels of target proteins by getting rid of the ‘background
+noise’ on the chip.
+
+“The real significance of the assay is the polymer brush coating,” says
+Ashutosh Chilkoti, chair of the Department of Biomedical Engineering (BME) at
+Duke and senior author on the paper. “The polymer brush allowed us to store
+all of the tools we need on the chip while maintaining a simple design.”
+
+Using the D4 assay, researchers don’t need to follow a complicated workflow to
+clear non-target proteins from their slide, as with the ELISA test. Instead,
+they simply need to wash the slide in a buffer solution to remove any
+extraneous particles.
+
+As a proof-of-concept for the accuracy of their assay, the research team
+conducted a clinical trial to measure the serum leptin levels in patients at
+Duke University Medical Center and compare them to those observed with the
+clinical ELISA platform. A previous study from Michael Freemark, a professor
+of pediatrics at Duke University School of Medicine and a senior author on the
+paper, showed that low serum leptin levels could predict mortality and
+complications in severely malnourished children. Leptin levels are typically
+measured using ELISA, but the researchers recognized that if they could use
+the D4 assay to accurately test for leptin levels, the tool could be used to
+plan better treatment for those suffering from malnutrition in resource-
+limited settings. The study found that the results from the D4 assay were on
+par with those from the ELISA test.
+
+“What’s cool is that our assay can achieve comparable sensitivity to the ELISA
+within 15 minutes, and if further sensitivity is needed, longer incubation
+times can be used,” says Daniel Joh, an MD-PhD student in the Chilkoti lab and
+co-author of the paper. “This device can also be compared to a lateral flow
+test, which is quite fast as it takes less than five minutes to get a reading,
+but that test isn’t as sensitive. This is really the best of both worlds.”
+
+Unlike the ELISA, the D4 assay is a highly portable tool, as the dry slides
+don’t need to be refrigerated during transport. The design is also cost-
+efficient––Joh and his collaborators estimate that the D4 chips will cost less
+than one dollar and the mobile phone attachment developed at the University of
+California, Los Angeles will be less than $30 when they are produced in bulk.
+
+Next, Joh and Angus Hucknall, co-author of the paper and a senior researcher
+in the Chilkoti lab who previously developed the polymer brush technology with
+Chilkoti, will also conduct a field test of the prototype tool in Liberia,
+screening participants’ serum leptin levels to gain a better understanding of
+how diagnostic results from the D4 assay can be used to monitor and plan
+treatment strategies for malnutrition. The team also plans to study how they
+can use the tool to perform a wider array of diagnostics.
+
+“The D4 assay enables us to conduct high-performance diagnostic testing with
+minimal resources, making it a promising platform for increasing access to
+sensitive and quantitative diagnostic tools,” says Hucknall.
+
+The research was funded by the National Heart, Lung and Blood Institute, the
+National Center for Advancing Translational Sciences of the National Institute
+of Health, the Wallace H. Coulter Endowment at Duke University, the Duke
+Global Health Institute, Elrha's Humanitarian Innovation Fund and the European
+Commission.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

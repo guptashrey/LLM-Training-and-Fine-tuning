@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Safer Route to Ultrasonic Therapy
+
+January 2, 2018 | By Ken Kingery
+
+Microbeads allow ultrasonic waves to stimulate cells more safely
+
+Researchers at Duke University have discovered a way to enhance the
+effectiveness and safety of sonogenetics or ultrasonic modulation, emerging
+techniques that use sound waves to control the behavior of individual neurons
+or to promote tissue growth and wound healing in other cells.
+
+Ultrasonic therapy often uses targeted ultrasound waves to create cavitation
+bubbles—tiny balloons of rapidly oscillating air pockets that stretch nearby
+cell membranes when they burst. This stretching can activate calcium ion
+channels, causing a neuron to fire, or can signal the body’s repair mechanisms
+to crank into overdrive.
+
+If a bubble is too big or too close, however, the technique can damage or
+destroy nearby cells. While this may be the desired result in applications
+such as cancer therapy, researchers of sonogenetics typically want to avoid
+damage.
+
+In a new study, biomedical engineers found that by attaching microscopic beads
+to receptors on the cell’s surface, they can produce the technique’s cell-
+stretching, calcium-releasing effects much more safely.
+
+The results appeared online the week of December 25, 2017 in the Proceedings
+of the National Academy of Science.
+
+“To get ion channels and pores in a cell’s membrane to open, you typically
+have to stretch it very strong and very fast,” said Pei Zhong, the Anderson-
+Rupp Professor of Mechanical Engineering and Materials Science at Duke. “But
+we discovered that attaching microbeads to the cell’s surface amplifies the
+cell’s response during cavitation and produces the same result with much less
+risk of cellular injury.”
+
+> “This strategy can stimulate the cells at a safe distance from the
+> cavitation bubbles. The approach should make it much easier for researchers
+> to safely use sonogenetics in human therapies.”
+
+Produced when a force creates a void in liquid, cavitation bubbles can be
+powerful enough to cause severe damage to ship propellers. While the
+cavitation bubbles created during medical procedures are not nearly that
+strong, they can still cause a lot of damage. And because of their speed and
+randomness, it is very difficult to study their effects on nearby cells.
+
+The new study is the first to use an experimental platform that Zhong’s team
+built in 2015 to study sonoporation that reliably produces tandem cavitation
+bubbles in exactly the same spot every time. By placing different types of
+cells at various distances from the bubbles, researchers can begin to explore
+the details of how cells respond.
+
+For the first follow-up study to use the platform, Zhong chose to look at
+calcium signaling.
+
+“Calcium signaling regulates many important cellular functions, like muscle
+contraction, neural communication, gene transcription and tissue growth,” said
+Fenfang Li, a postdoctoral research fellow in Zhong’s laboratory and lead
+author of the study. “Previous studies have shown that sonogenetics and
+sonoporation causes a calcium response, which can make neurons fire or promote
+healing in other cells, so we wanted to take a closer look.”
+
+The results showed that cavitation bubbles actually produce two types of
+calcium responses: slow waves and fast waves. But most interestingly, the
+study showed that microbeads attached to the cell’s surface can catch some of
+the bubbles’ energy so they tug at the membrane’s surface. This provides more
+localized deformation—and a stronger calcium response—from a slower, softer
+wave.
+
+“This strategy can stimulate the cells at a safe distance from the cavitation
+bubbles,” said Zhong. “The approach should make it much easier for researchers
+to safely use sonogenetics in human therapies.”
+
+This study was supported by the National Institutes of Health
+(R03-EB017886-01A1, R01-AR48182, R37-DK052985-20) and the National Science
+Foundation (1638442).
+
+“Dynamics and Mechanisms of Intracellular Calcium Waves Elicited by Tandem
+Bubble-Induced Jetting Flow.” Fenfang Li, Chen Yang, Fang Yuan, Defei Liao,
+Thomas Li, Farshid Guilak, and Pei Zhong. PNAS, 2017. DOI:
+10.1073/pnas.1713905115 ****
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

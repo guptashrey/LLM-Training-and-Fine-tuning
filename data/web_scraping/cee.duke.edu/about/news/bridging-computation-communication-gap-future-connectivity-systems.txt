@@ -1,0 +1,183 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bridging the Computation-Communication Gap in Future Connectivity Systems
+
+January 18, 2023
+
+Duke ECE faculty member Tingjun Chen adds wireless networks and systems
+expertise to new multi-university research center
+
+With the number of increasingly smart, connected devices at hand,
+manufacturers and service providers are facing a big problem: there’s simply
+too much data to be efficiently processed using current infrastructure
+networks and information and communication technologies (ICT). What’s more,
+the nonstop flow of information, from devices to the cloud and back again,
+consumes massive amounts of energy.
+
+The Semiconductor Research Corporation (SRC), the Defense Advanced Research
+Projects Agency (DARPA), and commercial partners in the semiconductor and
+defense sectors are co-sponsoring an initiative to develop next-generation
+computer architectures, called the Joint University Microelectronics Program
+2.0 (JUMP 2.0).The initiative recently funded a $35 million multi-university
+research center that will create vast performance gains and reductions in
+energy consumption across massive wireless and data center systems.The new
+Center for Ubiquitous Connectivity (CUbiC) is led by Keren Bergman, Professor
+of Electrical Engineering at Columbia University.
+
+Duke Assistant Professor of Electrical and Computer Engineering Tingjun Chen
+will lend his expertise in hardware, software, and algorithm co-design and
+wireless networking to CUbiC, as it aims to “flatten the computation-
+communication gap, delivering seamless edge-to-Cloud connectivity with
+transformational reductions in the global system energy consumption.”
+
+“We’re really talking about developing more robust connectivity,” explained
+Chen. “When users move around at high speeds or in cities where buildings
+might block the signals of their devices, their wireless connection should
+still maintain fidelity and quality. The user should not notice that any
+switching is taking place.” That scenario may become reality through the
+research that CUbiCis proposing, said Chen.
+
+Energy savings will be achieved across all the layers of the stack: more
+efficient devices, antennas, and transceivers, smarter algorithms for
+efficient resource allocation, and better system integration and optimization.
+
+“The Center for Ubiquitous Connectivity will bring photonics onto chips, work
+across systems, and create new architectures, circuits, and devices that
+vastly expand wireless capacity,” said Bergman. “This is a new communication
+paradigm. Future systems will be much more energy-efficient, adaptable, secure
+and robust, while delivering orders of magnitude more bandwidth than we
+currently have.”In addition to Columbia University, CUbiC partners include the
+University of California, Berkeley, other participants include the University
+of California, Santa Barbara; University of Illinois at Urbana-Champaign;
+Massachusetts Institute of Technology; University of Michigan; Cornell
+University; Duke University; Princeton University; Stanford University; Oregon
+State University; University of California, San Diego; and University of
+Southern California.
+
+In addition to his participation in CUbiC, Chen is also part of the Duke-led,
+NSF-funded AI Institute for EdgeComputing Leveraging Next Generation Networks
+(Athena), which focuses on edge computing—a distributed computing framework
+that brings applications closer to users’ devices and nearby servers.
+
+More News from Duke ECE
+
+## Related News
+
+August 21, 2020
+
+### Tingjun Chen: Connecting Tomorrow’s Wireless World
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

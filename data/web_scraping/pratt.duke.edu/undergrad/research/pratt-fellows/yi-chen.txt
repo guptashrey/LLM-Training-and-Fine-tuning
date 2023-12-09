@@ -1,0 +1,240 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Undergraduate » Undergraduate Research » Pratt Research Fellows
+
+# Yi Chen: Embracing New Challenges
+
+• **Major:** Electrical and Computer Engineering/Computer Science (Minor:
+Music)  
+• **Advisor:** Stefan Goetz  
+• **Pratt Research Fellow Project:** _Novel Drive Train for Electric Vehicles_
+
+Yi Chen ’22 has studied the piano since the age of five and even entered Duke
+as a prospective music major, concentrating on composition and theory
+
+“I had the thought that I was going to study music and neuroscience,
+actually,” said Chen. “Music is one of the best examples of applied
+neuroscience, in the sense that it's all about the creation and release of
+tension.”
+
+In the Western harmonic system, explained Chen, a specific progression always
+creates the same expectation in the listener. “Classical composers’ music is
+so popular because they are very good at creating those expectations with
+their harmonies—and then either fulfilling it or not fulfilling it, depending
+on what their goal is,” he said.
+
+Chen quickly progressed toward a music major, finishing most of the required
+coursework by the end of his second year. He found he had enough time left at
+Duke to be able to branch out and explore more of what the university had to
+offer.
+
+“I've always been interested in tech stuff,” said Chen. “I was looking at
+courses I could take, and I thought, ‘You know, I really want to add computer
+science to the mix.’ So, that's what I did first, and after a few months, I
+realized I was having a lot of fun. But software alone didn’t feel like quite
+enough for me."
+
+Chen took his first class in the Department of Electrical & Computer
+Engineering (ECE), and soon he stepped off the academic path he had chosen. He
+declared a double major in Computer Science (CS) and ECE, minoring in music.
+
+As a Pratt Research Fellow, Chen worked in the lab of Stefan Goetz, an
+assistant professor of psychiatry and behavioral sciences, neurosurgery, and
+ECE. Goetz is part of Duke’s Brain Simulation Electronics Lab, which focuses
+on electronics powered by brain stimulation—an intersection that fits well
+with Chen’s interest in engineering and neurosciences. Under Goetz’s
+supervision, Chen has been working to further the development of a new kind of
+drive train for electric vehicles.
+
+“It's a new way of managing battery power, but it doesn’t rely on new
+chemistry or anything like that,” explained Chen. “It’s a purely software-
+based way of managing a battery pack.”
+
+A traditional battery pack has hardwired connections between battery
+terminals, and voltage is always high. But the multi-level, modularized
+series-parallel converter, or MMSPC, replaces physical connections between the
+batteries with wave-producing transistors that can be switched on and off,
+sending an adjustable alternating-current (AC) signal directly to the motor.
+
+The MMSPC allows the team to rewire all the cells in a battery pack depending
+on the level of voltage they want to send. They can even choose to route
+around single battery cells if it’s a more effective strategy. For engineers
+working on squeezing the highest range out of electric vehicles between
+charges, it’s a particularly useful concept.
+
+“The amount of range you get from a battery pack is limited by its least
+effective cell,” explained Chen. “Once one of the cells drops to a certain
+voltage, you can’t use the battery anymore without charging the entire pack. A
+system like ours is very beneficial because if one cell’s voltage dips
+significantly lower than the others, you could just route around it while
+still tapping into all the other cells.”
+
+Chen has also been working to distribute and balance charge across all the
+cells, to prevent voltage from dropping in the first place.
+
+“Balancing the cells solves a fundamental problem of batteries right now,”
+said Goetz. “No two battery cells in a pack have exactly the same
+properties—there’s always one that is far worse than the others, that limits
+overall performance.”
+
+According to Goetz, balancing the charge also solves performance issues
+related to overheating, self-discharge, cell capacitance, aging and cell
+death. Chen admitted that he felt out of his depth when he inherited the
+project from Zhongxi Li, an ECE doctoral student in Goetz’s lab.
+
+“There was already an array of batteries with circuit boards on them and most
+of the control system. So, I had to learn and to understand how phase AC
+motors are driven, what field-oriented control is, what trapezoidal control is
+… just a lot of things to learn,” Chen said.
+
+His first semester was spent doing exactly that: learning.
+
+“That period of time was actually very productive for me because that's when I
+learned to design circuit boards, how LabVIEW works, and about motor control
+and some power electronics concepts. Even given a short amount of time, you
+can learn a lot about a whole bunch of things if you really want to,” said
+Chen.
+
+Shortly thereafter, Goetz’s lab procured a gasoline-powered dune buggy. Chen
+began to strip the fuel system from the vehicle, preparing it to receive its
+new electrical system and demonstrate the team’s novel drive train. Now, he’s
+started characterizing the battery pack's waveforms.
+
+“In the next few weeks, I'm going to try to quickly make a mounting plate for
+the motor on the vehicle to see if I can start getting the system onto the
+vehicle. I guess my goal is that it drives by the time I graduate,” he said.
+
+After that, Chen will be busy with another different challenge: he’s beginning
+a PhD program in electrical engineering at North Carolina State University at
+Raleigh, developing wearable biosensors in the lab of professor Alper Bozkurt.
+
+Duke Engineering's signature undergraduate experience »
+
+## Undergraduate Student News
+
+March 27, 2023
+
+### Duke Engineering Students Flex Their Leadership Muscles
+
+March 20, 2023 | Bass Connections
+
+### Taking the Bull City by the Horns
+
+February 22, 2023 | The Chronicle
+
+### Sydney Hunt of Duke ECE Among Duke Young Trustee Finalists
+
+View all undergrad news
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

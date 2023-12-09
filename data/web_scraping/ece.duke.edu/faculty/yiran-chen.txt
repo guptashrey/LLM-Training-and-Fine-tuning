@@ -1,0 +1,297 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Yiran Chen
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in the Department of Electrical and Computer Engineering
+
+Yiran Chen received B.S (1998) and M.S. (2001) from Tsinghua University and
+Ph.D. (2005) from Purdue University. After five years in the industry, he
+joined the University of Pittsburgh in 2010 as Assistant Professor and was
+promoted to Associate Professor with tenure in 2014, holding Bicentennial
+Alumni Faculty Fellow. He is now the Professor of the Department of Electrical
+and Computer Engineering at Duke University and serving as the director of the
+NSF AI Institute for Edge Computing Leveraging the Next-generation Networks
+(Athena), the NSF Industry-University Cooperative Research Center (IUCRC) for
+Alternative Sustainable and Intelligent Computing (ASIC), and the co-director
+of Duke Center for Computational Evolutionary Intelligence (DCEI). His group
+focuses on the research of new memory and storage systems, machine learning
+and neuromorphic computing, and mobile computing systems. Dr. Chen has
+published 1 book and about 500 technical publications and has been granted 96
+US patents. He has served as the associate editor of more than a dozen
+international academic periodicals and served on the technical and
+organization committees of more than 60 international conferences. He is now
+serving as the Editor-in-Chief of the IEEE Circuits and Systems Magazine. He
+received eight best paper awards, one best poster award, and sixteen best
+paper nominations from reputable international conferences and workshops such
+as MICRO, KDD, DATE, SEC, etc. He received numerous awards for his technical
+contributions and professional services such as the IEEE Computer Society
+Edward J. McCluskey Technical Achievement Award, ACM SIGDA Service Award, etc.
+He is a Fellow of the ACM and IEEE and now serves as the chair of ACM SIGDA.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Electrical and Computer Engineering
+  * Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** 405 Wilkison Building, 534 Research Dr., Durham, NC
+    27705
+  * **Office Phone:** (919) 660-1372
+  * **Email Address:** yiran.chen@duke.edu
+  * **Websites:**
+    * Duke Center of Computational Evolutionary Intelligence (CEI)
+    * Google Scholar Page
+    * NSF AI Institute for Edge Computing Leveraging Next Generation Networks (Athena)
+    * NSF IUCRC for Alternative Sustainable and Intelligent Computing (ASIC) 
+
+## Education
+
+  * Ph.D. Purdue University, 2005
+
+## Research Interests
+
+Emerging memory and storage technologies
+
+Embedded systems, CPS, edge computing, and mobile applications
+
+Neuromorphic computing, deep learning and system security
+
+Low power circuit and system
+
+## Awards, Honors, and Distinctions
+
+  * Edward J. McCluskey Technical Achievement Award. Institute of Electrical
+    and Electronics Engineers (IEEE). 2022
+  * ACM Fellow. ACM. 2020
+  * IEEE Fellow. IEEE. 2018
+
+## Courses Taught
+
+  * COMPSCI 393: Research Independent Study
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+
+## In the News
+
+  * Three Duke Faculty Elected AAAS Fellows (Jan 31, 2023 | Duke Today)
+  * NSF Launches Artificial Intelligence Research Center at Duke (Jul 29,
+    2021)
+  * Yiran Chen: Integrating Tomorrows Technology into Todays Devices (Jan 3,
+    2017)
+
+## Representative Publications
+
+  * Hanson, E., S. Li, X. Qian, H. H. Li, and Y. Chen. “DyNNamic: Dynamically
+    Reshaping, High Data-Reuse Accelerator for Compact DNNs.” Ieee
+    Transactions on Computers 72, no. 3 (March 1, 2023): 880–92.
+    https://doi.org/10.1109/TC.2022.3184272.
+  * Pang, Meng, Binghui Wang, Mang Ye, Yiu-Ming Cheung, Yiran Chen, and Bihan
+    Wen. “DisP+V: A Unified Framework for Disentangling Prototype and
+    Variation From Single Sample per Person.” Ieee Transactions on Neural
+    Networks and Learning Systems 34, no. 2 (February 2023): 867–81.
+    https://doi.org/10.1109/tnnls.2021.3103194.
+  * Chang, C. C., J. Pan, Z. Xie, J. Hu, and Y. Chen. “Rethink before
+    Releasing Your Model: ML Model Extraction Attack in EDA.” In Proceedings
+    of the Asia and South Pacific Design Automation Conference, Asp Dac,
+    252–57, 2023. https://doi.org/10.1145/3566097.3567896.
+  * Yang, X., S. Li, Q. Zheng, and Y. Chen. “Improving the Robustness and
+    Efficiency of PIM-Based Architecture by SW/HW Co-Design.” In Proceedings
+    of the Asia and South Pacific Design Automation Conference, Asp Dac,
+    618–23, 2023. https://doi.org/10.1145/3566097.3568358.
+  * Chang, C. C., J. Pan, Z. Xie, Y. Li, Y. Lin, J. Hu, and Y. Chen. “Fully
+    Automated Machine Learning Model Development for Analog Placement Quality
+    Prediction.” In Proceedings of the Asia and South Pacific Design
+    Automation Conference, Asp Dac, 58–63, 2023.
+    https://doi.org/10.1145/3566097.3567881.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Smartwatches Can Help Guide COVID-19 Testing
+
+October 10, 2022 | Michaela Kane
+
+Data from smartwatches can help identify people with likely COVID-19
+infections, enabling physicians to catch more cases with fewer tests
+
+Researchers at Duke University have developed a way to use data collected from
+wearable devices like smartwatches to identify people with possible COVID-19
+infections.
+
+This knowledge will enable health care workers to conduct testing more
+efficiently, as they’ll be able to identify more positive cases using fewer
+tests and in less time. This improved efficiency can help address testing
+supply shortages during outbreaks of new variants and diseases and in settings
+where testing resources are scarce.
+
+The study appears on September 1 in npj Digital Medicine.
+
+During an outbreak, public health experts conduct surveillance testing to
+study and control the spread of disease through a population. Surveillance
+testing can help to catch infections before they would be spread further,
+which limits the reach of disease outbreaks.
+
+But, as the public saw during the COVID-19 pandemic, this process can be
+hindered when there aren’t enough tests to go around.
+
+“Surveillance testing is a great tool if you have enough tests, but if there
+is a shortage, you need to be strategic about how you use them,” says Md
+Mobashir Hasan Shandhi, a postdoctoral research fellow at Duke. “It was clear
+that we didn’t have enough tests at the beginning of the pandemic, and that
+shortage persists globally. And when the Delta variant appeared last July, the
+daily demand for tests surged from 250 thousand to 1.5 million in two months,
+and testing capacity didn’t meet the sudden demand.”
+
+To address this issue, Jessilyn Dunn, an assistant professor of biomedical
+engineering at Duke, and members of her lab, including Shandhi, Peter Cho and
+Ali Roghanizad, developed an Intelligent Testing Allocation (ITA) method by
+analyzing health data collected through their lab’s CovIdentify study.
+
+Volunteers in the CovIdentify study filled out regular symptom surveys,
+submitted diagnostic tests and synced their smartwatches up to the CovIdentify
+app or submitted their data directly to the team. The program then analyzed
+biometric data from the wearable devices, specifically the participant’s
+activity levels, sleep levels and heart rate, and examined how that health
+data matched with symptoms that could indicate a COVID-19 infection.
+
+To ensure that they were working with a robust data set, the team expanded
+their scope to include Stanford University’s MyPhD study, which similarly
+required participants to share their smartwatch data to track COVID-19
+symptoms and diagnosis.
+
+After analyzing the data, Dunn and her collaborators observed that many
+patients who reported a positive COVID test experienced a raised resting heart
+rate (RHR) in the days leading up to their diagnosis. They also saw that many
+participants took fewer steps for multiple days before testing positive.
+
+“We developed a machine learning algorithm and trained it to use these
+biomarkers to identify potential COVID-19 infections,” said Roghanizad, a
+post-doctoral fellow in the Dunn lab. “Initially we thought incorporating both
+the activity levels and heart rate data into our algorithm would make it more
+accurate, but just identifying persistent changes to a person’s resting heart
+rate was a much more accurate predictive indicator of infection because it
+changes earlier in the course of the infection.”
+
+Using their algorithm, the researchers developed their ITA method to identify
+and test the most likely COVID-19 cases. Their approach resulted in a 6.5-fold
+increase in the positivity rate as compared to the standard random allocation
+testing method.
+
+“Our ITA method significantly increased the positivity rate, which translates
+to a lot more caught infections,” said Cho, a PhD student in the Dunn lab. “A
+change in someone’s resting heart rate wasn’t always indicative of a COVID
+infection, but we showed that it’s a very good guiding metric, especially when
+you’re working with limited resources.”
+
+The team will continue to analyze the data from the CovIdentify study to
+develop additional digital biomarkers for COVID-19. Ultimately, they would
+like to develop a way to use wearable data to identify and diagnose COVID-19
+infections as soon as physiologically possible (e.g., within 24 hours of
+pathogen exposure). They also hope to expand their model so it can be applied
+to other respiratory illnesses, like the flu.
+
+“We’ve seen how inefficient diagnostic testing can exacerbate disease
+outbreaks and harm communities, with Monkeypox as an even more recent example
+than COVID-19” said Dunn. “Our approach allows us to take a step forward in
+improving surveillance testing to catch infections that would otherwise result
+in disease spread, and it helps people get the right care and information at
+the right time.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

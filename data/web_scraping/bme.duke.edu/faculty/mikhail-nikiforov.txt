@@ -1,0 +1,323 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Mikhail A. Nikiforov
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Pathology
+
+Mechanism of Deregulated GTP Metabolism in Cancer Cells
+
+GTP-binding proteins (G proteins) regulate a vast variety of cellular
+processes and are frequently hyper-activated in human cancers. Enzymes
+controlling the de novo biosynthesis of GTP are also substantially deregulated
+during tumorigenesis and metastasis. Historically, changes in GTP levels were
+not considered as a regulatory step in activation of G-proteins in live cells.
+This is because average intracellular GTP concentration measured by HPLC or
+mass spectrometry (~500µM) is much higher than the GTP dissociation constant
+(Kd) of multiple G-proteins including small RHO-GTPases RAC1 or RHOA.  
+  
+Up until now no methods existed to detect fluctuations of free GTP in live
+cells. We recently reported genetically encoded intracellular sensors of free
+GTP. (Bianchi-Smiraglia et al, Nature Methods, 2017) These sensors for the
+first time made possible visualization of free GTP changes in live cells and
+identified regions with low (~30µM) and high local GTP concentration.
+
+Furthermore, by combining genetically encoded GTP biosensors and a RAC1
+activity biosensor, we demonstrated that GTP levels fluctuating around
+RAC1-GTP Kd correlated with RAC1 activity in live cells. RAC1 colocalized in
+protrusions of invading cells with several guanylate metabolism enzymes,
+including rate-limiting inosine monophosphate dehydrogenase 2 (IMPDH2), GMPR,
+GMPS and NME (see a diagram). Substitution of endogenous IMPDH2 with IMPDH2
+mutants incapable of binding RAC1 did not affect total intracellular GTP
+levels but suppressed RAC1 activity. Accordingly, targeting IMPDH2 away from
+the plasma membrane did not alter total intracellular GTP pools but decreased
+GTP levels in cell protrusions, RAC1 activity, and cell invasion. ( Bianchi-
+Smiraglia et al, Nature Communications, 2021) These findings represent a
+paradigm shift in the understanding of Rac1 regulation (Step 4 on the
+diagram). Currently we study mechanisms of intracellular GTP distribution and
+explore the anti-guanylate therapy as novel strategy for melanoma
+intervention.
+
+Multiple myeloma (MM) is a plasma cell disorder that accounts for
+approximately 10% of all hematologic malignancies. Due to high immunoglobulin
+production in endoplasmic reticulum (ER), MM cells continuously undergo ER
+stress. This feature makes MM susceptible to agents that exacerbate ER stress,
+such as proteasome inhibitor bortezomib. Yet currently MM is incurable for
+most patients due to rapidly developing resistance to proteasome inhibition.
+Recently by studying global metabolome and transcriptome in cultured and
+patient MM cells, we identified key enzymes involved in regulation of
+endoplasmic reticulum and oxidative stress (KLF9 and TXNRD2), polyamine
+metabolism (ODC1 and AZIN1), and fatty acid biosynthesis (fatty acid elongase
+ELOVL6, see a diagram) as major clinically relevant regulators of multiple
+myeloma resistance to bortezomib. (Fink et al, Leukemia; Fink et al, Cell
+Reports; Bianchi-Smiraglia et al, Journal of Clinical Investigation, 2018;
+Lipchick et al, Blood Adv, 2021) For some of the identified enzymes we
+uncovered mechanism of their involvement in control of MM cell viability,
+whereas the function of others is currently being pursued.
+
+Identification of lineage-specific transcription factors is important for
+understanding how the disease is manifested in different tissues. Of a
+particular interest are transcription factors oppositely regulating phenotypes
+in different lineages. In epithelial cells, E/N cadherin switch represents a
+hallmark of epithelial-mesenchymal transition (EMT), a process by which static
+cells acquire a mesenchymal-like phenotype, including migratory and invasive
+capabilities. In search for transcription factors regulating the EMT-like
+transition in melanocytic cells, we evaluated several bona fide regulators of
+EMT. One of them, FOXQ1, a member of FOX family of transcription factors, is
+overexpressed at advanced stages in several human carcinomas where it promotes
+E/N-cadherin switch ultimately leading to increased invasion.
+
+Unexpectedly, we found that FOXQ1 levels are significantly lower in metastatic
+melanoma specimens compared to primary melanomas. Accordingly, we identified
+that in melanoma cells, FOXQ1 suppresses the same processes it activates in
+carcinoma cells: expression of N-cadherin gene (CDH2), EMT, invasion, and
+metastasis.
+
+Mechanistically, we demonstrated that like LEF1/TCF4, FOXQ1 interacts with
+nuclear b-catenin and TLE (groucho) proteins and that the b-catenin/TLE ratio,
+which is higher in carcinoma than melanoma cells, determines the effect of
+FOXQ1 on N-cadherin gene transcription (see diagram). Accordingly, other
+FOXQ1-dependent phenotypes can be manipulated by altering nuclear ß-catenin or
+TLE proteins levels. (Bagati et al, Cell Reports, 2017)
+
+Intriguingly, FOXQ1 is also involved in regulation of differentiation in
+normal melanocytes (Bagati et al, Cell Death and Differentiation, 2018) and
+keratinocytes via yet unknown mechanisms. Currently, we are establishing such
+mechanisms and in parallel pursuing the role of Foxq1 in skin biogenesis in
+mouse models.
+
+## Appointments and Affiliations
+
+  * Professor of Pathology
+  * Professor in the Department of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Office Location:** 210 Research Drive, GSRB Ii, Rm. 4020, Durham, NC
+    27710
+  * **Office Phone:** (919) 668-8283
+  * **Email Address:** mikhail.nikiforov@duke.edu
+
+## Education
+
+  * B.S. Lomonosov Moscow State University (Russia), 1992
+  * M.S. Lomonosov Moscow State University (Russia), 1992
+  * Ph.D. University of Illinois, 1997
+
+## Research Interests
+
+The main objectives of Professor Nikiforov’s research program includes
+identification and therapeutic exploitation of mechanisms underlying the
+deregulated transcription programs and metabolism in melanoma and multiple
+myeloma, two malignancies with no curative treatment. Nikiforov pursues these
+objectives by integrating in vitro and in vivo approaches of biomedical
+engineering, functional genomics, transcriptomics, proteomics and
+metabolomics.
+
+## Courses Taught
+
+  * BME 570L: Introduction to Biomolecular Engineering (GE, BB, MC)
+  * BME 590: Special Topics in Biomedical Engineering
+  * PATHOL 793: Research Independent Study
+
+## Representative Publications
+
+  * Wolff, David W., Anna Bianchi-Smiraglia, and Mikhail A. Nikiforov.
+    “Compartmentalization and regulation of GTP in control of cellular
+    phenotypes.” Trends Mol Med 28, no. 9 (September 2022): 758–69.
+    https://doi.org/10.1016/j.molmed.2022.05.012.
+  * Wolff, David W., Zhiyong Deng, Anna Bianchi-Smiraglia, Colleen E. Foley,
+    Zhannan Han, Xingyou Wang, Shichen Shen, et al. “Phosphorylation of
+    guanosine monophosphate reductase triggers a GTP-dependent switch from
+    pro- to anti-oncogenic function of EPHA4.” Cell Chem Biol 29, no. 6 (June
+    16, 2022): 970-984.e6. https://doi.org/10.1016/j.chembiol.2022.01.007.
+  * Bianchi-Smiraglia, Anna, David W. Wolff, Daniel J. Marston, Zhiyong Deng,
+    Zhannan Han, Sudha Moparthy, Rebecca M. Wombacher, et al. “Regulation of
+    local GTP availability controls RAC1 activity and cell invasion.” Nat
+    Commun 12, no. 1 (October 19, 2021): 6091.
+    https://doi.org/10.1038/s41467-021-26324-6.
+  * Lipchick, Brittany C., Adam Utley, Zhannan Han, Sudha Moparthy, Dong Hyun
+    Yun, Anna Bianchi-Smiraglia, David W. Wolff, et al. “The fatty acid
+    elongase ELOVL6 regulates bortezomib resistance in multiple myeloma.”
+    Blood Advances 5, no. 7 (April 13, 2021): 1933–46.
+    https://doi.org/10.1182/bloodadvances.2020002578.
+  * Fink, Emily E., Sudha Moparthy, Archis Bagati, Anna Bianchi-Smiraglia,
+    Brittany C. Lipchick, David W. Wolff, Matthew V. Roll, et al. “XBP1-KLF9
+    Axis Acts as a Molecular Rheostat to Control the Transition from Adaptive
+    to Cytotoxic Unfolded Protein Response.” Cell Reports 25, no. 1 (October
+    2018): 212-223.e4. https://doi.org/10.1016/j.celrep.2018.09.013.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

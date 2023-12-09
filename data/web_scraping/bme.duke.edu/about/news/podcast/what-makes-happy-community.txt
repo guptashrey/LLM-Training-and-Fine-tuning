@@ -1,0 +1,428 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# What Makes a Happy Community?
+
+April 12, 2023
+
+Duke CEE faculty member **Andrew Jones** investigates how and where bacterial
+communities thrive in the built environment—and imagines a future water smart
+grid that’s accessible to everyone.
+
+## Listen
+
+Rate of Change · What Makes a Happy Community?
+
+## Transcript
+
+Miranda Volborth: Civil and Environmental Engineering faculty member Andrew
+Jones is interested in a lot of different stuff. Bacteria and how they form
+biofilms, developing new techniques to breach the barriers of these biofilms,
+how these bacterial communities can impact human health, the future of the
+grid and the environmental justice issues involved with that future. Meet
+Andrew Jones on this episode of Rate of Change, a podcast from Duke
+University, dedicated to the ingenious ways that engineers are solving
+society's toughest problems. Hope you've had your coffee today so you can keep
+up. We're going to start with Andrew telling us about growing up here in
+Durham, while his dad was a grad student at Duke.  
+  
+Andrew Jones: Which hotel is that? The Hilton that we normally put faculty up
+in off of Main Street, used to be a giant open field. And that's actually
+where I learned how to ride a bike and fly a kite, because Duke lovingly has
+all these trees right around the main quad, which means that as far as flying
+kites go, it's kind of out. Riding a bike, actually I think I might have
+ridden a bike there. Anyway, I also have a really good memory of climbing a
+magnolia that still exists over in the Sarah P. Duke Gardens.  
+  
+Miranda: I know the exact one you're talking about. Yeah, magnolias are the
+best climbing trees.  
+  
+Andrew Jones: They are. They have nice low branches and...  
+  
+Miranda: Yeah. And you said your family farmed here, right?  
+  
+Andrew Jones: My mom's entire family, they were from, I guess about an hour
+north of here, Caswell County. My grandfather had a fairly large farm. My
+aunts, all my great aunts who descended from him had small farms or large
+farms, depending. My mother, even though she was born and raised mostly in
+Cleveland, she would spend her summers down here picking tobacco. She claims
+that she even got a small nicotine addiction and that's where it started.
+She's since given up cigarettes, but that's where it kind of started, was
+picking and handling tobacco. And if I want to tie that into the research that
+I do now, one of my students was very curious about nicotine's relationship to
+antibiotic resistance and relation to, because there are oils on tobacco
+leaves. And so you have the oils coming off the tobacco leaf, you have the
+pesticides and herbicides, all the pesticides we spray on tobacco leaves and
+how that might influence the skin microbiome.
+
+And that's one of the projects that we're looking at right now, is just
+looking at how the skin microbiome just hangs around on our skin in an in
+vitro situation. So instead of having to do a mouse model or a pig model, we
+have 3D printed skin, and we're looking at three different bacteria that we
+know exist on the skin and how they interact, how they will relate to each
+other, and how this differs from when we look at these same bacteria on the
+standard agar plate model, which is what everybody uses. They basically take
+gelatin and they make an agar plate, and that's how they grow bacteria, and
+that's not really representative of the way our skin works. Our skin is not as
+wet as agar.  
+  
+Miranda: Hopefully.  
+  
+Andrew Jones: It's pretty dry. It is more porous than agar, right. That's how
+we have pores on our skin. We have higher temperatures. We have more oil on
+our skin than agar does. So just looking at how bacteria will differ between
+that platform, the agar platform, and these 3D printed skin that we are able
+to produce is going to hopefully open up some new doors for studying the more
+advanced stuff, like how nicotine and other oils from tobacco leaves might
+affect your skin microbiome. And then affect your health down the line. Or how
+pesticides and herbicides might affect your skin microbiome, which will
+eventually affect the rest of your health down the road.  
+  
+Miranda: I have so many questions about this. What are you 3D printing the
+skin from?  
+  
+Andrew Jones: So, a combination of different gelatins and different cells. So,
+we can actually use epithelial cells and epithelial tissue to print
+structures. So that was kind of, it's a really recent innovation. We didn't do
+it in our lab. Right now, the most interesting structure we have is, well, a
+3D coupon of skin, so like a cube, basically. But it has more porosity than
+agar, as I said. It has the ability to have cells growing inside of it. It's
+multiple components, so we have different gels that we're actually embedding
+these cells inside, so there's a little bit of different stress and strain,
+because if you look at our tissue, our tissue is not one uniform homogenous
+tissue.  
+  
+Miranda: Yeah, I'm just kind of trying to imagine what that process would look
+like. A 3D printer squirting out kind of...  
+  
+Andrew Jones: It's squirting out a combination of cells and inks. It literally
+is like a syringe, either your pastry syringe or the syringes that you get
+vaccines out of. It exists. So, it applies pressure and squirts it out, but it
+squirts it out at a nice slow enough rate and occasionally with a UV light so
+that we can, I guess, solidify or cross-link the material so that it's more of
+a solid than a liquid.  
+  
+Miranda: That is wild. I guess, I don't think about the microbiome on skin,
+although I know that it is there. I think we usually think about the
+microbiome being in your guts or inside of other really wet kind of things.
+Are there other places around us that kind of host these microbiomes that
+people might be surprised by?  
+  
+Andrew Jones: Everything has a microbiome. Yes. So, on a project with Claudia
+Gunsch, Duke University just got the... What is it? An engineering research
+center funded-  
+  
+Miranda: PreMiEr?  
+  
+Andrew Jones: Yeah.  
+  
+Miranda: Andrew is referring to the engineering research center for Precision
+Microbiome Engineering, PreMiEr. This center is aiming to develop diagnostic
+tools and different approaches that prevent the colonization of harmful
+bacteria in the built environment and encourage beneficial microorganisms to
+thrive. PreMiEr is led by Duke CEE Professor Claudia Gunsch, and it's
+supported by a $26 million grant from the NSF. Andrew is one of many
+researchers from multiple institutions collaborating on this new center.  
+  
+Andrew Jones: And that is entirely designed to study the building microbiome.
+It's when we think about the spread of COVID on an indoor environment, part of
+that thinking is, well, that is an indoor microbiome. That's a combination of
+us walking into a room, exhaling whatever we have in our mouths and our lungs,
+and spitting that out into a room that will stick to a surface. I mean, we
+originally thought about COVID, I think in the early days, everybody was
+wiping down their surfaces. Because the thought was maybe COVID was spread
+through surface contact. Turns out it wasn't. If we really think back to how
+human evolution worked or evolution worked, bacteria were first.
+
+They've been here for millennia, and so they know how to colonize basically
+any environment, dry, wet, hot, acidic, volcanic. They are everywhere.
+
+The biggest challenge with the bacterial side of the microbiome is that we
+can't culture most of those bacteria. We don't know what things make them
+happy to grow them in large quantities that we can see them under a
+microscope. However, they're there. The recent innovations have been that we
+can use 16S RNA seq, which is a way of just amplifying a chunk of DNA and
+being able to amplify it enough so that we can see at least what DNA was
+there. And that's allowed us to start seeing certain things. But the biggest
+challenge was really just growing those microbes in a controlled, repeatable
+environment, the way that we like to do science. Well, that's harder. Because
+if we're thinking, trying to grow the bacteria inside the sound booth, right?
+Well, what makes them happy to grow it? Is it the styrofoam that makes them
+happy? We don't know. And we have to just keep tossing things at it and trying
+to figure out what works.
+
+So that's kind of the big challenge, but also the big opportunity is that we
+have new tools, new technologies like the 3D Bioprinter where we can start
+saying, "Well, what's going to make this bacteria happy?" One of the cool
+findings that we found so far with just the 3D Bioprinter, is that
+Propionibacterium acnes, also known as Cutibacterium acnes, also known as the
+bacteria that causes acne, that bacteria likes growing on our 3D printed skin
+constructs a lot better than it grows on agar.
+
+One of the other fascinating studies that happened that I was talking about
+when the PreMiEr grant was going through review was, I think it was a 2019
+study where somebody went around and sampled hospitals. Just clipboards, the
+paper in the hospital, the different surfaces of a hospital, and then they
+just took those samples, put them under a SEM, so scanning electron
+micrograph, which allows you to get micron level images, and they're normally
+in black and white, but they were able to find biofilms on those surfaces.
+
+If we think about a biofilm, you're thinking about the plaque on your teeth,
+you're thinking about the really colorful ponds in Yellowstone. Those are
+biofilms. You're thinking about the slime on rocks, and yet they were finding
+these on paper, on clipboards, on ink pens, and it was interesting to see that
+same morphology. Something that looks basically like a biofilm, but on
+something that is dry.  
+  
+Miranda: Is learning how those biofilms work to be able to better break them
+down? Is that the...  
+  
+Andrew Jones: I wouldn't say break them down. I'd say live with them. That's,
+I guess, another fascinating direction the research has started to take. I
+think there was a really cool paper in 2017 that started talking about a way
+to defeat this antimicrobial resistance crisis is to kind of scale back on
+antimicrobials. So not taking antibiotic to kill off bacteria. We don't
+necessarily need to kill them off, because once we kill them, then you start
+doing the natural selection thing, which starts leading to things that are
+resistant. So, if instead, you could figure out a way to decrease their
+virulence, right?
+
+So instead of worrying about how well, or instead of worrying about just their
+existence in our body, because we have bacteria on our skin, we have bacteria
+in our gut that we're totally fine with. Why is it a problem? It's a problem
+because it starts shifting things over to a dysbiosis. It starts dominating
+the other species. And so, if we could figure out a way of just saying you
+know what, what if we were to add this other thing, this other element to it
+to make it kind of go back to its normal contained happy state.  
+  
+Miranda: What kind of dysbiosis can happen in water treatment and delivery?  
+  
+Andrew Jones: That is an interesting question that might even be at the
+forefront of Premier, the center we talk about earlier. Looking and trying to
+figure out, ok, we know what dysbiosis looks like in a human—that's a decent
+chunk of what my lab studies, dysbiosis in a human being. But dysbiosis in a
+building or a water treatment plant, that’s kind of an open question that
+we’re trying to probe a lot more, both in my lab and in the NSF PremiEr center
+at large. How could we make sure to modify—or, COULD we even engineer that
+community to be the community of bacteria that we want. The community that
+will do no harm, or do the least harm. Right now, we don’t know even if we can
+engineer that community, or how that community arises in the first place.
+There’s a lot of study that needs to go on to figure out how that community
+popped up there, and how it’s so stable.  
+  
+Right now, there’s not been a lot of waterborne illnesses that were aware of
+that are publicized, so our water treatment system is working really well
+right now. But could we do better? Could we do better through engineering
+tools or engineering practices so that we can live with a little more low-cost
+solutions to drinking water treatment, and also protect our most vulnerable
+populations, because for the most part even though those bacteria are probably
+benign for most people, there may be populations that are somewhat
+immunocompromised, that may not be able to deal with that level of bacteria in
+their drinking water, and right now they’re probably having to pay out of
+pocket to get water that meets the standard to protect their health. Could we
+potentially design a system that would help them as well?  
+  
+My vision for the future, both the future of my lab but also the future of
+society, is one my lab is really positioned as a lab that develops tools for
+this water smart grid concept that we are proposing—kind of latching on to.
+And what that means for people on a day-to-day basis is just a lot more trust
+in your water and a lot more knowledge about your water. Right now, water
+quality, water information, is literally all buried. It’s all underground. You
+get a water report once a year. You may not even know that you get a water
+quality report, mandated by law, mandated by the Clean Water Act. You’re
+supposed to get this report from your water utility that says what’s in your
+water. Once a year. It’s really hard to care about what’s coming up from
+underground that you don’t see every day. It’s hard to care about things you
+don’t see. But with a water smart grid I hope that people are going to be able
+to see water and see their water quality better, and be able to trust it. And
+if they don’t trust it, to be able to act, with information, to improve their
+water quality system just like we can do with roads.
+
+Miranda: What would you expect living with a more accessible, more equitable
+water system to look like, for a normal person?  
+  
+Andrew: For a consumer, you would turn on your tap and water would flow like
+normal. You wouldn’t notice what’s going on underground—the same as right now.
+Except you would have a display, and that display would tell you things that
+might make you trust your water better. It might say, “You’re using this much
+water. Your neighbors are using this much water. You have this much water left
+in whatever reservoir you’re drawing from,” whether that’s a community basin
+or city reservoir, or your county or town reservoir. So, you’d be drawing and
+say, “Okay, I’m subtracting this much from these sources.” You might be able
+to click a screen that shows more information: projected out, with our current
+rainfall levels and snowfall levels, you’ll have enough to last, in this
+storage tank, for the next year or two years. It might show an alarm that
+says, “Hey, are you using this water or just letting it run?” It will tell you
+things about the quality of your water. The pressure of your water. Being able
+to see, yes, your water pressure is fine, there’s no leaks in the system. It
+could also say, before you turn on the tap, “Hey, you’ve been using water
+throughout the day...” An app on your phone, maybe, would say, “You’re using
+water,” but there’s no faucet running in my house right now. I haven’t turned
+on anything. And that can point you to a leak-- that can say, “You should
+probably go fix this.”  
+  
+We have that technology right now, the leak detection. It’s the rest of it,
+the... “Your water is free from arsenic, it’s free from lead, it’s free from
+bacteria.” Or maybe there is bacteria in your water and you might want to do
+something about that. You turn on your tap and you might get more information
+than you can deal with. But hopefully the display, as we design and iterate,
+would get to where we could display information that is relevant at the time
+of use.  
+  
+Miranda: …See how much water the Joneses are using on their grass this time of
+year...  
+  
+Andrew: Right! And see how that might impact the rest of the system.  
+  
+So, if we’re trying to push these technologies out, we have to consider policy
+solutions and think about how policies worked in the past to improve overall
+health. One lovely example is that the catalytic converter was originally put
+out in the late 1970s, early 1980s. That was through government mandate and it
+immediately improved air quality for everyone. Then car companies realized, we
+can get more efficient engines, longer lasting... so they decided to do it
+themselves later on. Market forces later improved the implementation of that
+technology.  
+  
+So, I try to blend in a little bit of policy work with the engineering work
+that I do, to make sure that when I develop these new technologies, they will
+actually get out there and help people get access to these tools to improve
+either their building’s health or their neighborhood’s health, or the broader
+community’s health.  
+  
+So that's how the policy piece is still in my research. There's technology and
+there's policy, and how do those two things meet and interact?  
+  
+Miranda: Keep your eyes on Andrew Jones and his lab here at Duke. There’s sure
+to be many, many interesting things coming from it in the future.  
+  
+Thanks for listening. You can subscribe to this podcast, and if you learned
+something, please share it with others.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Akhenaton-Andrew Dhafir Jones
+
+Assistant Professor of Civil and Environmental Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

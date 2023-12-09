@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Dipping into Sri Lanka’s Rural Wells
+
+February 21, 2022 | Miranda Volborth
+
+Duke researchers implemented a water sampling campaign in rural Sri
+Lanka—aiming to discover origins of a cluster of chronic kidney disease
+
+As an undergraduate chemistry major at Union College, Jake Ulrich studied
+abroad in Vietnam, where water wasn’t safe to drink straight from the tap—it
+either had to be boiled first or bought. An internship with a local non-
+governmental organization that studied and reported on the water quality of
+the lakes within the city of Hanoi piqued his interest in environmental
+systems. He wanted to learn more.
+
+At the same time, Ulrich began applying to graduate schools, Lee Ferguson’s
+lab was rising to national prominence. Ferguson, a civil and environmental
+engineering professor at Duke University, is an analytical chemist. One of his
+areas of expertise is mass spectrometry, which can identify contaminants and
+trace them back to their source. After a polyfluorinated alkyl substance
+called GenX was discovered in 2017 in the drinking water supply for
+Wilmington, North Carolina, Ferguson helped design and implement a program to
+test every public drinking water source across the state for these “forever
+chemicals.”
+
+Ulrich joined Ferguson’s lab as a PhD student in 2017, wanting to build on his
+analytical instrumentation skills, specifically in mass spectrometry. Five
+years later, this expertise detoured his laboratory work to a plane bound for
+Sri Lanka to investigate a cluster of chronic kidney diseases—a trouble widely
+believed to be tied to pollutant mixtures in the region’s drinking water.
+
+“The existence of this disease is common knowledge in Sri Lanka,” said Nishad
+Jayunsundara, an assistant professor at the Nicholas School of the
+Environment. Jayasundara began working on the problem as a postdoctoral
+researcher in professor Rich Di Giulio’s lab at the Duke Superfund Research
+Center, with initial support from the Duke Global Health Institute. But to
+really understand the cluster’s origins, Jayasundara believed the Ferguson
+lab’s expertise in analytical chemistry could serve as a powerful tool. He
+proposed collaborating on the project, and for Ulrich, it was a perfect fit.
+
+“We decided to attack from two sides,” said Ulrich. “Professor Jayasundara’s
+lab will focus on toxicology, and the Ferguson lab will look at chemistry. We
+can harmonize the data to see if we can get a clear picture of what’s in the
+water and how it might be impacting the health of the people in Sri Lanka.”
+
+> "We can harmonize the data to see if we can get a clear picture of what’s in
+> the water and how it might be impacting the health of the people in Sri
+> Lanka.”
+>
+> **Jake Ulrich** | Duke CEE PhD student
+
+Ulrich spent several years designing and planning a large water sampling
+program, then spent six weeks with Jayasundara implementing it in Sri Lanka.
+Along with guides and University of Ruhuna collaborators, they piled into a
+van between midnight and 2:00 AM each day to arrive at their rural
+destinations a sliver of sun past daybreak. They collected well water
+alongside urine samples and demographic information from people in these
+communities over multiple days in a campaign that, by its end, encompassed
+more than 200 different wells across several regions.
+
+Each of the hundreds of well water samples started at around a liter in
+volume, but Ulrich developed some processing techniques to make the logistics
+of transport more manageable. Processing of the samples began at the
+University of Ruhuna, using a vacuum filtration system to pull the suspended
+solids out of the well water. A small, commercially available cartridge then
+captured the organic chemicals contained in the sample with a special polymer,
+retaining them for later analysis. “Instead of dealing with hundreds of liters
+of water, we were able to bring back hundreds of cartridges, which weigh much
+less and take up less space,” explained Ulrich. Back at Duke, he could remove
+the material on the cartridges with solvents and use mass spectrometry
+techniques to identify them.
+
+In most environmental assessment cases, chemical contaminants are targeted one
+by one.
+
+But high-resolution mass spectrometry’s superpower lies in the breadth of
+different molecules it’s able to consider at once and its unerring ability to
+identify them based on their molecular weight, even at very low
+concentrations.  
+“We’ve really been working to broaden that window so that instead of using a
+laser beam to illuminate the landscape, we’re using a spotlight,” said
+Ferguson. “The idea is to catch as many molecules as possible that might be of
+concern in a sample so that we can look at chemical mixtures.”
+
+> "Instead of using a laser beam to illuminate the landscape, we're using a
+> spotlight. The idea is to catch as many molecules as possible that might be
+> of concern in a sample, so that we can look at chemical mixtures."
+>
+> **LEE FERGUSON** | DUKE PROFESSOR OF CIVIL AND ENVIRONMENTAL ENGINEERING
+
+“What is most exciting about this collaboration is that we now have a trove of
+chemistry data that can be linked back to kidney toxicity assays we conduct
+using animal models in the lab,” said Jayasundara. “This will help to identify
+specific chemical mixtures that may pose the most risk to human health and
+follow up with laboratory studies to identify markers of disease initiation
+and progression.”
+
+In the case of the chronic kidney disease cluster in question, there is one
+main suspect; the literature indicates that the chemical glyphosate, an
+herbicide, could be responsible—but not on its own. Sri Lanka has hard water,
+and glyphosate interacts with it to form complexes that persist in the
+environment instead of breaking down quickly, as it does in soft water. Human
+kidneys suffer damage when they encounter this complex.
+
+Whether or not glyphosate is caught red-handed, the non-targeted analysis will
+allow the team to get a comprehensive look at everything else in the water,
+too. “It’s chemical discovery,” said Ulrich, who expects the investigation to
+continue for several months after the glyphosate analysis wraps up later this
+spring. “If the glyphosate contamination is not as significant as we think,
+there will be other directions to explore.”
+
+More news from Duke Engineering
+
+## Related News
+
+November 30, 2021
+
+### The Chemical Detective
+
+August 08, 2018
+
+### Duke Expert Helps Spearhead State's New Water Testing Program
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

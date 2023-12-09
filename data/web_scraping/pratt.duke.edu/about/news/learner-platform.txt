@@ -1,0 +1,203 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Training Enormous AI Models in Health Care While Protecting Data Privacy
+
+September 7, 2021 | By Ken Kingery
+
+New platform draws data from multiple institutions while protecting privacy
+
+Researchers at Duke University and the University of Pittsburgh have developed
+a platform that allows multiple hospitals and research centers to share
+private patient data securely to better train machine learning models. The
+technology could provide single institutions access to advanced predictive
+tools they could never develop on their own to both advance research and
+improve patient outcomes.
+
+Called “LEARNER,” researchers summarized the platform’s development at the
+National Science Foundation’s Convergence Accelerator Expo 2021, an event that
+shares the program’s research portfolio in an exhibition format, like a big
+science fair.
+
+“AI has incredible potential to improve health data analysis and diagnosis,
+but it requires a vast amount of data to reach a standard that is acceptable
+to use in real-life decisions,” said Helen Li, the Clare Boothe Luce Professor
+of Electrical and Computer Engineering at Duke. “And whenever you talk about
+health care data, there’s always a high level of privacy concerns. LEARNER
+allows health data from many sources to be used to train an AI model without
+actually sharing any of the sensitive data.”
+
+When a machine learning algorithm is trained, it compares the decisions it
+arrives at to the correct answers, attempts to tweak its inner workings to fix
+the errors, and repeats the process over and over again until it is no longer
+improving. These tweaks to its inner workings are referred to as weight
+parameters.
+
+LEARNER is based on a concept called “Federated learning.” In this setup, a
+single AI model is housed in a central cloud that is provided to users in
+multiple locations. Each location runs the AI model with its own data and
+produces a new set of weight parameters, which is in turn sent back to the
+cloud. The central AI model then uses all of the new weight parameters to
+develop a single updated algorithm. The process is repeated until the AI model
+is as good as it can get.
+
+> "Whenever you talk about health care data, there’s always a high level of
+> privacy concerns. LEARNER allows health data from many sources to be used to
+> train an AI model without actually sharing any of the sensitive data.”
+>
+> helen li
+
+Because only the weight parameters and not the actual data is being shared
+with the cloud, this technique sidesteps any concerns about data privacy, but
+the final trained model still represents data from all the entities involved.
+
+“The original information remains hidden on local computers,” explained Li.
+“For a large model, the process typically requires about 50-100 rounds of
+training between the local entities and the cloud, which sounds like it might
+take a long time, but in fact only takes a matter of hours.”
+
+Built in collaboration with Heng Huang, the John A. Jurenko Endowed Professor
+at the University of Pittsburgh, the LEARNER prototype demonstrated its
+usefulness in single-cell multi-omic data and electronic health records. In
+the former, researchers showed that LEARNER could use scRNA sequencing data to
+predict the protein markers for associating mRNA sequences with protein
+production. In the latter, they were able to use health record data to predict
+the probability of heart failure patients being readmitted within 30 days of
+being released.
+
+But if all goes according to plan, that’s only the beginning. The researchers
+are developing a user-friendly interface to encourage researchers and doctors
+to use the platform. Not only would this help LEARNER develop new and better
+AI health models, the platform also would eventually provide users with
+hundreds, if not thousands, of pre-trained AI models that they could use in
+their own laboratories and hospitals.
+
+“We hope LEARNER will be a platform for health experts who want to take
+advantage of AI but maybe don’t know a lot about AI themselves,” said Li. “We
+also hope it will help AI researchers who want to delve into health care and
+biomedical fields collaborate with one another on large-scale projects.”
+
+Li and her colleagues are in talks with a North Carolina-based AI company to
+continue to develop and potentially commercialize the LEARNER platform.
+
+This research was supported by the National Science Foundation (OIA-2040588).
+
+## Related News
+
+September 17, 2020
+
+### Duke-Led Team to Develop Privacy-Minded AI Health Learning Platform
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

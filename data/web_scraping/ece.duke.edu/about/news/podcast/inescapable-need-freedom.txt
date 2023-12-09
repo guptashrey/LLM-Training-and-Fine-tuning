@@ -1,0 +1,317 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# The Inescapable Need for Freedom
+
+February 17, 2023
+
+MEMS professor **Adrian Bejan** escaped the Iron Curtain to pursue his dreams.
+Listen to discover how his freedom led him to formulate constructal theory,
+which connects physics to evolution through the freedom of change.
+
+## Listen
+
+Rate of Change · The Inescapable Need for Freedom
+
+## Transcript
+
+Hello and welcome to Rate of Change, a podcast from Duke Engineering dedicated
+to the ingenious ways that engineers are solving societies toughest problems.
+I’m your host for today’s episode, Ken Kingery.
+
+Adrian Bejan, the J.A. Jones Distinguished Professor of Mechanical Engineering
+– has made his mark as an expert on the evolution of systems – the way natural
+phenomena evolve in a manner that gains greater access to flow. One might also
+call that freedom. And having grown up under communist rule for two decades in
+Romana, Professor Bejan knows a thing or two about freedom.
+
+There were no passports under communism, one could not run away. In fact, even
+to travel internally from city to city, one needed permission from the police
+station on the street. Yeah, there was police everywhere. And so I know the
+taste of lack of freedom, which obviously empowers me to know the taste of
+freedom and to value freedom. And my career, what have I achieved, actually
+teaches the value of freedom.
+
+Narrator:
+
+To gain his, Professor Bejan had to excel at something important enough to
+earn him a spot in a program that would allow him to travel abroad. Always a
+top student in his class, he pushed himself to be one of the top performers in
+school. But which subject to pursue?
+
+Professor Bejan:
+
+I had to choose a university that was the closest, and the closest was in my
+city. That university was an engineering polytechnic offering only mechanical,
+ship building and food engineering. I chose mechanical, so that's how I
+started as a mechanical engineer. And then, two years later in 1968, in
+Bucharest, out of the blue, there was a math contest for scholarships in the
+free West. And I did perfectly. I was the only winner of six. The only one
+whose parents were not in the central committee of the Communist Party. And I
+applied to MIT. I was admitted, but that took six months. So I arrived at MIT
+in February, 1969. I went to classes immediately. I learned English during the
+first two months taking courses.
+
+I knew right away that I was very, very fortunate. And in MIT, that's the
+topic for a future book, every day was a positive shock, I mean, a surprise.
+Anyway, one of them was that I fell in love with thermodynamics, which I took
+during my second semester at MIT. That became my strength in fact. Now, my
+career is in thermodynamics. The words thermo and dynamics mean the science of
+heating and power, or power from heating, or refrigeration from the same
+heating because in order to have a refrigerator, you need to have a power
+plant that burns fuel and then makes power.
+
+Narrator:
+
+Professor Bejan focused on thermodynamics throughout his career at MIT, where
+he earned both a bachelor’s and doctoral degree. With his eyes set on becoming
+a professor, he completed a post-doctoral stint at Berkeley before joining the
+faculty of the University of Colorado at Boulder. Five years later in 1984, he
+started his tenure at Duke, where he would expand his knowledge of
+thermodynamics to create a new theory of physics that, he says, dictates the
+evolution of systems ranging from river deltas to economic hierarchies.
+
+Professor Bejan:
+
+In the mid 1990s, it occurred to me that thermodynamics was not sufficient to
+account for the nature that we all know. Not sufficient for two reasons.
+Thermodynamics, there's very powerful and applicable science. It's about black
+boxes called systems. The objects of nature fit in those black boxes, but they
+bring with them flow configuration, design and architecture. So the first aha
+was that the flowing form was missing in physics.
+
+It is a phenomenon, it's observable, it's measurable. You can talk about it
+and you can teach it but it's not in physics. And number two, missing was also
+the evolution of the moving form. Everything that we see is moving and
+changing. It is alive. In fact, everything we read in the books of history,
+biology, geophysics, economics, technology have been moving and changing en
+route to what and where they are today. Evolution means change after change in
+a perceptible direction, which happens to be the human perception of time. So
+the second aha was the evolution was missing in physics.
+
+In order to predict the universal phenomenon of evolution, I published the
+constructal law, which states that for a finite size flow system, that means
+not infinite decimal, to persist in time, that means to live, it must evolve
+with freedom such that it provides easier and greater access to what flows.
+That was in 1996.
+
+And yes, freedom itself has a definition. It is the word for the physical
+features that allow a flow system to change and evolve. No change means no
+evolution. And no evolution means no life, no time, meaning direction, and no
+future.
+
+Narrator:
+
+Professor Bejan sees this freedom to evolve – to grow in time to gain greater
+access to flow – as a central tenant to all living systems. And he’s applied
+this fundamental thought to a wide variety of disciplines that might not fit
+the traditional definition of being alive.
+
+Professor Bejan:
+
+Now, because you asked me, here are some of the simplest and most common
+observations that have been predicted, obviously in retrospect, by invoking
+thermodynamics with constructal law. Animal locomotion, which means the rhythm
+of the moving organs, speed, the power used, frequency of the wings, legs and
+the fishtail. The cross sections of blood vessels. We know they're round or
+roundish, but they're predictable. They're everywhere in blood vessels and
+underground galleries for rainwater and earthworms. River basins and deltas.
+These are drawings of a few big channels and many small channels all carrying
+the same volume of rainwater.
+
+Human movement, which I also like to call rivers of people, is a pedestrian on
+the landscape and that is on an area, but also in a volume in a building. The
+evolution of speed and body size in competitive athletics, with a constructal
+law when it predicts the future of records in sport. All the bookies in Las
+Vegas should get to know my work. In fact, some of them have called me. In
+fact, the bookies from Saudi Arabia called me because they're there betting on
+camel races. I know nothing about camels, but I did say, tell me how tall they
+are and then I'll tell you what the speed will be, okay.
+
+The evolution of animals, airplanes, helicopters and ships. You see here, the
+range of sizes from the cat to the biggest oil tanker. Organ size, the
+prediction of that, meaning that the big engines and big hearts should, should
+be on big airplanes and big animals, not on the small ones. Economies of
+scale. It is easier to move and flow together than alone. This is an
+observation in economics. It is actually physics and is one of the simplest
+lessons that I teach. Social organization, money, periodic downturns cause
+crises, and hierarchy in wealth are predictable. Human perceptions with a
+constructal law belong in physics. The perception of freedom, beauty, time and
+time acceleration and time deceleration.
+
+So beginning to put these many, let's say developments together, the system
+and the environment are one system, not two. These two morph together and one
+shapes the other. Meanders and the rivers, nests and animals, air turbulence
+and the wing shape, water turbulence and the fishtail design, hand and tool
+and boots and feet. They are one. They belong together and they evolve
+together.
+
+So I've been coming to the present, to the conclusion that the freedom is
+nature. This is why I use the word all over. Evolution never ends, contrary to
+people who talk about the death of the universe, because freedom to change is
+nature. Best, optimum, minimum, maximum, this is for people who do
+mathematical optimization. These things are short-lived, because freedom to
+change is nature. You show me the best and tomorrow I'll tell you that's not
+the best.
+
+Narrator:
+
+So you heard it here first – there’s always a better tomorrow. At least, as
+long as things are allowed to change. And that change requires freedom, which
+brings this tale back full circle to Professor Bejan’s humble beginnings in
+Romania.
+
+After 42 years of living under communist rule following World War II, Romania
+shook the shackles suppressing their freedom to evolve in 1989. For Professor
+Bejan, it was a moment he had long waited for, and he hopes their relatively
+new-found freedom will allow the country to evolve into the future once more.
+
+Adrian Bejan:
+
+I was once again a citizen of Romania, because when I ran away, I was deprived
+of my citizenship. I had no rights in Romania. So overthrowing the communism
+led automatically to reinstating all the runaways. Romania is now a very lucky
+country. It's totally changed.
+
+Before Communism, before the Iron Curtain, there was no West Europe or East
+Europe. There was Europe, and everyone spoke French in Romania. And polite,
+and well dressed, and singing, and drinking. And that’s back.
+
+Narrator:
+
+That’s the show for today. I hope you’ve enjoyed hearing about how one man’s
+journey to freedom can inspire an entirely new way of thinking about the world
+through the lens of physics. If you want to learn more about constructal
+theory and Professor Bejan’s work, you can keep up with his progress at
+www.pratt.duke.edu. And if you want to here more inspiring stories such as
+this one, I encourage you to subscribe to this podcast. As always, thanks for
+listening.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Adrian Bejan
+
+J.A. Jones Distinguished Professor of Mechanical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

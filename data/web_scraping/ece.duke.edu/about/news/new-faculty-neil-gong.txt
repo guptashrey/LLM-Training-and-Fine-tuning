@@ -1,0 +1,183 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Neil Gong: At the Intersection of Security, Privacy and Machine Learning
+
+July 30, 2019
+
+New faculty member Neil Gong is exploring privacy and security issues and
+techniques related to machine learning and artificial intelligence
+
+Neil Gong joined the Department of Electrical and Computer Engineering in the
+Duke University Pratt School of Engineering on July 1, 2019. An expert in
+digital security technologies, Gong is one of a handful of researchers at the
+forefront of exploring privacy and security issues and techniques related to
+machine learning and artificial intelligence.
+
+“Machine learning is being deployed in many aspects of our societies like
+self-driving cars, precision healthcare and cybersecurity,” said Gong, who
+joins Duke’s faculty from Iowa State University. “And hackers are always
+motivated to follow emerging technologies to find new vulnerabilities as well
+as new tools for their trade.”
+
+Gong earned a B.E. in computer science from the University of Science and
+Technology of China in 2010 before completing his PhD in the same field at the
+University of California – Berkeley in 2015. It was there Gong got hooked on
+the subject.
+
+> "Now that machine learning applications are being widely used, the
+> intersection between privacy and security is an emerging area of research.
+> Stanford, MIT, Berkeley, CMU and Google all have groups focused on these
+> questions. I decided to come to Duke and stay in academia because of the
+> flexibility it provides in answering more fundamental research questions
+> that might take years to pay off commercially."
+
+Gong’s research focuses on two aspects of the intersection of privacy,
+security and machine learning. The first is trying to figure out how malicious
+actors might misuse machine learning techniques to attack computer and network
+systems as well as how to leverage machine learning to enhance cybersecurity
+and privacy. The second is to study the vulnerabilities of machine learning
+itself and how to build secure and privacy-preserving machine learning.
+
+For example, when large tech companies such as Facebook or Google implement
+machine learning algorithms, they are typically embedded within the programs
+or applications themselves. This leaves them vulnerable to hackers to design
+their own machine learning algorithms that can eventually reverse engineer the
+intellectual property being used.
+
+Another example in the area of privacy is how some companies such as Cambridge
+Analytica are working to mine data from user profiles across social media
+platforms. While some of this activity is legal, other efforts use machine
+learning to try to use what data is available to infer private information
+purposefully left out of public profiles.
+
+“But it might be possible to defend against attacks like these by including a
+few pieces of false information in a profile,” explained Gong. “The question
+is how many pieces are needed and what types of information work best.”
+
+Another aspect of Gong’s research deals with finding ways of keeping medical
+data secure even when it’s being used by large machine learning research
+projects designed to improve patient health. This line of study could find
+wide use for Duke’s emerging leadership in this field through programs such as
+Duke Forge.
+
+“Now that machine learning applications are being widely used, the
+intersection between privacy and security is an emerging area of research,”
+said Gong. “Stanford, MIT, Berkeley, CMU and Google all have groups focused on
+these questions. I decided to come to Duke and stay in academia because of the
+flexibility it provides in answering more fundamental research questions that
+might take years to pay off commercially.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

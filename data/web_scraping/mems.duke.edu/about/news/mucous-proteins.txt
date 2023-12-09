@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Proteins in Your Runny Nose Could Reveal a Viral Infection
+
+February 22, 2017 | by Samiha Khanna
+
+Scientists identify biomarkers in mucus that verify viral infection from cold
+or flu
+
+_Originally posted on Duke Health_
+
+It may seem obvious, but the key to confirming whether someone is suffering
+from a cold or flu virus might lie at the misery’s source -- the inflamed
+passages of the nose and throat.
+
+Duke Health scientists have identified a group of proteins that, when detected
+in specific quantities in the mucus, are 86 percent accurate in confirming the
+infection is from a cold or flu virus, according to a small, proof-of-concept
+trial published online in the journal EBioMedicine.
+
+The researchers hope their initial work identifying the protein signature
+could aid the development of a quick, noninvasive doctor’s office test to
+determine the cause of upper respiratory illness and appropriate treatment.
+
+“Every day, people are taking time off from work, going to emergency rooms,
+urgent care or their primary care doctors with symptoms of an upper
+respiratory infection,” said Geoffrey S. Ginsburg, M.D., Ph.D., a senior
+author of the paper, a professor of biomedical engineering, director of Duke
+MEDx, and director of the Duke Center for Applied Genomics & Precision
+Medicine (DCAGPM), which led the study. “Looking for these proteins could be a
+relatively easy and inexpensive way of learning if a person has a viral
+infection, and if not, whether the use of antibiotics is appropriate.”
+
+Although upper respiratory infections are among the most common reasons people
+visit the doctor in the U.S., health care providers lack tools to distinguish
+between a bacterial infection that might warrant antibiotics and a viral
+infection that would instead call for symptom relief.
+
+Widespread use of antibiotics for upper respiratory infections doesn’t benefit
+patients with viral illness and can contribute to antibiotic-resistant
+superbugs, Ginsburg said. More precise diagnoses of these infections could be
+another tool to curb the development of superbugs, he said.
+
+For the trial, researchers infected 88 healthy adult volunteers with a common
+strain of cold or flu virus.
+
+Some participants didn’t get sick. Among those who developed infections,
+researchers found a distinct set of 25 proteins in fluid samples they gathered
+by flushing about 2 teaspoons of saline through the participant’s nasal
+passages.
+
+Duke researchers in genomics and precision medicine have spent the past decade
+exploring strategies for differentiating bacterial and viral infections with
+the goal of developing cost-effective diagnostic tools doctors could use in
+their offices.
+
+“In the past, science has focused on identifying the pathogen someone is
+infected with in the blood or other sample,” said lead author Thomas Burke,
+Ph.D., director of technology advancement and diagnostics at the DCAGPM. “Our
+approach flips the paradigm of how we look for infection. Instead of looking
+for the pathogen, we study the individual’s response to that pathogen and
+signature patterns in their genes, proteins, metabolites and other
+biomarkers.”
+
+The Duke team has previously explored blood tests to examine a patient’s RNA
+for gene signatures to distinguish bacterial and viral infections in the upper
+respiratory tract and is working with a private company to develop potential
+diagnostics.
+
+Analyzing proteins in mucus is a less invasive approach and requires less
+processing than blood samples. The researchers hope additional studies verify
+the initial results and lead to the development of a paper-based test that
+could be used in doctor’s offices or even at home to determine whether a
+doctor’s visit is necessary, said Christopher Woods, M.D., a senior author and
+associate director of applied genomics at the DCAGPM.
+
+“The protein targets offer a faster, more cost-effective model for rapid
+screening and diagnoses of viral infections,” Woods said. “If the data are
+verified, the model could be valuable in many circumstances, such as rural
+settings or developing countries with less convenient access to health care,
+or even as an airport screening tool during an outbreak of a particularly
+threatening strain of flu.”
+
+In addition to Ginsburg, Woods and Burke, study authors included Ricardo
+Henao, assistant research professor of electrical and computer engineering;
+Erik Soderblom; Ephraim L. Tsalik; J. Will Thompson; Micah T. McClain;
+Marshall Nichols; Bradly P. Nicholson; Timothy Veldman; Joseph E. Lucas; M.
+Arthur Moseley; Ronald B. Turner; Robert Lambkin-Williams; and Alfred O. Hero
+III.
+
+The research was supported by the U.S. Defense Advanced Research Projects
+Agency (N66001-07-C-2024) and the Clinical Science Research and Development
+Service of the Veterans Affairs Office of Research and Development
+(1IK2CX000530, 1IK2CX000611). The authors disclosed no potential conflicts of
+interest.
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

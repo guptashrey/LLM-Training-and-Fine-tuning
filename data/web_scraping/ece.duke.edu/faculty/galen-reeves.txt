@@ -1,0 +1,260 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Galen Reeves
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in the Department of Electrical and Computer Engineering
+
+## Appointments and Affiliations
+
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Associate Professor of Statistical Science
+
+## Contact Information
+
+  * **Office Location:** 140 Science Dr., 321 Gross Hall, Durham, NC 27708
+  * **Office Phone:** (919) 668-4042
+  * **Email Address:** galen.reeves@duke.edu
+  * **Websites:**
+    * website
+
+## Education
+
+  * Ph.D. University of California - Berkeley, 2011
+
+## Research Interests
+
+Information theory, high-dimensional statistical inference, statistical signal
+processing, compressed sensing, machine learning
+
+## Courses Taught
+
+  * ECE 587: Information Theory
+  * ECE 741: Compressed Sensing and Related Topics
+  * MATH 228L: Probability for Statistical Inference, Modeling, and Data
+    Analysis
+  * STA 240L: Probability for Statistical Inference, Modeling, and Data
+    Analysis
+  * STA 563: Information Theory
+  * STA 693: Research Independent Study
+  * STA 711: Probability and Measure Theory
+  * STA 741: Compressed Sensing and Related Topics
+
+## In the News
+
+  * Meet the Newly Tenured Faculty of 2021 (Sep 21, 2021 | Office of Faculty
+    Advancement)
+  * Modeling Traffic with Self-Driving Cars (Mar 2, 2017 | Pratt School of
+    Engineering)
+
+## Representative Publications
+
+  * Van Den Boom, W., G. Reeves, and D. B. Dunson. “Erratum: Approximating
+    posteriors with high-dimensional nuisance parameters via integrated
+    rotated Gaussian approximation (Biometrika (2021) 108 (269-282) DOI:
+    10.1093/biomet/asaa068).” Biometrika 109, no. 1 (March 1, 2022): 275.
+    https://doi.org/10.1093/biomet/asab019.
+  * Kipnis, A., and G. Reeves. “Gaussian Approximation of Quantization Error
+    for Estimation from Compressed Data.” Ieee Transactions on Information
+    Theory 67, no. 8 (August 1, 2021): 5562–79.
+    https://doi.org/10.1109/TIT.2021.3083271.
+  * VAN DEN Boom, W., G. Reeves, and D. B. Dunson. “Approximating posteriors
+    with high-dimensional nuisance parameters via integrated rotated Gaussian
+    approximation.” Biometrika 108, no. 2 (June 2021): 269–82.
+    https://doi.org/10.1093/biomet/asaa068.
+  * Reeves, Galen. “A Two-Moment Inequality with Applications to Rényi Entropy
+    and Mutual Information.” Entropy (Basel, Switzerland) 22, no. 11 (November
+    2020): E1244. https://doi.org/10.3390/e22111244.
+  * Barbier, J., and G. Reeves. “Information-theoretic limits of a multiview
+    low-rank symmetric spiked matrix model.” In Ieee International Symposium
+    on Information Theory Proceedings, 2020-June:2771–76, 2020.
+    https://doi.org/10.1109/ISIT44484.2020.9173970.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

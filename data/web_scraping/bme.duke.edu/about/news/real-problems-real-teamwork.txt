@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Real Problems, Real Teamwork
+
+March 7, 2017
+
+Data+: Duke’s award-winning approach to education for the data age
+
+Duke’s nationally recognized Data+ program brings teams of faculty and
+students together each summer to explore data-driven approaches to real-world
+problems—including many from clients such as Accenture, Fidelity Charitable
+and Duke Health. Impactful projects like the ones below will soon become part
+of every Duke Engineering undergraduate’s experience with the debut of an
+innovative new Data Science course.
+
+## Solar Counts
+
+With enough solar installations to power 6 million homes, the U.S. energy
+infrastructure is rapidly evolving. But while individual states track solar
+locations and capacities on a broad scale, there is little information about
+exactly where solar energy is emerging on a city or neighborhood level.
+
+With this more precise data, officials could predict where to install new
+technology to meet changing demands, social scientists could better understand
+how policy affects solar energy adoption and economists could better value the
+future of the 8,000 solar companies employing more than 200,000 American
+workers.
+
+It’s a gigantic undertaking of great importance, but Duke has just the people
+for the job—our undergraduates, who recently began figuring out how to tally
+solar capacity from satellite imagery through Duke’s Data+ Program.
+
+A small group of four students, mentored by graduate students and faculty from
+Duke Engineering and Duke’s Energy Initiative, spent the summer building a
+dataset by meticulously annotating 58 square miles of satellite imagery of
+Fresno, California. The team then coded their own proof-of-principle machine
+learning algorithm that was able to identify solar panels with over 90 percent
+accuracy.
+
+The group then passed the baton to Bass Connections—a program at Duke
+supporting interdisciplinary collaborations between faculty and students. Led
+by the same faculty, undergraduates expanded the dataset to include three more
+cities in California, annotating 20,000 individual solar panels from 1.5
+billion pixels of satellite imagery from the U.S. Geological Survey.
+
+The students recently published the massive dataset in an open, online
+journal, providing other researchers worldwide with ground-truth data that
+could help program algorithms to spot all types of objects from the sky.
+
+> “We get a lot of amazing students who come in wanting to change the world.
+> With these data-focused programs, it’s not just about the academics of data
+> analysis. They’re getting to work on actual challenges being faced by
+> industries and corporations on a daily basis, and that is a valuable,
+> rewarding and motivational experience.”
+>
+> ******Leslie Collins**  
+>  Professor, ECE  
+> Member, Duke Energy Initiative
+
+## How can we optimize parking on a crowded campus?
+
+Working with Duke Parking and Transportation, a student team examined parking
+patterns across the campus and built an interactive “redirection” tool that
+could help students and employees figure out the best place to park if their
+preferred lot is full. The partners are now discussing ways to operationalize
+the tool at Duke.
+
+“Data+ was immensely beneficial for me,” said participant Mitchell Parekh,
+ECE’19. “I gained an understanding of what big data really is, along with the
+amount of work required to extract usable information from it.”
+
+## Can we build a better mouse map?
+
+BME major Pablo Ortiz and team worked with Duke’s Department of Biostatistics
+and Bioinformatics to develop a tool that helps researchers more effectively
+utilize LungMAP, an open-access database of images of developing mouse lungs.
+They built an image segmentation pipeline to allow biologists and clinical
+researchers to quantify changes in lung structure during fetal development,
+and improve understanding of normal lung structure and function.
+
+## What’s the best location for Zika vaccination clinics?
+
+Lindsay Hirschhorn ME’19 was part of a team charged with determining optimal
+vaccination clinic locations in Durham County for a simulated Zika virus
+outbreak. Working with researchers at RTI International to construct models of
+disease spread and health impact, the team developed an interactive
+visualization tool to show results
+
+“Duke has done a tremendous job in creating a learning environment that
+promotes collaboration, drives innovation and creative problem-solving, and
+provides enough structure and mentoring to guide students to successful
+outcomes,” said RTI’s Thom Miano. “Data+ gives students an opportunity for
+valuable experience and employers an avenue for potential recruitment.”
+
+> “Medical applications, robots, infrastructure, new materials—it’s hard to
+> think of an area of engineering that’s not going to be driven by data. At
+> Duke, we’re training students to navigate in the digital economy not just by
+> teaching them how to analyze data, but how to ask the right questions. The
+> world needs people who know how to put the chain together.”
+>
+> **Robert Calderbank**  
+>  Charles S. Sydnor Professor of Computer Science  
+> Professor, ECE, Math and Physics  
+> Director, Information Initiative at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

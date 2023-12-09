@@ -1,0 +1,184 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Speedier and More Accurate Future for Airport Security Screening
+
+February 19, 2020
+
+Representative David Price saw how Duke capabilities are enabling next-gen
+systems to screen for explosives in airports
+
+On February 18, US Representative for North Carolina’s 4th congressional
+district David Price visited Duke Engineering to learn how airport screening
+technologies have advanced in recent years. Representative Price was briefed
+by Duke electrical and computer engineering (ECE) research professor Joel
+Greenberg, ECE associate professor Michael Gehm and associate professor of
+radiology Anuj Kapadia, who are principals in a $5.83 million Department of
+Homeland Security (DHS) project to reinvent airport screening.
+
+> As threats to aviation security evolve, technologies capable of detecting
+> new threats must evolve at the same pace.
+
+As threats to aviation security evolve, technologies capable of detecting new
+threats must evolve at the same pace—preferably, while causing the least
+amount of disturbance to travelers and the most value to taxpayers. The goal
+of the Duke researchers is to use advanced simulation techniques to inform the
+design and build of a new generation of explosives detection systems for use
+in U.S. airports. The system uses x-ray diffraction measurements in
+combination with conventional x-ray transmission for highly accurate, high-
+throughput baggage screening.
+
+During the researchers’ presentation, Price noted that he sometimes travels
+with a bag of ground coffee and wondered why it frequently causes him trouble
+at airport screening checkpoints. Greenberg had the answer.
+
+Because x-ray transmission scanners, which measure the rays passing through an
+object, cannot always effectively differentiate between substances, a bag of
+coffee—with its highly-variable density—can be difficult to distinguish from
+prohibited items via conventional x-ray systems. But x-ray diffraction, which
+measures the rays’ interactions with the materials passing through the
+screening checkpoint, could recognize the unique molecular signature of coffee
+and quickly clear the false red flag to speed a busy traveler on his way.
+
+The transmission-plus-diffraction technique holds additional interest for DHS
+because it can be applied to other classes of materials. For example, it can
+help differentiate between harmless drugs like aspirin and potentially lethal
+opioids entering the US from other countries—opioids which, Kapadia noted,
+might look like aspirin, or might bear a resemblance to ground coffee beans
+when viewed using conventional x-ray transmission imaging methods.
+
+The Duke team can design a more accurate and cost-effective screening system
+by simulating the contents of tens of millions of virtual duffels and
+suitcases before shipping a physical system—an expensive endeavor in terms of
+both time and money—to a government lab for certification, added Gehm.
+Currently, a system might be tested on hundreds or thousands of bags, but it’s
+a small sample considering that 2.7 million people fly in and out of U.S
+airports every day, most of them carrying luggage. Simulations give developers
+a bigger pool of data and a better idea of what is likely to alarm the system.
+
+“We’re standing on the shoulders of existing technologies,” Greenberg told
+Price, “but we can do a better job of getting past the clutter."
+
+## Related News
+
+October 10, 2019
+
+### Safe Travels
+
+December 07, 2018
+
+### Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

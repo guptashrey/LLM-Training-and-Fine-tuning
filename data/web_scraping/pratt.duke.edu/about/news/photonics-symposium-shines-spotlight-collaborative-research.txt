@@ -1,0 +1,213 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Photonics Symposium Shines Spotlight on Collaborative Research
+
+March 27, 2017 | By Michaela Kane
+
+Offering collaborations and seed funding, MEDx has helped Duke biophotonics
+researchers create some exciting new connections to further their work
+
+Medical advances rarely result from one scientist working in isolation.
+Instead, discoveries occur because of collaborative efforts between engineers
+and physicians, with each team member bringing unique experience and ideas to
+the development process. With a focus on “Biophotonics for the Medicine of the
+Future,” the 2017 Fitzpatrick Institute for Photonics (FIP) Symposium
+highlighted some shining successes from Pratt School of Engineering and School
+of Medicine teams, including the development of a transformative imaging tool
+for eye examination and surgery and a novel portable colposcope for cervical
+cancer screening. ( **Read more about the 2017 FIP Symposium**)
+
+But just how do such successes get their start? A special session at the
+symposium highlighted how some Duke engineers are finding inspiration for new
+research directions with medical school colleagues through the schools’ joint
+Duke MEDx initiative. Offering both informal opportunities to meet and chat
+with potential collaborators and seed funding to kick-start new projects, MEDx
+has helped Duke biophotonics researchers create some exciting new connections
+to further their work.
+
+## Feedback for Cancer Screening Devices and Diagnostic Tools
+
+Jenna Mueller, a postdoctoral associate in Professor Nimmi Ramanujam’s Tissue
+Optical Spectroscopy Laboratory, discussed the development of a portable
+cervical cancer screening device, called the Pocket colposcope. Mueller
+emphasized the importance of feedback from the physicians who would ultimately
+use the diagnostic tool, which has allowed the team to improve the design with
+each iteration. Team leaders have organized a MEDx-sponsored colloquium series
+to bring engineers and physicians together to discuss challenges in cancer
+screening and prevention in primary care, and are now working on a cross-
+school collaboration funded by a collaborative seed grant to develop an
+algorithm to automate cervical cancer screening.
+
+## Connecting Non-Invasive Tools and Clinical Studies
+
+Adam Wax, a professor in the Department of Biomedical Engineering, elaborated
+on his work with Dr. Katherine Garman and her team at the Duke Cancer
+Institute. The researchers, who connected through MEDx, are investigating how
+devices using low-coherence interferometry to detect scattered light through
+sub-surface tissue samples can potentially act as non-invasive screening tools
+for esophageal cancers. “Katie is examining the basic origins of these
+precancerous conditions, and we have a way of detecting their presence in
+vivo,” Wax said. “It’s exciting to work with her and connect basic science
+back to the clinical studies. We hope we may be able to find the biomarkers
+that will help identify which people with Barrett’s esophagus will progress to
+cancer.”
+
+## Designing Less-Invasive Testing for Gastroesophageal Diseases
+
+__Xiling Shen, an associate professor in biomedical engineering, spoke about
+his burgeoning work with BME’s Junjie Yao and Duke Health clinicians to
+develop improved, less-invasive testing for gastroesophageal reflux disease
+(GERD) and colonoscopies. Shen discussed how conversations with physicians
+Amit Patel and David Lehman at a MEDx-sponsored dinner colloquium helped
+jumpstart ideas about combining wireless pH monitoring with esophageal
+impedance pH studies into a single tool to aid doctors in their diagnoses of
+GERD. The envisioned device would be less restricting for patients while
+enabling longer-term monitoring to improve the accuracy of screening results.
+
+## Detecting DNA Using Non-Invasive Cancer Diagnostic Tests
+
+Collaborators Matthew Kirley, a research scientist in the Department of
+Electrical and Computer Engineering (ECE), and Dr. Steven Brousell, a surgery
+resident in the Division of Urology, presented their vision for a urine-based
+diagnostic test to screen for known genetic anomalies in specific cancers.
+Working with ECE Professor Jeff Glass and urologist Dr. Brant Inman, the team
+hopes to translate electrochemical detection of DNA into tool to replace
+invasive cystoscopy for cancer screening.
+
+## Using Ultrasound to Boost Cancer Treatment
+
+Pei Zhong, the Anderson-Rupp Professor of Mechanical Engineering and Materials
+Science, discussed his work with Dr. Herbert Kim Lyerly and team in the
+Department of Surgery to study whether high intensity focused ultrasound
+(HIFU) can boost the effectiveness of immunotherapy for breast and prostate
+cancers. With support from a MEDx pilot project grant, the team is working to
+see if HIFU, a non-invasive technique for burning away or mechanically lysing
+tissue within the body, can affect molecular pathways that regulate cancer
+immune response, providing a one-two punch when combined with immunotherapy
+drugs. “We’ll be working together to identify the most effective approach to
+combine the therapies for maximum antitumor effect,” said Zhong. “The project
+has great potential.”
+
+After the presentations, the researchers held a panel discussion where they
+explained how MEDx has served as a bridge between engineering and medicine,
+allowing a greater exchange of ideas between different scientific fields.
+
+“As an engineer, it seems like all we ever do is work in the lab to solve
+problems, and clinicians find problems every day,” said Shen. “MEDx highlights
+the value of bringing people from different areas together to find solutions,
+and it’s amazing what has come out of that conversation.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

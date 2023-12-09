@@ -1,0 +1,187 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Dancing Droplets Launch Themselves from Thin Fibers
+
+August 17, 2015 | By Ken Kingery
+
+Droplets flung by hydrophobic material may aid water purification and oil
+refining
+
+We’ve all seen dewdrops form on spider webs. But what if they flung themselves
+off of the strands instead?
+
+Researchers at Duke University and the University of British Columbia have now
+observed this peculiar phenomenon, which could benefit many industrial
+applications. As long as the strands are moderately hydrophobic and relatively
+thin, small droplets combining into one are apt to dance themselves right off
+of the tightrope. The discovery could form the basis of new coalescer
+technologies for water purification, oil refining and more.
+
+The findings were reported online on August 14, 2015, in Physical Review
+Letters.
+
+“We were studying how insect wings with a hairy structure clean themselves,
+and an undergrad Adam Williams saw two droplets merge and suddenly leave a
+strand of hair,” said Chuan-Hua Chen, associate professor of mechanical
+engineering and materials science at Duke. “Since we couldn’t easily reproduce
+the effect, we thought it was just an artifact, perhaps due to the slight
+breeze created by the humidifier in the experiment.”
+
+But thanks to some ingenuity from Kungang Zhang, a graduate student in Chen’s
+group, they discovered that the “dancing droplets” are real, and are more
+likely to propel themselves off of a strand if they merge from opposite sides
+-- a finding that allowed the team to study the phenomenon in detail.
+
+As a droplet grows larger, it stores energy on its expanding surface. When two
+droplets merge, the mass stays the same, but the surface area decreases. This
+causes a small amount of energy to be released. As long as the drops are only
+attached to a small solid area, the released energy is enough to fling them
+away. This proves true so long as the strand is reasonably hydrophobic, such
+as the Teflon-coated fibers in the experiment, and the diameter of the strand
+is a few times smaller than that of the droplet.
+
+In previous research, Chen and his team showed a similar self-cleaning method
+from the wings of cicadas where droplets could launch themselves from a flat
+surface. That surface, however, was super-hydrophobic due to the nanostructure
+of the wings.
+
+“In engineering systems, these nanostructures are concerns for reliability,”
+said Chen. “Our new finding provides a solution without resorting to these
+super-hydrophobic surfaces.”
+
+A potential application of the dancing phenomenon is in water purification
+technologies. Current methods use gravity or shearing forces to remove
+accumulated droplets from fibrous webs, much like those found on your morning
+walk through the woods. If the droplets get too large, however, they can clog
+the gaps in the web. But with this new finding, fibrous woven materials could
+be engineered with Teflon-like coatings and large enough gaps to never clog
+before droplets jump off.
+
+“Before we demonstrated this, people thought you’d never be able to get the
+self-propelled phenomenon on a moderately hydrophobic surface,” said Chen.
+“But now we’ve shown that you don’t need super-hydrophobicity to get this
+dancing effect. All you need are round fibers instead of flat surfaces.”
+
+This work was supported by the National Science Foundation.
+
+###
+
+“Self-Propelled Droplet Removal from Hydrophobic Fiber-Based Coalescers.”
+Kungang Zhang, Fangjie Liu, Adam J. Williams, Xiaopeng Qu, James J. Feng, and
+Chuan-Hua Chen. Physical Review Letters, 2015. DOI:
+10.1103/PhysRevLett.115.074502
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

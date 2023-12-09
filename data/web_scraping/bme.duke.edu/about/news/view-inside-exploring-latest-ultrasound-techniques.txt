@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A View from the Inside: Exploring the Latest Ultrasound Techniques
+
+April 6, 2014 | By Claudia Dantoin
+
+Duke's Kathy Nightingale aims to transform how the world of ultrasound imaging
+interfaces with the human condition
+
+_Originally published in DukEngineer_
+
+Boldly seeing what no team has seen before. This mission seems to be the
+motivation for Kathy Nightingale, PhD, the James L. and Elizabeth M. Vincent
+Associate Professor of Biomedical Engineering, and her colleagues in the
+Biomedical Engineering Department of the Pratt School of Engineering at Duke,
+as they aim to transform how the world of ultrasound imaging interfaces with
+the human condition.
+
+The underlying principle of their research dates to 400 B.C. with the work of
+Hippocrates, who was perhaps the first person to record differences in normal
+abdominal tissues that are soft and malleable compared with abnormal abdominal
+tissues that are hard and stiff. The technology used for detecting these
+differences has largely evolved in recent years due to critical advances
+provided by Nightingale and her colleagues and collaborators at Duke
+University.
+
+From her days as an undergraduate and a graduate student in the Biomedical
+Engineering Department, Nightingale has focused on the world of medical
+imaging, most recently working with the Siemens Corporation in gaining US Food
+and Drug Administration (FDA) approval on virtual touch elastography imaging.
+
+While recognition for this advancement came only recently, the setting of this
+tale lies in several papers published just over a decade ago. In particular, a
+manuscript titled, “On the Feasibility of Remote Palpation Using Acoustic
+Radiation Force,” laid the groundwork for the influential research that was to
+come out of Nightingale’s laboratory over the next several years.
+
+This work focuses on the concept of mechanical excitation, a term Nightingale
+translates to “pushing on tissue.” The approach involves a high-intensity
+acoustic beam that pushes on the inside of a tissue, causing a shear wave to
+ripple through. The speed of these resulting waves is directly related to the
+stiffness of the tissue being probed, where regions of higher stiffness are
+denoted by darker colors on the resulting image. Using this technique in
+conjunction with the normal use of ultrasound, which gives an image of the
+acoustic properties of bodily tissue, a map of tissue stiffness as it relates
+to its surroundings can emerge.
+
+Taking this concept one step further, the team has investigated the two
+stiffness-related response-wave forms: ARFI and SWEI. Acoustic radiation force
+impulse imaging (ARFI) is a more qualitative approach, allowing for higher
+image resolution, whereas shear wave elasticity imaging (SWEI) provides a more
+quantitative approach, allowing higher contrast between images and estimating
+tissue stiffness in numeric form.
+
+While both approaches provide substantive data for imaging, Nightingale says
+her ongoing research seeks to perpetuate the idea that “a technology is only
+as good as its application.” One successful application of this mission
+statement is in liver fibrosis staging, that is, evaluating the scarring of
+liver tissue caused by, among others, hepatitis, alcohol and obesity. Their
+success here arises from the fact that shear wave speed in liver tissue
+increases with increasing fibrosis, thus liver tissue shear wave speeds are
+correlated with the clinical outcomes of liver biopsies. This means that
+virtual touch imaging has the potential to streamline the way physicians check
+for liver fibrosis.
+
+Using similar techniques, Nightingale and her team have worked extensively in
+prognosticating cancer in the prostate gland. Other research at Duke, led by
+Gregg Trahey, PhD, the Robert Plonsey Professor of Biomedical Engineering, and
+Patrick Wolf, PhD, associate professor of biomedical engineering, focuses on
+developing viable applications with cardiovascular and ablation monitoring
+(monitoring tissue post-surgery). If a technology is truly only as good as its
+application, then the merit of this technology speaks for itself.
+
+Going forward, more work must be done to apply the use of ARFI and SWEI images
+with equal effectiveness in all tissue types. Some organs, like the liver,
+have a relatively homogeneous appearance, where one image could describe a
+great deal about the rest of the organ. However, other organs, like the
+prostate gland, do not have a similar pattern and, thus, must be modeled
+differently.
+
+Due to these groundbreaking efforts, Nightingale and her team members and
+colleagues truly are pioneers in the field. Indeed, these achievements mark a
+significant improvement from the observations originally made by Hippocrates.
+And by using discoveries from more than a decade ago and pushing those
+boundaries even farther, they have managed to offer even better solutions to
+common medical practices. While the FDA just approved one form of this work
+for use in the United States, possibilities abound for the future of imaging.
+Given enough time, Nightingale and her colleagues will no doubt sound these
+out as well.
+
+_Claudia Dantoin is a first-year ECE/BME double major._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

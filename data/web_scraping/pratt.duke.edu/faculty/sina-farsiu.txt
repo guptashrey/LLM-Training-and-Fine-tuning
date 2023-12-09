@@ -1,0 +1,258 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Sina Farsiu
+
+Professor in the Department of Biomedical Engineering
+
+I am the director of the Vision and Image Processing (VIP) Laboratory. Along
+with my colleagues, we investigate how to improve early diagnostic methods and
+find new imaging biomarkers of ocular and neurological diseases in adults
+(e.g. age-related macular degeneration, diabetic retinopathy, Glaucoma,
+Alzheimer) and children (e.g. retinopathy or prematurity). We also develop
+automatic artificial intelligence machine learning and deep learning
+algorithms to detect/segment/quantify anatomical/pathological structures seen
+on medical images.
+
+On another front, we study efficient signal processing based methods to
+overcome the theoretical and practical limitations that constrain the
+achievable resolution of any imaging device. Our approach, which is based on
+adaptive extraction and robust fusion of relevant information from the
+expensive and sophisticated as well as simple and cheap sensors, has found
+wide applications in improving the quality of imaging systems such as
+ophthalmic SD-OCT, digital X-ray mammography, electronic and optical
+microscopes, and commercial digital camcorders. We are also interested in
+pursuing statistical signal processing based projects, including super-
+resolution, demosaicing, deblurring, denoising, motion estimation, compressive
+sensing/adaptive sampling, and sensor fusion.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Biomedical Engineering
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Professor of Computer Science
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+
+## Contact Information
+
+  * **Office Location:** CIEMAS 2575, Durham, NC 27708
+  * **Office Phone:** (919) 684-6642
+  * **Websites:**
+    * Academic Webpage
+    * Google Scholar
+    * Vision & Image Processing Lab
+
+## Education
+
+  * University of California - Santa Cruz, 2007
+  * University of California - Santa Cruz, 2005
+  * Ph.D. University of California - Santa Cruz, 2005
+  * M.S. University of Tehran (Iran), 2001
+  * B.S. Sharif University of Technology (Iran), 1999
+
+## Research Interests
+
+Focused on medical imaging and machine learning to improve the overall health
+and vision outcome of patients with ocular and neurological diseases (e.g.,
+age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS)
+through earlier and personalized therapy.
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 544: Digital Image Processing (GE, IM)
+  * BME 789: Internship in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * ECE 899: Special Readings in Electrical Engineering
+
+## In the News
+
+  * AI Technique Opens Door for Accelerated Progress in Neuroscience Research
+    (Mar 1, 2019)
+  * A smartphone and new software could help save infants born preterm (Nov
+    20, 2018)
+  * Handheld Probe Images Photoreceptors in Children (Aug 23, 2018 | Pratt
+    School of Engineering)
+  * Farsiu Receives Signal Processing Award (Sep 20, 2017 | Pratt School of
+    Engineering)
+  * New handheld device could allow for easy retina imaging in children (Aug
+    10, 2016 | WUNC)
+  * At Duke, sibling sleuths try to unlock mummy mystery (Mar 4, 2016 | The
+    News & Observer)
+  * Eye test could detect dementia (Apr 29, 2015 | The Daily Mail, Australian
+    Associated Press)
+  * Sina Farsiu: Processing an Avalanche of Images (Aug 27, 2014 | Pratt
+    School of Engineering)
+  * Duke Labs Produce 2 Intel Talent Search Finalists (Feb 10, 2014 | Duke
+    Research Blog)
+
+## Representative Publications
+
+  * Estrada, R; Tomasi, C; Schmidler, SC; Farsiu, S, _Tree Topology
+    Estimation._ , Ieee Transactions on Pattern Analysis and Machine
+    Intelligence, vol 37 no. 8 (2015), pp. 1688-1701
+    [10.1109/tpami.2014.2382116] [abs].
+  * Chiu, SJ; Allingham, MJ; Mettu, PS; Cousins, SW; Izatt, JA; Farsiu, S,
+    _Kernel regression based segmentation of optical coherence tomography
+    images with diabetic macular edema._ , Biomedical Optics Express, vol 6
+    no. 4 (2015), pp. 1172-1194 [10.1364/BOE.6.001172] [abs].
+  * Polans, J; McNabb, RP; Izatt, JA; Farsiu, S, _Compressed wavefront
+    sensing._ , Opt Lett, vol 39 no. 5 (2014), pp. 1189-1192
+    [10.1364/OL.39.001189] [abs].
+  * Srinivasan, PP; Heflin, SJ; Izatt, JA; Arshavsky, VY; Farsiu, S,
+    _Automatic segmentation of up to ten layer boundaries in SD-OCT images of
+    the mouse retina with and without missing layers due to pathology._ ,
+    Biomedical Optics Express, vol 5 no. 2 (2014), pp. 348-365
+    [10.1364/BOE.5.000348] [abs].
+  * Fang, L; Li, S; McNabb, RP; Nie, Q; Kuo, AN; Toth, CA; Izatt, JA; Farsiu,
+    S, _Fast acquisition and reconstruction of optical coherence tomography
+    images via sparse representation._ , Ieee Trans Med Imaging, vol 32 no. 11
+    (2013), pp. 2034-2049 [10.1109/TMI.2013.2271904] [abs].
+  * Estrada, R; Tomasi, C; Cabrera, MT; Wallace, DK; Freedman, SF; Farsiu, S,
+    _Exploratory Dijkstra forest based automatic vessel segmentation:
+    applications in video indirect ophthalmoscopy (VIO)._ , Biomedical Optics
+    Express, vol 3 no. 2 (2012), pp. 327-339 [10.1364/BOE.3.000327] [abs].
+  * Chiu, SJ; Izatt, JA; O'Connell, RV; Winter, KP; Toth, CA; Farsiu, S,
+    _Validated automatic segmentation of AMD pathology including drusen and
+    geographic atrophy in SD-OCT images._ , Investigative Opthalmology &
+    Visual Science, vol 53 no. 1 (2012), pp. 53-61 [10.1167/iovs.11-7640]
+    [abs].
+  * Estrada, R; Tomasi, C; Cabrera, MT; Wallace, DK; Freedman, SF; Farsiu, S,
+    _Enhanced video indirect ophthalmoscopy (VIO) via robust mosaicing._ ,
+    Biomedical Optics Express, vol 2 no. 10 (2011), pp. 2871-2887
+    [10.1364/BOE.2.002871] [abs].
+  * Robinson, MD; Toth, CA; Lo, JY; Farsiu, S, _Efﬁcient fourier-wavelet
+    super-resolution._ , Ieee Trans Image Process, vol 19 no. 10 (2010), pp.
+    2669-2681 [10.1109/TIP.2010.2050107] [abs].
+  * Chiu, SJ; Li, XT; Nicholas, P; Toth, CA; Izatt, JA; Farsiu, S, _Automatic
+    segmentation of seven retinal layers in SDOCT images congruent with expert
+    manual segmentation._ , Optics Express, vol 18 no. 18 (2010), pp.
+    19413-19428 [10.1364/OE.18.019413] [abs].
+  * Farsiu, S; Christofferson, J; Eriksson, B; Milanfar, P; Friedlander, B;
+    Shakouri, A; Nowak, R, _Statistical detection and imaging of objects
+    hidden in turbid media using ballistic photons._ , Applied Optics, vol 46
+    no. 23 (2007), pp. 5805-5822 [10.1364/ao.46.005805] [abs].
+  * Farsiu, S; Elad, M; Milanfar, P, _Multiframe demosaicing and super-
+    resolution of color images._ , Ieee Transactions on Image Processing : a
+    Publication of the Ieee Signal Processing Society, vol 15 no. 1 (2006),
+    pp. 141-159 [10.1109/tip.2005.860336] [abs].
+  * Farsiu, S; Robinson, MD; Elad, M; Milanfar, P, _Fast and robust multiframe
+    super resolution._ , Ieee Transactions on Image Processing : a Publication
+    of the Ieee Signal Processing Society, vol 13 no. 10 (2004), pp. 1327-1344
+    [10.1109/tip.2004.834669] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

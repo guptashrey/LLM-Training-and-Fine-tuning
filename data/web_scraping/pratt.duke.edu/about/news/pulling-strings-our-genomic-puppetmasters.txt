@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Pulling the Strings of Our Genomic Puppetmasters
+
+April 6, 2015 | By Ken Kingery
+
+Engineers gain control of gene activity; new therapies may be ahead.
+
+Duke researchers have developed a new method to precisely control when genes
+are turned on and active.
+
+The new technology allows researchers to turn on specific gene promoters and
+enhancers—pieces of the genome that control gene activity—by chemically
+manipulating proteins that package DNA. This web of biomolecules that supports
+and controls gene activity is known as the epigenome.
+
+The researchers say having the ability to steer the epigenome will help them
+explore the roles that particular promoters and enhancers play in cell fate or
+the risk for genetic disease and it could provide a new avenue for gene
+therapies and guiding stem cell differentiation.
+
+The study appears online April 6 in Nature Biotechnology.
+
+“The epigenome is everything associated with the genome other than the actual
+genetic sequence, and is just as important as our DNA in determining cell
+function in healthy and diseased conditions,” said Charles Gersbach, assistant
+professor of biomedical engineering at Duke. “That becomes immediately obvious
+when you consider that we have over 200 cell types, and yet the DNA in each is
+virtually the same. The epigenome determines which genes each cell activates
+and to what degree.”
+
+This genetic puppetmaster consists of DNA packaging proteins called histones
+and a host of chemical modifications—either to these histones or the DNA
+itself—that help determine whether a gene is on or off.
+
+But Gersbach's team didn't have to modify the genes themselves to gain some
+control.
+
+“Next to every gene is a DNA sequence called a promoter that controls its
+activity,” explained Gersbach. “But there’s also many other pieces of the
+genome called enhancers that aren’t next to any genes at all, and yet they
+play a critical role in influencing gene activity too.”
+
+Timothy Reddy, assistant professor of biostatistics and bioinformatics at
+Duke, has spent the better part of a decade mapping millions of these
+enhancers across the human genome. There has not, however, been a good way to
+find out exactly what each one does. An enhancer might affect a gene next door
+or several genes across the genome—or maybe none at all.
+
+To activate these enhancers and see what they do, Reddy thought perhaps he
+could chemically alter the histones at the enhancers to turn them on.
+
+“There are already drugs that will affect enhancers across the whole genome,
+but that’s like scorching the earth,” said Reddy. “I wanted to develop tools
+to go in and modify very specific epigenetic marks in very specific places to
+find out what individual enhancers are doing.”
+
+Reddy found that specificity by teaming up with Gersbach, his neighbor within
+Duke’s Center for Genomic and Computational Biology, who specializes in a
+gene-targeting system called CRISPR. Originally discovered as a natural
+antiviral system in bacteria, researchers have hijacked the system over the
+past few years and are now using it to cut and paste DNA sequences in the
+human genome.
+
+For this epigenome editing application, Gersbach silenced the DNA-cutting
+mechanism of CRISPR and used it solely as a targeting system to deliver an
+enzyme (acetyltransferase) to specific promoters and enhancers.
+
+“It’s like we use CRISPR to find a genetic address so that we can alter the
+DNA’s packaging at that specific site,” said Reddy.
+
+Gersbach and Reddy put their artificial epigenetic agent to the test by
+targeting a few well-studied gene promoters and enhancers. While these histone
+modifications have long been associated with gene activity, it wasn’t clear if
+they were enough to turn genes on. And though Gersbach and Reddy had
+previously used other technologies to activate gene promoters, they had not
+successfully activated enhancers.
+
+To the duo’s great surprise, not only did the agent activate the gene
+promoters, it turned on the adjacent genes better than their previous methods.
+Equally surprising was that it worked on enhancers as well: they could turn on
+a gene—or even families of genes—by targeting enhancers at distant locations
+in the genome—something that their previous gene activators could not do.
+
+But the real excitement from their results is an emerging ability to probe
+millions of potential enhancers in a way never before possible.
+
+“Some genetic diseases are straightforward—if you have a mutation within a
+particular gene, then you have the disease,” said Isaac Hilton, postdoctoral
+fellow in the Gersbach Lab and first author of the study. “But many diseases,
+like cancer, cardiovascular disease or neurodegenerative conditions, have a
+much more complex genetic component. Many different variations in the genome
+sequence can affect your risk of disease, and this genetic variation can occur
+in these enhancers that Tim has identified, where they can change the levels
+of gene expression. With this technology, we can explore what exactly it is
+that they’re doing and how it relates to disease or response to drug
+therapies.”
+
+Gersbach added, “Not only can you start to answer those questions, but you
+might be able to use this technique for gene therapy to activate genes that
+have been abnormally silenced or to control the paths that stem cells take
+toward becoming different types of cells. These are all directions we will be
+pursuing in the future.”
+
+This work was supported by the National Institutes of Health (R01DA036865,
+U01HG007900, DP2OD008586, P30AR066527) and the National Science Foundation
+(CBET-1151035).
+
+###
+
+"Epigenome editing by a CRISPR-Cas9-based acetyltransferase activates genes
+from promoters and enhancers," Isaac B Hilton, Anthony M D’Ippolito,
+Christopher M Vockley, Pratiksha I. Thakore, Gregory E Crawford, Timothy E
+Reddy, Charles A Gersbach. Nature Biotechnology, April 6, 2015. DOI:
+10.1038/nbt.3199
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

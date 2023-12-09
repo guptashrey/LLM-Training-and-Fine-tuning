@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Synthetic Compartments Stop Pathogens from Sharing Antibiotic Resistance
+Genes
+
+February 6, 2023 | By Ken Kingery
+
+Emerging field of synthetic condensates isolates or traps together
+biomolecules to control cellular processes
+
+Biomedical engineers at Duke University have demonstrated a new synthetic
+approach to controlling cellular biochemical processes. Rather than creating
+particles or structures that directly interact with cellular machinery through
+traditional “lock and key” mechanisms, cells are directed to build
+compartments that physically stop — or encourage — biomolecular functions.
+
+The researchers demonstrate that their approach can affect two cellular
+processes, one responsible for spreading genetic instructions amongst bacteria
+and the other for modulating protein circuits in mammalian cells. The results
+could prove invaluable to developing new strategies to understand and fight
+disease or to stop the spread of antibiotic-resistant pathogens.
+
+The results appear online February 6 in the journal Nature Chemical Biology.
+
+“A living cell is like a dense noodle soup, the density of the biomolecules in
+the cell is sometimes described as putting every human on the planet into the
+Great Salt Lake,” said Yifan Dai, a postdoctoral researcher working in the
+laboratory of Ashutosh Chilkoti, the Alan L. Kaganov Distinguished Professor
+of Biomedical Engineering and the laboratory of Lingchong You, the James L.
+Meriam Distinguished Professor of Biomedical Engineering at Duke.
+
+“Amber formation sometimes locks and preserves animals for thousands of years
+because of its distinct material properties compared to the surrounding
+environment,” Dai said. “Scientists thought that maybe cells can do the same
+thing with information.”
+
+> “Amber formation sometimes locks and preserves animals for thousands of
+> years because of its distinct material properties compared to the
+> surrounding environment. Scientists thought that maybe cells can do the same
+> thing with information.”
+>
+> yifan dai
+
+Biological micromachinery generally relies on so-called “lock and key”
+mechanisms, where a protein, genetic strand or other biomolecule is just the
+right shape and size to interact with its target structure. Because these are
+the easiest and most obvious processes to study and recreate, nearly all
+biomedical research has been focused on its vast, complex web of machinery.
+
+But because cells are so densely packed with this biomolecular machinery, and
+they need to control activity to respond to different needs throughout their
+lifetime, scientists have long suspected they must have ways of dialing
+activities up and down. But it wasn’t until 2009 that researchers discovered
+the mechanism of one such method, called phase separation mediated biological
+condensates.
+
+Biological condensates are small compartments that cells can build to either
+separate or trap together certain proteins and molecules, either hindering or
+promoting their activity. Researchers are just beginning to understand how
+condensates work and what they could be used for. Creating a platform that can
+tell cells to create synthetic versions of these biomolecular cages is a large
+step toward both goals.
+
+“To me, what's most remarkable is the effectiveness of the rules emerging from
+past studies in guiding the rational engineering of the physical properties of
+these condensates, which in turn work effectively in living cells despite the
+many confounding factors associated with the intracellular environment,” You
+said.
+
+> “These synthetic condensates can then be turned on inside the cell to
+> control how the cell functions. This paper is part of an emerging field that
+> will allow us to reprogram life in new and exciting ways.”
+>
+> ashutosh chilkoti
+
+In the paper, Dai, Chilkoti, You and their colleagues from the laboratory of
+Rohit V. Pappu, the Gene K. Beare Distinguished Professor of Biomedical
+Engineering and the director of the Center for Biomolecular Condensates at
+Washington University in St. Louis, demonstrate the creation of a synthetic
+set of genetic instructions that causes cells to create different types of
+condensates that trap various biomolecular processes. In one example, they
+build condensates that stop small packets of DNA called plasmids from
+traveling between bacteria in a process called horizontal gene transfer. This
+process is one of the primary methods pathogens use to spread resistance to
+antibiotics, and stopping it from happening could be a key step toward
+fighting the creation and proliferation of “superbugs.”
+
+The researchers also show that they can use this approach to control the
+transcription of DNA into RNA in E. coli, effectively amplifying the
+expression of a specific gene by bringing different factors together. They
+further demonstrate this approach to modulate protein circuits in mammalian
+cells. Modulating the activity of specific genes and protein activities could
+be a useful way of combatting a wide variety of diseases, especially genetic
+diseases.
+
+"This paper shows that we, as biomedical engineers, can design new molecular
+parts from the ground up, convince the cell to make them, and assemble these
+parts inside the cell to make a new machine,” said Chilkoti. “These synthetic
+condensates can then be turned on inside the cell to control how the cell
+functions. This paper is part of an emerging field that will allow us to
+reprogram life in new and exciting ways.”
+
+This research was supported by the Air Force Office of Scientific Research
+(FA9550-20-1-0241) and the National Institutes of Health (MIRA R35GM127042 and
+R01EB031869).
+
+CITATION: “Programmable Synthetic Biomolecular Condensates for Cellular
+Control,” Yifan Dai, Mina Farag, Dongheon Lee, Xiangze Zeng, Kyeri Kim, Hye-in
+Son, Xiao Guo, Jonathon Su, Nikhil Peterson, Javid Mohammad, Max Ney, Daniel
+Mark Shapiro, Rohit V. Pappu, Ashutosh Chilkoti, Lingchong You. Nature
+Chemical Biology, Feb. 6, 2023. DOI: 10.1038/s41589-022-01252-8
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

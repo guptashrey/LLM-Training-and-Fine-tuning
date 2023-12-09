@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Good Timing
+
+November 21, 2013
+
+Duke-engineered technology optimizes Parkinson’s disease therapy—and launches
+a new company
+
+Deep brain stimulation (DBS) has improved the lives of thousands of people
+with Parkinson’s disease (PD) since its 2002 FDA approval. By delivering
+electrical currents to the basal ganglia, the region of the brain that
+controls movement, the so-called “brain pacemaker” can relieve tremor,
+rigidity and other motor symptoms that debilitate PD patients. DBS, which can
+also treat epilepsy, essential tremor and obsessive-compulsive disorder, is
+already used by 100,000 patients worldwide.
+
+“The technology can have almost miraculous effects,” says Warren Grill, the
+Addy Professor of Bioengineering at Duke—but it’s not perfect, or even fully
+understood. For the past decade, Grill and his team have sought to learn more
+about how DBS works and how it can be improved. Now, their transformational
+technology is making DBS therapy for PD not only more effective, but safer and
+less expensive.
+
+## “Morse code for the brain”
+
+The novel technology, Temporally Optimized Patterned Stimulation (TOPS™),
+sprang from a new insight into how to combat one of the critical biological
+problems in PD: as the disease causes dopamine-producing cells to die and
+dopamine levels in the brain drop, neurons stop signaling in normal ways and
+instead begin firing in lockstep with each other. Those abnormally synchronous
+signals send faulty messages to the rest of the body, disrupting motor
+activity.
+
+DBS works by delivering rapid electrical pulses to the basal ganglia via
+implanted electrodes connected to a pulse-generating battery. Those electrical
+pulses somehow block or cancel out signals from the misfiring neurons, thereby
+restoring normal motor activity.
+
+Existing DBS batteries stimulate the basal ganglia at the rate of 130 to 200
+regular pulses per second. Figuring out exactly what rate to use is tricky,
+though—while it has to be high enough to control symptoms, if it’s too high
+patients can suffer side effects including unwanted movements, disrupted
+speech or cognitive problems, says Grill. Furthermore, those rapid pulses
+quickly wear down the battery. Most patients need a replacement every three to
+five years, requiring expensive surgery.
+
+Over the years Grill and his team tried a number of approaches to improve the
+technology. The team started by testing randomized electrical pulses, but
+discovered that the more random the stimulation, the worse it worked. “That
+was the stage of inspiration,” says Grill. “The findings told us, for the
+first time, that the timing between the pulses matters—not just the rate.”
+
+Pratt BME doctoral student David Brocker was tasked with using optimization in
+a computer model of the basal ganglia to find the best pattern.
+
+“There are an infinite number of possible patterns so we applied a method
+called a genetic algorithm, which mimics biological evolution, and used time-
+based patterns of stimulation as the evolving trait,” explains Brocker. “We
+then combined the genetic algorithm with a computational model of DBS for PD
+patients to develop an optimal pattern to test in humans.”
+
+(Brocker says that process, which took about 18 months, would have taken much
+longer without the use of the Duke Shared Cluster Resource, a group of central
+processing units that enabled his team to parallelize the entire simulation
+process. This allowed them to test many potential patterns in significantly
+less time than it would have taken on desktop computers.)
+
+Ultimately the team created TOPS. Unlike conventional generators that emit a
+steady stream of pulses, TOPS pulse generators deliver intermittent patterns
+of stimulation at about 45 pulses per second—each lasting only one-tenth of
+one-one-thousandth of a second. Grill likens the resulting pattern to Morse
+code.
+
+A clinical experiment to evaluate the technology—conducted in collaboration
+with Duke’s Dennis Turner, MD, and neurosurgeons at Emory University and Wake
+Forest Baptist Medical Center—yielded promising results, published in the
+January 2013 issue of _Experimental Neurology_.
+
+The upshot: TOPS technology appears to make DBS more effective at relieving PD
+symptoms and to greatly extend the life of neurostimulator batteries—resulting
+in fewer battery-replacement procedures. This translates to fewer risks and
+complications for patients and lower medical expenses overall. Another plus:
+the pulse-generator battery—typically implanted above patients’ collarbones—is
+about half the size of traditional batteries.
+
+## From concept to commercial enterprise
+
+As the therapeutic value of TOPS became clear, Grill and his team began
+working with Duke’s Office of Licensing and Ventures (OLV) to translate the
+innovation from the lab to a commercially available device for use in
+patients.
+
+“The OLV staff was very supportive,” Grill says. “They helped us protect the
+underlying intellectual property and develop a licensing agreement.”
+
+“Our work begins with the idea for an invention and carries through its
+development, patenting and licensing to a company,” says Duke professor and
+OLV managing director Barry Myers. “We monitor new companies to ensure that
+the inventions behind them are meeting the needs of patients, research
+sponsors, faculty members and the institution.”
+
+The result was the development of the NDI Micropulse™, as well as the May 2013
+launch of Deep Brain Innovations, LLC, a portfolio company of NDI Medical,
+LLC, a firm that funds and develops promising neurodevice technologies. Grill
+is NDI’s chief scientific officer.
+
+NDI president Geoff Thrope says the most important thing about translating an
+idea into a successful commercial enterprise is to understand and be guided by
+the needs of the end users.
+
+“Throughout the development process, as you talk with a wider range of people
+and marketplace influencers, there are always things to learn,” he says. “It’s
+critical to be open to new information and ideas, and then lock it in, move
+ahead and formulate the product.”
+
+The next step, say Grill and Thrope, will be to request FDA-sponsored clinical
+trials for a TOPS-based device, which will take several years to complete. In
+the meantime, they’ll continue investigating the best way to get TOPS
+technology to patients safely, strategically and expeditiously.
+
+"The beauty of this technology is that it will work not only for PD patients –
+the most prevalent existing population – but also for anyone with a
+neurological condition for which DBS has proven effective," Thrope says. "So
+the opportunity to impact the treatment of these conditions in a more
+efficient and elegant manner is extraordinary." _  
+_
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

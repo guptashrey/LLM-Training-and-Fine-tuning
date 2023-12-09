@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Using Invisible Light To See Deeper Into The Brain
+
+October 26, 2020 | Michaela Kane
+
+Neural sensors that use near-infrared light can reveal brain activity deep
+within animal models
+
+Biomedical engineers, cell biologists and neuroscientists at Duke University
+and the Albert Einstein College of Medicine have developed a new type of
+genetically encoded neural biosensor that operates in near-infrared light.
+
+The invention will allow researchers to non-invasively study how neurons fire
+at deeper levels in a living brain while simultaneously watching oxygen
+consumption.
+
+The research appears on October 26, 2020 in the journal Nature Biotechnology.
+
+“Scientists have been working toward this for a long time, and we’re the first
+ones to have done it,” said Junjie Yao, assistant professor of biomedical
+engineering at Duke. “Tissue doesn’t absorb or scatter near-infrared light
+nearly as much as visible light, which allows the photons to penetrate into
+brain tissue deeper than the current standards.”
+
+One of the foremost goals of neuroscience is to link complex behavior, like
+the process of making and storing memories, to the activation of various
+neurons and structures throughout the brain. One of the ways researchers
+accomplish this difficult task is through the use of genetically encoded
+calcium indicators, or GECIs. These biosensors carry fluorescent proteins that
+dim when there is a calcium spike in a cell, which occurs when a neuron fires.
+
+Researchers have traditionally lit up these biosensors using one- and two-
+photon microscopy, which send photons of light into brain tissue. However,
+currently available biosensors work in the visible spectrum, which cannot
+penetrate the tissue very deeply without being absorbed or scattered. The
+resulting chaos prevents researchers from seeing through more than a half
+millimeter of tissue.
+
+In the new study, Yao, Vladislav Verkhusha, professor of anatomy and
+structural biology at Einstein, and a team of collaborators at the University
+of California, Berkeley and Northwestern University, found a way around this
+issue. The researchers created a calcium indicator that can be imaged using
+near-infrared light, which can more easily penetrate brain tissue. And because
+near-infrared light does not interfere with traditional biosensors that
+operate in visible light, multiple types of biosensors can be used at the same
+time without worrying about their spectral crosstalk.
+
+“Our new calcium indicators are essentially like birds in a forest,” said Yao.
+“While birds normally fly around and make noise, when a predator is in the
+woods, they go silent. You don’t need to specifically see the predator to know
+there is danger, you just know that the lack of sound means that something
+there. Similarly with our indicators, you don’t need to specifically see the
+neuron firing, you just need to look for the signal: a dimming of the light
+emitted from the calcium indicators.”
+
+“I hope that near-infrared neural biosensors will become essential molecular
+tools for animal models of human diseases as well as for cognitive
+neuroscience studies, allowing us to visualize mechanisms of various emotional
+and behavioral regulation in the brain,” said Verkhusha. “Since these
+biosensors operate in the near-infrared range, they can be imaged non-
+invasively, right through the skull of behaving animals using miniature head-
+mounted cameras, allowing us to visualize the brain structures functioning
+during specific activities.”
+
+To demonstrate the power of their new calcium indicators in live animals,
+Yao’s group at Duke paired them with a second imaging technology called
+photoacoustic microscopy. Pioneered by Yao, the technology allows researchers
+to combine the properties of light and ultrasound to create high-resolution
+images.
+
+The combined fluorescence and photoacoustic imaging showed it would be
+possible to simultaneously monitor the neuronal activity and the brain
+oxygenation of a mouse brain through its intact skull.
+
+“We have enabled a powerful capability by imaging the brain’s oxygenation and
+neuron firing at the same time, two essential pillars supporting the whole
+brain’s functioning structure,” Yao said. “While oxygen provides fuel to the
+brain, neuron firing delivers the information.”
+
+Yao, Verkhusha and the team are excited to be able to share this new
+technology with the wider neuroscience community. As they push forward, they
+hope to continue improving both the calcium indicators and the imaging
+technology so they can look deeper into the brain.
+
+“We have the potential to use near-infrared calcium indicators to study, for
+example, how we process memories in the hippocampus or how Alzheimer’s disease
+destroys memory capability,” says Yao. “All of these areas of research can
+benefit from having a way to look deeper and deeper into the brain, and for us
+the sky is the limit.”
+
+This work was supported by U.S. National Institutes of Health (GM122567,
+NS103573, EY030705, EB028143, NS111039, EB027304, CA243822 and MH117111);the
+American Heart Association (18CSA34080277)
+
+CITATION: “Bright Near-Infrared Genetically Encoded Calcium Indicator for In
+Vivo Imaging,” Anton Shemetov, Mikhail Monakhov, Qinrong Zhang, Jose Ernesto
+Canton-Josh, Manish Kumar, Maomao Chen, Mikhail Matlashov, Xuan Li, Wei Yang,
+Liming Nie, Daria Shcherbakova, Yevgenia Kozorovitskiy, Junjie Yao, Na Ji and
+Vladislav Verkhusha. Nature Biotechnology, Oct. 26, 2020. DOI:
+10.1038/s41587-020-0710-1
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

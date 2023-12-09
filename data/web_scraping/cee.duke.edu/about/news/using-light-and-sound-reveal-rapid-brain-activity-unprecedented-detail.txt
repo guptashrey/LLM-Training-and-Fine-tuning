@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Using Light and Sound to Reveal Rapid Brain Activity in Unprecedented Detail
+
+May 18, 2022 | Michaela Kane
+
+Duke researchers use a combination of hardware innovations and machine
+learning algorithms to create the fastest photoacoustic imaging tool available
+
+Biomedical engineers at Duke University have developed a method to scan and
+image the blood flow and oxygen levels inside a mouse brain in real-time with
+enough resolution to view the activity of both individual vessels and the
+entire brain at once.
+
+This new imaging approach breaks long-standing speed and resolution barriers
+in brain imaging technologies and could uncover new insights into
+neurovascular diseases like stroke, dementia and even acute brain injury.
+
+The research appeared May 17 in the Nature journal Light: Science &
+Applications.
+
+Imaging the brain is a balancing act. Tools need to be fast enough to capture
+rapid events, like a neuron firing or blood flowing through a capillary, and
+they need to show activity at different scales, whether it’s across the entire
+brain or at the level of a single artery.
+
+“You can achieve these things individually, but it’s very difficult to do them
+all together,” said Junjie Yao, an assistant professor of biomedical
+engineering at Duke. “It’s like choosing between having a fast car that is
+small and uncomfortable to sit in, or a large, spacious car that doesn’t go
+over 30 miles an hour. For a long time, there wasn’t a way to get everything
+you wanted at once.”
+
+In their new study, Yao and his team discuss how they’ve solved this long-
+standing trade-off by developing ultrafast photoacoustic microscopy, or UFF-
+PAM.
+
+Photoacoustic microscopy uses the properties of light and sound to capture
+detailed images of organs, tissues and cells throughout the body. The
+technique uses a laser to send light into a targeted tissue or cell. When the
+laser hits the cell, it heats up and expands instantaneously, creating an
+ultrasonic wave that travels back to a sensor.
+
+UFF-PAM relies on a combination of hardware advancements and machine learning
+algorithms to upgrade the technique. On the hardware side, a polygon scanning
+system sends more laser bursts to a larger area while a new scanning mechanism
+allows the laser scanner and ultrasound sensor to operate at the same time.
+According to Yao, these changes doubled the speed of their device, making UFF-
+PAM the fastest imaging technology in the photoacoustic community.
+
+Yao and his team then developed a machine learning algorithm that improved the
+resolution of their images. They trained it to identify vasculature in the
+brain using over 400 images of mouse brains collected in previous experiments.
+Although each brain is unique, the algorithm learned how to identify common
+structures and used this knowledge to fill in previously missing pixels.
+
+“The resulting images looked as detailed as the high-resolution images we
+would usually get if we went at a much slower speed, and we didn’t need to
+sacrifice a full field of view,” said Yao.
+
+As a proof of concept, the team used UFF-PAM to visualize how blood vessels in
+a mouse brain responded to hypoxia, drug-induced hypotension and ischemic
+stroke. During the hypoxia challenge, UFF-PAM tracked how oxygen moved through
+the brain and showed that low levels of oxygen caused blood vessels to dilate.
+
+In the second challenge, the team used the drug sodium nitroprusside (SNP),
+which is commonly used to treat high blood pressure. Previously, researchers
+thought that SNP causes all the blood vessels in the brain to dilate. But Yao
+and his team instead showed that only the larger blood vessels open-up, while
+smaller blood vessels constrict.
+
+“Because we quickly got a high-resolution view of the smaller vessels, we saw
+that dilation is not actually the universal response to the drug,” said Yao.
+“We saw that these small vessels couldn’t provide enough oxygen and nutrients
+to the tissue, which caused damage.”
+
+In the final challenge, the team used UFF-PAM to observe how the brain
+responds to stroke and begins to recover. The team saw that immediately after
+a stroke, the blood vessels in the affected area constrict. This causes their
+neighboring vessels to also constrict in a phenomenon called a spreading
+depolarization wave. Because of the large field of view and high imaging
+speed, the team was able to precisely pinpoint the wave’s starting position
+and track its movement as it propagated throughout the brain.
+
+Looking ahead, the team aims to use UFF-PAM to explore additional brain
+disease models, like dementia, Alzheimer’s disease or even Long COVID. They
+also plan to expand the tool’s use outside of the brain to image organs like
+the heart, liver and placenta. These organs have traditionally been
+challenging to image because they are always in motion, so imaging tools need
+to operate at a faster speed.
+
+“There’s a lot that we can do with this technology now that we’ve addressed
+these long-standing roadblocks,” said Yao. “We’re trying to pick the most
+challenging projects to work on to maximize the impact of this technology.”
+
+This work was supported by grants from the National Institutes of Health (R01
+EB028143, R01 NS111039, RF1 NS115581, R21 EB027304, R21EB027981, R43 CA243822,
+R43 CA239830, R44 HL138185), the American Heart Association Collaborative
+Sciences Award (18CSA34080277), and the Chan Zuckerberg Initiative Grant on
+Deep Tissue Imaging 2020-226178 by the Silicon Valley Community Foundation.
+
+CITATION: “Real-time whole-brain imaging of hemodynamics and oxygenation at
+micro-vessel resolution with ultrafast wide-field photoacoustic microscopy,”
+Xiaoyi Zhu, Qiang Huang, Anthony DiSpirito, Tri Vu, Qiangzhou Rong, Xiaorui
+Peng, Huaxin Sheng, Xiling Shen, Qifa Zhou, Laiming Jiang, Ulrike Hoffmann and
+Junjie Yao. Light: Science & Application, May 17, 2022. DOI:
+10.1038/s41377-022-00836-2
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

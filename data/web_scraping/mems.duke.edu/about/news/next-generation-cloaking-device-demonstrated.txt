@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Next Generation Cloaking Device Demonstrated
+
+January 15, 2009
+
+Duke engineers have produced a device with a broad frequency bandwidth
+
+A device that can bestow invisibility to an object by “cloaking” it from
+visual light is closer to reality. After being the first to demonstrate the
+feasibility of such a device by constructing a prototype in 2006, a team of
+Duke University engineers have produced a new type of cloaking device, which
+they said is significantly more sophisticated and has a broad frequency
+bandwidth.
+
+The latest advance was made possible by the development of a new series of
+complex mathematical commands, known as algorithms, to guide the design and
+fabrication of exotic composite materials known as metamaterials. These man-
+made materials can be engineered to have properties not easily found in
+natural materials, and can be used to form a variety of “cloaking” structures.
+These structures can guide electromagnetic waves around an object, only to
+have them emerge on the other side as if they had passed through an empty
+volume of space.
+
+The results of the Duke experiments were published Jan. 16 in the journal
+Science. First authors of the paper were Duke’s Ruopeng Liu, who developed the
+algorithm, and Chunlin Ji. David R. Smith, William Bevan Professor of
+electrical and computer engineering at Duke, is senior member of the research
+team.
+
+Once the algorithm was developed, the latest cloaking device was completed
+from conception to fabrication in nine days, compared to the four months
+required to create the original, and more rudimentary, device. This powerful
+new algorithm will make it possible to custom-design unique metamaterials with
+specific cloaking characteristics, the researchers said.
+
+“The difference between the original device and the latest model is like night
+and day,” Smith said. “The new device can cloak a much wider spectrum of
+waves—nearly limitless—and will scale far more easily to infrared and visible
+light. The approach we used should help us expand and improve our abilities to
+cloak different types of waves.”
+
+Cloaking devices bend electromagnetic waves, such as light, in such a way that
+it appears as if the cloaked object is not there. In the latest laboratory
+experiments, a beam of microwaves aimed through the cloaking device at a
+“bump” on a flat mirror surface bounced off the surface at the same angle as
+if the bump was not present. Additionally, the device prevented the formation
+of scattered beams that would normally be expected from such a perturbation.
+
+The underlying cloaking phenomenon is similar to the mirages seen ahead at a
+distance on a road on a hot day.
+
+“You see what looks like water hovering over the road, but it is in reality a
+reflection from the sky,” Smith explained. “In that example, the mirage you
+see is cloaking the road below. In effect, we are creating an engineered
+mirage with this latest cloak design.”
+
+Smith believes that as the technology is perfected, cloaks should find
+numerous applications. By eliminating the effects of obstructions, cloaking
+devices could improve wireless communications, or acoustic cloaks could serve
+as protective shields, preventing the penetration of vibrations, sound or
+seismic waves.
+
+“The ability of the cloak to hide the bump is compelling, and offers a path
+towards the realization of forms of cloaking abilities approaching the
+optical,” Liu said. “Though the designs of such matematerials are extremely
+complex, especially when traditional approaches are used, we believe that we
+now have a way to rapidly and efficiently produce such materials.”
+
+With appropriately fine-tuned metamaterials, electromagnetic radiation at
+frequencies ranging from visible light to electricity could be redirected at
+will for virtually any application, Smith said. This approach could also lead
+to the development of metamaterials that focus light to provide more powerful
+lenses.
+
+The newest cloak, which measures 20 inches by 4 inches and less than an inch
+high, is actually made up of more than 10,000 individual pieces arranged in
+parallel rows. Of those pieces, more than 6,000 are unique. Each piece is made
+of the same fiberglass material used in circuit boards and etched with copper.
+
+The algorithm determined the shape and placement of each piece. Without the
+algorithm, properly designing and aligning the pieces would have been
+extremely difficult, Smith said.
+
+Others members of the research team were Duke’s Jack Mock, as well as Jessie
+Y. Chin and Tie Jun Cui from Southeast University, Nanjing, China.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

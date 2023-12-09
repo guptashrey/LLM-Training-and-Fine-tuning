@@ -1,0 +1,229 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound Waves Replace Human Hands in Petri Dish Experiments
+
+September 10, 2020 | By Ken Kingery
+
+Three proof-of-concept prototypes seek to make contactless ‘acoustic tweezer’
+technology available to a wide array of laboratories
+
+Mechanical engineers at Duke University have demonstrated a set of prototypes
+for manipulating particles and cells in a Petri dish using sound waves. The
+devices, known in the scientific community as “acoustic tweezers,” are the
+first foray into making these types of tools, which have thus far been
+relegated to laboratories with specific equipment and expertise, available for
+use in a wide array of settings.
+
+The paper describing the technology appears online on September 9 in the
+journal Science Advances.
+
+Acoustic tweezers are a powerful, versatile set of tools that use sound waves
+to manipulate bioparticles ranging from nanometer-sized extracellular vesicles
+to millimeter-sized multicellular organisms. Over the past several decades,
+the capabilities of acoustic tweezers have expanded from simplistic particle
+trapping to the precise rotation and translation of cells and organisms in
+three dimensions.
+
+“Recent advances have led to many advanced, versatile tools,” said Tony Jun
+Huang, the William Bevan Distinguished Professor of Mechanical Engineering and
+Materials Science, who has been working in the field for more than a decade.
+“However, at the end of the day, the success of this field depends on whether
+end users such as biologists, chemists or clinicians are willing to adopt this
+technology or not. This paper demonstrates a step toward a much friendlier
+workflow to make it easier for end users to adopt this technology.”
+
+In their first application, acoustic tweezers used sound waves generated from
+opposite sides of a microfluidic chip or chamber to create nodes where cells
+or microparticles are trapped. Moving the wavefronts of the sound waves across
+the opposing surfaces of the chamber controlled a particle’s position in two
+dimensions, while adjusting the sound waves’ amplitudes could push or pull
+them in the third.
+
+More advanced setups have since been demonstrated, where sound waves
+reverberate throughout a fluidic chamber. For example, depending on the
+application, patterns can be created and changed to separate and manipulate
+multiple particles at once, or whirlpools can be formed to concentrate a group
+of particles.
+
+But no matter how advanced their abilities, acoustic tweezers have thus been
+relegated to prototype demonstrations and laboratories with specialized
+equipment; very few biologists have adopted this technology yet.
+
+“Our goal is to bridge the gap between acoustic innovations and the
+biological/clinical benchtop,” said Huang.
+
+In the paper, Huang and his colleagues demonstrate three prototype setups that
+use transducers to create sound waves that manipulate particles in the most
+common cell culture plate found in biomedical laboratories—the Petri dish.
+
+In the first design, a set of four transducers, one on each side of the Petri
+dish, create sound waves that interact with one another to create a standing
+pattern within the dish’s liquid sample. The setup could be used for multi-
+configuration cell patterning, cell-cell interaction studies and the
+construction of 3D tissues.
+
+The second design uses a tilted transducer sending an angled sound wave from
+beneath the Petri dish to create a whirlpool that concentrates the dish’s
+contents in the center. This ability would allow researchers to concentrate
+bioparticles for signal enhancement and the construction of large cell
+spheroids.
+
+In the final setup, holographic interdigital transducers—two transducers
+fitted together like a zipper—create high-frequency beam-like waves from below
+the Petri dish to control particles in specific locations. By switching
+between different designs, the setup can stimulate cells as well as
+concentrate and trap bioparticles.
+
+Together, the setups demonstrate easy-to-use acoustic tweezers that can gently
+manipulate a wide variety of cells and particles without touching or labeling
+them. Potential applications include patterning and printing cells, separating
+and sorting cells, controlling cell-cell interactions, constructing tissues
+and rotating multicellular organisms.
+
+“The purpose of this study was to duplicate some of the previous functions of
+our acoustic tweezers in Petri dishes,” said Huang, who has also cofounded a
+company to pursue commercialization of the technology. “Our next goal is to
+build a single prototype that realizes all of the abilities of these three
+setups, if not more.”
+
+This research was supported by the National Institutes of Health (R01GM132603,
+R01GM135486, UG3TR002978, R33CA223908, R01GM127714, R01HD086325), the United
+States Army Medical Research Acquisition Activity (W81XWH-18-1-0242), and the
+National Science Foundation (ECCS-1807601).
+
+“Generating Multifunctional Acoustic Tweezers in Petri Dishes for Contactless,
+Precise Manipulation of Bioparticles.” Zhenhua Tian, Zeyu Wang, Peiran Zhang,
+Ty Downing Naquin, John Mai, Yuqi Wu, Shujie Yang, Yuyang Gu, Hunter Bachman,
+Yaosi Liang, Zhiming Yu, Tony Jun Huang. Science Advances, 2020. DOI:
+10.1126/sciadv.abb0494
+
+# # #
+
+## Related News
+
+July 03, 2018
+
+### Sound Waves Could Provide 'Liquid Biopsies'
+
+September 18, 2017
+
+### Sound Waves Separate Biological Nanoparticles for 'Liquid Biopsies'
+
+January 26, 2017
+
+### Sound Waves Create Whirlpools to Round Up Tiny Signs of Disease
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,223 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# 'Superlens' Extends Range of Wireless Power Transfer
+
+January 9, 2014
+
+Duke University researchers have demonstrated the feasibility of wireless
+power transfer using low-frequency magnetic fields over distances much larger
+than the size of the transmitter and receiver.
+
+Inventor Nikola Tesla imagined the technology to transmit energy through thin
+air almost a century ago, but experimental attempts at the feat have so far
+resulted in cumbersome devices that only work over very small distances. But
+now, Duke University researchers have demonstrated the feasibility of wireless
+power transfer using low-frequency magnetic fields over distances much larger
+than the size of the transmitter and receiver.
+
+The advance comes from a team of researchers in Duke’s Pratt School of
+Engineering, who used metamaterials to create a “superlens” that focuses
+magnetic fields. The superlens translates the magnetic field emanating from
+one power coil onto its twin nearly a foot away, inducing an electric current
+in the receiving coil.
+
+The experiment was the first time such a scheme has successfully sent power
+safely and efficiently through the air with an efficiency many times greater
+than what could be achieved with the same setup minus the superlens.
+
+The results, an outcome of a partnership with the Toyota Research Institute of
+North America, appear online in Nature Scientific Reports on Jan. 10.
+
+“For the first time we have demonstrated that the efficiency of magneto-
+inductive wireless power transfer can be enhanced over distances many times
+larger than the size of the receiver and transmitter,” said Yaroslav Urzhumov,
+assistant research professor of electrical and computer engineering at Duke
+University. “This is important because if this technology is to become a part
+of everyday life, it must conform to the dimensions of today’s pocket-sized
+mobile electronics.”
+
+In the experiment, Yaroslav and the joint Duke-Toyota team created a square
+superlens, which looks like a few dozen giant Rubik’s cubes stacked together.
+Both the exterior and interior walls of the hollow blocks are intricately
+etched with a spiraling copper wire reminiscent of a microchip. The geometry
+of the coils and their repetitive nature form a metamaterial that interacts
+with magnetic fields in such a way that the fields are transmitted and
+confined into a narrow cone in which the power intensity is much higher.
+
+On one side of the superlens, the researchers placed a small copper coil with
+an alternating electric current running through it, which creates a magnetic
+field around the coil. That field, however, drops in intensity and power
+transfer efficiency extremely quickly, the further away it gets.
+
+“If your electromagnet is one inch in diameter, you get almost no power just
+three inches away,” said Urzhumov. “You only get about 0.1 percent of what’s
+inside the coil.” But with the superlens in place, he explained, the magnetic
+field is focused nearly a foot away with enough strength to induce noticeable
+electric current in an identically sized receiver coil.
+
+Urzhumov noted that metamaterial-enhanced wireless power demonstrations have
+been made before at a research laboratory of Mitsubishi Electric, but with one
+important caveat: the distance the power was transmitted was roughly the same
+as the diameter of the power coils. In such a setup, the coils would have to
+be quite large to work over any appreciable distance.
+
+“It’s actually easy to increase the power transfer distance by simply
+increasing the size of the coils,” explained Urzhumov. “That quickly becomes
+impractical, because of space limitations in any realistic scenario. We want
+to be able to use small-size sources and/or receivers, and that’s what the
+superlens enables us to do.”
+
+Another trivial way to increase the power in the wireless receiver is, of
+course, to simply crank up the power. While this is practical to an extent, at
+high enough powers the fields would start trying to yank the watch off of your
+wrist. Despite this limitation, however, Urzhumov said that magnetic fields
+have distinct advantages over the use of electric fields for wireless power
+transfer.
+
+“Most materials don’t absorb magnetic fields very much, making them much safer
+than electric fields," he said. "In fact, the FCC approves the use of 3-Tesla
+magnetic fields for medical imaging, which are absolutely enormous relative to
+what we might need for powering consumer electronics. The technology is being
+designed with this increased safety in mind.”
+
+Going forward, Urzhumov wants to drastically upgrade the system to make it
+more suitable for realistic power transfer scenarios, such as charging mobile
+devices as they move around in a room. He plans to build a dynamically tunable
+superlens, which can control the direction of its focused power cone.
+
+“The true functionality that consumers want and expect from a useful wireless
+power system is the ability to charge a device wherever it is – not simply to
+charge it without a cable,” said Urzhumov. “Previous commercial products like
+the PowerMat™ have not become a standard solution exactly for that reason;
+they lock the user to a certain area or region where transmission works,
+which, in effect, puts invisible strings on the device and hence on the user.
+It is those strings - not just the wires - that we want to get rid of.”
+
+If successful, the usable volume of “power hot spots” should be substantially
+expanded. It may not be easy, however, to maintain the efficiency of the power
+beam as it gets steered to a high degree. But that is a challenge that
+Urzhumov and his colleagues look forward to dealing with.
+
+###
+
+“Magnetic Metamaterial Superlens for Increased Range Wireless Power Transfer,”
+Lipworth, L., Ensworth, J., Seetharam, K., Huang, D., Lee, J.S., Schmalenberg,
+P., Nomura, T., Reynolds, M.S., Smith, D.R., and Urzhumov, Y. Nature, 2013.
+
+An open access copy of this article is freely available from Duke University
+for those who do not have access to the original journal.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mikhail Nikiforov: Connecting Subcellular Disruptions to Diseases to
+Discover Treatments
+
+November 22, 2021 | By Ken Kingery
+
+New faculty member Mikhail Nikiforov studies fundamental biological puzzles
+while building bridges between disciplines to see where the pieces he’s
+discovered fit
+
+Mikhail Nikiforov will join the faculty of Duke University with a joint
+professorship in the Departments of Biomedical Engineering and Pathology
+beginning January 1, 2022. An expert in decoding how changes to fundamental
+biological processes are tied to diseases such as melanoma and multiple
+myeloma, Nikiforov will look to translate his work into clinical treatments
+through new and existing collaborations at Duke.
+
+Complex organisms such as humans are, at their core, an inseparable tangle of
+countless small, individual biological processes. While the macroscopic
+effects of diseases such as cancer are easy to see, the myriad of changes such
+diseases cause on a subcellular level are much more difficult to tease out.
+
+Nikiforov’s scientific pursuit is to study these basic processes in depth and
+then collaborate with other disciplines to see if his findings connect to
+their challenges. And more often than not, he’s focusing on the most
+fundamental cellular process there is—metabolism.
+
+“Metabolism is a very basic process that every living thing in the world has,
+and cells affected by a disease such as cancer often have a very different
+metabolism than healthy cells,” said Nikiforov. “But you have to understand
+what is most important to both types of cells. Because while a specific enzyme
+might be crucial for a cancer cell, it might also be necessary for a healthy
+cell, and disrupting it would kill the person with the disease.”
+
+One example of Nikiforov’s work involves the endoplasmic reticulum, which is a
+sort of roadway within cells that transports proteins and other biomolecules.
+If the system is working at highway speeds rather than neighborhood speeds,
+however, the proteins being transporting don’t have enough time to fold
+correctly, causing them to get stuck and create a traffic jam. This is one of
+the underlying symptoms of multiple myeloma, otherwise known as bone marrow
+cancer.
+
+> “The intellectual level of potential collaborators at Duke is unparalleled.
+> Both the biomedical engineering and Medical School Research are ranked third
+> in the country, so I wanted to come here to be part of the best of the
+> best.”
+>
+> mikhail nikiforov
+
+While researchers studying fatty liver disease had also seen this sort of
+symptom in action and knew how to treat it, experts from the two fields hadn’t
+made the connection—at least not until Nikiforov realized that the two
+symptoms were essentially one and the same.
+
+“This is one of the best examples of how knowledge of a basic pathological
+process that had already manifested in one field can be combined with
+knowledge from a different field to reveal a novel method of treatment,” said
+Nikiforov. “For example, causing endoplasmic reticulum stress in multiple
+myeloma via alterations in lipid metabolism could perfectly complement the
+effects of the drugs that induce the same stress by preventing proteins to
+fold properly.”
+
+Similarly, Nikiforov recently developed a way of measuring GTP within a cell.
+Unlike its well-studied cousin ATP—a biomolecule responsible for delivering
+energy to cells—GTP has received significantly less attention from the
+scientific community. When it has been studied, researchers have only been
+able to take average measurements of the biomolecules within a cell. This is,
+as Nikiforov puts it, about as helpful as taking the average temperature of
+all patients within a hospital.
+
+But in 2017, Nikiforov’s group described intracellular sensors that could, for
+the first time, detect changes of GTP and its levels of concentration in
+various parts within a cell. He’s now using these sensors to see if changing
+gradients of GTP within melanoma cells affect how this aggressive form of
+cancer metastasizes throughout the body.
+
+“We are once again trying to understand a basic biological process and how it
+changes in cancer cells,” said Nikiforov. “And then if it does change, we can
+try to understand why and find a way to inhibit the change to create a
+prototype treatment.”
+
+Another prong of Nikiforov’s research entails developing miniature 3D
+environments that mimic the complexities of an organ. Dubbed organoids, these
+emerging platforms can be used to culture diseases and test potential
+treatments without the need for risking a patient’s health.
+
+Getting multiple myeloma cells to grow in these organelles, however, is very
+difficult. Nikiforov and colleagues have managed to culture them for up to two
+weeks, which is enough time to test multiple drug combinations to see which
+might work best for an individual patient.
+
+There are, of course, many scientists working on various types of organoids,
+including quite a few at Duke. The potential for collaboration is part of the
+draw for Nikiforov.
+
+“The intellectual level of potential collaborators at Duke is unparalleled,”
+said Nikiforov. “Both the biomedical engineering and Medical School Research
+are ranked third in the country, so I wanted to come here to be part of the
+best of the best.”
+
+After earning his master’s degree in biochemistry and molecular biology at
+Lomonosov Moscow State University, Nikiforov earned his PhD in genetics at the
+University of Illinois at Chicago. He then completed postdoctoral fellowships
+at the University of Rochester and Princeton University. After stints on the
+faculty of the University of Michigan and Roswell Park Cancer Institute, he
+was a professor of cancer biology at Wake Forest School of Medicine for three
+years before joining Duke.
+
+“Even during my interviews, I was excited by the level of questions I was
+being asked,” Nikiforov continued. “Obviously I knew about the excellence of
+the community before, but after experiencing it for myself, I’m definitely
+looking forward to having many challenging and inspiring conversations.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

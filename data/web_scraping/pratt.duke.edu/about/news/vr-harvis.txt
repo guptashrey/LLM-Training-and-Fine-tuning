@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Virtual Reality Blood Flow Simulation To Improve Cardiovascular
+Interventions
+
+May 13, 2020 | By Ken Kingery
+
+3D interface provides cellular-level, full-body blood flow modeling to study
+and treat cardiovascular disease
+
+Biomedical engineers at Duke University are developing a massive fluid
+dynamics simulator that can model blood flow through the full human arterial
+system at subcellular resolution. One of the goals of the effort is to provide
+doctors with guidance in their treatment plans by allowing them to simulate a
+patient’s specific vasculature and accurately predict how decisions such as
+stent placement, conduit insertions and other geometric alterations to blood
+flow will affect surgical outcomes.
+
+One of the largest barriers to clinical adoption however, is developing a user
+interface that allows clinicians to easily explore their options without
+needing any expertise in computer science. As any programmer will tell you,
+designing a smooth, intuitive interface that people from all types of
+backgrounds can quickly master is a tall task.
+
+In a new study published on May 7 in the Journal of Computational Science, the
+Duke researchers report on their initial foray into creating a user interface
+for their blood flow simulation tool called HARVEY. They explored various
+interfaces ranging from standard desktop displays to immersive virtual reality
+experiences and found that, while users might be comfortable using a standard
+mouse and keyboard, some more futuristic interfaces might hold the key to
+widespread adoption.
+
+“HARVEY currently requires knowledge of C coding and command line interfaces,
+which really limits who can use the program,” said Amanda Randles, the Alfred
+Winborne and Victoria Stover Mordecai Assistant Professor of Biomedical
+Sciences at Duke. “This paper introduces a graphical user interface we’ve
+developed called Harvis, so that anybody can use Harvey, whether they’re
+surgeons trying to figure out the best placement for a stent or biomedical
+researchers trying to design a new type of stent altogether.”
+
+Randles has been developing the HARVEY code for nearly a decade, having begun
+the work as a doctoral student in the research group of Efthimios Kaxiras, the
+John Hasbrouck Van Vleck Professor of Pure and Applied Physics at Harvard
+University. In that time, she has demonstrated that HARVEY can accurately
+model blood flow through patient-specific aortas and other vascular geometries
+on longer scales. She’s also shown the program can model 3D blood flows on the
+scale of the full human body.
+
+Putting HARVEY to work, Randles has helped researchers understand stent
+treatment of cerebral aneurysms and the growth of aneurysms. She has created a
+quick, noninvasive way to check for peripheral arterial disease, and to better
+understand how circulating cancer cells adhere to different tissues. With
+steady progress on the computational abilities of the code and demonstrated
+usefulness in real-world applications, Randles is now working to make sure
+others can make the best use of its abilities.
+
+“As cardiovascular disease continues to be the number one cause of death in
+the US, the ability to improve treatment planning and outcome remains a
+significant challenge,” said Randles. “With the maturity and availability of
+VR/AR devices, we need to understand the role these technologies can play in
+the interaction with such data. This research is a much-needed step for
+developing future software to combat cardiovascular disease.”
+
+In the new study, Randles and her biomedical engineering colleagues, research
+associate Harvey Shi and graduate student Jeff Ames, put the Harvis interface
+they’ve been developing to the test. They asked medical students and
+biomedical researchers to simulate three different situations — placing a
+conduit between two blood vessels, expanding or shrinking the size of a blood
+vessel, or placing a stent within a blood vessel. The test users attempted
+these tasks using either a standard mouse and computer screen, a “Z-space”
+semi-immersive virtual reality device, or a fully immersive virtual reality
+experience with an HTC Vive display device.
+
+The results show that the students and researchers could use the standard
+mouse and keyboard interface and the fully immersive VR interface equally as
+well in a majority of cases both quantitatively and qualitatively. The semi-
+immersive display, basically a special pointing tool combined with a monitor
+and 3D glasses, however, ranked behind the other two devices, as the users had
+some issues adjusting to the unique hardware setup and controls.
+
+The study also presents a generalizable design architecture for other
+simulated workflows, laying out a detailed description of the rationale for
+the design of Harvis, which can be extended to similar platforms.
+
+While the study did not find any major differences between the most and least
+immersive interfaces in terms of quality and efficiency, Randles did notice a
+major difference between the users’ reactions to the equipment.
+
+“People enjoyed the 3D interface more,” said Randles. “And if they enjoyed it
+more, they’re more likely to actually use it. It could also be a fun and
+exciting way to get students engaged in classes about the vasculature system
+and hemodynamics.”
+
+Randles says she plans on running experiments to see if her 3D blood flow
+interface can help medical students retain important knowledge better than
+current standards. In the future, tools like this could assist with treatment
+planning such as placements of stents using a more intuitive virtual reality
+interface. Randles also expects these types of tools will facilitate
+biomedical research in the personalized flow space.
+
+CITATION: “Harvis: An Interactive Virtual Reality Tool For Hemodynamic
+Modification And Simulation,” Harvey Shi, Jeff Ames, Amanda Randles. Journal
+of Comp. Sci., 2020. DOI: 10.1016/j.jocs.2020.101091
+
+## Related News
+
+July 05, 2018
+
+### Randles Selected to Help Pilot First U.S. Exascale Computer
+
+May 02, 2018
+
+### Randles Wins 2017 ACM Grace Murray Hopper Award
+
+August 27, 2015
+
+### Randles Named Finalist for Supercomputing’s Top Honor
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

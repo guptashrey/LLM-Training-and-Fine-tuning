@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Better Way to Measure the Stiffness of Cancer Cells
+
+February 28, 2017 | By Ken Kingery
+
+Laser technique developed by Adam Wax peers through individual cells to gauge
+stiffness with unprecedented speed
+
+Biomedical engineers at Duke University have discovered a way to detect signs
+of cancer on a cell-by-cell basis using two lasers and a camera.
+
+Several medical devices currently in use and in clinical trials around the
+world look for increases in cellular stiffness as an indicator of cancerous
+tissue. These devices, however, rely on readings from many cells clustered
+together within the body and cannot operate on a cellular level.
+
+In a study published online Feb. 28 in the Biophysical Journal, researchers
+describe a technique for assessing an individual cell’s stiffness using
+patterns that appear within its internal structure. The results show that the
+more organized its innards, the stiffer the cell.
+
+In previous work, Adam Wax, professor of biomedical engineering at Duke,
+showed that a cell’s internal structures shift as fluids flow around its
+exterior.
+
+“Think of a cell as a large Jell-O mold with a lot of fruit suspended in it,”
+said Wax. “If you blow on it really hard with compressed air, everything is
+going to move in the direction of the air a little bit.”
+
+Wax also showed that he could calculate cellular stiffness by measuring the
+amount of that shift. This discovery had many advantages over traditional
+methods of measuring the rigidity of a single cell. For example, no physical
+contact with the cell was required and measurements took much less time.
+
+“Traditional approaches like atomic force microscopy take all day just to
+prepare a single sample,” said Will Eldridge, a PhD student in Wax’s lab and
+first author of the paper. “Using a moving liquid to measure shear flow only
+takes 30-40 minutes to image a group of cells.”
+
+Still not satisfied with that timetable, Wax and Eldridge tried to find a
+visual metric that could do the same job in less time. In the new paper, they
+show that the amount of disorder found within a cell’s internal structures
+directly correlates to its stiffness.
+
+To measure cellular disorder, the researchers shine a laser through a cell and
+compare it to a second, unobstructed beam. The differences in the amount of
+time it takes for the two lasers to travel through the sample are then
+analyzed to produce a picture, revealing just how disordered the cell’s
+internal structures are.
+
+To prove their idea worked, the group measured these “phase disorders” in five
+different types of live cancer cells just before measuring their stiffness
+using the already proven “Jell-O mold” technique. As hoped, the two metrics
+were highly correlated.
+
+“The speed of this technique is only limited by the size of your camera’s
+field of view,” said Eldridge. “You could potentially measure hundreds of
+individual cells in a matter of seconds.”
+
+More work is needed to determine the exact relationship between the two
+measurements, but Wax is hopeful that the technique could be translated into a
+new biomedical device for cancer screening.
+
+“It’s widely known that cellular stiffness is an indicator of cancer, but
+there’s no viable diagnostic tool that can use that knowledge on a cellular
+scale,” said Wax. “With this technique, I can see a path to creating a high-
+throughput system that could quickly and easily screen for cervical,
+esophageal or colon cancer—anywhere you could take a tissue scraping.”
+
+This work was supported by the National Science Foundation (CBET 1604562).
+
+CITATION: “Optical phase measurements of disorder strength link microstructure
+to cell stiffness,” W.J. Eldridge, Z.A. Steelman, B. Loomis, A. Wax.
+Biophysical Journal, Feb. 28, 2017. DOI: 10.1016/j.bpj.2016.12.016
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

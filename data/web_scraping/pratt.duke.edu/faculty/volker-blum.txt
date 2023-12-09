@@ -1,0 +1,270 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Volker Blum
+
+Associate Professor in the Department of Mechanical Engineering and Materials
+Science
+
+Volker Blum heads the "Ab initio materials simulations" group at Duke
+University. Dr. Blum's research focuses on "first-principles" computational
+materials science: using the fundamental laws of quantum mechanics to predict
+the properties of real materials from the atomic scale on upwards.
+
+Specific focus areas are interface and nanoscale systems with electronic and
+energy applications, as well as work on molecular structure and spectroscopy.
+Recent research topics include structure and properties of graphene on the
+semiconducting substrate, SiC; structure and electronic properties of new
+materials for photovoltaics; organic-inorganic hybrid materials; carbon-
+nitride materials for photocatalysis; and more.
+
+Dr. Blum is the coordinator of a major computer package for computational
+materials and molecular science based on electronic structure theory, FHI-
+aims. Work in his group is interdisciplinary (touching areas of physics and
+chemistry in addition to materials science), with opportunities for
+international collaboration and exchange. Active collaborations include groups
+in Berlin, Munich, London, Hefei, and elsewhere.
+
+## Appointments and Affiliations
+
+  * Associate Professor in the Department of Mechanical Engineering and
+    Materials Science
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:**
+  * **Office Phone:**
+  * **Email Address:** volker.blum@duke.edu
+  * **Websites:**
+    * Ab Initio Materials Simulations (AIMS) at Duke
+
+## Education
+
+  * Ph.D. Friedrich-Alexander-Universität Erlangen-Nürnberg (Germany), 2001
+
+## Research Interests
+
+Computational predictions and understanding of new materials related to energy
+and electronics, as well as molecular structure and spectroscopies, based on
+the "first principles" of quantum mechanics. Much of this work is directly
+connected to ongoing developments of new algorithms and computational tools in
+the all-electron electronic structure package "FHI-aims" and in the broader
+“ELSI” infrastructure, both led by Volker Blum.
+
+## Awards, Honors, and Distinctions
+
+  * August-Wilhelm-Scheer Visiting Professorship. Technical University of
+    Munich. 2016
+  * Outstanding Referee of the Physical Review journals. APS. 2016
+  * Staedtler Foundation Prize. Staedtler Foundation. 2002
+
+## Courses Taught
+
+  * CHEM 995: Graduate Training Internship
+  * ME 221L: Structure and Properties of Solids
+  * ME 394: Engineering Undergraduate Fellows Projects
+  * ME 493: Engineering Undergraduate Fellows Projects
+  * ME 494: Engineering Undergraduate Fellows Projects
+  * ME 511: Computational Materials Science
+  * ME 555: Advanced Topics in Mechanical Engineering
+  * ME 560S: Materials Science and Engineering Seminar
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+
+## In the News
+
+  * Pratt Researchers Join National Effort to Unlock New Energy Technologies
+    (Aug 23, 2018 | Pratt School of Engineering)
+  * International Collaboration Demonstrates Reliability of Quantum
+    Simulations (Mar 30, 2016 | Duke Today)
+  * New Class of Molecular ‘Lightbulbs’ Illuminate MRI (Mar 23, 2016)
+  * Pratt Researchers to Harness Computational Power to Solve Time-Intensive
+    Calculations (Jul 10, 2015)
+  * Energy Initiative Provides First Round of Research Seed Funding (Apr 16,
+    2014)
+
+## Representative Publications
+
+  * Knuth, F; Carbogno, C; Atalla, V; Blum, V; Scheffler, M, _All-electron
+    formalism for total energy strain derivatives and stress tensor components
+    for numeric atom-centered orbitals_ , Computer Physics Communications, vol
+    190 (2015), pp. 33-50 [10.1016/j.cpc.2015.01.003] [abs].
+  * Sforzini, J; Nemec, L; Denig, T; Stadtmüller, B; Lee, T-L; Kumpf, C;
+    Soubatch, S; Starke, U; Rinke, P; Blum, V; Bocquet, FC; Tautz, FS,
+    _Approaching truly freestanding graphene: the structure of hydrogen-
+    intercalated graphene on 6H-SiC(0001)._ , Physical Review Letters, vol 114
+    no. 10 (2015) [10.1103/physrevlett.114.106804] [abs].
+  * Schubert, F; Rossi, M; Baldauf, C; Pagel, K; Warnke, S; von Helden, G;
+    Filsinger, F; Kupser, P; Meijer, G; Salwiczek, M; Koksch, B; Scheffler, M;
+    Blum, V, _Exploring the conformational preferences of 20-residue peptides
+    in isolation: Ac-Ala19-Lys + H(+)vs. Ac-Lys-Ala19 + H(+) and the current
+    reach of DFT._ , Physical Chemistry Chemical Physics : Pccp, vol 17 no. 11
+    (2015), pp. 7373-7385 [10.1039/c4cp05541a] [abs].
+  * Schubert, F; Pagel, K; Rossi, M; Warnke, S; Salwiczek, M; Koksch, B; von
+    Helden, G; Blum, V; Baldauf, C; Scheffler, M, _Native like helices in a
+    specially designed β peptide in the gas phase._ , Physical Chemistry
+    Chemical Physics : Pccp, vol 17 no. 7 (2015), pp. 5376-5385
+    [10.1039/c4cp05216a] [abs].
+  * Lau, VW-H; Mesch, MB; Duppel, V; Blum, V; Senker, J; Lotsch, BV, _Low-
+    molecular-weight carbon nitrides for solar hydrogen evolution._ , Journal
+    of the American Chemical Society, vol 137 no. 3 (2015), pp. 1064-1072
+    [10.1021/ja511802c] [abs].
+  * Rossi, M; Chutia, S; Scheffler, M; Blum, V, _Validation challenge of
+    density-functional theory for peptides-example of Ac-Phe-Ala5-LysH(+)._ ,
+    J Phys Chem A, vol 118 no. 35 (2014), pp. 7349-7359 [10.1021/jp412055r]
+    [abs].
+  * Berger, D; Logsdail, AJ; Oberhofer, H; Farrow, MR; Catlow, CRA; Sherwood,
+    P; Sokol, AA; Blum, V; Reuter, K, _Embedded-cluster calculations in a
+    numeric atomic orbital density-functional theory framework._ , The Journal
+    of Chemical Physics, vol 141 no. 2 (2014) [10.1063/1.4885816] [abs].
+  * Marek, A; Blum, V; Johanni, R; Havu, V; Lang, B; Auckenthaler, T;
+    Heinecke, A; Bungartz, H-J; Lederer, H, _The ELPA library: scalable
+    parallel eigenvalue solutions for electronic structure theory and
+    computational science._ , Journal of Physics. Condensed Matter : an
+    Institute of Physics Journal, vol 26 no. 21 (2014)
+    [10.1088/0953-8984/26/21/213201] [abs].
+  * Nemec, L; Blum, V; Rinke, P; Scheffler, M, _Thermodynamic equilibrium
+    conditions of graphene films on SiC_ , Physical Review Letters, vol 111
+    (2013) [10.1103/PhysRevLett.111.065502] [abs].
+  * Ren, X; Rinke, P; Blum, V; Wieferink, J; Tkatchenko, A; Sanfilippo, A;
+    Reuter, K; Scheffler, M, _Resolution-of-identity approach to Hartree–Fock,
+    hybrid density functionals, RPA, MP2 and GW with numeric atom-centered
+    orbital basis functions_ , New Journal of Physics, vol 14 (2012), pp.
+    053020-053020 [abs].
+  * Ren, X; Rinke, P; Blum, V; Wieferink, J; Tkatchenko, A; Sanfilippo, A;
+    Reuter, K; Scheffler, M, _Resolution-of-identity approach to Hartree–Fock,
+    hybrid density functionals, RPA, MP2 and GW with numeric atom-centered
+    orbital basis functions_ , New Journal of Physics, vol 14 (2012), pp.
+    053020-053020 [abs].
+  * Auckenthaler, T; Blum, V; Bungartz, H-J; Huckle, T; Johanni, R; Krämer, L;
+    Lang, B; Lederer, H; Willems, PR, _Parallel solution of partial symmetric
+    eigenvalue problems from electronic structure calculations_ , Parallel
+    Computing, vol 37 (2011), pp. 783-794 [abs].
+  * Tkatchenko, A; Rossi, M; Blum, V; Ireta, J; Scheffler, M, _Unraveling the
+    stability of polypeptide helices: critical role of van der Waals
+    interactions_ , Physical Review Letters, vol 106 (2011), pp. 118102-118102
+    [abs].
+  * Blum, V; Gehrke, R; Hanke, F; Havu, P; Havu, V; Ren, X; Reuter, K;
+    Scheffler, M, _Ab initio molecular simulations with numeric atom-centered
+    orbitals_ , Comp. Phys. Commun., vol 180 (2009), pp. 2175-2196
+    [10.1016/j.cpc.2009.06.022] [abs].
+  * Hart, GLW; Blum, V; Walorski, MJ; Zunger, A, _Evolutionary approach for
+    determining first-principles hamiltonians_ , Nature Materials, vol 4
+    (2005), pp. 391-394 [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

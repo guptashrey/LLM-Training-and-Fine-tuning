@@ -1,0 +1,318 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Volker Blum
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in the Department of Mechanical Engineering and Materials
+Science
+
+Volker Blum heads the "Ab initio materials simulations" group at Duke
+University. Dr. Blum's research focuses on "first-principles" computational
+materials science: using the fundamental laws of quantum mechanics to predict
+the properties of real materials from the atomic scale on upwards.  
+  
+Specific focus areas are interface and nanoscale systems with electronic and
+energy applications, as well as work on molecular structure and spectroscopy.
+Recent research topics include structure and properties of graphene on the
+semiconducting substrate, SiC; structure and electronic properties of new
+materials for photovoltaics; organic-inorganic hybrid materials; carbon-
+nitride materials for photocatalysis; and more.  
+  
+Dr. Blum is the coordinator of a major computer package for computational
+materials and molecular science based on electronic structure theory, FHI-
+aims. Work in his group is interdisciplinary (touching areas of physics and
+chemistry in addition to materials science), with opportunities for
+international collaboration and exchange. Active collaborations include groups
+in Berlin, Munich, London, Hefei, and elsewhere.
+
+## Appointments and Affiliations
+
+  * Associate Professor in the Department of Mechanical Engineering and
+    Materials Science
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Email Address:** volker.blum@duke.edu
+  * **Websites:**
+    * Ab Initio Materials Simulations (AIMS) at Duke
+
+## Education
+
+  * Ph.D. Friedrich-Alexander-Universität Erlangen-Nürnberg (Germany), 2001
+
+## Research Interests
+
+Computational predictions and understanding of new materials related to energy
+and electronics, as well as molecular structure and spectroscopies, based on
+the "first principles" of quantum mechanics. Much of this work is directly
+connected to ongoing developments of new algorithms and computational tools in
+the all-electron electronic structure package "FHI-aims" and in the broader
+“ELSI” infrastructure, both led by Volker Blum.
+
+## Awards, Honors, and Distinctions
+
+  * August-Wilhelm-Scheer Visiting Professorship. Technical University of
+    Munich. 2016
+  * Outstanding Referee of the Physical Review journals. APS. 2016
+  * Staedtler Foundation Prize. Staedtler Foundation. 2002
+
+## Courses Taught
+
+  * CHEM 995: Graduate Training Internship
+  * ME 221L: Structure and Properties of Solids
+  * ME 394: Engineering Undergraduate Fellows Projects
+  * ME 493: Engineering Undergraduate Fellows Projects
+  * ME 494: Engineering Undergraduate Fellows Projects
+  * ME 511: Computational Materials Science
+  * ME 555: Advanced Topics in Mechanical Engineering
+  * ME 560S: Materials Science and Engineering Seminar
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+
+## In the News
+
+  * Pratt Researchers Join National Effort to Unlock New Energy Technologies
+    (Aug 2…
+  * International Collaboration Demonstrates Reliability of Quantum
+    Simulations (Ma…
+  * New Class of Molecular ‘Lightbulbs’ Illuminate MRI (Mar 23, 2016)
+  * Pratt Researchers to Harness Computational Power to Solve Time-Intensive
+    Calcul…
+  * Energy Initiative Provides First Round of Research Seed Funding (Apr 16,
+    2014)
+
+## Representative Publications
+
+  * Knuth, F., C. Carbogno, V. Atalla, V. Blum, and M. Scheffler. “All-
+    electron formalism for total energy strain derivatives and stress tensor
+    components for numeric atom-centered orbitals.” Computer Physics
+    Communications 190 (May 1, 2015): 33–50.
+    https://doi.org/10.1016/j.cpc.2015.01.003.
+  * Sforzini, J., L. Nemec, T. Denig, B. Stadtmüller, T. -. L. Lee, C. Kumpf,
+    S. Soubatch, et al. “Approaching truly freestanding graphene: the
+    structure of hydrogen-intercalated graphene on 6H-SiC(0001).” Physical
+    Review Letters 114, no. 10 (March 2015): 106804.
+    https://doi.org/10.1103/physrevlett.114.106804.
+  * Schubert, Franziska, Mariana Rossi, Carsten Baldauf, Kevin Pagel, Stephan
+    Warnke, Gert von Helden, Frank Filsinger, et al. “Exploring the
+    conformational preferences of 20-residue peptides in isolation: Ac-
+    Ala19-Lys + H(+)vs. Ac-Lys-Ala19 + H(+) and the current reach of DFT.”
+    Physical Chemistry Chemical Physics : Pccp 17, no. 11 (March 2015):
+    7373–85. https://doi.org/10.1039/c4cp05541a.
+  * Schubert, Franziska, Kevin Pagel, Mariana Rossi, Stephan Warnke, Mario
+    Salwiczek, Beate Koksch, Gert von Helden, Volker Blum, Carsten Baldauf,
+    and Matthias Scheffler. “Native like helices in a specially designed β
+    peptide in the gas phase.” Physical Chemistry Chemical Physics : Pccp 17,
+    no. 7 (February 2015): 5376–85. https://doi.org/10.1039/c4cp05216a.
+  * Lau, Vincent Wing-hei, Maria B. Mesch, Viola Duppel, Volker Blum, Jürgen
+    Senker, and Bettina V. Lotsch. “Low-molecular-weight carbon nitrides for
+    solar hydrogen evolution.” Journal of the American Chemical Society 137,
+    no. 3 (January 2015): 1064–72. https://doi.org/10.1021/ja511802c.
+  * Rossi, Mariana, Sucismita Chutia, Matthias Scheffler, and Volker Blum.
+    “Validation challenge of density-functional theory for peptides-example of
+    Ac-Phe-Ala5-LysH(+).” J Phys Chem A 118, no. 35 (September 4, 2014):
+    7349–59. https://doi.org/10.1021/jp412055r.
+  * Berger, Daniel, Andrew J. Logsdail, Harald Oberhofer, Matthew R. Farrow, C
+    Richard A. Catlow, Paul Sherwood, Alexey A. Sokol, Volker Blum, and
+    Karsten Reuter. “Embedded-cluster calculations in a numeric atomic orbital
+    density-functional theory framework.” The Journal of Chemical Physics 141,
+    no. 2 (July 2014): 024105. https://doi.org/10.1063/1.4885816.
+  * Marek, A., V. Blum, R. Johanni, V. Havu, B. Lang, T. Auckenthaler, A.
+    Heinecke, H. -. J. Bungartz, and H. Lederer. “The ELPA library: scalable
+    parallel eigenvalue solutions for electronic structure theory and
+    computational science.” Journal of Physics. Condensed Matter : An
+    Institute of Physics Journal 26, no. 21 (May 2014): 213201.
+    https://doi.org/10.1088/0953-8984/26/21/213201.
+  * Nemec, L., V. Blum, P. Rinke, and M. Scheffler. “Thermodynamic equilibrium
+    conditions of graphene films on SiC.” Physical Review Letters 111 (August
+    6, 2013). https://doi.org/10.1103/PhysRevLett.111.065502.
+  * Ren, Xinguo, Patrick Rinke, Volker Blum, Jürgen Wieferink, Alexandre
+    Tkatchenko, Andrea Sanfilippo, Karsten Reuter, and Matthias Scheffler.
+    “Resolution-of-identity approach to Hartree–Fock, hybrid density
+    functionals, RPA, MP2 and GW with numeric atom-centered orbital basis
+    functions.” New Journal of Physics 14 (2012): 053020–053020.
+  * Ren, Xinguo, Patrick Rinke, Volker Blum, Jürgen Wieferink, Alexandre
+    Tkatchenko, Andrea Sanfilippo, Karsten Reuter, and Matthias Scheffler.
+    “Resolution-of-identity approach to Hartree–Fock, hybrid density
+    functionals, RPA, MP2 and GW with numeric atom-centered orbital basis
+    functions.” New Journal of Physics 14 (2012): 053020–053020.
+  * Auckenthaler, T., V. Blum, H. -. J. Bungartz, T. Huckle, R. Johanni, L.
+    Krämer, B. Lang, H. Lederer, and P. R. Willems. “Parallel solution of
+    partial symmetric eigenvalue problems from electronic structure
+    calculations.” Parallel Computing 37 (2011): 783–94.
+  * Tkatchenko, Alexandre, Mariana Rossi, Volker Blum, Joel Ireta, and
+    Matthias Scheffler. “Unraveling the stability of polypeptide helices:
+    critical role of van der Waals interactions.” Physical Review Letters 106
+    (2011): 118102–118102.
+  * Blum, V., R. Gehrke, F. Hanke, P. Havu, V. Havu, X. Ren, K. Reuter, and M.
+    Scheffler. “Ab initio molecular simulations with numeric atom-centered
+    orbitals.” Comp. Phys. Commun. 180 (2009): 2175–96.
+    https://doi.org/10.1016/j.cpc.2009.06.022.
+  * Hart, Gus L. W., Volker Blum, Michael J. Walorski, and Alex Zunger.
+    “Evolutionary approach for determining first-principles hamiltonians.”
+    Nature Materials 4 (2005): 391–94.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

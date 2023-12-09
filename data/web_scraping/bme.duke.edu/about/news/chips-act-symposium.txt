@@ -1,0 +1,305 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Putting the SE Back in Silicon Electronics
+
+March 7, 2023
+
+Researchers from across the southeastern US gathered at Duke University to
+answer the CHIPS and Science Act’s call to reinvigorate the nation’s silicon-
+related research and manufacturing abilities
+
+More than 40 years ago, the state legislature of North Carolina created the
+Microelectronics Center of North Carolina (MCNC) to be a catalyst for
+technology-based economic development throughout the state. And it worked. For
+two decades, the area was a leader of computer innovation, home to behemoths
+in the industry such as IBM and Lenovo.
+
+While many of the tech giants eventually moved much of their infrastructure
+out of the state and the region’s strengths in the semiconductor industry
+declined in the 2000s, the foundations remain intact. It doesn’t take much
+digging to discover faculty and researchers across the southeastern United
+States who tie back to the early days of the MCNC—and many of those threads
+run through Duke University.
+
+Now, with the opportunities provided by the passage of the CHIPS and Science
+Act of 2022, those ties are being reinforced and combined with emerging
+technologies such as neuromorphic and quantum computing to revitalize the
+computer technology innovation and manufacturing infrastructure across the
+region. On February 10, leaders in a wide variety of these key computing
+technologies met on the campus of Duke University in a symposium organized by
+the Pratt School of Engineering and the Duke Office for External Partnerships
+to explore ways in which their individual expertise can be combined to meet
+the challenges laid out in the CHIPS and Science Act.
+
+> “We must be prepared to take advantage of this opportunity. Not just as
+> individual researchers and institutions, but as a multidisciplinary and
+> multi-stakeholder group that can spur growth in the semiconductor industry
+> for the entire southeastern region and the United States as a whole.”
+>
+> **jerome p. lynch** | vinik dean of Engineering
+
+“Last year, the U.S. Congress passed the CHIPS and Science Act, a monumental
+piece of legislative action that substantially invests in our semiconductor
+and science ecosystems in the United States,” said Jerome P. Lynch, Vinik Dean
+of Engineering at Duke in opening remarks. “We must be prepared to take
+advantage of this opportunity. Not just as individual researchers and
+institutions, but as a multidisciplinary and multi-stakeholder group that can
+spur growth in the semiconductor industry for the entire southeastern region
+and the United States as a whole.”
+
+With aspirations of grandeur, such an effort would require many dedicated
+experts working in academia, industry, research, non-profits and
+government—and that’s exactly who showed up to answer the call to action. Two
+primary webs were woven throughout the day, one focused on AI hardware and the
+other on quantum computing. And cutting across both were additional threads
+focused on workforce development, in which universities continue to play an
+enormous role.
+
+Speakers detailing their research initiatives included:
+
+  * Paul Franzon of North Carolina State University, who talked about his work
+    on chiplets, a modular approach to building processors being pursued
+    commercially by both AMD and Intel
+  * Alicia Klinefelter of NVIDIA, who talked about the company’s existing
+    presence in North Carolina and leading work in areas such as free and open
+    architectures that promote a standard way to design deep learning
+    inference accelerators and tile-based accelerator architectures with
+    distributed memory
+  * Swarup Bhunia of the University of Florida, who talked about maintaining
+    security on various types of emerging hardware
+  * Garrett Rose of the University of Tennessee, who talked about neuromorphic
+    computing, which mimics the way neural pathways are strengthened or weaned
+    based on inputs over time as a way to learn to process data
+  * Sherine Obare, dean of the Joint School of Nanoscience and Nanoengineering
+    at North Carolina Agricultural and Technical State University, who led a
+    panel discussion on workforce development
+  * Chris Monroe and Jungsang Kim of Duke University, who reviewed the unique
+    research and teaching abilities being developed at the Duke Quantum Center
+  * Samuel Graham, Jr., dean of the University of Maryland’s A. James Clark
+    School of Engineering, who, in tandem with Duke’s Christopher Monroe, has
+    long been a voice on Capitol Hill pushing the national conversation around
+    the importance of quantum computing
+
+Also on full display was Duke Engineering’s widespread expertise and
+facilities in many areas key to the future of the semiconductor industry.
+Despite the school’s relatively small size, it features many of the research
+and development capabilities and infrastructure usually reserved for much
+larger institutions. For example, the Duke Quantum Center in downtown Durham
+is a unique facility focused not only on achieving quantum supremacy on an
+industrial scale, but on engaging users and teaching students how to carry
+today’s visions on into the decades to come.
+
+> “Duke University is at the forefront of critical areas like quantum
+> computing, AI hardware and secure edge computing. With constant innovation
+> in semiconductor manufacturing, we'll be able to take these technologies to
+> the next level. We're really excited to be part of this wave of innovation.”
+>
+> **hai "helen" li** | chair, duke electrical & computer engineering
+
+Duke’s semiconductor-related portfolio covers full-stack capabilities, from
+the discovery and validation of new materials, to testing the potential uses
+of new materials in semiconductor devices, to mapping how new devices might
+fit together into new architectural frameworks while still being able to
+interface with existing technology.
+
+A big piece of those capabilities comes from the Shared Materials
+Instrumentation Facility (SMIF)—a shared resource available to researchers
+from all schools and departments within the university, as well as to users
+from other universities, government laboratories and industry. Since its
+establishment in 2002, SMIF has provided access to advanced materials
+characterization and fabrication capabilities, promoting interdisciplinary
+collaboration. SMIF's full-time staff and engineers ensure that all
+fabrication and characterization equipment are well maintained, resulting in
+excellent up-time. It is a core facility in the RTP region for semiconductor
+innovation, encompassing manufacturing, devices and processes.
+
+For example, Duke works on 1D and 2D nanomaterials for nanoscale transistors,
+neuromorphic devices and printed electronics. This includes work on more
+environmentally sustainable manufacturing approaches using these
+nanomaterials.
+
+Duke also has an entire cohort focused on discovering new ways of networking
+and integrating disparate processing power to achieve incredibly fast results
+through the concept of edge computing through the NSF-funded AI Institute for
+Edge Computing Leveraging Next Generation Networks, or “Athena.”
+
+> “It’s not just about doing the right thing. There’s simply no way we can
+> fill the jobs these manufacturing efforts will require if we don’t broaden
+> participation.”
+>
+> **Tracy Doaks** | President, MCNC
+
+“Semiconductors are the backbone of every disruptive technology we can think
+of,” said Hai “Helen” Li, Clare Boothe Luce Professor of Electrical & Computer
+Engineering and chair of the same department. “Duke is at the forefront of
+critical areas like quantum computing, AI hardware and secure edge computing.
+With constant innovation in semiconductor manufacturing, we'll be able to take
+these technologies to the next level. We're really excited to be part of this
+wave of innovation.”
+
+Several of Duke’s faculty also spoke about the Research Triangle
+Nanotechnology Network, a collective of researchers focused on transformative
+nanotechnology research, discovery, education, commercialization and workforce
+development. Such organizations are examples of the existing regional
+grassroots connections that are ready to be leveraged into a strong coalition
+for implementing aspects of the CHIPS and Science Act.
+
+The research remarks were followed by a panel discussion around workforce
+development spearheaded by representatives from the National Science
+Foundation, North Carolina Agricultural and Technical State University, Duke
+University, and MCNC. The panelists importantly noted that scaling up the
+region’s and nation’s manufacturing abilities will take much more than
+research—it will take a concerted effort to engage with communities that do
+not typically pursue tech manufacturing jobs for cultural and historical
+reasons.
+
+> "While we’re all hoping to earn trust and future funding, at the end of the
+> day, we’re also here to serve society and make the world a better and safer
+> place based on the next generation of computing technologies that will
+> emanate from CHIPS-funded work.”
+>
+> **JEROME P. LYNCH** | VINIK DEAN OF Engineering
+
+“It’s not just about doing the right thing. There’s simply no way we can fill
+the jobs these manufacturing efforts will require if we don’t broaden
+participation,” said Tracy Doaks, President of MCNC. “Some parents don’t want
+their kids to go to college because they’re afraid they won’t come back. The
+household barriers to broadband, healthcare, and jobs are all connected. A
+more holistic view that includes developing healthy, supportive households to
+reach talent in the more rural areas. Because we can create all the cutting-
+edge research and partnerships with industry that we want, but if we don’t
+have a trained workforce to translate that work and push it out into the
+world, then the whole effort won’t be successful.”
+
+These discussions and budding collaborations were further strengthened by the
+presence and participation of important stakeholders in the national CHIPS and
+Science Act effort. Representatives from the National Science Foundation and
+the North Carolina Defense Technology Alliance were on hand. Lunch featured a
+keynote address by Tim Greeff, the president and CEO of NSXTL, the
+organization tasked with the monumental challenge of implementing much of the
+$280 billion program, who recognized that Duke and the Southeast region are
+well-positioned in terms of research, innovation, industry presence and
+workforce.
+
+“This country needs its best and brightest to come together to bring it back
+to the forefront of cutting-edge research, computational innovation and
+manufacturing,” Lynch said at the end of his opening remarks. “So while we’re
+all hoping to earn trust and future funding, at the end of the day, we’re also
+here to serve society and make the world a better and safer place based on the
+next generation of computing technologies that will emanate from CHIPS-funded
+work.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

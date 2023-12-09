@@ -1,0 +1,234 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Computational Imaging Increases Resolution of Eye Imaging Technology
+
+August 27, 2019 | By Ken Kingery
+
+Researchers use computational tools to enhance the resolution of optical
+coherence tomography, potentially expanding its usefulness beyond the eye
+
+Biomedical engineers at Duke University have devised a method for increasing
+the resolution of optical coherence tomography (OCT) down to a single
+micrometer scale in all directions. The new technique, called optical
+coherence refraction tomography (OCRT), could improve medical images obtained
+in the multibillion-dollar OCT industry for medical fields ranging from
+cardiology to oncology.
+
+The results appear in a paper published online on August 19 in the journal
+Nature Photonics.
+
+“An historic issue with OCT is that the depth resolution is typically several
+times better than the lateral resolution,” said Joseph Izatt, the Michael J.
+Fitzpatrick Professor of Engineering at Duke. “If the layers of imaged tissues
+happen to be horizontal, then they’re well defined in the scan. But to extend
+the full power of OCT for live imaging of tissues throughout the body, a
+method for overcoming the tradeoff between lateral resolution and depth of
+imaging was needed.”
+
+OCT is an imaging technology analogous to ultrasound that uses light rather
+than soundwaves. A probe shoots a beam of light into a tissue and, based on
+the delays of the light waves as they bounce back, determines the boundaries
+of the features within. To get a full picture of these structures, the process
+is repeated at many horizontal positions over the surface of the tissue being
+scanned.
+
+Because OCT provides much better resolution of depth than lateral direction,
+it works best when these features contain mostly flat layers. When objects
+within the tissue have irregular shapes, the features become blurred and the
+light refracts in different directions, reducing the image quality.
+
+Previous attempts at creating OCT images with high lateral resolution have
+relied on holography—painstakingly measuring the complex electromagnetic field
+reflected back from the object. While this has been demonstrated, the approach
+requires the sample and imaging apparatus to remain perfectly still down to
+the nanometer scale during the entire measurement.
+
+“This has been achieved in a laboratory setting,” said Izatt, who also holds
+an appointment in ophthalmology at the Duke University School of Medicine.
+“But it is very difficult to achieve in living tissues because they live,
+breathe, flow and change.”
+
+In the new paper, Izatt and his doctoral student, Kevin Zhou, take a different
+approach. Rather than relying on holography, the researchers combine OCT
+images acquired from multiple angles to extend the depth resolution to the
+lateral dimension. Each individual OCT image, however, becomes distorted by
+the light’s refraction through irregularities in the cells and other tissue
+components. To compensate for these altered paths when compiling the final
+images, the researchers needed to accurately model how the light is bent as it
+passes through the sample.
+
+To accomplish this computational feat, Izatt and Zhou turned to their
+colleague Sina Farsiu, the Paul Ruffin Scarborough Associate Professor of
+Engineering at Duke, who has a long history of using machine learning tools to
+create better images for health care applications.
+
+Working with Farsiu, Zhou developed a method using “gradient-based
+optimization” to infer the refractive index within the different areas of
+tissue based on the multi-angle images. This approach determines the direction
+in which the given property—in this case the refractive index—needs to be
+adjusted to create a better image. After many iterations, the algorithm
+creates a map of the tissue’s refractive index that best compensates for the
+light’s distortions. The method was implemented using TensorFlow, a popular
+software library created by Google for deep learning applications.
+
+“One of the many reasons why I find this work exciting is that we were able to
+borrow tools from the machine learning community and apply them not only to
+post-process OCT images, but also to combine them in a novel way and extract
+new information,” said Zhou. “I think there are many applications of these
+deep learning libraries such as TensorFlow and PyTorch, outside of the
+standard tasks such as image classification and segmentation.”
+
+For these proof-of-concept experiments, Zhou took tissue samples such as the
+bladder or trachea of a mouse, placed them in a tube, and rotated the samples
+360 degrees beneath an OCT scanner. The algorithm successfully created a map
+of each sample’s refractive index, increasing the lateral resolution of the
+scan by more than 300 percent while reducing the background noise in the final
+image. While the study used samples already removed from the body, the
+researchers believe OCRT can be adapted to work in a living organism.
+
+“Rather than rotating the tissue, a scanning probe developed for this
+technique could rotate the angle of the beam on the tissue surface,” said
+Zhou.
+
+Zhou is already investigating how much a corneal scan could be improved by the
+technology with less than a 180-degree sweep, and the results appear
+promising. If successful, the technique could be a boon to many medical
+imaging needs.
+
+“Capturing high-resolution images of the conventional outflow tissues in the
+eye is a long-sought-after goal in ophthalmology,” said Farsiu, referring to
+the eye’s aqueous humor drainage system. “Having an OCT scanner with this type
+of lateral resolution would be very important for early diagnosis and finding
+new therapeutic targets for glaucoma.”
+
+“OCT has already revolutionized ophthalmic diagnostics by advancing
+noninvasive microscopic imaging of the living human retina,” said Izatt. “We
+believe that with further advances such as OCRT, the high impact of this
+technology may be extended not only to additional ophthalmic diagnostics, but
+to imaging of pathologies in tissues accessible by endoscopes, catheters, and
+bronchoscopes throughout the body.”
+
+This research was supported by the National Science Foundation, the National
+Institutes of Health National Eye Institute, and the Google Faculty Research
+Award.
+
+“Optical Coherence Refraction Tomography,” Kevin C. Zhou, Ruobing Qian, Simone
+Degan, Sina Farsiu and Joseph A. Izatt. Nature Photonics, Aug. 19, 2019. DOI:
+10.1038/s41566-019-0508-1
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

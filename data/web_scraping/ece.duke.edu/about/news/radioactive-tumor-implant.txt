@@ -1,0 +1,281 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gel-Like, Radioactive Implant Obliterates Pancreatic Cancer in Mice
+
+October 20, 2022 | By Ken Kingery
+
+Combination of internal radiation and chemotherapy dissolves tumors in 80
+percent of mice across multiple models
+
+Biomedical engineers at Duke University have demonstrated the most effective
+treatment for pancreatic cancer ever recorded in mouse models. While most
+mouse trials consider simply halting growth a success, the new treatment
+completely eliminated tumors in 80 percent of mice across several model types,
+including those considered the most difficult to treat.
+
+The approach combines traditional chemotherapy drugs with a new method for
+irradiating the tumor. Rather than delivering radiation from an external beam
+that travels through healthy tissue, the treatment implants radioactive
+iodine-131 directly into the tumor within a gel-like depot that protects
+healthy tissue and is absorbed by the body after the radiation fades away.
+
+The results appear online October 19 in the journal Nature Biomedical
+Engineering.
+
+“We did a deep dive through over 1,100 treatments across preclinical models
+and never found results where the tumors shrank away and disappeared like ours
+did,” said Jeff Schaal, who conducted the research during his PhD study in the
+laboratory of Ashutosh Chilkoti, the Alan L. Kaganov Distinguished Professor
+of Biomedical Engineering at Duke. “When the rest of the literature is saying
+that what we’re seeing doesn’t happen, that’s when we knew we had something
+extremely interesting.”
+
+> “When the rest of the literature is saying that what we’re seeing doesn’t
+> happen, that’s when we knew we had something extremely interesting.”
+>
+> **jeff schaal**
+
+Despite accounting for only 3.2 percent of all cancer cases, pancreatic cancer
+is the third leading cause of cancer-related death. It is very difficult to
+treat because its tumors tend to develop aggressive genetic mutations that
+make it resistant to many drugs, and it is typically diagnosed very late when
+it has already spread to other sites in the body.
+
+The current leading treatment combines chemotherapy, which keeps cells in a
+stage of reproduction vulnerable to radiation for longer periods of time, with
+a beam of radiation targeted at the tumor. This approach, however, is
+ineffective unless a certain threshold of radiation reaches the tumor. And
+despite recent advances in shaping and targeting radiation beams, that
+threshold is very difficult to reach without risking severe side effects.
+
+Another method researchers have tried involves implanting a radioactive sample
+encased in titanium directly within the tumor. But because titanium blocks all
+radiation other than gamma rays, which travel far outside the tumor, it can
+only remain within the body for a short period of time before damage to
+surrounding tissue begins to defeat the purpose.
+
+“There’s just no good way to treat pancreatic cancer right now,” said Schaal,
+who is now director of research at Cereius, a Durham, NC, biotechnology
+startup working to commercialize a targeted radionuclide therapy through a
+different technology scheme.
+
+> “There’s just no good way to treat pancreatic cancer right now."
+>
+> **jeff schaal**
+
+To skirt these issues, Schaal decided to try a similar implantation method
+using a substance made of elastin-like polypeptides (ELPs), which are
+synthetic chains of amino acids bonded together to form a gel-like substance
+with tailored properties. Because ELPs are a focus of the Chilkoti lab, he was
+able to work with colleagues to design a delivery system well-suited for the
+task.
+
+The ELPs exist in a liquid state at room temperature but form a stable gel-
+like substance within the warmer human body. When injected into a tumor along
+with a radioactive element, the ELPs form a small depot encasing radioactive
+atoms. In this case, the researchers decided to use iodine-131, a radioactive
+isotope of iodine, because doctors have used it widely in medical treatments
+for decades and its biological effects are well understood.
+
+The ELP depot encases the iodine-131 and prevents it from leaking out into the
+body. The iodine-131 emits beta radiation, which penetrates the biogel and
+deposits almost all its energy into the tumor without reaching the surrounding
+tissue. Over time, the ELP depot degrades into its constituent amino acids and
+is absorbed by the body — but not before the iodine-131 has decayed into a
+harmless form of xenon.
+
+"The beta radiation also improves the stability of the ELP biogel,” Schaal
+said. “That helps the depot last longer and only break down after the
+radiation is spent.”
+
+> “My lab has been working on developing new cancer treatments for close to 20
+> years, and this work is perhaps the most exciting we have done in terms of
+> its potential impact."
+>
+> **ashutosh chilkoti** | Alan L. Kaganov Distinguished Professor of
+> Biomedical Engineering
+
+In the new paper, Schaal and his collaborators in the Chilkoti laboratory
+tested the new treatment in concert with paclitaxel, a commonly used
+chemotherapy drug, to treat various mouse models of pancreatic cancer. They
+chose pancreatic cancer because of its infamy for being difficult to treat,
+hoping to show that their radioactive tumor implant creates synergistic
+effects with chemotherapy that relatively short-lived radiation beam therapy
+does not.
+
+The researchers tested their approach on mice with cancers just under their
+skin created by several different mutations known to occur in pancreatic
+cancer. They also tested it on mice that had tumors within the pancreas, which
+is much more difficult to treat.
+
+Overall, the tests saw a 100 percent response rate across all models, with the
+tumors being completely eliminated in three-quarters of the models about 80%
+of the time. The tests also revealed no immediately obvious side effects
+beyond what is caused by chemotherapy alone.
+
+“We think the constant radiation allows the drugs to interact with its effects
+more strongly than external beam therapy allows,” Schaal said. “That makes us
+think that this approach might actually work better than external beam therapy
+for many other cancers, too.”
+
+> “We think the constant radiation allows the drugs to interact with its
+> effects more strongly than external beam therapy allows. That makes us think
+> that this approach might actually work better than external beam therapy for
+> many other cancers, too.”
+>
+> **jeff schaal**
+
+The approach, however, is still in its early preclinical stages and will not
+be available for human use anytime soon. The researchers say their next step
+is large animal trials, where they will need to show that the technique can be
+accurately done with the existing clinical tools and endoscopy techniques that
+doctors are already trained on. If successful, they look toward a Phase 1
+clinical trial in humans.
+
+“My lab has been working on developing new cancer treatments for close to 20
+years, and this work is perhaps the most exciting we have done in terms of its
+potential impact, as late-stage pancreatic cancer is impossible to treat and
+is invariably fatal,” Chilkoti said. “Pancreatic cancer patients deserve
+better treatment options than are currently available, and I am deeply
+committed to taking this all the way into the clinic.”
+
+This research was supported by the National Institutes of Health
+(5R01EB000188) and the National Cancer Institute (R35CA197616).
+
+CITATION: “Brachytherapy Via a Depot of Biopolymer-Bound 131I Synergizes With
+Nanoparticle Paclitaxel in Therapy-Resistant Pancreatic Tumours,” Jeffrey L.
+Schaal, Jayanta Bhattacharyya, Jeremy Brownstein, Kyle C. Strickland, Garrett
+Kelly, Soumen Saha, Joshua Milligan, Samagya Banskota, Xinghai Li, Wenge Liu,
+David G. Kirsch, Michael R Zalutsky, and Ashutosh Chilkoti. Nature Biomedical
+Engineering, 2022. DOI: 10.1038/s41551-022-00949-4
+
+Link: https://www.nature.com/articles/s41551-022-00949-4
+
+## Related News
+
+August 26, 2020
+
+### Type 2 Diabetes Drugs Work Better in Tethered Combination Therapy
+
+September 16, 2019
+
+### Genetic Targeting Gives Cancer Therapy a Better Shot at Success
+
+June 05, 2017
+
+### Injectable Solution May Provide Weeks of Glucose Control
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

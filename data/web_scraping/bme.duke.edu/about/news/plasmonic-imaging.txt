@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Nanocubes Simplify Printing And Imaging In Color And Infrared
+
+December 14, 2016 | By Ken Kingery
+
+New technology allows multispectral reactions on a single chip
+
+Duke University researchers believe they have overcome a longstanding hurdle
+to producing cheaper, more robust ways to print and image across a range of
+colors extending into the infrared.
+
+As any mantis shrimp will tell you, there are a wide range of "colors" along
+the electromagnetic spectrum that humans cannot see but which provide a wealth
+of information. Sensors that extend into the infrared can, for example,
+identify thousands of plants and minerals, diagnose cancerous melanomas and
+predict weather patterns, simply by the spectrum of light they reflect.
+
+Current imaging technologies that can detect infrared wavelengths are
+expensive and bulky, requiring numerous filters or complex assemblies in front
+of an infrared photodetector. The need for mechanical movement in such devices
+reduces their expected lifetime and can be a liability in harsh conditions,
+such as those experienced by satellites.
+
+In a new paper, a team of Duke engineers reveals a manufacturing technique
+that promises to bring a simplified form of multispectral imaging into daily
+use. Because the process uses existing materials and fabrication techniques
+that are inexpensive and easily scalable, it could revolutionize any industry
+where multispectral imaging or printing is used.
+
+The results appear online December 14 in the journal Advanced Materials.
+
+"It's challenging to create sensors that can detect both the visible spectrum
+and the infrared," said Maiken Mikkelsen, the Nortel Networks Assistant
+Professor of Electrical and Computer Engineering and Physics at Duke.
+
+"Traditionally you need different materials that absorb different wavelengths,
+and that gets very expensive," Mikkelsen said. "But with our technology, the
+detectors' responses are based on structural properties that we design rather
+than a material's natural properties. What's really exciting is that we can
+pair this with a photodetector scheme to combine imaging in both the visible
+spectrum and the infrared on a single chip."
+
+The new technology relies on plasmonics -- the use of nanoscale physical
+phenomena to trap certain frequencies of light.
+
+Engineers fashion silver cubes just 100 nanometers wide and place them only a
+few nanometers above a thin gold foil. When incoming light strikes the surface
+of a nanocube, it excites the silver's electrons, trapping the light's energy
+-- but only at a certain frequency.
+
+The size of the silver nanocubes and their distance from the base layer of
+gold determines that frequency, while controlling the spacing between the
+nanoparticles allows tuning the strength of the absorption. By precisely
+tailoring these spacings, researchers can make the system respond to any
+specific color they want, all the way from visible wavelengths out to the
+infrared.
+
+The challenge facing the engineers is how to build a useful device that could
+be scalable and inexpensive enough to use in the real world. For that,
+Mikkelsen turned to her research team, including graduate student Jon Stewart.
+
+"Similar types of materials have been demonstrated before, but they've all
+used expensive techniques that have kept the technology from transitioning to
+the market," said Stewart. "We've come up with a fabrication scheme that is
+scalable, doesn't need a clean room and avoids using million-dollar machines,
+all while achieving higher frequency sensitivities. It has allowed us to do
+things in the field that haven't been done before."
+
+To build a detector, Mikkelsen and Stewart used a process of light etching and
+adhesives to pattern the nanocubes into pixels containing different sizes of
+silver nanocubes, and thus each sensitive to a specific wavelength of light.
+When incoming light strikes the array, each area responds differently
+depending on the wavelength of light it is sensitive to. By teasing out how
+each part of the array responds, a computer can reconstruct what color the
+original light was.
+
+The technique can be used for printing as well, the team showed. Instead of
+creating pixels with six sections tuned to respond to specific colors, they
+created pixels with three bars that reflect three colors: blue, green and red.
+By controlling the relative lengths of each bar, they can dictate what
+combination of colors the pixel reflects. It's a novel take on the classic RGB
+scheme first used in photography in 1861.
+
+But unlike most other applications, the plasmonic color scheme promises to
+never fade over time and can be reliably reproduced with tight accuracy time
+and again. It also allows its adopters to create color schemes in the
+infrared.
+
+"Again, the exciting part is being able to print in both visible and infrared
+on the same substrate," said Mikkelsen. "You could imagine printing an image
+with a hidden portion in the infrared, or even covering an entire object to
+tailor its spectral response."
+
+This work was supported by the Air Force Office of Scientific Research Young
+Investigator Research Program (AFOSR, Grant. No. FA9550-15-1-0301).
+
+CITATION: Jon W. Stewart, Gleb M. Akselrod, David R. Smith & Maiken H.
+Mikkelsen, "Toward Multispectral Imaging with Colloidal Metasurface Pixels",
+Advanced Materials, 2016. DOI: 10.1002/adma.201602971
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

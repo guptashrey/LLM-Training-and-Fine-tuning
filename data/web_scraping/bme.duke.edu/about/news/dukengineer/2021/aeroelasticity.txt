@@ -1,0 +1,279 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2021
+
+# Keeping Airplanes, Rockets and Helicopters in the Sky
+
+April 1, 2021 | Richard Hollenbach and Shreyas Hegde
+
+Aeroelasticity at Duke University has grown and thrived for more than three
+decades
+
+Events affect everyone differently and can have deep impact on their present
+and future. One such event happened on the morning of January 8, 1989, during
+a routine scheduled flight from London’s Heathrow Airport to Belfast
+International Airport, Northern Ireland.
+
+A fan blade in the left engine broke. However, indicators on this new edition
+Boeing 737-400 made the pilots believe that the issue was with the right
+engine. As a result, the actual functioning engine (the right one) was shut
+down while the damaged engine (the left one) was filled with fuel, igniting
+it. The pilots attempted an emergency landing at East Midlands Airport, but
+crashed onto a motorway near Kegworth, England. Forty-seven people lost their
+lives and even more sustained serious injuries in this aerospace disaster.
+
+This unfortunate event inspired one particular student to go work for General
+Electric to improve jet engines. Thirty years later, Robert Kielb, professor
+of the practice of mechanical engineering and materials science, now teaches
+vibrations at Duke University, after studying the field of turbine engines at
+General Electric and NASA.
+
+Similar to Kielb, the faculty who make up the Aeroelasticity Laboratory at
+Duke University have a commitment to improve the technologies that govern the
+development of airplanes, rockets and helicopters, and help them reach the sky
+and beyond. Located within the Thomas Lord Department of Mechanical
+Engineering and Materials Science (MEMS), the laboratory focuses on three main
+research efforts to solve present-day problems in aerospace engineering:
+experimental testing in a low-speed wind tunnel, rigorous theoretical models
+and large-scale computational simulations. Recent advances include hypersonic
+beam and plate dynamics, helicopter rotor wake simulations, embedded
+compressor-rotor interaction and vortex-induced vibrations of turbines, among
+many others.
+
+The history of the group is as diverse and unique as its members, and to
+understand it well, we talked to the longest-tenured member of the
+Aeroelasticity faculty: Earl Dowell, the William Holland Hall Distinguished
+Professor of MEMS.
+
+## The Birth of the Aeroelasticity Laboratory
+
+When Dowell first came to Duke back in 1983, aeroelasticity was a new activity
+for the School of Engineering. Coming from Princeton University, he had been
+with experts in fields like fluid mechanics, dynamics and structural mechanics
+individually, but those fields were not often being studied together at most
+universities. Duke’s strong interest in interdisciplinary research provided a
+unique opportunity to study these fields together; thus, the Aeroelasticity
+Laboratory was born.
+
+With time, additional members joined. Lawrence Virgin was a post-doc under
+Dowell and has since stayed at Duke, going on to become a professor of MEMS
+and Civil and Environmental Engineering (CEE), chair of the latter for a time,
+and currently running the Non-linear Dynamics Laboratory. Donald Bliss,
+associate professor of MEMS, brought in his knowledge and expertise in
+aerodynamics and acoustics. In 1990, Kenneth Hall, now the Julian Francis
+Abele Distinguished Professor of MEMS, joined the faculty after working at
+United Technologies Research Center (UTRC), where he was working as an
+engineer. Hall—who would later serve six years as the chair of MEMS—works on
+unsteady aerodynamics and aeroelasticity, with a focus on aeromechanical
+problems in turbomachinery.
+
+During the time when the group was growing, Dowell had the additional
+responsibility of being the dean of Duke Engineering. On being asked how he
+handled the lab responsibilities while serving as the dean, his response was
+as insightful as his work.
+
+“As the dean, I had to take a broad view of not only the department, but of
+the entire school of engineering,” said Dowell. “I definitely did not want to
+feather my own nest, so to speak. So I just focused on looking for good people
+to hire. Nobody studies the same thing for their entire career anymore, so I
+focused on faculty and students who displayed strong characteristics,
+regardless of what they may have previously been working on. For example,
+after the start of my research in aeroelasticity, I then turned to the study
+of nonlinear dynamics and chaos, but now I focus more on aerodynamics, limit
+cycle oscillations and developing reduced order models.”
+
+## Three Decades of Excellence
+
+In total, nearly one hundred students have participated in activities
+associated with the Aeroelasticity Laboratory. They have earned doctoral,
+master’s and bachelor’s degrees in mechanical engineering. In addition,
+students have completed the undergraduate certificate in aerospace
+engineering, or the newly created SOAR graduate aerospace certificate. These
+certificates are the only way to earn an aerospace engineering distinction
+from the university, vital for the students who then go on to work in the
+aerospace field at companies such as NASA and SpaceX.
+
+Acronyms are popular with the lab, as it also participates in the THRUST
+Master’s Program, a two-year international program with partner universities
+in Sweden and Belgium. Receiving funding from the European Union, students
+study turbomachinery aeromechanics at KTH in Stockholm, complete a summer
+internship at any aerospace company, and then spend a year completing their
+Master’s degree and a research project at either Duke or Universite de Liege
+in Belgium.
+
+> “Nobody studies the same thing for their entire career anymore, so I focused
+> on faculty and students who displayed strong characteristics, regardless of
+> what they may have previously been working on.”
+
+Kielb has been an integral part of this program for all 10 years so far,
+teaching one of its fundamental courses and advising students who choose to
+attend Duke for year two. Upon completion, students receive two master’s
+degrees, which is unique to this program, the only one of its kind at Duke.
+
+The Aeroelasticity Laboratory’s projects are not just limited to Duke; one
+prominent involvement is within the GUIde Consortium. Standing for Government,
+Universities, and Industry, this consortium researches issues in
+turbomachinery. Projects come directly from engine companies, while quarterly
+updates provide constant communication between the researchers at the partner
+universities.
+
+The GUIde Consortium began at Carnegie Mellon University in 1991 to study
+high-cycle fatigue problems in engines. Funding came from multiple industries
+as well as the US Air Force and NASA. In the early 2000s, GUIde moved to Duke
+University, where it remains today. GUIde 6, the sixth iteration of projects,
+kicked on in 2019, with Duke focusing on forced response, nonsynchronous
+vibrations and system identification techniques.
+
+Over the years, faculty have won multiple national awards from organizations
+such as the American Institute for Aeronautics and Astronautics (AIAA), the
+American Society of Mechanical Engineers (ASME), the National Academy of
+Engineering, and more. What sets this group apart from other lab-oratories,
+however, is the interdisciplinary nature of projects between members, using
+cutting-edge techniques to solve present-day issues.
+
+Bliss and Dowell published papers on the use of piston theory to study
+unsteady aerodynamics, especially in hypersonic flow, which is flow moving at
+speeds five times greater than the speed of sound. Hall and Thomas developed a
+harmonic balance computational tool to study unsteady aerodynamics in cascades
+of airfoils, which has even been used to study turbomachinery aeromechanics
+problems with Kielb. Virgin and Kielb studied nonlinear dynamics in fan blades
+and stator vanes—work that won a John P. Davis award from ASME. Dowell also
+worked with Kielb and Thomas to study vortex-induced vibrations on an airfoil
+experiencing nonsynchronous vibrations.
+
+There are few labs with the unique level of collaboration on all facets of
+modern-day aerospace research quite like the Aeroelasticity Laboratory. So
+here’s to decades of excellence in aerospace engineering at Duke University
+thus far, and many more to come.
+
+**_Richard Hollenbach and Shreyas Hegde are PhD students in mechanical
+engineering studying aerodynamics and vibrations in turbomachinery under
+Robert Kielb within the Aeroelasticity Laboratory._**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2021
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,601 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. The Duke Difference
+        1. Why Duke for CEE?
+        2. Enrollment and Graduation Rates
+        3. Where Our Students Go
+
+      2. Degree Options
+        1. Civil Eng Degree Planning
+        2. Civil Eng Study Tracks
+        3. Env. Eng Degree Planning
+        4. Dual Majors
+        5. Certificates
+        6. 4+1: BSE+Master's
+
+      3. For Current Students
+        1. Courses
+        2. Research & Independent Study
+        3. Outreach & Service Learning
+        4. Senior Design Capstone
+        5. Internships & Career Planning
+        6. Graduation with Distinction
+
+  * Graduate
+    *       1. The Duke Difference
+        1. Degree Options
+        2. Scholarships & Financial Support
+        3. Graduate Study Tracks
+        4. Graduate Certificates
+        5. Course Descriptions
+
+      2. Master's Study
+        1. Master of Science in CEE
+        2. Civil Engineering
+        3. Computational Mechanics and Scientfic Computing
+        4. Environmental Engineering
+        5. Risk Engineering
+        6. Career Services
+        7. Career Outcomes
+
+      3. PhD
+        1. Meet Our Students
+        2. PhD Career Outcomes
+
+      4. For Current Students
+  * Research
+    *       1. Overview
+      2. Research News
+      3. Computational Mechanics & Scientific Computing
+      4. Environmental Health Engineering
+      5. Geomechanics & Geophysics for Energy and the Environment
+      6. Hydrology & Fluid Dynamics
+      7. Risk & Resilient Systems
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * About
+    *       1. Facts & Stats
+      2. Meet the Chair
+      3. Serving a Global Society
+      4. Advisory Board
+      5. Alumni
+      6. Awards & Honors
+      7. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke CEE Magazine
+
+      8. Events
+        1. Seminars
+
+# Undergraduate Courses
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+  3. Students
+
+_For more details, seeCE curriculum or EnvE curriculum_
+
+## Required EGR and CEE courses
+
+****EGR 101L. Engineering Design and Communication.**** (CE, EnvE) Students
+work in teams to learn and apply the engineering design process to solve an
+open-ended, client-based problem drawn from a community partner. In this
+class, students learn to apply the engineering design process to meet the
+needs of a client, iteratively prototype using tools and materials appropriate
+to the solution, work collaboratively on a team, and communicate the critical
+steps in the design process in written, oral, and visual formats. First-year
+Pratt students only. Trinity first-year students may take the course with
+instructor consent.  
+Instructor: Saterbak, Santillan
+
+### Undergraduate Links
+
+  * Duke Hub
+  * Registrar's Schedule of Courses
+  * Academic Calendar
+  * Undergraduate Bulletin
+  * Registrar's Office
+  * Sakai
+
+**EGR 103L. Computational Methods in Engineering.** (CE, EnvE) Introduction to
+computer methods and algorithms for analysis and solution of engineering
+problems using numerical methods in a workstation environment. Topics include;
+numerical integration, roots of equations, simultaneous equation solving,
+finite difference methods, matrix analysis, linear programming, dynamic
+programming, and heuristic solutions used in engineering practice. This course
+does not require any prior knowledge of computer programming.  
+Instructor: Staff. One course. Fall and Spring.
+
+**EGR 201L. Mechanics of Solids.** (CE, EnvE) Analysis of force systems and
+their equilibria as applied to engineering systems. Stresses and strains in
+deformable bodies; mechanical behavior of materials; applications of
+principles to static problems of beams, torsion members, and columns. Selected
+laboratory work.  
+Prerequisites: MATH 112L and PHYSICS 151L.  
+Instructor: Boadu, Dolbow, Gavin, Hueckel, or Nadeau. One course. Fall and
+Spring.
+
+**EGR 244L. Dynamics.** (CE, EnvE) Principles of dynamics of particles, rigid
+bodies, and selected nonrigid systems with emphasis on engineering
+applications. Kinematic and kinetic analysis of structural and machine
+elements in a plane and in space using graphical, computer, and analytical
+vector techniques. Absolute and relative motion analysis. Work-energy; impact
+and impulse-momentum. Laboratory experiments.  
+Prerequisites: EGR 201L and MATH 212 or consent of instructor.  
+Instructor: Dowell, Knight, Virgin or Yellen. One course. Spring only.
+
+**EGR 305. Engineering Systems Optimization.** (CE) Introduction to
+mathematical optimization, engineering economic analysis, and other decision
+analysis tools used to evaluate and design engineering systems. Application of
+linear and nonlinear programming, dynamic programming, expert systems,
+simulation and heuristic methods to engineering systems design problems.
+Applications discussed include: production plant scheduling, water resources
+planning, design and analysis, vehicle routing, resource allocation, repair
+and rehabilitation scheduling and economic analysis of engineering design
+alternatives.  
+Corequisite: MATH 216. Prerequisite: MATH 212.  
+Instructor: Borsuk, Gavin. One course. Fall only.
+
+**CEE 132L. Engineering the Planet.** (CE, EnvE) Four broad disciplines within
+civil and environmental engineering will be explored and over-arching
+experiential projects will apply theory and practice to real-world design
+problems. The course will examine the societal context of these disciplines
+and their contributions to and impacts on the built environment. Specifically,
+the course will examine air, water, land use, shelter, systems, and energy and
+students will be challenged with issues of economics, social impact, green
+engineering, sustainable design and building practices.  
+Instructor: Schaad
+
+**CEE 201L. Uncertainity Design and Optimization.** (CE) Principles of design
+as a creative and iterative process involving problem statements, incomplete
+information, conservative assumptions, constraining regulations, and uncertain
+operating environments. Parameterization of costs and constraints and
+formulation of constrained optimization problems. Analytical and numerical
+solutions to constrained optimization problems. Evaluation of design solutions
+via sensitivity and risk analysis. Application to design problems in civil and
+environmental engineering.  
+Prerequisite: EGR 201L.  
+Instructor: Borsuk, Gavin. One course. Spring only.
+
+**CEE 301L. Fluid Mechanics.** (CE, EnvE) Physical properties of fluids;
+fluid-flow concepts and basic equations; continuity, energy, and momentum
+principles; dimensional analysis and dynamic similitude; viscous effects;
+applications emphasizing real fluids. Selected laboratory work.  
+Corequisite: EGR 244L.  
+Instructor: Boadu, Kabala, Medina or Porporato. One course. Fall and Spring.
+
+**CEE 302L. Introduction to Soil Mechanics.** (CE) Origin and composition of
+soils, soil structure. Flow of water through soils. Environmental
+geotechnology: land waste disposal, waste containment, and remediation
+technologies. Soil behavior under stress; compressibility, shear strength.
+Elements of mechanics of soil masses with application to problems of bearing
+capacity of foundations, earth pressure on retaining walls, and stability of
+slopes. Laboratory included.  
+Prerequisite: CEE 301L.  
+Instructor: Boadu or Hueckel. One course. Spring only.
+
+**CEE 560. Environmental Transport Phenomena**. (EnvE) Conservation principles
+in the atmosphere and bodies of water, fundamental equations for transport in
+the atmosphere and bodies of water, scaling principles, simplification,
+turbulence, turbulent transport, Lagrangian transport, applications to
+transport of particles from volcanoes and stacks, case studies: volcanic
+eruption, Chernobyl accident, forest fires and Toms River power plant
+emission.  
+Instructor: Wiesner
+
+## Required Courses for S/M Track
+
+**CEE 421L. Matrix Structural Analysis.** (CE) Development of stiffness matrix
+methods from first principles. Superposition of loads and elements. Linear
+analysis by hand and computer of plane and space structures comprising one-
+dimensional truss and beam elements.  
+Prerequisites: EGR 201L and MATH 212 or MATH 216.  
+Instructors: Gavin, Scovazzi, Virgin. One course. Fall only.
+
+**CEE 422L. Concrete and Composite Structures.** (CE) Properties and design of
+concrete. Analysis and design of selected reinforced concrete structural
+elements according to strength and design methodology. Mechanics forming the
+foundation of the methodology is featured. Laboratory work on properties of
+aggregates, concrete, and reinforced concrete.  
+Prerequisite: EGR 201L.  
+Instructor: Nadeau. One course. Spring only.
+
+**CEE 423L. Metallic Structures.** (CE) Design in metals, primarily steel.
+Properties of materials as criteria for failure. Tension, compression, and
+flexural members. Bolted and welded connections, including eccentric
+connections. Built-up members. Design by elastic and plastic methods. Selected
+problems to include computations and drawings.  
+Prerequisite: EGR 201L.  
+Instructor: Nadeau. One course. Fall only.
+
+**CEE 429. Integrated Structural Design.** (CE) Student design teams complete
+a preliminary design of an actual structural engineering project and present
+the design to a panel of civil engineering faculty and practitioners. A
+written technical report is required. Topics to be addressed include: the
+design process; cost estimation; legal, ethical, and social aspects of
+professional engineering practice; short-term and long-term design
+serviceability considerations. Open only to civil engineering students during
+their final two semesters.  
+Prerequisites: CEE 421L, 422L, 423L.  
+Instructor: Nadeau. One course. Spring only.
+
+## Required courses for E/W Track
+
+**CEE 461L. Chemical Principles in Environmental Engineering.** (CE, EnvE)
+Fundamentals of chemistry as applied in environmental engineering processes.
+Chemistry topics include acid-base equilibrium, the carbonate system, mineral
+surface interactions, redox reactions, and organic chemistry. Applied
+environmental systems include water treatment, soil remediation, air pollution
+and green engineering. Laboratory included. Field trips will be arranged.  
+Prerequisite: CHEM 101DL.  
+Instructor: Ferguson, Hsu-Kim. One course. Fall only.
+
+**CEE 462L. Biological Principles in Environmental Engineering.** (CE, EnvE)
+Fundamentals of microbiology related to biological environmental engineering
+processes. Topics include microbial metabolism, molecular biological tools,
+mass balance, and reactor models. Applications to include unit processes in
+wastewater treatment, bioremediation and biofiltration. Laboratory included.
+Field trips to be arranged.  
+Instructor: Deshusses or Gunsch. One course. Spring only.
+
+**CEE 463L. Water Resources Engineering.** (CE, EnvE) Descriptive and
+quantitative hydrology, hydraulics of pressure conduits and measurement of
+flow, compound pipe systems, analysis of flow in pressure distribution
+systems, open channel flow, reservoirs and distribution system storage.
+Groundwater hydrology and well-hydraulics. Probability and statistics in water
+resources. Selected laboratory and field exercises, computer applications.  
+Prerequisite: CEE 301L.  
+Instructor: Kabala, Schaad. One course. Fall only.
+
+**CEE 469. Integrated Environmental Design.** (CE, EnvE) Student design teams
+complete a preliminary design of an actual environmental engineering project
+and present the design to a panel of civil engineering faculty and
+practitioners. A written technical report is required. Topics to be addressed
+include: the design process; cost estimation; legal, ethical, and social
+aspects of professional engineering practice; short-term and long-term
+designserviceability considerations. Open only to civil engineering students
+during their final two semesters.  
+Prerequisites: CEE 461L, 463L, 462L.  
+Instructor: Schaad. One course. Spring only.
+
+## Elective courses
+
+_This is a selected list. For additional courses consult thecourse catalog._
+
+**EGR 350S. Professional Ethics.** Case study approach used to introduce
+professional ethics. Topics include moral development, confidentiality, risk
+and safety, social responsibility, fraud and malpractice, legal aspects of
+professionalism, and environmental ethics. The capstone course for students
+completing the certificate in the Program in Science, Technology, and Human
+Values. Also taught as Science, Technology, and Human Values 108S.  
+Instructor: Vallero. One course. Spring only.
+
+**CEE 190. Special Topics in Civil Engineering.** Study arranged on a special
+topic in which the instructor has particular interest and competence. Consent
+of instructor and director of undergraduate studies required. Half course or
+one course each.  
+Instructor: Staff.
+
+****CEE 291/292.** Independent Study in Civil and Environmental Engineering.**
+Study arranged on a special topic by an instructor with related interests and
+expertise. Consent of instructor and director of undergraduate studies
+required. Half course or one course.  
+Instructor: Staff
+
+****CEE 293/294.** Research Independent Study in Civil and Environmental
+Engineering**. Research project mentored by an instructor with related
+interests and expertise. Course may be taken by students who have demonstrated
+aptitude for independent work. Consent of instructor and director of
+undergraduate studies required. Half course or one course.  
+Instructor: Staff
+
+**CEE 311. Architectural Engineering I.** Analysis of the building through the
+study of its subsystems (enclosure, space, structural, environmental-control).
+Building materials and their principal uses in the enclosure and structural
+subsystems. Computer aided design. Field trips. Prerequisite: junior or senior
+standing, consent of instructor for non-engineering students.  
+Instructor: Brasier. One course. Fall only.
+
+**CEE 315-20, 315-60. Engineering Sustainable Design and Construction**.
+Design and testing of solutions to complex interdisciplinary design products
+in a service learning context. Technical design principles; sustainable and
+engineering best practices; prototype formation, testing and evaluation; and
+establishment of research and analysis methodologies in a community based
+research experience. Working in partnership with a community agency (local,
+national, or international) and participation in an experimental learning
+process by engineering a design solution for an identified community need.
+Evaluation focused on design deliverables, fabricated prototypes and a
+critical reflection of the experimental learning process. One credit.  
+Prerequisites: EGR 201L or ECE 110L or consent of instructor.  
+Instructor: Schaad. One course.
+
+**CEE 316. Transportation Engineering.** The role and history of
+transportation. Introduction to the planning and design of multimodal
+transportation systems. Principles of traffic engineering, route location, and
+geometric design. Planning studies and economic evaluation.  
+Prerequisite: STA 130(113) and consent of instructor for non-engineering
+students.  
+Instructor: Staff. One course. Occasionally.
+
+**CEE 390. Special Topics in Civil Engineering.** Study arranged on a special
+topic in which the instructor has particular interest and competence. Consent
+of instructor and director of undergraduate studies required. Half course or
+one course each.  
+Instructor: Staff.
+
+****CEE 393/394.** Research Independent Study in Civil and Environmental
+Engineering.** Research project mentored by an instructor with related
+interests and expertise. Course may be taken by students who have demonstrated
+aptitude for independent work. Consent of instructor and director of
+undergraduate studies required. Half course or one course.  
+Instructor: Staff
+
+**CEE 411. Architectural Engineering II.** Design and integration of building
+subsystems (enclosure, space, structural, environmental-control) in the design
+of a medium-sized building.  
+Prerequisite: CEE 311 or consent of instructor.  
+Instructor: Brasier. One course. Spring only.
+
+**CEE 490. Special Topics in Civil Engineering.** Study arranged on a special
+topic in which the instructor has particular interest and competence. Consent
+of instructor and director of undergraduate studies required. Half course or
+one course each.  
+Instructor: Staff.
+
+**CEE 491/492. Independent Study in Civil and Environmental Engineering**.
+Study arranged on a special topic by an instructor with related interests and
+expertise. Consent of instructor and director of undergraduate studies
+required. Half course or one course.
+
+****CEE 493/494.** Research Independent Study in Civil and Environmental
+Engineering.** Research project mentored by an instructor with related
+interests and expertise. Course may be taken by students who have demonstrated
+aptitude for independent work. Consent of instructor and director of
+undergraduate studies required. Half course or one course.  
+Instructor: Staff
+
+**CEE 501. Applied Math for Engineers**. Advanced analytical methods of
+applied mathematics useful in solving a wide spectrum of engineering problems.
+Applications of linear algebra, calculus of variations, the Frobenius method,
+ordinary differential equations, partial differential equations, and boundary
+value problems.  
+Prerequisites: Math 353 or equivalent and undergraduate courses in solid
+and/or fluid mechanics.  
+Instructor: Kabala
+
+**CEE 502. Engineering Data Analysis**. Introduction to the statistical error
+analysis of imprecise data and the estimation of physical parameters from data
+with uncertainty. Interpolation and filtering. Data and parameter covariance.
+Emphasis on time series analysis in the time- and frequency-domains. Linear
+and nonlinear least squares. Confidence intervals and belts. Hypothesis
+testing. Introduction to parameter estimation in linear and nonlinear dynamic
+systems.  
+Prerequisite: graduate standing or instructor consent.  
+Instructors: Boadu, Gavin
+
+**CEE 520. Continuum Mechanics**. Tensor fields and index notation. Analysis
+of states of stress and strain. Conservation laws and field equations.
+Constitutive equations for elastic, viscoelastic, and elastic-plastic solids.
+Formulation and solution of simple problems in elasticity, viscoelasticity,
+and plasticity.  
+Instructors: Hueckel, or Nadeau
+
+**CEE 525. Wave Propogation in Elastic and Poroelastic Media**. Basic theory,
+methods of solution, and applications involving wave propagation in elastic
+and poroelastic media. Analytical and numerical solution of corresponding
+equations of motion. Linear elasticity and viscoelasticity as applied to
+porous media. Effective medium, soil/rock materials as composite materials.
+Gassmann's equations and Biot's theory for poroelastic media. Stiffness and
+damping characteristics of poroelastic materials. Review of engineering
+applications that include NDT, geotechnical and geophysical case histories.  
+Prerequisite: MATH 353 or consent of instructor.  
+Instructor: Boadu
+
+**CEE 530. Introduction to the Finite Element Method**. Investigation of the
+finite element method as a numerical technique for solving linear ordinary and
+partial differential equations, using rod and beam theory, heat conduction,
+elastostatics and dynamics, and advective/diffusive transport as sample
+systems. Emphasis placed on formulation and programming of finite element
+models, along with critical evaluation of results. Topics include: Galerkin
+and weighted residual approaches, virtual work principles, discretization,
+element design and evaluation, mixed formulations, and transient analysis.  
+Prerequisites: a working knowledge of ordinary and partial differential
+equations, numerical methods, and programming in FORTRAN or MATLAB.  
+Instructor: Aquino, Dolbow, Scovazzi
+
+**CEE 541. Dynamic Systems**. Formulation of dynamic models for discrete and
+continuous structures; normal mode analysis, deterministic and stochastic
+responses to shocks and environmental loading (earthquakes, winds, and waves);
+introduction to nonlinear dynamic systems, analysis and stability of
+structural components (beams and cables and large systems such as offshore
+towers, moored ships, and floating platforms).  
+Instructor: Gavin
+
+**CEE 560. Environmental Transport Phenomena**. Conservation principles in the
+atmosphere and bodies of water, fundamental equations for transport in the
+atmosphere and bodies of water, scaling principles, simplification,
+turbulence, turbulent transport, Lagrangian transport, applications to
+transport of particles from volcanoes and stacks, case studies: volcanic
+eruption, Chernobyl accident, forest fires and Toms River power plant
+emission.  
+Instructor: Wiesner
+
+**CEE 566. Environmental Microbiology**. Fundamentals of microbiology and
+biochemistry as they apply to environmental engineering. General topics
+include cell chemistry, microbial metabolism, bioenergetics, microbial ecology
+and pollutant biodegradation.  
+Prerequisites: CEE 462L or graduate standing or consent of the instructor.  
+Instructor: Gunsch
+
+**CEE 575. Air Pollution Control Engineering**. The problems of air pollution
+with reference to public health and environmental effects. Measurement and
+meteorology. Air pollution control engineering: mechanical, chemical, and
+biological processes and technologies.  
+Instructor: Bergin
+
+**CEE 581. Pollutant Transport Systems**. Distribution of pollutants in
+natural waters and the atmosphere; diffusive and advective transport phenomena
+within the natural environment and through artificial conduits and
+storage/treatment systems. Analytical and numerical prediction methods.  
+Prerequisites: CEE 301L and MATH 111 or equivalents.  
+Instructor: Staff
+
+**CEE 643. Environmental and Engineering Geophysics**. Use of geophysical
+methods for solving engineering and environmental problems. Theoretical
+frameworks, techniques, and relevant case histories as applied to engineering
+and environmental problems (including groundwater evaluation and protection,
+siting of landfills, chemical waste disposals, roads assessments, foundations
+investigations for structures, liquefaction and earthquake risk assessment).
+Introduction to theory of elasticity and wave propagation in elastic and
+poroelastic media, electrical and electromagnetic methods, and ground
+penetrating radar technology.  
+Prerequisite: MATH 353 or consent of instructor.  
+Instructor: Boadu
+
+**CEE 644. Inverse Problems in Geosciences and Engineering**. Basic concepts,
+theory, methods of solution, and application of inverse problems in
+engineering, groundwater modeling, and applied geophysics. Deterministic and
+statistical frameworks for solving inverse problems. Strategies for solving
+linear and nonlinear inverse problems. Bayesian approach to nonlinear inverse
+problems. Emphasis on the ill-posed problem of inverse solutions. Data
+collection strategies in relation to solution of inverse problems. Model
+structure identification and parameter estimation procedures.  
+Prerequisite: MATH 353 or consent of instructor.  
+Instructor: Boadu
+
+**CEE 645. Experimental Systems**. Formulation of experiments; Pi theorem and
+principles of similitude; data acquisition systems; static and dynamic
+measurement of displacement, force, and strain; interfacing experiments with
+digital computers for data storage, analysis, and plotting. Students select,
+design, perform, and interpret laboratory-scale experiments involving
+structures and basic material behavior.  
+Prerequisite: senior or graduate standing in engineering or the physical
+sciences.  
+Instructor: Gavin
+
+**CEE 661L. Environmental Molecular Biotechnology**. Principles of genetics
+and recombinant DNA for environmental systems. Applications to include genetic
+engineering for bioremediation, DGGE, FISH, micro-arrays and biosensors.
+Laboratory exercises to include DNA isolation, amplification, manipulation and
+analysis.  
+Prerequisites: CEE 463L or consent of the instructor.  
+Instructor: Gunsch
+
+**CEE 683. Groundwater Hydrology and Contaminant Transport**. Review of
+surface hydrology and its interaction with groundwater. The nature of porous
+media, hydraulic conductivity, and permeability. General hydrodynamic
+equations of flow in isotropic and anisotropic media. Water quality standards
+and contaminant transport processes: advective-dispersive equation for solute
+transport in saturated porous media. Analytical and numerical methods,
+selected computer applications. Deterministic versus stochastic models.
+Applications: leachate from sanitary landfills, industrial lagoons and ponds,
+subsurface wastewater injection, monitoring of groundwater contamination.
+Conjunctive surface-subsurface models.  
+Prerequisite: CEE 463L or consent of instructor.  
+Instructor: Kabala
+
+## Undergraduate Contacts
+
+### Joseph Nadeau
+
+Professor of the Practice and Director of Undergraduate Studies
+
+__919-660-5216
+
+__nadeau@duke.edu
+
+### Nicolle Hinz
+
+Program Coordinator
+
+__919-660-4977
+
+__nicolle.hinz@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * The Duke Difference
+      * Why Duke for CEE?
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+    * Degree Options
+      * Civil Eng Degree Planning
+      * Civil Eng Study Tracks
+      * Env. Eng Degree Planning
+      * Dual Majors
+      * Certificates
+        * Architectural Engineering
+        * Global Development
+        * Energy & The Environment
+      * 4+1: BSE+Master's
+    * For Current Students
+      * Courses
+      * Research & Independent Study
+      * Outreach & Service Learning
+      * Senior Design Capstone
+      * Internships & Career Planning
+      * Graduation with Distinction
+  * Graduate
+    * The Duke Difference
+      * Degree Options
+      * Scholarships & Financial Support
+      * Graduate Study Tracks
+      * Graduate Certificates
+      * Course Descriptions
+    * Master's Study
+      * Master of Science in CEE
+      * Civil Engineering
+      * Computational Mechanics and Scientfic Computing
+      * Environmental Engineering
+      * Risk Engineering
+      * Career Services
+      * Career Outcomes
+    * PhD
+      * Meet Our Students
+      * PhD Career Outcomes
+    * For Current Students
+  * Research
+    * Overview
+    * Research News
+    * Computational Mechanics & Scientific Computing
+    * Environmental Health Engineering
+    * Geomechanics & Geophysics for Energy and the Environment
+    * Hydrology & Fluid Dynamics
+    * Risk & Resilient Systems
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * About
+    * Facts & Stats
+    * Meet the Chair
+    * Serving a Global Society
+    * Advisory Board
+    * Alumni
+    * Awards & Honors
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke CEE Magazine
+    * Events
+      * Seminars
+        * Past Seminars
+

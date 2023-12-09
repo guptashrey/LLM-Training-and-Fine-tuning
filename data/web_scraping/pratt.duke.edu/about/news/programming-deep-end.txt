@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Programming from the Deep End
+
+June 1, 2018
+
+There’s nothing like a little “sink or swim” to get the code flowing
+
+Though he’s now on the faculty of Duke’s Pratt School of Engineering, Ric
+Telford spent most of his career working his way up the chain of command at
+IBM. He started as a software developer and retired in 2015 as Vice President
+of Cloud Strategy, where he prototyped and piloted new technologies and
+business models for the software giant.
+
+Telford never wanted to spend his retirement playing golf. Instead, he joined
+Duke’s Engineering Masters program as an Executive-in-Residence to mentor and
+instruct engineering students who are just starting to build their own
+careers. He accomplishes this, in part, by structuring his Software
+Engineering class in the same way that software companies are structured—teams
+of students work to produce a set of deliverables for a real client, in blocks
+of work called sprints. There are sharp learning curves, and not a lot of
+hand-holding.
+
+This spring, for example, students in Telford’s graduate-level software
+engineering course designed a soup-to-nuts software system for Tyrata, a
+company whose sensor technology allows monitoring and reporting on tire tread
+wear in real time. (The company’s co-founder and Chief Technology Officer is
+Electrical and Computer Engineering Associate Professor Aaron Franklin.)
+Tyrata was moving steadily toward market release, and as such had some needs
+that Telford felt his programming students could assist with—like an app that
+Tyrata could show to potential customers, to demonstrate the applicability of
+its tech.
+
+Tyrata put together a set of ideas and concepts that needed to be illustrated;
+at the close of the course, the students would have a better understanding of
+the business of programming, and Tyrata would own the code the students
+developed.
+
+> There’s great interaction between research, education, and industry and
+> commercialization. That ecosystem is strong at Duke and this project gave us
+> an opportunity to really dig in and leverage that.
+>
+> DAve Koester, Vice President of Engineering, Tyrata
+
+“One of the things we talk about is ‘integrated entrepreneurship,’ ” said
+David Koester, Tyrata’s vice president of engineering. “There’s great
+interaction between research, education, and industry and commercialization.
+That ecosystem is strong at Duke and this project gave us an opportunity to
+really dig in and leverage that.”
+
+The software system that Telford’s class developed had three components: a
+simulator that played the role of the sensor in creating and sending periodic
+data, a mobile interface that illustrated the data to the user (alerting the
+driver that the left rear tire should be changed, for instance); and a server
+database that synthesized and extracted insights from the simulated data
+(showing, for example, that a particular brand of tire might be wearing out
+more quickly than projected).
+
+In the beginning, the going was tough.
+
+“They were starting from scratch, with no guidelines, no examples, and no
+experience,” said Telford. “The trajectory of improvement is very steep. In
+Sprint 1, there’s not a lot of function. In Sprint 2, they’re getting their
+feet under them and delivering code. But by Sprint 3, they’re innovating and
+creating things the client hasn’t even asked for.”
+
+“I was very pleased with the work they got done,” said Koester. “We expected
+results. We expected them to get the code to work, and they did.”
+
+Are Telford’s classes easy? According to his students, no. But do they learn
+skills that they wouldn’t ordinarily acquire in a classroom? Master’s
+candidate Naixin Yu says, emphatically, yes. She had no experience programming
+for Android when she enrolled in the course and had never worked on a large
+project as part of a team.
+
+Now that the course is complete, Yu’s resume has evolved; she’s worked with a
+team to write an app, even acting as project leader for the third sprint, and
+says she feels comfortable doing the work. She says that more importantly,
+she’s learned how crucial and often difficult it can be to communicate
+effectively across groups, aligning everyone’s work toward the end goal.
+
+“I got to know who liked to work in the morning, and who worked in the
+evening; who would respond quickly to your message, and who wouldn’t. I
+learned to assign jobs based on work styles,” said Yu.
+
+She also paid close attention to the leadership styles of her more
+professionally experienced peers, and learned how to manage meetings, schedule
+workflow and build a structure for projects to hang on.
+
+In talking with second-year master’s students about Telford’s class before she
+enrolled, Yu says she was warned that the class was intense. Weekend meetings
+were common, and group dynamics could be fractious and stressful.
+
+But now that she has taken the class, Yu said that her own advice would be
+different. “Think about what you want out of the course,” she said. “If you
+want to learn about communication in business, take the course. And you should
+definitely put a lot of time in, because that’s how you’ll learn.”
+
+Earn your Master's at Duke ECE
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

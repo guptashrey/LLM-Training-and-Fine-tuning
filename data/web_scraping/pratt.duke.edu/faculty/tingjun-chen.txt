@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Tingjun Chen
+
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+## Appointments and Affiliations
+
+  * Assistant Professor in the Department of Electrical and Computer
+    Engineering
+  * Assistant Professor of Computer Science
+
+## Contact Information
+
+  * **Email Address:** tingjun.chen@duke.edu
+  * **Websites:**
+    * LinkedIn profile
+    * Personal webpage 
+
+## Education
+
+  * Ph.D. Columbia University, 2020
+  * M.S. Columbia University, 2018
+  * B.S. Tsinghua University (China), 2014
+
+## Research Interests
+
+Wireless networking, next-generation wireless and optical networks, edge cloud
+and computing, Internet-of-Things (IoT), mobile and embedded systems,
+platforms and testbeds
+
+## Awards, Honors, and Distinctions
+
+  * Eli Jury Award. Columbia University. 2021
+  * IBM Academic Award. IBM. 2021
+  * Google Research Scholar Award. Google. 2021
+  * Morton B. Friedman Memorial Prize for Excellence. Columbia Engineering.
+    2021
+  * ACM SIGMOBILE Doctoral Dissertation Award, Runner-up. ACM SIGMOBILE. 2021
+  * Best Paper Finalist. ACM MobiHoc'19. 2019
+  * Student Research Competition (SRC) Winner – First Place. ACM MobiCom'19.
+    2019
+  * Facebook Fellowship. Facebook. 2019
+  * Oscar and Verna Byron Fellowship. Columbia University Engineering School.
+    2018
+  * Best Paper Award. ACM CoNEXT'16. 2016
+  * Edwin Howard Armstrong Memorial Award. Columbia University. 2015
+  * Wei Family Private Foundation Fellowship. Wei Family Private Foundation.
+    2014
+
+## Courses Taught
+
+  * COMPSCI 390: Topics in Computer Science
+  * COMPSCI 515: Wireless Networking and Mobile Computing
+  * COMPSCI 590: Advanced Topics in Computer Science
+  * ECE 495: Special Topics in Electrical and Computer Engineering
+  * ECE 556: Wireless Networking and Mobile Computing
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 891: Internship
+
+## In the News
+
+  * Bridging the Computation-Communication Gap in Future Connectivity Systems
+    (Jan 18, 2023 | Duke Pratt School of Engineering)
+  * Pratt New Faculty: Tingjun Chen Is Connecting Tomorrow’s Wireless World
+    (Oct 13, 2020 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Chen, T; Dastjerdi, MB; Krishnaswamy, H; Zussman, G, _Wideband Full-Duplex
+    Phased Array with Joint Transmit and Receive Beamforming: Optimization and
+    Rate Gains_ , Ieee/Acm Transactions on Networking, vol 29 no. 4 (2021),
+    pp. 1591-1604 [10.1109/TNET.2021.3069125] [abs].
+  * Du, J; Chizhik, D; Valenzuela, RA; Feick, R; Castro, G; Rodriguez, M;
+    Chen, T; Kohli, M; Zussman, G, _Directional Measurements in Urban Street
+    Canyons from Macro Rooftop Sites at 28 GHz for 90% Outdoor Coverage_ ,
+    Ieee Transactions on Antennas and Propagation, vol 69 no. 6 (2021), pp.
+    3459-3469 [10.1109/TAP.2020.3044398] [abs].
+  * Nagulu, A; Gaonkar, A; Ahasan, S; Garikapati, S; Chen, T; Zussman, G;
+    Krishnaswamy, H, _A Full-Duplex Receiver with True-Time-Delay Cancelers
+    Based on Switched-Capacitor-Networks Operating beyond the Delay-Bandwidth
+    Limit_ , Ieee Journal of Solid State Circuits, vol 56 no. 5 (2021), pp.
+    1398-1411 [10.1109/JSSC.2021.3063658] [abs].
+  * Chen, T; Garikapati, S; Nagulu, A; Gaonkar, A; Kohli, M; Kadota, I;
+    Krishnaswamy, H; Zussman, G, _A Survey and Quantitative Evaluation of
+    Integrated Circuit-Based Antenna Interfaces and Self-Interference
+    Cancellers for Full-Duplex_ , Ieee Open Journal of the Communications
+    Society, vol 2 (2021), pp. 1753-1776 [10.1109/OJCOMS.2021.3098476] [abs].
+  * Nagulu, A; Chen, T; Zussman, G; Krishnaswamy, H, _Multi-Watt, 1-GHz CMOS
+    Circulator Based on Switched-Capacitor Clock Boosting_ , Ieee Journal of
+    Solid State Circuits, vol 55 no. 12 (2020), pp. 3308-3321
+    [10.1109/JSSC.2020.3022813] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

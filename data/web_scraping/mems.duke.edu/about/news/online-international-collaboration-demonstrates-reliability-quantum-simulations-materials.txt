@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Online International Collaboration Demonstrates Reliability of Quantum
+Simulations for Materials Design
+
+March 29, 2016
+
+Scientists from Duke University teamed up with colleagues from over 30
+universities and institutes to investigate to what extent quantum simulations
+of material properties agree when they are performed by different researchers
+and with different software. Thanks to an online collaboration, they
+successfully demonstrated that the most recent generations of codes agree
+well, in contrast to earlier generations. Their study appears in this week's
+edition of Science.
+
+_Reproducibility does not come easily_
+
+It's a corner stone of science: independent yet identical experiments should
+produce identical results. Only in this way can science identify ‘laws’, which
+lead to new insight and new technologies. However, several recent studies have
+pointed out that such reproducibility does not always come spontaneously. In
+scientific areas as diverse as psychology research and genetic research, cases
+were identified where repeating previous experiments led to very different
+results. Even predictions by computer codes require caution, since the way in
+which theoretical models are implemented may affect simulation results. This
+is a reason for concern in any field of research that critically depends on
+computer simulations. For the study and design of materials, for instance,
+there are several independent software packages available based on quantum
+physics. They are moreover being used increasingly often in automated
+procedures with limited human supervision. It is therefore essential to know
+to what extent predicted materials properties depend on the code that has been
+used.
+
+_Online collaboration brings experts together_
+
+Despite the need for reliable property predictions of materials, the
+reproducibility of quantum simulations had not been investigated
+systematically before. This is mainly because there is no single person
+sufficiently skilled in all existing codes. Scientists from Duke University
+therefore joined forces with more than 60 colleagues, bringing together the
+know-how of over 30 prominent institutions. The researchers investigated 40
+different methods to describe the influence of pressure in 71 different
+crystals. Due to the highly international composition of the team, discussions
+and collaboration were mainly conducted via online tools – similarly to the
+way people collaborate to write Wikipedia. The team can now demonstrate that,
+although a few of the older methods clearly yield deviating results,
+predictions by recent codes are entirely equivalent. They moreover define a
+quality criterion that allows the verification of future software developments
+against their extensive database. New test data are continuously added to a
+publicly available website. The researchers involved hope that their work will
+contribute to higher standards for materials property simulations, and that it
+will facilitate the development of improved simulation codes and methods.
+
+Led by Kurt Lejaeghere and Stefaan Cottenier of the Center for Molecular
+Modeling at Ghent University in Belgium, the collaboration investigated 40
+different methods to describe the so-called equation of state in 71 different
+crystals.
+
+“If you want to predict a material’s properties, you need to know what its
+structure is at given conditions. And to predicts its structure, you need its
+equation of state,” said Volker Blum, associate professor of mechanical
+engineering and materials science and of chemistry at Duke, whose code called
+FHI-aims proved to be one of the most accurate. However, there is more work to
+be done.
+
+“The equation of state goes a long way to make sure the foundation is sound,
+but many quantities require additional numerical approximations,” said Blum.
+“These would be good to test in the future in a similarly broad way. The
+present study is, in a sense, a trailblazer for such work.”
+
+###
+
+"Reproducibility in density-functional theory calculations of solids." Kurt
+Lejaeghere et. al. _Science_ **351** (2016), DOI: 10.1126/science.aad3000
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

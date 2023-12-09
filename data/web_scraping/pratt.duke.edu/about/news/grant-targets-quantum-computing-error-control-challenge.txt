@@ -1,0 +1,241 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Grant Targets Quantum Computing's Error Control Challenge
+
+January 6, 2016
+
+University-industry consortium tackling qubit degradation with ion technology
+for quantum information applications
+
+A team of researchers led by Duke University and the University of Maryland
+have been tapped by the nation’s own “Q Branch” to take quantum computing
+efforts to the next level using one of the field’s leading technologies—ion
+traps.
+
+The Intelligence Advanced Research Projects Activity (IARPA) invests in high-
+risk, high-payoff research programs to tackle some of the most difficult
+challenges in the intelligence community. One of these challenges is dealing
+with encryption. Codes considered unbreakable by today’s best supercomputers
+could be handled in a matter of hours by quantum computers.
+
+The basic building blocks of a quantum device are qubits. These are the
+quantum mechanical analogue of a traditional logical bit, which can be in a
+“1” or a “0” state. Quantum physics allows for qubits to take on multiple
+configurations simultaneously (e.g. an equally-weighted superposition of 0 and
+1), which is forbidden in conventional computing. When scientists in the 1990s
+proved that this strange property could be harnessed for solving certain
+tasks, such as decryption, the quantum information revolution began.
+
+While researchers have proven that robust qubits can be built, scaling them
+into large networks while detecting and correcting errors remains a challenge.
+
+IARPA has awarded a five-year, $31.9 million grant the Duke/Maryland/Georgia
+Tech partnership dubbed Error-corrected Universal Reconfigurable Ion-trap
+Quantum Archetype -- or EURIQA for short . Their goal is to bring together a
+large number of atomic qubits to realize modular "super-qubits" that can be
+scaled up while correcting for errors. This major multi-year award is led by
+Jungsang Kim (Duke University), Christopher Monroe (University of Maryland and
+the Joint Quantum Institute) and Ken Brown (Georgia Tech).
+
+The effort also includes industry partners AOSense, Inc. (Sunnyvale,
+California), ColdQuanta, Inc. (Boulder, Colorado) and Harris Corporation
+(Melbourne, Florida), as well as theoretical support from Andrew Childs
+(University of Maryland and the Joint Center for Quantum Information and
+Computer Science) and Luming Duan (University of Michigan).
+
+“Our ion trapping approach is one of the leading technologies that can
+accomplish this goal,” said Jungsang Kim, professor of electrical and computer
+engineering, computer science, and physics at Duke University, and the
+principal investigator on the project. “We’re excited that IARPA sees our
+group as one of the leaders in the field and has entrusted this important task
+to us.”
+
+Quantum systems are fundamentally delicate, and superpositions collapse if
+they are observed. In other words, before useful information can be extracted,
+computational resources can be compromised and even destroyed by interactions
+with the environment.
+
+But this obstacle is not insurmountable.
+
+One of the first steps is to construct an extremely robust physical
+realization of a qubit. In this regard, physicists have demonstrated that
+trapped atomic ions have quantum staying power. In this system, each qubit is
+stored in the internal energy levels of a single atomic ion—the same states
+that are used in atomic clocks. Such states boast coherence times unmatched in
+any other physical system. The qubits are manipulated through laser and
+microwave radiation to form quantum logic gates and extended circuits for
+calculations.
+
+Ion trappers have become quite adept at controlling a handful of individual
+qubits. This collaboration has previously proposed and performed
+demonstrations that their approach is scalable and modular, a necessity
+because many qubits are needed for useful quantum computation.
+
+“Atomic ion qubits are fundamentally scalable, because they can be replicated
+with virtually identical characteristics: an isolated ytterbium atom is
+exactly the same in Washington, D.C. as it is in Los Angeles,” said
+Christopher Monroe, professor of physics at the University of Maryland and the
+Joint Quantum Institute, and co-leader on the project.
+
+“Quantum computing is going through the same research and design processes
+that conventional computing went through decades ago,” said Kim. “Just as the
+first digital computer was constructed once we had reliable switching devices,
+we are ready to explore the construction of more complex quantum circuits
+based on the robust multi-qubit manipulation that is possible in trapped
+ions.”
+
+But all potential quantum computing technologies still face the same problem
+that is central to the new IARPA LogiQ program: quantum error correction.
+
+“We know how to build a quantum computer with 50-100 qubits with trapped ions
+right now,” said Monroe. “This is a big enough system that we cannot simulate
+what happens, even with all the conventional computers in the world. But some
+killer applications of quantum computing require thousands or millions of
+qubits, and error correction will be crucial to getting there.”
+
+As with a conventional computer, scientists can encode quantum systems in a
+way that corrects for errors that happen along the way, such as an accidental
+bit flip where a 1 becomes 0, or vice versa.
+
+Even in record-breaking pristine ion-trapping systems, errors grow fairly
+rapidly as qubits are added. Because of that sneaky rule that makes quantum
+systems collapse due to measurement—intentional or otherwise—simply
+interrogating the qubits directly and fixing the broken ones destroys the
+quantum computation.
+
+The idea of a modular super-qubit or logical qubit begins to address this
+problem. In this system, the information stored in a logical qubit is encoded
+into specialized quantum states comprising multiple physical qubits.
+Distributing the information in this way not only adds protection—it allows
+for errors to be detected and corrected, all without actually knowing (or
+needing to know) the exact details of the quantum state as a whole.
+
+“The engineering required to achieve the goal of stopping qubits from
+degrading through error correction will go a long way toward making quantum
+computers practically viable,” said Kim.
+
+IARPA LogiQ Program: iarpa.gov/index.php/research-programs/logiq
+
+Duke University houses Fitzpatrick Institute for Photonics, an extensively
+interdisciplinary effort to advance photonics and optical sciences at the
+boundary nexus of nano-bio-info-opto convergence, and the Multi-functional
+Integrated Systems Technology group.
+
+The University of Maryland is home to three quantum science research centers:
+the Joint Center for Quantum Information and Computer Science (QuICS), the
+Joint Quantum Institute (JQI), and the Quantum Engineering Center (QEC).
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

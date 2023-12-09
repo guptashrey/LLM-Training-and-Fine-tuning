@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘Shadow Waveguide’ Casts Complex Acoustic Patterns to Control Particles
+
+August 18, 2021 | By Ken Kingery
+
+New approach to 'acoustic tweezers' could help push past limitations for cell
+and tissue engineering applications
+
+Engineers at Duke University have devised a new approach to using sound waves
+to manipulate tiny particles suspended in liquid in complex ways. Dubbed a
+“shadow waveguide,” the technique uses only two sound sources to create a
+tightly confined, spatially complex acoustic field inside a chamber without
+requiring any interior structure. The technology offers a new suite of
+features to the fast-developing platform of acoustic tweezers that has
+applications in fields such as chemical reaction control, micro-robotics, drug
+delivery, and cell and tissue engineering.
+
+The research appears online August 18 in the journal Science Advances.
+
+Acoustic tweezers are an emerging technology that uses sound waves to
+manipulate small particles suspended in liquid. Because no physical object is
+touching the particles, the technique is gentle, offers no biocompatibility
+issues and requires no labels, making it an enticing choice for working with
+delicate biomolecules.
+
+In the biomedical realm, acoustic tweezers can trap, rotate and move particles
+or organisms for inspection, sorting or other applications. They can keep
+certain reagents and chemicals separated before allowing them to mix in
+precise amounts to control reactions. The technology also provides an avenue
+for patterning different materials before using any number of techniques to
+fix them in place to create new types of materials.
+
+Despite all of its potential, the technology does have its limitations. Most
+current setups use multiple sound sources placed around a liquid-filled
+chamber that creates a checkerboard pattern of areas that can trap and move
+particles in lockstep with one another. This makes it difficult to manipulate
+particles independently of one another or through complex patterns. The latter
+can be achieved by including solid channel structures within the chamber, but
+this can damage delicate particles and limit how quickly samples can be moved
+through the system.
+
+To overcome these limitations, Steve Cummer, the William H. Younger
+Distinguished Professor of Engineering at Duke, turned to ideas inspired by
+metamaterials. Metamaterials are synthetic materials composed of many
+individual engineered features, which together produce properties not found in
+nature.
+
+“We wanted to inject acoustic wave energy into the chamber and use a structure
+just outside of the chamber to control the shape of the sound waves inside,”
+said Cummer. “The result is sort of like an optical fiber for sound that
+shapes the sound propagation and intentionally leaks some of its energy into
+the chamber—a sort of sound shadow—to control the particles inside with
+virtual channels.”
+
+In the new paper, Cummer and Junfei Li, a postdoctoral researcher working in
+his lab, in collaboration with longtime acoustic tweezer innovator Tony Huang,
+the William Bevan Distinguished Professor of Engineering at Duke, demonstrate
+various capabilities of their shadow waveguide approach. Each shadow waveguide
+is created by 3D printing a mold with features specific to how particles
+inside the chamber are to be controlled. A type of silicone called
+polydimethylsiloxane (PDMS) is poured into each half-tube mold with features
+that create channels within the finished product.
+
+> “We wanted to inject acoustic wave energy into the chamber and use a
+> structure just outside of the chamber to control the shape of the sound
+> waves inside. The result is sort of like an optical fiber for sound that
+> shapes the sound propagation and intentionally leaks some of its energy into
+> the chamber—a sort of sound shadow—to control the particles inside with
+> virtual channels.”
+>
+> steve cummer
+
+The PDMS has acoustic properties very similar to water, which allows sound
+waves to easily travel from the shadow waveguide into the chamber. The pattern
+of the air-filled channels within the PDMS dictates where and how the sound
+waves enter the chamber, allowing the researchers to create a wide range of
+complex acoustic fields to control particles.
+
+Cummer and Li use this setup to trap and move individual microparticles along
+multiple complex paths through the chamber. And by setting up two sound
+sources—one at either end of the shadow waveguide—the researchers show they
+can pump particles along a slowly bending arc with precisely controlled speed.
+
+With this demonstration in hand, the researchers are now looking to add
+complexity to their invention, either by making the waveguides dynamically
+reconfigurable or by merging it with other existing approaches to acoustic
+tweezers.
+
+“Acoustic devices are very difficult to make reconfigurable, but we would love
+to figure out a way to make that possible because it would be a dramatic
+improvement in this technique’s usability,” said Li. “For now, we’re looking
+for specific challenges that we could adapt these shadow waveguides to address
+to move it from a proof-of-concept demonstration to a more sophisticated
+application.”
+
+“The path to application might be to merge this with multiple concepts in the
+field,” added Cummer. “Adding multiple sound sources and structures to create
+more complexity might be what nudges us over the edge in some applications.”
+
+This research was funded by the Office of Naval Research (N00014-13-1-0631),
+an Emerging Frontiers in Research and Innovation grant from the National
+Science Foundation (1641084), a CMMI grant from the National Science
+Foundation (1951106), and the National Institutes of Health (R01GM132603,
+U18TR003778, UG3TR002978).
+
+“Acoustic tweezer with complex boundary-free trapping and transport channel
+controlled by shadow waveguides.” Junfei Li, Chen Shen, Tony Jun Huang and
+Steven A. Cummer. Science Advances, 2021. DOI: 10.1126/sciadv.abi5502
+
+## Related News
+
+September 10, 2020
+
+### Sound Waves Replace Human Hands in Petri Dish Experiments
+
+March 07, 2019
+
+### “Meta-Mirror” Reflects Sound Waves in Any Direction
+
+July 26, 2018
+
+### Soundwave-Surfing Droplets Leave No Traces Behind
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

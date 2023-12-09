@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Test Screens Wastewater Biosolids for Environmental Contaminants
+
+February 13, 2014 | By Ken Kingery
+
+Simple, inexpensive method assesses environmental and agricultural effects of
+treated waste used as fertilizer
+
+Every year waste treatment facilities in the United States process more than
+eight million tons of semi-solid sewage called biosolids—about half of which
+is recycled into fertilizer and spread on crop land.
+
+The practice helps solve storage issues and produces revenue to support the
+treatment plants, but what else is being spread in that sludge?
+
+As industry invents new materials and chemicals for modern products, many find
+their way to our skin and bloodstream and, subsequently, into our sinks and
+toilet bowls. More than 500 different organic chemicals have been identified
+in the biosolids used as fertilizer across the United States.
+
+Federal law regulates remnant levels of heavy metals and pathogens in the
+biosolid fertilizer, but other chemicals are not currently accounted for
+because it has been prohibitively expensive to even begin sorting out which
+ones might be ecologically unfriendly, says Claudia Gunsch, professor of civil
+and environmental engineering at Duke University.
+
+In a recent study, Gunsch and colleagues from Duke’s Pratt School of
+Engineering describe a new, cost-effective method for screening chemicals for
+potential environmental impact. They have used the test to show that
+triclosan, an antimicrobial agent currently under fire from environmentalists,
+has troubling concentrations in the environment, and they raise suspicions
+about three other commonly used antimicrobial products.
+
+The team describes their new testing method and some of its early findings in
+the Feb. 4 2014 Journal of Environmental Science & Technology.
+
+“Because we’re finding many emerging contaminants in biosolids, we wanted to
+develop a method where you could check them quickly and efficiently and flag
+the most potentially dangerous ones for more complex measurements,” said Ryan
+Holzem, a graduate student in civil and environmental engineering at Duke and
+first author on the study.
+
+An important benefit of fertilizing soil is replenishing nitrate levels, which
+are crucial to growing plants. One indicator of the soil’s health is the rate
+at which native bacteria are breaking down those nitrates through a process
+called denitrification. If antimicrobials or other chemical agents are
+affecting the bacteria’s ability to complete this process, the soil’s quality
+is degraded.
+
+The new screening technique involves growing a bacterium commonly found in
+soil that is important to the nitrogen cycle—Paracoccus denitrificans—in pure
+laboratory cultures. Researchers then add various amounts of the chemicals in
+question to determine the minimum amount that affects the denitrification
+process.
+
+“We chose the nitrogen cycle as an indicator because we wanted to represent an
+environmental process that is critical to agriculture,” Holzem said.
+“Typically you have to use a complex, $50,000 piece of equipment to measure
+the gasses that are produced by the active bacteria. But our method isolates
+denitrification on its own so that we can use simple processes to measure it.”
+
+To test the new screening technique, Holzem and Gunsch worked with Heather
+Stapleton, associate professor of civil and environmental engineering, to
+examine six commercial antimicrobial chemicals. Two are used in abundance:
+triclosan, which is found in most antibacterial soaps and toothpastes, and
+triclocarban, which isn’t far behind in both uses and criticisms. They also
+looked at four emerging antimicrobial compounds used in applications such as
+pesticides, paper mills, deodorants and antimicrobial household goods.
+
+“These chemicals are everywhere,” said Gunsch. “Our society loves products
+that prevent microbial growth.”
+
+The Duke team found that environmental levels of triclosan should raise an
+immediate red flag, given its effects on the critical Paracoccus bacteria, and
+that three of the other five compounds tested are found in concentrations high
+enough to warrant concern.
+
+The results showed not only that the technique works, but that it is more
+sensitive than laborious and more expensive testing methods involving
+measurements of gene expression and cell viability.
+
+While the screening process only looked at the effects of six antimicrobial
+agents on one indicator of environmental health—the nitrogen cycle—Gunsch and
+Holzem say the technique could be used to test a variety of compounds through
+many different ecological indicators.
+
+“We hope that companies developing new chemicals might use this method to
+start looking at potential environmental threats before incorporating them
+into consumer products,” said Gunsch.
+
+Their work was supported in part by the National Science foundation grant
+CBET-0854167.
+
+###
+
+CITATION: “Determining the Ecological Impacts of Organic Contaminants in
+Biosolids using a High-Throughput Colorimetric Denitrification Assay: A Case
+Study with Antimicrobial Agents,” Holzem, R.M., Stapleton, H.M., Gunsch, C.K.
+_Environmental Science and Technology_ , Feb. 4, 2014. DOI: 10.1021/es404431k
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

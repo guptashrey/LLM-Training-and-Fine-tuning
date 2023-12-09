@@ -1,0 +1,240 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Stretchable Supercapacitors to Power Tomorrow’s Wearable Devices
+
+March 19, 2020 | By Ken Kingery
+
+Researchers demonstrate robust supercapacitors that still work when stretched
+to eight times their original size
+
+Researchers at Duke University and Michigan State University have engineered a
+novel type of supercapacitor that remains fully functional even when stretched
+to eight times its original size. It does not exhibit any wear and tear from
+being stretched repeatedly and loses only a few percentage points of energy
+performance after 10,000 cycles of charging and discharging.
+
+The researchers envision the supercapacitor being part of a power-independent,
+stretchable, flexible electronic system for applications such as wearable
+electronics or biomedical devices.
+
+The results appear online March 19 in Matter, a journal from Cell Press. The
+research team includes senior author Changyong Cao, assistant professor of
+packaging, mechanical engineering and electrical and computer engineering at
+Michigan State University (MSU), and senior author Jeff Glass, professor of
+electrical and computer engineering at Duke. Their co-authors are doctoral
+students Yihao Zhou and Qiwei Han and research scientist Charles Parker from
+Duke, as well as PhD student Yunteng Cao from the Massachusetts Institutes of
+Technology.
+
+“Our goal is to develop innovative devices that can survive mechanical
+deformations like stretching, twisting or bending without losing performance,”
+said Cao, director of the Laboratory for Soft Machines and Electronics at MSU.
+“But if the power source of a stretchable electronic device isn’t stretchable,
+then the entire device system will be constrained to be non-stretchable.”
+
+A supercapacitor (also sometimes referred to as an ultracapacitor) stores
+energy like a battery, but with some important differences. Unlike batteries,
+which store energy chemically and generate charges through chemical reactions,
+an electrostatic double-layer supercapacitor (EDLSC), stores energy through
+charge separation and cannot create its own electricity. It must be charged
+from an outside source. During charging, electrons are built up on one part of
+the device and removed from the other, so that when the two sides are
+connected, electricity quickly flows between them.
+
+Also unlike batteries, supercapacitors are able to discharge their energy in
+short but massive bursts, rather than through a long, slow trickle. They can
+also charge and discharge much faster than a battery and tolerate many more
+charge-discharge cycles than a rechargeable battery. This makes them perfect
+for short, high-power applications such as setting off the flash in a camera
+or the amplifiers in a stereo.
+
+But most supercapacitors are just as hard and brittle as any other component
+on a circuit board. That’s why Cao and Glass have spent years working on a
+stretchable version.
+
+In their new paper, the researchers demonstrate the culmination of their work
+to this point, fabricating a stamp-sized supercapacitor that can carry more
+than two volts. When connecting four together, as many devices require for AA
+or AAA batteries, the supercapacitors could power a two-volt Casio watch for
+an hour and a half.
+
+To make the stretchable supercapacitors, Glass and his research team first
+grow a carbon nanotube forest -- a patch of millions of nanotubes just 15
+nanometers in diameter and 20-30 micrometers tall -- on top of a silicon
+wafer. That’s about the width of the smallest bacteria and height of the
+animal cell it infects.
+
+The researchers then coat a thin layer of gold nanofilm on top of the carbon
+nanotube forest. The gold layer acts as a sort of electric collector, dropping
+the resistance of the device an order of magnitude below previous versions,
+which allows the device to charge and discharge much faster.
+
+Glass then hands off the engineering process to Cao, who transfers the carbon
+nanotube forest to a pre-stretched elastomer substrate with the base gold-
+side-down. The gel-filled electrode is then relaxed to allow the pre-strain to
+release, causing it to shrink to a quarter of its original size. This process
+crumples up the thin layer of gold and smashes together the “trees” in the
+carbon nanotube forest.
+
+“The crumpling greatly increases the amount of surface area available in a
+small amount of space, which increases the amount of charge it can hold,”
+explained Glass. “If we had all the room in the world to work with, a flat
+surface would work fine. But if we want a supercapacitor that can be used in
+real devices, we need to make it as small as possible.”
+
+The super dense forest is then filled with a gel electrolyte that can trap
+electrons on the surface of the nanotubes. When two of these final electrodes
+are sandwiched close together, an applied voltage loads one side with
+electrons while the other is drained, creating a charged super-stretchable
+supercapacitor.
+
+“We still have some work to do for building a complete stretchable electronics
+system,” Cao said. “The supercapacitor demonstrated in this paper doesn’t go
+as far as we want it to yet. But with this foundation of a robust stretchable
+supercapacitor, we will be able to integrate it into a system that consists of
+stretchable wires, sensors and detectors to create entirely stretchable
+devices.”
+
+Stretchable supercapacitors, the researchers explain, could power some
+futuristic devices on their own, or they could be combined with other
+components to overcome engineering challenges. For example, supercapacitors
+can be charged in a matter of seconds and then slowly recharge a battery that
+acts as the primary source of energy for a device. This approach has been used
+for regenerative breaking in hybrid cars, where energy is generated faster
+than it can be stored. Supercapacitors increase the efficiency of the whole
+system. Or as Japan has already demonstrated, supercapacitors can power a bus
+for urban commuting, completing a full recharging at each stop in the short
+time it takes to load and unload passengers.
+
+“A lot of people want to couple supercapacitors and batteries together,” Glass
+said. “A supercapacitor can charge rapidly and survive thousands or even
+millions of charging cycles, while batteries can store more charge so they can
+last a long time. Putting them together gives you the best of both worlds.
+They fill two different functions within the same electrical system.”
+
+This work was supported by the NSF (ECCS-1344745), USDA National Institute of
+Food and Agriculture (Hatch Project 1016788), Michigan State University, and
+the North Carolina Research Triangle Nanotechnology Network (RTNN), which is
+supported by the NSF (ECCS-1542015).
+
+CITATION: “Robust and High-Performance Electrodes via Crumpled Au-CNT Forests
+for Stretchable Supercapacitors,” Yihao Zhou, Changyong Cao, Yunteng Cao,
+Qiwei Han, Charles B. Parker, Jeffrey T. Glass. Matter, March 19, 2020. DOI:
+10.1016/j.matt.2020.02.024
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

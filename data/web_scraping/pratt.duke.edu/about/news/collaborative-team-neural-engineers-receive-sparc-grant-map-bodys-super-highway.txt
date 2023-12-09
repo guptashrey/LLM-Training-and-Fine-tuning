@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Collaborative Team of Neural Engineers Receive SPARC Grant to Map Body's
+"Super Highway"
+
+October 3, 2022
+
+NIH awards $15.75M to research team led by Case Western Reserve University and
+Duke University to map the vagus nerve
+
+_This article originally appeared on the website ofCase Western Reserve
+University_
+
+The National Institutes of Health (NIH) has awarded a $15.75 million contract
+to researchers led by Case Western Reserve and Duke universities to accelerate
+development of therapeutic devices that improve chronic medical conditions.
+
+The contract is within the NIH’s Stimulating Peripheral Activity to Relieve
+Conditions (SPARC) program (number 75N98022C00018), which encourages discovery
+and innovation as part of a therapeutic strategy known as “bioelectronic
+medicine.”
+
+Its goal: applying electrical stimulation to the nervous system to develop new
+treatment options for conditions such as hypertension, heart failure and
+gastrointestinal disorders.
+
+The NIH contract—specifically to Reconstruct Vagal Anatomy (REVA)—calls for
+researchers to map the body’s vagus nerve using the latest high-resolution
+imaging technology. The team’s goal will be to show precisely how vagus nerve
+tracts map to organs.
+
+This work offers tremendous potential to improve the safety and effectiveness
+of existing vagus nerve therapies, said Andrew Shoffstall, an assistant
+biomedical engineering professor at Case Western Reserve. He is directing the
+research with co-investigator Nikki Pelot, a research director at Duke
+University.
+
+“Over the next three years, we are hoping to make a big impact in the field of
+autonomic neuromodulation, which has tremendous potential to treat a number of
+chronic diseases,” Shoffstall said. “If we can better understand how the vagus
+nerve is organized, we can more rationally design devices and procedures to
+isolate and regulate its many pathways.”
+
+“The multiple types of imaging data will provide unrivaled accuracy to our
+computational models to predict neuromodulation stimulation efficacy and side
+effects, so that we can use high-performance computing approaches to develop
+new treatments and improve our understanding of existing therapies,” Pelot
+said.
+
+The vagus nerves connect the brainstem to most organs in the torso, including
+the heart, lungs, pancreas, stomach and intestines, to control and sense the
+body’s inner workings. Electrical stimulation of the vagus nerve has been used
+to treat epilepsy, rheumatoid arthritis and heart failure, among many other
+conditions.
+
+However, insufficient anatomical data are available to map the roughly 100,000
+fibers of the human vagus nerve to their target organs to develop therapies
+that are more effective and with fewer side effects.
+
+The research team will conduct multimodal, multiscale imaging of 100 human
+vagus nerves from cadaveric donors of the CWRU Anatomical Gift Program, using
+multiple 3D-imaging technologies, such as MRI and microCT.
+
+The team will also use a novel imaging tool developed at CWRU and UC Davis,
+known as 3D-MUSE, which uses what is known as ultraviolet surface excitation
+to rapidly collect microscopic images of the nerve while slicing through it at
+about one-30th the width of a hair. The technique will provide an
+unprecedented opportunity to directly track nerve fibers at high resolution
+across the long length of the vagus nerve, which spans from the brain to the
+intestines.
+
+“By performing the most comprehensive imaging analysis of the human vagus
+nerve and its branches ever completed—and establishing a neuroanatomical
+repository for the vagus nerve—this work will seed and accelerate the
+development of novel neuromodulation therapies for autonomic regulation,”
+Shoffstall said.
+
+The three-year, multi-disciplinary project involves researchers from the Case
+School of Engineering and Case Western Reserve School of Medicine, including:
+Shoffstall, David Wilson, Michael Jenkins, and Ken Gustafson in biomedical
+engineering; Andy Crofton in anatomy; Ari Blitz and Chris Flask in radiology;
+Jennifer Carter in materials science; and Mark Beno and Audrey Lynn at the
+Cleveland Institute for Computational Biology at CWRU. Researchers at partner
+institutions include: Pelot and Warren Grill at Duke University; Jeff Capadona
+at the Louis Stokes Cleveland VA Medical Center (who also holds an appointment
+in biomedical engineering at Case Western Reserve University); Kip Ludwig at
+the University of Wisconsin; and Curtis Tatsuoka at the University of
+Pittsburgh.
+
+The project extends the work that the team began during an earlier NIH SPARC
+award with Duke University and the University of Wisconsin-Madison, which was
+also supported by the Advanced Platform Technology Center at the Louis Stokes
+Cleveland VA Medical Center.
+
+Shoffstall is a 2013 CWRU PhD alumnus who returned to the university as an
+assistant professor in July 2019. He is also co-founder of Neuronoff Inc., a
+clinical-stage start-up company commercializing minimally invasive
+neuromodulation devices that interface with peripheral nerves to treat chronic
+conditions.
+
+( _Multiple job postings for this effort will soon be posted at the respective
+institutions. In the meantime, interested applicants should send resumes and
+cover letters toreva-jobs@case.edu._)
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# An Unintentional Work of Art
+
+February 4, 2021 | By Ken Kingery
+
+When Duke Engineers went to 3D print an artificial hawk’s nest to hide drone
+surveillance equipment, the results were more colorful than expected
+
+When Misheel Sodgerel set out to 3D print an enormous replica of a hawk’s
+nest, she was focused on fulfilling the engineering criteria required to
+conceal drone detection equipment. She didn’t intend to create a unique piece
+of art.
+
+But she did.
+
+“Because COVID has made everything on campus so weird, Misheel had to make the
+nest out of a hodgepodge of pieces printed with various colors,” said Missy
+Cummings, professor of electrical and computer engineering at Duke University.
+“When she finished it, I was struck by how the random components brought
+together ended up combining into something that I think is so beautiful that I
+almost wish she didn’t have to paint it.”
+
+Duke's Drone Detection System from Duke University on Vimeo.
+
+The story of Misheel and the amazing technicolor hawk’s nest began back in
+2017 when Cummings and collaborators at Clemson University secured a grant to
+explore passive, inexpensive solutions for detecting and deterring unwanted
+drones. While the original grant included partners such as the Sarah P. Duke
+Gardens and the Durham Bulls, the project has since expanded to additional
+spaces including state prisons and Cary’s Koka Booth Amphitheatre.
+
+Over the past three years, Cummings and her students have engineered an
+alerting system that uses microphones, thermal cameras and RF detectors to
+spot unwanted drones and the people flying them. It primarily consists of a
+microphone connected to a Raspberry Pi—a simple, inexpensive computer board
+originally developed to teach basic programming—a data server and a smart
+phone to run an associated app, all costing less than $1,000 total.
+
+But nobody wants an ugly black box perched in the middle of an impeccably
+maintained public space where the views are part of the experience. To
+camouflage the equipment, Clemson collaborators led by Hala Nassar designed
+and constructed a large hawk’s nest to house it. But weighing in at nearly 30
+pounds and being made from actual twigs and branches, the original nest isn’t
+likely to last long when consistently battered by the natural elements. So
+Sodgerel and Cumming set out to engineer a new version that could.
+
+“It’s the definition of a team project,” said Cummings. “The Clemson landscape
+architects did a fantastic job designing a gorgeous nest. It really is a piece
+of art. Then it was our job to reengineer that nest to fit the needs of the
+field that we’ve discovered. But we didn’t expect to come out with new art.”
+
+The engineering team began their engineering process by scanning many of the
+branches used in the original nest. They then cut the layers of branches from
+two down to one, and made some twigs hollow and others one-sided to save
+weight. The final design was intended to be 3D printed in dozens of pieces and
+snapped together by hand.
+
+But when Sodgerel set out to actually print it, there weren’t enough printers
+filled with the same color to make the nest uniform. Because the nest was
+going to be painted over anyway, Sodgerel decided to go ahead and just print
+all the pieces out of whatever colors were available at the time.
+
+Now that the nest is printed and painted, it’s ready for installation.
+Cummings and her team plan on testing the nest first on Duke’s campus. But
+it’s not the only piece of the puzzle that needs to blend in and stand up to
+the environment.
+
+The drone detection equipment is also housed by a protective box that sits
+within the camouflaging nest. In its first design iteration, the box’s holes
+were too large, allowing wild animals to move in and make it their home. The
+second version had smaller holes that kept the animals out and, Cummings
+hoped, would also help keep moisture out.
+
+“We thought we had a great design and installed it for testing at Koka Booth
+Amphitheater,” said Cummings. “But we soon found out that it wasn’t hurricane-
+proof. Hopefully with the new nest and a new box we’ll hit on a winning
+combination.”
+
+Due to issues related to the COVID-19 pandemic, plans for potentially using
+the nest and equipment in the Sarah P. Duke Gardens is on hold. But Cummings
+says that not only will the nest be available if the venue decides to try it
+out, the 3D CAD model is freely available to anyone who might want to use and
+modify the underlying design to meet their own unique requirements.
+
+## Related News
+
+June 19, 2019
+
+### An App for Stopping Drone Deliveries over Prison Walls
+
+October 13, 2017
+
+### Deterring Drones from Ballparks and Botanical Gardens
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

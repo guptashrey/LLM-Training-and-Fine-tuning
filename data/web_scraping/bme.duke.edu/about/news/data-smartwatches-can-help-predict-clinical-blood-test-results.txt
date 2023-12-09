@@ -1,0 +1,237 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Data from Smartwatches Can Help Predict Clinical Blood Test Results
+
+May 24, 2021 | Michaela Kane
+
+Long-term data gathered from wearables can quicky indicate illness and other
+abnormalities in a patient’s health
+
+Smartwatches and other wearable devices may be used to sense illness,
+dehydration and even changes to the red blood cell count, according to
+biomedical engineers and genomics researchers at Duke University and the
+Stanford University School of Medicine.
+
+The researchers say that, with the help of machine learning, wearable device
+data on heart rate, body temperature and daily activities may be used to
+predict health measurements that are typically observed during a clinical
+blood test. The study appears in Nature Medicine on May 24, 2021.
+
+During a doctor’s office visit, a medical worker usually measures a patient’s
+vital signs, including their height, weight, temperature and blood pressure.
+Although this information is filed away in a person’s long-term health record,
+it isn’t usually used to create a diagnosis. Instead, physicians will order a
+clinical lab, which tests a patient’s urine or blood, to gather specific
+biological information to help guide health decisions.
+
+These vital measurements and clinical tests can inform a doctor about specific
+changes to a person’s health, like if a patient has diabetes or has developed
+pre-diabetes, if they’re getting enough iron or water in their diet, and if
+their red or white blood cell count is in the normal range.
+
+But these tests are not without their drawbacks. They require an in-person
+visit, which isn’t always easy for patients to arrange, and procedures like a
+blood draw can be invasive and uncomfortable. Most notably, these vitals and
+clinical samples are not usually taken at regular and controlled intervals.
+They only provide a snapshot of a patient’s health on the day of the doctor’s
+visit, and the results can be influenced by a host of factors, like when a
+patient last ate or drank, stress, or recent physical activity.
+
+“There is a circadian (daily) variation in heart rate and in body temperature,
+but these single measurements in clinics don’t capture that natural
+variation,” said Duke’s Jessilyn Dunn, a co-lead and co-corresponding author
+of the study. “But devices like smartwatches or Fitbits have the ability to
+track these measurements and natural changes over a prolonged period of time
+and identify when there is variation from that natural baseline.”
+
+To gain a consistent and fuller picture of patients’ health, Dunn, an
+assistant professor of biomedical engineering at Duke, Michael Snyder, a
+professor and chair of genetics at Stanford, and their team wanted to explore
+if long-term data gathered from wearable devices could match changes that were
+observed during clinical tests and help indicate health abnormalities.
+
+The study, which began in 2015 at Stanford with the Integrative Personal Omics
+Profiling (iPOP) cohort, included 54 patients. Over three years, the iPOP
+participants wore an Intel Basis smart watch that measured their heart rate,
+movement, skin temperature and sweat gland activation. The participants also
+attended regular clinic visits, where researchers used traditional measurement
+methods to track things like heart rate, temperature, red and white blood cell
+count, glucose levels, and iron levels.
+
+The experiment showed that there were multiple connections between the
+smartwatch data and clinical blood tests. For example, if a participant’s
+watch indicated they had a lower sweat gland activation, as measured by an
+electrodermal sensor, that indicated that the patient was consistently
+dehydrated.
+
+“Machine learning methods applied to this unique combination of clinical and
+real-world data enabled us to identify previously unknown relations between
+smartwatch signals and clinical blood tests,” said Łukasz Kidziński, a co-lead
+author of the study and a researcher at Stanford.
+
+The team also found that measurements that are taken during a complete blood
+lab, like hematocrit, hemoglobin, and red and white blood cell count, had a
+close relationship to the wearables data. A higher sustained body temperature
+coupled with limited movement tended to indicate illness, which matched up
+with a higher white blood cell count in the clinical test. A record of
+decreased activity with a higher heart rate could also indicate anemia, which
+occurs when there isn’t enough iron in a patient’s blood.
+
+Although the wearables data isn’t specific enough to accurately predict the
+precise number of red or white blood cells, Dunn and the team are highly
+optimistic that it could be a noninvasive and fast way to indicate when
+something in a patient’s medical data is abnormal.
+
+“If you think about someone just showing up in an emergency room, it takes
+time to check them in, to get labs going, and to get results back,” said Dunn.
+“But if you were to show up in an ER and you’ve got an Apple Watch or a
+Fitbit, ideally you’d be able to pull the long-term data from that device and
+use algorithms to say, ‘this may be what’s going on.’
+
+“This experiment was a proof-of-concept, but our hope for the future is that
+physicians will be able to use wearable data to immediately get valuable
+information about the overall health of a patient and know how to treat them
+before the clinical labs are returned,” Dunn said. “There is a potential for
+life-saving intervention there if we can get people the right care faster.”
+
+Stanford-based co-authors include former undergraduate researcher Ryan Runge;
+research engineer Jennifer Hicks, PhD; Sophia Miryam Rose, MD, instructor of
+genetics; former postdoctoral scholar Xiao Li, PhD; genetics lecturer Amir
+Bahmani, PhD; and Scott Delp, PhD, professor of bioengineering and of
+mechanical engineering. Duke co-authors also include Daniel Witt, a master’s
+student in interdisciplinary data science.
+
+This work was supported by grants from the NIH Common Fund Human Microbiome
+Project (HMP) (1U54DE02378901) and a National Institutes of Health National
+Center for Advancing Translational Science Clinical and Translational Science
+Award (UL1TR001085). JD, LK, RR, and JH were supported by the Mobilize Center
+grant (NIH U54 EB020405). SMS-FR was supported by a NIH Career Development
+Award no. K08 ES028825. The Stanford Translational Research Integrated
+Database Environment (STRIDE) is a research and development project at
+Stanford University to create a standards-based informatics platform
+supporting clinical and translational research.
+
+Competing financial interests: Michael Snyder is a cofounder of Personalis,
+SensOmics, Qbio and January and is on the scientific advisory board of
+Personalis, SensOmics, Qbio, Epinomics and Genapsys.
+
+CITATION: “Wearable Sensors Enable Personalized Predictions of Health
+Measurements,” Jessilyn Dunn, Lukasz Kidzinski, Ryan Runge, Daniel Witt,
+Jennifer Hicks, Sophia Miryam, Schussler-Fiorenza Rose, Xiao Li, Amir Bahmani,
+Scott Delp, Trevor Hastie and Michael Snyder. Nature Medicine, May 24, 2021.
+DOI: 10.1038/s41591-021-01339-0
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

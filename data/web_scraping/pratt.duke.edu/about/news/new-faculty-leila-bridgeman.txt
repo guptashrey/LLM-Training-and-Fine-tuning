@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Leila Bridgeman: Controlling the Robots of Tomorrow
+
+November 1, 2017
+
+New faculty member Leila Bridgeman develops the theories underlying the
+systems that control autonomous machines
+
+Leila Bridgeman will join the faculty of the Department of Mechanical
+Engineering and Materials Science at Duke University beginning in January
+2018. An expert in control systems theory, Bridgeman will explore new insights
+into old ideas while applying them to robots and autonomous vehicles in the
+Duke Robotics group.
+
+While it is intuitive that any machine making decisions on its own must have
+programming that controls its actions, the theory that goes into that
+programming is rarely straightforward. Knowing which aspects of a system’s
+current condition are needed to keep it operating smoothly and how often they
+must be checked requires careful thought and calculation.
+
+Control systems are important to a variety of fields, including autonomous
+vehicles, heating and cooling systems, chemical factories and fluid systems.
+Even designing and maintaining a regimen of antibiotics to combat an infection
+can be thought of in terms of control theory.
+
+Bridgeman describes herself as a control theorist who does robotics. For a
+robot’s arm to perform a certain task, it must know how much torque to apply
+and how much electrical current that force will require.
+
+“You might think that a good control engineer is primarily worried with
+suppressing vibrations or not overshooting its target,” said Bridgeman, who
+came to Duke after finishing her doctoral degree at McGill University in
+Montreal. “But the first goal is to not destroy the system, especially in the
+face of uncertainty.”
+
+Designing such control systems requires a lot of mathematics—specifically
+differential equations—to determine what inputs and feedback are needed. One
+type of an especially difficult scenario is called open-loop unstable systems,
+where the system being controlled gets further and further away from its goal
+when nudged off course. Much of the theory in use today is not applicable to
+such situations.
+
+> “Duke Engineering really seems to do a lot to support their young faculty,”
+> said Bridgeman. “I have also seen a real desire to encourage the recruitment
+> of underrepresented groups, which made me feel like I could flourish here."
+
+“But there’s a wealth of theory dating back 50 or 60 years that could
+potentially be exploited to expand our existing toolbox,” said Bridgeman.
+“Even for systems that are currently understood and work well, if we’re only
+using a sliver of the theory available to us, we’re probably not doing as good
+of a job as we possibly can.”
+
+One example of control theory that Bridgeman works with is called model
+predictive control. These systems attempt to take into account the limits on
+the inputs that can be applied to the system—there is only so much power an
+engine can provide a car. The controller takes into account where a system is,
+determines the best sequence of actions to get to where it’s supposed to be,
+takes the first step, and then repeats the process while predicting a little
+further into the future.
+
+Another example of control theory attempts to deal with discontinuity in a
+system. For example, there’s a distinct difference in how your arm behaves
+with an empty hand versus one holding full mug of scalding hot coffee, and
+there’s but an instant in time separating the two situations. Designing
+control systems that can deal with such sudden discontinuities is challenging.
+
+And for any control system Bridgeman designs, there is always the question of
+speed and efficiency. Software that finishes its computations for what a car
+needs to do to avoid an accident a split second after the impact occurs is of
+little use.
+
+“We need controllers that are nimble, can be applied to lots of different
+types of vehicles and account for lots of different variables,” said
+Bridgeman.
+
+Having completed her PhD in mechanical engineering in 2016, Bridgeman has
+spent the past year at Duke in a postdoctoral role. Taking advice from her
+mentor at McGill University, the short stint before beginning her tenure-track
+faculty position will give her time to develop extensions of her doctoral
+research and help ease her transition.
+
+Duke’s willingness to work with Bridgeman on her timeline was one of the
+reasons she chose the university to continue her career.
+
+“Duke Engineering really seems to do a lot to support their young faculty,”
+said Bridgeman. “I have also seen a real desire to encourage the recruitment
+of underrepresented groups, which made me feel like I could flourish here.
+
+“I have a lot of research interests that are distinct from others at Duke,
+which makes me feel like I can make a real contribution to the department,”
+continued Bridgeman. “And with so many professors having joint appointments in
+different departments, I know I won’t work in a silo and will be able to
+pursue a broad range of projects.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

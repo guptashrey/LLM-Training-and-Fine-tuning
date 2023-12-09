@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Microchip-Like Technology Allows Single-Cell Analysis
+
+May 14, 2014 | By Ken Kingery
+
+Using components similar to those that control electrons in microchips,
+researchers have designed a new device that can sort, store and retrieve
+individual cells for study.
+
+A U.S. and Korean research team has developed a chip-like device that could be
+scaled up to sort and store hundreds of thousands of individual living cells
+in a matter of minutes. The system is similar to a random access memory chip,
+but it moves cells rather than electrons.
+
+Researchers at Duke University and Daegu Gyeongbuk Institute of Science and
+Technology (DGIST) in the Republic of Korea hope the cell-sorting system will
+revolutionize research by allowing the fast, efficient control and separation
+of individual cells that could then be studied in vast numbers.
+
+“Most experiments grind up a bunch of cells and analyze genetic activity by
+averaging the population of an entire tissue rather than looking at the
+differences between single cells within that population,” said Benjamin
+Yellen, an associate professor of mechanical engineering and materials science
+at Duke's Pratt School of Engineering. “That’s like taking the eye color of
+everyone in a room and finding that the average color is grey, when not a
+single person in the room has grey eyes. You need to be able to study
+individual cells to understand and appreciate small but significant
+differences in a similar population.”
+
+The study appears online May 14 in Nature Communications.
+
+Yellen and his collaborator, Cheol Gi Kim of DGIST, printed thin
+electromagnetic components like those found on microchips onto a slide. These
+patterns create magnetic tracks and elements like switches, transistors and
+diodes that guide magnetic beads and single cells tagged with magnetic
+nanoparticles through a thin liquid film.
+
+Like a series of small conveyer belts, localized rotating magnetic fields move
+the beads and cells along specific directions etched into a track, while
+built-in switches direct traffic to storage sites on the chip. The result is
+an integrated circuit that controls small magnetic objects much like the way
+electrons are controlled on computer chips.
+
+In the study, the engineers demonstrate a 3-by-3 grid of compartments that
+allow magnetic beads to enter but not leave. By tagging cells with magnetic
+particles and directing them to different compartments, the cells can be
+separated, sorted, stored, studied and retrieved.
+
+In a random access memory chip, similar logic circuits manipulate electrons on
+a nanometer scale, controlling billions of compartments in a square inch. But
+cells are much larger than electrons, which would limit the new devices to
+hundreds of thousands of storage spaces per square inch.
+
+But Yellen and Kim say that’s still plenty small for their purposes.
+
+“You need to analyze thousands of cells to get the statistics necessary to
+understand which genes are being turned on and off in response to
+pharmaceuticals or other stimuli,” said Yellen. “And if you’re looking for
+cells exhibiting rare behavior, which might be one cell out of a thousand,
+then you need arrays that can control hundreds of thousands of cells.”
+
+As an example, Yellen points to cells afflicted by HIV or cancer. In both
+diseases, most afflicted cells are active and can be targeted by therapeutics.
+A few rare cells, however, remain dormant, biding their time and avoiding
+destruction before activating and bringing the disease out of remission. With
+the new technology, the researchers hope to watch millions of individual
+cells, pick out the few that become dormant, quickly retrieve them and analyze
+their genetic activity.
+
+“Maybe then we could find a way to target the dormant cells,” said Yellen.
+
+Kim added, “Our technology can offer new tools to improve our basic
+understanding of cancer metastasis at the single cell level, how cancer cells
+respond to chemical and physical stimuli, and to test new concepts for gene
+delivery and metabolite transfer during cell division and growth.”
+
+The researchers now plan to demonstrate a larger grid of 8-by-8 or 16-by-16
+compartments with cells, and then to scale it up to hundreds of thousands of
+compartments. If successful, their technology would lend itself well to
+manufacturing, giving scientists around the world access to single-cell
+experimentation.
+
+“Our idea is a simple one,” said Kim. “Because it is a system similar to
+electronics and is based on the same technology, it would be easy to
+fabricate. That makes the system relevant to commercialization.”
+
+“There’s another technique paper we need to do as a follow-up before we get to
+actual biological applications,” added Yellen. “But they’re on their way.”
+
+This research was supported by the National Science Foundation (CMMI-0800173),
+and the Research Triangle Materials Research Science and Engineering Center
+(DMR-1121107) and the National Research Foundation of Korea funded by the
+Ministry of Science, ICT & Future Planning (NRF-2013R1A1A2065222).
+
+###
+
+“Magnetophoretic circuits for digital control of single particles and cells,”
+Byeonghwa Lim, Venu Reddy, XingHao Hu, KunWoo Kim, Mital Jadhav, Roozbeh
+Abedini-Nassab, Young-Woock Noh, Yong Taik Lim, Benjamin B. Yellen, CheolGi
+Kim. Nature Communications, 2014. DOI: 10.1038/ncomms4846
+
+A PDF of the article is available for download for free courtesy of
+DukeSpace..
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

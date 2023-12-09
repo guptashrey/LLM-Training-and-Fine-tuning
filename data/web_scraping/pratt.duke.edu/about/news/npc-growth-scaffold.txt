@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Watching Primordial Neural Cells Grow in 3D Scaffolds to Heal Brain Injury
+
+July 15, 2022 | By Ken Kingery
+
+Tracking how neural progenitor cells respond to biochemical signals while
+moving and growing through a biocompatible jungle gym could help develop
+brain-healing biogels
+
+Researchers at Duke University have captured days-long time-lapse videos of
+young neural cells moving and growing within a novel 3D synthetic
+biocompatible structure. By literally watching how the cells respond to
+natural biochemical signals embedded within the material, biomedical engineers
+hope to develop biogels that can repair and regrow brain tissue after a stroke
+or other trauma.
+
+The results appear online June 22 in the journal Advanced Materials.
+
+Repairing and regrowing brain tissue is a difficult task. Left to its own
+devices, the brain does not regenerate lost synapses, blood vessels or other
+structures after suffering an injury, such as from a stroke. Dead brain tissue
+is instead absorbed, leaving behind a cavity devoid of anything recognizable
+as healthy brain tissue.
+
+But that hasn’t stopped researchers from trying to regenerate damaged brains
+anyway. One common approach used by biomedical engineers is to provide a new
+medium for the diverse pieces of brain tissue to move into, loaded with
+various nutrients and biological instructions to encourage growth.
+
+While scientists in the field have historically reached for a homogenous,
+gelatinous biomaterial to support neural regrowth, Tatiana Segura, professor
+of biomedical engineering at Duke University, has developed a different
+approach. Her biomaterial built to encourage all types of healing and growth
+is made of millions of tiny gelatinous spheres packed together to form a
+stable scaffold.
+
+“Most other labs use nonporous hydrogels that are sort of like a huge chunk of
+Jell-O, and cells have to eat away at it before they can lay down material to
+regrow,” said Segura. “Ours is more like soft oranges packed in a box, which
+provides a bunch of pockets and void spaces where cells can move through and
+grow into.”
+
+> “Most other labs use nonporous hydrogels that are sort of like a huge chunk
+> of Jell-O, and cells have to eat away at it before they can lay down
+> material to regrow. Ours is more like soft oranges packed in a box, which
+> provides a bunch of pockets and void spaces where cells can move through and
+> grow into.”
+>
+> tatiana segura
+
+The box-of-oranges approach — called microporous annealed particle (MAP)
+scaffolds—has proven promising in a wide number of tissues such as skin and
+bones. And in 2018, it was shown to reduce inflammation and promote neural
+progenitor cell (NPC) migration into the stroke lesion.
+
+This observation led Katrina Wilson, PhD candidate in Segura’s lab, to
+engineer MAP scaffolds to further guide how these progenitor cells
+differentiate. Not quite as immature and dexterous as stem cells, neural
+progenitors are still capable of becoming most, if not all, types of cells
+found in the brain. Being able to tell them where to go and what to become
+would be a boon to developing brain-healing treatments.
+
+In the human body, stem cells and progenitor cells respond to biological cues
+from various structures and proteins found around them. One source of
+instruction comes from the laminin proteins that make up the body’s biological
+scaffolding called the extracellular matrix.
+
+In the new paper, Wilson embedded different combinations of portions of these
+proteins called peptides within her synthetic MAP scaffolding and then watched
+what happened — quite literally. She created time-lapse videos over the course
+of several days that show how progenitor cells respond to the peptide-painted
+MAP scaffold.
+
+> “There is a big potential for neurospheres to be used as models for studying
+> developmental neurotoxicity or for drug screening, and the cells spreading
+> and differentiating is highly applicable to our ongoing work in promoting
+> tissue regeneration after stroke.
+>
+> katrina wilson
+
+“We saw the cells attach to the scaffold over time and actually physically
+move it around,” Segura said. “We used to think of it as just a jungle gym
+with kids playing on it. But that’s not what we saw, cells exert physical
+forces on the scaffold that are sufficient to cause it to move.”
+
+This observation, however, was not uniform for all peptide cocktails. MAP
+scaffolds modified with a different peptide ended up turning into tiny balls
+called neurospheres, which did not move the scaffold but instead darted in and
+out of different depths while retaining their ability to choose different
+maturation paths. Both results, Wilson says, could be useful for a wide
+variety of medical applications.
+
+“There is a big potential for neurospheres to be used as models for studying
+developmental neurotoxicity or for drug screening, and the cells spreading and
+differentiating is highly applicable to our ongoing work in promoting tissue
+regeneration after stroke,” Wilson said. “While most platforms for this type
+of work are stuck in two dimensions and aren’t great for simulating what’s
+happening in a three-dimensional body, our platform is 3D and could make a
+great model for testing and understanding how NPCs work.”
+
+With many potential routes to pursue, Wilson says her next move is to use what
+she learned and apply the entire set of peptide signals to the lab’s mouse
+stroke models to see if it enhances cell recruitment and response to regrow
+blood vessels and nerves.
+
+This research was supported by the National Institutes of Health and the
+National Institute of Neurological Disorders and Stroke (R01NS079691).
+
+“Stoichiometric post modification of hydrogel microparticles dictates neural
+stem cell fate in microporous annealed particle scaffolds.” Katrina L. Wilson,
+Sasha Cai Lesher Perez, Moawiah M. Naffa, Sean H. Kelly, Tatiana Segura.
+Advanced Materials, 2022. DOI: 10.1002/adma.202201921
+
+## Related News
+
+March 04, 2022 | Duke Science & Technology
+
+### Tatiana Segura: A Stroke Healing Gel
+
+May 21, 2018
+
+### New Biomaterial Helps Regrow Brain Tissue After Stroke in Mice
+
+August 22, 2017
+
+### Tatiana Segura: Promoting Healing and Healthy Tissue
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

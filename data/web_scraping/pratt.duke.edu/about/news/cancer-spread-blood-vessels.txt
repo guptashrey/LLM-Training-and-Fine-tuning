@@ -1,0 +1,283 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Scientists Pair 3D Bioprinting and Computer Modeling to Examine Cancer
+Spread in Blood Vessels
+
+August 27, 2020 | By Jeremy Thomas
+
+Advanced computer simulations help better understand how tumor cells attach to
+blood vessels to form new tumors
+
+_From Lawrence Livermore National Laboratory_
+
+Lawrence Livermore National Laboratory scientists have paired 3D-printed,
+living human brain vasculature with Duke University's advanced computational
+flow simulations to better understand tumor cell attachment to blood vessels,
+the first step in secondary tumor formation during cancer metastasis. The
+unique approach, developed with outside collaborators, lays the foundation for
+developing a predictive capability that can help clinicians and researchers
+anticipate the spread of cancer within individual patients.
+
+The study, published online today in the journal Science Advances, describes a
+new approach to training computational models on biological processes and
+provides insights into how and why cancer cells metastasize in certain areas
+of the vasculature, researchers reported. The team, which includes scientists
+at Duke University, combined bioengineering and computation to analyze the
+physics behind circulating tumor cell (CTC) behavior and the cells' attachment
+to the vascular endothelium, the layer of cells that line the interior surface
+of blood vessels.
+
+Tumor cells tend to escape from a primary tumor and travel through the
+vasculature, where they eventually attach to a vessel wall, pass through the
+endothelium into the tissue and grow like a seed in soil, usually in areas
+such as forks in the blood vessels, explained LLNL biomedical engineer Monica
+Moya, principal investigator of the study and lead researcher on LLNL's bio-
+printed vasculature device.
+
+While research has been done on what attracts tumors to certain areas, less is
+known about the contribution of physics in cancer metastases, because the
+processes are extremely difficult to replicate in the lab, Moya said.
+Typically, scientists use animal models, which make real-time visualization
+and measurements of the spread of circulating tumor cells complicated and less
+relevant to human biology. However, LLNL's 3D-printed vasculature device is
+well-suited for addressing the physics involved in cancer spreading via
+metastasis because researchers can control the biology, fluid dynamics and
+geometry of the vasculature and perform real-time measurements of actual
+vascular flow and how it affects circulating tumor cells.
+
+"Computational modeling is definitely a useful tool, but you still need to
+benchmark it against something real," Moya said. "With this approach, we can
+make the biology as simple and clean as it needs to be to validate the models,
+and we can increase the complexity, both in the biology and the computational
+model. Physics matters in biology, and this paper really sets the framework of
+how you can use these in vitro models, paired with simulations, to tease apart
+the contribution of the biology and the physics and really bring a strength to
+the field that has been lacking."
+
+To create the in vitro system, Moya and her team 3D printed vasculature out of
+human cerebral endothelial cells, subjecting them to flow conditions in the
+fluidic platform. After the cells completely covered the device's channels,
+they aligned within the vessels and after about a week, researchers injected a
+breast cancer cell line into the device to see how and where the tumor cells
+began to metastasize (or stuck) inside the newly formed brain vasculature.
+After the tumor cells circulated at physiological flow rates, Claire
+Robertson, a Lawrence Fellow who works on developing models of early breast
+cancer, mapped more than 6,000 cells that adhered to the vessel walls and
+compared them to local biophysics. These experimental results were then
+compared to 3D computational simulations replicating geometries gathered from
+the 3D maps to reproduce the exact geometry of the bio-printed vessels,
+enabling highly accurate fluid dynamics analysis of the attachment conditions,
+researchers said.
+
+"Adapting this advanced bioprinting process to engineer functional, perfusable
+human brain vasculature was extremely challenging, however we now have a
+strong handle on the technique and can potentially fabricate a wide variety of
+living human tissue constructs," said lead author and LLNL research staff
+engineer William "Rick" Hynes. "Using this approach, we were able to test,
+observe and measure a biological phenomenon that was previously impossible,
+and we will continue to iterate on these findings to shed light on how and
+when circulating tumor cells choose their targets in vivo. By pairing our
+engineered platform with computational modeling, we can directly interrogate
+the behavior of metastatic cells and the rules that govern them far more
+rapidly than through experimentation alone."
+
+For the computational component of the research, Moya and her team worked with
+Amanda Randles, a former Lawrence Fellow at LLNL, now an assistant professor
+in biomedical engineering at Duke University. Randles' team used an algorithm
+called HARVEY, developed by Randles, to replicate blood flow and cancer cells,
+validating the code on micro-vessels and introducing explicit cancer cells
+modeled in the geometry. The code was developed and optimized for the Summit
+supercomputer at Oak Ridge National Laboratory, but the simulations were
+completed at LLNL and at Duke.
+
+Using HARVEY, researchers were able to capture flow rates that would be
+difficult to do by in vitro devices alone, allowing researchers to "turn off"
+specific parameters that wouldn't be possible in experiments, such as the
+elasticity of a cell, number of cell receptors or flow profile, Randles said.
+With the approach, researchers determined that wall shear stress is important
+in determining cell adhesion to vessel walls but does not solely govern the
+tumor attachment process. Areas where circulating tumor cells stuck were not
+fully explained by blood flow patterns alone, suggesting that flow could
+potentially activate the endothelial cells and contribute to where circulating
+tumor cells adhere, researchers said.
+
+The living vasculature bioprinted at LLNL was essential to validating the
+computer models, Randles said, because it allows for a controlled environment
+where factors such as geometry can be precisely replicated.
+
+"Biology is complex," Randles said. "We're starting to get closer to mimicking
+the real biology of what you're seeing in the vasculature, but doing so in a
+stepwise fashion where everything is controlled, we know what the material
+properties are of the walls, the geometry we've set up and the flow that's
+going through. We can start to get toward replicating what's really happening
+in the body, where we have a test bed to understand how cancer cells interact
+and why you may see metastases occur where you do."
+
+Moya said the combination of bioprinted in vitro devices with computer models
+could allow researchers to decouple the biological and physical contributions
+that drive metastatic seeding. Such simulations could be used to predict
+locations where tumors will spread, which would enable targeted screening of
+high-risk patients and therapeutic intervention aimed at the most vulnerable
+areas. Clinicians could take patient MRIs and use them to simulate where
+circulating tumor cells are likely to get stuck, and the models could tell
+clinicians which areas to focus their attention to greatly enhance the
+efficacy of treatments, Moya added.
+
+"Most people don't really think about using these in vitro beds as a way of
+growing the computational part," Moya said. "These are two really powerful
+technologies. It's something we're uniquely suited to because we have access
+to supercomputers. There is more to these tissue constructs than just
+glorified in vitro studies — you can actually get useful information and start
+to acknowledge the role of physics in biology."
+
+The LLNL team, led by Moya, has submitted a grant for a follow-on project that
+will examine how flow patterns, vascular geometry, tumor cell mechanics and
+tissue mechanics influence the metastatic cascade, Moya said. They are working
+to develop ways to capture cellular interactions in larger geometries, which
+will require higher resolution models and studying flow behavior of different
+cancer cell types. Researchers are also pursuing funding to support additional
+bioprinting efforts, such as a project led by Hynes focusing on developing
+novel techniques for printing living microbial cells for a wide variety of
+applications, ranging from biomanufacturing to smart materials.
+
+Moya wants to increase the complexity of bioprinted vasculature to further
+examine the role of biophysics in the progression of deadly disease.
+Additionally, a separate team led by Hynes and Moya is looking at modeling
+blood flow in bioprinted brain aneurysms to test surgical interventions, as
+well as continuing work with Randles' group at Duke for simulating vascular
+blood-clot formation in response to aneurysm treatments.
+
+The work was funded by a Laboratory Directed Research and Development (LDRD)
+Exploratory Research project on breast cancer metastasis to the brain. Co-
+authors included LLNL scientists Javier Alvarado, Karen Dubbin and Michael
+Triplett, as well as Marianna Pepona of Duke University and Jonathan Adorno, a
+former LLNL student intern and GEM scholar, now at Ohio State University.
+
+## Related News
+
+August 06, 2019
+
+### Simulating Blood Flow at the Cellular Level
+
+May 02, 2019
+
+### HARVEY Helps Move Bioprinted Organs Closer to Reality
+
+August 16, 2017
+
+### Randles Named an MIT Technology Review Innovator Under 35
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

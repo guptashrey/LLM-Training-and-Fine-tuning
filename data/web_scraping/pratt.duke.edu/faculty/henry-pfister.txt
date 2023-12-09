@@ -1,0 +1,204 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Henry Pfister
+
+Professor in the Department of Electrical and Computer Engineering
+
+Henry D. Pfister received his Ph.D. in Electrical Engineering in 2003 from the
+University of California, San Diego and is currently a professor in the
+Electrical and Computer Engineering Department of Duke University with a
+secondary appointment in Mathematics. Prior to that, he was an associate
+professor at Texas A&M University (2006-2014), a post-doctoral fellow at the
+École Polytechnique Fédérale de Lausanne (2005-2006), and a senior engineer at
+Qualcomm Corporate R&D in San Diego (2003-2004). His current research
+interests include information theory, error-correcting codes, quantum
+computing, and machine learning.
+
+He received the NSF Career Award in 2008 and a Texas A&M ECE Department
+Outstanding Professor Award in 2010. He is a coauthor of the 2007 IEEE COMSOC
+best paper in Signal Processing and Coding for Data Storage and a coauthor of
+a 2016 Symposium on the Theory of Computing (STOC) best paper. He has served
+the IEEE Information Theory Society as a member of the Board of Governors
+(2019-2022), an Associate Editor for the IEEE Transactions on Information
+Theory (2013-2016), and a Distinguished Lecturer (2015-2016). He was also the
+General Chair of the 2016 North American School of Information Theory.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Electrical and Computer Engineering
+  * Associate Professor of Mathematics
+
+## Contact Information
+
+  * **Office Location:** 140 Science Dr., 305 Gross Hall, Durham, NC 27708
+  * **Office Phone:** (919) 660-5288
+  * **Email Address:** henry.pfister@duke.edu
+  * **Websites:**
+
+## Education
+
+  * Ph.D. University of California - San Diego, 2003
+
+## Research Interests
+
+Information theory, communications, probabilistic graphical models, machine
+learning, and deep neural networks
+
+## Awards, Honors, and Distinctions
+
+  * Best Paper Award. Symposium on the Theory of Computation (STOC). 2016
+  * 2015-2016 Distinguished Lecturer. IEEE Information Theory Society. 2015
+  * NSF CAREER Award. National Science Foundation. 2008
+  * 2007 Best Paper in Signal Processing and Coding for Data Storage. IEEE
+    Communications Society . 2007
+
+## Courses Taught
+
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 487: System Design for Machine Learning and Signal Processing
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 496: Special Topics in Electrical and Computer Engineering
+  * ECE 586: Vector Space Methods with Applications
+  * ECE 586D: Vector Space Methods with Applications
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * MATH 590-02: Advanced Special Topics in Mathematics
+
+## In the News
+
+  * Pratt's Henry Pfister: Inferring Answers through Graphical Models (Sep 17,
+    2014)
+
+## Representative Publications
+
+  * Reeves, G; Pfister, HD, _Reed-Muller Codes Achieve Capacity on BMS
+    Channels_ (2021) [abs].
+  * Reeves, G; Pfister, HD, _The replica-symmetric prediction for compressed
+    sensing with Gaussian matrices is exact_ , Ieee International Symposium on
+    Information Theory Proceedings, vol 2016-August (2016), pp. 665-669
+    [10.1109/ISIT.2016.7541382] [abs].
+  * Kumar, S; Young, AJ; Macris, N; Pfister, HD, _Threshold saturation for
+    spatially coupled LDPC and LDGM codes on BMS channels_ , Ieee Transactions
+    on Information Theory, vol 60 no. 12 (2014), pp. 7389-7415
+    [10.1109/TIT.2014.2360692] [abs].
+  * Yedla, A; Jian, YY; Nguyen, PS; Pfister, HD, _A simple proof of maxwell
+    saturation for coupled scalar recursions_ , Ieee Transactions on
+    Information Theory, vol 60 no. 11 (2014), pp. 6943-6965
+    [10.1109/TIT.2014.2352296] [abs].
+  * Pfister, HD; Soriaga, JB; Siegel, PH, _On the achievable information rates
+    of finite state ISI channels_ , Conference Record / Ieee Global
+    Telecommunications Conference, vol 5 (2001), pp. 2992-2996 [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

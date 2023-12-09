@@ -1,0 +1,341 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Roger C. Barr
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Biomedical Engineering
+
+**Quantitative Electrophysiology - Activation of the Heart.** Simulation
+studies are being conducted on the activation process in cardiac tissue. To
+carry this out it is necessary to describe quantitatively the electrical
+(nonlinear) behavior of the cell membrane as well as to describe the
+electrical ``load" (i.e. the electrical structure and conductivities of the
+intracellular and extracellular medium). For studies which emphasize
+activation alone the Hodgkin-Huxley and Ebihara-Johnson membrane models have
+been used. Where recovery is important the Beeler-Reuter and DiFrancesco-Noble
+models have been introduced.
+
+Regarding the passive conductive properties of the cardiac muscle, because of
+its syncytial nature (arising from multiple low resistance intercellular
+junctions) the intracellular and interstitial space can be regarded as
+continua though coupled at all points through the cell membrane. This
+constitutes what has been called the bidomain model and is the basis for a
+partial differential equation description of the fields of interest. The
+directional differences in conductivity arising from the fiber orientation and
+myofibril structure can be taken into account by using an anisotropic
+conductivity tensor. In general the ratio of conductivities in the
+intracellular and interstitial spaces are unequal, according to the isolated
+experiments in the literature.
+
+To date simulations have been carried out to describe current flow patterns
+that arise under different assumed anisotropy conditions for both electrotonus
+and action potential conditions. In one study the activation isochrones
+resulting from a point stimulation were determined for a two-dimensional
+homogeneous (though anisotropic) tissue. Based on the assumption of equal
+anisotropy ratio simulations have been performed for a semi-infinite and
+cylindrical bundle of tissue describing the character of the intracellular and
+interstitial field as a function of depth into the tissue from the
+extracellular (bounding) space. One sees a considerable non-uniformity of
+magnitude near the surface so that measurements typically made at the surface
+may not be representative of interior wave shape. In particular a wave
+initiated at one end of a cylindrical bundle will develop a curved phase front
+(curved isochrones). Other important consequences have to do with the
+resulting source strength, velocity of propagation, e The above research is
+ultimately directed toward models which may help elucidate the initiation of
+cardiac arrhythmias.
+
+We are also interested in developing cardiac muscle models that will help
+clarify and elucidate the electrophysiological processes underlying
+defibrillation. We have examined one-dimensional models to date and pointed
+out the important role of the modified bidomain model which includes the
+junctional resistance. This work is limited to steady-state solutions; results
+emphasize a strong relationship to the size of the intercellular junction.
+Current efforts are directed at an examination of the transient response to a
+defibrillatory pulse by including the membrane capacitance. Still further
+efforts are based on including a quantitative description of the membrane
+ionic channels themselves. Our goal is eventual extension to a three-
+dimensional model.
+
+Further work is planned that will extend the aforementioned projects more
+fully to three dimensions, to arbitrary anisotropy, and to actual heart
+geometry. In particular we would like to extend work on one-dimensional
+propagation models which includes the discontinuous structure arising from
+intercellular junctions to three dimensions. Interest centers on explaining
+both normal and abnormal experimental studies.  
+  
+**Neural Stimulation**. We have been interested in developing and examining
+models arising from practical applications of functional electrical
+stimulation. Work completed to date includes the characterization and behavior
+of cuff electrodes which demonstrate the conditions under which unidirectional
+propagation results. We have also considered the response of a nerve bundle
+arising from a point stimulation source. Of particular interest was the
+determination of the effect of fiber position within a bundle on excitation
+threshold. In carrying out this latter study, the effect of current
+redistribution from interstitial to intracellular space was included, but only
+under steady-state conditions. This work needs to be extended to the transient
+case.
+
+The effect of electrode shape (electrode array) on stimulation properties is
+also of interest and will be considered in the future. The reciprocal problem,
+namely an investigation of the effect of electrode size and shape in
+electromyography, is currently being studied.
+
+**Electrophysiological Sources.** When excitable tissue (nerve or muscle) is
+stimulated, the result is an action potential and associated action currents.
+The action currents, by depolarizing membranes adjacent to the site undergoing
+activation, serve to spread the activation --- and in this way result in the
+propagation of the impulse. The action currents fill the entire conducting
+region, according to the laws of electricity. As a result potential fields
+surrounding and at a distance from active processes can be detected and
+measured. Familiar examples are the electrocardiogram, electromyogram, etc.
+
+The relationship between underlying electrical activation processes(sources)
+and the potential fields they produce is of great interest. If carefully
+characterized the opportunity is present for learning about cellular processes
+based on external (noninvasive) measurements. This is important not only in
+clinical situations, but in basic research as well.
+
+The goal of this research is to develop quantitative formulations for the
+electrical generators associated with activation processes. The case of a
+single cell in a uniform volume conductor and its extension to the cylindrical
+fiber has been well studied over the last twenty years. Interest now centers
+on multi fiber preparations including muscle and nerve bundles, cardiac
+muscle, and smooth muscle. Such formulations are needed during activation as
+well as recovery. This is particularly important in the study of cardiac
+tissue since recovery is not propagated.
+
+As part of this study a particular effort is directed to a study of cardiac
+recovery and the T-wave. New experimental methods provide an opportunity, for
+the first time, to describe the action potential waveforms throughout the
+heart providing a useful database. The goal is the quantitative analysis of
+the origins of the T-wave as measured both on the torso and on the heart.
+
+## Appointments and Affiliations
+
+  * Professor of Biomedical Engineering
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 1387 CIEMAS, Durham, NC 27708
+  * **Office Phone:** (919) 660-5123
+  * **Email Address:** roger.barr@duke.edu
+
+## Education
+
+  * B.S. Duke University, 1964
+  * Ph.D. Duke University, 1968
+
+## Research Interests
+
+Bioelectricity and biomedical computing.
+
+## Courses Taught
+
+  * BME 510: Bayesian Analysis in Biomedical Engineering (GE, EL)
+  * BME 671L: Signal Processing and Applied Mathematics
+  * BME 890: Advanced topics for PhD students
+
+## In the News
+
+  * Online Bioelectricity Course to Reach High School Teachers Nationwide (Nov
+    24, …
+
+## Representative Publications
+
+  * Fricks, Rafael B., Henry Tseng, Marjorie Veihl, Kishor S. Trivedi, and
+    Roger C. Barr. “Robust Prediction Of Treatment Times In Concurrent Patient
+    Care.” Annual International Conference of the Ieee Engineering in Medicine
+    and Biology Society. Ieee Engineering in Medicine and Biology Society.
+    Annual International Conference 2018 (July 2018): 5370–73.
+    https://doi.org/10.1109/embc.2018.8513569.
+  * Barr, Roger C. “Design of an Interactive Simulation Environment for Arrays
+    of Cardiac Cells.” Annual International Conference of the Ieee Engineering
+    in Medicine and Biology Society. Ieee Engineering in Medicine and Biology
+    Society. Annual International Conference 2018 (July 2018): 5466–69.
+    https://doi.org/10.1109/embc.2018.8513586.
+  * White, J. A., A. D. Dorval, L. A. Geddes, R. C. Barr, B. K. Slaten, F.
+    Barnes, D. R. Martinez, R. A. Bond, and M. Michael Vai. “Bioelectricity.”
+    In Sensors, Nanoscience, Biomedical Engineering, and Instruments, 2016.
+  * Waits, Charlotte Mae K., Roger C. Barr, and Andrew E. Pollard. “Sensor
+    spacing affects the tissue impedance spectra of rabbit ventricular
+    epicardium.” American Journal of Physiology. Heart and Circulatory
+    Physiology 306, no. 12 (June 2014): H1660–68.
+    https://doi.org/10.1152/ajpheart.00661.2013.
+  * Barr, R. C. “Basic Electrophysiology.” In Biomedical Engineering
+    Fundamentals, 38-1-38–21, 2014. https://doi.org/10.1201/b15482-43.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

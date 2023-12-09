@@ -1,0 +1,225 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Comparing the Swab to the Sewer
+
+March 3, 2021
+
+Duke pilot testing effectiveness of campus wastewater sampling to detect SARS-
+CoV-2, and comparing it to nasal swabs
+
+DURHAM, N.C.—Using established methods for screening human sewage for the
+presence of SARS-CoV-2, the virus that causes COVID-19, Duke University is
+piloting a study to compare what can be learned from sewage with what can be
+learned from a rigorous nasal swab testing program.
+
+The university has been testing wastewater from three residence halls for the
+virus and comparing that data to what is being learned from swab testing
+across campus.
+
+“Duke had the resources to conduct individual sampling, which is the gold
+standard,” said Sonia Grego, an electrical and computer engineer with the Duke
+Center for Water, Sanitation, Hygiene and Infectious Disease, or WaSH-AID,
+which is conducting the sewage testing.
+
+But the testing system Duke has established, including dozens of temporary lab
+workers to handle thousands of samples daily, has been expensive. “It’s
+certainly more cost-effective to pool-test through wastewater,” said Grego.
+
+Because of the way humans can shed the virus in their stool, wastewater
+sampling has the potential to identify an outbreak of infections even before
+people are exhibiting symptoms. But it would never replace individual testing,
+Grego is quick to add.
+
+Wastewater sampling for public health isn’t new; the United Nations monitors
+wastewater in the last few geographical pockets where the polio virus lingers,
+and the technique is also used in areas of the world prone to outbreaks of
+typhoid and cholera. In the U.S., the Centers for Disease Control and
+Prevention recently launched a national wastewater surveillance system to
+better understand how COVID-19 spreads within communities. And universities
+across the U.S. have been using wastewater sampling since the current pandemic
+arose, in the absence of individual nasal swab surveillance like Duke’s.
+
+In cooperation with Duke Facilities Management, autosamplers collect small
+amounts of wastewater coming from three residence halls throughout the day and
+mix it all together, ensuring the daily sample better represents everyone
+living in the building.
+
+From the large sample, the Center for WaSH-AID’s lab cooks it down to a
+smaller concentrate, then delivers it to the lab of civil and environmental
+engineer Claudia Gunsch. Gunsch, an expert in identifying microbes and
+microbial assemblies, extracts RNA from the concentrate. The RNA is then
+screened for the unique genetic signatures of SARS-CoV-2 and quantified if
+present.
+
+Those results are then sent to biology professor Steven Haase, who has led the
+Duke data modeling team since the swab-based surveillance program began last
+summer.
+
+Every day, Haase’s team checks the testing data for positive signals, and
+adapts the distribution of tests to surround the positive cases, checking for
+further transmission. This semester, data from the wastewater sampling will be
+used to identify potential hot spots, in addition to the pooled nasal swab
+tests.
+
+“Here’s why it’s so interesting that this pilot program is happening at Duke,”
+said Haase. “We have been able to get really good data on where our positives
+are showing up.”
+
+Haase said this trove of new data will make it possible to benchmark the
+wastewater sampling method against the nasal swab method. Until now, no one
+has had the necessary depth of data to compare the two.
+
+“We have a shot at learning something really important here,” said Haase.
+
+Information-sharing among universities has peaked under these unprecedented
+circumstances, even amongst classic rivals; several researchers at the
+Gillings School of Global Public Health and Department of Marine Sciences at
+the University of North Carolina at Chapel Hill—most notably Rachel Noble,
+Denene Blackwood and Tom Clerkin—have experience in SARS wastewater
+surveillance and provided the Duke team with valuable tips and protocols for
+the process.
+
+Duke, in turn, recently published the particulars of its nasal swab pooling
+procedures for other administrations to emulate if they choose.
+
+Duke’s Office of Housing and Residence Life, in a January 21 email notifying
+students of the pilot program, noted that the sampling stations may be moved
+to serve different buildings over the course of the semester in response to
+the wastewater surveillance team’s findings.
+
+“Determining the sensitivity of wastewater testing is the next big-ticket
+piece of knowledge that we can share,” noted Grego. “Early identification and
+isolation will continue to be of critical importance in keeping our bubbles
+safe until the threat fully recedes.”
+
+More News from Duke Engineering
+
+## Related News
+
+October 07, 2020
+
+### Calculating the Risk of COVID-19 Exposure
+
+April 27, 2020
+
+### Duke Engineers Adapt Rapid Testing Platform to See If It Can Catch
+COVID-19
+
+April 07, 2020
+
+### ‘CovIdentify’ Pits Smartphones and Wearable Tech Against the Coronavirus
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

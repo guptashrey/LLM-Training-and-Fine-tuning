@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Programming Computational Wind Tunnels to Save Millions
+
+April 14, 2014
+
+MEMS graduate student Fanny Besem is developing and running computer models
+for computational fluid dynamics as part of Duke's aeroelasticity group
+
+It famously took Thomas Edison thousands of attempts to settle on a practical
+design for the incandescent light bulb. If each crack at a solution had cost
+him hundreds of millions of dollars, however, he might not have been so keen
+on using a build ‘em and bust ‘em approach.
+
+The companies designing turbines for jet engines and electricity production
+face such challenges today. With multiple rotors spinning in excess of 15,000
+revolutions per minute facing incoming airflows of hundreds of miles per hour,
+the dynamics of the air’s behavior becomes fodder for an engineering student’s
+worst nightmare. And although computer simulations of even simplified systems
+can take weeks to run even on modern supercomputers, it is well worth the time
+and effort.
+
+From initial designs to being bolted to an aircraft’s wing, a typical jet
+engine costs more than a billion dollars to produce. For example, the design
+of the GE90—the jet engine that powers the Boeing 777—was begun in 1990, but
+GE didn’t see a dime of profit for their labors until 2010.
+
+“The entire industry runs these complex simulations,” explains Fanny Besem, a
+graduate student in the Department of Mechanical Engineering and Materials
+Science’s aeroelasticity group. “It’s simply too expensive to design an
+engine, test it and then redesign it.”
+
+Besem is one of the engineers in Duke’s world-class aeroelasticity group
+developing and running computer models for computational fluid dynamics (CFD).
+Up until last year, she was working to find shortcuts in the time- and
+computationally-intensive process of orchestrating a computational wind
+tunnel. If engineers could take only a fraction of the variables into account
+and still predict the solution for an entire compressor, it would save
+everyone a lot of trouble.
+
+The problem, however, is that nobody really knows which variables can be
+ignored and which really matter in finding a reliable solution. How many blade
+rows does it take to accurately model a compressor? Can you ignore the
+distance between the rotor blades and engine casing? When do the vibrations in
+the air couple with the natural frequencies of the blades to produce problems,
+like an opera singer breaking a glass with a single note?
+
+To find out, Besem began working on a collaborative project last year headed
+by Duke, Purdue University and Rolls-Royce, which is funded by the GUIde5
+Consortium—a partnership between numerous universities, government agencies
+and private companies to find answers to challenges too interdisciplinary and
+complex for any one institution to tackle on its own.
+
+The five-year experiment, whose computational side is headed by Besem’s
+doctorate advisor Robert Kielb, associate chair of the Department of
+Mechanical Engineering and Materials Science, is based on the campus of Purdue
+University. There, researchers have set up a scaled-down Rolls-Royce-designed
+compressor and installed a dizzying array of sensors intended to take airflow
+measurements throughout the chamber.
+
+“That way we can compare the results of our CFD simulations with actual data
+from a real system,” explains Besem. “We can make sure our models are accurate
+and use any inconsistencies to improve our calculations.”
+
+Coincidentally, Besem may have flown on a similar jet engine model to pursue
+her research interests in the United States. Born, raised and educated through
+undergraduate school in Belgium, she earned dual master’s degrees from Duke
+and the Royal Institute of Technology in Sweden through a European Union
+program. Not coincidentally, her advisor Kielb is also an affiliated professor
+of the Swedish Royal Institute of Technology.
+
+After finishing her master’s program in turbomachinery, she returned home to
+Belgium. But after a short job search, she decided to return to Durham and
+pursue a PhD.
+
+Besem won’t get to see the entire Purdue/Rolls-Royce/Duke project through to
+completion, however, as it the five-year project is just beginning and she is
+scheduled to graduate in May 2015. She’s hoping to eventually land a job with
+a jet engine company in the United States. Due to her Belgian heritage and the
+fact that many engine contracts are linked to the Federal government, however,
+there will likely be additional hurdles for her to overcome. But that doesn’t
+dampen her spirits or ambition in the meantime.
+
+“I really like it here,” says Besem. “I’m glad I stayed.”
+
+And so are her advisors at Duke.
+
+“Only the best students are selected to enter the aeroelasticity graduate
+program at both the Royal Institute of Technology and Duke, and Fanny is one
+of the best,” says Kielb. “Fanny has been, and continues to be, successful
+because of her high intellectual ability, organizational skill, leadership and
+strong determination. You can see it in how she develops creative solutions
+and mentors other graduate and undergraduate students in their research
+projects. She’s an awesome Ph.D. student.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

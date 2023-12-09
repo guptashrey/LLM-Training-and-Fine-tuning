@@ -1,0 +1,264 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Q&A: Aniket Dalvi, Quantum Computing Master's Student
+
+January 2, 2020
+
+What is it like to study quantum computing at Duke?
+
+## **Q &A: Aniket Dalvi, Master's Student  
+** **Advisor: Kenneth Brown**
+
+### Undergraduate degree: University of Wisconsin-Madison  
+Major: Physics and Computer Science
+
+#### **What sparked your interest in quantum computing?**
+
+In high school, I belonged to a research center in Bangalore. It was run by
+professors, and the premise was that you explored whatever interested you and
+they would provide guidance when you got stuck. For me, this was a better
+route to prepare for college than the prep courses that all of my peers were
+taking--the self-guided nature of the research center was a much better fit
+for me.
+
+There, I learned calculus and linear algebra and moved toward problems in
+quantum mechanics, then statistical mechanics. At the same time, I was also
+quite interested in computer science and enjoyed working on programming side
+projects. It was around this time, I was trying to decide whether I wanted to
+stay in India for my undergraduate studies, or come to the US. If I had
+decided on computer engineering, I might have made the decision to stay in
+India. But I also really love studying physics and the “pure science” side of
+things, also. So I was asking myself, how might I satisfy both?
+
+Then in the summer between my junior and senior years, my mentor told me about
+a new field—new to me, anyway—that was up-and-coming: quantum computing. He
+sent me some articles and papers _._ I read them and said, “Wait, this sounds
+great!” It’s based on quantum mechanics, but being applied in computer
+science, so it synthesized my interests.
+
+So, when I applied to universities, I applied only to places that had quantum
+computing programs.
+
+#### **What kind of experience did you get as an undergraduate?**
+
+I worked with Robert McDermott at the University of Wisconsin-Madison, who
+does research in superconducting qubits, for a couple of years. Working in his
+lab, I learnt a lot about the experimental and physics side of quantum
+computing. I was also selected to be a part of research workshop at the
+Institute for Quantum Computing called USEQIP (Undergraduate School on
+Experimental Quantum Information Processing), which gave me a good foundation
+on quantum computing through lectures and labs on various topics in the field.
+During that time, I interned at Microsoft in the capacity of a software
+engineer over multiple summers, but got to interact at length with their
+quantum computing group.
+
+Through these experiences, I realized that I was more interested in the
+computer science aspect of quantum computing. That side focuses on the layers
+above the hardware– control, compilers, programming languages and
+applications.
+
+#### **Why Duke?**
+
+> The general feeling was that there was a good group forming around quantum
+> information.
+
+As an undergraduate, I already knew I wanted to continue my studies in
+graduate school. I spoke about my interests to my colleagues at Microsoft and
+to the professors I met at USEQIP and during my undergraduate studies, and
+learned which university had faculty in the computer science realm of quantum
+computing. A lot of these people pointed to Duke. Jungsang Kim was here, and
+Kenneth Brown had just moved here. The general feeling was that there was a
+good group forming around quantum information. And, Ken and Jungsang work
+across the stacks, at both the experimental level and the programming level,
+so I knew I would find projects of interest to me.
+
+> I was looking for that strong university-industry connection. That, along
+> with the flexibility of the coursework, which gave me a lot more bandwidth
+> for research, made Duke the best fit for me, in the end.
+
+Finally, Duke was well-connected to other universities leading quantum
+computing efforts, specifically the University of Chicago and University of
+Maryland, which are both part of STAQ (the Software- Tailored Architectures
+for Quantum Codesign, directed by Ken Brown). I want to work in industry
+later, so the recommendations from my industry colleagues were quite helpful—I
+was looking for that strong university-industry connection. That, along with
+the flexibility of the coursework, which gave me a lot more bandwidth for
+research, made Duke the best fit for me, in the end.
+
+#### **What’s the Brown lab like?**
+
+It’s great. Ken is hands-on when you need his advice and direction, and hands-
+off when needful. And he’s very supportive. When I spoke to him before joining
+the lab, I asked what I needed as far as prerequisites or extra classes. He
+said, “That’s not the way I work. Tell me about the skills you have, and we’ll
+work out a project that suits you.” I really liked that. I think it’s a
+fantastic way to approach research—working with the strengths that each
+student brings to the table.
+
+It’s a very collaborative lab. You often work with people with various areas
+of expertise and experience which leads to an enriching learning experience
+about various aspects of the field. When you have questions, everyone is
+accessible.
+
+#### **What are you researching here at Duke?**
+
+I’m working on automating experimental controls for ion-trap systems. Right
+now, we are running ion trap experiments that requires manual calibration,
+meaning that there’s an experimentalist who calibrates the signals, the
+frequency of the laser beams—all of that—with software each time we run the
+experiment. It’s very time-intensive, and Ken has a vision of automating it.
+There is a framework called artiq, a control system for quantum information
+experiments, and I am working with a couple of PhD students to develop a
+program using artiq to automate and abstract our calibration and experiments.
+
+#### **What’s the most useful thing you’ve learned?**
+
+I feel that these programming skills are transferrable—the challenge of making
+experiments more efficient is being tackled in industry as well. We’re heading
+toward better physical systems, and we’re coming close to being able to run
+operations on them, and the stacks need to be able to keep up. And because the
+work exists between two layers—the high-level language of the compiler and the
+hardware—I’ve gotten a better understanding of those aspects of quantum
+computing, too.
+
+#### **The field is pretty small, compared to other disciplines, and there are
+a small number of affluent companies working to establish quantum dominance.
+What’s your outlook on employment, for when you finish your degree?** ****
+
+It’s hard to predict, but right now things seem to be going well. There’s a
+wave building and the field seems to be riding high. There have been huge
+breakthroughs over the past couple years, like the recent Google paper on
+quantum supremacy. These are a few reasons why, right now, companies seem to
+be willing to hire people in the field.
+
+Although the field has a long way to go, the future seems bright.
+
+#### **What do you like about living in Durham?**
+
+The food is really good. The weather, compared to Wisconsin, is a huge relief.
+It’s December and I’m wearing a short-sleeved shirt!
+
+#### **Any advice for students considering a master’s degree at Duke?**
+
+My biggest piece of advice would be to find an area that really interests you
+and reach out to faculty at Duke who are working in that area. Their advice
+and insights will definitely be helpful in making an informed decision.
+Secondly—keeping an open mind and your appetite for learning will go a long
+way while pursuing graduate studies.
+
+Study Quantum Computing at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

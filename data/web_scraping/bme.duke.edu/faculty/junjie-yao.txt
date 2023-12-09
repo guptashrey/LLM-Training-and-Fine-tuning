@@ -1,0 +1,598 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Junjie Yao
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Assistant Professor of Biomedical Engineering
+
+Our mission at PI-Lab is to develop state-of-the-art photoacoustic tomography
+(PAT) technologies and translate PAT advances into diagnostic and therapeutic
+applications, especially in functional brain imaging and early cancer
+theranostics. PAT is the most sensitive modality for imaging rich optical
+absorption contrast over a wide range of spatial scales at high speed, and is
+one of the fastest growing biomedical imaging technologies. Using numerous
+endogenous and exogenous contrasts, PAT can provide high-resolution images at
+scales covering organelles, cells, tissues, organs, small-animal organisms, up
+to humans, and can reveal tissue’s anatomical, functional, metabolic, and even
+histologic properties, with molecular and neuronal specificity.
+
+At PI-Lab, we develop PAT technologies with novel and advanced imaging
+performance, in terms of spatial resolutions, imaging speed, penetration
+depth, detection sensitivity, and functionality. We are interested with all
+aspects of PAT technology innovations, including efficient light illumination,
+high-sensitivity ultrasonic detection, super-resolution PAT, high-speed
+imaging acquisition, novel PA genetic contrast, and precise image
+reconstruction. On top of the technological advancements, we are devoted to
+serve the broad life science and medical communities with matching PAT systems
+for various research and clinical needs. With its unique contrast mechanism,
+high scalability, and inherent functional and molecular imaging capabilities,
+PAT is well suited for a variety of pre-clinical applications, especially for
+studying tumor angiogenesis, cancer hypoxia, and brain disorders; it is also a
+promising tool for clinical applications in procedures such as cancer
+screening, melanoma staging, and endoscopic examination.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Biomedical Engineering
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Office Location:** Hudson Hall Annex 261, Durham, NC 27708
+  * **Office Phone:** (919) 681-0694
+  * **Email Address:** junjie.yao@duke.edu
+  * **Websites:**
+    * Duke Photoacoustics Lab website
+    * Google Scholar
+
+## Education
+
+  * Ph.D. Washington University in St. Louis, 2012
+
+## Research Interests
+
+Photoacoustic tomography (PAT) technologies, and translating PAT advances into
+diagnostic and therapeutic applications, especially in functional brain
+imaging and early cancer theranostics.
+
+## Courses Taught
+
+  * BME 303L: Modern Diagnostic Imaging Systems (AC or GE)
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 553: Deep Tissue Optics (GE, IM)
+  * BME 590: Special Topics in Biomedical Engineering
+  * BME 790L: Advanced Topics with the Lab for Graduate Students in Biomedical
+    Engineering
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+
+## In the News
+
+  * Glassfrogs Hide Red Blood Cells in Their Liver to Become Transparent (Jan
+    3, 20…
+  * Using Light and Sound to Reveal Rapid Brain Activity in Unprecedented
+    Detail (M…
+  * Yao Receives NSF CAREER Award to Monitor the Brain Using Photoacoustic
+    Imaging …
+  * Check This Out: The Brain During a Heart Attack (Nov 12, 2020)
+  * Novel Light and Sound Imaging Could Greatly Enhance Cancer Therapies (Feb
+    13, 2…
+  * Listening to Blood (Jul 27, 2018 | Duke University School of Medicine
+    Alumni Ne…
+  * Lasers Make Sound Waves That Reveal Live Views of Organs in Action (May
+    10, 201…
+  * Junjie Yao: Listening into the Body through Light (Oct 30, 2016)
+
+## Representative Publications
+
+  * Li, Mucong, Nathan Beaumont, Chenshuo Ma, Juan Rojas, Tri Vu, Max
+    Harlacher, Graeme O’Connell, et al. “Three-Dimensional Deep-Tissue
+    Functional and Molecular Imaging by Integrated Photoacoustic, Ultrasound,
+    and Angiographic Tomography (PAUSAT).” Ieee Trans Med Imaging 41, no. 10
+    (October 2022): 2704–14. https://doi.org/10.1109/TMI.2022.3168859.
+  * Chen, Junqin, Daiwei Li, Wenjun Yu, Zhiteng Ma, Chenhang Li, Gaoming
+    Xiang, Yuan Wu, Junjie Yao, and Pei Zhong. “The Effects of Scanning Speed
+    and Standoff Distance of the Fiber on Dusting Efficiency during Short
+    Pulse Holmium: YAG Laser Lithotripsy.” J Clin Med 11, no. 17 (August 28,
+    2022). https://doi.org/10.3390/jcm11175048.
+  * Zhang, Huijuan, Wei Bo, Depeng Wang, Anthony DiSpirito, Chuqin Huang,
+    Nikhila Nyayapathi, Emily Zheng, et al. “Deep-E: A Fully-Dense Neural
+    Network for Improving the Elevation Resolution in Linear-Array-Based
+    Photoacoustic Tomography.” Ieee Transactions on Medical Imaging 41, no. 5
+    (May 2022): 1279–88. https://doi.org/10.1109/tmi.2021.3137060.
+  * Tang, Yuqi, Huaiyu Wu, Paul Klippel, Bohua Zhang, Hsiao-Ying Shadow Huang,
+    Yun Jing, Xiaoning Jiang, and Junjie Yao. “Deep thrombosis
+    characterization using photoacoustic imaging with intravascular light
+    delivery.” Biomedical Engineering Letters 12, no. 2 (May 2022): 135–45.
+    https://doi.org/10.1007/s13534-022-00216-0.
+  * Kasatkina, Ludmila A., Chenshuo Ma, Mikhail E. Matlashov, Tri Vu, Mucong
+    Li, Andrii A. Kaberniuk, Junjie Yao, and Vladislav V. Verkhusha.
+    “Optogenetic manipulation and photoacoustic imaging using a near-infrared
+    transgenic mouse model.” Nature Communications 13, no. 1 (May 2022): 2813.
+    https://doi.org/10.1038/s41467-022-30547-6.
+  * Duan, Tingyang, Xiaorui Peng, Maomao Chen, Dong Zhang, Fei Gao, and Junjie
+    Yao. “Detection of weak optical absorption by optical-resolution
+    photoacoustic microscopy.” Photoacoustics 25 (March 2022): 100335.
+    https://doi.org/10.1016/j.pacs.2022.100335.
+  * Dong, Biqin, Junjie Yao, and Xosé Luís Deán-Ben. “Editorial: Advances in
+    Photoacoustic Neuroimaging.” Frontiers in Neuroscience 16 (January 2022):
+    859515. https://doi.org/10.3389/fnins.2022.859515.
+  * Li, Mucong, Juanjuan Gu, Tri Vu, Georgy Sankin, Pei Zhong, Junjie Yao, and
+    Yun Jing. “Time-Resolved Passive Cavitation Mapping Using the Transient
+    Angular Spectrum Approach.” Ieee Transactions on Ultrasonics,
+    Ferroelectrics, and Frequency Control 68, no. 7 (July 2021): 2361–69.
+    https://doi.org/10.1109/tuffc.2021.3062357.
+  * Zhang, Dong, Ran Li, Maomao Chen, Tri Vu, Huaxin Sheng, Wei Yang, Ulrike
+    Hoffmann, Jianwen Luo, and Junjie Yao. “Photoacoustic imaging of in vivo
+    hemodynamic responses to sodium nitroprusside.” J Biophotonics 14, no. 7
+    (July 2021): e202000478. https://doi.org/10.1002/jbio.202000478.
+  * Tang, Yuqi, and Junjie Yao. “3D Monte Carlo simulation of light
+    distribution in mouse brain in quantitative photoacoustic computed
+    tomography.” Quantitative Imaging in Medicine and Surgery 11, no. 3 (March
+    2021): 1046–59. https://doi.org/10.21037/qims-20-815.
+  * DiSpirito, Anthony, Daiwei Li, Tri Vu, Maomao Chen, Dong Zhang, Jianwen
+    Luo, Roarke Horstmeyer, and Junjie Yao. “Reconstructing Undersampled
+    Photoacoustic Microscopy Images Using Deep Learning.” Ieee Transactions on
+    Medical Imaging 40, no. 2 (February 2021): 562–70.
+    https://doi.org/10.1109/tmi.2020.3031541.
+  * Li, Mucong, Georgy Sankin, Tri Vu, Junjie Yao, and Pei Zhong. “Tri-
+    modality cavitation mapping in shock wave lithotripsy.” The Journal of the
+    Acoustical Society of America 149, no. 2 (February 2021): 1258.
+    https://doi.org/10.1121/10.0003555.
+  * Li, Mucong, Tri Vu, Georgy Sankin, Brenton Winship, Kohldon Boydston,
+    Russell Terry, Pei Zhong, and Junjie Yao. “Internal-Illumination
+    Photoacoustic Tomography Enhanced by a Graded-Scattering Fiber Diffuser.”
+    Ieee Transactions on Medical Imaging 40, no. 1 (January 2021): 346–56.
+    https://doi.org/10.1109/tmi.2020.3027199.
+  * III, Anthony DiSpirito, Daiwei Li, Tri Vu, Maomao Chen, Dong Zhang,
+    Jianwen Luo, Roarke Horstmeyer, and Junjie Yao. “Reconstructing
+    Undersampled Photoacoustic Microscopy Images Using Deep Learning.” Ieee
+    Trans. Medical Imaging 40 (2021): 562–70.
+    https://doi.org/10.1109/TMI.2020.3031541.
+  * Wu, H., Y. Tang, H. Kim, J. Yao, and X. Jiang. “Fiber based laser
+    ultrasound transducer for intravascular thrombolysis with detective
+    photoacoustic imaging.” In Ieee International Ultrasonics Symposium, Ius,
+    Vol. 2020-September, 2020. https://doi.org/10.1109/IUS46767.2020.9251732.
+  * Yao, J. “Ultrasfast Wide-field Photoacoustic Microscopy of Small-animal
+    Models.” In 2020 Ieee Photonics Conference, Ipc 2020 Proceedings, 2020.
+    https://doi.org/10.1109/IPC47351.2020.9252208.
+  * Li, M., and J. Yao. “Internal-Illumination Photoacoustic Tomography
+    Enhanced by a Graded-scattering Fiber Diffuser.” In 2020 Ieee Photonics
+    Conference, Ipc 2020 Proceedings, 2020.
+    https://doi.org/10.1109/IPC47351.2020.9252241.
+  * Vu, Tri, Mucong Li, Hannah Humayun, Yuan Zhou, and Junjie Yao. “A
+    generative adversarial network for artifact removal in photoacoustic
+    computed tomography with a linear-array transducer.” Experimental Biology
+    and Medicine (Maywood, N.J.) 245, no. 7 (April 2020): 597–605.
+    https://doi.org/10.1177/1535370220914285.
+  * Li, Yang, Lei Li, Liren Zhu, Konstantin Maslov, Junhui Shi, Peng Hu, En
+    Bo, et al. “Snapshot Photoacoustic Topography Through an Ergodic Relay for
+    High-throughput Imaging of Optical Absorption.” Nature Photonics 14, no. 3
+    (March 2020): 164–70. https://doi.org/10.1038/s41566-019-0576-2.
+  * Li, Mucong, Bangxin Lan, Georgii Sankin, Yuan Zhou, Wei Liu, Jun Xia,
+    Depeng Wang, Gregg Trahey, Pei Zhong, and Junjie Yao. “Simultaneous
+    Photoacoustic Imaging and Cavitation Mapping in Shockwave Lithotripsy.”
+    Ieee Transactions on Medical Imaging 39, no. 2 (February 2020): 468–77.
+    https://doi.org/10.1109/tmi.2019.2928740.
+  * Onufer, Emily J., Bola Aladegbami, Toru Imai, Kristen Seiler, Adam
+    Bajinting, Cathleen Courtney, Stephanie Sutton, et al. “EGFR in
+    enterocytes & endothelium and HIF1α in enterocytes are dispensable for
+    massive small bowel resection induced angiogenesis.” Plos One 15, no. 9
+    (January 2020): e0236964. https://doi.org/10.1371/journal.pone.0236964.
+  * Tang, Yuqi, Xuejun Qian, Darrin J. Lee, Qifa Zhou, and Junjie Yao. “From
+    Light to Sound: Photoacoustic and Ultrasound Imaging in Fundamental
+    Research of Alzheimer's Disease.” Obm Neurobiology 4, no. 2 (January
+    2020). https://doi.org/10.21926/obm.neurobiol.2002056.
+  * Vu, Tri, Daniel Razansky, and Junjie Yao. “Listening to tissues with new
+    light: recent technological advances in photoacoustic imaging.” Journal of
+    Optics (2010) 21, no. 10 (October 2019).
+    https://doi.org/10.1088/2040-8986/ab3b1a.
+  * Chen, Maomao, Hailey J. Knox, Yuqi Tang, Wei Liu, Liming Nie, Jefferson
+    Chan, and Junjie Yao. “Simultaneous photoacoustic imaging of intravascular
+    and tissue oxygenation.” Optics Letters 44, no. 15 (August 2019): 3773–76.
+    https://doi.org/10.1364/ol.44.003773.
+  * Liang, Bingyang, Wei Liu, Qiwei Zhan, Mucong Li, Mingwei Zhuang, Qing H.
+    Liu, and Junjie Yao. “Impacts of the murine skull on high-frequency
+    transcranial photoacoustic brain imaging.” Journal of Biophotonics 12, no.
+    7 (July 2019): e201800466. https://doi.org/10.1002/jbio.201800466.
+  * Humayun, Hannah, and Junjie Yao. “Imaging the aged brain: pertinence and
+    methods.” Quantitative Imaging in Medicine and Surgery 9, no. 5 (May
+    2019): 842–57. https://doi.org/10.21037/qims.2019.05.06.
+  * Zhou, Yuan, Mucong Li, Wei Liu, Georgy Sankin, Jianwen Luo, Pei Zhong, and
+    Junjie Yao. “Thermal Memory Based Photoacoustic Imaging of Temperature.”
+    Optica 6, no. 2 (February 2019): 198–205.
+    https://doi.org/10.1364/optica.6.000198.
+  * Lan, Bangxin, Wei Liu, Ya-Chao Wang, Junhui Shi, Yang Li, Song Xu, Huaxin
+    Sheng, et al. “High-speed widefield photoacoustic microscopy of small-
+    animal hemodynamics.” Biomed Opt Express 9, no. 10 (October 1, 2018):
+    4689–4701. https://doi.org/10.1364/BOE.9.004689.
+  * Vienneau, Emelina, Wei Liu, and Junjie Yao. “Dual-view acoustic-resolution
+    photoacoustic microscopy with enhanced resolution isotropy.” Optics
+    Letters 43, no. 18 (September 2018): 4413–16.
+    https://doi.org/10.1364/ol.43.004413.
+  * Shi, Junhui, Yuqi Tang, and Junjie Yao. “Advances in super-resolution
+    photoacoustic imaging.” Quantitative Imaging in Medicine and Surgery 8,
+    no. 8 (September 2018): 724–32. https://doi.org/10.21037/qims.2018.09.14.
+  * Liu, Wei, Daria M. Shcherbakova, Neel Kurupassery, Yang Li, Qifa Zhou,
+    Vladislav V. Verkhusha, and Junjie Yao. “Quad-mode functional and
+    molecular photoacoustic microscopy.” Scientific Reports 8, no. 1 (July
+    2018): 11123. https://doi.org/10.1038/s41598-018-29249-1.
+  * Li, Lei, Anton A. Shemetov, Mikhail Baloban, Peng Hu, Liren Zhu, Daria M.
+    Shcherbakova, Ruiying Zhang, et al. “Small near-infrared photochromic
+    protein for photoacoustic multi-contrast imaging and detection of protein
+    interactions in vivo.” Nature Communications 9, no. 1 (July 2018): 2734.
+    https://doi.org/10.1038/s41467-018-05231-3.
+  * Liu, Wei, Yuan Zhou, Mengran Wang, Lei Li, Emelina Vienneau, Ruimin Chen,
+    Jianwen Luo, et al. “Correcting the limited view in optical-resolution
+    photoacoustic microscopy.” Journal of Biophotonics 11, no. 2 (February
+    2018). https://doi.org/10.1002/jbio.201700196.
+  * Liu, Wei, Bangxin Lan, Leo Hu, Ruimin Chen, Qifa Zhou, and Junjie Yao.
+    “Photoacoustic thermal flowmetry with a single light source.” Journal of
+    Biomedical Optics 22, no. 9 (September 2017): 1–6.
+    https://doi.org/10.1117/1.jbo.22.9.096001.
+  * Brunker, Joanna, Junjie Yao, Jan Laufer, and Sarah E. Bohndiek.
+    “Photoacoustic imaging using genetically encoded reporters: a review.”
+    Journal of Biomedical Optics 22, no. 7 (July 2017).
+    https://doi.org/10.1117/1.jbo.22.7.070901.
+  * Yao, Junjie. “When pressure meets light: detecting the photoacoustic
+    effect at the origin.” Light, Science & Applications 6, no. 6 (June 2017):
+    e17062. https://doi.org/10.1038/lsa.2017.62.
+  * Li, Lei, Liren Zhu, Cheng Ma, Li Lin, Junjie Yao, Lidai Wang, Konstantin
+    Maslov, et al. “Single-impulse Panoramic Photoacoustic Computed Tomography
+    of Small-animal Whole-body Dynamics at High Spatiotemporal Resolution.”
+    Nature Biomedical Engineering 1, no. 5 (January 2017): 0071.
+    https://doi.org/10.1038/s41551-017-0071.
+  * Wang, Lihong V., and Junjie Yao. “A practical guide to photoacoustic
+    tomography in the life sciences.” Nature Methods 13, no. 8 (July 2016):
+    627–38. https://doi.org/10.1038/nmeth.3925.
+  * Zhou, Yong, Junjie Yao, and Lihong V. Wang. “Tutorial on photoacoustic
+    tomography.” Journal of Biomedical Optics 21, no. 6 (June 2016): 61007.
+    https://doi.org/10.1117/1.jbo.21.6.061007.
+  * Lin, Li, Junjie Yao, Lei Li, and Lihong V. Wang. “In vivo photoacoustic
+    tomography of myoglobin oxygen saturation.” Journal of Biomedical Optics
+    21, no. 6 (June 2016): 61002. https://doi.org/10.1117/1.jbo.21.6.061002.
+  * Hai, Pengfei, Junjie Yao, Guo Li, Chiye Li, and Lihong V. Wang.
+    “Photoacoustic elastography.” Optics Letters 41, no. 4 (February 2016):
+    725–28. https://doi.org/10.1364/ol.41.000725.
+  * Yao, Junjie, Andrii A. Kaberniuk, Lei Li, Daria M. Shcherbakova, Ruiying
+    Zhang, Lidai Wang, Guo Li, Vladislav V. Verkhusha, and Lihong V. Wang.
+    “Multiscale photoacoustic tomography using reversibly switchable bacterial
+    phytochrome as a near-infrared photochromic probe.” Nature Methods 13, no.
+    1 (January 2016): 67–73. https://doi.org/10.1038/nmeth.3656.
+  * Yao, Junjie, Lidai Wang, Joon-Mo Yang, Konstantin I. Maslov, Terence T. W.
+    Wong, Lei Li, Chih-Hsien Huang, Jun Zou, and Lihong V. Wang. “High-speed
+    label-free functional photoacoustic microscopy of mouse brain in action.”
+    Nature Methods 12, no. 5 (May 2015): 407–10.
+    https://doi.org/10.1038/nmeth.3336.
+  * Yao, Junjie, Liang Song, and Lihing V. Wang. “Photoacoustic microscopy:
+    superdepth, superresolution, and superb contrast.” Ieee Pulse 6, no. 3
+    (May 2015): 34–37. https://doi.org/10.1109/mpul.2015.2409100.
+  * Xia, Jun, Junjie Yao, and Lihong V. Wang. “Photoacoustic tomography:
+    principles and advances.” Electromagnetic Waves (Cambridge, Mass.) 147
+    (January 2014): 1–22. https://doi.org/10.2528/pier14032303.
+  * Wang, Lidai, Junjie Yao, Konstantin I. Maslov, Wenxin Xing, and Lihong V.
+    Wang. “Ultrasound-heated photoacoustic flowmetry.” Journal of Biomedical
+    Optics 18, no. 11 (November 2013): 117003.
+    https://doi.org/10.1117/1.jbo.18.11.117003.
+  * Yao, Junjie, and Lihong V. Wang. “Photoacoustic Microscopy.” Laser &
+    Photonics Reviews 7, no. 5 (September 2013).
+    https://doi.org/10.1002/lpor.201200060.
+  * Zhang, Ruiying, Junjie Yao, Konstantin I. Maslov, and Lihong V. Wang.
+    “Structured-illumination photoacoustic Doppler flowmetry of axial flow in
+    homogeneous scattering media.” Applied Physics Letters 103, no. 9 (August
+    2013): 94101. https://doi.org/10.1063/1.4819735.
+  * Zhou, Yong, Junjie Yao, and Lihong V. Wang. “Optical clearing-aided
+    photoacoustic microscopy with enhanced resolution and imaging depth.”
+    Optics Letters 38, no. 14 (July 2013): 2592–95.
+    https://doi.org/10.1364/ol.38.002592.
+  * Rowland, Kathryn J., Junjie Yao, Lidai Wang, Christopher R. Erwin,
+    Konstantin I. Maslov, Lihong V. Wang, and Brad W. Warner. “Up-regulation
+    of hypoxia-inducible factor 1 alpha and hemodynamic responses following
+    massive small bowel resection.” Journal of Pediatric Surgery 48, no. 6
+    (June 2013): 1330–39. https://doi.org/10.1016/j.jpedsurg.2013.03.031.
+  * Cai, Xin, Yu Zhang, Li Li, Sung-Wook Choi, Matthew R. MacEwan, Junjie Yao,
+    Chulhong Kim, Younan Xia, and Lihong V. Wang. “Investigation of
+    neovascularization in three-dimensional porous scaffolds in vivo by a
+    combination of multiscale photoacoustic microscopy and optical coherence
+    tomography.” Tissue Engineering. Part C, Methods 19, no. 3 (March 2013):
+    196–204. https://doi.org/10.1089/ten.tec.2012.0326.
+  * Yao, Junjie, Jun Xia, Konstantin I. Maslov, Mohammadreza Nasiriavanaki,
+    Vassiliy Tsytsarev, Alexei V. Demchenko, and Lihong V. Wang. “Noninvasive
+    photoacoustic computed tomography of mouse brain metabolism in vivo.”
+    Neuroimage 64 (January 2013): 257–66.
+    https://doi.org/10.1016/j.neuroimage.2012.08.054.
+  * Huang, Chih-Hsien, Junjie Yao, Lihong V. Wang, and Jun Zou. “A water-
+    immersible 2-axis scanning mirror microsystem for ultrasound andha
+    photoacoustic microscopic imaging applications.” Microsystem Technologies
+    : Sensors, Actuators, Systems Integration 19, no. 4 (January 2013):
+    577–82. https://doi.org/10.1007/s00542-012-1660-4.
+  * Zhang, Chi, Konstantin Maslov, Junjie Yao, and Lihong V. Wang. “In vivo
+    photoacoustic microscopy with 7.6-µm axial resolution using a commercial
+    125-MHz ultrasonic transducer.” Journal of Biomedical Optics 17, no. 11
+    (November 2012): 116016. https://doi.org/10.1117/1.jbo.17.11.116016.
+  * Yang, Joon-Mo, Ruimin Chen, Christopher Favazza, Junjie Yao, Chiye Li,
+    Zhilin Hu, Qifa Zhou, K Kirk Shung, and Lihong V. Wang. “A 2.5-mm diameter
+    probe for photoacoustic and ultrasonic endoscopy.” Optics Express 20, no.
+    21 (October 2012): 23944–53. https://doi.org/10.1364/oe.20.023944.
+  * Yao, Junjie, Chih-Hsien Huang, Lidai Wang, Joon-Mo Yang, Liang Gao,
+    Konstantin I. Maslov, Jun Zou, and Lihong V. Wang. “Wide-field fast-
+    scanning photoacoustic microscopy based on a water-immersible MEMS
+    scanning mirror.” Journal of Biomedical Optics 17, no. 8 (August 2012):
+    080505–080501. https://doi.org/10.1117/1.jbo.17.8.080505.
+  * Yang, Joon-Mo, Christopher Favazza, Ruimin Chen, Junjie Yao, Xin Cai,
+    Konstantin Maslov, Qifa Zhou, K Kirk Shung, and Lihong V. Wang.
+    “Simultaneous functional photoacoustic and ultrasonic endoscopy of
+    internal organs in vivo.” Nature Medicine 18, no. 8 (August 2012):
+    1297–1302. https://doi.org/10.1038/nm.2823.
+  * Yao, Junjie, Konstantin I. Maslov, and Lihong V. Wang. “In vivo
+    photoacoustic tomography of total blood flow and potential imaging of
+    cancer angiogenesis and hypermetabolism.” Technology in Cancer Research &
+    Treatment 11, no. 4 (August 2012): 301–7.
+    https://doi.org/10.7785/tcrt.2012.500278.
+  * Rowland, Kathryn J., Junjie Yao, Lidai Wang, Christopher R. Erwin,
+    Konstantin I. Maslov, Lihong V. Wang, and Brad W. Warner. “Immediate
+    alterations in intestinal oxygen saturation and blood flow after massive
+    small bowel resection as measured by photoacoustic microscopy.” Journal of
+    Pediatric Surgery 47, no. 6 (June 2012): 1143–49.
+    https://doi.org/10.1016/j.jpedsurg.2012.03.020.
+  * Krumholz, Arie, Lidai Wang, Junjie Yao, and Lihong V. Wang. “Functional
+    photoacoustic microscopy of diabetic vasculature.” Journal of Biomedical
+    Optics 17, no. 6 (June 2012): 060502.
+    https://doi.org/10.1117/1.jbo.17.6.060502.
+  * Yao, Junjie, Konstantin I. Maslov, Ernest R. Puckett, Kathryn J. Rowland,
+    Brad W. Warner, and Lihong V. Wang. “Double-illumination photoacoustic
+    microscopy.” Optics Letters 37, no. 4 (February 2012): 659–61.
+    https://doi.org/10.1364/ol.37.000659.
+  * Filonov, Grigory S., Arie Krumholz, Jun Xia, Junjie Yao, Lihong V. Wang,
+    and Vladislav V. Verkhusha. “Deep-tissue photoacoustic tomography of a
+    genetically encoded near-infrared fluorescent probe.” Angewandte Chemie
+    (International Ed. in English) 51, no. 6 (February 2012): 1448–51.
+    https://doi.org/10.1002/anie.201107026.
+  * Tsytsarev, Vassiliy, Konstantin I. Maslov, Junjie Yao, Archana R.
+    Parameswar, Alexei V. Demchenko, and Lihong V. Wang. “In vivo imaging of
+    epileptic activity using 2-NBDG, a fluorescent deoxyglucose analog.”
+    Journal of Neuroscience Methods 203, no. 1 (January 2012): 136–40.
+    https://doi.org/10.1016/j.jneumeth.2011.09.005.
+  * Chatni, Muhammad Rameez, Junjie Yao, Amos Danielli, Christopher P.
+    Favazza, Konstantin I. Maslov, and Lihong V. Wang. “Functional
+    photoacoustic microscopy of pH.” Journal of Biomedical Optics 16, no. 10
+    (October 2011): 100503. https://doi.org/10.1117/1.3644495.
+  * Yao, Junjie, and Lihong V. Wang. “Photoacoustic tomography: fundamentals,
+    advances and prospects.” Contrast Media & Molecular Imaging 6, no. 5
+    (September 2011): 332–45. https://doi.org/10.1002/cmmi.443.
+  * Krumholz, Arie, Sarah J. Vanvickle-Chavez, Junjie Yao, Timothy P. Fleming,
+    William E. Gillanders, and Lihong V. Wang. “Photoacoustic microscopy of
+    tyrosinase reporter gene in vivo.” Journal of Biomedical Optics 16, no. 8
+    (August 2011): 080503. https://doi.org/10.1117/1.3606568.
+  * Oladipupo, Sunday, Song Hu, Joanna Kovalski, Junjie Yao, Andrea Santeford,
+    Rebecca E. Sohn, Ralph Shohet, Konstantin Maslov, Lihong V. Wang, and
+    Jeffrey M. Arbeit. “VEGF is essential for hypoxia-inducible factor-
+    mediated neovascularization but dispensable for endothelial sprouting.”
+    Proceedings of the National Academy of Sciences of the United States of
+    America 108, no. 32 (August 2011): 13264–69.
+    https://doi.org/10.1073/pnas.1101321108.
+  * Tsytsarev, Vassiliy, Song Hu, Junjie Yao, Konstantin Maslov, Dennis L.
+    Barbour, and Lihong V. Wang. “Photoacoustic microscopy of microvascular
+    responses to cortical electrical stimulation.” Journal of Biomedical
+    Optics 16, no. 7 (July 2011): 076002. https://doi.org/10.1117/1.3594785.
+  * Yao, Junjie, Konstantin I. Maslov, Yu Zhang, Younan Xia, and Lihong V.
+    Wang. “Label-free oxygen-metabolic photoacoustic microscopy in vivo.”
+    Journal of Biomedical Optics 16, no. 7 (July 2011): 076003.
+    https://doi.org/10.1117/1.3594786.
+  * Oladipupo, Sunday S., Song Hu, Andrea C. Santeford, Junjie Yao, Joanna R.
+    Kovalski, Ralph V. Shohet, Konstantin Maslov, Lihong V. Wang, and Jeffrey
+    M. Arbeit. “Conditional HIF-1 induction produces multistage
+    neovascularization with stage-specific sensitivity to VEGFR inhibitors and
+    myeloid cell independence.” Blood 117, no. 15 (April 2011): 4142–53.
+    https://doi.org/10.1182/blood-2010-09-307538.
+  * Wang, Lidai, Konstantin Maslov, Junjie Yao, Bin Rao, and Lihong V. Wang.
+    “Fast voice-coil scanning optical-resolution photoacoustic microscopy.”
+    Optics Letters 36, no. 2 (January 2011): 139–41.
+    https://doi.org/10.1364/ol.36.000139.
+  * Kim, Chulhong, Hyon-Min Song, Xin Cai, Junjie Yao, Alexander Wei, and
+    Lihong V. Wang. “In vivo photoacoustic mapping of lymphatic systems with
+    plasmon-resonant nanostars.” Journal of Materials Chemistry 21, no. 9
+    (January 2011): 2841–44. https://doi.org/10.1039/c0jm04194g.
+  * Yao, Junjie, Konstantin I. Maslov, Yunfei Shi, Larry A. Taber, and Lihong
+    V. Wang. “In vivo photoacoustic imaging of transverse blood flow by using
+    Doppler broadening of bandwidth.” Optics Letters 35, no. 9 (May 2010):
+    1419–21. https://doi.org/10.1364/ol.35.001419.
+  * Yao, Junjie, and Lihong V. Wang. “Transverse flow imaging based on
+    photoacoustic Doppler bandwidth broadening.” Journal of Biomedical Optics
+    15, no. 2 (March 2010): 021304. https://doi.org/10.1117/1.3339953.
+  * Yao, Junjie, Konstantin Maslov, Song Hu, and Lihong V. Wang. “Evans blue
+    dye-enhanced capillary-resolution photoacoustic microscopy in vivo.”
+    Journal of Biomedical Optics 14, no. 5 (September 2009): 054049.
+    https://doi.org/10.1117/1.3251044.
+  * Song, X. L., G. Hu, J. J. Yao, and J. Bai. “Three-dimensional
+    reconstruction for fluorescence tomography using cylinder phantoms.” Ruan
+    Jian Xue Bao/Journal of Software 20, no. 5 (May 1, 2009): 1089–95.
+    https://doi.org/10.3724/SP.J.1001.2009.03560.
+  * Yao, J. J., G. Hu, and J. Bai. “Modeling and validation of light
+    propagation in free-space for non-contact near-infrared fluorescent
+    tomography.” Hongwai Yu Haomibo Xuebao/Journal of Infrared and Millimeter
+    Waves 27, no. 5 (October 1, 2008).
+  * Yao, J. J., G. Hu, S. H. Yue, and J. Bai. “A 3D-surface torso
+    reconstruction method used in fluorescence molecular tomography of small
+    animals.” Chinese Journal of Biomedical Engineering 27, no. 3 (June 1,
+    2008): 360–65.
+  * Hu, G., J. Yao, and J. Bai. “Full-angle optical imaging of near-infrared
+    fluorescent probes implanted in small animals.” Progress in Natural
+    Science 18, no. 6 (January 1, 2008): 707–11.
+    https://doi.org/10.1016/j.pnsc.2007.11.021.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

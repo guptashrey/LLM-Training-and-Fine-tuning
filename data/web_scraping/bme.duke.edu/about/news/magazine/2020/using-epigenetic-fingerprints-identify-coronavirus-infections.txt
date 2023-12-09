@@ -1,0 +1,243 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Using Epigenetic “Fingerprints” to Identify Coronavirus Infections
+
+October 7, 2020 | Michaela Kane
+
+In a DARPA-funded project, Duke BME’s Xiling Shen and collaborators across the
+U.S. are designing a diagnostic test that aims to identify coronavirus
+carriers early and predict the symptom severity
+
+This illustration, created at the Centers for Disease Control and Prevention
+(CDC), reveals the structure of the coronavirus.
+
+The most common diagnostic tests for coronavirus involve a nasal swab that
+tests for the presence of the virus in the upper respiratory tract, or an
+antibody test, which identifies if a patient has developed antibodies to the
+virus. The nasal swab is often a hit-or-miss as it takes weeks to develop
+antibodies after the onset of infection.
+
+But Xiling Shen, the Hawkins Family Associate Professor of Biomedical
+Engineering, Chris Woods, MD, the chief of the infectious disease division and
+associate director of the Center for Applied Genomics and Precision Medicine,
+and a team of collaborators at Mount Sinai hope to address this problem by
+developing a new diagnostic test to identify carriers of the coronavirus
+before they become contagious and spread the disease and to predict whether
+their symptom will be severe enough to require ICU care.
+
+“The current diagnostics for COVID-19 mainly focus on detecting the virus’s
+DNA or virus antibodies, both of which can take days or weeks to develop in
+large enough quantities to measure,” says Shen. “Rather than look for these
+specific viral markers, we wanted to develop a test that looks for more
+immediate changes in our own immune system as the body responds to a
+coronavirus infection.
+
+> “These changes take place as early as 24 hours after the virus enters the
+> system, and right now our understanding is that a carrier isn’t contagious
+> until several days after infection. We’d also be able to use these changes
+> to identify if a case is more likely to progress to a severe infection.”
+>
+> Xiling Shen
+
+The diagnostic was developed through MEMENTO (Mapping Epigenetic Memory of
+Exposure to Observe), a project supported by the Defense Advanced Research
+Projects Agency’s (DARPA) new Epigenetic CHaracterization and Observation
+(ECHO) program. Launched in September of 2019, ECHO aims to support
+researchers as they build a field-deployable device that can test small
+biological samples––like a drop of blood or a nasal swab––for evidence of
+epigenetic changes that reveal a detailed history of an individual’s expose to
+dangerous materials or pathogens.
+
+After the global explosion of coronavirus cases in early 2020, the research
+teams focused on adapting this work to address the growing pandemic.
+
+Xiling Shen
+
+“Dr. Chris Woods and his team collected blood samples from patients who had
+tested positive for the coronavirus,” says Shen. “Rather than just collect
+samples from patients in the ICU, they collected samples from individuals who
+were exposed to the virus but remained asymptomatic and from patients who only
+developed mild symptoms and never needed to go to the hospital.”
+
+“They took samples on the day of diagnosis, three days out, a week out, two
+weeks out and three weeks out, which allowed them to track the disease
+progression and gave us the power to explore if there were certain signs about
+patients that may progress to a severe disease,” he says.
+
+Shen and his team in Duke’s Center for Genomic and Computational Biology then
+analyzed the samples for epigenetic changes to the cells in the immune system.
+
+“When we say we’re looking for epigenetic changes, we’re essentially looking
+for a modification or a ‘fingerprint’ on the cell, which indicates when the
+cell has responded to external stimuli,” says Shen. “We can see if an
+individual cell has sensed a threat, or if it has energized itself to fight a
+virus. We also know that certain cells, like immune cells or blood cells,
+respond to COVID-19 very specifically, and our single-cell technology allows
+us to track how certain cell types respond out of a wider population.
+
+Shen and his team used these epigenetic fingerprints to identify potential
+biomarkers for coronavirus infection and signals for a more severe infection.
+Working with DARPA and industrial partners, the team hopes to rapidly
+implement these biomarkers into clinical diagnostic platforms.
+
+“Our collaboration with DARPA gives us a direct path towards clinical
+applications and expedited FDA approval,” says Shen. “If this test is
+approved, we’d be able to let people know that they’re infected days earlier
+than the current standard. We’re excited about its potential to fill a big gap
+in testing.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

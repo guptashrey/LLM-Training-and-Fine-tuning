@@ -1,0 +1,388 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# The World's Coolest T-Shirt
+
+August 30, 2019
+
+Materials engineer Po-Chun Hsu is developing textiles that heat and cool at
+the personal level—a scaled-back approach to climate control that could help
+curb emissions in the U.S.
+
+## Listen
+
+## Transcript
+
+M. Volborth: This is Rate of Change, a podcast from Duke Engineering dedicated
+to the ingenious ways that engineers are solving society's toughest problems.
+I'm Miranda Volborth.
+
+M. Volborth: To tackle the really huge issues facing human civilization;
+climate change, disease, poverty, you have to be able to venture outside the
+established parameters, try different approaches, search out new paths. You
+have to be a bit of a rebel.
+
+M. Volborth: Po-Chun Hsu isn't who you probably imagined when you think
+"rebel." He has short, hair-colored hair, nice shoes and no visible tattoos.
+But Po-Chun, at the age of 18, did something so crazy and so different from
+what was expected of him, that it made him kind of famous in his native
+Taiwan.
+
+Po-Chun Hsu: Yeah, of course as a high schooler you are curious about
+everything. And what interested me the most ... that was sneakers. I remember
+there was a pair which has like a very beautifully special iridescent color,
+and I couldn't help but wondering what that was. What's the material inside?
+
+M. Volborth: Do you still have those sneakers?
+
+Po-Chun Hsu: No.
+
+M. Volborth: It was that bewitching pair of holographic sneakers that set Po-
+Chun on on his path to rebellion.
+
+Po-Chun Hsu: In Taiwan we have the so-called "entrance exam," which is kind of
+like SAT in the US. You take the test, get a score and apply for schools based
+on the scores, your GPA and other stuff. In Taiwan it's a department who gives
+the admission, not the university. So that means the high schooler really need
+to decide the major before entering the college. But most people just use
+their scores to apply to whatever school has the highest score threshold. So
+for me, I knew I liked material science very much, so I just decided to go
+straight to do that.
+
+M. Volborth: Po-Chun will not say this outright, but he was the top student in
+his graduating year nationally. And he chose to go into materials science even
+though he would have been admitted to departments with higher thresholds, like
+medicine or electrical engineering.
+
+M. Volborth: Pursuing one's passions, Po-Chun told me, was not the norm in
+Taiwan at that time. And people went crazy, telling him that he was wasting
+his high score and that he was going to regret the decision that he was
+making.
+
+M. Volborth: Fast forward to 2019. Po-Chun is living the dream— his dream
+anyway—as a new faculty member at Duke University in the Department of
+Mechanical Engineering and Material Science. His research lab works on light
+and heat management focusing on dynamic controls.
+
+Po-Chun Hsu: Imagine— so you can see things through a thermal camera. That
+means we are radiating a lot of heat, which can be captured by the infrared
+camera. And what I'm doing is, instead of just letting that radiation come out
+without any control, if we can block that radiation, then we can keep the heat
+around you, make you feel warmer. And if you can maximize that radiation
+freely transmitting to the ambient, meaning we can make you feel much, much
+cooler.
+
+M. Volborth: Here's why this topic is so important and why Po-Chun's research
+holds so much potential to serve society. Right now in the US space heating
+and cooling accounts for 14% of our total energy consumption. That's 648
+million tons of CO2 produced every year just from heating and cooling. Our
+dependence upon indoor climate control produces a very troubling feedback loop
+in which these huge CO2 emissions contribute to global warming, which in turn
+causes us to use more power to keep our environments cool, which leads to more
+emissions and more climate change.
+
+Po-Chun Hsu: So the reason that space heating and cooling consume so much
+energy is because we are trying to heat up or cool down the entire building,
+which is gigantic compared to our body area and volume inside. So personal
+thermal management is really to locally regulate the thermal comfort around
+the residents and ignore the empty space and all of the objects.
+
+M. Volborth: What he's saying is, that if we could just create our own little
+climate controlled bubbles, we'd save a ton of energy because we wouldn't be
+heating or cooling empty space.
+
+Po-Chun Hsu: If you do the math and calculate what's required energy to
+provide the comfortable environment just around us, not the entire building,
+you get the number about 10 times off. That means what we are consuming, which
+is the 14%, we actually need just 1.4% use of that. So there's a huge room for
+improvement. And my approach is to engineer the textile so they have special
+properties that can either maximize or minimize the thermal radiation heat
+loss.
+
+M. Volborth: He approaches textile engineering at the nano scale, making
+polyethylene into nano porous fibers that allow water and air to pass freely
+through the textile or using metal nano wires to trap heat.
+
+Po-Chun Hsu: The reason we made it into nano porous is to make it soft enough
+and also breathable. So as long as we make into a fiber shade and we spin into
+yarns, the textile that's woven out of that, it's really soft and as
+comfortable as cotton.
+
+Po-Chun Hsu: So again, mainly the wires are to provide an infrared or thermal
+radiation shield, so that can reflect your infrared back. And the reason of
+using nano wires, again, is to keep your textile breathable. Because now we
+are having a network which has not enough pores for water and for moisture to
+transport, but is small enough to reflect the radiation.
+
+Po-Chun Hsu: And the principal is like— everyone has a microwave oven. And on
+the door there's a mesh of metal with tiny holes, so you can see through the
+tiny holes so you can see whether your food is cooked or not. The microwave
+cannot escape from the oven. So imagine those meshes are now nano scale. What
+we are doing is, we have those nano wire to block the infrared, and now the
+smaller things like a water molecule or air molecule can freely pass through.
+And wearing those textiles during wintertime or summertime means you can
+reduce the usage of space heating or cooling but still feel the same,
+similarly comfortable environment. And you are wearing very lightweight
+clothing.
+
+Po-Chun Hsu: So, exactly how much energy is saving will depend on the climate
+zone you are in. But generally speaking, increasing the air conditioner
+setpoint or decreasing the heater set point by one degree Celsius can save
+about 10%. And our cooling textile can save about 30% of the energy and
+heating can save about 50% of the energy.
+
+M. Volborth: Has anybody tried to wear that textile?
+
+Po-Chun Hsu: Yeah, we actually put those raw material and ask the outside
+factory to make a real woven textile for us. From my personal point of view,
+it's not distinguishable between our textile and traditional cotton textile.
+
+M. Volborth: Really?
+
+Po-Chun Hsu: It's soft, it's lightweight. I think the only difference is you
+feel much cooler.
+
+M. Volborth: So do you have your own T-shirts at home?
+
+Po-Chun Hsu: It was probably $1,000 to make, so I don't keep one. It still
+comes down to whether these processes can be compatible with the current
+milling and fiber spinning factories. But we are quite confident that with a
+given market search and given a volume... problem, this really can combine
+with traditional textile industry and in a scalable way.
+
+M. Volborth: After working on ultra heating and ultra cooling, he took it a
+step further and started working on reversible textiles that can heat on one
+side, and when you flip them over they can cool on the other side.
+
+Po-Chun Hsu: Radiation is a surface property, just like colors. We know things
+can have different colors, although they have the same bulkiness and same
+porosity. So this reversible thermal textile is the first demonstration how
+radiation heat management can achieve something that cannot be done by
+traditional textile.
+
+Po-Chun Hsu: And that leads us to the next stage of research, which is to
+expand this to an ability and tuneable range to become even smarter than
+similar textile and to take advantage of the dynamic environment for more
+energy saving. Why it's simple is to combine some radiation control with
+sunlight control. And when we place those textile to, for example, the rooftop
+or tent material, it can absorb the sunlight and reduce thermal radiation loss
+for heating during wintertime. And in the summertime you can do the opposite,
+which is to reflect sunlight and promote some radiation loss for efficient
+cooling. And this dynamic smart textile material can save energy from a
+different approach by manipulating a different special property, which is
+sunlight and thermal radiation.
+
+M. Volborth: So that material in that application would need to be tuneable by
+somebody controlling it, right?
+
+Po-Chun Hsu: Right. Because we are living a constantly changing environment.
+Winter, summer, and even daytime, fluctuation can be something like 20 degrees
+Fahrenheit sometimes. So it's really important to have something that's smart
+enough to maintain, to keep up with the change. And you can provide the
+maximum comfort for human being or the maximum energy saving for the building.
+
+M. Volborth: Can you tell me about the different ways that that material could
+be tuneable?
+
+Po-Chun Hsu: Yeah, so we are exploring a variety of different options. For
+example, we can do it in a mechanical way by stretching or compressing. We can
+have different optical properties and we also try to use electricity to
+control or to induce such change.
+
+M. Volborth: Where do you expect your research to be five years from now?
+
+Po-Chun Hsu: Yeah, so of course we're going to push the performance higher and
+higher, making them hotter or cooler, but I also anticipated to combine the
+dynamically controlled thermal textile with a wearable sensor to provide
+optimal thermal comfort to the users. Or we can sort of close this controlling
+loop by feeding those physiological and environmental data to the textile and
+then the textile itself to adjust the optimal thermal property to fit the
+preference of the users.
+
+M. Volborth: At this point in my conversation with Po-Chun I started
+daydreaming about things like blankets that adjusted my body temperature
+throughout the night. It just seems that there are so many possibilities that
+haven't been explored.
+
+Po-Chun Hsu: Yeah. Whenever I think about this textile research I have a very
+strange feeling, because I know textile has been around with us for thousands
+of years. And if you compare that with electronics, say smartphone laptops,
+which is only decades, but we expecting more out of electronics than our
+textiles. So for us it's really interesting to say, "Okay, what if we put our
+effort which is in the electronic, but now we're putting it into textile? How
+much can we achieve?" One example would be, let's say if your textile can be
+linked to your calendar. Who knows where you are traveling next, what's the
+weather there? And what's the temperature? So the textile can warm up or cool
+down before you really arrive. Or it can sense your blood pressure or sense
+your health condition, so when you wake up in the middle of night, it will
+warm up so you won't catch cold.
+
+Po-Chun Hsu: 20 years from now. I want to see our textile development is as
+progressive as the electronics and other smart technology right now. One of
+the most important thing is for cardiovascular diseases, which is I think
+still a top one or two fatal diseases globally. And for those kinds of
+diseases really important to prevent the happening compared to curing it. And
+I think one of the approaches is to really provide a comfortable and the
+stable thermal environment, so there's no sudden increase of blood pressure
+and there is no sudden change in those in those the environment. And I think I
+want to use this textile as a preventive medicine kind of like combining with
+the health sensors so it can really prevent the occurrence of those a heart
+attack and brain stroke and that kind of diseases.
+
+M. Volborth: Remember how I said that Po-Chun is kind of famous in Taiwan?
+Right after he started at Duke there was a massive spike in the number of
+views to his faculty webpage. So many in fact that we initially thought our
+web traffic data was wrong. Most of the traffic originated in Taiwan where
+people are tracking Po-Chun's career, eager to see how the choices this
+rebellious researcher made 15 years ago are now playing out. And there was a
+lot of chatter online about how his career was shaping up.
+
+Po-Chun Hsu: When you do something different you expect a lot of different
+opinions. And some people of course were happy for me, finally seeing some
+young person fulfilling his dream. I've heard some other people feel like even
+though I'm doing research, I'm a professor right now, they still kind of judge
+me based on the, for example, the salary and other stuff that I don't really
+care about. So it's really about the values that people people have in their
+mind. But I feel like if I can set a small example of what you can possibly
+also achieve if you are as rebellious and as stubborn enough like me, then you
+can one day do whatever you like. And don't take other critics too seriously,
+because they're not the one who was going to live your life, you are.
+
+M. Volborth: So what do you think is the future of Po-Chun's research? A few
+years from now will you own a jacket whose properties you control with your
+smartphone? Will our tuneable rooftops help keep our offices a stable 70
+degrees? Will Po-Chun have made a dent in the world's energy consumption?
+
+M. Volborth: Thanks for listening. Subscribe for updates from Duke
+Engineering. And if you learned something from this podcast, please share it
+with others.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Po-Chun Hsu
+
+Adjunct Assistant Professor in the Thomas Lord Department of Mechanical
+Engineering and Materials Science
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

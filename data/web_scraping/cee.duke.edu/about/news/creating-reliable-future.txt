@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Creating a Reliable Future
+
+October 18, 2021
+
+Now in his 47th year at Duke University, Kishor Trivedi is still on a
+mission—to educate practicing engineers about the best hardware-software
+reliability assessment tools available, and to create some new ones of his own
+
+Kishor Trivedi has published four books on his favorite computing
+topic—reliability—and last year, he was honored with the IEEE Reliability
+Society Lifetime Achievement Award, in recognition of sustained contributions
+to the methods, tools and education in the reliability assessment of hardware-
+software systems.
+
+Yet the most prized memory of his career isn’t of receiving an award or seeing
+his name on the dust jacket of a textbook fresh on the press. It’s of a
+handshake that happened in Hawaii in 1988.
+
+“When I was a young professor in computer science, I was given a probability
+course to teach, but there was no corresponding textbook,” said Trivedi, now
+the Hudson Distinguished Professor of Electrical and Computer Engineering at
+Duke. “I started looking through all the existing literature and collecting
+lots of examples from computing that would fit. I started to give these notes
+to the students, then computerized them around 1977.”
+
+Soon, he was putting together the first textbook on the subject of probability
+for computer and reliability engineers.
+
+At the time, Trivedi reminded, print quality was not very good. The way a
+printer would create an “alpha” (a) indicating a variable was to print an “o”
+flanked by a “<.” The textbook’s reviewer—Dr. Richard Hamming, the famed
+mathematician who developed Hamming code and created the Hamming port—griped
+about the low-quality print job, but nonetheless received the book’s ideas
+favorably.
+
+_Probability and Statistics with Reliability, Queuing and Computer Science
+Applications_ was published in 1982. Around 1988, Trivedi traveled to the
+Hawaii International Conference on System Sciences, where he spotted a tall
+man dressed in white: Hamming. Trivedi introduced himself, and Hamming greeted
+him with a handshake, saying, “You’re the fellow who wrote that book!”
+
+“It was like meeting a rock star,” said Trivedi, who still smiles when he
+recounts the meeting.
+
+Over the course of his career, Trivedi has remained starry-eyed about the
+subject of reliability in general. And the topic is more relevant than ever,
+as software has made its way from traditional computing into nearly every
+facet of modern life.
+
+**Accurate Predictions of Performance Depend on Realistic Projections of
+Reliability**
+
+“The size of software in systems over time resembles a hockey stick,” said
+Trivedi. The amount of software in systems like aerospace was small at first,
+and growth curved gently upward like the blade of a hockey stick. In current
+day systems, software has taken off like a rocket. Now, financial and medical
+records are software-dependent, as is critical infrastructure including power,
+water and fuel.
+
+Software’s exponential growth isn’t itself a problem, said Trivedi—but the
+people evaluating the software’s trustworthiness tend to overestimate how well
+it will perform, and that could lead to a software-driven crisis in the near
+future.
+
+Often, he explained, evaluators use overly simple techniques that assume the
+perfect independence of each of the system’s components. “In fact,” Trivedi
+explained, “the system is composed of interdependent components, and
+dependency generally brings down the level of actual reliability.”
+
+> Overestimating a program’s reliability, unsurprisingly, can lead to
+> overinflated confidence in a system’s ability to perform as it should.
+
+Overestimating a program’s reliability, unsurprisingly, can lead to
+overinflated confidence in a system’s ability to perform as it should, and so
+for nearly 50 years Trivedi has been on mission to educate practicing
+engineers about more robust reliability assessment techniques and tools, and
+create some of his own.
+
+“Practicing engineers tend to use simple reliability block diagrams and fault
+trees models, which depend on unrealistic assumptions about independence,”
+said Trivedi. To better capture extent of dependence among system components,
+more advanced models like Markov chains are required, but Trivedi said there
+are significant obstacles to deploying them. “Understanding of these models
+generally is poor, and commercially available tools offer a shiny user
+interface but do not have a lot going on beneath the hood,” said Trivedi.
+
+Trivedi’s approach is multi-level, combining the efficiency and simplicity of
+reliability block diagram and fault trees with the advanced capability of
+Markov models. This was the topic of his 2017 book and the central theme of
+his SHARPE tool, which counts Boeing, Honda, GE and numerous universities
+among its 1000-plus users. It was also the focus of a four-week intensive
+study program for engineers at the Air Force Ground Based Strategic Deterrent,
+or GBSD, a land-based intercontinental ballistic missile system that is being
+developed for readiness in 2023. Needless to say, there’s no margin for error
+with this system, so Trivedi led the course to introduce the sophisticated
+probabilistic modeling techniques and tools that would enable DoD hardware and
+software engineers to most accurately gauge its reliability.
+
+The first two weeks covered reliability modeling methods and applications to
+real-world problems, primarily based on his 2017 book. In the second two
+weeks, focus shifted to making software more reliable. For this, Trivedi
+invited 21 other experts, each with their own specific focus, to contribute to
+the comprehensive crash course.
+
+The participants were largely unfamiliar with the material and methods Trivedi
+and his colleagues covered, so Trivedi said he feels encouraged knowing the
+whole gamut was professionally recorded for posterity, and that future GBSD
+engineers will also be able to tap into that wealth of knowledge.
+
+“Software reliability is going to continue to be a problem,” warned Trivedi,
+“and we need to continue to put our heads together to look at all the
+different methods available to us and combine them in new ways to get the best
+and most reliable software possible.”
+
+More News from ECE
+
+## Related News
+
+December 14, 2020
+
+### Trivedi Wins IEEE Reliability Society Lifetime Achievement Award
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

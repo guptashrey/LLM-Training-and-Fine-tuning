@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# “Virtual Pillars” Separate and Sort Blood-Based Nanoparticles
+
+December 2, 2022 | By Ken Kingery
+
+Sorting biological nanoparticles 500 times thinner than a human hair could
+improve a wide variety of diagnostics and treatments
+
+Engineers at Duke University have developed a device that uses sound waves to
+separate and sort the tiniest particles found in blood in a matter of minutes.
+The technology is based on a concept called “virtual pillars” and could be a
+boon to both scientific research and medical applications.
+
+Tiny biological nanoparticles called “small extracellular vesicles” (sEVs) are
+released from every type of cell in the body and are believed to play a large
+role in cell-to-cell communication and disease transmission. The new
+technology, dubbed Acoustic Nanoscale Separation via Wave-pillar Excitation
+Resonance, or ANSWER for short, not only pulls these nanoparticles from
+biofluids in under 10 minutes, it also sorts them into size categories
+believed to have distinct biological roles.
+
+The results appeared online November 23 in the journal Science Advances.
+
+“These nanoparticles have significant potential in medical diagnosis and
+treatment, but the current technologies for separating and sorting them take
+several hours or days, are inconsistent, produce low yield or purity, suffer
+from contamination and sometimes damage the nanoparticles,” said Tony Jun
+Huang, the William Bevan Distinguished Professor of Mechanical Engineering and
+Materials Science at Duke.
+
+> “We want to make extracting and sorting high-quality sEVs as simple as
+> pushing a button and getting the desired samples faster than it takes to
+> take a shower."
+>
+> tony jun huang
+
+“We want to make extracting and sorting high-quality sEVs as simple as pushing
+a button and getting the desired samples faster than it takes to take a
+shower,” Huang said.
+
+Recent research indicates that sEVs are comprised of several subgroups with
+distinct sizes (e.g., smaller than 50 nanometers, between 60 and 80
+nanometers, and between 90 and 150 nanometers). Each size is believed to have
+different biological properties.
+
+The recent discovery of sEV subpopulations has excited researchers because of
+their potential to revolutionize the field of non-invasive diagnostics, such
+as the early detection of cancer and Alzheimer’s disease. But the particles
+haven’t found their way into clinical settings yet.
+
+Huang said this is largely due to the difficulties associated with separating
+and isolating these nano-sized sEV subpopulations. To meet this challenge,
+Huang, his doctoral student Jinxin Zhang, and collaborators at UCLA, Harvard,
+and Magee-Womens Research Institute, developed the ANSWER platform.
+
+The device uses a single pair of transducers to generate a standing sound wave
+that envelops a narrow, enclosed channel filled with fluid. This sound wave
+“leaks” into the liquid center through the channel walls and interacts with
+the original standing sound wave. With careful design of the wall thickness,
+channel size and sound frequency, this interaction creates a resonance that
+forms “virtual pillars” along the center of the channel.
+
+Each of these virtual pillars is essentially a half-egg-shaped region of high
+pressure. As particles attempt to cross over the pillars, they get pushed
+toward the edges of the channel. And the bigger the particles, the bigger the
+push. By tuning the series of virtual pillars to create nuanced forces on the
+traveling nanoparticles, the researchers can precisely sort them by size into
+a variety of groups determined by the needs of the experiments at hand.
+
+> “The ANSWER EV fractionation technology is the most advanced capability for
+> precise EV fractionation, and it will significantly impact the horizon of EV
+> diagnostics, prognostics and liquid biopsy."
+>
+> david wong
+
+“The ANSWER EV fractionation technology is the most advanced capability for
+precise EV fractionation, and it will significantly impact the horizon of EV
+diagnostics, prognostics and liquid biopsy,” said David Wong, director for
+UCLA Center for Oral/Head & Neck Oncology Research.
+
+In the new paper, the researchers demonstrate that their ANSWER platform can
+successfully sort sEVs into three subgroups with 96% accuracy for
+nanoparticles on the larger end of the spectrum and 80% accuracy for the
+smallest. They also show flexibility in their system, adjusting the number of
+groupings and ranges of sizes with simple updates to the sound wave
+parameters. Each of the experiments only took 10 minutes to complete, whereas
+other methods such as ultra-centrifugation can take several hours or days.
+
+“Due to its contact-free nature, ANSWER offers a biocompatible approach for
+the separation of biological nanoparticles.” Zhang said. “Unlike mechanical
+filtration methods, which have fixed separation cutoff diameters, ANSWER
+offers a tunable approach to nanoscale separation, and the cutoff diameter can
+be precisely modified by varying the input acoustic power.”
+
+Moving forward, the researchers will continue improving the ANSWER technology
+so that it can be efficient in purifying other biologically relevant
+nanoparticles such as viruses, antibodies and proteins.
+
+This research was supported by the National Institutes of Health (UH3TR002978,
+R01HD103727, U18TR003778, R01GM132603, R01GM143439 R01GM135486, R01GM144417,
+R44AG063643) and the National Science Foundation (CMMI-2104295, CMMI-2104526).
+
+CITATION: “A Solution to the Biophysical Fractionation of Extracellular
+Vesicles: Acoustic Nanoscale Separation via Wave-pillar Excitation Resonance
+(ANSWER),” Jinxin Zhang, Chuyi Chen, Ryan Becker, Joseph Rufo, Shujie Yang,
+John Mai, Peiran Zhang, Yuyang Gu, Zeyu Wang, Zhehan Ma, Jianping Xia, Nanjing
+Hao, Zhenhua Tian, David T. W. Wong, Yoel Sadovsky, Luke P. Lee, and Tony Jun
+Huang. Science Advances, Nov. 23, 2022. DOI: 10.1126/sciadv.ade0640
+
+https://www.science.org/doi/10.1126/sciadv.ade0640
+
+# # #
+
+## Related News
+
+December 18, 2020
+
+### Sound Waves Spin Droplets to Concentrate, Separate Nanoparticles
+
+July 03, 2018
+
+### Sound Waves Could Provide 'Liquid Biopsies'
+
+September 18, 2017
+
+### Sound Waves Separate Biological Nanoparticles for 'Liquid Biopsies'
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,516 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Graduation with Departmental Distinction
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+  3. Students
+
+Students conduct supervised research and present their results to faculty
+
+Students who aspire to Graduate with Departmental Distinction within the Duke
+Department of Electrical & Computer Engineering conduct supervised research
+through independent study courses and present the results of individual
+research and study in written and oral forms to the department's faculty.
+
+Those candidates who are judged by the faculty to have distinguished
+themselves through their paper and presentation earn Graduation with
+Departmental Distinction honors.
+
+This accomplishment is recognized when the BSE degree is awarded. If that time
+is different from the principal Spring commencement exercises, the student
+work remains in contention for the **Sherrerd Memorial Undergraduate Research
+Award** for that academic year.
+
+Browse example projects »
+
+* * *
+
+## Requirements
+
+To be considered for Graduation with Departmental Distinction a student must:
+
+  * Have a 3.5 cumulative GPA
+  * Successfully complete in his or her senior year a faculty-supervised
+    Independent Study Project with significant Electrical and Computer
+    Engineering accomplishment
+  * Demonstrate the significance of this project in a formal written report
+    and defended in an oral presentation before a committee of faculty members
+
+* * *
+
+## Submitting the Report
+
+Candidates must submit a 10-20 page written report (single-spaced, 12-point
+Times New Roman, single column) including figures and references.
+
+The entire report must be submitted electronically to the Director of
+Undergraduate Studies Assistant, Ms. Jaleesa Singleton, at
+jaleesa.singleton@duke.edu, typically **ten days before** the oral
+presentation begins.
+
+The project report essentially constitutes a senior thesis.
+
+* * *
+
+## Example Projects
+
+Click for details
+
+2019-2020
+
+    
+
+  * Invertible Neural Networks for Inverse Kinematics, Jeremy Morgan, with Dr.
+    Mary Cummings
+  * BISTLock: Efficient IP Piracy Protection Using BIST, Siyuan Chen, with Dr.
+    Krishnendu Chakrabarty
+  * Unsupervised Sleep State Detection in Mice Using a Physiologically-Based
+    Clustering Algorithm, Kat Hefter, with Dr. Carlson
+  * Variation-Aware Delay Fault Testing, August Ning, with Dr. Krishnendu
+    Chakrabarty
+  * Detecting and Classifying Short-finned Pilot Whale Acoustics with Deep
+    Learning, Virginia Pan, with Dr. Doug Nowacek
+  * Foosball Coding: Improving Error Tolerance in 3D Racetrack Memory,
+    Samantha Archer, with Dr. Daniel Sorin
+
+2018-2019
+
+    
+
+  * Efficient Algorithms for Design Automation of Flow-Based Microfluidic
+    Biochips, Aditya Sridhar, with Dr. Krishnendu Chakrabarty
+
+  * Modeling Human-Autonomy Interaction of Drone Pilots in Disaster
+    Environments, Ben Welton, with Dr. Mary Cummings
+
+  * An Electric Vehicle with Novel Powertrain, Gerry Chen, with Dr. Angel
+    Peterchev
+  * Development of an Automated Trading Platform, Madeline Briere, with Dr.
+    John Board
+
+  * Attenuating Cochlear Implant Artifact in EEG Readings, Madhavi Rajiv, with
+    Dr. Leslie Collins
+  * Analysis of Passivation Techniques for Carbon Nanotube Thin-Film
+    Transistors Aimed at Biosensing Applications, Nathaniel Brooke, with Dr.
+    Aaron Franklin
+
+2016-2017
+
+    
+
+  * Incorporating Side-Channel Information into Convolutional Neural Networks
+    for Robotic Tasks, Yilun Zhou, with Dr. Kris Hauser
+
+2015-2016
+
+    
+
+  * Controlling and Comparing Directivity Patterns of Omnidirectional
+    Loudspeakers, Spencer Bruno, with Drs. Donald Bliss and Linda Franzoni
+  * Autism and Beyond: A Machine Learning Approach to Measuring Autism Risk
+    Behaviors in Young Children, Yitaek Hwang, with Dr. Guillermo Sapiro
+  * High Voltage MEMS Controllers for Use in a Quantum Computing System,
+    Dennis Lynch, with Dr. Jungsang Kim
+  * DNS Analysis: Detecting Network Trends and Anomalies, Christopher
+    Streiffer, with Dr. Theophilus Benson
+  * YarnApplicationStatistics: Collecting, Aggregating, and Visualizing Big
+    Data Metrics, Rahul Swaminathan, with Dr. Benjamin Lee
+
+2014-2015
+
+    
+
+  * Making Music with Motion, Brian Bolze, with Drs. Martin Brooke, George
+    Konidaris, and John Supko
+  * Visual Search Using Event-Related Potentials in a Brain-Computer
+    Interface, Gregory Canal, with Dr. Leslie Collins
+  * An Autonomously Powered Bicycle Dashboard with Gear Suggestion
+    Capabilities, Minhazul Islam, with Dr. John Board
+  * Resource Elasticity Fairness in Scale, Paul Kim, with Dr. Benjamin Lee
+  * Human Machine Interfaces for Audio Control, Thomas Klebanoff, with Drs.
+    Martin Brooke and Thomas DeFrantz
+  * P300 Brain-Computer Interface Speller Augmentation with Eye Tracking,
+    Kevin Liang, with Dr. Leslie Collins
+  * Materials and Optical Characterization of Organic Solar Cells Deposited
+    Using Resonant-Infrared Matrix Assisted Pulsed Laser Evaporation, Gift
+    Nyikayaramba, with Dr. Adrienne Stiff-Roberts
+  * An Autonomously Powered Bicycle Dashboard with Gear Suggestion
+    Capabilities, Anshuman Prasad, with Dr. John Board
+  * Reduced Precision Checking to Detect Errors in Floating Point Arithmetic,
+    Yaqi Zhang, with Dr. Daniel Sorin
+
+2013-2014
+
+    
+
+  * **Writing Cosets of a Convolutional Code to Increase the Lifetime of Flash
+    Memory** Amay Jhaveri, with Dr. Daniel Sorin
+  * **Using Photoinduced Electron Transfer to Dynamically Control RET
+    Networks** Nathan Li, with Dr. Chris Dwyer
+  * **Virtual Tag: Enabling Indoor Augmented Reality with Marker-Facilitated
+    Localization** Anirudh C. Mohan, with Drs. Romit Roy Choudhury and John
+    Board
+  * **Searching for Causes of Poor Classification Performance in a Brain-
+    Computer Interface Speller** Michael Motro, with Dr. Leslie Collins
+  * **Network Condition Check** Pariya Sithikong, with Dr. John Board
+  * **Mobile Stereo Vision System for Accurate Target Triangulation** Alex Z.
+    Zhu, with Dr. Michael Zavlanos
+
+2012-2013
+
+    
+
+  * **Radar Signal Processing for Stand-off Life Sign Monitoring** Ash-girl
+    Chapfuwa, with Dr. Jeffrey Krolik.
+  * **DirectMe: A Mobile Phone Algorithm for Direction Detection** Alex T.
+    Mariakakis, with Dr. Romit Roy Choudhury.
+  * **Resonance Energy Transfer Based Physical Unclonable Function** Likun
+    (Sam) Xi, with Dr. Chris Dwyer.
+
+2011-2012
+
+    
+
+  * **Characterizing the Electro-Optic Properties of a Microfabricated Mass
+    Spectrometer** Carlo Giustini, with Dr. Jeffrey Glass.
+  * **Designing Scalable Heterogeneous Memory for High-Performance Computing**
+    Tae Jun Ham, with Dr. Benjamin C. Lee.
+  * **C# Implementation of SLAM Using the Microsoft Kinect** Richard Marron,
+    with Dr. Jason Janet.
+  * **Novel Electrodes for Deep Brain Implantation** Jennifer Molnar, with
+    Drs. Dale Bass & John Board.
+  * **Designing a Physically Realizable Electromagnetic Cloak** Heidi Slater,
+    with Dr. Steven Cummer.
+  * **Monte Carlo Simulation of Charge Transport in Organic Solar Cells** Xin
+    Xu, with Dr. Adrienne Stiff-Roberts.
+
+2010-2011
+
+    
+
+  * **In-Vehicle Driver Detection Using Mobile Phone Sensors** Hon Lung Chu,
+    with Dr. Roy Choudhury.
+  * **Social Network Analysis: Online Anomaly Detection and Graphical Model
+    Selection** Corinne Horn, with Dr. Rebecca Willett.
+  * **Application of Transformation Optics and Metamaterials: Enhancing
+    Utilization of Optical Device** Gyushik Jang, with Dr. David Smith.
+  * **An Autonomous 'Pinger Tester' to Verify the Operation of Bycatch-
+    Reducing Acoustic Pingers for Marine Mannal-Fishery Interactions** Sabrina
+    G. Liao, with Drs. Douglas Nowacek and Matthew Reynolds.
+  * **Argus-G: A Low-Cost Error Detection Scheme for GPGPUs** Ralph Nathan,
+    with Dr. Daniel Sorin.
+  * **Microphone Array Feedback Suppression for Indoor Room Acoustics** Tanmay
+    Prakash, with Dr. Jeffrey Krolik.
+  * **Development of a 638.6nm External Cavity Diode Laser for Scalable Ion-
+    Trap Quantum Computing** Eunsu Ryu, with Dr. Jungsang Kim.
+  * **Conjugated Polymer Superlattices for Enhanced Charge Transport in
+    Organic Solar Cells** Karthik Iyengar Seetharam, with Dr. Adrienne Stiff-
+    Roberts.
+  * **In-Vehicle Driver Detection Using Mobile Phone Sensors** Jeffrey Shih-
+    kai Shen, with Dr. Choudhury.
+  * **Adaptive Solar Home Systems** Eric Thorne, with Dr. Gary Ybarra.
+
+2009-2010
+
+    
+
+  * **Phonepoint Pen: Using Mobile Phones to Write in Air** Sandip Agrawal,
+    with Dr. Romit Roy Choudhury.
+  * **Statistical Methods for Gene Expression Analysis** David Carlson, with
+    Dr. Larry Carin.
+  * **MEMS Application in Quantum Computing** Mike Feng, with Dr. Jungsang
+    Kim.
+  * **Lightning Electromagnetics** William Gamerota, with Dr. Steven Cummer.
+  * **Outlet-Level Power Monitoring and Point-of-Use Feedback to Reduce Power
+    Consumption** Benjamin Hamner, with Dr. John Board.
+  * **Study of Chromophore Pair Interaction Using DNA** Dong Jin Shin, with
+    Dr. Chris Dwyer.
+  * **Wireless Power Transmission in the SmartHome** Yinquan Teo, with Dr.
+    Matt Reynolds.
+
+2008-2009
+
+    
+
+  * **The Use of a Discrete Transistor Amplifier to Produce Active
+    Metamaterials** Douglas Bycoff, with Dr. Steven Cummer.
+  * **Active Microwave Imaging System for Breast Cancer Screening: RF MEMS
+    Switching Matrix System Design** Tawanda Chaunzwa, with Dr. Gary Ybarra.
+  * **An Electrically Engineered Metamaterial Absorber** Mark Gu, with Dr.
+    Steven Cummer.
+  * **Enabling Realtime Location Privacy with Predictive Anonymization**
+    Joseph Meyerowitz, with Dr. Romit Roy Choudhury.
+  * **Microphone Array Beamforming with Near-Field Correlated Sources**
+    Jonathan Odom, with Dr. Jeff Krolik.
+  * **Designs and Simulations in Transformation Optics** Daniel Roberts, with
+    Dr. David Smith.
+  * **Current-Injection Two-Dimensional Photonic Crystal Slab Microcavity**
+    Pantana Tor-ngern, with Dr. Tomo Yoshie.
+
+2007-2008
+
+    
+
+  * **Proving the Correctness of Error Detection Mechanisms in Simple Core
+    Multiprocessors** Michael Bauer, with Dr. Daniel Sorin.
+  * **A Performance Simulato of Quantitative Analysis of the Implications of
+    Fault Tolerance in Distributed Quantum Computer Architectures** Jeffrey
+    Hussmann, with Dr. Jungsang Kim.
+  * **Surface Relief Optical Gratings Integrated with Waveguide Bio/Chemical
+    Sensors** Melissa Levy, with Dr. Nan Jokerst.
+  * **Development of a Compact and Multifunctional Sensor Array** Serge
+    Reshetnikov, with Drs. Jeffrey Glass and Scott Wolter.
+  * **Simulating Mobililty Data Precision Requirements for Human Behavior
+    Inferemce** David Wagner, with Dr. Romit Roy Choudhury.
+
+2006-2007
+
+    
+
+  * **Mingle: A Percolative Routing Framework for Mobile Delay Tolerant
+    Networks** Deepak Bastakoty, with Dr. Romit Roy Choudhury.
+  * **Computation on Self-Organized Networks **Curtis Harting, with Drs. Chris
+    Dwyer & Alvin Lebeck.
+  * **DNA Self-Assembly of Nanoelectronic Devices - The Nanodynamics Simulator
+    **Ben Macadangdang, with Dr. Chris Dwyer.
+  * **AC Electrowetting Actuation of Droplets on a Digital Microfluidic
+    Platform** Isaac Nagiel, with Dr. Richard Fair
+
+2005-2006
+
+    
+
+  * **Ordered Chaos: Imposing Logical Structure in Nanotechnology Substrates**
+    Derek Hower, with Drs. Daniel Sorin & Chris Dwyer.
+  * **Design Automation and Test Techniques for Microfluidic Biochips**
+    William Hwang, with Drs. Krishnendu Chakrabarty, Richard Fair, & Fei Su.
+  * **Improved Breast Cancer Diagnosis through Decision Fusion** Anna Rack-
+    Gomer, with Dr. Loren Nolte.
+  * **Quantification of semiconductor crystal surface features at the
+    submicron level** Katie Ness, with Dr. Rebecca Willett.
+  * **Microwave Imaging: Research in Alternative Medical Imaging Modalities**
+    Vinh Nguyen, with Drs. Gary Ybarra, Qing Liu, William Joines, & Rhett
+    George.
+  * **Clustering Spikes in Multi-unit Neural Signals into Dominant and
+    Remainder Classes** David Rodriguez, with Dr. Patrick Wolf.
+
+2004-2005
+
+    
+
+  * **Cochlear Implants: Spectral Cues and Pitch Reversals on Music
+    Perception** Patrick Crosby, with Dr. Leslie Collins.
+  * **Furthering Development of a Digital Microfluidic Platform** Andrew
+    Dreher, with Dr. Richard Fair.
+  * **Hierarchical Modeling and Analysis of Process Variations in Deep Sub-
+    Micron Devices** Jacob Flomenberg, with Dr. Sule Ozev.
+  * **Data Analysis for Lightning Electromagnetics** Thai Wing Darwin Goei,
+    with Dr. Steven Cummer.
+  * **Modeling 3-Gene Regulation Networks** Trina Kok, with Dr. Paul Wang.
+  * **Characterization and Testing of CMOS Subcircuits in a Mixed Signal IC**
+    Jessica Smith, with Drs. Jeff Derby & James Morizio.
+  * **Matching and Locating of Cloud-to-Ground Lightning Discharges** Charles
+    Wang, with Dr. Steven Cummer.
+  * **Application of Magnetic Microspheres to Pyrosequencing on a Digital
+    Microfluidic Platform** Nicole Weaver, with Dr. Richard Fair.
+  * **Hierarchical Modeling and Analysis of Process Variations: The First Step
+    towards Robust Deep Sub-Micron Devices** Devaka Yasaratne, with Dr. Sule
+    Ozev.
+
+## Undergraduate Contact
+
+### Lisa Gresham Huettel
+
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and
+Computer Engineering
+
+__919-660-5237
+
+__lisa.huettel@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

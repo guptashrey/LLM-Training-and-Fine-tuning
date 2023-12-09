@@ -1,0 +1,191 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Maria Gorlatova: Creating an Intelligent Internet of Things
+
+September 6, 2018 | By Ken Kingery
+
+New faculty member Maria Gorlatova is distributing data processing across
+connected devices to make them smarter, smaller and more efficient
+
+Maria Gorlatova has joined the faculty in the Department of Electrical and
+Computer Engineering at Duke University’s Pratt School of Engineering. With
+both industry and academic experience making connected devices smarter, more
+secure and more responsive, Gorlatova adds a new and exciting dimension to
+Duke Engineering’s growing expertise in developing tomorrow’s technologies.
+
+After earning bachelor’s and master’s degrees in electrical engineering at the
+University of Ottawa, Gorlatova completed her doctorate at Columbia University
+in the same discipline. She then spent stints at IBM and D.E. Shaw Research
+leading a custom Anton supercomputer design and development program before
+joining Princeton University’s EDGE Lab in 2016.
+
+For the past few years, Gorlatova has had her head firmly in the fog, where
+she plans to keep it while forming new collaborations at Duke.
+
+“Fog computing or edge computing is related to cloud computing,” said
+Gorlatova. “The difference is that instead of sending tons of data up to the
+cloud to be processed, we distribute certain components of that computing
+between the smaller devices, processors and gateways on the ground—the ones
+that are all around us all the time.”
+
+One way Gorlatova is pursuing these goals is by bringing advanced machine
+learning techniques currently relegated to large data centers to the
+processors inside distributed devices that pervade the modern world. Rather
+than having smart home systems and wearable devices simply record data, this
+will allow them to actually respond to the data and provide a more customized,
+predictive and interactive experience. She has also investigated how much
+energy kinetic-energy-harvesting devices could gather to power other wearable
+devices.
+
+Another arena Gorlatova studies is augmented reality. Unlike virtual reality,
+which puts the user into a new virtual environment, augmented reality puts
+virtual items into the user’s existing environment. For example, Gorlatova
+says that augmented reality glasses could let people visualize wireless
+connectivity in a space or display information about the endangered aye-ayes
+while on tour at the Duke Lemur Center.
+
+Gorlatova’s specific work with AR is large in both scope and ambition. She is
+currently exploring a range of approaches for improving AR experiences with
+fog computing, including making the experiences more adaptive and more secure
+while enabling advanced communication and networking support for them. In one
+specific example, she’s trying to make AR devices smart enough to know where
+to place holograms in the user’s field of vision so as to not obstruct
+important objects.
+
+“My research is very experimental and deals with multiple layers of both
+hardware and software,” said Gorlatova. “My goal is to make these devices
+lighter, smarter and more energy-efficient. Rather than having fixed
+functional designs, I want the devices to train themselves to adapt to their
+environment and their particular user’s needs for a new level of performance.”
+
+In the classroom, Gorlatova says she is looking forward to mentoring the high
+caliber of undergraduate students Duke attracts, and loves enabling their
+achievements. She has had many mentees join top technology companies,
+including Microsoft, AT&T and Oracle, and helped one student earn a graduate
+fellowship at Stanford University and another receive the Columbia
+University’s Department of Electrical Engineering Award for Achievements in
+Research—the top undergraduate research award given by the department.
+
+Besides mentoring top students and forming new collaborations with Duke’s ECE
+and computer science faculty, Gorlatova says she looks forward to working with
+Duke’s Office of Information Technology, which forms collaborations with Duke
+faculty to test new ideas on real-world data and technology deployments.
+
+“Duke’s IT department is the most innovative I have ever personally
+encountered,” said Gorlatova. “The way they engage with researchers is
+invaluable.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

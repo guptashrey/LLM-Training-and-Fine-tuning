@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Researchers Discover Bacterial DNA’s Recipe for Success
+
+November 9, 2020 | By Ken Kingery
+
+A single criterion predicts whether a genetic package such as antibiotic
+resistance will thrive in a given environment
+
+Biomedical engineers at Duke University have developed a new way of modeling
+how potentially beneficial packages of DNA called plasmids can circulate and
+accumulate through a complex environment that includes many bacterial species.
+The work has also allowed the team to develop a new factor dubbed the
+“persistence potential” that, once measured and computed, can predict whether
+or not a plasmid will continue to thrive in a given population or gradually
+fade into oblivion.
+
+The researchers hope that their new model will lay the groundwork for others
+to better model and predict how important traits such as antibiotic resistance
+in pathogens or metabolic abilities in bacteria bred to clean environmental
+pollution will spread and grow in a given environment.
+
+The results appear online on November 4 in the journal Nature Communications.
+
+In addition to the Darwinian process of handing down genes important for
+survival from parents to offspring, bacteria also engage in a process called
+horizontal gene transfer. Bacteria are constantly sharing genetic recipes for
+new abilities across species by swapping different packages of genetic
+material called plasmids with one another.
+
+“In an examination of just a single bottle of seawater, there were 160
+bacterial species swapping 180 different plasmids,” said Lingchong You,
+professor of biomedical engineering at Duke. “Even in a single bottle of
+water, using current methods to model plasmid mobility would far exceed the
+collective computing power of the entire world. We’ve developed a system that
+simplifies the model while maintaining its ability to accurately predict the
+eventual results.”
+
+The potential of any one of these genetic packages to become common throughout
+a given population or environment, however, is far from certain. It depends on
+a wide range of variables, such as how quickly the packages are shared, how
+long the bacteria survive, how beneficial the new DNA is, what the trade-offs
+are for those benefits and much more.
+
+Being able to predict the fate of such a genetic package could help many
+fields — perhaps most notably the spread of antibiotic resistance and how to
+combat it. But the models required to do so in a lifelike scenario are too
+complicated to solve.
+
+“The most complex system we’ve ever been able to model mathematically is three
+species of bacteria sharing three plasmids,” said You. “And even then, we had
+to use a computer program just to generate the equations, because otherwise
+we’d get too confused with the number of terms that were needed.”
+
+In the new study, You and his graduate student, Teng Wang, created a new
+framework that greatly reduces the complexity of the model as more species and
+plasmids are added. In the traditional approach, each population is divided
+into multiple subpopulations based on which plasmids they’re carrying. But in
+the new system, these subpopulations are instead averaged into a single one.
+This drastically cuts down on the number of variables, which increases in a
+linear fashion as new bacteria and plasmids are added rather than
+exponentially.
+
+This new approach enabled the researchers to derive a single governing
+criterion that allows the prediction of whether or not a plasmid will persist
+in a given population. It’s based on five important variables: the cost to the
+bacteria of having the new DNA, how often the DNA is lost, how quickly the
+population is diluted by the flux through the population, how quickly the DNA
+is swapped between bacteria, and how fast the population as a whole is
+growing.
+
+With measurements for these variables in hand, researchers can calculate the
+population’s “plasmid persistence.” If that number is greater than one, the
+genetic package will survive and spread, with higher numbers leading to
+greater abundance. If less than one, it will fade away into oblivion.
+
+“Even though the model is simplified, we’ve found that it’s reasonably
+accurate under certain constraints,” said Wang. “As long as the new DNA
+doesn’t place too great of a burden on the bacteria, our new framework will
+succeed.”
+
+You and Wang tested their new modeling approach by engineering a handful of
+different synthetic communities, each with different strains of bacteria and
+genetic packages for swapping. After running the experiments, they found that
+the results fit quite well within the expectations of their theoretical
+framework. And to go the extra mile, the researchers also took data from 13
+previously published papers and ran their numbers as well. Those results also
+supported their new model.
+
+“The plasmid persistence criterion gives us the hope of using it to guide new
+applications,” said You. “It could help researchers engineer a microbiome by
+controlling the genetic flow to achieve a certain function. Or it can give us
+guidance on what factors we can control to eliminate or suppress certain
+plasmids from bacterial populations, such as those responsible for antibiotic
+resistance.”
+
+This research was supported by the National Institutes of Health (R01A1125604,
+R01GM110494) and the David and Lucile Packard Foundation.
+
+CITATION: “The Persistence Potential of Transferable Plasmids,” Teng Wang &
+Lingchong You. Nature Communications, Nov. 9, 2020. DOI:
+10.1038/s41467-020-19368-7
+
+## Related News
+
+December 05, 2018
+
+### Distinguishing Resistance from Resilience to Prolong Antibiotic Potency
+
+November 22, 2017
+
+### Managing Antibiotics Not Enough to Reverse Resistance
+
+April 11, 2016
+
+### Antibiotics Don't Promote Swapping of Resistance Genes
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

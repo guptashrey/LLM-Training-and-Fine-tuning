@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2016
+
+# Mona Dai: Innovative Purification Technologies for Contaminated Drinking
+Water in Uganda
+
+April 27, 2016 | Anika Radiya-Dixit
+
+A 2014 Grand Challenges Scholar, Mona Dai aimed to provide reliable access to
+portable water purification technologies in sub-Saharan Africa.
+
+The Thomas C. Katsouleas NAE Grand Challenge Scholars Program at Duke is
+dedicated to addressing new engineering challenges ranging from making solar
+energy economical to reverse engineering the human brain. Scholars must
+address complex social issues that require innovative technology, puzzle
+solving and a desire to change the world. A 2014 Scholar, Mona Dai aimed to
+provide reliable access to portable water purification technologies in sub-
+Saharan Africa. Currently working in Richmond, Virginia, Mona will soon begin
+graduate school to study environmental health at Johns Hopkins.
+
+How did you get interested in your project topic?
+
+I traveled to Uganda the summer after my freshman year as part of Duke Engage.
+The following year, I visited Togo and worked with another NAE Grand Challenge
+Scholar, during which I got interested in the program. After my junior year, I
+visited Uganda again to research the depth of the drinking water problem and
+how useful an innovation such as a ceramic water filter could be. In the
+village of Kaihura, I sampled water sources and tested them for bacteria,
+collected data on the severity of waterborne diseases and observed the
+installation of a new well in the community—the most popular water solution
+used by the government and non-governmental organizations (NGO)s.
+
+**Did you have the opportunity to talk with some of the Ugandan residents?**
+
+Yes, I did interview people about how they used water and what their current
+solutions were. Kaihura lies on the main highway, where a Swiss company built
+a gravity line connecting to lots of homes, so most people living close to the
+road received access to clean water. Of course, not everyone has the means to
+pay for the purified water, and the gravity line is not able to reach homes
+farther away.
+
+In one village around 15 to 20 minutes away from Kaihura, the residents
+obtained their water from a muddy stream running nearby. Another village I
+visited was quite isolated, so the only water source was an open murky spring
+where animals also grazed. Apparently, the villagers applied for a well, but
+the process is extremely slow.
+
+**How does your water filter work? How is it different than existing ceramic
+water filters as well as current methods of cleaning out water?**
+
+After talking with various residents, I found that there were two primary
+solutions used to clean their water. Some residents had tried using chlorine
+tablets, but they stopped using them since the tablets gave the water a
+peculiar taste. People unanimously agreed on boiling the water, but I noticed
+that lots of them didn’t—especially men who thought they were “stronger than
+sickness” or were too impatient to wash their hands and boil water.
+
+Ceramic filters are the most recommended treatment options, but they seep out
+the water very slowly, around two to three liters per hour. My goal was to
+make the filter faster by increasing the flow rate with bigger pores but still
+maintaining the 98 percent bacterial removal efficiency.
+
+The filters I built were disks made from coffee grounds and clay. We pounded
+clay powder, combined and kneaded it by hand, designed our own hand press
+using a 3-D printer for the plastic cast, and shaped our filter with no
+mechanical parts. I tested them with different types of waters, such as tap
+water and pond water.
+
+**What was the hardest or most frustrating part of working on the project?**
+
+The Grand Challenge experience has helped me better understand both the
+gravity of the drinking water challenge as well as the frustration inherent to
+making change. In making the ceramic filters, I found that that structural
+integrity of the material started to degrade if pores were made too big. At
+the same time, the percentage of water filtration and flow were related by an
+unexpected parabolic relationship. I realized that there were so many
+variables that could contribute to failure that making an effective water
+filter took more time than I originally thought.
+
+**What was your best moment during your visit to Uganda?**
+
+I remember one moment with the founder of the NGO I worked with. She held up a
+petri dish covered in colonies of bacteria and announced, “If people saw this,
+they would really understand what germs are.” And that got me thinking, is
+that all that people need? They don’t even need technology to fully understand
+the importance of drinking clean water. So I think that was the most
+interesting moment for me, especially since the communities in Uganda did not
+understand “dirty” as tiny, wiggling bacteria invisible to the human eye. They
+only knew the word “dirty” in the sense of visible dust or grime.
+
+**Tell me about someone interesting you met.**
+
+Every Ugandan is interesting. Most of the people I talked with asked for new
+ideas that could help make their water better because they knew something was
+wrong with the quality. After the trip, I kept in touch with several of them
+over Facebook. One of my friends wanted to learn to be a lab technician, so he
+was going back to be fully certified. I think Duke Engage in Uganda is the
+most unique out of all the places students visit, because lots of people have
+gone back more than once.
+
+**Now that you’ve gone through the NAE Grand Challenge Scholars program, what
+would you say to future students who are interested in applying their
+knowledge of engineering learned at Duke? **
+
+Duke is a great school in encouraging people to do practical applications
+since there’s lots of different areas of funding, especially in engineering.
+For those working on projects to help a community, ask people what they need
+rather than telling them what you think they need. We shouldn’t try to find a
+problem with their situation. It’s important to listen to the public and
+figure out what they want, because it’s pointless to make them something that
+they never use. Also, I realized being in a place working and talking with
+people is the best way to find solutions. You can’t just read a textbook and
+try to build something, you have to talk to the people who will use your
+product everyday. Working on the NAE Grand Challenge was as much about
+engineering as it was about the culture and community I worked with.
+
+Meeting the Ugandan people, I knew I could potentially have the solution to
+improving their lives and that made me realize what enormous weight lies
+behind being an engineer.
+
+_Anika Radiya-Dixit is a junior majoring in computer science and electrical
+engineering._
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2016
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

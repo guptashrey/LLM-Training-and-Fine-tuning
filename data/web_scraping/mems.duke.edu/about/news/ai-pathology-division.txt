@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# At Duke, the Future of Pathology Lies in AI
+
+January 14, 2021 | By Ken Kingery
+
+Duke Engineering and the Duke School of Medicine have joined forces to create
+a new Division of Artificial Intelligence and Computational Pathology
+
+Researchers at Duke University have been merging artificial intelligence with
+health care to improve patient outcomes for the better part of two decades.
+From making cochlear implants deliver purer sounds to the brain to finding
+hidden trends within reams of patient data, the field spans a diverse range of
+niches that are now beginning to make real impacts.
+
+Among these niches, however, there is one in which Duke researchers have
+always been at the leading edge—image analysis, with a broad team of
+researchers teaching computers to analyze images to unearth everything from
+various forms of cancer to biomarkers of Alzheimer’s disease in the retina.
+
+To keep pushing the envelope in this field by cementing these relationships
+into both schools’ organization, Duke’s Pratt School of Engineering and School
+of Medicine have launched a new Division of Artificial Intelligence and
+Computational Pathology.
+
+“Machine learning can do a better job than the average person at finding the
+signal in the noise, and that can translate into better outcomes and more
+cost-effective care,” said Michael Datto, associate professor of pathology at
+Duke. “This is one of the most exciting times I’ve seen in pathology, and it’s
+going to be exciting to see what we can do.”
+
+The new division will support translational research by developing AI
+technologies for image analysis to enhance the diagnosis, classification,
+prediction and prognostication of a variety of diseases, as well as train the
+next generation of pathologists and scientists in the emerging field.
+
+The division is led by Carolyn Glass, assistant professor of pathology, and
+Laura Barisoni, professor of pathology and medicine, and operates with the
+partnership of AI Health, directed by Lawrence Carin, professor of electrical
+and computer engineering and vice president for research at Duke, and Adrian
+Hernandez, professor of medicine and vice dean for clinical research.
+
+“Duke has taken the lead at the national level in establishing a division in
+the Department of Pathology in partnership with AI/Health with the goal of
+developing and establishing new models and protocols to practice pathology in
+the 21st century,” said Barisoni, who is also director of renal pathology
+service at Duke.
+
+AI Health is also a new initiative, launched as a collaboration between the
+Schools of Engineering and Medicine and Trinity College of Arts & Sciences,
+with units such as the Duke Global Health Institute and the Duke-Margolis
+Center for Health Policy, to leverage machine learning to improve both
+individual and population health through education, research and patient-care
+projects.
+
+“For what everyone has envisioned for AI Health, we see pathology paving the
+way,” said Hernandez. “AI Health is a catalyst and spark for putting cutting-
+edge machine learning development and testing into real-world settings. In
+pathology, we have image-intensive data streams, and COVID-19 has really
+emphasized the need for the timely processing of patient samples.”
+
+Applying machine learning image analysis to pathology processes, however, is
+easier said than done. Figuring out how to process extremely large image files
+and train AI algorithms on relatively few examples is part of the focus of
+Carin’s laboratory, in partnership with Ricardo Henao, assistant professor of
+biostatistics and bioinformatics as well as electrical and computer
+engineering.
+
+Current AI algorithms, such as convolutional neural networks (CNN), were
+originally designed for the analysis of natural images, such as those captured
+on phones. Adapting such algorithms for the diagnosis of biopsy scans,
+however, is challenging due to the large size of the scans--typically of tens
+of gigabytes--and the sparsity of abnormal diagnostic cells they contain. Led
+by David Dov, a postdoctoral researcher in Carin’s laboratory, Duke engineers
+are working to overcome these challenges to design AI algorithms for the
+diagnosis of various conditions, such as different types of cancers and
+transplant rejection.
+
+“Designing algorithms that make a real impact on clinical practice requires
+close collaboration between AI researchers and pathologists,” said Dov, who
+joined Duke after completing his PhD in electrical engineering at The Technion
+- Israel Institute of Technology. “A key challenge in these collaborations is
+gaining a deep understanding of the gaps in medical practice, and then
+ensuring that clinicians fully understand the capabilities and limitations of
+AI in bridging these gaps. The new Division of Artificial Intelligence and
+Computational Pathology plays an important role in facilitating such
+collaborations.”
+
+In a virtual kickoff meeting this fall, the new division’s leadership spoke to
+the potential it holds to improve patient health outcomes and several
+researchers delved into projects they already have underway in the field. For
+example, Danielle Range, assistant professor of pathology, spoke of efforts to
+use AI in diagnosing cancer; Roarke Horstmeyer, assistant professor of
+biomedical engineering, described his efforts to create a “smart microscope”
+to better diagnose disease; and Glass detailed her work on the use of machine
+learning in diagnosing transplant rejection.
+
+“In the last couple of years, we have seen an exponential increase in AI
+pathology interest from Duke undergraduates to medical students applying for
+Pathology residency positions,” said Glass. “I think continued development of
+a solid, integrated curriculum and educational program will be critical to
+train these future leaders.”
+
+## Related News
+
+November 20, 2019
+
+### Machine Learning Microscope Adapts Lighting to Improve Diagnoses
+
+October 11, 2019
+
+### AI in Health
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

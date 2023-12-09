@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# How Eye Imaging Technology Could Help Robots and Cars See Better
+
+March 29, 2022 | By Ken Kingery
+
+Researchers are applying lessons learned from decades of perfecting eye-
+imaging technologies to tomorrow’s autonomous systems sensor technologies
+
+Even though robots don’t have eyes with retinas, the key to helping them see
+and interact with the world more naturally and safely may rest in optical
+coherence tomography (OCT) machines commonly found in the offices of
+ophthalmologists.
+
+One of the imaging technologies that many robotics companies are integrating
+into their sensor packages is Light Detection and Ranging, or LiDAR for short.
+Currently commanding great attention and investment from self-driving car
+developers, the approach essentially works like radar, but instead of sending
+out broad radio waves and looking for reflections, it uses short pulses of
+light from lasers.
+
+Traditional time-of-flight LiDAR, however, has many drawbacks that make it
+difficult to use in many 3D vision applications. Because it requires detection
+of very weak reflected light signals, other LiDAR systems or even ambient
+sunlight can easily overwhelm the detector. It also has limited depth
+resolution and can take a dangerously long time to densely scan a large area
+such as a highway or factory floor. To tackle these challenges, researchers
+are turning to a form of LiDAR called frequency-modulated continuous wave
+(FMCW) LiDAR.
+
+“FMCW LiDAR shares the same working principle as OCT, which the biomedical
+engineering field has been developing since the early 1990s,” said Ruobing
+Qian, a PhD student working in the laboratory of Joseph Izatt, the Michael J.
+Fitzpatrick Distinguished Professor of Biomedical Engineering at Duke. “But 30
+years ago, nobody knew autonomous cars or robots would be a thing, so the
+technology focused on tissue imaging. Now, to make it useful for these other
+emerging fields, we need to trade in its extremely high resolution
+capabilities for more distance and speed.”
+
+In a paper appearing March 29 in the journal Nature Communications, the Duke
+team demonstrates how a few tricks learned from their OCT research can improve
+on previous FMCW LiDAR data-throughput by 25 times while still achieving
+submillimeter depth accuracy.
+
+OCT is the optical analogue of ultrasound, which works by sending sound waves
+into objects and measuring how long they take to come back. To time the light
+waves’ return times, OCT devices measure how much their phase has shifted
+compared to identical light waves that have travelled the same distance but
+have not interacted with another object.
+
+FMCW LiDAR takes a similar approach with a few tweaks. The technology sends
+out a laser beam that continually shifts between different frequencies. When
+the detector gathers light to measure its reflection time, it can distinguish
+between the specific frequency pattern and any other light source, allowing it
+to work in all kinds of lighting conditions with very high speed. It then
+measures any phase shift against unimpeded beams, which is a much more
+accurate way to determine distance than current LiDAR systems.
+
+“It has been very exciting to see how the biological cell-scale imaging
+technology we have been working on for decades is directly translatable for
+large-scale, real-time 3D vision,” Izatt said. “These are exactly the
+capabilities needed for robots to see and interact with humans safely or even
+to replace avatars with live 3D video in augmented reality.”
+
+Most previous work using LiDAR has relied on rotating mirrors to scan the
+laser over the landscape. While this approach works well, it is fundamentally
+limited by the speed of the mechanical mirror, no matter how powerful the
+laser it’s using.
+
+> “The world around us is 3D, so if we want robots and other automated systems
+> to interact with us naturally and safely, they need to be able to see us as
+> well as we can see them.”
+>
+> joseph izatt
+
+The Duke researchers instead use a diffraction grating that works like a
+prism, breaking the laser into a rainbow of frequencies that spread out as
+they travel away from the source. Because the original laser is still quickly
+sweeping through a range of frequencies, this translates into sweeping the
+LiDAR beam much faster than a mechanical mirror can rotate. This allows the
+system to quickly cover a wide area without losing much depth or location
+accuracy.
+
+While OCT devices are used to profile microscopic structures up to several
+millimeters deep within an object, robotic 3D vision systems only need to
+locate the surfaces of human-scale objects. To accomplish this, the
+researchers narrowed the range of frequencies used by OCT, and only looked for
+the peak signal generated from the surfaces of objects. This costs the system
+a little bit of resolution, but with much greater imaging range and speed than
+traditional LiDAR.
+
+The result is an FMCW LiDAR system that achieves submillimeter localization
+accuracy with data-throughput 25 times greater than previous demonstrations.
+The results show that the approach is fast and accurate enough to capture the
+details of moving human body parts —such as a nodding head or a clenching hand
+— in real-time.
+
+“In much the same way that electronic cameras have become ubiquitous, our
+vision is to develop a new generation of LiDAR-based 3D cameras which are fast
+and capable enough to enable integration of 3D vision into all sorts of
+products,” Izatt said. “The world around us is 3D, so if we want robots and
+other automated systems to interact with us naturally and safely, they need to
+be able to see us as well as we can see them.”
+
+This research was supported by the National Institutes of Health (EY028079),
+the National Science Foundation, (CBET-1902904) and the Department of Defense
+CDMRP (W81XWH-16-1-0498).
+
+CITATION: “Video-Rate High-Precision Time-Frequency Multiplexed 3D Coherent
+Ranging,” Ruobing Qian, Kevin C. Zhou, Jingkai Zhang, Christian Viehland, Al-
+Hafeez Dhalla & Joseph A. Izatt. Nature Communications, March 18, 2022. DOI:
+10.1038/s41467-022-29177-9
+
+## Related News
+
+December 17, 2020
+
+### Developing Low-Cost Scanning Laser Ophthalmoscopes to Combat Diabetic
+Retinopathy
+
+November 12, 2019
+
+### Low-Cost, Portable System Takes OCT Beyond Ophthalmology
+
+June 28, 2019
+
+### Low-Cost Retinal Scanner Could Help Prevent Blindness Worldwide
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

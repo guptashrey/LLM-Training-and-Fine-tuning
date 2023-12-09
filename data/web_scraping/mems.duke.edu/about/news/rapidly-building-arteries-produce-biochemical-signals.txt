@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Rapidly Building Arteries that Produce Biochemical Signals
+
+February 18, 2016 | By Ken Kingery
+
+New technique speeds tissue engineering of functional arteries
+
+Duke engineers have developed a technique to make artificial arteries that
+naturally produce biochemical signals vital to their functions. The technique
+is also ten times faster than current methods for tissue engineering of blood
+vessels.
+
+Arterial walls have multiple layers of cells, including the endothelium and
+media. The endothelium is the innermost lining of all blood vessels that
+interacts with circulating blood. The media is made mostly of smooth muscle
+cells that help control the flow and pressure of the blood within. These two
+layers communicate through a suite of chemical signals that control how the
+vascular system reacts to stimuli such as drugs and exercise.
+
+In a new study, biomedical engineers from Duke’s Pratt School of Engineering
+successfully engineered artificial arteries containing both layers and
+demonstrated their ability to communicate and function normally.
+
+The blood vessels being reported Feb. 18 in Nature Scientific Reports are also
+miniaturized to enable 3D microscale artificial organ platforms to test drugs
+for efficacy and side effects. The new technique may also enable researchers
+to conduct experiments on arterial replacements in record time.
+
+“We wanted to focus on arteries because that’s where most of the damage is
+caused in coronary diseases,” said George Truskey, the R. Eugene and Susie E.
+Goodson Professor of Biomedical Engineering and Vinik Dean of the Pratt School
+of Engineering at Duke.
+
+“Most previous studies had focused on the media cells but hadn’t spent much
+time on the endothelial cells, and nobody had shown how the two would
+interact,” Truskey said. “Many of the techniques for creating artificial
+tissue also were rather lengthy, which was frustrating.”
+
+The frustration came from the six-to-eight weeks it took to grow arteries in
+the laboratory. Turning to the literature, Truskey found a paper detailing a
+much faster technique used to create a trachea. The method works by putting
+cells of the desired tissue inside collagen and compressing for a few minutes.
+This both squeezes out excess water and increases the mechanical strength of
+the resulting tissue.
+
+For the next six months, graduate student Cristina Fernandez worked to convert
+the technique so she could create arteries. And not just any arteries --
+arteries scaled down to one tenth the size of a typical human’s, which made
+the translation even trickier.
+
+“With a smaller diameter, we could make a lot of these artificial vessels in a
+short amount of time,” said Truskey. “We can make these vessels and use them
+in only a few hours. To me that was the biggest advance, because spending
+several weeks on each set was driving me crazy.”
+
+Once that hurdle was passed, the team tested the new arteries to see how they
+would respond to natural and artificial stimuli. In one test, they
+administered statins to see if they would block inflammation as they do in
+patients. In another test, the researchers looked to see if chemical signals
+released from the endothelial cells would cause the media layer to relax and
+constrict, as they do in the human body.
+
+In both instances, the engineered arteries behaved normally.
+
+The next step, according to Truskey, is to look at how some select rare
+genetic diseases affect the arteries. The end goal is to create a system that
+can be used to test drugs that is more accurate and reliable than animal
+models.
+
+That goal is part of the Tissue Chip for Drug Screening program, which is
+funded by the National Institutes of Health to improve ways of predicting drug
+safety and effectiveness. The program is tasked with creating 3-D human tissue
+chips and combining them into an integrated system that mimics the complex
+functions of the human body, so that promising pharmaceuticals can be better
+tested before entering human trials.
+
+At Duke, one side of the project has already demonstrated the fabrication of
+skeletal muscle that responds physiologically to stimuli such as drugs. With
+the development of these small artificial arteries, the two systems can be
+connected and eventually integrated with other tissue proxies, such as
+artificial, functioning liver tissue, which is also being pursued at Duke.
+
+But the new technique also could be a boon to researchers everywhere creating
+artificial arteries.
+
+“While our arteries are small and intended for testing, they’re just as
+mechanically strong as those intended to be put inside of the body,” said
+Truskey. “So the technique could be beneficial to researchers trying to create
+artificial arteries to replace damaged ones in patients as well.”
+
+This work was supported by the National Institutes of Health (4UH3TR000505,
+R01HL044972, R21EB017868, P 40 RR017447) and the American Heart Association
+(14PRE20500062).
+
+###
+
+“Human Vascular Microphysiological System For In Vitro Drug Screening.” C. E.
+Fernandez, R. W. Yen, S. M. Perez, H. W. Bedell, T. J. Povsic, William M.
+Reichert, G. A. Truskey. Scientific Reports, Feb. 18, 2016. DOI:
+10.1038/srep21579
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

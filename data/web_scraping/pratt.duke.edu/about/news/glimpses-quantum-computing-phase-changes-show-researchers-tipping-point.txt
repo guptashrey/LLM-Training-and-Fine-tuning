@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Glimpses of Quantum Computing Phase Changes Show Researchers the Tipping
+Point
+
+June 9, 2022 | Ken Kingery
+
+Tuning a quantum computer’s measurement rate provides hints of quantum phase
+transition
+
+Researchers at Duke University and the University of Maryland have used the
+frequency of measurements on a quantum computer to get a glimpse into the
+quantum phenomena of phase changes – something analogous to water turning to
+steam.
+
+By measuring the number of operations that can be implemented on a quantum
+computing system without triggering the collapse of its quantum state, the
+researchers gained insight into how other systems — both natural and
+computational — meet their tipping points between phases. The results also
+provide guidance for computer scientists working to implement quantum error
+correction that will eventually enable quantum computers to achieve their full
+potential.
+
+The results appeared online June 3 in the journal Nature Physics.
+
+When heating water to a boil, the movement of molecules evolves as the
+temperature changes until it hits a critical point when it starts to turn to
+steam. In a similar fashion, a quantum computing system can be increasingly
+manipulated in discrete time steps until its quantum state collapses into a
+single solution.
+
+“There are deep connections between phases of matter and quantum theory, which
+is what’s so fascinating about it,” said Crystal Noel, assistant professor of
+electrical and computer engineering and physics at Duke. “The quantum
+computing system is behaving in the same way as quantum systems found in
+nature — like liquid changing to steam — even though it’s digital.”
+
+The power of quantum computers lies within their qubits’ ability to be some
+combination of both a 1 and 0 at the same time, with an exponential growth of
+system complexity as more qubits are added. This allows them to tackle a
+problem with massive parallelism, like trying to fit a puzzle’s pieces
+together all at once rather than one at a time. The qubits, however, have to
+be able to maintain their quantum indecisiveness until a solution is reached.
+
+One of the many challenges this presents is in error correction. Some of the
+qubits will inevitably lose a piece of information, and the system must be
+able to discover and fix these mistakes. But because quantum systems lose
+their “quantumness” when measured, keeping an eye out for errors is a tricky
+task. Even with extra qubits keeping an eye on things, the more a quantum
+algorithm is probed for errors, the more likely it is to fail.
+
+“Like water molecules on the verge of becoming steam, there’s a threshold of
+measurements a quantum computer can withstand before it loses its quantum
+information,” Noel said. “And that number of measurements is an analogy for
+how many errors the computer can withstand and still function correctly.”
+
+In the new paper, Noel and her colleagues probe that transition threshold and
+the system’s state on either side.
+
+Working closely with Christopher Monroe, the Gilhuly Family Presidential
+Distinguished Professor of Engineering and Physics at Duke, Marko Cetina,
+assistant professor of physics at Duke, and Michael Gullans and Alexey
+Gorshkov at the University of Maryland and the National Institute of Standards
+and Technology, the group co-designed software to run random quantum circuits
+tailored to their quantum system’s abilities. The experiment was run on one of
+the Duke Quantum Center’s ion trap quantum computers—one of the most powerful
+quantum computing systems in the world.
+
+“The number of qubits in the system, the fidelity of its operations and the
+level of system automation combined together at the same time is unique to
+this quantum computer system,” Noel said. “Other systems have been able to
+achieve each individually, but never all three at the same time in an academic
+system. That’s what allowed us to run these experiments.”
+
+By averaging over many random circuits, the team was able to see how the
+frequency of measurement affected the qubits. As predicted, a critical point
+emerged at which the system inevitably lost its coherence and quantum
+information, and by looking at how the system behaved on either side of that
+phase transition, researchers will be able to build better approaches to
+error-correction codes in the future.
+
+The data also provides a unique look into how other phase changes occur in
+nature that researchers have never been able to see before.
+
+“This demonstration is a perfect example of what we do uniquely at the Duke
+Quantum Center,” Monroe said. “While our quantum computers are made of atoms
+that are under exquisite control with electromagnetic traps, lasers and
+optics, we can deploy these systems to do something altogether different, in
+this case probing the underlying quantum nature of phase transitions. This
+same quantum computer can also be applied to solving vexing models in fields
+ranging from chemical reactions, DNA sequencing, and astrophysics. This
+requires expertise not just in atomic physics, but in systems engineering,
+computer science and whatever field defines the application to be run.”
+
+This work is supported by the Army Research Office through the IARPA LogiQ
+program, the National Science Foundation STAQ Program, the Air Force Office of
+Scientific Research MURIs on Dissipation Engineering in Open Quantum Systems
+and Quantum Measurement/Verification and Quantum Interactive Protocols, the
+Army Research Office MURI on Modular Quantum Circuits, the Department of
+Energy Quantum Systems Accelerator, and the Department of Energy ASCR
+Accelerated Research in Quantum Computing program (DE-SC0020312).
+
+CITATION: “Observation of Measurement-Induced Quantum Phases in a Trapped-Ion
+Quantum Computer,” Crystal Noel, Pradeep Niroula, Daiwei Zhu, Andrew Risinger,
+Laird Egan, Debopriyo Biswas, Marko Cetina, Alexey V. Gorshkov, Michael J.
+Gullans, David A. Huse, Christopher Monroe. Nature Physics, June 3, 2022. DOI:
+10.1038/s41567-022-01619-7
+
+## Related News
+
+August 20, 2020
+
+### Crystal Noel: Hot on the Heels of a Long-Lasting Qubit
+
+April 16, 2018
+
+### Spectator Qubits Seek to Improve Control of Four Quantum Computing Systems
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,178 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# An Adventure Abroad in Brain-Machine Interfaces
+
+February 19, 2016 | By Olivia Zhu
+
+Matthew McCann, Pratt ’16, spent his summer translating thoughts into
+movements.
+
+_Story originally posted on theDuke Research Blog_
+
+A biomedical engineering and mathematics major, the Duke senior contributed to
+work in the field of prosthetics by creating a brain-machine interface that
+senses different brain waves of a subject and converts them into movements of
+a mechanical hand.
+
+McCann, who had never traveled to Europe, let alone lived there for three
+months, took his foreign adventure one step further and pursued cutting-edge
+research in Rand Almajidy’s biomedical engineering lab in Germany. McCann was
+paired with the University of Freiburg for a Research Internship in Science
+and Engineering by the German Academic Exchange Service.
+
+McCann combined two prominent biomedical techniques, tri-polar concentric
+electroencephalograms (tEEG) and near-infrared spectroscopy (NIRS), to pick up
+the brain activity of his subjects. EEGs are the typical devices one pictures
+when imagining recording brain activity: electrodes stuck all over a subject’s
+skull to pick up neuron firing when particular brain regions are active.
+
+NIRS is a novel way of measuring brain activity. A common application of NIRS
+is in the pulse oximeter, or the plastic clip-like contraption doctors place
+on your finger to measure pulse and blood oxygenation. McCann used NIRS to
+measure the blood flow in different regions of the subject’s scalp. Different
+patterns of blood flow indicated dynamic brain activity.
+
+Based on data obtained from these two techniques, McCann categorized brain
+activity into three specific intentions: thinking about moving the right hand,
+thinking about moving the left hand, and thinking about moving the feet. Each
+different intention to move was then connected with moving one finger of a
+mechanical hand. An example of the hand moving in response to different
+intentions is shown below (at 8x speed):
+
+McCann’s major challenges in the project were processing complicated EEG
+signals and removing noise from these signals in order to correctly classify
+each of the movement intentions. He worked with vast amounts of training data
+from subjects who had practiced focusing acutely on each of the movements.
+
+He ultimately isolated the specific frequency bands whose power was modulated
+most drastically during the three movement intentions he was targeting. These
+frequency bands served as the basis for his machine-learning algorithm, which
+matched known data the subjects had been trained to produce with unknown
+thoughts about movement.
+
+After developing his algorithm, McCann tested it on unknown data, in which
+subjects thought about moving their right hand, their left hand, and their
+feet in some arbitrary sequence. McCann’s algorithm ultimately obtained
+impressive accuracy of up to 80% when categorizing unknown thoughts about
+movements.
+
+Through his research, McCann demonstrated the feasibility of rapidly creating
+functional prosthetics from simple materials and only open-source software.
+His prosthetic hand proves promising to medical innovation, as it represents a
+non-invasive, functional brain-machine interface. Ultimately, his success
+sheds optimism on the future of prosthetics.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Engineering Spinout Aims to Improve Cancer Drug Screening
+
+April 21, 2020 | By Elizabeth Witherspoon
+
+Celldom’s microfluidics imaging technology pinpoints drug-resistant cells
+
+__Does a cell live or die when exposed to a drug therapy? If a cell lives, how
+fast does it grow, and does its growth rate change over time?__ These
+questions are central to a cancer biologist’s research.
+
+And, choosing which cancer drug to advance into clinical trials to obtain FDA
+approval can be a $100 million gamble by a pharmaceutical company. Trials can
+establish whether a treatment if safe and effective, but only much later,
+sometimes after a drug is on the market, will they learn whether the drug is
+durable over the long term—or if a few outlier cells will develop resistance
+and lead to a relapse.
+
+Celldom, a Duke University spinout company from the lab of Benjamin Yellen,
+associate professor in the Department of Mechanical Engineering and Materials
+Science, is bringing to market a system that aims to pre-screen potential
+therapeutics for long-term effectiveness by significantly improving the
+ability to completely characterize the phenotypes and genotypes of individual
+cells, instead of testing drugs in a broader environment like a blood or
+tissue sample.
+
+“What we’re proposing is to give you a way to qualify drugs based on which
+ones are most likely to be durable,” said Yellen, chief technology officer of
+Celldom.
+
+According to Yellen, the promise of single-cell analysis is in the ability to
+find rare cells in a population that have important clinical implications. For
+example, drug-resistant cells present at small fractions in a background of
+otherwise drug-sensitive cancer cells can actually become enriched during
+treatment, leading to tumor regrowth. Quantifying these rare cell responses
+could help drug developers screen drugs prior to clinical trials.
+
+Yellen’s team has developed a tiny silicon chip that uses microfluidic
+technology to trap 6,000 cells at a time, each in individual chambers. Next,
+the cells are exposed to a target drug and undergo monitoring for days with
+time-lapse imaging. Within a few days, the image sets help researchers
+determine what percentage of the cells died and what percentage lived, and
+which ones grew quickly or slowly. Based on these images, they can then
+analyze the genomic properties of these cells to discover specific mutations
+or analyze gene expression patterns in the drug-resistant cells as compared to
+the drug-sensitive ones.
+
+Through this combination of live-cell imaging and single-cell genomic
+measurements, the Celldom platform can predict which drugs are likely to lead
+to resistance, rule them out and therefore bypass the lengthy and expensive
+clinical trials process.
+
+This work is one of many examples where the science of engineering and
+materials research is meeting the challenge of medicine with creative
+solutions. Yellen is an expert in microfluidics, the science of manipulating
+and controlling fluids at the submillimeter scale. The field emerged in the
+early 1980s and was used at the time, for example, in developing inkjet
+printer heads.
+
+Today, microfluidics has given rise to a host of applications involving DNA
+microarray experiments. In fact, Celldom’s process involves labeling each
+individual cell on the chip with a DNA sequence, which acts like a barcode.
+
+“We append these barcodes onto the RNA or DNA in the cells of each chamber, so
+that when we read it on the sequencer, we can trace it back to the individual
+chamber and therefore to the sets of images,” said Yellen. “What’s different
+about us from other companies is that we are developing a way to do this very
+cheaply and at very large scale.”
+
+Another potential application area for the Celldom technology, after bringing
+this first one successfully to market, is in precision medicine, said Yellen.
+
+For example, a patient would provide a very small sample of a tumor or blood,
+in the case of a blood cancer, and Celldom would test it on a chip with over
+20 drugs to find out precisely which is the most effective treatment for them.
+
+In addition to support from Duke’s Office of Licensing & Ventures and the
+Duke-Coulter Translational Partnership, Celldom has attracted support through
+private investment, federal grants from the National Institutes of Health
+Small Business Innovation Research Grants and angel investors. The company
+operates bi-coastally with teams in downtown Durham and in the San Francisco
+Bay area.
+
+Yellen said he anticipates the company will remain bi-coastal, because it
+needs access both to molecular and cell biology expertise in North
+Carolina—cofounder Kris Wood is an assistant professor in the Department of
+Pharmacology & Cancer Biology at Duke—and the instrument development and
+software expertise in Silicon Valley. As for Yellen, personally, he says he
+will return to Duke at the end of his two-year sabbatical which began in
+January to teach, continue his research and, who knows, perhaps spin out
+another company one day.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

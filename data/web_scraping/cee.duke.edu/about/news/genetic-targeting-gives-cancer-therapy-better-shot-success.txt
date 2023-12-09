@@ -1,0 +1,237 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Genetic Targeting Gives Cancer Therapy a Better Shot at Success
+
+September 16, 2019
+
+A promising cancer therapy overcomes the body’s innate resistance using
+CRISPR/Cas targeting and drug delivery gel
+
+Biomedical engineers at Duke University have developed a method to address
+failures in a promising anti-cancer drug, bringing together tools from genome
+engineering, protein engineering and biomaterials science to improve the
+efficacy, accuracy and longevity of certain cancer therapies.
+
+Using a combination of CRISPR-based targeting, a protein “depot” that allows
+for sustained release of the drug and a highly potent binding system, the team
+showed that their new strategy could overcome three critical problems that
+limit the efficacy of many cancer drugs— their limited potency, their quick
+elimination from the body, and the ability of cancer cells to develop
+resistance to the drug.
+
+The research appeared online Sept. 4 in the journal Science Advances.
+
+More than 20 years ago, researchers discovered that the protein drug TRAIL,
+short for TNF-related apoptosis-inducing ligand, could effectively kill cancer
+cells without harming healthy cells -- at least, in the lab. TRAIL works by
+binding to specific protein receptors on cancer cells, ominously called death
+receptors, sending a signal that causes the cells to self-destruct. Although
+initial experiments showed the drug worked in a variety of cancer cell lines,
+including melanoma, lymphoma, pancreatic, prostate, lung, colon and breast
+cancer, TRAIL and similar drugs surprised researchers by showing limited
+success in clinical trials.
+
+After more study, scientists pinpointed three reasons why the promising drug
+failed: TRAIL wasn’t potent enough, the drug was being cleared from the body
+too quickly and some cancer cells were resistant to the therapy.
+
+Using a combination of three tools -- a highly potent protein drug, a “depot”
+that allows for sustained release of the drug, and CRISPR/Cas9 based gene
+editing to pinpoint the cause of resistance to the drug -- the Duke team,
+which included Mandana Manzari, a recent PhD graduate, Ashutosh Chilkoti, the
+chair of Duke biomedical engineering, and Kris Wood, an assistant professor of
+pharmacology and cancer biology, demonstrated that their new strategy could
+provide a solution to these problems and give protein-based anti-cancer
+“biologics” like TRAIL that failed in the clinic a second chance.
+
+“The real significance of this research for me is the true cross-disciplinary
+nature of it,” said Manzari, first author on the paper and now a post-doctoral
+researcher at the Memorial Sloan Kettering Cancer Center in New York. “This is
+really the first example I’ve seen where we’re bringing in pharmacology, drug
+delivery, and genomics to pinpoint the exact circumstances that cause a
+biologic to fail and then develop solutions.”
+
+The first step of the process involved addressing TRAIL’s limited potency.
+Typically, cells have multiple death receptors, but a specific receptor called
+death receptor 5 (DR5) is more prevalent in certain cancer cells. TRAIL, a
+three-part protein, binds to DR5 and links three death receptors together,
+sending a signal for cells to self-destruct. TRAIL can also bind to other
+death receptors and "decoy" receptors on normal cells. A more potent drug
+would be specific for a given death receptor, like DR5 that is present on
+cancer cells, and link together larger numbers of the receptor on a cell
+surface to send a stronger death signal to the cancer cell.
+
+Manzari produced a highly potent, six-part death receptor agonist (DRA) that
+could bind six death receptors together and indude a much stronger self-
+destruct signal.
+
+Next, the team examined how to prevent the super-potent death receptor agonist
+from being cleared from the body too quickly. They genetically fused the DRA
+to a temperature-responsive protein called elastin-like polypeptide (ELP),
+which forms a gel-like “depot” within a room-temperature solution. After the
+solution is injected under the skin, it dissolves, releasing the DRA over a
+longer period of time.
+
+Finally, Chilkoti and Manzari partnered with Kris Wood to better understand
+what caused certain cells to resist death by TRAIL or death receptor agonist
+(DRA). The team systematically disabled various genes in the cancer cells
+using CRISPR/Cas9 until they could deduce which were responsible for TRAIL or
+DRA resistance. Then they selected drugs to target the proteins produced by
+those genes and paired them with the DRA slow-release depot.
+
+“This work opens another exciting avenue for targeting a critical cell death
+pathway in cancer, an area of increasing interest in the translational cancer
+therapeutics community,” Wood said.
+
+“When we figured out the genes that drive resistance, we were able to map them
+to commercially-available drugs that could specifically target the proteins
+that come from those genes,” said Manzari. “It basically gave us a platform to
+figure out what drugs we can combine with the DRA in cases where this drug or
+other protein drugs don’t work well to nip that resistance in the bud.”
+
+With their triple-whammy tool, the team was able to effectively overcome
+intrinsic resistance, repress tumor growth and extend survival in mice that
+were implanted with colorectal cancers from human patients that are highly
+resistant to treatment with TRAIL.
+
+Now, the researchers are considering how they could apply this method to other
+protein and small-molecule drugs that face similar barriers that limit their
+effectiveness.
+
+“I think the thing that really sets this approach apart is designing each
+piece of the platform rationally to address a specific problem and bringing
+them all together holistically to solve three critical problems that limit not
+just TRAIL, but many new cancer therapies,” Chilkoti said.
+
+“Typically the protein engineering is one platform, the ELP strategy is one
+platform and the genomic screen strategy is its own platform,” Manzari said.
+“This is a good example of true synergy of engineering, pharmacology, genomics
+and materials. People always talk about bringing those together, and this is a
+clear example of that.”
+
+This research was funded by the National Institutes of Health
+(5R01EB007025-08, 5R01EB000188-12, 5R01GM061232-16, R01CA207083, and
+5T32GM007105) and the Duke University BME/DCI Collaborative Grant.
+
+CITATION: “Genomically Informed Small Molecule Drugs Overcome Resistance to a
+Sustained Release Formulation of an Engineered Death Receptor Agonist in
+Patient-Derived Tumor Models,” Mandana T. Manzari, Grace R. Anderson, Kevin H.
+Lin, Ryan S. Soderquist, Merve Cakir, Mitchell Zhang, Chandler E. Moore,
+Rachel N. Skelton, Mareva Fevre, Xinghai Li, Joseph J. Bellucci, Suzanne E.
+Wardell, Simone A. Costa, Kris C. Wood, Ashutosh Chilkoti. Science Advances,
+2019. DOI 10.1126/sciadv.aaw9162
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

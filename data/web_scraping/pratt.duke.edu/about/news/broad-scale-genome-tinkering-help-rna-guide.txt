@@ -1,0 +1,190 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Broad-Scale Genome Tinkering With Help of an RNA Guide
+
+August 5, 2013 | Kendall Morgan
+
+Duke Institute for Genome Sciences & Policy
+
+DURHAM, N.C. -- Duke researchers have devised a way to quickly and easily
+target and tinker with any gene in the human genome. The new tool, which
+builds on an RNA-guided enzyme they borrowed from bacteria, is being made
+freely available to researchers who may now apply it to the next round of
+genome discovery.
+
+The new method also has obvious utility for gene therapy and for efforts to
+reprogram stem or adult cells into other cell types – for example, to make new
+neurons from skin cells.
+
+"We have the genome sequence and we know what all the parts are, but we are
+still in need of methods to manipulate it easily and precisely," says
+assistant professor Charles Gersbach, of Duke's Pratt School of Engineering
+and the Duke Institute for Genome Sciences & Policy. "That's where this
+engineering tool comes in."
+
+Gersbach's team had already been in the business of tinkering with the genome
+using specially engineered proteins, but the process was difficult and slow.
+It was hard to imagine how to scale it up for the investigation of hundreds or
+even thousands of genes in the way genome scientists really wanted to do.
+"That's where the conversation always broke down," he says.
+
+Then, he and post-doctoral researcher Pablo Perez-Pinera found out about an
+RNA-guided protein called Cas9 found in a Streptococcus bacteria. The bacteria
+rely on Cas9 as part of an adaptive immune system to defend themselves against
+infection by viruses, cutting out a piece of the viral DNA and inserting it
+into their own genome for recognition of future infection. Other scientists
+then showed that those immune system components could function inside human
+cells.
+
+Gersbach's team recognized the RNA-guided nature of this system as a potential
+game-changer for the gene engineering work they do.
+
+In the study now reported in Nature Methods on July 25, Gersbach and his
+colleagues modified Cas9 to turn genes on rather than cut them. They showed
+that their tool could turn on very specific genes in human cells. They went on
+to demonstrate use of the tool to modify targets of interest for fighting
+inflammation and activating gene networks for making neurons, muscle cells or
+stem cells. They showed they could induce a gene known to alleviate symptoms
+of sickle cell disease, too.
+
+In other words, it works, and it works on genes that matter from a clinical
+perspective. In principle, the RNA-guided tool could be used to modify or
+influence any gene anywhere in the genome.
+
+Gersbach now hopes to apply the new tool along with collaborators in the IGSP
+to investigate the functions of thousands of sites across the genome. With
+tissue engineer Farshid Guilak, a professor of engineering and orthopaedic
+surgery, he will continue to work on its application in the fight against
+inflammatory and autoimmune diseases such as arthritis.
+
+"This simple and versatile tool makes it easy for anyone to do this," Gersbach
+says.
+
+The work was funded by the National Institutes of Health, the National Science
+Foundation and the American Heart Association. Other collaborators on the
+study include D. Dewran Kocak, Christopher Vockley, Andrew Adler, Ami Kabadi,
+Lauren Polstein, Pratiksha Thakore, Katherine Glass, David Ousterout, Kam
+Leong, Greg Crawford and Tim Reddy.
+
+CITATION: "RNA-Guided Human Gene Activation by CRISPR/Cas9-Based Engineered
+Transcription Factors," Pablo Perez-Pinera et al. Nature Methods, July 25,
+2013. DOI: 10.1038/NMETH.2600
+
+_Originally published
+athttp://www.genome.duke.edu/press/news/post.php?s=2013-07-25-broadscale-
+genome-tinkering-with-help-of-an-rna-guide_
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

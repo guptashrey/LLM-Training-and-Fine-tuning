@@ -1,0 +1,298 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke ECE's Michael Gehm: Reevaluating the Architectures of Measurement
+
+March 21, 2022
+
+In this Q&A, the optics expert discusses his lab's computational sensing
+research and its potential for impact in health and security applications
+
+_Michael Gehm is an Associate Professor of electrical and computer engineering
+at Duke and is the director ofECE PhD programs._
+
+## 1\. What's your favorite fact about light?
+
+People frequently say the sky is blue because blue light preferentially
+scatters. But what physics says is that shorter wavelengths scatter more—so
+why is the sky not purple or violet?
+
+The light coming from our sun peaks in the range of green, which has to do
+with its temperature. The preference of blue light to scatter is balanced
+against the fact that most of the light that is scattering is green.
+Relatedly, human vision responds more strongly to green, and we don’t see
+shorter wavelengths of light as well. This is a fuller explanation of why we
+see the sky as blue!
+
+**optics:** the branch of physical science that deals with the properties and
+phenomena of both visible and invisible light
+
+## 2\. You're a Fellow of the Optical Society of America and of the
+International Society for Optics and Photonics. How do optics figure into your
+research?
+
+Speaking most broadly, my research is actually about measurement. I’m
+interested in figuring out how to make better measurements of all types, not
+just optical. My work is a mix of computation and physical transduction, which
+composes a field sometimes called “computational sensing.” The driving idea is
+to think about how we can change the architectures of measurement devices to
+better make use of the resources that are available now, like computer
+processing.
+
+> I’m interested in figuring out how to make better measurements of all types,
+> not just optical. My work is a mix of computation and physical transduction,
+> which composes a field sometimes called “computational sensing.”
+
+For example, sensing systems like radar and magnetic resonance imaging, or
+MRI, that were designed in the modern era don’t produce signals that are
+immediately interpretable by the eye and the brain. An MRI does not physically
+create a tiny model of a knee; rather, it makes a bunch of measurements and
+turns them over to a computer. The computer then solves a complicated, messy
+math problem related to the condition of the knee and how those conditions
+resulted in the measurements that were taken. Only then are the results
+translated into an image that someone is able to interpret.
+
+## 3\. What’s one project that you’re working on right now that you’re really
+excited about?
+
+One thing we’re starting to look at in my group is a technique called X-ray
+phase imaging. The X-ray images people are familiar with are absorption
+images. They are made when emitted X-rays are partially attenuated by a target
+object as they travel through it, and then the remainder are detected on the
+other side of the target.
+
+If you think of the standard X-ray of a broken arm, the bones are brightly
+visible. There’s good contrast there, so conditions like fractures are clearly
+visible. You can also see just a little bit of the soft tissue around the
+bones— but not very much. The boundaries between skin and muscle aren’t very
+visible, for example.
+
+> The phase of the X-ray wave—where it exists in its oscillation cycle—can be
+> affected by the material it travels through. Phase contrast methods are all
+> about converting those differences into imagery, and they are very good at
+> providing contrast on soft tissues.
+
+But, the phase of the X-ray wave—where it exists in its oscillation cycle—can
+be affected by the material it travels through. Phase contrast methods are all
+about converting those differences into imagery, and they are very good at
+providing contrast on soft tissues. Skin affects the phase differently than
+muscle does, so you get a clear visual difference between the two types of
+soft tissue. Energy sensors in X-ray devices have gotten so much better and
+cheaper in the last few years, that they can help us get at the phase contrast
+information we need.
+
+Right now, if you needed high-contrast x-ray imaging of soft-tissue—to look at
+a suspected tumor, for example—you could turn up the x-ray dose, but that’s
+not really safe for the patient. Instead, MRIs are generally ordered. That
+equipment is big, expensive, specialized stuff. If we can develop a practical,
+convenient, safe way to get the necessary images using X-ray machines, then
+you might be able to have the image made in 15 minutes in your doctor’s office
+rather than waiting for hours at a special imaging facility, and those kind of
+projected benefits are what motivates this research. It’s very early days, but
+I’m intrigued to see where it goes.
+
+## 4\. How else might the average person experience the benefits of your lab’s
+research?
+
+We’re working with the Department of Homeland Security and the TSA to build a
+new type of security scanner, based on x-ray diffraction techniques—that’s
+different from x-ray phase contrast. At security checkpoints inside airports,
+a wide variety of materials in carry-on luggage get flagged because they have
+absorption properties that are similar to banned substances. An X-ray
+diffraction scanner would be accurate and efficient, saving dollars for the
+taxpayer and also giving travelers a quicker, smoother process.
+
+If we succeed in extending some of these x-ray techniques to clinical spaces
+and food inspection facilities—anywhere that X-ray function is built into the
+function of the space—that speeds up processes and pays dividends to
+everybody.
+
+**diffraction:** the spreading of waves around obstacles.
+
+## 5\. Are there opportunities for undergraduate students in your lab? How
+would their experience be different from a grad student’s experience?
+
+I’m a big proponent of undergraduate education and research. Very few
+universities have an applied physics department, so optics-focused research
+usually lives within electrical and computer engineering departments. So,
+because much of the work we perform in our lab does not align exactly with
+core undergraduate courses in ECE, there can be a significant learning curve.
+The ideal undergraduate researcher, therefore, is someone who wants to start
+early— as a second-year student, perhaps—and spend multiple years learning the
+skills they need to be successful in this lab. They might decide on a project
+that is less time-consuming, like a computer simulation, or they might decide
+to tackle an entire experiment, which requires skills that need to be learned
+and cultivated over a longer period of time. If an undergraduate student is
+committed to the idea of taking on a big project like that, they’ll get the
+benefit of experiencing real breadth across disciplines. They’ll get
+experience analyzing, simulating and building.
+
+When admitting graduate students to my lab, I look for an academic background
+that demonstrates a knowledge of physics and analytical skills. Many times, in
+other labs and other schools, a graduate student owns only a tiny part of a
+much bigger enterprise, but in my group almost every graduate student owns
+their own experiment and controls every piece of it, from theory to
+simulation. So, as far as knowledge and experience go, I look for breadth
+rather than depth.
+
+## 6\. What advice do you have for prospective students about finding a great
+lab “match”?
+
+It would be foolish of me to say, “have a great idea of what you want to do
+after graduate school when you’re looking for a group.” My own undergrad
+degree was in mechanical engineering and I worked as a mechanical engineer for
+three and a half years before starting grad school in physics. I had no
+interest in academia until almost immediately before I accepted my first
+academic position.
+
+What I can say is, “be aware of the kinds of problems you like to solve.” Grad
+school is all about learning to solve problems. Do you like working with your
+hands to make physical things? Do you like the computational aspect of
+research? Understanding the different ways that we attack problems in
+engineering is important, and if you can really develop a good feel for your
+preference, you can find a group to match.
+
+Also, contradicting all of that advice, is this: be open to change. If you’re
+not willing to consider new things, you’re missing out. Again, I’ll hold
+myself up as a poster child—a single colloquium that I attended as I was
+wrapping up my PhD opened my eyes to computational sensing and completely
+changed the course of my life. If I had been resolute in my dedication to my
+area of graduate study—the physics of ultracold atoms, that never would have
+happened.
+
+## 7\. What qualities make a successful grad student?
+
+> The most successful people I see in grad school are the ones who take
+> problems as personal challenges.
+
+Perseverance. Research is often a sequence of repeated disappointments until
+you make the final breakthrough. It’s hard! The most successful people I see
+in grad school are the ones who take problems as personal challenges. They
+have a mindset that says, “I am going to be the one who cracks the code.” It
+doesn’t matter if they experience failure after failure—the willingness to get
+up off the ground and keep throwing oneself at the problem is probably a prime
+indicator of grad school success.
+
+## Related News
+
+February 19, 2020
+
+### A Speedier and More Accurate Future for Airport Security Screening
+
+December 07, 2018
+
+### Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

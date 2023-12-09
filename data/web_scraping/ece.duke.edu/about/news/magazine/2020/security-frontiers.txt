@@ -1,0 +1,426 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# On Security's Frontiers
+
+October 12, 2020 | Miranda Volborth
+
+Trapping bad actors, detecting fakes and ensuring trustworthiness: secure
+computing is the goal of these Duke engineers
+
+## John Board: Defending the Hive
+
+It’s midday on a Monday, and there are around 100,000 devices active on Duke’s
+network—laptops, phones and scientific instruments among them. They are
+sending emails and experimental data, retrieving pay statements and accessing
+documents —all the things the busy Duke community does daily, without really
+thinking about the security implications of that networking.
+
+Fortunately, the Duke Office of Institutional Technology, OIT, is constantly
+monitoring all that activity, searching for suspicious activity that might
+signal that an intruder has gained access to the information hive. Among its
+security measures is an innovative NSF-funded program called STINGAR,
+shorthand for “Shared Threat Intelligence for Network Gatekeeping and
+Automated Response.” To foil bad actors, the OIT team first sets an
+irresistible trap —a seemingly undefended trove of information, or “honeypot.”
+STINGAR watches the trap and IDs the attackers that show up there, then
+immediately locks them out to prevent them from gaining access to other Duke
+properties.
+
+Unless, that is, the OIT team decides instead to lure attackers over the
+threshold and observe their behavior once they’re inside. “We learn about what
+they do, what kinds of attacks they use and what IP they report back to, which
+allows us to develop more elaborate defenses,” said STINGAR investigator John
+Board, a professor of electrical and computer engineering and Duke
+University’s associate chief information officer, a role he holds within OIT.
+Board says that these intruders can be anyone—from individuals who purchase
+hacker toolkits on the dark web, to nation-states interested in Duke’s
+research.
+
+John Board, Associate Professor, Duke ECE
+
+In 2017, a group of five OIT leaders, including Duke’s Chief Information
+Officer Tracy Futhey as well as Board, conceived of STINGAR following
+conversations with other universities about perceived weaknesses in their
+existing commercial cybersecurity tools. Later that year, a particularly
+aggressive malware campaign showed Duke’s existing commercial security tools
+blocking around 50 million malicious connection attempts every day; upon
+switching to the first STINGAR prototype, Duke’s security team increased its
+blocking capabilities to around 2 billion blocked connections per day. But
+STINGAR wasn’t developed solely for Duke. From the beginning, it was developed
+as a shared threat intelligence service, and is now deployed across a
+consortium of more than 30 schools, ranging from small minority-serving
+institutions and liberal arts colleges to major research universities.
+
+Some consortium members, like Duke, have a highly capable team of dedicated
+security personnel, but other have none; a condition of Board’s NSF grant is
+that STINGAR is developed to be a deployable resource that even the most
+sparsely resourced institutions can benefit from.
+
+“From Day One our goal was to make STINGAR so easy to use that institutions
+that have literally zero security personnel can use it. We make assumptions
+about what is ‘easy,’ but our partnering schools have worked us with us to
+make sure the products actually are easy to roll out,” said Board.
+
+Duke is now exploring options to allow the STINGAR consortium to thrive and
+grow beyond its current 30 member schools when the initial grant funding winds
+down. Testing to date has validated the expectation that as each additional
+school joins the group, the defenses of all schools in the program grow
+stronger.
+
+The confluence of IT and faculty research at Duke is unusual, and not limited
+to STINGAR or even cybersecurity. “Duke is a very special place because our
+faculty researchers truly welcome and support collaboration with OIT’s network
+and system operators,” said Futhey. “At any given time, we probably have 8-10
+personnel from OIT who are being partially funded by grants led by Duke
+faculty.”
+
+## NEIL GONG: KEEPING IT REAL
+
+Once upon a time, we shook open the morning paper or tuned in to the evening
+news to learn what was happening around the world, and by default believed
+what we saw or read there.
+
+Now we live in an era of disinformation. Many of us get our news from social
+media, where it’s not always easy to discern between fact and opinion, or
+between legitimate news and the fake stuff.
+
+And Duke assistant professor of electrical and computer engineering Neil Gong
+warns that “friends” on social media aren’t even necessarily trustworthy
+sources—because in many cases they aren’t real people.
+
+Gong partnered with Chinese social media giant WeChat for a project designed
+to winnow out fake users on that platform, and he says that bogus accounts
+make up a huge portion of its user base— they detected around 400K per million
+new registered accounts each day and achieve a precision of over 96% on
+average, a number verified by WeChat’s security team.
+
+WeChat has over a billion monthly users, making it an enormous trove of user
+data. And not all of those users are located in China—many people use the app
+to connect with family and friends in China, or to conduct business there,
+prompting concern from the U.S. government and others about how all of that
+information is collected and stored. Because of the sheer size of its user
+base, messages spread by multitudes of fake users can easily spread and be
+amplified. “If software is managing millions of fake users and they’re all
+saying the same thing, whatever fake thing they’re saying might start
+trending,” said Gong. He warns that fake accounts can feed users
+advertisements or even malware in addition to disinformation.
+
+Neil Gong, Assistant Professor, Duke ECE
+
+To identify the fakes, Gong developed a machine learning model to identify
+patterns in a trove of user registration data supplied by WeChat, including IP
+addresses and information about the type of device from which accounts were
+registered. A legitimate user would most likely sign up for WeChat from a
+mobile device, explained Gong, and they certainly wouldn’t sign up for a block
+of several hundred accounts using the same IP address. Furthermore, WeChat
+requires a phone number to verify new accounts, so if a single phone number is
+used to verify many new accounts, it throws another red flag.
+
+> "Whenever we apply machine learning to cybersecurity problems we have these
+> kinds of games between the attacker and the defender."
+>
+> NEIL GOng, Asst. Prof., Duke ECE
+
+“But let’s say we didn’t catch the fake accounts when they were registered,”
+Gong said. “We can also look at behavior and content.” If a user is posting
+every hour around the clock without ever taking time to sleep, for example,
+it’s a clear indication that some sort of software is managing the account.
+Or, what if a user associates only with other suspicious ones? “Guilt by
+association,” pronounced Gong—an attacker probably created many accounts that
+all follow each other to convey a sense of normalcy. Analyzing these “social
+graphs” is an area of research that Gong is now delving into more deeply.
+
+But attackers are refining their models as well.
+
+“Think about this,” said Gong. “If attackers know we are using AI to detect
+them, they can change their behavior, and change their social interactions.
+Whenever we apply machine learning to cybersecurity problems we have these
+kinds of games between the attacker and the defender. So our challenge now is
+to build robust machine learning techniques that can detect fake users even if
+the attacker changes tactics.”
+
+## Krishnendu Chakrabarty and Helen Li: Trustworthy Computing
+
+A lot of computing resources are spent running data from place to
+place—storing results in memory, fetching that data to the processor to
+perform calculations, then writing it back to memory. It costs a lot of energy
+and a lot of time, especially with machine learning applications—in fact,
+computer engineers refer to the resulting data bottlenecks as the “memory
+wall.”  
+  
+“Deep neural networks have to be trained, and all the new data coming in has
+to be classified. Those are the two main tasks, and they’re very computer-
+intensive,” said Duke electrical and computer engineering professor Krishnendu
+Chakrabarty. He and Duke ECE colleague professor Helen Li are partnering with
+faculty at the Washington State University on an NSF-funded project to design
+hardware that will help scale this wall. The project deals with processing in
+memory, or PIM, using non-volatile ReRAM memory technology on crossbar arrays.
+
+Chakrabarty describes the crossbar arrays as 2D matrices like tic-tac-toe
+boards. Wherever the lines intersect, there is a resistive random-access
+memory cell, or “ReRAM” cell, that can perform very efficient matrix
+computations like those used to train machine learning models, make inferences
+and store the resulting data even after the system powers down.
+
+Their novel computer architectures will advance machine learning, but machine
+learning is also being used to design the architectures; Chakrabarty and Li
+apply the same techniques to determine what the optimal configuration of the
+crossbar array might be—how large, which shape, and how many ReRAM cells will
+be needed to accomplish a given task.
+
+“In optimization you can weigh different parameters,” explained Chakrabarty.
+“You can give more weight to speed, or more weight to efficient power use.”
+
+Chakrabarty and Li envision building not just one architecture, but a family
+of them—including one that is tailored for power-hungry edge computing and one
+for high-performance computing tasks like tracking weather systems or real-
+time stock trends, where speed takes priority.
+
+Chakrabarty said that the average consumer might experience these types of
+optimization strategies in the form of faster devices or longer battery lives.
+“A self-driving car has been trained to recognize a catalogue of objects and
+to take corresponding actions,” he said. “But now suppose there a march is
+happening in the path of the car. The model isn’t trained for that—it’s an
+exceptional event. You’d have to retrain the model. The work would be done in
+the cloud and it might take an hour while you wait. But if you have training
+on the edge, the cloud isn’t necessary. The model could retrain itself and
+adjust on the fly, without utterly draining the battery.”
+
+Krishnendu Chakrabarty, Professor, Duke ECE
+
+Hai Li, Professor, Duke ECE
+
+Chakrabarty noted that ReRAM crossbars fail easily, as most immature
+technology will—so he and Li are building in fault tolerance with layers of
+software and algorithms that “mask” failures in the memory. “In other words,
+the system can detect faults and recover from them, and the users don’t see
+abnormal operations,” said Li.
+
+Li is also interested in quantifying the impact of faulty devices and
+circuit‐level errors on overall system performance. “Using emulators, we can
+inject manufacturing defects or circuit malfunctions, and then examine the
+accuracy of our predictions by comparing them with system performance,”
+explained Li.
+
+> "The system can detect faults and recover from them, and the users don’t see
+> abnormal operations."
+>
+> HAi li, Professor, Duke ECE
+
+“We may be computing with unreliable components, but in the end the
+computation is highly reliable,” said Chakrabarty. “Even if the components are
+untrustworthy, you can trust the outcome.”
+
+Chips, also, can fail for all kinds of reasons—they might overheat, the
+devices and interconnects might age, have manufacturing defects, or even have
+been deliberately sabotaged. DARPA’s Electronics Resurgence Initiative was
+launched in 2017 with the goal of reshoring chip manufacturing operations to
+the US, creating a more reliable and trustworthy supply chain while creating
+economic impact from a new class of US-made 3D chips.
+
+Demand for these new chips is expected to be huge.
+
+Traditional silicon chips have become very fast indeed—but they’re not going
+to get much faster due to the physical characteristics of the silicon itself.
+Replacing the silicon component with carbon nanotubes and using 3D integration
+of devices and interconnects, however, opens up new possibilities for
+increased speed and efficiency. The nanotubes themselves act as
+superconductive channels, letting electrons travel across the chip very
+quickly, and the nanotubes are packed together tightly, making it possible for
+each layer to be made extremely thin—just 100 nanometers tall. Logic layers,
+processor layers and memory layers can then be stacked on top of each other
+without taking up additional space. It’s like replacing a single slice of
+plain bread with a juicy cheeseburger slider.
+
+“We think about all the ‘what-ifs’ that could cause a 3D chip to fail—short
+circuits, open circuits, defects in transistors and ReRAM cells, contamination
+in the foundry,” said Chakrabarty. His ERI-funded collaboration with faculty
+at Georgia Tech seeks to insert appropriate design-for-test mechanisms into
+the new generation of chips, improving yield, system lifetime, and ensuring
+that their performance can be counted on.
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

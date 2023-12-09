@@ -1,0 +1,470 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# End Transmission
+
+August 30, 2019
+
+Duke professor David Katz works at the intersection of biomedical engineering
+and reproductive health. His research informs efforts to prevent the
+transmission of sexually transmitted diseases—most notably human
+immunodeficiency virus, or HIV.
+
+## Listen
+
+## Transcript
+
+Michaela Kane: You're listening to a new episode of Rate of Change, a podcast
+from Duke University's Pratt School of engineering, that takes a fresh look at
+some of the ingenious ways engineers are tackling some of society's toughest
+problems. I'm your host, Michaela Kane. Most people begin to learn about
+reproductive health during sex education classes in high school where the
+topic is typically framed around puberty and pregnancy. In reality, the field
+of reproductive health is incredibly varied, spanning subjects like
+infertility, contraception, cancer screening and prevention, and today's
+topic, which is STDs, more specifically, human immunodeficiency virus or HIV.
+
+Dr. Katz: I have broad interests in reproductive biology. I guess one could
+say that I'm interested in a spectrum of ways in which we, biomedical
+engineers, can contribute.
+
+Dr. Katz: These span a lot of different processes and phenomena, reproductive
+health, having to do with fertility, contraception in fertility, and
+toxicology of the reproductive system... They have to do with cervical cancer
+and how we diagnose and treat it.
+
+Michaela Kane: Although he spent decades working in the fields of biomedical
+engineering and reproductive health, it wasn't always his intention to go into
+BME. Instead, his sights were set a bit further from home, more than 200,000
+miles away, to be exact. During his time as a mechanical engineering student
+at Berkeley, Katz worked in aerospace related problems for NASA, specifically
+topics that had to do with the lunar surface.
+
+Dr. Katz: After a couple of years of intense study in applied physics, and
+applied math, and engineering, I grew restless and really wanted to do
+something that I felt was more meaningful to humans. It wasn't that I had
+anything against the space program. I just wanted a more human element in what
+I was doing. The lunar surface was rather barren.
+
+Michaela Kane: As a student at Berkeley in the '70s, Katz crossed paths with
+researchers who were working in the then young field of biomedical
+engineering, including one researcher who was studying how to apply fluid
+mechanics to the reproductive system.
+
+Dr. Katz: He had done a sabbatical in England and was studying the
+reproductive system, which has objects that swim in it called sperm. He was
+interested in this from a fluid mechanical point of view in terms of how that
+works, swimming in general. I thought, "Well, my skillset seems to match the
+need here." Others had worked on it primarily in the UK, but there were some
+real needs to expand it to make it more realistic biologically. That's what
+attracted me, and in particular, not just the biological relevance of this,
+but the biomedical relevance of this. Could we use this information to do a
+better job of diagnosing and treating disease in human health? I gave up my
+fellowship from NASA and started taking courses in the life sciences.
+
+Michaela Kane: Katz ended up creating a thesis that showed a mathematical
+model about how sperm swim to an egg, giving researchers a theoretical
+perspective about reproduction that hadn't really existed at the time.
+
+Dr. Katz: It was good science, but it was all theoretical. I really wanted to
+learn more about reproductive biology and medicine. Some of that work involved
+targeting sperm with molecules to kill them or disable them. Spermicides...
+There's spermicide-like molecules.
+
+Michaela Kane: While he was investigating these new avenues in reproductive
+health, a new disease was beginning to make headlines in L.A., New York, and
+San Francisco.
+
+Dr. Katz: The HIV virus was starting to take its toll in the United States in
+creating this nasty disease, AIDS. I was aware of this because I was in the
+Bay Area. I was very much informed about this awful disease and the fact that
+it was created by a virus. At the time, there wasn't interest in the U.S.
+government in this. It took a long time for the government to acknowledge and
+wake up to the fact that there was... This disease was going to be epidemic
+and have a devastating effect.
+
+Michaela Kane: In July of 1981, Lawrence K. Altman wrote an article for the
+New York Times titled, Rare Cancer Seen in 41 Homosexuals, that described how
+gay men were dying of an unusual disease called **Kaposi sarcoma** , a cancer
+that caused purple spots and bruises to appear on their skin. By 1982, it was
+discovered that people with hemophilia were also showing symptoms of the
+disease. That same year, the CDC began using the term AIDS, or acquired
+immunodeficiency syndrome, to describe the disease. By 1984, researchers
+announced that they discovered that a retrovirus was causing AIDS, calling it
+HTLV-3, later changing the name to HIV. Although this discovery made it easier
+to create a more accurate diagnostic test for the disease, it didn't lead to a
+vaccine or immediate treatment as some researchers had hoped.
+
+Michaela Kane: Why is HIV so hard to, not necessarily even treat, but it just
+is a difficult virus to work with?
+
+Dr. Katz: The infection by HIV is very challenging for a number of reasons.
+The virus is such that you can literally get infected by HIV by a single
+virion. That's what a single HIV virus is called, a virion. It only takes one.
+We know this from a variety of studies, some of which were informed by work at
+Duke, having to do with essentially the genetics of HIV. To prevent infection,
+you're dealing with a virus that... They're not a lot of virions that are
+introduced into the body. Because it only takes one, the way you deal with
+prevention is a little different than if you're just... In a lot of infections
+in the body, we know that if we reduce the size of the inoculum of the
+pathogen, a certain amount, the likelihood of infection is going to go down.
+
+Dr. Katz: In the case of HIV, the math is a little different. That's
+particularly challenging in terms of how forgiving various methods of
+prevention can be to just differences in people's bodies and their
+susceptibility to infection, how many virions are introduced. Secondly,
+another factor is that the HIV virus is... We read about this a lot. It's
+sneaky. It will infect you and then it'll sort of disappear for a while,
+difficult to detect.
+
+Dr. Katz: You may be infected but you may not have... When you're first
+infected by HIV, the numbers of virions, the viral load as it's called, that
+are in your body fluids, go up. Then soon thereafter, they go down. They can
+remain dormant for a long time. For people who have been infected but didn't
+get tested early on, they may not know they're infected. This can go on for
+months, even years. That's another reason why this is such a perplexing virus.
+We think about HIV almost like trench warfare in the First World War. It goes
+in. It hunkers down. You try to disable it but you can't get to it. You can't
+find it. It's in these hidden reservoirs.
+
+Michaela Kane: "This hunkering down," as Dr. Katz says, "Is called the latent
+HIV infection," which occurs when a group of immune cells in the body are
+infected with HIV but are not actively producing new virions. This allows the
+virus to hide themselves for years, which makes it hard to clear out of the
+system. It wasn't until 1987 when the first medication for AIDS, called AZT,
+was approved for use. AZT didn't remove the virus from the body but instead,
+slow its progression by prolonging this latent stage.
+
+Dr. Katz: When HIV was discovered... It was a retrovirus. People started
+thinking, "Well I can create a drug or I can find a drug that works against
+this retrovirus by attaching to the cells that the virus infects." They found
+an early... It's called antiretroviral drug. They gave it to people who had
+been infected. Guess what? They started getting better. Their viral loads went
+down. This was great. There was this feeling of euphoria for a couple of
+months. Then they got sick again or their viral loads went up. The reason was
+that the virus was mutating.
+
+Dr. Katz: This drug alone was not sufficient. Then they said, "Well, let's put
+a different kind of drug in at the same time and see how that works." They did
+that. Guess what? The people stayed... The viral loads went down for a longer
+period of time, but then they came back. Finally, when they put a third drug
+in, they discovered that they could start to treat the disease through the
+combined effects of these three different drugs.
+
+Michaela Kane: The spread of and subsequent health response to the AIDS
+epidemic caused Katz, then a faculty member at UC Davis, to explore how his
+research could be used to potentially help prevent the transmission of HIV and
+other sexually transmitted diseases.
+
+Dr. Katz: The connection was that sexually transmitted HIV causes infection in
+the same environment where sperm move. I knew a great deal about that
+environment by then, its physiology, its anatomy, its endocrinology. I also
+knew quite a bit about sticking molecules in there to make things better or
+worse. That is to say, for contraception, or to treat infertility, a lot of
+maneuvers. It was quite natural to begin to imagine how I could contribute to
+understanding various modalities for preventing infection by sexually
+transmitted HIV.
+
+Dr. Katz: That marked my transition to becoming interested in HIV. I moved to
+Duke from Davis in... at Christmas time in 1993. When I came here, Duke was
+already becoming interested in the immunology of HIV. I started changing the
+emphasis of what I was doing more towards sexually transmitted infections like
+HIV.
+
+Michaela Kane: It's been nearly 40 years since AIDS and HIV first broke into
+the public consciousness. While the disease is no longer a death sentence,
+there is still no true cure. In fact, as of this recording, only two men have
+ever been functionally cured of HIV after receiving a bone marrow transplant
+as a treatment for leukemia. While bone marrow transplants are not likely to
+be a cure for the disease, people who are at risk of contracting HIV can take
+Pre-exposure prophylaxis, also known as PrEP, to reduce the likelihood of
+contracting HIV. These are notable successes in the fight against HIV, but the
+virus's biology hasn't been the only roadblock in the pursuit of a cure.
+
+Dr. Katz: There are massive behavioral, social, societal factors, stigmas,
+prejudices, and so on that underlie addressing the AIDS pandemic. These have
+been a big constraint because it originally developed in men who have sex with
+men. It's much, much, much more ubiquitous than that. The stigma associated
+with that that was prevalent in this country in the '80s and in the minds of
+our government have remained a constraint in our treatment of the disease.
+This is a social, a behavioral, as well as a biological challenge to us as a
+disease.
+
+Dr. Katz: Most diseases aren't like that. You get polio. No one is going to
+dispute the fact. "Oh, we need to treat polio because all our kids are getting
+it," which they were in the '50s until Jonas Salk made his vaccine. Remember,
+HIV infection is not AIDS. AIDS develops from HIV infection over time. This is
+really beset with all these challenges, all these stigmas, all these
+prejudices, which play out very differently across this planet. It's different
+in Sub-Saharan Africa than it is in India, than it is in the Middle East, than
+it is in China, than it is in South America, than it is in the United States,
+it is in Scandinavia. Societal mores, and practices, and behaviors are... They
+vary. The common theme and across these, however, is sexism. That's the theme
+that is common to all of the above. Really, what I do is very deliberately
+intended to empower women with control of their bodies in terms of
+susceptibility to infection and contraception, for that matter.
+
+Michaela Kane: While condoms can be a reliable tool to help prevent HIV and
+other sexually transmitted diseases, they are only useful if a man agrees to
+wear one. Instead, researchers like Dr. Katz are investigating how to create
+tools that women, who make up more than 20% of new HIV cases, can control on
+their own.
+
+Dr. Katz: One characteristic that's been central to my work for a while now is
+the integration of... I'll call them biological and pharmacological processes
+involved in creating something that will work if somebody uses it. For
+example, one of the things that I've been working on recently are intravaginal
+rings. We have an intravaginal ring that delivers contraceptive hormones.
+NuvaRing... They're new contraceptive rings in development.
+
+Dr. Katz: We have evidence that these have a epidemiologic niche in the menu
+of options that women need for... whether it's for contraception or for
+prevention of sexually transmitted infections. I'm interested in, and this is
+collaborative work, in delivering different drugs and intravaginal rings to
+prevent infection by HIV. Concomitantly, I, of necessity, have to understand,
+are we designing rings and products in general that women will use?
+
+Dr. Katz: I worked with behavioral scientists on this for a number of years
+now. Over 10 years now, I've worked with a psychologist at Brown University
+named Kate Guthrie. Her earlier name was Kate Morrow. She's a behavioral
+scientist. She works on people's sensory perceptions, and experiences, and
+preferences for things that they put on or in their bodies. We've done a lot
+of work together in the HIV field, having to do with delivering products that
+apply molecules that we call microbicides to the body. All kinds of
+products... rings, gels, films, suppositories. What we've done is to try to
+understand how the properties of these products and the dosage requirements
+for them, how frequently you have to apply them, or keep them in, or et
+cetera, are perceived and accepted by users.
+
+Michaela Kane: An example of this work involves the first microbicide that
+went to efficacy testing. This gel contained a drug called Tenofovir, which is
+used to treat HIV. In the first study with this gel, researchers found that it
+could reduce the chances of contracting HIV during sex if used correctly.
+
+Dr. Katz: They did two follow-up studies. It didn't work. They discovered that
+the reason why it didn't work was that women weren't using it as directed
+because it was messy. To me, this was just evidence that you've got to design
+something that people will use. You've also got to understand how to design a
+gel that people will use. That's where my engineering came in. A very simple
+example was this Tenofovir gel was too runny. The volume was too high. It was
+very messy. In the light of what we learned from the Tenofovir gel trials and
+their successes and their failures, we clearly needed to emphasize user
+acceptability in designing products, and that led us to a renewed emphasis on
+intravaginal rings as devices for delivering anti-HIV drugs. And the good news
+is that there is a ring that delivers a different drug from Tenofovir that’s
+called Dapiverine that has been successful in several clinical trials for
+reducing infection by sexually transmitted HIV, and this is well along in the
+path to approval and distribution and commercial distribution worldwide. That
+success has really been a stimulus to many of us who work in this field.
+
+Michaela Kane: According to Katz, these rings occupy a unique niche, because
+they offer the benefits of more long-lasting protection, like those from
+contraceptive injections or implants, but they can also be easily removed.
+Now, Dr. Katz and his lab are looking into how they can continue to optimize
+the performance of these rings based on behaviors from their users.
+
+Dr. Katz: We want products that have rapidly acting efficacy profiles, and
+that if they are removed have a long tail. That’s the term that’s used in
+pharmacology for activity after you remove the product. Because behaviorally
+we know that not all women will keep a ring in continuously throughout the
+month or up to three months of designated use. So we’re trying to raise the
+bar in new work that we’re doing on designing intravaginal rings and we’re
+very excited about it in the following sense.
+
+Dr. Katz: First of all, we’re using more advanced drugs than Tenofovir that
+are much more potent and very long acting. Secondly, we’re building the rings
+and this is work that’s done at UNC with my colleague Rahina Bemabor, and
+we’re 3D printing these rings for the first time so we can really customize
+their shapes and their properties for efficient drug delivery compared to the
+injection molding process that’s historically been done. We’re also evaluating
+these rings using advanced methods of modeling that we’re doing in my group
+and of measurement of transport into tissue that we’re also doing in my group.
+
+Dr. Katz: So we see intravaginal rings as becoming a mainstay and used by
+women for contraception, for protection against multiple sexually transmitted
+infections and potentially for delivery of drugs for other gynecological
+needs.
+
+Michaela Kane: Katz has also been involved in a collaboration with researchers
+in Duke BME to help create a highly sensitive diagnostic test for HIV.
+
+David Katz: For a number of years we’ve been interested in sticky molecules
+that can attach to the virus, and disable the ability of the virus to infect
+cells.
+
+Michaela Kane: One of their targets involves a family of protein molecules
+that was originally derived from algae in the ocean. These molecules, called
+Lectins, are very sticky, and they can stick to the sugars on the surface of
+HIV. The lab has zeroed in on a particular molecule in this family called
+Griffithsin, which can efficiently stick to virions and disable them.
+
+Dr. Katz: We were interested as engineers, however, in how to produce this
+molecule efficiently and potentially in a more potent version. And that led us
+to connect with another faculty member in BME, Michael Lynch in biomedical
+engineering, who is a true expert in making boutique molecules in bacteria.
+And so we approached Mike about this, and Mike was intrigued about the
+possibility, and this became a project in his undergraduate BME design class,
+where we did the original work.
+
+Michaela Kane: Initially, the team was interested in using Griffithsin as
+protection against HIV, so the Katz lab completed mathematical studies about
+how fast acting the molecule could be, and how its activity varied as
+different microbicide products.
+
+Dr. Katz: At the same time a lightbulb went off, and I’m not sure when it
+first went off, but it involved a very closely related use of this molecule,
+and that is not to disable HIV but to detect it. One of the needs that we have
+is to have early detection of infection by HIV. As I said earlier one of the
+problems is that people don’t’ know they are infected. And most methods for
+early detection of HIV require not the detection of the virus itself when it
+first appears in a body fluid, but antibodies that are created in response to
+it. What we saw, and this is really Mike’s idea and Tosh Chilkoti’s idea in
+our department was to use the stickiness of Griffithsin to create an assay
+that could detect very small numbers of virions in body fluid, for example in
+blood.
+
+Dr. Katz: Very soon after infection, much sooner than is currently possible
+with antibodies. So there is a new project that is starting up now, in which
+we’re putting our heads together, including Tosh Chilkoti’s real expertise in
+developing very sophisticated assays for detection, Mike’s ability to make a
+molecule that has properties that we need, and our ability in my group to put
+the transport aspects of this together in terms of the kinetics of how quickly
+it would work and some of the other design features. So we have a new project
+that is starting up now with other investigators in BME, not looking at
+prevention per say, but looking at detection, which, if this works, could be a
+real game-changer.
+
+Michaela Kane: If you're interested in learning more about Dr. Katz's work,
+check out his lab website on his profile on the Pratt website at
+pratt.duke.edu. Don't forget to subscribe, and thanks for listening to Rate of
+Change, a new podcast from the Pratt School of Engineering.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### David F. Katz
+
+Nello L. Teer, Jr. Distinguished Professor of Biomedical Engineering, in the
+Edmund T. Pratt, Jr. School of Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,270 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Light-Trapping Nanocubes Drive Inexpensive Multispectral Camera
+
+November 25, 2019 | By Ken Kingery
+
+Plasmonic light detector could revolutionize multispectral imaging for cancer,
+food safety and agriculture
+
+Researchers at Duke University have demonstrated photodetectors that could
+span an unprecedented range of light frequencies by using on-chip spectral
+filters created by tailored electromagnetic materials. The combination of
+multiple photodetectors with different frequency responses on a single chip
+could enable lightweight, inexpensive multispectral cameras for applications
+such as cancer surgery, food safety inspection and precision agriculture.
+
+A typical camera only captures visible light, which is a small fraction of the
+available spectrum. Other cameras might specialize in infrared or ultraviolet
+wavelengths, for example, but few can capture light from disparate points
+along the spectrum. And those that can suffer from a myriad of drawbacks, such
+as complicated and unreliable fabrication, slow functional speeds, bulkiness
+that can make them difficult to transport, and costs up to hundreds of
+thousands of dollars.
+
+In research appearing online on November 25 in the journal Nature Materials,
+Duke researchers demonstrate a new type of broad-spectrum photodetector that
+can be implemented on a single chip, allowing it to capture a multispectral
+image in a few trillionths of a second and be produced for just tens of
+dollars. The technology is based on physics called plasmonics—the use of
+nanoscale physical phenomena to trap certain frequencies of light.
+
+“The trapped light causes a sharp increase in temperature, which allows us to
+use these cool but almost forgotten about materials called pyroelectrics,”
+said Maiken Mikkelsen, the James N. and Elizabeth H. Barton Associate
+Professor of Electrical and Computer Engineering at Duke University. “But now
+that we’ve dusted them off and combined them with state of the art technology,
+we’ve been able to make these incredibly fast detectors that can also sense
+the frequency of the incoming light.”
+
+According to Mikkelsen, commercial photodetectors have been made with these
+types of pyroelectric materials before, but have always suffered from two
+major drawbacks. They haven’t been able to focus on specific electromagnetic
+frequencies, and the thick layers of pyroelectric material needed to create
+enough of an electric signal have caused them to operate at very slow speeds.
+
+“But our plasmonic detectors can be turned to any frequency and trap so much
+energy that they generate quite a lot of heat,” said Jon Stewart, a graduate
+student in Mikkelsen’s lab and first author on the paper. “That efficiency
+means we only need a thin layer of material, which greatly speeds up the
+process.”
+
+The previous record for detection times in any type of thermal camera with an
+on-chip filter, whether it uses pyroelectric materials or not, was 337
+microseconds. Mikkelsen’s plasmonics-based approach sparked a signal in just
+700 picoseconds, which is roughly 500,000 times faster. But because those
+detection times were limited by the experimental instruments used to measure
+them, the new photodetectors might work even faster in the future.
+
+To accomplish this, Mikkelsen and her team fashioned silver cubes just a
+hundred nanometers wide and placed them on a transparent film only a few
+nanometers above a thin layer of gold. When light strikes the surface of a
+nanocube, it excites the silver's electrons, trapping the light's energy—but
+only at a specific frequency.
+
+The size of the silver nanocubes and their distance from the base layer of
+gold determine that frequency, while the amount of light absorbed can be tuned
+by controlling the spacing between the nanoparticles. By precisely tailoring
+these sizes and spacings, researchers can make the system respond to any
+electromagnetic frequency they want.
+
+To harness this fundamental physical phenomenon for a commercial hyperspectral
+camera, researchers would need to fashion a grid of tiny, individual
+detectors, each tuned to a different frequency of light, into a larger
+‘superpixel’.
+
+In a step toward that end, the team demonstrates four individual
+photodetectors tailored to wavelengths between 750 and 1900 nanometers. The
+plasmonic metasurfaces absorb energy from specific frequencies of incoming
+light and heat up. The heat induces a change in the crystal structure of a
+thin layer of pyroelectric material called aluminium nitride sitting directly
+below them. That structural change creates a voltage, which is then read by a
+bottom layer of a silicon semiconductor contact that transmits the signal to a
+computer to analyze.
+
+“It wasn’t obvious at all that we could do this,” said Mikkelsen. “It’s quite
+astonishing actually that not only do our photodetectors work, but we’re
+seeing new, unexpected physical phenomena that will allow us to speed up how
+fast we can do this detection by many orders of magnitude.”
+
+Mikkelsen sees several potential uses for commercial cameras based on the
+technology, because the process required to manufacture these photodetectors
+is relatively fast, inexpensive and scalable.
+
+Surgeons might use multispectral imaging to tell the difference between
+cancerous and healthy tissue during surgery. Food and water safety inspectors
+could use it to tell when a chicken breast is contaminated with dangerous
+bacteria.
+
+With the support of a new Moore Inventor Fellowship from the Gordon and Betty
+Moore Foundation, Mikkelsen has set her sights on precision agriculture as a
+first target. While plants may only look green or brown to the naked eye, the
+light outside of the visible spectrum that is reflected from their leaves
+contains a cornucopia of valuable information.
+
+“Obtaining a ‘spectral fingerprint’ can precisely identify a material and its
+composition,” said Mikkelsen. “Not only can it indicate the type of plant, but
+it can also determine its condition, whether it needs water, is stressed or
+has low nitrogen content, indicating a need for fertilizer. It is truly
+astonishing how much we can learn about plants by simply studying a spectral
+image of them.”
+
+Hyperspectral imaging could enable precision agriculture by allowing
+fertilizer, pesticides, herbicides and water to be applied only where needed,
+saving water and money and reducing pollution. Imagine a hyperspectral camera
+mounted on a drone mapping a field’s condition and transmitting that
+information to a tractor designed to deliver fertilizer or pesticides at
+variable rates across the fields.
+
+It is estimated that the process currently used to produce fertilizer accounts
+for up to two percent of the global energy consumption and up to three percent
+of global carbon dioxide emissions. At the same time, researchers estimate
+that 50 to 60 percent of fertilizer produced is wasted. Accounting for
+fertilizer alone, precision agriculture holds an enormous potential for energy
+savings and greenhouse gas reduction, not to mention the estimated $8.5
+billion in direct cost savings each year, according to the United States
+Department of Agriculture.
+
+Several companies are already pursuing these types of projects. For example,
+IBM is piloting a project in India using satellite imagery to assess crops in
+this manner. This approach, however, is very expensive and limiting, which is
+why Mikkelsen envisions a cheap, handheld detector that could image crop
+fields from the ground or from inexpensive drones.
+
+“Imagine the impact not only in the United States, but also in low- and
+middle-income countries where there are often shortages of fertilizer and
+water,” said Mikkelsen. “By knowing where to apply those sparse resources, we
+could increase crop yield significantly and help reduce starvation.”
+
+This research was supported by the Air Force Office of Scientific Research
+(FA9550-18-1-0326, FA9550-17-1-0002) and the National Defense Science &
+Engineering Graduate Fellowship Program.
+
+CITATION: “Ultrafast Pyroelectric Photodetection with On-Chip Spectral
+Filters,” Jon W. Stewart, Jarrett H. Vella, Wei Li, Shanhui Fan, and Maiken H.
+Mikkelsen. Nature Materials, Nov. 25, 2019. DOI: 10.1038/s41563-019-0538-6
+
+## Related News
+
+October 15, 2019
+
+### Mikkelsen Wins Moore Inventor Fellowship to Pursue Hyperspectral Cameras
+
+December 14, 2016
+
+### Nanocubes Simplify Printing And Imaging In Color And Infrared
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

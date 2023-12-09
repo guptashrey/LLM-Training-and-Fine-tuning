@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gene Therapy Might Grow Replacement Tissue Inside the Body
+
+February 18, 2014 | By Ken Kingery
+
+Duke researchers use gene therapy to direct stem cells into becoming new
+cartilage on a synthetic scaffold even after implantation into a living body
+
+By combining a synthetic scaffolding material with gene delivery techniques,
+researchers at Duke University are getting closer to being able to generate
+replacement cartilage where it's needed in the body.
+
+Performing tissue repair with stem cells typically requires applying copious
+amounts of growth factor proteins—a task that is very expensive and becomes
+challenging once the developing material is implanted within a body. In a new
+study, however, Duke researchers found a way around this limitation by
+genetically altering the stem cells to make the necessary growth factors all
+on their own.
+
+They incorporated viruses used to deliver gene therapy to the stem cells into
+a synthetic material that serves as a template for tissue growth. The
+resulting material is like a computer; the scaffold provides the hardware and
+the virus provides the software that programs the stem cells to produce the
+desired tissue.
+
+The study appears online the week of Feb. 17 in the Proceedings of the
+National Academy of Sciences.
+
+Farshid Guilak, director of orthopaedic research at Duke University Medical
+Center, has spent years developing biodegradable synthetic scaffolding that
+mimics the mechanical properties of cartilage. One challenge he and all
+biomedical researchers face is getting stem cells to form cartilage within and
+around the scaffolding, especially after it is implanted into a living being.
+
+The traditional approach has been to introduce growth factor proteins, which
+signal the stem cells to differentiate into cartilage. Once the process is
+under way, the growing cartilage can be implanted where needed.
+
+“But a major limitation in engineering tissue replacements has been the
+difficulty in delivering growth factors to the stem cells once they are
+implanted in the body,” said Guilak, who is also a professor in Duke’s
+Department of Biomedical Engineering. “There’s a limited amount of growth
+factor that you can put into the scaffolding, and once it’s released, it’s all
+gone. We need a method for long-term delivery of growth factors, and that’s
+where the gene therapy comes in.”
+
+For ideas on how to solve this problem, Guilak turned to his colleague Charles
+Gersbach, an assistant professor of biomedical engineering and an expert in
+gene therapy. Gersbach proposed introducing new genes into the stem cells so
+that they produce the necessary growth factors themselves.
+
+But the conventional methods for gene therapy are complex and difficult to
+translate into a strategy that would be feasible as a commercial product.
+
+This type of gene therapy generally requires gathering stem cells, modifying
+them with a virus that transfers the new genes, culturing the resulting
+genetically altered stem cells until they reach a critical mass, applying them
+to the synthetic cartilage scaffolding and, finally, implanting it into the
+body.
+
+“There are a few challenges with that process, one of them being that there
+are way too many extra steps,” said Gersbach. “So we turned to a technique I
+had previously developed that affixes the viruses that deliver the new genes
+onto a material’s surface.”
+
+The new study uses Gersbach’s technique—dubbed biomaterial-mediated gene
+delivery—to induce the stem cells placed on Guilak’s synthetic cartilage
+scaffolding to produce growth factor proteins. The results show that the
+technique works and that the resulting composite material is at least as good
+biochemically and biomechanically as if the growth factors were introduced in
+the laboratory.
+
+“We want the new cartilage to form in and around the synthetic scaffold at a
+rate that can match or exceed the scaffold’s degradation,” said Jonathan
+Brunger, a graduate student who has spent time in both Guilak’s and Gersbach’s
+laboratories developing and testing the new technique. “So while the stem
+cells are making new tissue (in the body), the scaffold can withstand the load
+of the joint. In the ideal case, one would eventually end up with a viable
+cartilage tissue substitute replacing the synthetic material.”
+
+While this study focuses on cartilage regeneration, Guilak and Gersbach say
+that the technique could be applied to many kinds of tissues, especially
+orthopaedic tissues such as tendons, ligaments and bones. And because the
+platform comes ready to use with any stem cell, it presents an important step
+toward commercialization.
+
+“One of the advantages of our method is getting rid of the growth factor
+delivery, which is expensive and unstable, and replacing it with scaffolding
+functionalized with the viral gene carrier,” said Gersbach. “The virus-laden
+scaffolding could be mass-produced and just sitting in a clinic ready to go.
+We hope this gets us one step closer to a translatable product.”
+
+This work was supported in part by the Nancy Taylor Foundation for Chronic
+Diseases, the Arthritis Foundation, the AO Foundation, the National Science
+Foundation (CAREER Award CBET-1151035) and the National Institutes of Health
+(AR061042, AR50245, AR48852, AG15768, AR48182, AG46927 and OD008586).
+
+###
+
+CITATION: “Scaffold-mediated lentiviral transduction for functional tissue
+engineering of cartilage.” Brunger, J.M., Huynh, N.P.T., Guenther, C.M.,
+Perez-Pinera, P., Moutos, F.T., Sanchez-Adams, J., Gersbach C.A., and Guilak
+F. PNAS Plus, 2014. DOI: 10.1073/pnas.1321744111/-/DCSupplemental
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

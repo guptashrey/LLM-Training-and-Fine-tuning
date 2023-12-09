@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Designing for Extremes: CEE Program Challenges Students to Plan for the
+Unexpected
+
+May 9, 2017 | By Michaela Kane
+
+A new program in risk and resilience considers how changes to our
+interconnected world can affect engineered systems.
+
+In the design of a water supply system, a power grid, or even a cyber network,
+engineers plan for the range of conditions that their structures are likely
+encounter. But as the world becomes more connected, our modern engineered
+systems are subject to ever-evolving demands that can differ from what the
+designers originally anticipated––sometimes in completely unexpected ways. In
+a new suite of educational programs, faculty in Duke University’s Department
+of Civil and Environmental Engineering (CEE) aim to teach students how to
+anticipate and design for extreme events, like natural disasters, public
+health crises or terrorist attacks.
+
+Traditional reliability engineering is concerned with how to safely design
+systems for well-understood behavior and operating conditions. The new _Risk_
+_and_ _Resilience_ Program explores how systems can sustain and even improve
+their performance, under broader, unexpected situations. To do so, this new
+program challenges both graduate and undergraduate students to examine and
+plan for a wide range of physical, environmental, and social scenarios that
+may be judged to have low probability but high consequence. Such situations,
+caused by severe weather, power outages, or cyber disruption, could affect all
+sectors of society if individual components, or the entire system, were not
+designed to be robust or adaptable to extreme events.
+
+“We’re trying to put this program in the context of a future that we know is
+going to be changing, while recognizing there’s a lot of uncertainty and
+variability about exactly what those decades-long changes will be,” says CEE
+professor Henri Gavin, a co-creator of the program.
+
+Recent events have highlighted the need for systems that account for
+uncertainty in their design. For example, in February of 2017, more than
+180,000 people were evacuated from Oroville, California after unexpected
+erosion and intense rain created a hole in one of the emergency spillways of
+the Oroville Dam, threatening to flood the surrounding area.
+
+“We’re seeing regular occurrences of events that we could have never
+previously predicted, owing, at least in part, to a changing climate, enhanced
+global connectivity, and evolving social institutions,” says Mark Borsuk,
+associate professor in CEE and the program’s co-creator. “After these
+unexpected events, I think people are more aware and sensitive of the need to
+be better at assessing risk. We also know that we can’t always predict things
+accurately, so it means we need to create systems that are robust in case
+things don’t turn out exactly as we expect.”
+
+To prepare engineers who can take a broad, systems-based approach to
+addressing uncertainty and risk, Duke CEE is creating a new PhD track in
+_Systems, Risk, and Decisions_ , as well as launching a new Master of Risk
+Engineering program in the fall of 2018. The goal is to provide students with
+both a deeper and broader training in risk analysis and design than they would
+have received during their undergraduate career, all while continuing to build
+on traditional engineering principles. Graduates will be prepared for careers
+in fields such as environment and population health, materials and structures,
+energy and climate systems and even finance and reinsurance.
+
+In addition to the new graduate tracks, Borsuk and Gavin are introducing the
+basics of risk and resiliency to undergraduates in courses such as
+“Uncertainty, Design, and Optimization” (CEE 201L) and “Engineering Systems,
+Optimization, and Economics,” (EGR 305). In CEE 201L, students create models
+of complex systems, like water resources, stock prices and power systems, and
+then use these models to optimize system performance and evaluate resilience
+to time-varying hazards. In addition to facing the challenge of the unknown,
+these designs are also constrained by the financial, physical, or societal
+limitations imposed by the real world.
+
+“We initiated this course to provide realistic design experiences early in
+their curriculum,” says Gavin. “We’ve tried to make the projects as realistic
+as possible by placing them in the mess of the real world. Students quickly
+learn that accounting for uncertainties is essential for a robust design.”
+
+The new focus on risk, uncertainty and resilient system design will connect to
+Duke CEE’s research strengths in areas such as heavy data analytics for
+complex infrastructure systems, chemical and material impacts on environmental
+and public health, climate change and water resources, and geomechanical
+systems, according to department chair Mark Wiesner. “Our faculty are
+developing the advanced computational tools and measurement techniques to help
+us understand a wide range of urgent issues facing the world today,” he says,
+“and our integrated approach across disciplines gives us an unusual
+advantage.”
+
+“This is a way to modernize our view towards civil engineering and give
+students that broader, interdisciplinary perspective,” adds Borsuk. “We’re
+collaborating with researchers from fields such as law, global health,
+environment and policy to approach these problems in a systemic way, and it’s
+exciting because there is a lot of untapped potential.”
+
+In that spirit, Borsuk is working to spearhead similar initiatives in
+different areas at Duke. He is a lead member of the “Decisions on Complex
+Interdisciplinary Problems of Health and Environmental Risk” (D-CIPHER) Bass
+Connections Project, which will be investigating the multiple technical,
+societal, and cultural dimensions of risk. During the 2017-2018 project, the
+interdisciplinary team will focus on the history of fluorine refrigerants,
+which were found to deplete the ozone layer and were successfully phased out,
+with the unintended consequence of generating substitutes that are potent
+greenhouse gasses.
+
+**“** Sometimes solving one problem just introduces another,” says Borsuk.
+“Through this collaboration we’re approaching these situations from multiple
+angles, and we’re really trying to understand how differing perspectives on
+risk and uncertainty inform and influence decisions.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,282 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Tingjun Chen
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+## Appointments and Affiliations
+
+  * Assistant Professor in the Department of Electrical and Computer
+    Engineering
+  * Assistant Professor of Computer Science
+
+## Contact Information
+
+  * **Email Address:** tingjun.chen@duke.edu
+  * **Websites:**
+    * LinkedIn profile
+    * Personal webpage 
+
+## Education
+
+  * B.S. Tsinghua University (China), 2014
+  * M.S. Columbia University, 2018
+  * Ph.D. Columbia University, 2020
+
+## Research Interests
+
+Wireless networking, next-generation wireless and optical networks, edge cloud
+and computing, Internet-of-Things (IoT), mobile and embedded systems,
+platforms and testbeds
+
+## Awards, Honors, and Distinctions
+
+  * Eli Jury Award. Columbia University. 2021
+  * IBM Academic Award. IBM. 2021
+  * Google Research Scholar Award. Google. 2021
+  * Morton B. Friedman Memorial Prize for Excellence. Columbia Engineering.
+    2021
+  * ACM SIGMOBILE Doctoral Dissertation Award, Runner-up. ACM SIGMOBILE. 2021
+  * Best Paper Finalist. ACM MobiHoc'19. 2019
+  * Student Research Competition (SRC) Winner – First Place. ACM MobiCom'19.
+    2019
+  * Facebook Fellowship. Facebook. 2019
+  * Oscar and Verna Byron Fellowship. Columbia University Engineering School.
+    2018
+  * Best Paper Award. ACM CoNEXT'16. 2016
+  * Edwin Howard Armstrong Memorial Award. Columbia University. 2015
+  * Wei Family Private Foundation Fellowship. Wei Family Private Foundation.
+    2014
+
+## Courses Taught
+
+  * COMPSCI 390: Topics in Computer Science
+  * COMPSCI 515: Wireless Networking and Mobile Computing
+  * COMPSCI 590: Advanced Topics in Computer Science
+  * ECE 495: Special Topics in Electrical and Computer Engineering
+  * ECE 556: Wireless Networking and Mobile Computing
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 891: Internship
+
+## In the News
+
+  * Bridging the Computation-Communication Gap in Future Connectivity Systems
+    (Jan 18, 2023 | Duke Pratt School of Engineering)
+  * Pratt New Faculty: Tingjun Chen Is Connecting Tomorrow’s Wireless World
+    (Oct 13, 2020 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Chen, T., M. B. Dastjerdi, H. Krishnaswamy, and G. Zussman. “Wideband
+    Full-Duplex Phased Array with Joint Transmit and Receive Beamforming:
+    Optimization and Rate Gains.” Ieee/Acm Transactions on Networking 29, no.
+    4 (August 1, 2021): 1591–1604. https://doi.org/10.1109/TNET.2021.3069125.
+  * Du, J., D. Chizhik, R. A. Valenzuela, R. Feick, G. Castro, M. Rodriguez,
+    T. Chen, M. Kohli, and G. Zussman. “Directional Measurements in Urban
+    Street Canyons from Macro Rooftop Sites at 28 GHz for 90% Outdoor
+    Coverage.” Ieee Transactions on Antennas and Propagation 69, no. 6 (June
+    1, 2021): 3459–69. https://doi.org/10.1109/TAP.2020.3044398.
+  * Nagulu, A., A. Gaonkar, S. Ahasan, S. Garikapati, T. Chen, G. Zussman, and
+    H. Krishnaswamy. “A Full-Duplex Receiver with True-Time-Delay Cancelers
+    Based on Switched-Capacitor-Networks Operating beyond the Delay-Bandwidth
+    Limit.” Ieee Journal of Solid State Circuits 56, no. 5 (May 1, 2021):
+    1398–1411. https://doi.org/10.1109/JSSC.2021.3063658.
+  * Chen, T., S. Garikapati, A. Nagulu, A. Gaonkar, M. Kohli, I. Kadota, H.
+    Krishnaswamy, and G. Zussman. “A Survey and Quantitative Evaluation of
+    Integrated Circuit-Based Antenna Interfaces and Self-Interference
+    Cancellers for Full-Duplex.” Ieee Open Journal of the Communications
+    Society 2 (January 1, 2021): 1753–76.
+    https://doi.org/10.1109/OJCOMS.2021.3098476.
+  * Nagulu, A., T. Chen, G. Zussman, and H. Krishnaswamy. “Multi-Watt, 1-GHz
+    CMOS Circulator Based on Switched-Capacitor Clock Boosting.” Ieee Journal
+    of Solid State Circuits 55, no. 12 (December 1, 2020): 3308–21.
+    https://doi.org/10.1109/JSSC.2020.3022813.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

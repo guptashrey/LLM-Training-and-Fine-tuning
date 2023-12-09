@@ -1,0 +1,268 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Single CRISPR Treatment Provides Long-Term Benefits in Mice
+
+February 18, 2019 | By Ken Kingery
+
+Genetic edits and protein restoration in mouse models of Duchenne muscular
+dystrophy remain viable one year after single CRISPR treatment
+
+Researchers at Duke University have shown that a single systemic treatment
+using CRISPR genome editing technology can safely and stably correct a genetic
+disease -- Duchenne muscular dystrophy (DMD) -- for more than a year in mice,
+despite observed immune responses and alternative gene editing outcomes.
+
+The study appears online on February 18in the journal _Nature Medicine._
+
+In 2016, Charles Gersbach, the Rooney Family Associate Professor of Biomedical
+Engineering at Duke, published one of the first successful uses of CRISPR to
+treat an animal model of genetic disease with a strategy that has the
+potential to be translated to human therapy. Many additional examples have
+since been published, and several genome editing therapies targeting human
+diseases are currently in clinical trials, with more on the way.
+
+Gersbach’s latest research focuses on a mouse model of DMD, which is caused by
+the body’s inability to produce dystrophin, a long protein chain that binds
+the interior of a muscle fiber to its surrounding support structure.
+Dystrophin is encoded by a gene containing 79 protein-coding regions, called
+exons. If one or more exons are disrupted or deleted by an inherited mutation,
+the chain does not get built, causing muscle to slowly shred and deteriorate.
+Most patients are wheelchair-bound by age 10 and don’t live beyond their 20s
+or early 30s.
+
+Gersbach has been working on potential genetic treatments for Duchenne since
+2009. His lab was one of the first to begin focusing on CRISPR/Cas9, a
+modified version of a bacterial defense system that targets and slices apart
+the DNA of invading viruses. His approach uses CRISPR/Cas9 to snip out
+dystrophin exons around the genetic mutation, leaving the body’s natural DNA
+repair system to stitch the remaining gene back together to create a shortened
+-- but functional -- version of the dystrophin gene.
+
+“As we continue to work to develop CRISPR-based genetic therapies, it is
+critical to test our assumptions and rigorously assess all aspects of this
+approach,” Gersbach said. “A goal of our experiments was to test some ideas
+being discussed in the field, which will help us understand the potential of
+CRISPR to treat genetic diseases in general and Duchenne muscular dystrophy in
+particular. This includes monitoring the long-term durability of the response
+in the face of potential immune responses against the bacterial Cas9 protein.”
+
+The first eight-week study demonstrated that functional dystrophin was
+restored and muscle strength increased. It did not, however, explore the long-
+term durability of the treatment.
+
+“It is widely believed that gene editing leads to permanent gene correction,”
+Gersbach said. “However, it’s important to explore theoretical possibilities
+that could undermine the effects of gene editing, such as losing treated cells
+or an immune response.”
+
+The goal of the new study was to explore factors that could alter the long-
+term effects of CRISPR/Cas9-based gene editing.
+
+Christopher Nelson, the post-doctoral fellow in Gersbach’s lab who led the
+work, administered a single dose of the CRISPR therapy intravenously to both
+adult and newborn mice carrying a defective dystrophin gene. Over the course
+of the following year, researchers measured how many muscle cells were
+successfully edited and what types of genetic alterations were made, as well
+as the generation of any immune response against the bacterial CRISPR protein,
+Cas9, which acts as the “scissors” that makes cuts to the genome.
+
+Other studies have reported that the mouse immune system can mount a response
+to Cas9, which could potentially interfere with the benefit of CRISPR
+therapies. Several groups have also reported that some people have preexisting
+immunity to Cas9 proteins, likely because of previous exposure to the
+bacterial host.
+
+“The good news is that even though we observed both antibody and T cell
+responses to Cas9, neither appeared to result in any toxicity in these mice,”
+said Nelson. “The response also did not prevent the therapy’s ability to
+successfully edit the dystrophin gene and produce long-term protein
+expression.”
+
+The results also suggested approaches to address potential challenges, should
+they arise in the future. For example, the researchers observed that when two-
+day-old mice without fully developed immune systems were treated
+intravenously, no immune response was detected. The CRISPR genome editing
+remained stable and, in some cases, even strengthened over the course of a
+year. One could imagine delivering the therapy to infants as a method of
+circumventing or modulating an unwanted immune response.
+
+Gersbach and Nelson acknowledge, however, that the mouse immune system often
+functions quite differently from the human immune system. And newborn
+screening for DMD is not currently widely performed; most Duchenne diagnoses
+occur when children are three to five years old. To address this challenge,
+Gersbach said suppressing the immune system during treatment may be a viable
+approach.
+
+The researchers are also investigating potential strategies to restrict the
+expression or delivery of Cas9 to only the muscle cells for short durations,
+which may lessen immune detection.
+
+“We were pleased to observe that all the mice were doing well a year after
+treatment, but our results show that there needs to be more focus on the
+immune response as we move toward larger animal models,” Nelson said.
+
+Nelson and Gersbach have previously investigated the potential of off-target
+editing by CRISPR/Cas9 to unintentionally modify other sites in the genome and
+reported minimal activity at likely off-target sites. Other recent studies,
+however, have reported that CRISPR can sometimes make genetic edits at the
+correct site but not in the intended manner. For example, some studies have
+shown that CRISPR can cut out genetic sections much larger than intended or
+that pieces of DNA can embed at the site of the cut. These types of edits had
+previously been unreported in genome editing studies because the methods being
+used only detected the intended edit.
+
+To comprehensively map all the edits occurring in the dystrophin gene, Nelson
+used a DNA sequencing approach that agnostically reports any type of edit.
+Surprisingly, there were many types of edits being made in addition to the
+intended removal of the targeted exon, including a high level of insertion of
+DNA sequences from the viral vector encoding the CRISPR/Cas9 system.
+
+Depending on the type of tissue and the dosage of CRISPR delivered, as many as
+half of the on-target edits resulted in these alternative sequence changes.
+Although this result was surprising, the unintended sequence changes do not
+appear to impact the safety or efficacy of this CRISPR/Cas9 gene editing
+approach for DMD.
+
+“None of these edits would necessarily be a cause for concern in this case
+because the dystrophin gene is already defective,” said Nelson. “That being
+said, any unintended results could potentially take away from the efficiency
+of the gene editing you’re trying to achieve, which supports the importance of
+designing ways to objectively identify and mitigate alternative edits in
+future studies.”
+
+“Previous studies suggested that some of these other types of edits could
+happen,” Gersbach said. “But this is one of the first comprehensive
+measurements of these events in an animal model using a therapeutically
+relevant approach. Moving forward, this phenomenon needs to be monitored
+carefully and better understood. Methods that avoid these alternative edits
+and increase the frequency of the intended edit will be important to
+maximizing the potential of genome editing to treat disease.”
+
+This research was supported by Sarepta Therapeutics, Inc., the Paul G. Allen
+Frontiers Group, the Muscular Dystrophy Association (MDA277360), the National
+Institutes of Health (R01AR069085, DP2-OD008586, K99EB023979), the Hartwell
+Foundation, the National Science Foundation, the American Heart Association
+(17PRE33350013), and the Department of Defense Duchenne Muscular Dystrophy
+Research Program (W81XWH-15-1-0469, W81XWH-16-1-0221).
+
+CITATION: “Long-term Evaluation of AAV-CRISPR Genome Editing for Duchenne
+Muscular Dystrophy,” Christopher E. Nelson, Yaoying Wu, Matthew P. Gemberling,
+Matthew L. Oliver, Matthew A. Waller, Joel D. Bohning, Jacqueline N. Robinson-
+Hamm, Karen Bulaklak, Ruth M. Castellanos Rivera, Joel H. Collier, Aravind
+Asokan, and Charles A. Gersbach. Nature Medicine, 2019. DOI:
+10.1038/s41591-019-0344-3
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,203 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2020
+
+# Machine Learning Protecting Human Privacy
+
+March 1, 2020 | By Chloe Derocher
+
+Duke Engineers are pioneering techniques to scan a person’s face while
+ignoring certain sensitive features that someone might not want their device
+to access
+
+Have you ever wondered just how much information your phone learns about your
+identity when you use facial recognition to unlock it? In this era of ever-
+advancing technological growth, we see futuristic advances in technology
+paired with invasions of privacy. We are left with a difficult decision,
+grappling over to what extent we value our privacy over functionality.
+Researchers at Duke University are implementing machine learning in an attempt
+to solve this dilemma.
+
+Machine learning is a burgeoning area of study that has been applied in many
+fields such as self-driving vehicles and personal assistant devices like Siri.
+Machine learning is the science of creating mathematical algorithms that allow
+computers to "think" and "act" like humans without the need for programming.
+Through machine learning, computers utilize data models to perform tasks
+solely based upon patterns and learned "reasoning," as opposed to a specific
+set of instructions.
+
+In a collaboration within the Rhodes Information Initiative at Duke, Galen
+Reeves, assistant professor of electrical and computer engineering and
+statistical science, and Guillermo Sapiro, the James B. Duke Distinguished
+Professor of Electrical and Computer Engineering, tackled the problem of user
+privacy within facial recognition software. With their team, including PhD
+students Martin Bertran and Natalie Martinez, and Professor Miguel Rodrigues
+from University college London, they developed a way for a device to scan a
+person's face without recognizing certain sensitive features that someone
+wouldn't necessarily want their device to access, such as gender, ethnicity or
+emotion.
+
+The group leveraged deep learning and information theory to solve the
+challenge of hiding unwanted information, say a person's gender, while still
+allowing a phone to recognize the individual trying to access it. In order to
+balance this trade off, they created both a "secret" variable (S), to hide
+gender, and a "utility" variable (U). These variables combined to give the
+observed data.
+
+In the case of gender and facial recognition, these variables are of course
+highly dependent on one another. However, a certain mathematical
+transformation can preserve U while discarding S, and then input the
+remaining, obfuscated data to the device. The team also set up an optimization
+function to figure out just how much one could learn about S from observing
+the final data. This work was published in the Proceedings of the
+International Conference in Machine Learning (ICML '19).
+
+The motivation behind this research comes from a belief that privacy is a
+fundamental human right that is increasingly threatened in the digital age.
+According to Bertran and Martinez, this important application of machine
+learning can "help us preserve some measure of privacy but still allow us to
+participate and benefit from 'digital life.'" Instead of looking at worst-case
+scenarios in which the person attempting to violate the privacy of others has
+access to infinite information and computing resources, they chose a unique
+approach, prioritizing both the privacy and utility of an individual user. In
+the future, the team wishes to learn more about data sharing between users.
+This would aid in developing "a more precise measure of what the user expects
+as a utility to cater our algorithms to preserve this with greater fidelity."
+
+Although this work was applied to hiding gender and emotion information, it
+provides a baseline for minimizing many kinds of sensitive information
+leakage. When asked what inspires their work, Bertran and Martinez replied,
+"We believe that privacy is a basic human right and that privacy in the
+digital age is rapidly eroding." Their research with machine learning
+techniques has taken significant steps toward easing these privacy concerns.
+
+**Chloe Derocher is a first-year undergraduate student planning to major in
+biomedical engineering or physics.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2020
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,367 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Writing New Recipes for High-Performance Materials
+
+February 26, 2021 | Elizabeth Witherspoon
+
+Duke materials scientists and engineers deploy AI and other digital tools to
+accelerate development of new materials to harvest energy, heal the body and
+more
+
+* * *
+
+New high-performance materials are as vital to meeting complex needs in
+energy, national security, health care and communications as silicon is to the
+information age.
+
+Atoms and molecules of natural and synthetic elements are the building blocks
+of new metal alloys that withstand the temperatures of space travel or improve
+circuits in electronic devices. Newly discovered polymer nanocomposites have
+enabled new capacitors and electrodes for the energy grid and flexible
+electronics. Engineered hydrogels and other biomaterials can help repair human
+bone or deliver pain medication inside surgical wounds.
+
+Materials scientists and engineers in Duke University’s Thomas Lord Department
+of Mechanical Engineering & Materials Science (MEMS) are leading research to
+design and discover these novel materials for our future.
+
+Collaborating across disciplines, they are leveraging the powers of
+supercomputing, artificial intelligence (AI) and machine learning to cut years
+off the materials discovery process. They are building open-source platforms
+to share these data with academic institutions and industry—bringing us closer
+to solutions for some of society’s toughest problems.
+
+Many have likened the enterprise to developing new recipes for the materials
+of tomorrow. Below, take a look at what’s cooking in the labs—and minds—of
+some of Duke MEMS faculty members:
+
+## Stefano Curtarolo
+
+Accelerating Discovery of Metal Alloys by Standardizing Data
+
+_Professor of Mechanical Engineering & Materials Science_
+
+_Director, Center for Autonomous Materials Design_
+
+_Leader, Duke Automatic-FLOW for Materials Database (AFLOW)_
+
+Stefano Curtarolo was delighted when the U.S. government launched its
+Materials Genome Initiative to speed the discovery and dissemination of new
+materials in 2011, as it increased attention and funding for the work that he
+had begun almost a decade earlier. Once toiling among only a handful of others
+worldwide to find new recipes for metal alloys and build a standardized
+database for sharing information about various material properties, he now
+leads a consortium of 16 institutions across the globe who continually update
+this open source that helps researchers build practical new materials.
+
+The Duke Automatic-FLOW for Materials Database (AFLOW) now contains
+information on 3.3 million material compounds with over half a billion
+calculated material properties, including a comprehensive update and addition
+of a database of crystalline lattice structures.
+
+Curtarolo’s group mines these data to run high-throughput computer simulations
+that have produced new metal alloys, as well as the recipes for two new
+magnetic materials.
+
+“The ability to rapidly predict the existence of these magnetic materials is a
+major coup and will be invaluable to materials scientists moving forward,”
+said Curtarolo.
+
+Most recently, his group identified a potentially promising alloy with a very
+high melting point that could enable it to substitute for the expensive rare
+earth metal rhenium in high-temperature applications like rocket engine
+nozzles.
+
+Curtarolo also will use the AFLOW database, AI and machine learning in his
+latest project–leading a $7.5-million, five-year Multidisciplinary University
+Research Initiative (MURI) award from the Office of Naval Research with
+collaborators from four other universities–to identify super/ultra-hard
+disorded ceramics with a wide array of potential applications.
+
+## Cate Brinson
+
+Finding Hard Answers to Soft Matter Questions
+
+_Donald M. Alstadt Chair, Thomas Lord Department of Mechanical Engineering &
+Materials Science_
+
+_Sharon C. and Harold L. Yoh, III Professor_
+
+_Director, AI for Understanding and Designing Materials (aiM)_
+
+Cate Brinson’s research combines computational models, data science and
+physical experiments to lay the groundwork for developing new materials for
+applications ranging from a more stable power grid to biomedical devices and
+lightweight structures. An internationally recognized expert in soft matter
+who joined Duke in 2017, she leads a $5-million National Science Foundation-
+funded national consortium focused on building a data-driven framework
+specifically for the discovery of new polymer nanocomposites and structural
+metamaterials.
+
+“If you have significant portions of the relevant data fully accessible, then
+you can create a design loop where you start to design materials based on the
+ideal properties for a given application,” said Brinson. NanoMine is a
+platform to make this data readily available to other researchers that
+otherwise would take years to tease out manually from traditional journal
+resources.
+
+> NanoMine is a platform to make this data readily available to other
+> researchers that otherwise would take years to tease out manually from
+> traditional journal resources.
+
+Think of this data framework as analogous to the step before chefs can author
+their recipes. It will be the reference guide for the recipe writers that
+explains how different ingredients behave in various combinations and under
+various conditions. Listen to Brinson explain it in Duke Engineering’s Rate of
+Change podcast, “In the Kitchen with NanoMine.”
+
+Using this platform along with machine learning tools, her team has
+demonstrated the power of data and design to find the optimal composition and
+microstructure of dielectrical (insulating) nanocomposites, which eliminates
+the traditional tradeoff between a material's electrical insulating capacity
+and its ability to prevent current from breaking through, enabling new
+paradigms in capacitors for energy applications.
+
+Brinson also leads a new $3-million NSF-funded graduate training program,
+called "AI for Understanding and Designing Materials (aiM).” This program
+integrates training for PhD students in both materials and computer science,
+teaching them how to collaborate to advance the frontiers of research and
+training in the new convergent field leveraging the power of AI.
+
+## Volker Blum
+
+Unlocking the Secrets of New Energy Materials
+
+_Associate Professor of Mechanical Engineering & Materials Science_
+
+_Leader,Ab Initio Materials Simulations Group at Duke_
+
+_Coordinator and Lead Developer, FHI-aims computer platform_
+
+Volker Blum’s group uses computational models incorporating the fundamental
+laws of quantum mechanics to help develop new semiconductor materials for
+energy-related applications, such as photovoltaic materials or low-cost
+manufacturable organic-inorganic semiconductors. He works with a range of
+collaborators at Duke, elsewhere in North Carolina’s Research Triangle region
+and across the globe.
+
+The U.S. Department of Energy tapped Blum, along with Duke colleagues David
+Mitzi and Adrienne Stiff-Roberts, and 13 other researchers nationally to
+better understand and control the emergent phenomena of spin, charge, and
+light/matter interactions in hybrid organic-inorganic semiconductors to
+potentially unlock new energy technologies.
+
+In a recent development the group helped demonstrate hybrid semiconductors in
+which a targeted chiral molecule–a structure that exists in two different,
+mirror-symmetric versions, in the same way as human hands are mirror-symmetric
+but not identical–transfers its "handedness" from the organic molecule to the
+inorganic part of the structure. They showed that this "chirality transfer"
+enables control over the spin-related character of the semiconductor
+electronic bands, which is an important step toward using these types of
+materials in electrical devices that work based on the electrons' spin.
+
+“The materials used for the first hybrid perovskite solar cells were invented
+in the 1970s by a German laboratory that just wanted to study their properties
+to see what they could do,” said Blum, who led the computational modeling side
+of the research. “It wasn’t until 40 years later that someone got the idea to
+use them for a solar cell. In many ways, that’s what we’re doing here with
+chiral-induced spin selectivity.”
+
+In the NSF-funded HybriD3 consortium, Blum and five other principal
+investigators at Duke, University of North Carolina and North Carolina State
+University also focus on hybrid organic-inorganic perovskites in a broader
+materials space exploration. Part of this work includes the creation of an
+open, curated materials property database, called HybriD3, intended to aid the
+efforts of other researchers, nationally and internationally, in navigating
+this promising class of semiconductor materials.
+
+> "The FHI-aims program provides a mathematical guide for materials research.”
+
+Blum is also the lead developer and one of the coordinators of the community
+developing the FHI-aims computer program, which computational materials
+researchers worldwide use to predict properties of condensed matter
+(molecules, clusters, solids, liquids, etc.) based on a description of their
+electronic structure.
+
+“If you want to predict a material’s properties, you need to know what its
+structure is at given conditions and how it responds to external stimuli like
+pressure, temperature, light or an electrical field. And to predict all these
+behaviors, you need to know how to calculate the energy of the materials'
+atoms in a particular arrangement, and how this energy changes based on
+external stimuli,” said Blum. “That is what the FHI-aims program provides–it’s
+a mathematical guide for materials research.”
+
+## Gaurav Arya
+
+Modeling Soft Materials with Hard Calculations
+
+_Associate Professor of Mechanical Engineering & Materials Science_
+
+Gaurav Arya’s group uses computational methods to provide fundamental,
+molecular-level understanding of a diverse range of biological and soft
+material systems. His collaborations reach across the U.S. to address
+questions critical to materials discovery. He provides materials modeling
+leadership for an $18-million NSF center developing nanoscale building blocks
+for self-assembling mesomaterials with emergent properties and on additional
+$2-million and $1.75-million NSF grants on developing dynamic DNA-based
+devices for nanoscale sensing and genome engineering applications.
+
+The group recently developed a simplified method for calculating the forces
+that cause nanoparticles to self-assemble into larger structures. This method
+enables previously impossible predictions about how nanoparticles with a wide
+variety of shapes will interact with one another, opening up opportunities for
+rationally designing such particles for applications in solar energy
+harvesting and in catalyzing new types of reactions.
+
+“Accurately calculating the forces that pull these particles together at very
+close range is extremely computationally expensive,” said Arya. “We have now
+demonstrated an approach that speeds those calculations up by millions of
+times while only losing a small amount of accuracy.”
+
+> “We have now demonstrated an approach that speeds up calculations by
+> millions of times while only losing a small amount of accuracy.”
+
+Borrowing another cooking analogy for materials research, Arya also proposed a
+method for designing nanoparticles that takes advantage of forces in the
+layers formed by liquids, like those of oil and vinegar in an unshaken bottle
+of vinaigrette. His idea is to precisely control these competing
+forces—clustering vs. repelling—to help scientists create novel arrangements
+in assembly of materials, enabling new combinations with new properties and
+applications.
+
+“There are so many things to do next. For one, we’d like to explore the full
+repertoire of possible structures and phases researchers could make using this
+concept. We are also working closely with experimentalists to test the full
+capabilities of this approach,” said Arya.
+
+Learn more about Duke MEMS Computation & Artificial Intelligence Research
+
+## Related News
+
+November 18, 2019
+
+### Organic Sandwiches Create Quantum Wells for Next Generation Electronics
+
+September 09, 2019
+
+### DNA-Based Nanobots Earn Duke MEMS Its Fifth DMREF Award for Materials
+Science
+
+November 26, 2018
+
+### Disordered Materials Could Be Hardest, Most Heat-Tolerant Ever
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

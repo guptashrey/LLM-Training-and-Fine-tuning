@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Farsiu, Krolik Elected Fellows of the IEEE
+
+December 4, 2019
+
+Duke engineers honored for research improving ophthalmic image processing and
+resolution and contributions to statistical signal and sensor array processing
+for radar and sonar
+
+Sina Farsiu, the Paul Ruffin Scarborough Associate Professor of Engineering,
+and Jeffrey Krolik, professor of electrical and computer engineering, have
+been named fellows of the Institute of Electrical and Electronics Engineers
+(IEEE), the world's largest technical professional organization dedicated to
+advancing technology for the benefit of humanity.
+
+Each year, following a rigorous evaluation procedure, the IEEE Fellow
+Committee recommends a select group of recipients for elevation to IEEE
+fellow. Less than 0.1 percent of voting members are selected annually for this
+honor.
+
+With appointments in biomedical engineering, ophthalmology, electrical and
+computer engineering, and computer science, Farsiu was recognized for his
+“contributions to multi-frame super resolution and ophthalmic image
+processing.” Farsiu’s foundational contributions to the field of multi-frame
+super-resolution has been utilized in a variety of imaging systems from cell
+phone cameras to digital microscopes to capture high-quality images without
+the need to use expensive imaging hardware
+
+On another front, for more than a decade at Duke, Farsiu has been a trail-
+blazer in introducing modern image processing and computation methods in the
+field of ophthalmic imaging. For example, Farsiu has helped produce the first
+portable adaptive optics scanning laser ophthalmoscopy (AOSLO) which can show
+researchers the neurons in the eye in vivo. He has also developed the first AI
+algorithm that can autonomously locate difficult-to-spot photoreceptors on
+AOSLO images.
+
+Farsiu was the first to develop an AI system to automatically detect multiple
+diseases of the eye from optical coherence tomography (OCT) images of the
+retina. And in other recent work, he has developed AI algorithms that can that
+can tailor treatment to specific patients afflicted by diabetic macular
+edema—a leading cause of blindness in working-age Americans.
+
+Having recently returned to Duke after spending five years as a program
+manager for the Defense Advanced Research Projects Agency (DARPA), Krolik was
+cited for “contributions to statistical signal and sensor array processing for
+radar and sonar.” His principal contributions in this field have been to
+improve data analysis methods for the detection and localization of moving
+objects (known as “targets”) using radio frequency and sound waves in
+complicated environments.
+
+Radar and sonars traditionally work best when there is a single, line-of-sight
+path from the sensors to the target. But when waves propagate along different
+paths (known as multipath), bending, reflecting, and/or scattering off objects
+on their way to and from a target, the problem of target detection and
+localization becomes much more challenging. In his early work, he developed
+sensor array processing methods which exploits multipath in underwater ocean
+sound channels to improve passive sonar detection and localization of
+submarines, even when the details of the ocean environment are uncertain.
+
+In later work, Krolik and his colleagues were among the first to develop
+multiple-input-multiple-output (MIMO) waveforms and processing for radar
+systems. Their application of MIMO radar was initially for over-the-horizon,
+high frequency radar, where they were able to mitigate multipath ground
+reflections that would have otherwise masked targets of interest. They also
+built a first-of-its-kind MIMO microwave radar which was used to develop
+signal processing for automotive and indoor target tracking applications.
+
+In the last few years, this same form of MIMO radar has been implemented as a
+“radar-on-a-chip” by large semiconductor manufacturers at millimeter-wave
+frequencies. Although this exciting development is motivated by the burgeoning
+market for automotive radars, Krolik is already exploring the use of these
+MIMO radar chips in many other applications from health care to national
+security.
+
+## Related News
+
+November 17, 2015
+
+### Farsiu Named Senior Area Editor for IEEE Transactions on Image Processing
+
+August 27, 2014
+
+### Sina Farsiu: Processing an Avalanche of Images
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

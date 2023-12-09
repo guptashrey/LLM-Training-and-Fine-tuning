@@ -1,0 +1,288 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# James Morizio
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Adjunct Associate Professor in the Department of Electrical and Computer
+Engineering
+
+Over the last two decades Dr. Morizio's research has been focused on CMOS
+mixed-signal microelectronics and ASICs used in translational closed-loop,
+bioelectronic therapies for wireless neural interfaces. These interfaces
+include sub-system architectures for neural recording and modulation and
+analog circuits for low noise preamplifier, high channel count multiplexer and
+programmable current sources. Dr. Morizio's current research is focused on
+biomedical instrumentation intended for neurological, digestive and immune
+system disorders with the research goal for human clinical translation. He has
+over 35 years of analog circuit design experience in industry and academics
+and co-inventor of 8 patents.
+
+## Appointments and Affiliations
+
+  * Adjunct Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** 219 Hudson Hall, Durham, NC 27708
+  * **Office Phone:** (919) 201-7759
+  * **Email Address:** jmorizio@ee.duke.edu
+  * **Websites:**
+    * Website link for Dr. Morizio
+    * click link here
+
+## Education
+
+  * B.S. Virginia Polytech Institute and State University, 1982
+  * M.S.E.E. University of Colorado - Denver, 1984
+  * Ph.D. Duke University, 1995
+
+## Research Interests
+
+Mixed-Signal CMOS circuit design, layout and testing
+
+Bioelectronic circuits for wireless neural interfaces: Recording and
+Stimulation
+
+Sigma Delta ADC and DACs architecture and circuit design
+
+Ultrasound Pre-Amplifier and multiplexing
+
+Liquid Crystal on Silicon (LCOS) Pixel driver and interface
+
+Broadband Phase Lock Loop Design and Modeling
+
+Ultra Wide Band (Ghz) Transceiver Design: VCOs, PLLs, Antenna Drivers, Buffers
+
+## Awards, Honors, and Distinctions
+
+  * 15 year service award at Triangle BioSystems International. Harvard
+    Bioscience Inc.. 2016
+
+## Courses Taught
+
+  * ECE 292: Projects in Electrical and Computer Engineering
+  * ECE 391: Projects in Electrical and Computer Engineering
+  * ECE 532: Analog Integrated Circuit Design
+  * ECE 539: CMOS VLSI Design Methodologies
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * EGR 393: Research Projects in Engineering
+
+## Representative Publications
+
+  * Shull, G., T. Jochum, K. J. Seo, Y. Shin, J. Morizio, H. Fang, and J.
+    Viventi. “Design and Simulation of a Low Power 384-channel Actively
+    Multiplexed Neural Interface.” In Biocas 2022 Ieee Biomedical Circuits and
+    Systems Conference: Intelligent Biomedical Systems for a Better Future,
+    Proceedings, 477–81, 2022.
+    https://doi.org/10.1109/BioCAS54905.2022.9948553.
+  * Zaer, Hamed, Ashlesha Deshmukh, Dariusz Orlowski, Wei Fan, Pierre-Hugues
+    Prouvot, Andreas Nørgaard Glud, Morten Bjørn Jensen, et al. “An
+    Intracortical Implantable Brain-Computer Interface for Telemetric Real-
+    Time Recording and Manipulation of Neuronal Circuits for Closed-Loop
+    Intervention.” Frontiers in Human Neuroscience 15 (January 2021): 618626.
+    https://doi.org/10.3389/fnhum.2021.618626.
+  * Zhong, Zhanwei, Haodong Zhu, Peiran Zhang, James Morizio, Tony Jun Huang,
+    and Krishnendu Chakrabarty. “Hardware Design and Fault-Tolerant Synthesis
+    for Digital Acoustofluidic Biochips.” Ieee Transactions on Biomedical
+    Circuits and Systems 14, no. 5 (October 2020): 1065–78.
+    https://doi.org/10.1109/tbcas.2020.3018136.
+  * Deshmukh, Ashlesha, Logan Brown, Mary F. Barbe, Alan S. Braverman, Ekta
+    Tiwari, Lucas Hobson, Sudha Shunmugam, et al. “Fully implantable neural
+    recording and stimulation interfaces: Peripheral nerve interface
+    applications.” Journal of Neuroscience Methods 333 (March 2020): 108562.
+    https://doi.org/10.1016/j.jneumeth.2019.108562.
+  * Zhong, Z., H. Zhu, P. Zhang, J. Morizio, T. J. Huang, and K. Chakrabarty.
+    “Hardware Design and Experimental Demonstrations for Digital
+    Acoustofluidic Biochips.” In Biocas 2019 Biomedical Circuits and Systems
+    Conference, Proceedings, 2019.
+    https://doi.org/10.1109/BIOCAS.2019.8919148.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

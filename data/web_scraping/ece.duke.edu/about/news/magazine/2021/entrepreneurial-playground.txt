@@ -1,0 +1,308 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Duke's Entrepreneurial Playground
+
+October 8, 2021 | Miranda Volborth
+
+Duke electrical and computer engineering students have numerous opportunities
+to explore whether entrepreneurship is right for them, and develop the skills
+to take their efforts further
+
+Computing, IT, energy, instrumentation, microelectronics, communications,
+security, finance… the list of fields that a Duke ECE graduate can break into
+is nearly inexhaustible. But no matter the industry, there’s one skill that is
+tremendously helpful in preparing a new graduate for a job in industry:
+knowing how to translate an amazing new idea into a real-world product.
+
+It’s critical for students to develop a user-centered approach early on,
+especially if they’re launching their own businesses, said ECE professor
+Jeffrey Glass, Duke Engineering’s senior associate dean for education and
+learning innovation, the Hogg Family endowed chair in Engineering Management
+and Entrepreneurship, and the interim dean of Duke Engineering. Glass’s own
+background is equal parts industry and academia—he was the vice president of
+research and development for Kobe Steel USA before he became a professor—and
+he knows that tech for tech’s sake isn’t likely to have a lot of impact.
+
+“A typical technology-centered approach is, ‘Okay, I have prototyped a really
+cool gadget that works exactly as I want it to. Isn't that fantastic?’” said
+Glass. “But the response from any entrepreneur would be ‘Sure, but who will
+want to buy it?’ An investor or someone in business would start by talking to
+the customer to discover what their needs are, and then develop the
+technology.”
+
+This type of deep dive into the end user’s needs and motivations requires a
+different set of skills than the ones typically cultured in engineering
+students—but then, a Duke Engineering education isn’t typical. In their first
+year, students from every discipline take EGR 101: Engineering Design and
+Communication, a project-based course that asks teams of students to solve
+challenges for real clients in the university and the community. Working with
+their clients to design and iterate on deliverables ranging from lemur feeders
+to pedestrian bridges to endonasal retractors, the students learn to ask for
+and incorporate the feedback that will make their projects successful.
+
+Students from the class of 2021 work to improve a simulation device for
+intravenous injection training. The IV training arm is used by students at the
+Duke University School of Nursing
+
+Some engineering students are immediately hooked on the client-based
+experience. “Coming into Duke, I had a vague interest in business,” said Alex
+Xu ECE ‘22. “I was very interested in photography and had a photography print
+shop in high school. But when I took EGR 101 and learned to engineer to solve
+a specific problem that a client is facing and create value in that way, that
+really got me interested in entrepreneurship as a whole.” Xu participated in
+Duke in Silicon Valley the next year, and decided to pursue a Duke Innovation
+& Entrepreneurship Certificate.
+
+Franklin Boampong ECE ‘22, Samarth Lamba ECE ’22 and Alex Xu ECE '22
+
+So did Franklin Boampong ECE ‘22. “I came to Duke knowing I wanted to build
+something before I left,” said Boampong. He got the first opportunity to do
+just that when he worked on a HackDuke team that included Xu and Lamba in
+2020. The three friends developed an app that used computer vision to deliver
+information about the environment—approaching cars, curbs—to people with
+visual impairments. That experience not only scratched an entrepreneurial itch
+for the students, but the illuminated an area where the team might make real
+impact for real people: accessibility.
+
+Photo by Pilar Timpane for Duke I&E
+
+When the friends learned about an opportunity to participate in the 2021
+Verizon and CGI U Social Innovation Challenge, which asks teams to solve
+societal problems with tech-based solutions, they wrote a proposal for another
+app. This one, called Peek AR, would deliver live captioning of classroom
+material, through augmented reality, to students with hearing impairments.
+
+“There are some apps that exist in the same sphere, but they use speech-to-
+text transcribing, which shifts a student’s attention away from the instructor
+and what’s happening in real time,” said Xu. “Augmented reality would include
+students more fully.”
+
+The Clinton Foundation and Verizon agreed that Peek AR showed promise. To the
+team’s delight, they were awarded a grant to aid in further developing their
+tech and invited to participate in a summer incubator, receiving mentorship in
+technology and business development from experts at Verizon. They also drew on
+the expertise of Duke ECE faculty member Martin Brooke, who has experience
+with tech competitions, as well as Duke Director of Student Accessibility
+Services Cort Schneider, who connected them with students who might also be
+potential future customers. Those students gave the team valuable insights
+about their own needs and the utility of Peek AR’s technology.
+
+“The end goal is to produce a viable product,” explained Boampong. “At the end
+of the challenge, Peek AR should be marketable enough to draw more funding.”
+
+When the Peek AR team competes in the final round of the Social Innovation
+Challenge this fall, it will be in pursuit of a large purse. And while the
+prize money is definitely exciting, the team agreed, it’s not their sole
+driver.
+
+“Our main goal is to improve people’s lives, and we can use technology to do
+that,” said Boampong.
+
+> "You have to believe in your own ability to succeed, despite the odds."
+>
+> Jeffrey Glass
+
+This mindset—of wanting to create things that work—is typical of an engineer,
+Glass said. But he believes that the “entrepreneurial playground” offered by
+Duke gives students opportunities to discover whether they have the other
+qualities that will be necessary to launch their own companies later.
+
+“As an entrepreneur, you have to be comfortable and excited to wear a lot of
+hats, because you are going to be emptying the trash, signing the lease,
+raising the money, and developing the technology,” said Glass. “And you have
+to be risk-tolerant. You have to be comfortable with the idea that the odds
+are against you, statistically—you’re probably going to fail. But also, you
+really need to be an optimist. You have to believe in your own ability to
+succeed, despite the odds.”
+
+“Our next few months and years will be riddled with failures, but every
+failure will give us an opportunity to learn and grow,” agreed Lamba. “It’ll
+be a lot of hard work with many challenges that we can’t anticipate, but
+that’s the fun of it. The goal is always to get to a viable product and then
+we will finally be at the beginning of our journey.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

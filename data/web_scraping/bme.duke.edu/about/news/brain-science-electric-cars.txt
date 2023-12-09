@@ -1,0 +1,264 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Energy Initiative-Supported Project Connects Brain Science with Electric
+Cars
+
+August 25, 2017
+
+Electronics developed for deep brain stimulation useful for electric vehicles
+too
+
+_By Braden Welborn of theDuke Energy Initiative_
+
+Technology developed to help neurosurgeons and neuroscientists control
+electric currents during noninvasive brain stimulation could also lead to
+safer, more efficient batteries for electric cars and solar panels, thanks to
+seed funding from the Duke University Energy Initiative.
+
+Neuroscientists tend to be power-hungry. While the 110-volt outlet behind your
+desk produces a current of about 20 amps of electricity, the magnetic fields
+used in noninvasive brain stimulation draw about 5,000 amps -- roughly the
+same amount required to power a ship. Neuroscientists can't exactly plug into
+the wall for that kind of juice, so they need strong, reliable and safe
+electronic circuits.
+
+Duke researcher Stefan Goetz, an assistant professor of psychiatry and
+behavioral science, electrical engineering and neurosurgery, has developed
+high-performance electronics that control electrical pulses in noninvasive
+magnetic brain stimulation.
+
+A few years ago, spurred by conversation with School of Medicine and Pratt
+School of Engineering colleague Angel Peterchev, who has appointments in
+psychiatry and behavioral sciences, electrical and computer engineering,
+biomedical engineering and neurosurgery, a question began to nag at Goetz:
+Could this same technology solve the battery woes of electric vehicles?
+
+Today's EVs have large battery packs—the bottom of the car is filled with
+high-voltage batteries, as well as a range of electronics necessary for
+conversion of DC power to 12-volt power (for features like entertainment
+systems, air conditioning or GPS) and three-phase power (for the electric
+motor).
+
+"In most situations when you're using electricity," Goetz said, "you'll have a
+power source and then electronics to reshape the current, constantly switching
+on and off before it goes to your device." A traditional EV battery pack
+always emits at its full voltage—400 volts—and rapidly switches off and on to
+produce the appropriate volts and amps of electricity.
+
+"Today's electric vehicles do have extensive and reliable safety monitoring
+systems to address the high voltage and highly reactive chemistry of the
+battery packs. Still, I think we'd all agree it's worth exploring alternative
+approaches that take those risks off the table," Goetz said.
+
+When Goetz and other Duke researchers proposed applying their power conversion
+approach from neurosurgery to grid-storage and mobility applications, the U.S.
+Department of Energy responded along the lines of "We're very interested, but
+we need to see something concrete," Goetz said.
+
+So Goetz and Peterchev turned to Duke University's Energy Research Seed Fund,
+which supported them and Pratt School of Engineering professor Josiah Knight
+to develop a prototype for the battery and converter system.
+
+In a competitive grant process, the Energy Initiative and other on-campus
+partners annually award up to $40,000 seed funding to five to eight
+multidisciplinary teams for energy research.
+
+The seed funding helped Goetz and team develop their ideas enough that the
+National Science Foundation awarded the team and colleagues based at the
+FREEDM Systems Center at North Carolina State University a $500,000 grant to
+develop new control systems that would allow electric vehicles to make the
+most of the new battery approach.
+
+The Duke team's approach streamlines the amount of electronics required for
+conversions, and modularizes the battery. Their circuit arranges 16 small
+packets of batteries (each with up to 40 volts) so that the output follows a
+sinuous wave -- peaking and subsiding. The switches combine the small packets
+dynamically to reconfigure the battery at very high speeds, activating each of
+the pancake-sized packets in series or parallel.
+
+The Duke team's approach can generate outputs at higher quality, with greater
+efficiency, and at lower cost than traditional EV batteries. And modularizing
+the battery into small packets of 40 volts can also improve safety. Finally,
+the approach can reduce wear on the motor and other components.
+
+Goetz points out that Knight's contributions have been critical. "In electric
+vehicles, the electronics do become the heart of the vehicle—but that heart
+can't function unless it's working in coordination with the rest of the body.
+Josiah's expertise helps us treat the project holistically."
+
+Now student members of the Duke Electric Vehicles (EV) racing team are helping
+build an urban-concept vehicle around the new battery.
+
+"We are hoping to compete with this machine in the urban-concept category at
+the Shell Eco-marathon Americas next year," said Knight, who advises the Duke
+EV team.
+
+The NSF funding is also letting the team explore applications of the battery
+approach to solar energy systems.
+
+In most solar homes, electronics are installed to convert the energy captured
+by those cells then emit it in 110-volt alternating current that is in sync
+with the power grid. But what about nighttime and cloudy days?
+
+Many companies market storage systems that “bridge” periods of night and
+shade, but they usually consist of a loose set of solar cells, electronics,
+battery packs, and separate electronics that convert from the battery to the
+grid.
+
+“The flow of energy is hardly efficient—and a cloud or small shadow on just
+one cell can come close to shutting down your whole system,” Goetz said. “But
+we’ve realized that by incorporating a battery pack very similar to what we’ve
+developed for EVs, we can get the maximum out of the cells with shadows while
+continuing to draw on the full power of the other cells. The structure allows
+us to integrate energy storage with little additional effort,” he said. “That
+generates maximum impact: feeding into the grid and integrating batteries with
+no extra electronics.”
+
+Goetz’s and Peterchev’s work also crosses over with Pratt professor Jeff
+Glass’s exploration of solar cells that are flexible film with electronics and
+battery printed on the same material. Their potential collaboration is in its
+early stages, but Goetz is excited about the possibilities.
+
+“With film you can flex it and integrate it, and have a very cheap solar
+battery, a systeOncm with everything integrated,” Goetz said. “So we’re trying
+to make the electronics fit with those flexible processes, so that we have
+something that could be used anywhere in the world, relatively cheaply.”
+
+Goetz and graduate student Chris Dougher also teamed up to enter Duke
+University’s Startup Challenge with a business plan for their “Perle
+Converter,” which emerged from the research supported by the Energy Research
+Seed Fund and the NSF grant.
+
+The modular multilevel series and parallel converter uses low-voltage
+semiconductor switches to take a DC input and create an AC output while
+connecting the power sources dynamically in series and in parallel. It was
+awarded the Startup Challenge’s Clean Energy Prize for 2017, which was
+sponsored by the Energy Initiative.
+
+Dougher and Goetz are targeting electric vehicle, solar energy, and battery
+storage markets. They estimate that current domestic demand for converters
+exceeds 2.1 million—and is projected to jump to more than 8.3 million by 2019.
+Dougher is pursuing a Master of Environmental Management (MEM) at the Nicholas
+School of the Environment and a Master of Business Administration (MBA) at the
+Fuqua School of Business.
+
+“My research has taken so many unexpected turns through collaboration at
+Duke—and I love that,” says Goetz. “It’s very intentional, how this university
+brings people together across disciplines to work on important problems like
+energy. And it’s a strategy that helps make Duke researchers’ work stronger
+and more actionable.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

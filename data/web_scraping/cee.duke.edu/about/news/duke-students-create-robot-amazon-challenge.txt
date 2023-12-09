@@ -1,0 +1,185 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Students Create Robot for Amazon Challenge
+
+July 17, 2017
+
+Team heading to Japan for international competition of robotics experts
+
+_FromDuke Today_
+
+_Story by Rebekkah Huss, video by Julie Schoonmaker_
+
+A group of Duke graduate students is heading to Nagoya, Japan, this month to
+test their skills in the Amazon Robotics Challenge, part of RoboCup, an
+international scientific initiative to advance intelligent robots.
+
+Organized by faculty at the Pratt School of Engineering, Duke’s team is
+composed of students from a variety of disciplines including biomedical
+engineering, electrical and computer engineering, mechanical engineering,
+computer science and physics. They were selected as finalists this past
+November 2016 for the competition that begins July 27.
+
+They are one of 16 teams from universities and research institutes from around
+the world tackling the challenge of building and programming robots capable of
+picking up items and packing them in boxes.
+
+The teams will pit their robots in a test that will include object
+recognition, grasping objects, motion planning and task execution. The robots
+will earn points based on how many items are successfully picked up and stowed
+in a fixed amount of time. The teams will also discuss their approaches with
+the judges.
+
+After an 8th place finish last year, Team Duke’s faculty adviser Kris Hauser
+said he is excited to once again take his team to the state-of-the-art
+robotics competition. This time around he believes the team can place at least
+in the top five, and has encouraged his students to shoot for the win.
+
+“This is really the quintessential robotics challenge. It's a very complicated
+system that needs to be put together,” Hauser said.
+
+The key technical challenge, he said, is to design a robot that can accomplish
+what human pickers do in warehouses millions of times a day--automatically
+recognize and pick up thousands of different objects, not just a few known
+ones.
+
+“Robots in factories are typically custom-engineered only to pick up one type
+of object, but our system must be able to cope with a wide variety of objects
+and situations,” he said. “You need to have perception melded with hardware
+melded with planning and all of these different components have to be working
+together.”
+
+For the students, captained by Duke BME PhD student Mark Draelos, this
+challenge is an opportunity to fill Amazon’s real need for a warehouse sorting
+robot while gaining experience and insights into product development that may
+help them in their careers.
+
+Fan Wang is Team Duke’s motion planning lead, which means she is responsible
+for giving the robot the tools it needs to decide how and where to move.
+“We’re doing a lot of improvement on sensing and smart computation so the
+robot can do warehouse stocking and other tasks automatically,” said Wang, a
+graduate student in electrical and computer engineering.
+
+One goal of the Amazon competition is to push researchers to find solutions to
+real world problems, all with a spirit of international competition and
+collaboration. At Duke, that goal has been met. Wang said the students are
+excited to go up against the best in the field and to challenge themselves
+with a complex and innovative project.
+
+“This is a challenge I’ve never encountered before. I think after working on
+this I’ll have a lot of insights of how it’s done in industry,” Wang said.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Vahid Tarokh: Turning Patterns in Data into Products and Predictions
+
+November 6, 2017
+
+New faculty member Vahid Tarokh has a history of securing strong signals from
+complicated datasets
+
+Vahid Tarokh will join the faculty of Duke University’s Pratt School of
+Engineering as the Rhodes Family Professor of Electrical and Computer
+Engineering in January 2018. One of the world’s most cited researchers in
+computer science, Tarokh is known for his singular contributions to signal
+processing and current work to create new methods for modeling and making
+predictions from small amounts of data.
+
+“Most of my research has been about finding ways of discovering, creating or
+hiding patterns in a variety of signals and systems,” said Tarokh, who joins
+Duke from his current position as Perkins Professor of Applied Mathematics and
+Vinton Hayes Senior Research Fellow of Electrical Engineering at Harvard
+University. “Sometimes the aim is to improve things like reception quality--
+other times we look at patterns to improve modeling, detection and prediction
+for various applications. Occasionally, we have even thought about ways to
+hide a pattern, for example, from an adversary."
+
+While working for AT&T Labs in the late 1990s, Tarokh helped invent the
+algorithms called space-time codes that most modern cellular phones use to
+transmit data. The technique sends several data streams of information
+simultaneously and combines the segments of received signal in an optimal way
+to provide signal redundancy. These space-time codes achieved significant
+error rate improvements over single-antenna systems and have been incorporated
+in a broad range of wireless standards.
+
+After moving to the Massachusetts Institute of Technology in 2000 and Harvard
+University in 2002, Tarokh did early foundational work on distributed
+communications, spectrum sharing and cognitive radios. Cognitive radios are
+now allowed by the FCC for sharing the spectrum in various bands. He later
+became interested in researching various areas of signal processing and its
+applications to radar, interferometry and biology. Some of his projects
+included the development of "smart" shoe insoles to detect falls in the
+elderly, seizure prediction tools, systems to detect masses of tissue within
+the human body and environmentally sustainable communications systems.
+
+> "I was very impressed by the faculty that I met, who are intellectually
+> outstanding and truly collegial,” said Tarokh. “I was also impressed by the
+> leadership. Great leaders are hard to find, and kudos to the people who put
+> this amazing team together."
+
+As Tarokh moves to Duke, he plans to use the interdisciplinary opportunities
+for collaboration provided by the Information Initiative at Duke (iiD) and the
+Duke Quantitative Initiative to pursue new approaches to getting the most out
+of small sets of data. For example, he currently has projects focused on
+security for the Internet of Things with Robert Calderbank, director of the
+iiD and professor of electrical and computer engineering at Duke, and
+predicting events from small amounts of data, such as determining how
+different people will respond after exposure to certain viruses, with Ricardo
+Henao, assistant research professor of electrical and computer engineering and
+assistant professor of biostatistics and bioinformatics.
+
+“I believe that 50 years from now, people may think of our era as golden
+times,” said Tarokh. “The tools we are inventing now may enable new, faster
+and semi-automated methods of scientific discovery. This, in turn, might
+further amplify the pace of progress and significantly impact various areas of
+health, science and technology.”
+
+Tarokh’s move to Duke will reunite him with his friend and mentor Calderbank,
+who was formerly director of the Information Sciences Research Center at AT&T
+Labs and worked with Tarokh on developing the space-time codes. Besides having
+faith in Calderbank’s vision for his growing initiative, Tarokh cited the
+leadership and opportunities for collaboration at Duke engineering and
+sciences with excellent colleagues as the reasons for his move.
+
+“I was very impressed by the faculty that I met, who are intellectually
+outstanding and truly collegial,” said Tarokh. “I was also impressed by the
+leadership. Great leaders are hard to find, and kudos to the people who put
+this amazing team together.”
+
+Besides being an interdisciplinary researcher whose work can be applied to
+several departments across the university, Duke is also gaining an
+accomplished teacher. Having hosted local high school students in his
+laboratory through a program sponsored by the U.S. Army Research Office,
+Tarokh works diligently to pay forward the benefits he has reaped by having
+excellent mentors throughout his own career.
+
+“Filling the shoes of these mentors is very hard, but I can try to get young
+people interested in science at an early stage of their careers,” said Tarokh.
+“Plus, undergraduate and graduate students often offer their own original
+views and surprise me with their novel ideas. I continue to be inspired by the
+speed with which they can absorb new concepts and their thirst for learning,
+their idealism, their level of energy and their originality.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,361 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Duke’s Engineering Response Team Designs Solutions to Pandemic Problems
+
+October 7, 2020
+
+An interdisciplinary team of engineers, clinicians and other experts from
+across Duke came together to create medical devices and tools to address
+COVID-19
+
+At the beginning of March, Dr. Konstantinos Economopoulos realized life was
+about to change.
+
+The novel coronavirus, originally identified in December 2019, had infected
+hundreds of thousands of people across the world, and the World Health
+Organization declared the growing pandemic a global health emergency. Classes
+at Duke were moved online, and surgical residents in their research years at
+Duke University Medical Center, like Economopoulos, were instructed to return
+as clinical residents to pitch in with surgeries for the growing wave of
+patients.
+
+The coronavirus pandemic not only brought changes to daily life, but a slew of
+unique problems for physicians and other health care workers to deal with.
+
+“Across the country, we were seeing reports about shortages of personal
+protective equipment, like masks, face-shields, gowns, and we had to change
+our behaviors to reduce certain risk factors,” says Economopoulos. “We had to
+limit the amount of time we spent in patients’ rooms. We also had to delay
+procedures and delay regular patient check-ins to ensure that both health care
+workers and their patients stayed safe.”
+
+As a physician, Economopoulos saw the challenges firsthand. But as a Design
+Health Fellow and master’s student in Duke Biomedical Engineering, he could
+also work with colleagues on the newly assembled Engineering Response Team to
+begin developing solutions to pressing clinical needs emerging during the
+pandemic.
+
+## DEPLOYING THE DESIGN HEALTH PARADIGM
+
+When the Duke Design Health Fellows program officially launched in August of
+2019, its goal was to teach students how to identify pressing needs in health
+care and develop practical, creative solutions. With participants from
+engineering, medicine and business, interdisciplinary student teams would
+immerse themselves in a clinical environment and work with physicians, nurses
+and other stakeholders to identify areas where help was needed.
+
+That collaborative design program turned out to provide an ideal model for how
+to quickly provide much-needed tools during a global pandemic.
+
+“I had gotten calls from a Fortune 50 corporation about figuring out how to
+produce low-cost ventilators, and Ken Gall, the associate dean for
+entrepreneurship at Duke Engineering, had been approached with the idea of
+turning a surgical gown into a powered air purifying respirator,” says Eric
+Richardson, an associate professor of the practice of biomedical engineering
+and director of the Design Health program. “I was on the phone with Ravi
+Bellamkonda, the dean of Duke Engineering, and Ken the weekend after
+everything started closing [for social distancing], and we realized we needed
+to formalize all of these projects into a cohesive effort.”
+
+Richardson, Gall, Paul Fearis, a senior lecturing fellow in biomedical
+engineering and one of the leaders of the Design Health Program and Donna
+Crenshaw, the executive Director of Duke MEDx, quickly formed the COVID-19
+Engineering Response Team. Their first goal was to work together to prioritize
+the identified needs and discuss which projects were the most practical and
+impactful to immediately pursue.
+
+“While the world was running around with its head in its hands dealing with
+tons of requests for PPE, ventilators and the like, we made the decision to
+take a breath, slow down and talk to the hospital,” says Fearis. “We’re in a
+unique position where all we have to do is walk across the road and ask, ‘Is
+this real? What will really help? And how good does it have to be?’ And we got
+engagement from the hospital back in spades, which is what really gave us
+traction rather than having us spinning our wheels.”
+
+The team also pulled in Fellows from the Design Health program to assist and
+lead various projects, including Economopoulos.
+
+> “Just like in Design Health, our first step was validating the need and
+> making sure we understood what that actual problem was.The fact that we had
+> people coming together from medicine and engineering was instrumental, and I
+> was able to use my dual role as a Design Fellow and general surgery resident
+> to give feedback about the clinical significance and feasibility of certain
+> projects.”
+>
+> Konstantinos Economopoulos
+
+## A Checklist of Pandemic Proportions
+
+Less than three weeks after the formation of the Engineering Response Team,
+multiple projects were already launched, including 3D-printed face shield that
+was prototyped with support from Chip Bobbert, the senior engineer and
+fabrication architect at Duke’s Innovation Co-Lab.
+
+The mask team coordinated their design with Duke health care workers who would
+be most impacted by its use, including more than two dozen Duke nurses,
+graduate nursing students and other medical professionals. Ryan Shaw, an
+associate professor and the Elizabeth C. Clipp Term Chair of Nursing, and his
+team tested the prototypes in a simulation lab, where they determined which
+designs met safety standards and could be appropriately cleaned for re-use.
+
+The PAPR hood prototype
+
+A health care worker wears one of the 3-D printed masks.
+
+The mask includes a reusable respirator hood that can completely cover health
+care workers’ faces and a battery-powered blower that pulls air through
+filters that keep the suit ventilated and the visor clear. The PAPR hood is
+one of the safest pieces of equipment that health care workers can wear, and
+it’s the preferred PPE for workers who are performing procedures like
+intubating patients––an increasingly common action during the coronavirus
+pandemic.
+
+The team coordinated the hood's design with Dr. Melissa Erickson, a Duke
+Oprthopedic spine surgeon who had approached the team with the idea. To date,
+more than 97 groups have accessed the license and 35 groups from around the
+globe have downloaded free design and instructions.
+
+In addition to their projects involving PPE, the team has also advanced
+projects intended to improve patient care. Among them is a plan to adapt
+ventilators to make them both safer and more efficient when split between
+patients.
+
+A traditional ventilator pushes air into a patient’s lungs at specific
+pressures, volumes, respiration rates and oxygen levels, and it can
+automatically sense when to adjust its air volumes. But when a ventilator is
+split, it compromises its safety alarms because it is no longer responding to
+a single patient.
+
+The project, helmed by Amanda Randles, the Alfred Winborne and Victoria Stover
+Mordecai Assistant Professor of Biomedical Sciences at Duke and Dr. Muath
+Bishawi, a cardiac surgery resident, PhD student in Duke BME and an advisor
+for the Design Health program, involved 3D-printing resistor pieces that can
+restrict airflow.
+
+The team based their work on Randles’ parallel computing algorithm that’s
+capable of simulating blood flow on a cellular level. They adapted the system
+to instead simulate air flow through a ventilator and patient lungs with
+different levels of resistance. This information helped the team design
+multiple benchtop models for resistor pieces that could resist and redirect
+airflow in specific ways, based on the needs of the patient.
+
+A new set of 3D-printed parts and an accompanying app is making ventilator
+splitters such as these much safer for patients
+
+## CREATING DISTANCE TO SAVE LIVES
+
+When Economopoulos joined the Engineering Response Team, he opted to lead a
+team that would address one of the issues he’d personally dealt with as a
+physician: protecting doctors and patients during routine check-ins.
+
+Konstantinos and his colleagues plan the isolation tent project while social
+distancing.
+
+The prototype of the COVIAGE Isolation Tent
+
+The team came up with the idea to develop a clear tent that could go over a
+hospital bed. A negative pressure HVAC system attached to the tent would help
+contain the virus by filtering contaminated air exiting the tent. By making
+the tent portable, they could also more easily move patients around the
+hospital without risking contamination. “As health care workers, we were
+trying to minimize our time in patients’ rooms so we wouldn’t be risking our
+health more, especially if we were dealing with a shortage of PPE,” says
+Economopoulos. “A lot of the conversation had involved adapting and improving
+existing PPE to protect us, but we started brainstorming and thinking outside
+the box, and that’s when we started discussing the possibility of potentially
+isolating the patient within their room. That led us to come up with COVIAGE.”
+
+“We worked with Ryan Shaw and Jackie Vaughn in the School of Nursing to gather
+feedback and continue to adapt the design. Even janitors and other staff in
+the hospital became instrumental to our team for the feedback they could
+provide about risks and the ways the pandemic affected their job,” says
+Economopoulos. “Within a few weeks we were able to deliver a finished product
+to the hospital. Normally these devices would take at least two years to plan,
+prototype and deploy, but the pandemic has fast-tracked everything.”
+
+For Economopoulos, it was inspiring to see so many engineers and physicians
+and Design Health colleagues come together to craft local solutions to a
+global problem. He credits the collaborative nature of Duke and the
+infrastructure set up by the Design Health program as key ingredients for the
+Engineering Response Team’s success.
+
+“The projects we’ve been working on have been beneficial to our community, to
+our country and they have the potential to be helpful internationally,” he
+says. “At times, the Engineering Response Team was essentially a scaled-up
+Design Health program with unprecedented collaborations across Duke. The
+pandemic has given people a huge incentive to go the extra mile, and it’s been
+really inspiring to be a part of.”
+
+## Explore projects from the Engineering Response Team
+
+### Solving Pressing Challenges
+
+The Engineering Response Team 3D prints medical grade face shields
+
+### Projects From the COVID-19 Engineering Response Team
+
+The team is working on projects to address Duke Health’s identified clinical
+equipment needs. As the team finalizes and implements devices, it will make
+the designs available for other hospitals and health care workers to download
+and use.
+
+### Sophisticated Modeling Boosts Split Ventilators to Emergency FDA Review
+
+Duke engineers and clinicians devise a system for ensuring patients receive
+just the right amount of air
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

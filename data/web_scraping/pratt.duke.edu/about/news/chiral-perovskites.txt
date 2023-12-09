@@ -1,0 +1,236 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Chiral Ingredients Split Electron Spins in Hybrid Semiconductors
+
+October 13, 2020
+
+Adding left- or right-handed organic molecules to hybrid perovskite
+semiconductors may offer a path toward spintronic computing
+
+Materials scientists at Duke Engineering, working with a nationwide group of
+collaborators in the Department of Energy-funded "Center for Organic Inorganic
+Semiconductors for Energy" (CHOISE), are transforming a class of
+semiconductors containing both organic and inorganic components into a
+candidate for futuristic “spintronic” computers by introducing chirality into
+their structure.
+
+Derived from the ancient Greek word for handedness, the term chiral simply
+refers to structures that are similar, but that can’t be translated or rotated
+to match each other. Take your hands, for example. When placed one on top of
+the other, your left hand does not fit on top of your right hand, even though
+they’re otherwise identical structures.
+
+Known as hybrid organic-inorganic perovskites or HOIPs for short, the
+semiconductors featured in the demonstration have traditionally been popular
+targets for light-based devices such as solar cells and light-emitting diodes
+(LEDs).
+
+The hybrid organic-inorganic piece of the name refers to combining the
+strengths of organic and inorganic materials. Organic materials have more
+desirable optical properties and may be bendable, but can be ineffective at
+transporting electrical charge. Inorganic structures, on the other hand, are
+typically better at conducting electricity and offer more robust mechanical
+strength.
+
+The final piece of the puzzle, perovskite, refers to the material’s specific
+atomic structure, no matter which elements are part of the recipe. And because
+these crystals or films can be structurally complex, researchers are combining
+their organic and inorganic components in well-ordered layers, which makes
+their frameworks and resulting properties somewhat easier to rationalize.
+
+In a new paper published on September 24 in _Nature Communications_ ,
+researchers demonstrate the first members of this class of hybrid
+semiconductors in which a targeted chiral molecule transfers its “handedness”
+from the organic molecule to the inorganic part of the structure and also show
+that this transfer enables control over the spin-related character of the
+semiconductor electronic bands.
+
+“Building the HOIP with a layer of chiral cations, which can either be left-
+or right-handed, breaks the symmetry of the surrounding inorganic framework of
+the material,” said David Mitzi, the Simon Family Distinguished Professor of
+Mechanical Engineering and Materials Science at Duke. “This provides a
+‘handle’ to tailor the spin states within the material.”
+
+While this discovery is fascinating on its own, it also leads to the
+possibility of using these types of materials in electrical devices. Depending
+on the chirality of the organic molecule used, the material will favor the
+transport of electrons with one type of spin or the other, which could enable
+so-called spintronic devices.
+
+“By breaking the structural symmetry within the inorganic layers, we brought
+about a phenomenon known as Rashba-Dresselhaus spin-splitting,” said Manoj
+Jana, a materials science post-doctoral researcher at Duke and first author of
+the paper. “This is not a very common phenomenon, and is especially rare in
+this class of materials called HOIPs.”
+
+In the new paper, rather than focusing on how these materials create
+electricity with light, the researchers use their structural characterization
+techniques and advanced computational models to understand how the HOIPs
+interact with electrons based on the direction of their spin. They show that
+when the organic component of the material is made from a selected chiral
+molecule, the surrounding inorganic framework also becomes chiral, connecting
+the spatial direction in which an electron is transported to its spin
+direction. This phenomenon, Rashba-Dresselhaus spin-splitting in the inorganic
+framework, can have implications for spintronic devices, including spin field-
+effect transistors and spin-Hall devices.
+
+In traditional electronics, information is transported, stored, and
+manipulated based on the movement of the charge of electrons. This requires a
+substantial amount of energy and produces a lot of heat. Alternatively,
+spintronics creates 1s and 0s by manipulating the spins of stationary
+electrons. Devices using such a setup would have better signal speeds and
+require less power because the spin is the signal rather than the charge.
+
+While chiral organic molecules have been introduced into perovskites
+previously, the structural transfer of chirality from organic to inorganic
+components has not been studied. And while spin-splitting has long been
+demonstrated in two-dimensional electron gases, semimetals and metals, the
+ability to control this effect in HOIPs has remained elusive.
+
+With this demonstration, the researchers hope to advance one possible path
+toward such devices.
+
+“The materials used for the first hybrid perovskite solar cells were invented
+in the 1970s by a German laboratory that just wanted to study their properties
+to see what they could do,” said Volker Blum, associate professor of
+mechanical engineering and materials science at Duke, who led the
+computational modeling side of the research. “It wasn’t until 40 years later
+that someone got the idea to use them for a solar cell. In many ways, that’s
+what we’re doing here with chiral induced spin selectivity.”
+
+This work was supported by the Department of Energy (DE-AC36-08G028308, DE-
+AC02-06CH11357, AC02-05CH11231) and the National Science Foundation
+(DMR-1729297).
+
+“Organic-to-inorganic structural chirality transfer in a 2D hybrid perovskite
+and impact on Rashba-Dresselhaus spin-orbit coupling.” Manoj K. Jana, Ruyi
+Song, Haoliang Liu, Dipak Raj Khanal, Svenja M. Janke, Rundong Zhao, Chi Liu,
+Z. Valy Vardeny, Volker Blum & David B. Mitzi. _Nature Communications_ ,
+volume 11, Article number: 4699 (2020). DOI: 10.1038/s41467-020-18485-7
+
+## Related News
+
+October 08, 2018
+
+### Supercomputer Predicts Optical and Thermal Properties of Complex Hybrid
+Materials
+
+October 23, 2014
+
+### Mitzi Awarded SunShot Initiative Funding to Improve Thin-Film Solar Cell
+Materials
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

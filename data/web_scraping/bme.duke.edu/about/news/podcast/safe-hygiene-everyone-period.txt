@@ -1,0 +1,357 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Safe Hygiene for Everyone, Period
+
+October 1, 2020
+
+Women and girls* are disproportionately affected when access to safely managed
+sanitation is lacking. Duke ECE engineer Sonia Grego wants to change that.
+
+## Listen
+
+## Transcript
+
+Intro music: purple-planet.com
+
+Miranda: They kill crops.  
+They kill bees.  
+They drive dogs mad.  
+They’re incapable of logical thought, yet they can dull your knife or your ax
+or your saw with a single glance.  
+They’re women… on their periods.  
+That’s according to all kinds of cultural myths about menstruating women from
+all around the world, anyway.
+
+Miranda: So I started to think about, what were these menstruating women myths
+in the United States, and I remembered one thing I had always heard, which was
+that you shouldn’t go to the beach on your period because the sharks will
+smell your blood—
+
+(Sonia laughs)
+
+—and you’ll get attacked. And I actually didn’t know whether that was true, I
+had to Google it! And of course it is not true, it’s just one of these crazy
+cultural myths. But I know you grew up in Italy, and I was wondering if you
+had any of those.
+
+Sonia: Yes.
+
+Miranda: What are they?
+
+Sonia: So the myths are—In Italy, where I grew up, women typically do a lot of
+canned jam, canned goods. You cannot be a part of the canning of goods if you
+have a period, because it will go bad.
+
+Miranda: This is Rate of Change, a podcast from Duke Engineering dedicated to
+the ingenious ways engineers are solving society’s toughest problems. I’m
+Miranda Volborth. In this episode I’m talking with an engineer from Duke’s
+Center for Water, Sanitation, Hygiene, and Infectious Disease, or WaSH-AID—
+
+Sonia: My name is Sonia Grego, I am an associate research professor at the
+Duke Center for WaSH-AID, and the department of electrical and computer
+engineering. And I am leading projects in the space of sanitation and
+engineered solutions for sanitation.
+
+Miranda: WaSH-AID works on a range of projects related to global sanitation,
+human health, and the environment—including the Reinvent the Toilet Challenge,
+funded by the Bill and Melinda Gates Foundation. Through this project, WaSH-
+AID is working to serve communities around the world that have inadequate or
+no access to sanitation. Depending on how you define the standards you want to
+raise everybody to, that’s somewhere between 2.3 and 4.2 billion people. Sonia
+oversees field testing of new sanitation technologies in India. So, she’s seen
+a lot of data about toilets—who uses them, when, and why, sometimes, they
+don’t. That data has made it clear that lack of access disproportionately
+affects women and girls.
+
+Sonia: It is estimated that as many as 1/3 of schools globally lack proper
+sanitation and menstrual hygiene facilities, and this has a huge impact on
+sanitation. Now, in terms of gender equality, we all know that women need
+education—that lack of education has detrimental impact in terms of their life
+trajectory, in terms of income and quality of life. And it so happens that
+young girls, after they have their first period, they start to drop out of
+school or to lose one week per month. So this has a huge impact on their
+ability of education, and if you think about it, the trajectory of a woman’s
+life is degraded by the fact that there was not a proper place for her to
+dispose of a menstrual pad, I—it’s a disgrace. It’s a problem that can and
+should be solved. And the benefit would be so huge, in terms of education and
+contribution to the work force. It’s such a neglected topic, yet it has such a
+significant impact.
+
+Miranda: The solution seems pretty straightforward. Why can’t toilet
+facilities just add wastebaskets—right?
+
+Sonia: So here in the US, we are lucky and we have wastebaskets in locations
+but we also have a solid waste management system. We have people that collect
+he waste and properly dispose of it. This is not available in developing
+countries, there is not such a centralized service. And menstruation and
+menstrual waste in particular also has these associated stigmas, so disposal
+of it is a much-neglected task. There are no central services, it gets buried
+or burned on the premises, which is both an environmental and a health
+concern. So the intent for the center for WaSH-AID was to provide a
+comprehensive sanitation solution for users, and technologies that deal with
+sanitation for women need to include a solution for waste—for menstrual waste
+disposal.
+
+Miranda: Enter the S.H.E. unit—Safe Hygiene for Everyone. It’s a small, clean-
+burning incinerator. The aim is to make the S.H.E. unit the size of a small
+wastebasket, so it can fit in a women’s toilet. It has a door where you drop
+your used pads, and it’s a co-fire process, meaning that you mix two fuel
+types—propane gas, commonly used for stoves, and the pads themselves. It
+achieves a very high temperature that ensures complete combustion. And it’s a
+very clean conversion, resulting in mostly CO2 and water. What’s left is a
+very small amount of ash—that still has to be disposed of.
+
+Sonia: The concern with all incinerators is their potential for air pollution.
+You don’t want to trade an environmental pollution threat with another one.
+And so that was the genesis of our technology and why we are using a process
+designed to reach a high temperature and therefore better control the
+emissions. And we are conducting measurements here in the US to ensure that
+these conditions are met.
+
+Miranda: Here’s the thing. For the unit to operate effectively, the WaSH-AID
+engineers have to know the characteristics of the materials that are being
+disposed of. What are the pads made of—paper, cloth? Are they commercial, are
+they homemade? How frequently do women change their pads? Because that affects
+how easily they burn. The risk of an incomplete burn is that the unit might
+produce a ton of smoke, and pathogens might survive. So Sonia made a big ask
+of her team in India: to collect menstrual waste and characterize it. I asked
+her how the team reacted.
+
+Sonia: I was very surprised when the ask was, “Well, we need to characterize
+the contents of this, you know, menstrual waste basket.” However, that request
+came after we had already done education with the women on the importance of
+safe menstrual hygiene practices and how if women don’t change their pads
+often enough they get urinary tract infections and other diseases. So we had
+already established the practice that we needed trash bins in every toilet
+stall, and we have a caretaker that disposes of it and we had the education.
+This topic of the menstrual hygiene safety had been discussed with the team,
+but as I said it is still a majority of men engineers, young men, just out of
+school with a high education that already they are doing a job which are
+challenging because they are sampling toilet effluent right then and there.
+And then transforming it into pathogen-free water, ready for reuse, which is a
+fantastic thing, but they need to analyze the raw material, which is quite
+unpleasant. But at least that’s part of a civil engineer’s work. The menstrual
+waste, that was completely new, and I very shyly suggested—or indicated—that
+that was something we needed to do in preparation for the testing of the
+disposal technology. And they did not bat an eye. And it was not only the
+woman engineer, but she and a couple of male engineers who provided the data
+for the spreadsheet. And they did not bat an eye. So I was pretty pleased.
+
+Miranda: I read something the other day, just in the paper, that Scotland was
+going to have free menstrual products for everybody. What do you think about
+that?
+
+Sonia: I think that access to pads in critical. I mean, as a woman, you know
+that the horror is to have your period being someplace and not having access
+to a pad. That is the nightmare for women in that period of our lives. So I
+think it is extremely forward thinking to have free sanitary pads and tampons
+available in toilets everywhere. Some of these products actually even undergo
+luxury tax. In India there was quite a movement against removal of the luxury
+tax. They were considered like a perfume, something people choose. Well, they
+are essential. So yes, availability of pads is a key right.
+
+Miranda: I think the US has tax on menstrual absorbents, doesn’t it? I think
+it—I’ll fact-check that.
+
+Miranda: I did look into this issue and here’s what I learned: taxes on
+menstrual absorbents vary by state. Thirty-five states collect sales tax on
+them. North Carolina, in fact, makes $7.8 million on these products every
+year. In Colorado, parts for private jets are not taxed, but period products
+are. In Idaho, treatments for hair loss are not taxed, but period products
+are. Tampons and pads are not optional, they’re necessities, like groceries or
+medicine. This kind of sex-based discriminatory pricing is called a “pink
+tax.”
+
+Miranda: Another thing that strikes me is funny is that when I first started
+working at Duke, I noticed that a lot of the dispensers are free—you could
+just get a tampon or sanitary pad if you needed one. But I also noticed that
+the tampons were always empty.
+
+Sonia: Yes! It’s always—yes, I’ve noticed that, too. So it is true that if
+good are—if dispensers are free, they may be emptied by hoarders. However, not
+withstanding what user behavior is, widespread availability and access to
+high-quality disposable pads is an unmet need.
+
+Miranda: And it is almost exclusively sanitary pads in the places where you’re
+testing these technologies, right?
+
+Sonia: Yes, that is—well. Well, well… we found a great prevalence of sanitary
+napkins that are commercial and disposable, but in one of the sites we also
+found a 10% prevalence in the use of cloth. These are rags. You know, like
+house rags that are used for this purpose, rewashed, and reused. This is a
+practice that comes from lack of access to these resources and due to the cost
+of commercial pads that the poorest people cannot afford. Again, because these
+are rewashed and then need to dry properly before you can reuse them, which
+you can also hardly do with discretion, this is associated with a series of
+health concerns.
+
+Miranda: Here’s the other thing: the solution that this team of engineers is
+developing has to be affordable, as well as safe and healthy, because the
+alternative is free: just continuing to dump used pads into toilets, out in
+fields, or throwing them into rivers or streams, where they disperse
+pathogens. Or, burning them openly, where they release toxic chemicals into
+the air.
+
+Sonia: For this unit we are targeting a price cost which is of the order of
+$500, plus-minus. It’s still fancier than the price of existing incinerators.
+Still, even existing incinerators are very little-used. As I said, in my
+experience, even the trash can is hardly available in a women’s toilet—that is
+a public facility, not a fancy one. So I think there is a need for a
+sensitization of the public to the needs of women in the space of sanitation
+and menstrual hygiene. The fact that you provide a bathroom that has running
+water is not enough for women users, for the reasons we have described. So I
+feel that overall, an education and sensitization campaign of a topic that is
+considered “shhh”—something people don’t talk about—is needed, so that this
+crucial feature is included in the budget of whoever provides the sanitation
+solution. We are all convinced that in terms of engineering solutions for
+human needs, these types of work we’re doing is the most likely—certainly in
+my career—that I have done that has the impact of changing life and improving
+health, at a scale that I cannot imagine. So I am a small cog in a big wheel,
+but this is the most significant work that I’ve done in my career, and I think
+that many of my colleagues think the same.
+
+Miranda: Sonia would like everyone listening to know that May 28th is World
+Menstrual Hygiene Day—a day dedicated to breaking period stigma, dispelling
+shame and prioritizing the needs of women and girls. So mark your calendar for
+next May 28th, and celebrate World Menstrual Hygiene Day by having a slice of
+cake… or going to the beach on your period… or canning something… or even
+indulging in a little light beekeeping.
+
+Thanks for listening. Subscribe for updates from Duke Engineering, and if you
+learned something from this podcast, please share it with others.
+
+*We are aware that menstruation can be a source of stress and induce dysphoria
+for people outside of the gender binary; not everyone who menstruates
+identifies as a woman or girl, and some who do identify as women and girls do
+not menstruate. Language around this topic is still evolving.
+
+## Featured Faculty
+
+### Sonia Grego
+
+Associate Research Professor in the Department of Electrical and Computer
+Engineering
+
+View profile »
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

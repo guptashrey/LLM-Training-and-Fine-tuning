@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Students Advance to Finals in $7 Million Ocean Discovery XPRIZE
+Competition
+
+March 7, 2018 | By Ken Kingery
+
+After years of work from hundreds of students, the Duke Ocean XPRIZE team has
+qualified for the final round of competition aimed at autonomously mapping the
+ocean floor
+
+Building on the research of more than two years of students in an innovative
+engineering course, a Duke University team is among the final nine teams left
+standing in the $7 million Shell Ocean Discovery XPRIZE that will conclude
+this fall.
+
+The Shell Ocean Discovery XPRIZE presents teams with the ambitious goal of
+mapping 250 square kilometers of ocean up to 4,000 meters deep within a half-
+meter resolution in less than 24 hours. The competition also requires teams to
+identify and image 10 archeological, biological or geological features. To
+make the task even harder, no boats or humans are allowed—the surveying must
+be completed with a system of autonomous drones that can all fit within a
+standard shipping container.
+
+"A lot of people who do this sort of work for a living didn't even bother
+trying to compete," said Martin Brooke, associate professor of electrical and
+computer engineering at Duke and leader of Duke's team. "Most people viewed
+this challenge as completely and totally impossible. And they might be right."
+
+The XPRIZE contests have a reputation for being challenging and audacious. The
+Google Lunar XPRIZE competition to send a robot to the moon ended this year
+without a winner. But the original Ansari XPRIZE to launch people into space
+with a reusable spacecraft found a winner, and the Wendy Schmidt Ocean Health
+XPRIZE aimed at developing ocean pH sensors found three.
+
+Whether teams are able to complete the challenge or not, the lofty goals of
+the XPRIZE competitions serve to push science forward, catalyze new markets
+and provide incentives for talented, intelligent people to innovate and make
+significant impacts.
+
+More than 30 teams submitted proposals at the start of the competition, and 19
+were chosen as semi-finalists based on their technical merits in early 2017.
+These teams included more than 350 people from 25 countries, ranging from
+undergraduate students to industry professionals. The Duke team is joined in
+the finals by just one other university-based team, from Texas A&M. Both
+student teams will be competing against teams formed by industry professionals
+in Germany, Switzerland, Japan, Portugal, England and the United States.
+
+The Blue Devil Ocean Engineering team has taken an unusual tactic—several
+undergraduate classes were formed at the start of the competition to begin
+work on the project. While a handful of graduate students and undergraduate
+students working through independent studies have been able to stick with the
+project since its inception, most of the work being done each year is by an
+entirely new set of students. This means that few of the students finishing
+the competition this fall will have been the ones who started it in 2016.
+
+"Each year there's a bit of a slowdown as the new students come up to speed on
+the project. But at the same time, they come in with fresh ideas and a lot of
+energy," said Doug Nowacek, the Randolph K. Repass and Sally-Christine Rodgers
+University Associate Professor of Conservation Technology in Duke's Nicholas
+School of the Environment and Pratt School of Engineering.
+
+Duke's approach is to use giant heavy-lifting drones to deploy and retrieve a
+series of sonar-equipped sensors that are lowered from floating platforms at
+the ocean's surface. This is much more difficult than it sounds.
+
+The drones must autonomously navigate gusting winds and waves that average six
+meters in height while dropping off and retrieving the sensors. The floating
+sensor platforms must carry at least 3,500 meters of cable to lower and then
+pull up the sensor pods, making them extremely heavy for the drones to carry.
+The sensor pods themselves must withstand the pressure, temperature and
+salinity of the ocean's depths. And to successfully map the area required, the
+team must deploy multiple drones making multiple drop-offs and pick-ups, and
+then seamlessly analyze all of the data.
+
+To advance to the final round, the semifinalist teams had to pass a Round 1
+Technology Readiness Test, which comprised site visits to each team by XPRIZE
+staff and judges. The teams were tested against 11 measurement criteria to
+show their technological solutions were capable of meeting the operational
+requirements necessary for rapid, unmanned and high-resolution ocean mapping
+and discovery.
+
+When the judges visited Duke, they saw a team with all of its components in
+place. The team has built and flown a heavy-lift drone in Duke Forest. They
+have sensor pods that have been tested at the Duke University Marine
+Laboratory in Beaufort, North Carolina. They have software to analyze the
+resulting data. The combination was enough to move them into the final round
+of competition.
+
+As the school year draws to a close, more than 50 students are now working to
+finalize their design. More rotors are being added to the drone to make sure
+it can lift the heavy sensor pods. Control software is being smoothed so that
+the drone can pick up the pods while using as little energy as possible. And
+the sensor pods themselves are receiving upgrades to increase their range so
+that fewer drops are needed to cover the area required in the final stage of
+competition.
+
+"Our goal is to get this project to the point where all the next group of
+students need to do is build more of the drones and sensors that we've already
+completed," said William Willis, a junior studying mechanical engineering who
+plans to continue participating during his senior year.
+
+"We want to demonstrate a full cycle of dropping off a sensor, mapping an area
+and picking it up before graduation in May," added Nick Lockett, a senior
+studying electrical engineering.
+
+The team hopes to get some help assembling more units over the summer from
+high school students brought in by Tyler Bletsch, assistant professor of the
+practice of electrical and computer engineering at Duke, who has also been
+instrumental to the project. Whether or not they are successful in either
+their short-term goals or the final competition, the massive, long-term
+project has been valuable for everyone involved.
+
+"This project has given us a chance to work on electrical engineering problems
+in a real-world setting," said Krista Opsahl-Ong, also a senior studying
+electrical engineering. "And I don't mean just from a science perspective.
+We've had to work with a huge team with a lot of moving parts. It's forced us
+to segment our work and keep track of a lot of parallel projects. And of
+course it's been a ton of fun to actually get our hands dirty."
+
+The nine finalist teams will be formally recognized and awarded at Oceanology
+International's Catch the Next Wave conference in London on March 15.
+Attending the event for the Duke University team will be Brooke and graduating
+senior Sam Kelly—one of the few undergraduate students who has worked on the
+project since its inception. The final Round 2 testing will take place during
+October and November of 2018.
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

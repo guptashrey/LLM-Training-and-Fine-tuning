@@ -1,0 +1,182 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Advancing Deep Tissue Imaging through Photonic Highways
+
+December 4, 2020 | Michaela Kane
+
+A collaborative team of researchers from Duke BME and the Albert Einstein
+College of Medicine were among 13 teams to receive funding for novel imaging
+projects
+
+Junjie Yao, assistant professor of biomedical engineering at Duke University,
+and his collaborator Vladislav Verkhusha, professor of anatomy and structural
+biology at the Albert Einstein College of Medicine, have received a grant from
+the Chan Zuckerberg Initiative to develop a novel, deep tissue imaging method.
+The grant, which will provide $1 million for the first 2.5 years of their
+project, will support the researchers as they use a combination of light and
+sound to peer deeper into living tissues.
+
+If this initial phase is successful, the team will receive an additional $10
+million in funding to further advance and commercialize their work.
+
+Many of today’s optical imaging tools cannot see into deeper layers of tissue,
+as the light from these tools is quickly absorbed and scattered, preventing
+researchers from seeing more than half a millimeter of tissue. To address this
+issue, the team aims to develop a new imaging approach using photoacoustic
+tomography (PAT), that allows researchers to combine the properties of light
+and ultrasound to create high-resolution images.
+
+“Photoacoustic tomography allows us to convert light beamed through tissue
+into ultrasound waves,” says Yao. “The ultrasound waves allow us to see deeper
+into the tissue than light would on its own, but it’s not specific enough to
+let us see cellular level resolution at large depths. We’re now proposing a
+way to break this resolution limit of photoacoustic tomography so we can see
+individual cells at greater depths.”
+
+In their three-step approach, the team will first engineer a set of
+genetically encoded photoacoustic probes that can absorb near-infrared light,
+which can more easily penetrate tissue. These probes are also engineered to
+turn on or off, depending on the color of light they receive.
+
+Next, the team will use an acoustic-tunnel method to more effectively send the
+near-infrared light deeper into the tissue to hit specific probes. They’ll
+achieve this by first sending ultrasound waves into targeted areas tissue,
+which can compress or stretch out the tissue and affect how light travels
+inside the tissue.
+
+“Photons are like cars,” says Yao. “We are essentially building highways
+inside the tissue for the cars to move faster and more efficiently.”
+
+Finally, by engineering the probes to turn on or off in response to the near-
+infrared light, the team can more effectively target specific areas of the
+tissue and limit cross-talk. This, combined with the targeted light delivery,
+will allow the team to more effectively take a photoacoustic image of the
+activated probes. Once all the measurements are made, they can then layer
+their readings together to create high resolution images at depths as large as
+one centimeter.
+
+“We’re honored to be recognized by the Chan Zuckerberg Initiative for this
+collaborative research,” says Yao. “We were up against almost 250 teams from
+around the globe, and we’re thrilled to have been one of just 13 teams to have
+been awarded this funding.”
+
+Founded by Dr. Priscilla Chan and Mark Zuckerberg in 2015, the Chan Zuckerberg
+Initiative is a philanthropic organization that leverages technology to help
+solve some of the world’s greatest challenges. To learn more about their work
+to advance biomedical imaging, view their press release on the Chan Zuckerberg
+Initiative site.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,267 @@
+
+
+Jump to navigation
+
+  * Duke Engineering
+  * Pratt School of Engineering
+  * Institute for Enterprise Engineering
+
+  * News
+  * Events
+  * Steering Committee
+  * Contact
+
+__
+
+  * Why Duke?
+    * The Duke Difference
+    * Career Services
+    * Graduate Outcomes
+    * What Tech Leaders Are Saying
+  * Degree
+  * Courses
+  * Faculty
+  * Advisory Board
+  * Apply
+
+__
+
+# Cybersecurity Courses
+
+Browse Duke Cybersecurity Courses
+
+In order to offer courses in today's most in-demand skills and industry-
+relevant topics, course offerings and content are subject to change.
+
+**Please Note:** Not all courses are offered every semester. Scheduled courses
+may be subject to change during course registration periods, including the
+possibility of course cancellation.
+
+## Industry Preparation Core
+
+### MENG 540: Management of High-Tech Industries
+
+The purpose of this course is to empower students to become collaborative,
+ethical leaders in the globalized, 21st-century workplace. Students learn
+concepts and practice skills that will enable them to transition from being an
+engineering sole contributor to managing and leading others as a business
+professional. Students gain a sound understanding of management and
+leadership; increase awareness of their own management and leadership styles;
+build and practice competencies essential for team success (e.g., effective
+communication, collaboration, conflict resolution); and become ethical leaders
+above reproach. Emphasis is on leading teams in a volatile, complex and
+interdependent world.
+
+### MENG 570: Business Fundamentals for Engineers
+
+This comprehensive course examines core and evolving concepts in the business
+fundamentals of successful technology-based companies including Business Plan
+Development & Strategies, Marketing, Product & Process Development processes,
+Intellectual Property, Accounting, Finance, and Operations. Students will
+learn the fundamentals essential to understanding all aspects of a business
+and will be able to converse in some depth in each of the areas studied upon
+completion. Other topics will include Supply Chain Management, Stage-Gate
+Development Cycles, Balances Scorecards, Blue Ocean Strategy, and Disruptive
+Technologies.
+
+## Cybersecurity Technical Core _  
+_
+
+### CYBERSEC 500: Introduction to Cybersecurity Perspectives
+
+This course provides an overview of the domains, concepts, and elements and
+reviews current and emerging trends in Cybersecurity. Students will learn the
+National Institute of Standards and Technology (NIST) Cybersecurity Framework
+considering IT systems components, operating systems concepts, basic data
+analysis, and networking concepts including networking technologies and
+protocols. Real-world examples will be used to cover significant types of
+security incidents and their impact and remediation. Fundamental security
+design principles, information assurance fundamentals, and the significance of
+cryptography. Readings in different media will be used to demonstrate how
+quickly the threat and vulnerability landscape is changing across different
+industries.
+
+### CYBERSEC 502: Multidisciplinary Cybersecurity: Government, Public Policy,
+Law, and Select Industry Topics
+
+Rapid progress in global digital transformation and connectivity requires us
+to think and act differently in the cyber domain. National security, economic
+security, and business interests are impacted by vulnerable information
+systems. Domestic and international cyber-crime is on the rise. Hostile
+governments infiltrate public and private sector systems with relative
+impunity causing billions of dollars in financial damage and undermining
+public trust and confidence. Our notion of privacy is also changing. Students
+will explore cybersecurity through a non-technical lens by studying U.S.
+government responsibilities, law, and public policy as they relate to selected
+topics including finance, health care, and trade. Students will also gain an
+understanding of privacy, cybersecurity standards manifested in public policy,
+and how cybercrime is prosecuted.
+
+### CYBERSEC 503: Cybersecurity Risk Management
+
+Understanding and measuring the risk involved with real and potential
+cybersecurity threats and vulnerabilities are fundamental for an organization
+or enterprise to invest in and to protect its information and operational
+infrastructure, its constituents, its relationships, and its reputation.
+Students will learn and apply various modeling techniques to identify and
+quantify risk and how they are used to determine the value and criteria for
+managing that risk. Risk management concepts and standards will be explored
+including its essential elements, effective governance, understanding the
+appetite for risk, and the need for developing appropriate policies and
+procedures to mitigate risk. These concepts and standards will be addressed
+across different industries and environments.
+
+## Electives
+
+Technology Track
+
+### CYBERSEC 510: Security Incident Detection, Response and Resilience
+
+Current and emerging technologies and processes to monitor, detect and respond
+to security incidents in systems, networks, and clouds will be covered
+including automation and analytics. Best practices for developing effective
+incident response plans, including regulatory and legal considerations, will
+be studied. Also studied is how to build resilience into development,
+manufacturing, or other business processes in the case of an incident.
+
+### CYBERSEC 511: Cybersecurity in the Software Development Life Cycle
+
+Teaches students about all steps of the software development lifecycle and the
+role Cybersecurity design principles play in requirements definition, design,
+development, testing, and maintenance. Tools and techniques to provide
+software security analysis and software assurance will be explored including
+software reverse engineering.
+
+### CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity
+
+The use of machine learning and AI is becoming more prevalent for collecting
+and analyzing data as its consolidation increases in value. Cyberattacks seek
+to steal, deny access, misrepresent (such as _deepfakes_ ), or compromise the
+privacy of information. Students will explore the power of machine learning
+and AI’s use in enhancing Cybersecurity tools across the NIST Framework and
+also in detecting and exploiting vulnerabilities in timeframes and ways
+heretofore unthinkable.
+
+### CYBERSEC 590.XX: Web3 Engineering & Security
+
+Web 3 technologies are advancing at ever increasing rate, with security being
+a critical component of that evolution. This class will serve to analyze the
+current state of cybersecurity, the most critical needs moving forward - both
+from a technical as well policy and regulatory perspective. Students will
+require interdisciplinary skills - technical development, legal, and business.
+Additional topic areas will include digital identity, securing proofing
+systems, core internet protocols and development tools. The course will also
+include a team project designed to advance one or more topic areas covered.
+
+### FINTECH 510: Programming for FinTech
+
+This class is aimed at students who want to focus on financial technology
+(FinTech) but who may not have a programming or even technical background.
+This course will bring students up to speed on programming, data structures,
+and algorithms. C++ is the language of choice in this class because C and C++
+are very commonly used by computer engineers.
+
+In order for students to make such impressive learning gains in their first
+semester, students must come prepared by having good programming skills in C.
+Novices should achieve this by completing Duke's Coursera specialization
+_Introduction to Programming in C_ before the start of the term. Those with
+some programming experience may also wish to complete the specialization to
+learn professional tools and acquire deep understanding of concepts taught in
+the specialization.
+
+Students of all backgrounds will take a required self-assessment prior to the
+start of the term to assist them in choosing the right programming sequence. 3
+units.
+
+### FINTECH 564: Blockchain
+
+Blockchain technology is being embraced in finance and other industries as an
+encryption base for all types of applications. This course explores the
+history, current environment, and near-term outlook of financial innovation
+(FinTech), focusing on applications of Blockchain technology. Topics range
+from digital stores of value to documents and transactions. Students will
+learn to formulate an accurate image and deep practical understanding of the
+capabilities and limitations of various blockchain techniques. Students will
+gain hands-on experience creating a simple Blockchain contract and will be
+able to converse on a practical basis about what Blockchain can and cannot do.
+3 units.
+
+Technology Management Track
+
+### CYBERSEC 531: The Human Element in Cybersecurity
+
+Most cybersecurity attacks and breaches are due to social engineering
+techniques like _phishing_ to obtain user identities and access privileges to
+circumvent an enterprise’s defense mechanisms and to access sensitive data and
+control systems. The student will study these techniques and current and
+emerging practices to prevent or minimize unintentional user errors or
+deliberate illegal insider threats. How to create an effective security
+awareness program and integrate it all relevant business processes will be one
+of the key topics covered.
+
+### CYBERSEC 530: Identity and Access Management
+
+This course will explore the everyday tasks and procedures that the IT
+security team employs to manage user and admin identities for authentication
+and access management. Students will learn the latest technologies and
+practices for multi-factor authentication, single sign-on, and real-time
+privileges administration and what are the best practices for different use
+cases.
+
+### CYBERSEC 521: Cybersecurity Program Development, Operations & Analysis
+
+Students will examine the life cycle of a cybersecurity program from
+development, administration, evaluation, and improvement processes.
+Operational and strategic roles including the chief information security
+officer (CISO) in a representative security team will be studied and current
+and evolving areas where the team is placed in the enterprise. Best practices
+and models for how a security team’s performance can be measured will be
+learned with some real-world examples.
+
+### PUBPOL 551S: Cybersecurity and National Security Law and Policy
+
+Course examines issues of cybersecurity and privacy. Focuses on roles that
+different government organizations play in protecting cybersecurity. Course
+also examines the issues raised by the government's acquisition and storage of
+information in the interests of national security. Examines the intersection
+between commercial privacy and cybersecurity, business planning and government
+surveillance in the global economy, focusing on the US and the EU, with
+particular attention to the tensions that have arisen in the aftermath of the
+Snowden revelations of NSA surveillance activity, various large scale
+cybersecurity breaches and questions as to the trustworthiness of technology.
+
+## Admissions
+
+Have a question about the program or admissions? Contact the **Admissions &
+Recruiting team** at pratt_masters@duke.edu.
+
+​
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+  * __Main Menu
+    * __Why Duke?
+      *  __The Duke Difference
+      *  __Career Services
+      *  __Graduate Outcomes
+      *  __What Tech Leaders Are Saying
+    *  __Degree
+    *  __Courses
+    *  __Faculty
+    *  __Advisory Board
+    *  __Apply
+  * __Quick Links
+    * __News
+    *  __Events
+    *  __Steering Committee
+    *  __Contact
+
+    * 
+

@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# AI Spots Individual Neurons in the Eye Better than Human Experts
+
+May 4, 2021 | Michaela Kane
+
+Deep learning-based algorithm can potentially improve diagnosis of eye and
+brain diseases
+
+A new combination of optical coherence tomography (OCT), adaptive optics and
+deep neural networks should enable better diagnosis and monitoring for neuron-
+damaging eye and brain diseases like glaucoma.
+
+Biomedical engineers at Duke University led a multi-institution consortium to
+develop the process, which easily and precisely tracks changes in the number
+and shape of retinal ganglion cells in the eye.
+
+This work appears in a paper published on May 3 in the journal Optica.
+
+The retina of the eye is an extension of the central nervous system. Ganglion
+cells are one of the primary neurons in the eye that process and send visual
+information to the brain. In many neurodegenerative diseases like glaucoma,
+ganglion cells degenerate and disappear, leading to irreversible blindness.
+Traditionally, researchers use OCT, an imaging technology similar to
+ultrasound that uses light instead of sound, to peer beneath layers of eye
+tissue to diagnose and track the progression of glaucoma and other eye
+diseases.
+
+Although OCT allows researchers to efficiently view the ganglion cell layer in
+the retina, the technique is only sensitive enough to show the thickness of
+the cell layer — it can’t reveal individual ganglion cells. This hinders early
+diagnosis or rapid tracking of the disease progression, as large quantities of
+ganglion cells need to disappear before physicians can see the changes in
+thickness.
+
+To remedy this, a recent technology called adaptive optics OCT (AO-OCT)
+enables imaging sensitive enough to view individual ganglion cells. Adaptive
+optics is a technology that minimizes the effect of optical aberrations that
+occur when examining the eye, which are a major limiting factor in achieving
+high-resolution in OCT imaging.
+
+“This higher resolution makes it easier to diagnose neurodegenerative
+diseases,” said Sina Farsiu, Professor of Biomedical Engineering at Duke. “But
+it also generates such a large amount of data that image analysis has become a
+major bottleneck in wide utilization of this potentially game-changing
+technology in eye and brain research.”
+
+In their new paper, Farsiu and Somayyeh Soltanian-Zadeh, a postdoctoral
+researcher in Farsiu’s lab, devise a solution to this problem by developing a
+highly adaptive and easy-to-train deep learning-based algorithm that is the
+first to identify and trace the shapes of ganglion cells from AO-OCT scans.
+
+To test the accuracy of their approach, which they’ve dubbed WeakGCSeg, the
+team analyzed AO-OCT data from retinas of both healthy and glaucoma subjects.
+Their framework efficiently and accurately segmented ganglion cells from both
+samples, and identified which samples came from the glaucomatous eyes based on
+the number and size of ganglion cells present.
+
+“Our experimental results showed that WeakGCSeg is actually superior to human
+experts, and it’s superior to other state-of-the-art networks that can process
+volumetric biomedical images,” said Soltanian-Zadeh.
+
+In addition to diagnostic work, the team is optimistic that WeakGCSeg will
+make it easier to conduct clinical trials of therapies for neurodegenerative
+diseases. For example, if a study is testing a therapy for glaucoma, WeakGCSeg
+can see if the therapy has slowed down cell degeneration compared to the
+control group. With OCT alone, the first sign of change would require hundreds
+if not thousands of cells dying, which can take months or years.
+
+“With our technique, you’d be able to quantify the earliest change,” said
+Farsiu. “Your clinical trial may also be shorter because you can see and
+measure such an early effect, so there’s a lot of potential here.”
+
+The team plans to continue their collaboration with colleagues at the Food and
+Drug Administration (FDA), Indiana University, and the University of Maryland
+to apply their technique to a larger cohort of patients. They are also hoping
+to extend WeakGCSeg to different cell types, like photoreceptors, and diseases
+of the eye, like retinitis pigmentosa and inherent retinal diseases.
+
+WeakGCSeg also has the potential to improve diagnosis and tracking the
+progression of neurological diseases. According to Farsiu, previous studies
+have shown that changes in the ganglion cell layer are associated with various
+diseases of the central nervous system, like Alzheimer’s disease, Parkinson’s
+disease, and ALS. With their new technique, they can further study this
+connection and potentially discover helpful biomarkers for improved diagnosis
+and treatment for these and other neurodegenerative diseases.
+
+“We’re incredibly grateful to our collaborators at the FDA and Indiana
+University for providing us with samples to test WeakCGSeg,” said Farsiu. “And
+this work could not have been possible without the pioneering works of Donald
+Miller at Indiana University and Zhuolin Liu and Daniel Hammer at FDA in
+advancing the AO-OCT imaging technology. It is exciting to see the impact of
+such in vivo single-neuron imaging technologies on healthcare in the next
+decade.”
+
+This work was supported by the U.S. National Institutes of Health
+(K23-EY025014, P30-EY005722, R01-EY018339, R01-EY029808, R01-EY030124,
+R21-EY029804), the U.S. Food and Drug Administration Critical Path Initiative
+(CPi) Grant, Research to Prevent Blindness (Unrestricted to Duke Eye Center)
+and the Hartwell Foundation Postdoctoral Fellowship.
+
+Donald Miller, Kazuhiro Kurokawa, Furu Zhang and Zhuolin Liu have a patent on
+AO-OCT technology. Osamah Saeedi received personal fees and nonfinancial
+support from Heidelberg Engineering, and a grant from Vasoptic Medical Inc.
+outside the scope of this work.
+
+CITATION: “Weakly-Supervised Individual Ganglion Cell Segmentation from
+Adaptive Optics OCT Images for Glaucomatous Damage Assessment,” Somayyeh
+Soltanian-Zadeh, Kazuhiro Kurokawa, Zhuolin Liu, Furu Zhang, Osamah Saeedi,
+Daniel Hammer, Donald Miller, Sina Farsiu. Optica, May 3, 2021.
+DOI:10.1364/OPTICA.418274
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,239 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# HARVEY Helps Move Bioprinted Organs Closer to Reality
+
+May 2, 2019
+
+Supercomputer code successfully models behavior of interwoven vasculature
+created with new 3D printing technique
+
+_Modified from a press release from Rice University_
+
+With the help of a dash of turmeric and blueberry, bioengineers have developed
+a technique for 3D printing complex, interwoven vascular networks that mimic
+many of the movements and forces of those found in real organs.
+
+The technique could help researchers understand how the flexing of entangled
+pathways for blood, air, lymph and other vital fluids affect each systems’
+function and move the field closer toward bioprinting entire organs.
+
+To better understand the forces and stresses at work in the new networks, the
+researchers turned to one of the world’s most sophisticated systems for
+computationally modelling blood flow. Developed by Amanda Randles, the Alfred
+Winborne and Victoria Stover Mordecai Assistant Professor of Biomedical
+Sciences at Duke University, HARVEY is a supercomputer code capable of
+simulating blood flow through the human vasculature down to the cellular
+level.
+
+Led by bioengineers Jordan Miller of Rice University and Kelly Stevens of the
+University of Washington (UW), the research appears online on the cover of
+Science on May 3. It includes a visually stunning proof-of-principle—a
+hydrogel model of a lung-mimicking air sac in which airways deliver oxygen to
+surrounding blood vessels.
+
+"One of the biggest road blocks to generating functional tissue has been our
+inability to print the complex vasculature that can supply nutrients to
+densely populated tissues," said Miller, assistant professor of bioengineering
+at Rice's Brown School of Engineering. "Our organs contain independent
+vascular networks—like the airways and blood vessels of the lung or the bile
+ducts and blood vessels in the liver. These interpenetrating networks are
+physically and biochemically entangled, and the architecture itself is
+intimately related to tissue function. Ours is the first bioprinting
+technology that addresses the challenge of multivascularization in a direct
+and comprehensive way."
+
+The new open-source bioprinting technology is dubbed the "stereolithography
+apparatus for tissue engineering," or SLATE. The system works by printing a
+sequence of layers from a liquid pre-hydrogel solution that becomes a solid
+when exposed to blue light.
+
+A digital light processing projector shines light from below, displaying
+sequential 2D slices of the structure at high resolution, with pixel sizes
+ranging from 10-50 microns. With each layer solidified in turn, an overhead
+arm raises the growing 3D gel just enough to expose liquid to the next image
+from the projector.
+
+One of the system’s challenges is making sure the blue light does not
+penetrate past the current layer being hardened and interfere with previous
+layers. The key insight by Miller and Bagrat Grigoryan, a Rice graduate
+student and lead co-author of the study, was the addition of common food dyes
+capable of absorbing blue light made from curcumin (from turmeric) and
+anthocyanin (from blueberries). These photoabsorbers confine the
+solidification to a very fine layer, allowing the system to produce soft,
+water-based, biocompatible gels with intricate internal architectures in a
+matter of minutes.
+
+In one of the proof-of-principle demonstrations, the team built a lung-
+mimicking structure where a central hub of airways expands as air is drawn
+into it, which in turn pushes, stretches and stresses a network of surrounding
+blood vessels. Tests found that red blood cells could take up oxygen as they
+flowed through the blood vessels surrounding the "breathing" air sac in a
+manner similar to the gas exchange that occurs in the lung's alveolar air
+sacs.
+
+The researchers were pleased to find that the 3D printed vessels could
+withstand the stresses and strains placed on them by the test. But to make
+sure they knew exactly what forces were at work, they turned to Randles to
+computationally model the entire system.
+
+Previous simulations using HARVEY had mapped 500 billion fluid points using a
+supercomputer with 1.6 million cores (individual processors), marking the
+first time blood flow had been effectively modeled at the cellular level. But
+to model the 3D-printed structure in this study, HARVEY had to be updated to
+include a challenging variable—soft, pliable walls.
+
+“The geometries being created by the Miller lab are incredibly complex and
+parallel computing was required to capture the associated airway shape changes
+that were observed in the laboratory,” said Randles. “To model these
+accurately, we had to introduce a fluid-structure-interaction model. Moving
+from rigid, unmoving boundaries to dynamic walls that stretch with the
+changing flows was a difficult challenge tackled by John Gounley, who was a
+postdoctoral fellow in my lab at the time.“
+
+When the updates were complete and the code was run, everyone involved was
+excited to find that the HARVEY code was consistent with the measurements
+taken from the experiment. This gives researchers hope that the simulations
+could eventually be used to help design more complex systems in the future.
+
+"Tissue engineering has struggled with this for a generation," Stevens said.
+"With this work we can now better ask, 'If we can print tissues that look and
+now even breathe more like the healthy tissues in our bodies, will they also
+then functionally behave more like those tissues?' This is an important
+question, because how well a bioprinted tissue functions will affect how
+successful it will be as a therapy."
+
+"With the addition of multivascular and intravascular structure, we're
+introducing an extensive set of design freedoms for engineering living
+tissue," Miller said. "We now have the freedom to build many of the intricate
+structures found in the body. We are only at the beginning of our exploration
+of the architectures found in the human body. We still have so much more to
+learn.”
+
+The work was supported by the Robert J. Kleberg Jr. and Helen C. Kleberg
+Foundation, the John H. Tietze Foundation, the National Science Foundation
+(1728239, 1450681 and 1250104), the National Institutes of Health
+(F31HL134295, DP2HL137188, T32EB001650, T32GM095421 and DP5OD019876) and the
+Gulf Coast Consortia.
+
+“Multivascular networks and functional intravascular topologies within
+biocompatible hydrogels.” Bagrat Grigoryan, Samantha J. Paulsen, Daniel C.
+Corbett, Daniel W. Sazer, Chelsea L. Fortin, Alexander J. Zaita, Paul T.
+Greenfield, Nicholas J. Calafat, John P. Gounley, Anderson H. Ta, Fredrik
+Johansson, Amanda Randles, Jessica E. Rosenkrantz, Jesse D. Louis-Rosenberg,
+Peter A. Galie, Kelly R. Stevens, Jordan S. Miller. Science, 2019. DOI:
+10.1126/science.aav9750
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

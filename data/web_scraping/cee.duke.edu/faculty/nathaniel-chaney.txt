@@ -1,0 +1,247 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. The Duke Difference
+        1. Why Duke for CEE?
+        2. Enrollment and Graduation Rates
+        3. Where Our Students Go
+
+      2. Degree Options
+        1. Civil Eng Degree Planning
+        2. Civil Eng Study Tracks
+        3. Env. Eng Degree Planning
+        4. Dual Majors
+        5. Certificates
+        6. 4+1: BSE+Master's
+
+      3. For Current Students
+        1. Courses
+        2. Research & Independent Study
+        3. Outreach & Service Learning
+        4. Senior Design Capstone
+        5. Internships & Career Planning
+        6. Graduation with Distinction
+
+  * Graduate
+    *       1. The Duke Difference
+        1. Degree Options
+        2. Scholarships & Financial Support
+        3. Graduate Study Tracks
+        4. Graduate Certificates
+        5. Course Descriptions
+
+      2. Master's Study
+        1. Master of Science in CEE
+        2. Civil Engineering
+        3. Computational Mechanics and Scientfic Computing
+        4. Environmental Engineering
+        5. Risk Engineering
+        6. Career Services
+        7. Career Outcomes
+
+      3. PhD
+        1. Meet Our Students
+        2. PhD Career Outcomes
+
+      4. For Current Students
+  * Research
+    *       1. Overview
+      2. Research News
+      3. Computational Mechanics & Scientific Computing
+      4. Environmental Health Engineering
+      5. Geomechanics & Geophysics for Energy and the Environment
+      6. Hydrology & Fluid Dynamics
+      7. Risk & Resilient Systems
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * About
+    *       1. Facts & Stats
+      2. Meet the Chair
+      3. Serving a Global Society
+      4. Advisory Board
+      5. Alumni
+      6. Awards & Honors
+      7. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke CEE Magazine
+
+      8. Events
+        1. Seminars
+
+# Nathaniel Chaney
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Assistant Professor of Civil and Environmental Engineering
+
+Prior to arriving at Duke, I was a postdoctoral research associate in the
+program in Atmospheric and Oceanic Sciences at Princeton University and had a
+dual appointment as a visiting research scientist at the NOAA Geophysical
+Fluid Dynamics Laboratory. I obtained my undergraduate degree at U.C. Berkeley
+where I received a Bachelor of Arts in Atmospheric Sciences and Applied
+Mathematics. For my graduate studies, I attended Princeton University where I
+completed a Ph.D. in Hydrology in the department of Civil and Environmental
+Engineering.
+
+My research harnesses the existing petabytes of global environmental data to
+improve understanding of the terrestrial water cycle. More specifically, I
+focus on quantifying and uncovering the role of multi-scale spatial
+organization over land (i.e., heterogeneity) in the Earth system. To this end,
+my group's research has three overarching themes: 1) improve the
+representation of land heterogeneity in Earth system models, 2) harness
+environmental data to characterize the observed spatial patterns and features
+over land, and 3) quantify the sensitivity of the hydrologic cycle to spatial
+heterogeneity. The tools that my group uses include numerical modeling,
+satellite remote sensing, machine learning, and high performance computing.  
+  
+I am currently looking for highly motivated Ph.D. and postdocs. If the
+research themes of my group are of interest to you, please don't hesitate to
+email me.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Civil and Environmental Engineering
+
+## Contact Information
+
+  * **Office Location:** CIEMAS 2463, Durham, NC 27708
+  * **Office Phone:** (919) 660-5195
+  * **Email Address:** nathaniel.chaney@duke.edu
+  * **Websites:**
+    * www.chaneylab.earth
+
+## Education
+
+  * Ph.D. Princeton University, 2015
+
+## Courses Taught
+
+  * CEE 506: Environmental Spatial Data Analysis
+  * CEE 690: Advanced Topics in Civil and Environmental Engineering
+  * CEE 691: Independent Study: Advanced Topics in Civil and Environmental
+    Engineering
+  * CEE 692: Independent Study: Advanced Topics in Civil and Environmental
+    Engineering
+  * CEE 701: Graduate Colloquium
+
+## In the News
+
+  * Climate Scientists Listen to the Clouds (Jan 10, 2023 | Duke Magazine)
+  * Duke Experts on Hurricane Recovery: Need a Long-Term Focus (Sep 30, 2022 |
+    Duke…
+  * A Step Toward Better Weather Forecasts (Nov 2, 2021 | Pratt School of
+    Engineeri…
+  * Hurricanes: How to Prepare and Why They’re Getting More Dangerous (Sep 4,
+    2019)
+  * What Researchers Are Watching Out For This Hurricane Season (May 28, 2019
+    | Pra…
+  * Nathaniel Chaney: Harnessing Petabytes to Better Understand the Global
+    Water Cy…
+
+## Representative Publications
+
+  * Chaney, N. W., M. H. J. Van Huijgevoort, E. Shevliakova, S. Malyshev, P.
+    C. D. Milly, P. P. G. Gauthier, and B. N. Sulman. “Harnessing big data to
+    rethink land heterogeneity in Earth system models.” Hydrology and Earth
+    System Sciences 22, no. 6 (June 14, 2018): 3311–30.
+    https://doi.org/10.5194/hess-22-3311-2018.
+  * Chaney, N. W., P. Metcalfe, and E. F. Wood. “HydroBlocks: a field-scale
+    resolving land surface model for application over continental extents.”
+    Hydrological Processes 30, no. 20 (September 30, 2016): 3543–59.
+    https://doi.org/10.1002/hyp.10891.
+  * Chaney, N. W., E. F. Wood, A. B. McBratney, J. W. Hempel, T. W. Nauman, C.
+    W. Brungard, and N. P. Odgers. “POLARIS: A 30-meter probabilistic soil
+    series map of the contiguous United States.” Geoderma 274 (July 15, 2016):
+    54–67. https://doi.org/10.1016/j.geoderma.2016.03.025.
+  * Chaney, N. W., J. D. Herman, P. M. Reed, and E. F. Wood. “Flood and
+    drought hydrologic monitoring: The role of model parameter uncertainty.”
+    Hydrology and Earth System Sciences 19, no. 7 (July 24, 2015): 3239–51.
+    https://doi.org/10.5194/hess-19-3239-2015.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * The Duke Difference
+      * Why Duke for CEE?
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+    * Degree Options
+      * Civil Eng Degree Planning
+      * Civil Eng Study Tracks
+      * Env. Eng Degree Planning
+      * Dual Majors
+      * Certificates
+        * Architectural Engineering
+        * Global Development
+        * Energy & The Environment
+      * 4+1: BSE+Master's
+    * For Current Students
+      * Courses
+      * Research & Independent Study
+      * Outreach & Service Learning
+      * Senior Design Capstone
+      * Internships & Career Planning
+      * Graduation with Distinction
+  * Graduate
+    * The Duke Difference
+      * Degree Options
+      * Scholarships & Financial Support
+      * Graduate Study Tracks
+      * Graduate Certificates
+      * Course Descriptions
+    * Master's Study
+      * Master of Science in CEE
+      * Civil Engineering
+      * Computational Mechanics and Scientfic Computing
+      * Environmental Engineering
+      * Risk Engineering
+      * Career Services
+      * Career Outcomes
+    * PhD
+      * Meet Our Students
+      * PhD Career Outcomes
+    * For Current Students
+  * Research
+    * Overview
+    * Research News
+    * Computational Mechanics & Scientific Computing
+    * Environmental Health Engineering
+    * Geomechanics & Geophysics for Energy and the Environment
+    * Hydrology & Fluid Dynamics
+    * Risk & Resilient Systems
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * About
+    * Facts & Stats
+    * Meet the Chair
+    * Serving a Global Society
+    * Advisory Board
+    * Alumni
+    * Awards & Honors
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke CEE Magazine
+    * Events
+      * Seminars
+        * Past Seminars
+

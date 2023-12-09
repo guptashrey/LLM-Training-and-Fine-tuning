@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Retinal Texture Could Provide Early Biomarker Of Alzheimer’s Disease
+
+May 14, 2020 | By Ken Kingery
+
+New imaging technique combines two technologies to spot early warning signs of
+Alzehimer’s disease in mice
+
+Biomedical engineers at Duke University have devised a new imaging device
+capable of measuring both the thickness and texture of the various layers of
+the retina at the back of the eye. The advance could be used to detect a
+biomarker of Alzheimer’s disease, potentially offering a widespread early
+warning system for the disease.
+
+The results appear online on May 13 in the journal Scientific Reports.
+
+“Previous research has seen a thinning of the retina in Alzheimer’s patients,
+but by adding a light-scattering technique to the measurement, we’ve found
+that the retinal nerve fiber layer is also rougher and more disordered,” said
+Adam Wax, professor of biomedical engineering at Duke. “Our hope is that we
+can use this insight to create an easy and cheap screening device that
+wouldn’t only be available at your doctor’s office, but at places like your
+local pharmacy as well.”
+
+Diagnoses of Alzheimer’s disease are currently only made after a patient
+begins to show symptoms of cognitive decline. Even then, the only way to
+definitively determine that Alzheimer’s was the cause is with expensive MRI
+and PET scans or through an autopsy. But if disease progress can be halted
+through early interventions such as drugs and mental exercise, patients can
+have a greatly improved quality of life. This is why researchers are looking
+for biomarkers that could be used as early warning signs of the disease.
+
+One such potential biomarker comes from the retina, which is literally an
+extension of the brain and part of the central nervous system. Previous
+research has shown that Alzheimer’s can cause structural changes to the
+retina, most notably a thinning of the inner retinal layers.
+
+“The retina can provide easy access to the brain, and its thinning can be
+indicative of a decrease in the amount of neural tissue, which can mean that
+Alzheimer’s is present,” said Wax.
+
+Other diseases such as glaucoma and Parkinson’s disease, however, can also
+cause a thinning of the retina. Inconsistent test results might also come from
+differences between the machines most often used for these types of
+measurements, optical coherence tomography (OCT) devices, and how researchers
+use them.
+
+In the new paper, Wax and his graduate student Ge Song show that the topmost
+layer of neurons in the retina of a mouse model of Alzheimer’s disease exhibit
+a change in their structural texture. Combined with data on the changes in
+thickness of this layer, the new measurement could prove to be a more easily
+accessible biomarker of Alzheimer’s.
+
+“Our new approach can measure the roughness or texture of the nerve fiber
+layer of the inner retina,” said Song. “It can provide a quick and direct way
+to measure structural changes caused by Alzheimer’s, which has great potential
+as a biomarker of the disease.”
+
+OCT is the optical analogue of ultrasound. It works by sending waves of light
+into tissues and measuring how long they take to come back. While it is an
+extremely useful imaging technique commonly used to make a wide array of
+diagnoses, it has limitations.
+
+To gather more data, Wax and Song added a measurement called angle-resolved
+low-coherence interferometry (a/LCI), which uses the angles of the scattered
+light to gather more information about the tissue’s structure. By combining
+the two measurements, the researchers can extract both thickness and
+structural information about each layer of the retina.
+
+“The a/LCI measurements complement the thickness measurements to improve the
+potential utility of more quantitative biomarkers for Alzheimer's,” said Song.
+“You can’t get textural and structural information about the retina with OCT
+alone. You need both imaging modalities. That’s the key innovation.”
+
+The researchers are now working to incorporate this added ability into a low-
+cost OCT system that Wax is developing through a spinoff company called
+Lumedica. While traditional OCT machines weigh more than 60 pounds, take up an
+entire desk and cost anywhere between $50,000 and $120,000, Wax’s design
+weighs four pounds, is about the size of a lunch box and, Wax expects, will be
+sold for less than $15,000.
+
+The key to Wax’s design is a 3D-printed part that uses symmetry to compensate
+for mechanical inconsistencies that can arise in traditional OCT devices
+because of things as small as a subtle shift in temperature. Song also has
+been working on a 3D-printed rotational prism, allowing the a/LCI to scan the
+entire retina.
+
+“We’re excited because this research shows a new way of using low-cost OCT
+technologies outside of simply screening for traditional retinal diseases,”
+said Wax. “If we can use these devices as a window into early signs of
+neurodegenerative diseases, maybe we can help people get into an early
+intervention treatment program before it’s too late.”
+
+This research was supported by the National Institutes of Health (R21AG056245,
+P30EY005722).
+
+CITATION: “Multimodal Coherent Imaging of Retinal Biomarkers of Alzheimer’s
+Disease in a Mouse Model,” Ge Song, Zachary A. Steelman, Stella Finkelstein,
+Ziyun Yang, Ludovic Martin, Kengyeh K. Chu, Sina Farsiu, Vadim Y. Arshavsky,
+Adam Wax. Scientific Reports, May 13, 2020. DOI: 10.1038/s41598-020-64827-2
+
+## Related News
+
+November 12, 2019
+
+### Low-Cost, Portable System Takes OCT Beyond Ophthalmology
+
+June 28, 2019
+
+### Low-Cost Retinal Scanner Could Help Prevent Blindness Worldwide
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

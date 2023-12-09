@@ -1,0 +1,166 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# Chemistry Seminar presented by Prof. Matthias Scheffler: "Electron-
+Vibrational Coupling in and beyond The Phonon Picture: Concepts and
+Applications to Thermal and Electrical Conductivity"
+
+Apr 20
+
+##
+
+Thursday, April 20, 2023 - 11:40am to 12:40pm
+
+French Family Science Center 2237
+
+Add to calendar »
+
+## Presenter
+
+Prof. Matthias Scheffler, The NOMAD Laboratory at the FHI of the Max-Planck-
+Gesellschaft
+
+"Electron-Vibrational Coupling in and beyond The Phonon Picture: Concepts and
+Applications to Thermal and Electrical Conductivity" Strong anharmonicity and
+its critical effect on materials properties are more frequent than typically
+presumed. Thus, for many materials and realistic temperatures the phonon
+picture and with that all phonon-based theories break down, so that an
+explicit treatment of the nuclear motion in terms of ab initio molecular
+dynamics becomes decisive for the description and understanding of many
+fundamental material properties, including thermal and electrical
+conductivities. In this talk we present a high-throughput search for thermal
+insulators employing a hierarchical workflow. It starts with a new
+anharmonicity measure that allows to rapidly cover thousands of materials so
+to single out potentially good candidates. The thermal conductivity of the 40
+most promising compounds is then calculated with the ab initio Green-Kubo
+formalism, which accounts for anharmonicity to all orders. Moreover, we use
+the SISSO method to build an accurate, interpretable artificial-intelligence
+model for the lattice thermal conductivity, so to further accelerate material
+space exploration. By this means, we are able to identify several materials
+with ultra-low conductivity at room temperature. We analyze the actuating
+mechanisms that hinder heat transport in these materials, which in turn sheds
+light on the microscopic origin of strongly anharmonic effects. In particular,
+this demonstrates that energetically barely accessible defect configurations
+can induce a breakdown of the phonon picture. Eventually, we discuss how these
+anharmonic effects also influence the vibronic coupling to electronic degrees
+of freedom and discuss how this affects the electrical conductivity of
+strongly anharmonic systems.
+
+## Contact
+
+Chemistry Department  
+chem-office@duke.edu
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

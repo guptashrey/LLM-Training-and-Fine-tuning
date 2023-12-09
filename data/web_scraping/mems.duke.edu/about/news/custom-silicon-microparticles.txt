@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Custom Silicon Microparticles Dynamically Reconfigure On Demand
+
+May 3, 2018 | By Ken Kingery
+
+First demonstration of self-assembling and self-disassembling silicon
+microparticles could form the basis for designing artificial muscles and
+reconfigurable computer systems
+
+Researchers at Duke University and North Carolina State University have
+demonstrated the first custom semiconductor microparticles that can be steered
+into various configurations repeatedly while suspended in water.
+
+With an initial six custom particles that predictably interact with one
+another in the presence of alternating current (AC) electric fields of varying
+frequencies, the study presents the first steps toward realizing advanced
+applications such as artificial muscles and reconfigurable computer systems.
+
+The study appears online on May 3 in the journal Nature Communications.
+
+“We’ve engineered and encoded multiple dynamic responses in different
+microparticles to create a reconfigurable silicon toolbox,” said Ugonna Ohiri,
+a recently graduated electrical engineering doctoral student from Duke and
+first author of the paper. “By providing a means of controllably assembling
+and disassembling these particles, we’re bringing a new tool to the field of
+active matter.”
+
+While previous researchers have worked to define self-assembling systems, few
+have worked with semiconductor particles, and none have explored the wide
+range of custom shapes, sizes and coatings that are available to the micro-
+and nanofabrication industry. Engineering particles from silicon presents the
+opportunity to physically realize electronic devices that can self-assemble
+and disassemble on demand. Customizing their shapes and sizes presents
+opportunities to explore a wide-ranging design space of new motile behaviors.
+
+“Most previous work performed using self-assembling particles has been done
+with shapes such as spheres and other off-the-shelf materials,” said Nan
+Jokerst, the J. A. Jones Professor of Electrical and Computer Engineering at
+Duke. “Now that we can customize whatever arbitrary shapes, electrical
+characteristics and patterned coatings we want with silicon, a whole new world
+is opening up.”
+
+In the study, Jokerst and Ohiri fabricated silicon particles of various
+shapes, sizes and electrical properties. In collaboration with Orlin Velev,
+the INVISTA Professor of Chemical and Biomolecular Engineering at NC State,
+they characterized how these particles responded to different magnitudes and
+frequencies of electric fields while submerged in water.
+
+Based on these observations, the researchers then fabricated new batches of
+customized particles that were likely to exhibit the behaviors they were
+looking for, resulting in six different engineered silicon microparticle
+compositions that could move through water, synchronize their motions, and
+reversibly assemble and disassemble on demand.
+
+The thin film particles are 10-micron by 20-micron rectangles that are 3.5
+microns thick. They’re fabricated using Silicon-on-Insulator (SOI) technology.
+Since they can be made using the same fabrication technology that produces
+integrated circuits, millions of identical particles could be produced at a
+time.
+
+“The idea is that eventually we’re going to be able to make silicon
+computational systems that assemble, disassemble and then reassemble in a
+different format,” said Jokerst. “That’s a long way off in the future, but
+this work provides a sense of the capabilities that are out there and is the
+first demonstration of how we might achieve those sorts of devices.”
+
+That is, however, only the tip of the proverbial iceberg. Some of the
+particles were fabricated with both p-type and n-type regions to create p-n
+junctions—common electrical components that allow electricity to pass in only
+one direction. Tiny metal patterns were also placed on the particles’ surfaces
+to create p-n junction diodes with contacts. In the future, researchers could
+even engineer particles with patterns using other electrically conductive or
+insulating materials, complex integrated circuits, or microprocessors on or
+within the silicon.
+
+“This work is just a small snapshot of the tools we have to control particle
+dynamics,” said Ohiri. “We haven’t even scratched the surface of all of the
+behaviors that we can engineer, but we hope that this multidisciplinary study
+can pioneer future studies to design artificial active materials.”
+
+The research was conducted through a seed grant from the Research Triangle
+Materials Research Science and Engineering Center (MRSEC). Launched in 2011,
+the center is a national resource for materials science and engineering
+research and education located in the Raleigh/Durham/Chapel Hill area of North
+Carolina. The center encompasses faculty and students at Duke University,
+North Carolina State University, North Carolina Central University and the
+University of North Carolina-Chapel Hill. The National Science Foundation
+supports 21 MRSECs across the country to support cutting-edge, collaborative
+research in materials science.
+
+This research was supported by the National Science Foundation (DMR-1121107,
+ECCS-1542015).
+
+CITATION: “Reconfigurable Engineered Motile Semiconductor Microparticles,”
+Ugonna Ohiri, C. Wyatt Shields IV, Koohee Han, Talmage Tyler, Orlin D. Velev
+and Nan Jokerst. Nature Communications, May 3, 2018. DOI:
+10.1038/s41467-018-04183-y
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Craig S. Henriquez
+
+Professor of Biomedical Engineering
+
+A breakdown of the normal electrical activation sequence of the heart can
+sometimes lead to a state of ventricular fibrillation in which the heart
+ceases to function as an effective pump. Abnormal rhythms or arrhythmias often
+result after an episode of ischemia (a localized reduction of blood flow to
+the heart itself) which affects both the ionic processes necessary to elicit
+an impulse and the passive electrical properties of the tissue. Identifying
+the complex mechanisms of arrhythmogenesis will require experimentation as
+well as mathematical and computer models.
+
+Current projects include the application of the bidomain model to diseased
+tissue to investigate how changes in tissue structure (both natural and
+diseased induced) and changes in ionic current flow influences the nature of
+conduction and the onset of arrhythmia.
+
+Dr. Henriquez's group is also interested in developing realistic models that
+will enable investigators to better interpret electrophysiological
+measurements made in the clinic. For example, activation maps at the surface
+of the heart are typically constructed based on the detection of specific
+features of the surface extracellular recordings. However, for complex
+activation, such as might arise during an arrhythmia, the features are
+difficult to distinguish.
+
+The use of models that simulate both activation and the resulting
+extracellular potential and the application of signal processing techniques
+can lead to a tool for constructing more meaningful maps from experimental
+recordings during abnormal conduction. This works involves direct interaction
+with experimental research performed in the Experimental Electrophysiology
+Laboratory under the direction of Dr. Patrick Wolf and the Cardiac
+Electrophysiology & Tissue Engineering lab under the direction of Dr. Nenad
+Bursac.
+
+## Appointments and Affiliations
+
+  * Professor of Biomedical Engineering
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 274 Hudson Hall Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5168
+  * **Email Address:** ch@duke.edu
+
+## Education
+
+  * Ph.D. Duke University, 1988
+  * B.S. Duke University, 1981
+
+## Research Interests
+
+Large-scale computing, heart modeling, and brain modeling.
+
+## Awards, Honors, and Distinctions
+
+  * Fellow. American Institute for Medical and Biological Engineering. 2008
+
+## Courses Taught
+
+  * BME 244L9: Quantitative Physiology with Biostatistical Applications
+  * BME 244L: Quantitative Physiology with Biostatistical Applications
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 503: Computational Neuroengineering (GE, EL)
+  * BME 790: Advanced Topics for Graduate Students in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+  * EGR 393: Research Projects in Engineering
+  * NEUROSCI 503: Computational Neuroengineering (GE, EL)
+
+## Representative Publications
+
+  * Nguyen, HX; Wu, T; Needs, D; Zhang, H; Perelli, RM; DeLuca, S; Yang, R;
+    Tian, M; Landstrom, AP; Henriquez, C; Bursac, N, _Engineered bacterial
+    voltage-gated sodium channel platform for cardiac gene therapy._ , Nature
+    Communications, vol 13 no. 1 (2022) [10.1038/s41467-022-28251-6] [abs].
+  * Rossi, S; Abdala, L; Woodward, A; Vavalle, JP; Henriquez, CS; Griffith,
+    BE, _Rule-based definition of muscle bundles in patient-specific models of
+    the left atrium._ , Frontiers in Physiology, vol 13 (2022)
+    [10.3389/fphys.2022.912947] [abs].
+  * Henriquez, CS; Ying, W, _The bidomain model of cardiac tissue: from
+    microscale to macroscale_ (2021), pp. 211-223
+    [10.1007/978-3-030-63355-4_15] [abs].
+  * Pelot, NA; Catherall, DC; Thio, BJ; Titus, ND; Liang, ED; Henriquez, CS;
+    Grill, WM, _Excitation properties of computational models of unmyelinated
+    peripheral axons._ , Journal of Neurophysiology, vol 125 no. 1 (2021), pp.
+    86-104 [10.1152/jn.00315.2020] [abs].
+  * Gaeta, S; Bahnson, TD; Henriquez, C, _High-Resolution Measurement of Local
+    Activation Time Differences From Bipolar Electrogram Amplitude._ ,
+    Frontiers in Physiology, vol 12 (2021) [10.3389/fphys.2021.653645] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

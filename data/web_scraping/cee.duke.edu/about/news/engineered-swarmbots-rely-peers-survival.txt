@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineered Swarmbots Rely on Peers for Survival
+
+February 29, 2016 | By Ken Kingery
+
+Duke University bioengineers design cells that die if they leave the confines
+of their capsule
+
+Duke University researchers have engineered microbes that can’t run away from
+home; those that do will quickly die without protective proteins produced by
+their peers.
+
+Dubbed “swarmbots” for their ability to survive in a crowd, the system could
+be used as a safeguard to stop genetically modified organisms from escaping
+into the surrounding environment. The approach could also be used to reliably
+program colonies of bacteria to respond to changes in their surrounding
+environment, such as releasing specific molecules on cue.
+
+The system is described online February 29, 2016, in Molecular Systems
+Biology.
+
+“Safety has always been a concern when modifying bacteria for medical
+applications because of the danger of uncontrolled proliferation,” said
+Lingchong You, the Paul Ruffin Scarborough Associate Professor of Engineering
+at Duke University.
+
+“Other labs have addressed this issue by making cells rely on unnatural amino
+acids for survival or by introducing a ‘kill switch’ that is activated by some
+chemical,” You said. “Ours is the first example that uses collective survival
+as a way of intrinsically realizing this safeguard.”
+
+In the experiment, You and his colleagues engineered a non-pathogenic strain
+of E. coli to produce a chemical called AHL. They also modified the cells so
+that, in high enough concentrations, AHL causes them to produce an antidote to
+antibiotics. When the population of E. coli is dense enough, the antidote
+keeps them alive, even in the presence of antibiotics that would otherwise
+kill them.
+
+The researchers then confined a sufficiently large number of the bacteria to a
+capsule and bathed it in antibiotics. As long as the E. coli remained inside
+their container where their density was high, they all survived. But if
+individual bacteria escaped, they were quickly killed off by the antibiotic.
+
+While this specific example would not work in general environments without the
+antibiotic present, You says that the experiments are a proof of concept. The
+concept can be applied to other circuits that can implement collective
+survival in one or multiple populations.
+
+“In general, this concept does not depend on the use of antibiotics,” said
+You. “There are multiple directions we are hoping to follow with this
+platform. We’re using non-pathogenic E. coli, but we hope to demonstrate that
+the same concept can be established with a probiotic strain of bacteria.”
+
+“We can imagine programming probiotics that can respond to changes in their
+environmental conditions,” said Shuqiang Huang, a postdoctoral associate in
+You’s lab. “That response could include delivering proteins or chemicals to
+modulate the microbiome.”
+
+Another way to take advantage of the technology would be to insert a contained
+population of bacteria that could help the body respond to intruders.
+
+“We want to program cells to respond to signals produced by pathogenic
+bacteria,” said Anna Lee, a graduate student in You’s lab, who plans to pursue
+this line of research for her doctoral thesis. “We could inhibit their
+virulence and attack them at the same time.”
+
+“This is the foundation,” said You. “Once we’ve established the platform, then
+we have the freedom to introduce whatever proteins we choose and allow these
+cells to engage in many different applications.”
+
+This work was supported by the National Science Foundation (CBET‐0953202), the
+National Institutes of Health (R01GM098642R01GM110494), the Army Research
+Office (W911NF‐14‐1‐0490) and a David and Lucile Packard Fellowship.
+
+###
+
+“Coupling spatial segregation with synthetic circuits to control bacterial
+survival.” Shuqiang Huang, Anna Lee, Ryan Tsoi, Feilun Wu, Ying Zhang, Kam
+Leong, and Lingchong You. Molecular Systems Biology, Online Feb. 29, 2016.
+DOI: 10.15252/msb.20156567
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

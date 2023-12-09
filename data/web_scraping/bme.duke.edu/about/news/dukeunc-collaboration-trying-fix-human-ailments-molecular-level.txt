@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke/UNC Collaboration Trying to Fix Human Ailments at Molecular Level
+
+April 21, 2015 | By Marla Vacek Broadfoot
+
+Chance meeting at RDU blossoms into collaboration to repair genetic defect in
+muscular dystrophy
+
+_Editor's note: This is the fourth and final article in a series exploring the
+Duke-UNC Collaborations funded through the Clinical and Translational Science
+Awards (CTSAs) at Duke and UNC._
+
+_Originally published on theDuke Translational Medical Institute website_
+
+Anyone who has been sickened by the flu or a bout of food poisoning knows that
+viruses and bacteria can be powerful adversaries. But in recent decades, they
+have also become unlikely allies as scientists have turned bits and pieces of
+these infectious agents into tools for understanding and possibly even
+rewriting the human genome.
+
+Researchers have gutted and replaced the insides of viruses with human genes,
+fashioning miniature couriers that can travel into cells to replace defects
+that underlie genetic diseases like hemophilia. They have also taken advantage
+of bacteria’s ability to recognize and chop up the DNA of invading pathogens,
+hijacking this defense system to edit the genome of any cell or species at
+will.
+
+Merging these two approaches – gene therapy and genome editing – could
+revolutionize medicine by enabling clinicians to essentially fix human
+ailments at the most basic molecular level. Recently, Duke’s Charles Gersbach,
+PhD, and UNC’s Aravind Asokan, PhD, received a $50,000 grant to combine these
+technologies into a completely new treatment for the progressive neuromuscular
+disorder muscular dystrophy. The award is part of an effort by the sister
+CTSAs to combine resources and expertise to tackle problems that impact human
+health.
+
+Despite working for neighboring institutions, it took a chance meeting at RDU
+airport last May for Asokan and Gersbach to finally come face-to-face. They
+were both waiting for their bags to come off the turnstile at RDU airport when
+Asokan recognized Gersbach and congratulated him for getting the Outstanding
+New Investigator Award at the recent American Society of Gene and Cell Therapy
+meeting. Gersbach responded by congratulating Asokan for receiving the same
+award the previous year, and then -- as scientists often do -- shifted the
+conversation to the latest stumbling block in his research. He explained that
+even though his laboratory had made a number of strides in genome editing, he
+still hadn’t figured out a way to deliver the technology to cells that would
+be safe and sustainable in actual patients.
+
+Gersbach has been using a popular new technology -- which goes by the
+cumbersome acronym CRISPR/Cas9 -- to change the DNA sequence of model
+organisms and human cells. Thus far, he has reprogrammed this bacterial-based
+system to correct the genetic defects that cause Duchenne Muscular Dystrophy
+(DMD), the most common fatal genetic disease of childhood. Gersbach has shown
+that the technique works in cultured muscle cells taken from patients with the
+disease.
+
+But taking the method from patient cells to actual patients is a big leap. In
+the laboratory, Gersbach basically uses a jolt of electricity to punch holes
+in the walls of the cultured cells so that the editing tools can easily access
+the genome hidden inside. Efficient though that tactic might be, it is
+obviously not practical for the clinic. Gersbach had been pondering more
+patient-friendly alternatives when Asokan approached him that spring day.
+
+“I feel very fortunate to have a collaborator like Asokan nearby at UNC, who
+is one of the world’s experts on gene delivery to muscle,” said Gersbach, an
+assistant professor at the Duke Pratt School of Engineering. “He has designed
+viruses that can deliver genes specifically to the muscle and the heart, which
+is also affected in this disease. The tools he has created are really valuable
+for us to be able to translate our results to human application.”
+
+Asokan has spent most of his career developing new and improved versions of
+adeno-associated virus or AAV, a relatively harmless carrier that is already
+present in the majority of the human population. The virus has been used to
+safely deliver gene therapy in clinical trials for a number of diseases,
+including eye disease, congestive heart failure, Parkinson’s disease, and
+muscular dystrophy.
+
+Through this new collaboration, the researchers are packaging the genome
+editing machinery developed in the Gersbach lab into the latest forms of AAV
+developed in the Asokan lab. Though their results are still preliminary, the
+approach has shown promise in mouse models of DMD. The researchers believe the
+technique could one day be used not just to correct this one disease-causing
+mutation, but to change any sequence in the genome.
+
+“I look at this as the perfect marriage of two sets of tools, without which
+neither field could succeed,” said Asokan, an associate professor at the UNC
+School of Medicine. “That union does raise a unique set of safety
+considerations that we need to assess. But once we do, it has the potential to
+create a new gene therapy paradigm that will change the way that we approach
+human disease.”
+
+The new team of Gersbach and Asokan are one of four to recently receive
+collaborative grants from the Duke University Translational Medicine Institute
+(DTMI) and the North Carolina Translational and Clinical Sciences (NC TraCS)
+Institute. These DTRI Duke/UNC Collaborative Pilot Program awards place
+particular emphasis on basic research in a variety of disciplines that address
+the development of therapies, diagnostics or devices applicable to human
+disease and clinical trials.
+
+UNC and Duke are the only two academic institutions in North Carolina that are
+members of the CTSA program, a national consortium created to improve the way
+biomedical research is conducted across the country. The CTSA program is
+funded by the National Center for Advancing Translational Sciences (NCATS), a
+part of the National Institutes of Health (NIH).
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

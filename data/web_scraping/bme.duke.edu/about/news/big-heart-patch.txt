@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Beating Heart Patch is Large Enough to Repair the Human Heart
+
+November 28, 2017 | By Ken Kingery
+
+Beating patch is as strong and electrically active as healthy adult heart
+
+Biomedical engineers at Duke University have created a fully functioning
+artificial human heart muscle large enough to patch over damage typically seen
+in patients who have suffered a heart attack. The advance takes a major step
+toward the end goal of repairing dead heart muscle in human patients.
+
+The study appears online in Nature Communications on November 28, 2017.
+
+"Right now, virtually all existing therapies are aimed at reducing the
+symptoms from the damage that's already been done to the heart, but no
+approaches have been able to replace the muscle that's lost, because once it's
+dead, it does not grow back on its own," said Ilia Shadrin, a biomedical
+engineering doctoral student at Duke University and first author on the study.
+"This is a way that we could replace lost muscle with tissue made outside the
+body."
+
+Unlike some human organs, the heart cannot regenerate itself after a heart
+attack. The dead muscle is often replaced by scar tissue that can no longer
+transmit electrical signals or contract, both of which are necessary for
+smooth and forceful heartbeats.
+
+The end result is a disease commonly referred to as heart failure that affects
+over 12 million patients worldwide. New therapies, such as the one being
+developed by Shadrin and his advisor Nenad Bursac, professor of biomedical
+engineering at Duke, are needed to prevent heart failure and its lethal
+complications.
+
+Current clinical trials are testing the tactic of injecting stem cells derived
+from bone marrow, blood or the heart itself directly into the affected site in
+an attempt to replenish some of the damaged muscle. While there do seem to be
+some positive effects from these treatments, their mechanisms are not fully
+understood. Fewer than one percent of the injected cells survive and remain in
+the heart, and even fewer become cardiac muscle cells.
+
+Heart patches, on the other hand, could conceivably be implanted over the dead
+muscle and remain active for a long time, providing more strength for
+contractions and a smooth path for the heart's electrical signals to travel
+through. These patches also secrete enzymes and growth factors that could help
+recovery of damaged tissue that hasn't yet died.
+
+For this approach to work, however, a heart patch must be large enough to
+cover the affected tissue. It must also be just as strong and electrically
+active as the native heart tissue, or else the discrepancy could cause deadly
+arrhythmias.
+
+This is the first human heart patch to meet both criteria. "Creating
+individual cardiac muscle cells is pretty commonplace, but people have been
+focused on growing miniature tissues for drug development," said Bursac.
+"Scaling it up to this size is something that has never been done and it
+required a lot of engineering ingenuity."
+
+The cells for the heart patch are grown from human pluripotent stem cells --
+the cells that can become any type of cell in the body. Bursac and Shadrin
+have successfully made patches using many different lines of human stem cells,
+including those derived from embryos and those artificially forced or
+"induced" into their pluripotent state.
+
+Various types of heart cells can be grown from these stem cells:
+cardiomyocytes, the cells responsible for muscle contraction; fibroblasts, the
+cells that provide structural framework for heart tissue; and endothelial and
+smooth muscle cells, the cells that form blood vessels. The researchers place
+these cells at specific ratios into a jelly-like substance where they self-
+organize and grow into functioning tissue.
+
+Finding the right combination of cells, support structures, growth factors,
+nutrients and culture conditions to grow large, fully functional patches of
+human heart tissue has taken the team years of work. Every container and
+procedure had to be sized up and engineered from scratch. And the key that
+brought it all together was a little bit of rocking and swaying.
+
+"It turns out that rocking the samples to bathe and splash them to improve
+nutrient delivery is extremely important," said Shadrin. "We obtained three-
+to-five times better results with the rocking cultures compared to our static
+samples."
+
+The results improved on the researchers' previous patches, which were one
+square centimeter and four square centimeters. They successfully scaled up to
+16 square centimeters and five to eight cells thick. Tests show that the heart
+muscle in the patch is fully functional, with electrical, mechanical and
+structural properties that resemble those of a normal, healthy adult heart.
+
+"This is extremely difficult to do, as the larger the tissue that is grown,
+the harder it is to maintain the same properties throughout it," said Bursac.
+"Equally challenging has been making the tissues mature to adult strength on a
+fast timescale of five weeks while achieving properties that typically take
+years of normal human development."
+
+Bursac and Shadrin have already shown that these cardiac patches survive,
+become vascularized and maintain their function when implanted onto mouse and
+rat hearts. For a heart patch to ever actually replace the work of dead
+cardiac muscle in human patients, however, it would need to be much thicker
+than the tissue grown in this study. And for patches to be grown that thick,
+they need to be vascularized so that cells on the interior can receive enough
+oxygen and nutrients. Even then, researchers would have to figure out how to
+fully integrate the heart patch with the existing muscle.
+
+"Full integration like that is really important, not just to improve the
+heart's mechanical pumping, but to ensure the smooth spread of electrical
+waves and minimize the risk of arrhythmias," said Shadrin.
+
+"We are actively working on that, as are others, but for now, we are thrilled
+to have the 'size matters' part figured out," added Bursac.
+
+The research is part of a seven-year, $8.6 million grant from the National
+Institutes of Health. With the large heart patches in hand, the Bursac team is
+collaborating with researchers at the University of Alabama at Birmingham to
+develop procedures to successfully integrate the patch onto the hearts of
+pigs. Another affiliated team of researchers at the University of Wisconsin-
+Madison is working to develop improved stem cells for creating the main cell
+types that compose these heart patches, in the hopes of minimizing an immune
+response to the delivery of the engineered tissues.
+
+This research was supported by Foundation Leducq and the National Institutes
+of Health (R01HL104326, R01HL12652, UG3TR002142, U01HL134764, 5T32GM007171,
+F30HL122079).
+
+CITATION: "Cardiopatch platform enables maturation and scale-up of human
+pluripotent stem cell-derived engineered heart tissues," Ilya Y. Shadrin,
+Brian W. Allen, Ying Qian, Christopher P. Jackman, Aaron L. Carlson, Mark E.
+Juhas, and Nenad Bursac. Nature Communications, 2017. DOI:
+10.1038/s41467-017-01946-x
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

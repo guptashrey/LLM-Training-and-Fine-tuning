@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Innovative Textile Vents to Release Heat When You Sweat
+
+December 16, 2021 | By Ken Kingery
+
+Moisture opens the vents, rather than electronics
+
+Materials Scientists at Duke University have developed a lightweight material
+that traps thermal energy when dry, but opens a series of tiny vents to let
+heat escape when a person starts sweating. The vents close again to retain
+heat once they are dry.
+
+Using physics rather than electronics to open the vents, the material has
+potential as a patch on various types of clothing to help keep the wearer
+comfortable in a wide range of situations.
+
+The approach is described online on December 15 in the journal Science
+Advances.
+
+“People who are skiing or hiking in colder weather usually wear layers so they
+can adjust how much heat their clothing is trapping as their body heats up,”
+said Po-Chun Hsu, assistant professor of mechanical engineering and materials
+science at Duke. “But by strategically placing patches of a material that can
+let out heat when a person is sweating, one could imagine making a one-piece-
+fits-all textile.”
+
+When first attempting to make such a dual-purpose material, Hsu turned to
+nylon. It’s inexpensive, lightweight and soft, and Hsu knew that if cut into
+flaps, nylon curls in on itself a little bit when one side is exposed to
+moisture.
+
+Nylon is not, however, known for making particularly warm clothing, so Hsu
+added a layer of heat-trapping silver on top. Expecting the weight of the
+silver to bog down the nylon flaps, he tried to make the layer as thin as
+possible. But to his surprise, the silver addition actually made the flaps
+curl back even more.
+
+After experimenting with various thicknesses of silver, Hsu discovered a
+Goldilocks spot around 50 nanometers—2,000 times thinner than a sheet of
+paper. Any thinner and the phenomena wouldn’t be as strong. Any thicker and
+the weight of the silver started interfering with the vents opening.
+
+Puzzled as to what exactly was happening on his lab bench, Hsu turned to Cate
+Brinson, the Sharon C. and Harold L. Yoh, III Distinguished Professor and
+Donald M. Altstadt Chair of Mechanical Engineering and Materials Science at
+Duke. Working with a postdoctoral researcher in her laboratory, Boran Ma,
+Brinson was able to provide an explanation.
+
+“It’s surprising and counterintuitive, but adding something heavy on top of a
+polymer can actually make it bend and open more,” Brinson said. “What it comes
+down to is that the silver is shrinking and the nylon is expanding.”
+
+Brinson and Ma explained that when the bottom layer of nylon gets wet, it
+wants to expand like a sheet being pulled from its sides. But because it’s
+attached to the silver on top, it can’t stretch in those directions. The
+easiest option remaining is for the two-layer material to curl up, allowing
+the nylon to expand while forcing the silver to shrink.
+
+In the experiments, the researchers created a patch about the size of a human
+hand with flaps a few millimeters long—about the size of a fingernail.
+Compared with an average traditional textile represented by a blend of
+polyester and spandex, the material is about 16% warmer when dry with the
+flaps closed and 14% cooler when humid with the flaps open. Put together, the
+nylon-silver hybrid can expand the thermal comfort zone by 30%. According to
+Hsu, this approach has advantages to existing methods of venting heat through
+warm clothing, such as placing zippers beneath the armpits.
+
+“We want the sweating parts of the body to be vented, which is not necessarily
+the underarms,” Hsu said. “Our chest and back need more venting, but the
+effort to unzip these areas, if zippers are even available, is almost the same
+as simply taking off the clothing.”
+
+Moving forward, Hsu is working on making the vents as small as possible while
+retaining their effectiveness. He’s also exploring using a top nanocomposite
+layer that could make the material any color without changing its thermal
+attributes.
+
+“I expect that if we can find the right laser cutting method to create very
+small flaps and attach the patch to clothing, we can create this effect
+without looking like we’re wearing a costume,” said Hsu. “With enough work,
+this kind of material could look very similar to what we’re wearing today.”
+
+This work was supported by the National Science Foundation DMREF program
+(CMMI-1818574) and CSSI program (CSSI-1835677).
+
+CITATION: “Metalized Polyamide Heterostructure as a Moisture-Responsive
+Actuator for Multimodal Adaptive Personal Heat Management,” Xiuqiang Li, Boran
+Ma, Jingyuan Dai, Chenxi Sui, Divya Pande, David R Smith, L. Catherine
+Brinson, Po-Chun Hsu. Science Advances, Dec. 16, 2021. DOI:
+10.1126/sciadv.abj7906
+
+## Related News
+
+October 28, 2021
+
+### Smart Material Switches Between Heating and Cooling in Minutes
+
+December 02, 2020
+
+### Nanomaterials Enable Passive Dual-Mode Heating and Cooling Device
+
+September 07, 2018
+
+### Po-Chun Hsu: Engineering Nanostructured Materials to Keep You Cool
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

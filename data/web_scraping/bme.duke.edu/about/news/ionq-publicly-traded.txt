@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Technology Powers First Pure-Play Quantum Computing Company to Wall
+Street
+
+March 9, 2021 | By Ken Kingery
+
+With a market capitalization valued around $2 billion, IonQ will become the
+first publicly traded company focused solely on quantum computing
+
+Born from a 15-year-long collaboration between Duke University faculty members
+in engineering and physics, IonQ will become the first publicly traded company
+focused solely on quantum computing.
+
+The company on March 8 announced it had entered into a merger agreement with
+dMY Technology Group, Inc. III (NYSE: DMYI.U), a publicly traded special
+purpose acquisition company (“dMY III”). Upon closing of the transaction, IonQ
+shares will trade on the NYSE under the symbol “IONQ.” Pro forma implied
+market capitalization of the combined company is approximately $2 billion.
+
+The company, founded on a promising approach to quantum computing that uses
+trapped ions to store and manipulate data, has a licensing agreement to
+translate Duke innovations into IonQ technology. Its founders believe this
+translation will only accelerate with the newly established Duke Quantum
+Center—a 20,000-square-foot space in downtown Durham, North Carolina that will
+offer programmable, reconfigurable quantum computing capability to engineers,
+physicists, chemists, mathematicians or anyone who comes forward with a
+complex optimization problem they’d like to try on a powerful quantum
+computing system.
+
+“I am excited about this critical milestone on the path to commercializing
+quantum computing technology that started out at Duke,” said Jungsang Kim,
+professor of electrical and computer engineering and physics at Duke
+University and a co-founder of IonQ. “It is a great opportunity for Duke to
+stay at the forefront of quantum computing technology.”
+
+> “Jungsang and I have been working together for 15 years to build and use
+> quantum computers based on engineering the best quantum components. IonQ’s
+> announcement is a critical milestone in this path. Now that we are both at
+> Duke, we expect things to go into high gear with the new Duke Quantum
+> Center.”
+>
+> \- chris monroe
+
+In the classical computers that people use every day, information is stored as
+bits in transistors as either a “1” or a “0” and must be manipulated
+sequentially. In quantum computers, information is stored in components called
+“qubits” that, thanks to quantum mechanics, can be both a 1 and a 0 at the
+same time while having a statistical preference for one or the other. With
+multiple qubits, the number of possible values grows enormously, allowing a
+quantum computer to process huge amounts of information in ways that are
+impossible using a classical computer.
+
+“Jungsang and I have been working together for 15 years to build and use
+quantum computers based on engineering the best quantum components,” added
+Chris Monroe, professor of electrical and computer engineering and physics and
+the other co-founder of IonQ, who recently joined Duke from the University of
+Maryland – College Park. “IonQ’s announcement is a critical milestone in this
+path. Now that we are both at Duke, we expect things to go into high gear with
+the new Duke Quantum Center.”
+
+For straightforward tasks such as the trajectory of a cannonball, a quantum
+computer is not likely to ever be able to compete with a classical computer.
+But for fields such as cryptography, modeling chemical reactions and
+predicting the future of climate change, a quantum computer isn’t just a
+better option, it’s a necessity.
+
+Industry giants including Microsoft, IBM and Google are also pursuing quantum
+computing technologies, but through different means. Their technologies use
+superconducting solid-state circuits that are controlled electronically. IonQ
+uses trapped ions—atoms stripped of a single electron, giving it a positive
+electric charge so that they can be suspended in a vacuum and manipulated with
+lasers.
+
+Their approach has thus far produced the first and only quantum computer
+available via the cloud on both Amazon Braket and Microsoft Azure, leading
+IonQ to define what it believes to be the best path forward to scaling quantum
+computing power. By 2023, IonQ plans to develop modular quantum computers
+small enough to be networked together, which could pave the way for systems
+that can outperform conventional computers on a broad range of topics by 2025.
+IonQ believes the twenty-first century will be defined by quantum computing
+and that this technology will have an even greater impact than classical
+computing had over the last 100 years.
+
+“This transaction advances IonQ’s mission, to solve critical problems that
+impact nearly every aspect of society,” said Peter Chapman, CEO & President of
+IonQ. “We look forward to leveraging the power of quantum computing in the
+fight against climate change and to solve vexing problems from materials
+design to logistics that impact the transportation industry.”
+
+Read more about quantum computing at Duke
+
+## Related News
+
+August 20, 2020
+
+### Chris Monroe: Realizing Ion-Trap Quantum Computers to Solve Unsolvable
+Problems
+
+August 07, 2018
+
+### Duke to Lead $15 Million Program to Create First Practical Quantum
+Computer
+
+February 11, 2016
+
+### Building the World’s First Quantum Computer
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

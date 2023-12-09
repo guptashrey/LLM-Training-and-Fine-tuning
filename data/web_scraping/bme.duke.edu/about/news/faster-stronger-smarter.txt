@@ -1,0 +1,371 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Faster. Stronger. Smarter.
+
+February 20, 2020 | by Laura Ertel
+
+Artificial intelligence is shaping the future of eye care—and Duke is leading
+the way
+
+_From Duke Eye Center's Vision Magazine  
+_
+
+Artificial intelligence (AI) leverages the growing power and speed of
+computers to solve complex problems. AI is transforming medical research and
+clinical practice—and ophthalmology is leading the way.
+
+“One of the most successful ways that AI has been applied recently is in the
+area of ‘computer vision,’ which is the assessment and interpretation of
+images,” explains Felipe Medeiros, MD, PhD, Joseph A.C. Wadsworth Professor of
+Ophthalmology. “We can apply sophisticated AI algorithms, such as ‘deep
+learning’ neural networks, which are capable of very complex pattern
+recognition tasks, to identify whether specific characteristics are present in
+an image or not.
+
+“In ophthalmology we have a wealth of eye images—fundus photographs, optical
+coherence tomography (OCT), etc.—that are fundamental to the diagnosis,
+monitoring, and treatment of a number of eye diseases, so this field is
+ideally suited for deep learning applications,” says Medeiros, who is Duke
+Ophthalmology’s vice chair of technology and leads the clinical research unit.
+“The development of such applications has been increasing at an astounding
+rate. In several disciplines, including ophthalmology, researchers have proven
+that deep learning algorithms can actually outperform humans in some tasks.”
+
+## Minimizing mistakes, maximizing efficiency
+
+Deep learning algorithms not only reduce labor and equipment costs but can
+also eliminate errors that occur from the subjective interpretation of
+diagnostic images by humans. They can also bring screening and diagnosis to
+underserved areas where specialists may be limited.
+
+“There will always be a significant role for human contribution and
+physicians’ expertise, so there is no need to worry about a future in which
+patients are treated entirely by computers,” assures Eleonora Lad, MD, PhD, an
+associate professor of ophthalmology and clinician-scientist who is
+researching applications of AI to improve diagnosis and treatment of age-
+related macular degeneration. “Physicians have limited time and bandwidth.
+Machine learning can provide us with new information, faster, so we can make
+more informed diagnoses and spend more time working with our patients on the
+best treatment plan.”
+
+## Duke Ophthalmology at the forefront
+
+Duke Ophthalmology has a long track record of developing AI technology to
+improve eye care. Sina Farsiu, PhD, who holds joint appointments in the Pratt
+School of Engineering and the Department of Ophthalmology, is a pioneer in the
+use of AI in ophthalmology. He established the Vision and Image Processing
+Laboratory at Duke Eye Center a decade ago and has developed numerous
+ophthalmic image analysis tools that are freely shared online and used in
+multicenter clinical trials around the world.
+
+Duke University is also finding innovative ways to apply AI to a range of
+disciplines. In 2019, Duke appointed Lawrence Carin, PhD, one of the world’s
+leading experts on machine learning and artificial intelligence, as vice
+president of research. Duke Ophthalmology looks forward to collaborating with
+the AI Health Data Science Initiative, leveraging the university’s focus on
+artificial intelligence and its culture of multidisciplinary collaboration.
+
+“Larry’s team members are experts in computer science; we have the top minds
+in ophthalmology,” Medeiros says. “We bring them clinical challenges, and they
+bring us innovative ways of creating algorithms to solve them. Together, it’s
+a great fit that would be hard to find anywhere else.”
+
+Carin agrees. “Duke Ophthalmology is very well positioned in this space, as it
+already has multiple clinician-scientists who recognize the opportunity and
+are engaged in leading research. Duke is also the home of leadership in the
+fundamentals of AI. By bringing Duke Ophthalmology and the broader Duke
+methodological AI leaders together, Duke is positioned to be a global leader
+on the application of AI to the transformation of ophthalmological care.”
+
+Duke Ophthalmology is applying AI to advance research and improve treatment
+for several common and important eye diseases. Some examples:
+
+**Glaucoma**
+
+Glaucoma is a leading cause of irreversible blindness in the world. Because
+the disease remains largely asymptomatic until late stages, there is a great
+need to develop affordable approaches for screening _before_ visual impairment
+occurs – when early intervention can still save sight.
+
+Medeiros’s research team has developed several AI algorithms that promise to
+detect glaucoma more quickly and efficiently. One algorithm has been proven to
+accurately quantify the amount of damage a patient has in the optic nerve from
+just a fundus photograph, and tell us whether the patient is likely to have
+glaucoma or not.[i] Using the power of AI, researchers were able to closely
+replicate OCT estimates of neural loss. The method also removed subjectivity,
+and even outperformed human specialists in the interpretation of fundus
+photographs for glaucoma.[ii] And, because photographs are less expensive and
+more widely available than OCT, this method offers the potential to bring
+improved screening and diagnosis to underserved locations.
+
+**Age-Related Macular Degeneration**
+
+Once age-related macular degeneration (AMD) progresses to its late stages,
+there is no treatment for 85% of cases with the dry form (geographic atrophy),
+and loss of central vision is inevitable. Lad is on a mission to find
+biomarkers that predict disease progression, both to better understand the
+genesis and progression of disease and to test potential treatments on
+patients before vision loss becomes irreversible. AI is helping to speed that
+search.
+
+“The National Eye Institute’s multicenter, prospective, Age-Related Eye
+Disease Study 2 (AREDS2) is providing a true goldmine of data on aging and
+AMD, including several types of high-resolution retinal images and
+demographic, functional, and genetic data from study participants over several
+years. We are collaborating with Larry Carin’s team to mine the retinal images
+from this study and to develop deep learning algorithms to uncover biomarkers
+that indicate rapid disease progression,” Lad says.
+
+“It took years and much grant funding for research associates in Dr. Cynthia
+Toth’s lab to grade every OCT image from the study and develop a true
+encyclopedia of annotated OCT features that predict disease progression,” she
+notes. “Using deep learning/AI, we hope to do this much more quickly and
+inexpensively, so we can predict which patients would progress to vision loss
+over a timeframe as short as 1-2 years and can enroll them into promising
+clinical trials.”
+
+Already, the team has created an algorithm capable of grading three-
+dimensional OCT images with 91% accuracy at predicting which patients will
+develop geographic atrophy within one year.
+
+“After these algorithms are refined and validated, they can be incorporated
+into OCT machines,” Lad says. “Then, ophthalmologists and optometrists could
+screen their patients during routine exams, determine their risk of
+progression to advanced disease (neovascular or dry), and refer them to a
+retinal specialist.”
+
+**Diabetic Retinopathy**
+
+Farsiu, together with Duke Ophthalmology clinician-scientists Scott Cousins,
+MD, and Prithu Mettu, MD, developed the first algorithm that could distinguish
+AMD and diabetic retinopathy from each other, and from normal eyes, using OCT
+images.[iii] This was the first algorithm with the ability to process images
+from different centers with different imaging protocols.
+
+Farsiu’s postdoctoral mentee, Reza Rasti, PhD, in collaboration with Michael
+Allingham, MD, PhD, Cousins, and Mettu, is now using AI to identify which
+diabetic retinopathy patients will respond best to anti-VEGF injections –
+_before_ treatment starts. That means patients who would not respond well
+won’t have to go through this vision-saving, but complicated and expensive,
+treatment.
+
+**Imaging Technology**
+
+AI’s computational techniques also enable Duke researchers to develop more
+elegant imaging modalities, notes Farsiu, whose Vision and Image Processing
+Laboratory was the first to develop a fully automatic deep learning algorithm
+that successfully uses clinical-grade OCT images of the retina to detect
+multiple diseases of the eye.
+
+“By replacing optical components of ophthalmic imaging systems with
+computational components, we can make them much smaller, lighter, and more
+accessible,” he says. “For example, in collaboration with Joseph Izatt, PhD,
+we have been able to shrink an adaptive optics scanning laser ophthalmoscope
+from a desktop size down to a portable handheld unit, which allows us to use
+this tool on infants and children, who have a hard time sitting still in front
+of a traditional unit.”
+
+**Data Analysis for Clinical Trials**
+
+Farsiu’s lab is also collaborating with Duke retinal specialist Glenn Jaffe,
+MD, to use AI to rapidly analyze data in multicenter international clinical
+trials for new therapies for blinding diseases. In one study, Farsiu’s PhD
+student, Jessica Loo, developed a fully automatic algorithm that could
+replicate the result of the clinical trial without _any_ human involvement.
+This is a transformative change from the standard method of data analysis,
+which requires a human expert to review a computer’s analysis of each image to
+correct its mistakes—a time-consuming and expensive task.
+
+“These are preliminary results, which we will need to replicate in other
+clinical studies,” Farsiu notes. “But if we can successfully conduct the data
+analysis for an entire clinical trial fully automatically without human
+involvement, and get the same results, that would significantly reduce the
+cost of trials, eliminate human error, and get promising treatments to
+patients faster.”
+
+The U.S. Food & Drug Administration, the agency within the U.S. Department of
+Health and Human Services that assures the safety and effectiveness of drugs
+and medical devices in clinical trials, also recognizes the power and promise
+of AI. The FDA has recently organized an Ophthalmic Imaging Collaborative
+Community group as a strategic priority for the agency. Lad is a key member of
+this effort, whose goal is to develop guidelines for the use of AI
+technologies in the diagnosis and treatment of patients with eye diseases.
+
+The ultimate goal, Medeiros notes, is to apply AI to clinical practice in ways
+that can improve patient care and satisfaction. That requires many stages and
+very diverse expertise. “First, we need to develop ideas to address clinically
+relevant questions. Then we need to gather the relevant data, build, refine,
+and validate the AI algorithms. And ultimately, we need to integrate those
+algorithms into clinical practice and prove that they lead to better patient
+outcomes.”
+
+The department envisions developing a comprehensive Center for Artificial
+Intelligence in Ophthalmology at Duke integrated with the university’s AI
+research enterprise, that would unite clinician-scientists, engineers, data
+scientists, and health outcomes researchers, with the goal of supporting AI
+initiatives through each stage, from idea through implementation. The center
+would also help researchers mine the vast amount of data and images stored
+within the Duke Eye Center’s electronic health records system.
+
+Increasingly, health care providers and researchers are seeing the
+opportunities that AI can open up. “Momentum is building,” Medeiros says.
+“This is a transformational moment in health care, and for all of us who are
+involved in patient care, artificial intelligence will help us do better
+medicine.”
+
+CITATIONS:
+
+[i] From Machine to Machine: An OCT-Trained Deep Learning Algorithm for
+Objective Quantification of Glaucomatous Damage in Fundus Photographs.
+_Ophthalmology._ Medeiros FA, Jammal AA, Thompson AC. 2019 Apr;126(4):513-521.
+doi: 10.1016/j.ophtha.2018.12.033. Epub 2018 Dec 20.
+
+A Deep Learning Algorithm to Quantify Neuroretinal Rim Loss from Optic Disc
+Photographs. _Am J Ophthalmol_ _._ Thompson AC, Jammal AA, Medeiros FA. 2019
+May;201:9-18. doi: 10.1016/j.ajo.2019.01.011. Epub 2019 Jan 26.
+
+[ii] Human Versus Machine: Comparing a Deep Learning Algorithm to Human
+Gradings for Detecting Glaucoma on Fundus Photographs. _Am J Ophthalmol._
+Jammal AA, Thompson AC, Mariottoni EB, Berchuck SI, Urata CN, Estrela T, Wakil
+SM, Costa VP, Medeiros FA. 2019 Nov 12. pii: S0002-9394(19)30543-4. doi:
+10.1016/j.ajo.2019.11.006. [Epub ahead of print] PMID: 31730838
+
+[iii] Fully Automated Detection of Diabetic Macular Edema and Dry Age-Related
+Macular Degeneration from Optical Coherence Tomography Images. _Biomedical
+Optics Express_. Srinivasan PP, Kim LA, Mettu PS, Cousins SW, Comer GM, Izatt
+JA, and Farsiu S. 2014 Oct;5(10), pp. 3568-3577.
+
+Machine Learning Analysis of SD-OCT Features Predicting Short-term Progression
+of Intermediate Age-Related Macular Degeneration to Geographic Atrophy.
+Presentation to the Retina Society, Sept 2019, London, UK. Lad EM, Sleiman K,
+Banks DL, Hariharan S, Futoma J, Clemons T, Chew EY, Toth CA, for the AREDS2
+Ancillary SDOCT Study Group.
+
+## Related News
+
+December 04, 2019
+
+### Farsiu, Krolik Elected Fellows of the IEEE
+
+September 20, 2017
+
+### Farsiu Receives Signal Processing Award
+
+August 27, 2014
+
+### Sina Farsiu: Processing an Avalanche of Images
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

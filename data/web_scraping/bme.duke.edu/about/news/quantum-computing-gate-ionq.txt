@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke University and IonQ Develop New Quantum Computing Gate, Only Possible
+on IonQ and Duke Systems
+
+February 10, 2022
+
+Researchers discover a new method to perform the N-qubit Toffoli gate, a more
+efficient quantum operation helpful in scaling quantum algorithms
+
+New family of N-qubit gates can only be run on IonQ quantum computer
+architecture
+
+Once implemented, gate is expected to speed up several fundamental algorithms
+for quantum computing
+
+Press release written and distributed by IonQ
+
+DURHAM, N.C. & COLLEGE PARK, Md. -- Today, the Duke Quantum Center (DQC) at
+Duke University and IonQ (NYSE: IONQ) announced the invention of a new quantum
+computing operation with the potential to accelerate several key quantum
+computing techniques and contribute to scaling quantum algorithms. The new
+quantum gate is a novel way to operate on many connected qubits at once and
+leverages the multi-qubit communication bus available only on IonQ and DQC
+quantum computers. Full details of the gate technique can be found on the
+preprint archive arXiv at arXiv:2202.04230.
+
+The new gate family includes the N-qubit Toffoli gate, which flips a select
+qubit if and only if all the other qubits are in a particular state. Unlike
+standard two-qubit quantum computing gates, the N-qubit Toffoli gate acts on
+many qubits at once, leading to more efficient operations. The gate appears
+naturally in many common quantum algorithms.
+
+IonQ and Duke’s discovery may lead to significant efficiency gains in solving
+fundamental quantum algorithms, such as Grover’s search algorithm, variational
+quantum eigensolvers (VQEs), and arithmetic operations like addition and
+multiplication. These use cases are ubiquitous across quantum computing
+applications, and are core to IonQ’s work in quantum chemistry, quantum
+finance, and quantum machine learning. They are also key components of
+commonly accepted industry benchmarks for quantum computers, which have
+already shown IonQ’s computers to be clear industry leaders.
+
+“This discovery is an example of us continuing to build on the leading
+technical architecture we've established. It adds to the unique and powerful
+capabilities we are developing for quantum computing applications," said Peter
+Chapman, CEO at IonQ.
+
+This research, conducted at Duke by Dr. Or Katz, Prof. Marko Cetina, and IonQ
+co-Founder and Chief Scientist Prof. Christopher Monroe, will be integrated
+into IonQ’s quantum computing operating system for the general public to use.
+Monroe notes that, “no other available quantum computing architectures—not
+even other ion-based quantum computers—are able to utilize this new family of
+N-qubit gates. This is because IonQ’s quantum computers uniquely feature full
+connectivity and a wide communication bus that allows all qubits to talk to
+each other simultaneously.”
+
+This discovery follows a series of announcements around IonQ’s research
+efforts and preparations for scale. In December, IonQ announced that it plans
+to use barium ions as qubits in its systems, bringing about a wave of
+advantages it believes will enable advanced quantum computing architectures.
+Last year, the team also debuted the industry’s first Reconfigurable Multicore
+Quantum Architecture and Evaporated Glass Trap technology, both of which are
+expected to contribute to scaling the number of qubits in IonQ’s quantum
+computers.
+
+**About IonQ**
+
+IonQ, Inc. is a leader in quantum computing, with a proven track record of
+innovation and deployment. IonQ’s next-generation quantum computer is the
+world’s most powerful trapped-ion quantum computer, and IonQ has defined what
+it believes is the best path forward to scale.
+
+IonQ is the only company with its quantum systems available through the cloud
+on Amazon Braket, Microsoft Azure, and Google Cloud, as well as through direct
+API access. IonQ was founded in 2015 by Christopher Monroe and Jungsang Kim
+based on 25 years of pioneering research. To learn more, visit www.ionq.com.
+
+## Related News
+
+May 21, 2021 | Duke Government Relations
+
+### On the Hill: Chris Monroe Briefs Congress on Quantum Computing’s Role in
+Nation’s Scientific Computing Enterprise
+
+July 28, 2017
+
+### IonQ Raises $20M to Advance Quantum Computing for Commercial Applications
+
+February 11, 2016
+
+### Building the World’s First Quantum Computer
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

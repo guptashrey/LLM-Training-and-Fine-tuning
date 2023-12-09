@@ -1,0 +1,165 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# BME Team Takes First Place at HackDuke
+
+October 31, 2017
+
+Jason Liu, Jay Gupta, Faris Albarghouthi and Manav Avlani won first prize for
+creating software to pair with a diagnostic tool
+
+Jason Liu, Jay Gupta, Faris Albarghouthi and Manav Avlani won first prize in
+the Health and Wellness track during the 2017 HackDuke competition. During the
+event, which included more than 400 students from over 20 schools nationwide,
+the team was recognized for their work on an automated microarray image
+processing software that will improve access to point-of-care diagnostics in
+developing areas.
+
+As undergraduate students studying biomedical engineering (BME), Liu, Gupta,
+Albarghouthi and Avlani used the hackathon to create software that can be
+deployed with a novel diagnostic test they helped develop in the lab of
+Ashutosh Chilkoti, the chair of BME. The diagnostic test––called the D4
+assay–– is a point-of-care assay that can be inkjet-printed onto glass slides.
+After a sample is placed on the side and allowed to sit for a determined
+reaction period, researchers then insert the slide into a smartphone
+attachment to read the results, which are presented via bright fluorescent
+quantum dots against a dark background.
+
+Due to the use of a unique non-stick polymer coating on the surface of the
+test, the D4 assay can run sensitive, ELISA-like tests with the speed and
+portability of lateral flow tests, making it an ideal platform to use in
+resource-limited settings. But despite these advantages, the lack of a fast
+and automated image-processing script still limited wide use of the tool.
+
+The BME team addressed this issue during HackDuke by developing an application
+to use in tandem with the D4 assay that can successfully detect spot locations
+from the quantum dot results, calculate the average fluorescence intensity of
+each spot, plot the data, and then compute a graph from which unknown sample
+values can later be determined to quantify biomarker concentration. These
+advancements both shorten and automate the image-processing capabilities of
+their application, bringing it one step closer to being used alongside the D4
+assay in clinical field trials.
+
+HackDuke is one of the largest student hackathons in the Southeast, and it
+distinguishes itself from similar events by requiring all projects to
+accomplish a social or civic good. These projects are sorted into various
+tracks, including inequality, health and wellness, education and energy and
+the environment.
+
+Check out the story on Duke Today to learn more about the HackDuke event, and
+see our previous coverage about the D4 assay to learn more about the novel
+diagnostic tool.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

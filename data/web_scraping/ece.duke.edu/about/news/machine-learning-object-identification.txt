@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Machine Learning Shapes Microwaves for a Computer’s Eyes
+
+January 9, 2020 | By Ken Kingery
+
+Hardware and software tweak microwave patterns to discover the most efficient
+way to identify objects
+
+Engineers from Duke University and the Institut de Physique de Nice in France
+have developed a new method to identify objects using microwaves that improves
+accuracy while reducing the associated computing time and power requirements.
+
+The system could provide a boost to object identification and speed in fields
+where both are critical, such as autonomous vehicles, security screening and
+motion sensing.
+
+The new machine-learning approach cuts out the middleman, skipping the step of
+creating an image for analysis by a human and instead analyzes the pure data
+directly. It also jointly determines optimal hardware settings that reveal the
+most important data while simultaneously discovering what the most important
+data actually is. In a proof-of-principle study, the setup correctly
+identified a set of 3D numbers using tens of measurements instead of the
+hundreds or thousands typically required.
+
+The results appear online on December 6 in the journal Advanced Science and
+are a collaboration between David R. Smith, the James B. Duke Distinguished
+Professor of Electrical and Computer Engineering at Duke, and Roarke
+Horstmeyer, assistant professor of biomedical engineering at Duke.
+
+“Object identification schemes typically take measurements and go to all this
+trouble to make an image for people to look at and appreciate,” said
+Horstmeyer. “But that’s inefficient because the computer doesn’t need to
+‘look’ at an image at all.”
+
+“This approach circumvents that step and allows the program to capture details
+that an image-forming process might miss while ignoring other details of the
+scene that it doesn’t need,” added Aaron Diebold, a research assistant in
+Smith’s lab. “We’re basically trying to see the object directly from the eyes
+of the machine.”
+
+In the study, the researchers use a metamaterial antenna that can sculpt a
+microwave wave front into many different shapes. In this case, the
+metamaterial is an 8x8 grid of squares, each of which contains electronic
+structures that allow it to be dynamically tuned to either block or transmit
+microwaves.
+
+For each measurement, the intelligent sensor selects a handful of squares to
+let microwaves pass through. This creates a unique microwave pattern, which
+bounces off the object to be recognized and returns to another similar
+metamaterial antenna. The sensing antenna also uses a pattern of active
+squares to add further options to shape the reflected waves. The computer then
+analyzes the incoming signal and attempts to identify the object.
+
+By repeating this process thousands of times for different variations, the
+machine learning algorithm eventually discovers which pieces of information
+are the most important as well as which settings on both the sending and
+receiving antennas are the best at gathering them.
+
+“The transmitter and receiver act together and are designed together by the
+machine learning algorithm,” said Mohammadreza Imani, research assistant in
+Smith’s lab. “They are jointly designed and optimized to capture the features
+relevant to the task at hand.”
+
+“If you know your task, and you know what sort of scene to expect, you may not
+need to capture all the information possible,” said Philipp del Hougne, a
+postdoctoral fellow at the Institut de Physique de Nice. “This co-design of
+measurement and processing allows us to make use of all the _a priori_
+knowledge that we have about the task, scene and measurement constraints to
+optimize the entire sensing process.”
+
+After training, the machine learning algorithm landed on a small group of
+settings that could help it separate the data’s wheat from the chaff, cutting
+down on the number of measurements, time and computational power it needs.
+Instead of the hundreds or even thousands of measurements typically required
+by traditional microwave imaging systems, it could see the object in less than
+10 measurements.
+
+Whether or not this level of improvement would scale up to more complicated
+sensing applications is an open question. But the researchers are already
+trying to use their new concept to optimize hand-motion and gesture
+recognition for next-generation computer interfaces. There are plenty of other
+domains where improvements in microwave sensing are needed, and the small
+size, low cost and easy manufacturability of these types of metamaterials make
+them promising candidates for future devices.
+
+“Microwaves are ideal for applications like concealed threat detection,
+identifying objects on the road for driverless cars or monitoring for
+emergencies in assisted-living facilities,” said del Hougne. “When you think
+about all of these applications, you need the sensing to be as quick as
+possible, so we hope our approach will prove useful in making these ideas
+reliable realities.”
+
+This research was supported by the Air Force Office of Scientific Research
+(FA9550-18-1-0187).
+
+CITATION: “Learned Integrated Sensing Pipeline: Reconfigurable Metasurface
+Transceivers as Trainable Physical Layer in an Artificial Neural Network.”
+Philipp del Hougne, Mohammadreza F. Imani, Aaron V. Diebold, Roarke
+Horstmeyer, and David R. Smith. Adv. Sci. 2019, 1901913. DOI:
+10.1002/advs.201901913
+
+# # #
+
+## Related News
+
+November 20, 2019
+
+### Machine Learning Microscope Adapts Lighting to Improve Diagnoses
+
+August 06, 2018
+
+### Ricocheting Radio Waves Monitor the Tiniest Movements in a Room
+
+March 26, 2018
+
+### Beyond Materials: From Invisibility Cloaks to Satellite Communications
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

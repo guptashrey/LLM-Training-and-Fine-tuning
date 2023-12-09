@@ -1,0 +1,173 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ECE Doctoral Graduate Ran Wang Wins International Award
+
+December 6, 2016
+
+Duke becomes first university to win competitive IEEE honor for a second time
+
+Ran Wang, a 2016 graduate of Duke University’s Electrical and Computer
+Engineering (ECE) PhD program, has won the 2016 IEEE Test Technology Technical
+Council's E. J. McCluskey Doctoral Thesis Award—an award given annually after
+an international competition for the best PhD thesis in the field. Wang’s
+doctoral thesis, titled “Testing of Interposer-Based 2.5D Integrated
+Circuits,” outlines methods for testing and verifying the functionality of an
+emerging microchip architecture.
+
+As modern microprocessors continue to increase in density while shrinking in
+size, they are beginning to approach hard physical limits. As technology
+companies struggle to fit more transistors in a flat, confined area, many are
+beginning to go vertical.
+
+Stacking microprocessors on top of one another to create 3D architectures
+promises to provide a leap forward in the number of connections and logic
+operations available to a processor. As is true for many technological leaps,
+however, it is easier said than done.
+
+As an intermediate step, many researchers are exploring so-called “2.5D”
+architectures, where computer scientists network microprocessors together
+through a base layer of connectivity called an interposer. Wang’s thesis
+presents methods to test and locate defects in these new, complicated computer
+architectures.
+
+Researchers have validated Wang’s results outside of simulations on silicon
+chips at AMD and NVIDIA, and commercial companies have used his methods in the
+design-for-test architectures for 2.5D microchips. His work has also led to
+successful defect screening for an interposer manufactured by GLOBALFOUNDRIES.
+
+“In terms of the significance and timeliness of his work, the quality and
+volume of his publications, the relevance to industry and demonstrations of
+transition to industry practice, and the impact of his work on the community
+at large, Ran has few peers,” said Krishnendu Chakrabarty, the William H.
+Younger Distinguished Professor of Engineering at Duke and Wang’s advisor. “I
+am thrilled that the award committee decided to reward him for his excellent
+PhD thesis.”
+
+The McCluskey Doctoral Thesis Award involves two stages. The first sees
+doctoral students compete at three separate international symposiums. The
+winners from these events then compete at the International Test Conference,
+held this year November 15-17 in Fort Worth, Texas. The award’s intent is to
+promote impactful doctoral student work, provide students with exposure to the
+community and prospective employers, and support interaction between academia
+and industry in the field of test technology.
+
+Wang is the second Duke ECE doctoral student to win the award recently, as
+Mahmut Yilmaz received the award in 2009, marking the first time one
+university has had two winners of the award. Duke was close to a third winner
+in 2008 as well, as ECE student Sudarshan Bahukudumbi was a runner-up that
+year.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

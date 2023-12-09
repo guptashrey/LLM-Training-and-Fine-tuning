@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Handle for Controlling Electromagnetic Properties Could Enable
+Spintronic Computing
+
+April 13, 2020 | By Ken Kingery
+
+The magnetic transition of troilite causes instabilities in the “space
+metal’s” structure that transforms it from a conductor to an insulator
+
+Materials scientists at Duke University have shown the first clear example
+that a material’s transition into a magnet can control instabilities in its
+crystalline structure that cause it to change from a conductor to an
+insulator.
+
+If researchers can learn to control this unique connection between physical
+properties identified in hexagonal iron sulfide, it could enable new
+technologies such as spintronic computing. The results appear April 13 in the
+journal _Nature Physics_.
+
+Commonly known as troilite, hexagonal iron sulfide can be found natively on
+Earth but is more abundant in meteorites, particularly those originating from
+the Moon and Mars. Rarely encountered in the Earth’s crust, most troilite on
+Earth is believed to have originated from space.
+
+Despite its relative rarity, troilite has been studied since 1862 without much
+fanfare. A recent theoretical paper, however, suggested that there might be
+novel physics at play between the temperatures of 289 and 602 degrees
+Fahrenheit—the temperature range at which troilite becomes both magnetic and
+an insulator.
+
+“The paper theorized that the way the atoms shift in their crystalline
+structure is impacting the mineral’s properties through a pretty complicated
+effect that hasn’t been seen before,” said Olivier Delaire, associate
+professor of mechanical engineering and materials science, physics and
+chemistry at Duke. “The most important aspect is this interaction between
+magnetic properties and atomic dynamics, which is a subject that has not been
+investigated a lot before but is opening up new possibilities in computing
+technologies.”
+
+To get to the heart of the material’s odd behavior, Delaire and his colleagues
+turned to Haidong Zhou, assistant professor of experimental condensed matter
+physics at the University of Tennessee, for the difficult task of growing
+perfect crystals of troilite. The researchers then took samples to Oak Ridge
+National Laboratory and Argonne National Laboratory to blast them with
+neutrons and x-rays, respectively.
+
+When particles such as neutrons or x-rays bounce off the atoms inside a
+material, researchers can take this scattering information to reconstruct its
+atomic structure and dynamics. Because neutrons have their own internal
+magnetic moment, they can also reveal the direction of each atom’s magnetic
+spin. But because neutrons interact weakly with atoms, x-rays are also very
+handy for resolving a material’s atomic structure and atomic vibrations in
+tiny crystals. The researchers compared results from the two different scans
+using quantum mechanical models created on a supercomputer at Lawrence
+Berkeley National Laboratory to make sure they understood what was happening.
+
+> “This is the first clear example that the alignment of magnetic spins can
+> control the instabilities of a material’s crystal structure. This is the
+> type of material that’s exciting in terms of enabling new types of devices.”
+
+After watching the changes that occur through troilite’s phase
+transformations, the researchers discovered previously unseen mechanisms at
+work. At high temperatures, the magnetic spins of troilite atoms point in
+random directions, making the material non-magnetic. But once the temperature
+drops below 602 degrees Fahrenheit, the magnetic moments naturally align and a
+magnet is born.
+
+The alignment of those magnetic spins shifts the vibration dynamics of the
+atoms. That shift causes the entire crystalline atomic structure to deform
+slightly, which in turn creates a band gap that electrons cannot jump across.
+This causes the troilite to lose its ability to conduct electricity.
+
+“This is the first clear example that the alignment of magnetic spins can
+control the instabilities of a material’s crystal structure,” said Delaire.
+“And because these instabilities lead to a connection between the crystal’s
+magnetic and conductivity properties, this is the type of material that’s
+exciting in terms of enabling new types of devices.”
+
+The ability to tune a material’s magnetic state by applying electrical
+currents, and vice versa, would be essential for the realization of
+technologies such as spin electronics, Delaire said. Known as spintronics for
+short, this emerging field seeks to use an electron’s intrinsic spin and
+associated magnetic moment to store and manipulate data. Combined with an
+electron’s traditional role in computing, this would allow computer processors
+to become denser and more efficient.
+
+Through this paper, Delaire and his colleagues have identified the magnetic
+controls of the distortion mechanisms of the crystal structure, giving
+researchers a handle to manipulate one with the other. While that handle is
+currently based in temperature changes, the next step for researchers is to
+look at applying external magnetic fields to see how they might affect the
+material’s atomic dynamics.
+
+Whether or not troilite becomes the new silicon for the next generation of
+computing technology, Delaire says finding this unique mechanism in such a
+well-known material is a good lesson for the entire field.
+
+“It’s surprising that, even though you have a compound that is relatively
+simple, you can have this fancy mechanism that could end up enabling new
+technologies,” said Delaire. “In a sense, it’s a wakeup call that we need to
+reconsider some of the simpler materials to look for similar effects
+elsewhere.”
+
+This research was supported by the Department of Energy (DE-SC0016166, DE-
+SC0019978, DE-AC02-06CH11357, DE-AC02-05CH11231, DE-AC05-00OR22725) and the
+National Science Foundation (DMR-1350002).
+
+CITATION: “Magnetically-Driven Phonon Instability Enables the Metal-Insulator
+Transition in h-FeS,” Dipanshu Bansal, Jennifer L. Niedziela, Stuart Calder,
+Tyson Lanigan-Atkins, Ryan Rawl, Ayman H. Said, Douglas L. Abernathy,
+Alexander I. Kolesnikov, Haidong Zhou, and Olivier Delaire. Nature Physics,
+April 13, 2020. DOI: 10.1038/s41567-020-0857-1
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

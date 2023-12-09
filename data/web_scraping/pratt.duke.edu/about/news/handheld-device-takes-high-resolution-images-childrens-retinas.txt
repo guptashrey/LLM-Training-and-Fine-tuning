@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Handheld Device Takes High-Resolution Images of Children's Retinas
+
+August 1, 2016 | By Ken Kingery
+
+Smallest, lightest handheld probe for optical coherence tomography provides
+insight into children's retinas
+
+Engineers and physicians at Duke University have developed a handheld device
+capable of capturing images of a retina with cellular resolution. The new
+probe will allow researchers to gather detailed structural information about
+the eyes of infants and toddlers for the first time.
+
+“Diagnostic tools that examine and image the retina have been well-designed
+for adults, but are exceedingly difficult to use in infants and young children
+who can’t hold the required position or focus for long enough periods of
+time,” said Cynthia Toth, professor of ophthalmology and biomedical
+engineering at Duke University. “Before now, it hasn’t been possible to
+measure the impact of injury or diseases on their photoreceptors—the cells in
+the eye in which light is first converted into nerve signals.”
+
+The eye presents a unique opportunity for research and imaging—it is not
+difficult to access, it’s relatively self-contained, improvements in function
+are easily measured and there’s even a natural opening to peer inside. But it
+is also delicate, with important structures buried millimeters below its
+various surfaces, so a wide range of technologies are needed to study it.
+
+Over the past three decades, one of the most popular of these has been optical
+coherence tomography (OCT). By shining specific frequencies of light into the
+eye’s tissues and comparing those reflections to identical but unimpeded light
+waves, researchers can build 3D images several millimeters deep of the back of
+the eye.
+
+The equipment, however, has traditionally been bulky, meaning the patient must
+sit still in front of the machine and remain focused on a particular point.
+And the process takes tens of minutes—an eternity to most toddlers, as any
+parent knows well.
+
+While handheld devices based on OCT and other technologies have been developed
+before, they are far from ideal. Some weigh several pounds, making holding
+them still over a child’s eye tiresome and difficult, and none provide a high
+enough resolution to see individual photoreceptors.
+
+In a new paper, published online on August 1, 2016, in Nature Photonics,
+researchers and ophthalmologists from Duke University present a new option.
+Their handheld device is about the size of a pack of cigarettes, weighs no
+more than a few slices of bread and is capable of gathering detailed
+information about the retina’s cellular structure.
+
+“This paper demonstrates the first time researchers have been able to directly
+measure the density of photoreceptors called cones in infants,” said Joseph
+Izatt, the Michael J. Fitzpatrick Professor of Engineering at Duke and a
+pioneer of OCT technology. “As such, it opens the door to new research that
+will be key in future diagnosis and care of hereditary diseases.”
+
+Without the ability to gather this sort of information, there is little to no
+data about how a child’s retina develops, as it matures by the age of 10. This
+limits our knowledge of how diseases affect a child’s vision early in life and
+makes diagnosis of these diseases more difficult.
+
+In the paper, a collaborative research group led by Izatt, Sina Farsiu,
+professor of ophthalmology and biomedical engineering at Duke, and Toth,
+detail the developments that made their new handheld device possible.
+
+A new type of smaller scanning mirror recently reached a point where it could
+replace larger, older models. A new design using converging rather than
+collimated light cut the telescoping length of the device by a third. Custom
+lenses detailing curvature, thickness and glass type were custom designed by
+first author Francesco LaRocca and specially fabricated. And a mechanical
+design to hold and integrate the components was designed by Derek
+Nankivil—who, with LaRocca, recently graduated with their PhDs from Duke-and
+fabricated in a machine shop on Duke’s campus.
+
+The new device was then given to clinicians for testing on adults, which
+proved that it was capable of getting accurate photoreceptor density
+information. It was also used for research imaging in children who were
+already having an eye exam under anesthesia.
+
+“But because children have never been imaged with these systems before,
+there’s no gold standard that we can compare it to,” said LaRocca. “The
+results do, however, match theories of how cones migrate as the eye matures.
+The tests also showed different microscopic pathological structures that are
+not normally possible to see with current lower-resolution clinical-grade
+handheld systems.”
+
+With the prototype being used by clinicians at Duke Health, the amount of
+information being gained from children’s scans could eventually create a
+database to give a much better picture of how the retina matures with age. The
+group is already working on the next generation of the design after getting
+feedback from clinicians on what can be improved.
+
+“At that point, we know a lot of collaborators at different institutions who
+would also like to get their hands on one of these,” said LaRocca.
+
+This work was supported by the National Institutes of Health (R21-EY021321 and
+R01-EY023039) and the Hartwell Foundation.
+
+“In vivo cellular-resolution retinal imaging in infants and children using an
+ultracompact handheld probe.” Francesco LaRocca, Derek Nankivil, Theodore
+DuBose, Cynthia A. Toth, Sina Farsiu and Joseph A. Izatt. Nature Photonics,
+2016. DOI: 10.1038/NPHOTON.2016.141
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

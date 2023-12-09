@@ -1,0 +1,242 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2016
+
+# Bleeding Duke Blue: Supercomputing and the Cardiovascular System
+
+April 27, 2016 | Samuel James
+
+Amanda Randles has been pioneering the use of supercomputing to solve
+biomedical problems
+
+When Amanda Randles was finishing her bachelor’s degree at Duke, the most
+powerful supercomputer in the world was BlueGene/L. The computer had a maximal
+achieved performance of 280.6 tera- FLOPS (28 trillion simple operations) per
+second, and Durham was better known for its crime rate than its food. Just
+over a decade later, Randles has returned to Duke as an assistant professor of
+biomedical engineering with a much improved city at her doorstep and superior
+supercomputing technology at her fingertips.
+
+After graduating with a dual degree in physics and computer science, Randles
+worked at IBM developing the BlueGene supercomputing project. After three
+years on the project, she went to Harvard University, where she received her
+master’s degree in computer science and a doctorate in applied physics. She
+then moved on to become a Lawrence Fellow at the Lawrence Livermore National
+Laboratory (LLNL).
+
+Since then, Randles has been pioneering the use of supercomputing to solve
+biomedical problems. Until recently, supercomputers were used almost
+exclusively by physicists and the military, but researchers like Randles noted
+that when it came to biomedical challenges, “There was so much data available,
+but not enough to do with it.”
+
+Using her extensive experience with supercomputing, Randles developed
+algorithms for high-performance supercomputers that can process the data from
+MRI and CT scans to generate hemodynamics models with the potential to
+revolutionize the way medical solutions are applied to individual patients.
+
+Randles takes advantage of high-performance supercomputing to simulate blood
+flow in the human vascular system. Her lab uses the Blue Gene/Q supercomputers
+at LLNL. The latest results were from Sequoia, a parallel, load-balancing
+system with a maximal achieved performance of over 16.32 petaFLOPS per second.
+That’s over 58 times the speed of the fastest supercomputer when she graduated
+from Duke in 2005.
+
+This massive computing power allows Randles to model patient- specific blood
+flow in large regions of the vasculature. By simulating flow at the scale of
+red blood cells, the 3-D simulation has the potential to accurately predict
+the movement of metastasizing cancer cells in the bloodstream. It also has the
+potential to identify areas at risk for plaque buildup and indicate the most
+efficient surgical options.
+
+## ****The Duke Difference
+
+While it’s true that Randles bled Duke Blue as an undergraduate, she
+ultimately decided to return because of the unique relationship between Pratt
+and the doctors at Duke Medicine.
+
+“Doctors actually come to my office,” says Randles. “That’s unheard-of at most
+other places.”
+
+And doctors have good reason to pay attention to Randles’s research. The
+algorithms she’s developing can be applied on a case-by-case basis, creating
+unique, patient-specific models to help doctors provide the most efficient and
+effective care possible. It will be a few more years before the research is
+ready to be implemented, but 3-D printed models are already proving the
+validity of the simulations.
+
+The close relationship between engineers at Pratt and doctors at the medical
+campus is a trademark of the biomedical engineering (BME) department at Duke.
+Randles, like other BME faculty, is a leader in creating novel engineering
+solutions to important healthcare problems. She was recently named one of five
+finalists for the Gordon Bell Prize in High-Performance Computing.
+
+The Gordon Bell Prize recognizes the extraordinary progress made each year in
+the innovative application of parallel computing to challenges in science,
+engineering and large-scale data analytics. It is considered an honor to be
+selected as a finalist for the prize, with hundreds of papers submitted for
+consideration. This is the second time Randles has been a finalist for the
+prize, the first being in 2010.
+
+## Supercomputing the Future
+
+Returning to Duke after a 10- year hiatus has been an interesting experience
+for Randles.
+
+“When I was a student, there were far fewer restaurant options and you
+typically went into downtown Durham only for Duke-sponsored events. Safety was
+also a concern,” says Randles. “Now downtown Durham is this really cool place.
+It’s definitely gotten a lot nicer. And the football team is actually winning
+games now, which hardly happened when I was here.”
+
+As Duke and Durham grow and evolve, so does supercomputing. In 10 years, the
+Durham Performing Arts Center, American Tobacco Campus and amazing restaurants
+have turned Durham into a vibrant city. Meanwhile, the maximal achieved
+performance of the fastest supercomputer has increased by 5000 percent.
+
+Randles’s research is already breaking ground, but with the current generation
+of supercomputers, only small regions of the cardiovascular system can be
+modeled. The scale of her research is limited by the technology available.
+
+“We need bigger, better supercomputers to model the entirety of the vascular
+system,” says Randles. “And those won’t exist for another decade or so.”
+
+In the meantime, she has plenty to keep her busy, as her current work focuses
+on making the red blood cells in the simulation deformable to make a more
+true-to-life model. However, the ultimate goal of Randles’s research is to
+provide doctors with patient-specific tools to diagnose, treat and study
+cardiovascular diseases.
+
+In 10 more years, supercomputers could be the cornerstone of modern medicine,
+a shining example of the importance of biomedical engineering as an
+intersection of engineering and medicine.
+
+_Samuel James is a freshman majoring in biomedical engineering._
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2016
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

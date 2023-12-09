@@ -1,0 +1,213 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# IonQ Raises $20M to Advance Quantum Computing for Commercial Applications
+
+July 28, 2017
+
+Company aims to bring quantum computers to market using differentiated ion-
+trapping approach
+
+IonQ, an early-stage company developing quantum computing for commercial
+applications, today announced completion of a $20 million series B round led
+by New Enterprise Associates (NEA) and GV (formerly Google Ventures), with
+participation from new strategic investors. Building on the pioneering work of
+world-renowned experts at the University of Maryland and Duke University, IonQ
+plans to bring general-purpose quantum computers to market by late 2018.
+
+"Efforts to harness quantum mechanics to accelerate computation have gained
+tremendous momentum in recent years, fueled by significant scientific progress
+and growing interest—and investment—by some of the world's largest
+governments, organizations and technology companies," said David Moehring,
+PhD, CEO of IonQ. "While there is much yet to be discovered about specific
+applications, there is a massive market clamoring for practical quantum
+computers. Building on the groundbreaking work of Chris Monroe and Jungsang
+Kim, IonQ's mission is to make reliable, scalable quantum computing a
+reality."
+
+IonQ's team comprises some of the world's foremost experts in the field of
+quantum computing. Co-founders Chris Monroe of University of Maryland and
+Jungsang Kim of Duke University are longtime collaborators, well-known for
+their pioneering work in ion-trap experiments. Ion trapping is the hallmark of
+IonQ's approach and a key differentiator from other efforts underway.
+Moehring, who joined as CEO in 2016, was most recently at U.S. Intelligence
+Advanced Research Projects Activity (IARPA), charged with oversight of
+government-sponsored quantum computing initiatives.
+
+"There is simply no team in the world with more expertise in trapped ion
+technology, or with greater understanding of the broader quantum computing
+landscape," said Ron Bernal, Venture Partner at NEA and a member of IonQ's
+board of directors. "We are incredibly excited to partner with Dave, Chris and
+Jungsang as they advance the field of quantum computing and develop a platform
+for its commercial applications."
+
+IonQ's trapped ions represent one of multiple approaches being explored to
+power a quantum computer. Most large technology companies initiating quantum
+computing research attempt to leverage their core semiconductor technology by
+developing superconducting qubits. IonQ believes trapped ion technology, which
+uses lasers to cool and isolate individual ions, will prevail because trapped
+ions are identical, more stable, can be better controlled, and are therefore
+likely to scale with better performance and greater predictability.
+
+"Quantum computers are the next giant leap in the ability to process
+information, and IonQ's promising approach builds on nearly two decades of
+research by highly regarded physicists and engineers in the field," said Blake
+Byers, General Partner at GV and a member of IonQ's board of directors.
+"Quantum computers have the potential to solve data-intensive problems in
+areas like healthcare, machine learning, and cryptography, and we're excited
+to partner with IonQ as it accelerates development."
+
+IonQ has raised approximately $22 million in total, with an earlier $2 million
+invested by NEA in 2016. The company has demonstrated significant momentum
+over the last year, adding several new board members and strategic advisors,
+expanding its product development team, and attracting growing interest from
+both the scientific and startupcommunities. In addition to Bernal and Byers,
+new board members include Jeong Kim, former president of Bell Labs, and Andrew
+Schoen, Principal at NEA. John Preskill, the Director of the Institute for
+Quantum Information at Caltech, and Jagdeep Singh, founder and CEO of
+QuantumScape, Lightera Networks, and Infinera, are serving as advisors to the
+company.
+
+**About IonQ**
+
+IonQ is developing world-leading general-purpose quantum information
+processors. Our unique trapped ion approach combines unmatched physical
+performance, perfect qubit replication, optical networkability, and highly-
+optimized algorithms to create a quantum computer that is as scalable as it is
+powerful, and that will support a broad array of applications across a variety
+of industries. IonQ is headquartered in College Park, MD and backed by New
+Enterprise Associates (NEA) and GV (formerly Google Ventures). Co-founders
+Christopher Monroe and Jungsang Kim are leading experts in the field of
+trapped-ion quantum computing. Professors Monroe and Kim also maintain large
+academic research groups at the University of Maryland and Duke University,
+respectively, with a combined government funding of roughly $10M per year.
+This pioneering work is the cornerstone of IonQ's uniquely scalable
+technology.
+
+**About Quantum Computing**
+
+Quantum computing represents a radical departure from classical computing and
+has the potential to overcome these limitations by embracing uniquely quantum
+phenomena, such as superposition and entanglement, that emerge at atomic
+scale. Quantum computers' ability to perform incredibly complex calculations
+and data processing exponentially faster than classical computers opens up a
+world of possible commercial and scientific applications. The potential is
+staggering, and though we are still in the early days of quantum computing, we
+anticipate that the technology will transform industries and facilitate
+breakthroughs in areas as disparate as machine learning, molecular interaction
+simulation, cryptography, financial analysis, logistics optimization, and big
+data search.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

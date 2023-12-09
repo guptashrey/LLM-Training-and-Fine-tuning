@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound Waves Separate Biological Nanoparticles for 'Liquid Biopsies'
+
+September 18, 2017 | By Ken Kingery
+
+A prototype device developed by an international team of engineers can sift
+exceedingly tiny particles called exosomes from blood samples without having
+to send samples off to a lab
+
+A prototype device developed by an international team of engineers can sift
+exceedingly tiny particles from blood samples without having to send samples
+off to a lab. The device, which combines acoustic cell-sorting and
+microfluidic technologies, could be a boon to both scientific research and
+medical applications.
+
+The system is optimized to sort out “exosomes,” biological nanoparticles
+released from every type of cell in the body. Thought to play a large role in
+cell-to-cell communication and disease transmission, they have been objects of
+scientific curiosity since their discovery three decades ago.
+
+The miniscule size of exosomes, however, makes them difficult to study and
+challenging to separate from their native biological fluids. Current practices
+involve spinning samples in a centrifuge for several hours or even days, often
+damaging the exosomes by subjecting them to extremely high gravitational
+forces. Even then, the procedure only captures a small fraction of the
+nanoparticles present in the biological fluid.
+
+In a paper appearing the week of Sept. 18 in the Proceedings of the National
+Academy of Sciences, researchers from Duke University, the University of
+Pittsburgh and Magee Womens Research Institute, the Massachusetts Institute of
+Technology and Nanyang Technological University Singapore, demonstrate a
+better method based on “acoustofluidics,” a combination of acoustics and
+microfluidics.
+
+The prototype device provides a gentle, automated, point-of-care system that
+allows single-step, on-chip isolation of exosomes from whole biological fluids
+with a high rate of purity and yield.
+
+The results could help researchers and clinicians learn more about exosomes
+and form the foundation for diagnostic or therapeutic devices. The device may
+enable diagnosis and monitoring of many conditions with a simple blood draw
+and ‘liquid biopsy,’ including cancer, concussions and diseases affecting the
+brain, kidney, liver and placenta.
+
+“Exosomes have significant potential in medical diagnosis and treatment, but
+the current technologies for exosome isolation suffer from drawbacks such as
+long turnaround time, inconsistency, low yield, contamination and uncertain
+exosome integrity,” said Tony Jun Huang, professor of mechanical engineering
+and materials science at Duke. “This work offers a new technique that can
+address these issues. We want to make extracting high-quality exosomes as
+simple as pushing a button and getting the desired samples within 10 minutes.”
+
+“The capability of this method to separate exosomes without altering their
+biological or physical characteristics potentially offers new pathways to
+assess human health as well as the onset and progression of diseases,” said
+Subra Suresh, co-corresponding author of the paper and president-designate of
+Nanyang Technological University Singapore, the 21st Century Professor of
+Biomechanics in Medicine at the University of Pittsburgh Medical School, and
+former president of Carnegie Mellon University.
+
+The prototype device built by Huang and his colleagues creates a high-
+frequency sound wave traveling at an angle to liquid flowing down a tiny tube.
+By carefully tailoring the angle and frequency of the sound wave to the length
+of the channel and size of the particles, they can push any particle bigger
+than 1,000 nanometers into a separate channel.
+
+This removes elements of blood such as white blood cells, red blood cells and
+platelets. The fluid then goes through a second chamber, where the same force
+is used to filter out everything smaller than 130 nanometers, which is about
+the size of most exosomes and 500 times smaller than the thickness of the
+human hair.
+
+The dual-stage technique showed the ability to separate more than 80 percent
+of exosomes present with a purity of 98 percent, compared to current methods
+that capture only 5 to 40 percent of exosomes.
+
+“The new device can eliminate all blood cells and platelets first before
+efficiently separating extracellular vesicles such as exosomes,” explained
+Ming Dao, director of the Nanomechanics Laboratory at MIT. “This new
+generation of integrated device design makes it possible for centrifugation-
+free sorting of different blood components, which can drastically reduce the
+cost and processing time involved with liquid biopsy assays.”
+
+“This will add a new dimension to research into ‘liquid biopsies’ and
+facilitate the clinical use of extracellular vesicles to inform the physiology
+and health of organs that are hard to access, such as the placenta during
+human pregnancy,” said Yoel Sadovsky, director of the Magee-Womens Research
+Institute at the University of Pittsburgh. “While using exosomes for these
+purposes is not yet proven, that is the promise of our research.”
+
+This work was supported by the National Institutes of Health (R01 HD086325)
+and the National Science Foundation (IIP-1534645).
+
+CITATION: “Isolation of exosomes from whole blood by integrating acoustics and
+microfluidics,” Mengxi Wu, Yingshi Ouyang, Zeyu Wang, Rui Zhang, Po-Hsun
+Huang, Chuyi Chen, Hui Li, Peng Li, David Quinn, Ming Dao, Subra Suresh, Yoel
+Sadovsky, Tony Jun Huang. PNAS, Sept. 18, 2017. DOI: 10.1073/pnas.1709210114
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

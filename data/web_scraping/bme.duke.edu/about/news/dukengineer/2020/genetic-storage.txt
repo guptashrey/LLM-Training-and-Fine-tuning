@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2020
+
+# The Future of Data is Genetic Storage
+
+March 1, 2020 | By Ryan Piersma
+
+DNA-based data storage carries one hundred million times more information per
+gram than modern disk drives
+
+Could you imagine having your Spotify playlists stored in DNA? If not, then
+buckle your seatbelts, because top research scientists in the fields of
+genetics and computer science have realized DNA's potential as an efficient
+storage mechanism.
+
+The realization of this seemingly science fiction technology opens the
+prospect of encoding any and all data, from the government's secret
+intelligence to your weekly calendar, into DNA strands. With a theoretical
+storage capacity of 215 petabytes of information per gram (where "peta"
+represents a mind-boggling 1015), DNA is on track to become the most compact
+storage medium ever.
+
+To put things into perspective, the largest hard drives in today's computers
+are on the order of 0.001 petabytes, but weigh roughly 500 times as much as
+DNA. That makes DNA one hundred million times better than your disk drive in
+terms of storage capacity.
+
+The first notable use of DNA as storage was in 1988 for a novelty artistic
+collaboration. Avant-garde artist and biological researcher Joe Davis worked
+with genetics researchers at Harvard and the University of California to store
+35 bits of data encoded into the shape of an ancient Germanic rune via DNA.
+
+Today, researchers at Microsoft and the University of Washington have built
+the world's first automated system that can read and write to DNA. The MIT-
+based startup CATALOG has reportedly been able to store the entire repository
+of English-language Wikipedia pages in a small vial of DNA. Adding to these
+impressive achievements is the fact that the storage error rates associated
+with these projects is already on par or better than currently mass-produced
+means of storage such as hard disk drives or solid-state drives.
+
+However, these astounding breakthroughs haven't come without challenges.
+Despite DNA's optimal storage capacity, it has been remarkably hard to take
+advantage of its full potential. Researchers are still in the developmental
+stage, striving to reach the optimal 1.8 bits of storage per nucleotide.
+
+Naturally, DNA is part of a living organism, so using it as a storage medium
+outside of a living system comes with difficulties. In nature, DNA is
+continually replicated in living organisms and has a high probability of
+eventually mutating in the genome. Interestingly enough, the DNA used in all
+of these experiments was completely synthetic and designed to hold information
+using codes very dissimilar to those in living organisms.
+
+The cost of DNA storage technology, unfortunately, remains prohibitive. As
+long as this remains the case, DNA technology will not be found on the market.
+However, researchers around the globe are working to reduce the cost so that
+the technology can one day be introduced to the global market.
+
+As a current Duke researcher in the field of computing, the advent of such a
+radically new storage mechanism would greatly affect work being done here at
+Duke and across the globe. In Professor Benjamin C. Lee's Systems Architecture
+Integration Laboratory, where I have performed research over the past couple
+years, the research impact of a new storage technology would be enormous.
+
+New research would endeavor to spell out the specific characteristics of how
+exactly a DNA drive would be read from and written to, as well as how a DNA
+hard drive might integrate with the common components we use for computer
+systems today. The prospect of DNA hard drives immediately introduces a
+multitude of questions with regards to computer systems: How do we ensure that
+data on a DNA hard drive would be kept secure? What is the most effective way
+to interface with a DNA hard drive? Can existing mechanisms be properly
+adapted to handle communication with one of these drives?
+
+Humanity has entered the information age and is producing data at rates never
+seen before in history. New technologies are needed in order to preserve all
+of this data. This is the motivation behind gearing up to use DNA as a storage
+medium. Although there is currently no way for you to download games to a DNA-
+based hard drive, there almost certainly will be in the near future!
+
+**Ryan Piersma is a senior studying electrical engineering and computer
+science.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2020
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

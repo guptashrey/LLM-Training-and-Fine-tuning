@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Improving Energy Storage With a Cue From Nature
+
+August 27, 2015
+
+_Adrian Bejan, the J.A. Jones Professor of Mechanical Engineering, recently
+had a publication selected as the Editor’s Choice in the Journal of Applied
+Physics. Titled “Morphing tree structures for latent thermal energy storage,”
+the paper was also the journal’s top downloaded article for the month._
+
+_The following story about the research was published onEurekAlert by the
+American Institute of Physics._
+
+Materials melt faster when the lines of heat spread through the cold material
+like the branches of a tree -- and the melting rate can be steadily increased
+by allowing the tree architecture to freely evolve over time, researchers have
+discovered. The finding could help improve phase change energy storage
+systems, which store heat by melting materials like wax or salt, and could
+play an important role in ensuring a smooth flow of energy from renewable
+sources like the wind and sun. The researchers report the results in the
+_Journal of Applied Physics_ , from AIP Publishing.
+
+Branching patterns, like the ones the researchers investigated in melting
+materials, pop up repeatedly in nature, from treetop canopies to spreading
+river deltas. Similar patterns emerge across seemingly distinct systems
+because the same basic physical law is driving the evolutionary design, said
+Adrian Bejan, a professor at Duke University in Durham, North Carolina.
+
+In 1996, Bejan identified the physics behind these branching natural designs
+with a new principle he called the "Constructal Law," which states that for
+flow systems -- like rivers or trees -- to survive, they must evolve over time
+to provide easier and easier access to the currents that flow through them. In
+practice this means that a river will shift course as it spreads into the sea
+to avoid obstructions caused by settling sediment, and a plant will reorient
+its branches in a constant effort to facilitate nutrient and water flow.
+
+In the following two decades, Bejan and his colleagues have shown how the
+evolution of various natural and man-made designs, from snowflakes to
+airplanes, is explained by the Constructal Law.
+
+"There is organization happening naturally all around us, and the Constructal
+Law is the physics principle that underpins it," said Bejan. "What's left is
+to be wise and to rely on the principle to fast-forward the design of
+technology."
+
+In the new paper Bejan, along with fellow researchers from Duke University and
+the UniversitÃ© de Toulouse in France, have applied the law to increase the
+performance of the technology of phase change energy storage.
+
+Phase change energy storage systems take advantage of the fact that materials
+can store or release large amounts of thermal energy at a steady temperature
+when they undergo a phase change like melting or freezing. They can be used in
+buildings to soak up heat during the day and release it again at night, in
+spacecraft to manage heat flow, and in solar power installations to store
+excess energy.
+
+"The traditional architecture is to embed a heating and cooling coil in the
+phase change material, but our research shows that what happens naturally is
+also the best way to spread the heat into the volume: it is a dendritic
+structure, like a hand with many fingers," Bejan said. The researchers
+discovered the overall melting rate increased by allowing the length, number
+and branching angle of the "fingers" to evolve over time.
+
+A faster melting rate is important because it means that thermal energy is
+efficiently transferred to the finite amount of phase change material in the
+system. Maximizing the heat transfer to the phase change material is
+especially important if the system is used to store energy in a vehicle where
+any excess weight could slow it down, Bejan added.
+
+In general, the more complex the branching structures, the faster the melting
+process, but there is a law of diminishing returns. "Imagine building a
+branching structure, with billions of tiny, tiny fingers touching at the tips.
+You'd say forget it!" Bejan said. In the end, a human designer will choose to
+interrupt the sequence of improvements at a certain point because of the costs
+and time that come with added complexity.
+
+The Constructal Law shows that natural systems are constantly evolving.
+Technology will follow the same path, Bejan said. "You can imagine that the
+phase change technology of the day would have a fixed tree-shaped
+architecture, but it would be overtaken in the following years by even better
+architecture," Bejan said.
+
+###
+
+The article, "Morphing tree structures for latent thermal energy storage," is
+authored by S. Ziaei, S. Lorente and A. Bejan. It will be published in the
+_Journal of Applied Physics_ on June 9, 2015 (DOI: 10.1063/1.4921442). After
+that date, it can be accessed at:
+https://aip.scitation.org/doi/full/10.1063/1.4921442
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

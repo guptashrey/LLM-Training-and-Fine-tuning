@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Laser Love
+
+February 6, 2019 | by Miranda Volborth
+
+ECE student Aditi Dighe’s lifelong fascination with photonics may lead to a
+patent as well as a PhD
+
+Aditi Dighe’s eyes sparkle and she beams a megawatt smile as she remembers how
+she fell in love—with lasers.
+
+She was first introduced to lasers by India’s Department of Atomic Energy, as
+part of a “Science Days” event at her primary school. Dighe was one of lucky
+handful of students who got to look behind the scenes at a research facility
+where scientists demonstrated some of the many uses for lasers. She saw how
+they were used in welding, and how they could cut beautiful, intricate
+patterns in different materials. To young Dighe, lasers were as close to magic
+as anything she had ever seen. And when she was nine years old and suffered a
+chlorine infection across her face that left her skin devoid of pigment, the
+laser treatment that she later underwent to restore her skin tone wasn’t
+scary. She didn’t mind the shallow furrows the lasers engraved on her skin, so
+entranced was she by the way the newly grafted skin pigments, activated by UV
+light, blossomed and spread across her face over the course of several months.
+
+“My laser love grew stronger,” Dighe laughs. “I know that sounds silly, but it
+was super cool, that my skin changed colors because of the laser. It changed
+my life.”
+
+As a college student, Dighe was accepted for a summer internship in the lab of
+Duke ECE professor Steven Cummer. Her perception of Duke ECE—small and
+friendly, and competitive in the field—was one part of what spurred her to
+apply to its PhD program after she finished her undergraduate degree in
+electrical engineering from the Indian Institute of Technology (IIT)
+Gandhinagar. The other part was the reputation of Professor Nan Jokerst, whose
+fascination with photonics equals Dighe’s.
+
+Now a sixth-year PhD candidate in Jokerst’s lab, Dighe has channeled her
+passion into a project that could result in a patent as well as a PhD.
+
+Dighe works on lab-on-a-chip applications, which, as their name suggests, move
+traditional lab processes onto the surface of a chip. Apart from their use in
+medical diagnostics, the devices hold potential for applications like rapid
+chemical analysis and environmental monitoring.
+
+Duke ECE professor Richard Fair has been working on these devices since the
+early 2000s, and has learned to control microdroplets with electric currents,
+directing them to specific points on a silicon chip. But at that point the
+characteristics of the resulting configuration and constitution of droplets
+still must be observed using cameras, microscopes or other bulky lens setups.
+
+Dighe’s lab-on-a-chip design is different. A tiny fluorescence detector of her
+own creation is bonded to one of the two plates between which Fair’s system is
+sandwiched; the detector senses light emitted by fluorescent tracking
+particles called fluorophores in the solution, and eliminates the need for
+extra optical equipment for sensing.
+
+> The detector senses light emitted by fluorescent tracking particles called
+> fluorophores in the solution, and eliminates the need for extra optical
+> equipment for sensing.
+
+The photodetector produces a current that corresponds with that level of
+intensity of light emitted by the fluorophores—high current for a high
+intensity light, low current for a low intensity light.
+
+When Dighe has hammered out a predictive model for how different
+concentrations of solution emit different levels of light, a single
+measurement of current should be able to tell her the concentration of the
+sample she’s investigating. It takes only a tenth of a millisecond to get the
+necessary measurement; it’s essentially instantaneous. And in addition to
+saving time, the tiny scale of the lab-on-a-chip platform saves money on
+reagents used for testing.
+
+The remaining challenge, said Dighe, is designing the experimental setup
+necessary to automate the entire process. She’s still figuring out exactly how
+to both direct the droplets and measure the fluorescence intensity for
+predictable, repeatable performance.
+
+When she manages those tasks, Dighe said, they’ll have taken another step
+towards a true lab on a chip.
+
+Dighe presented her first, long-awaited paper on her project at IEEE Sensors
+2018 in Delhi in November, then followed up by presenting a poster on her work
+at IIT Mandi, where her mentor was delivering a keynote at the International
+Workshop on Nano/Micro 2D/3D Fabrication.
+
+Jokerst, who directs the Shared Materials Instrumentation Facility (SMIF) at
+Duke, teaches a course on nanotechnology via a free online platform called
+Coursera, which has proven to be hugely popular with young people in India—an
+outcome that Dighe, who has done video demonstrations of a plasma-enhanced
+chemical vapor deposition system and electron beam evaporation for the
+course—finds quite gratifying.
+
+“As a student I did not have easy access to a cleanroom,” said Dighe. “For
+many students who are taking introductory courses in chemical engineering or
+electrical engineering, to see a video like that—it’s a great learning
+opportunity.”
+
+If they’re as lucky as Dighe, the simple introduction could grow into a great,
+career-shaping love.
+
+More News From ECE
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

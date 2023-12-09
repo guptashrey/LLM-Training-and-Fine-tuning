@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineering a Smarter Stride
+
+April 15, 2015 | By Ken Kingery
+
+Duke engineering student Ivonna Dumanyan is starting a business that makes
+sensors to detect improper running form.
+
+If you asked Ivonna Dumanyan just five years ago where she’d be today,
+starting a running tech company at Duke University would never have crossed
+her mind. But thanks to a lot of hard work and the entrepreneurial resources
+provided across Duke’s campus, her present-day reality has outstripped her
+imagination.
+
+Born in the Ukraine, Dumanyan immigrated to the United States with her family
+when she was five years old. She spent the next twelve years growing up in the
+southern New Jersey city of Vineland, attending a large but academically
+challenged school district. Without expecting much to come of her dedicated
+hard work, Dumanyan envisioned starting out at the local community college for
+two years or following her passion for rowing to an athletic scholarship at a
+larger university.
+
+“I honestly didn’t think that I’d ever be coming to such a prestigious
+university, but Duke has proven me wrong in a really good way,” says Dumanyan,
+who received a full academic scholarship to attend the school. “Duke has given
+me everything I need to make it here, and as soon as I got here all the doors
+just seemed to open for anything that I tried to do.”
+
+Dumanyan joined the crew team and pursued a degree in the Department of
+Mechanical Engineering and Materials Science in Duke’s Pratt School of
+Engineering. But just a year into her education, her path took yet another
+detour when she befriended Gabrielle Levac.
+
+Levac was two years ahead of Dumanyan and an accomplished athlete on Duke’s
+track team majoring in statistics. She also had a history of injuries, having
+had multiple surgeries before she even turned 21. The two lamented that there
+were few—if any—resources outside of the training room for athletes to monitor
+their form with.
+
+So they decided to do something about it.
+
+“At the beginning of last summer, I thought to myself, ‘Why not go for it?
+Let’s give it a try,’” recalls Dumanyan, now a junior. “We decided to build a
+device to detect abnormalities in running form.”
+
+Levac, who graduated from Trinity in 2014, had plenty of experience running
+and knew what competitive athletes could use in such a sensor. But as
+statistics and mechanics buffs, neither had any experience at all with
+electrical and computer engineering. The pair would have to look outside of
+their own curriculum to pursue their ambitions—a prospect that proved to be no
+problem at all.
+
+Dumanyan applied for a fellowship through Duke’s Smart Home Program, which
+enables students to do project-based design research in their engineering
+major and receive independent study course credit. With the fellowship’s
+support, she began testing different ways of tracking heel stability through
+pressure sensors, accelerometers, and gyroscopes.
+
+She also received financial and technical support through Duke’s Innovation
+Co-Lab, which offers a grant program for building the next wave of technology
+for the Duke Community. Her grant provided funding for materials like sensors
+and batteries for prototyping, and the Co-Lab’s office hours provided vital
+technical help.
+
+She also knocked on a lot of doors.
+
+“Quite honestly, I just popped into office hours for some of the Electrical
+and Computer Engineering classes and asked questions,” says Dumanyan. “I’ve
+been warmly received everywhere I’ve asked for help, which has been a
+fantastic experience.”
+
+The device that has evolved from the project uses gyroscopes and
+accelerometers adhered directly to the skin of a runner’s heel to measure its
+displacement, which is a metric for measuring pronation. Pronation is the
+inward or outward motion of the heel that causes a collapse or outward bowing
+of the foot’s arch.
+
+Since pronation is an inherent instability, it causes a lot of problems
+elsewhere in the body—in the knees, hips, ankles and back. And over pronating
+or under pronating can be quite painful on the foot. It’s been linked to
+planar fasciitis, one of the most common causes of heel pain involving
+inflammation of a thick band of tissue. The goal of the sensor system is to
+detect when a runner’s foot is pronating incorrectly and warn the athlete so
+that he or she can correct their form or even stop and strengthen before an
+injury occurs.
+
+In mid-March 2015, Dumanyan and Levac were ready to formally test their
+working prototype by putting it on some actual athletes and gathering real
+data. Their plan is to compare their data with traditional running mechanics
+analytics taken from video to prove their device is accurate. Once the data
+and device are independently certified by two separate physical therapists, an
+angel has already committed to shepherd the budding company through the
+manufacturing of beta devices, the development of an integrated app, and the
+launching of a Kickstarter campaign.
+
+If all goes to plan, the company they’ve dubbed BioMetrix could have its
+funding campaign launched by November 2015.
+
+“The whole process has raised my self-confidence quite a bit,” says Dumanyan,
+who has since left rowing and become more serious about running with Levac’s
+support and training. “I’ve realized that, while we’re getting a degree from
+Pratt, we’re not confined to the major we’re in. We’re not in a box—we’re in a
+fluid system where the exchange of ideas and talents is free-flowing.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

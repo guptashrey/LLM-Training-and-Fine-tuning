@@ -1,0 +1,353 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Miroslav Pajic
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Dickinson Family Associate Professor
+
+Miroslav Pajic's research focuses on design and analysis of cyber-physical
+systems with varying levels of autonomy and human interaction, at the
+intersection of (more traditional) areas of embedded systems, AI, learning and
+controls, formal methods and robotics.
+
+## Appointments and Affiliations
+
+  * Dickinson Family Associate Professor
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Associate Professor in the Thomas Lord Department of Mechanical
+    Engineering and Materials Science
+  * Associate Professor of Computer Science
+
+## Contact Information
+
+  * **Email Address:** miroslav.pajic@duke.edu
+  * **Websites:**
+    * Webpage
+
+## Education
+
+  * Ph.D. University of Pennsylvania, 2012
+
+## Research Interests
+
+Design and analysis of autonomous cyber-physical systems (CPS), and in
+particular, embedded systems, AI, learning and controls, CPS security and
+high-assurance autonomy, with various application domains including robotics,
+automotive, and medical systems
+
+## Courses Taught
+
+  * ECE 292: Projects in Electrical and Computer Engineering
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 459: Introduction to Embedded Systems
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 495: Special Topics in Electrical and Computer Engineering
+  * ECE 496: Special Topics in Electrical and Computer Engineering
+  * ECE 567: Cyber-Physical System Design
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * EGR 393: Research Projects in Engineering
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * MENG 550: Master of Engineering Internship/Project
+  * MENG 551: Master of Engineering Internship/Project Assessment
+  * MENG 552: Master of Engineering Supplemental Internship
+
+## In the News
+
+  * In Driverless Cars, Objects May Be Dangerously Close (Mar 15, 2022 | Pratt
+    School of Engineering)
+  * Meet the Newly Tenured Faculty of 2021 (Sep 21, 2021 | Office of Faculty
+    Advancement)
+  * Finding Free Bytes for Security (Oct 12, 2018 | Pratt School of
+    Engineering)
+  * Duke Partners with NSF, Others to Secure and Protect the Emerging Internet
+    of Things (Aug 31, 2015 | Duke Today)
+  * Miroslav Pajic: Making Smart Systems That Interact with the Physical World
+    (Apr 2, 2015 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Pajic, M., J. Park, I. Lee, G. J. Pappas, and O. Sokolsky. “Automatic
+    Verification of Linear Controller Software,” 217–26. IEEE, 2015.
+    https://doi.org/10.1109/EMSOFT.2015.7318277.
+  * Ivanov, R, Janine A., Janine A. Atanasov, N, M. Pajic, M. Pappas, G.J.,
+    and M. Lee, I. “Robust Estimation Using Context-Aware Filtering,” 2015.
+  * Jakovljevic, Z., P. B. Petrovic, D. Milkovic, and M. Pajic. “Diagnosis of
+    irregularities in the robotized part mating process based on contextual
+    recognition of contact states transitions.” Assembly Automation 35, no. 2
+    (April 7, 2015): 190–99. https://doi.org/10.1108/AA-10-2014-077.
+  * Jakovljevic, Z., R. Puzovic, and M. Pajic. “Recognition of Planar Segments
+    in Point Cloud based on Wavelet Transform.” Ieee Transactions on
+    Industrial Informatics, April 2015, 342–52.
+    https://doi.org/10.1109/TII.2015.2389195.
+  * Gatsis, K., M. Pajic, A. Ribeiro, and G. J. Pappas. “Opportunistic Control
+    Over Shared Wireless Channels.” Ieee Transactions on Automatic Control,
+    March 2015, 3140–55. https://doi.org/10.1109/TAC.2015.2416922.
+  * Faruque, M. A. A., F. Regazzoni, and M. Pajic. “Design methodologies for
+    securing cyber-physical systems.” In Proceedings of the 10th International
+    Conference on Hardware/Software Codesign and System Synthesis
+    (Codes+Isss), edited by G. Nicolescu and A. Gerstlauer, 30–36. IEEE, 2015.
+    https://doi.org/10.1109/CODESISSS.2015.7331365.
+  * Park, J., R. Ivanov, J. Weimer, M. Pajic, and I. Lee. “Sensor attack
+    detection in the presence of transient faults.” In Proceedings of the 6th
+    Acm/Ieee International Conference on Cyber Physical Systems (Iccps),
+    edited by A. M. Bayen and M. S. Branicky, 1–10. ACM, 2015.
+    https://doi.org/10.1145/2735960.2735984.
+  * Jiang, Z., M. Pajic, R. Alur, and R. Mangharam. “Closed-loop verification
+    of medical devices with model abstraction and refinement.” International
+    Journal on Software Tools for Technology Transfer 16, no. 2 (April 1,
+    2014): 191–213. https://doi.org/10.1007/s10009-013-0289-7.
+  * Pajic, M., J. Weimer, N. Bezzo, P. Tabuada, O. Sokolsky, Insup Lee, and G.
+    J. Pappas. “Robustness of attack-resilient state estimators.” In Cyber
+    Physical Systems (Iccps), 2014 Acm/Ieee International Conference On,
+    163–74, 2014. https://doi.org/10.1109/ICCPS.2014.6843720.
+  * Gatsis, K., M. Pajic, A. Ribeiro, and G. J. Pappas. “Opportunistic
+    scheduling of control tasks over shared wireless channels.” In Cyber
+    Physical Systems (Iccps), 2014 Acm/Ieee International Conference On,
+    48–59, 2014. https://doi.org/10.1109/ICCPS.2014.6843710.
+  * Ivanov, R., M. Pajic, and Insup Lee. “Attack-resilient sensor fusion.” In
+    Design, Automation and Test in Europe Conference and Exhibition (Date),
+    2014, 1–6, 2014. https://doi.org/10.7873/DATE.2014.067.
+  * Pajic, M., Z. Jiang, I. Lee, O. Sokolsky, and R. Mangharam. “Safety-
+    critical medical device development using the UPP2SF model translation
+    tool.” Transactions on Embedded Computing Systems 13, no. 4 SPEC. ISSUE
+    (January 1, 2014). https://doi.org/10.1145/2584651.
+  * Pajic, M., S. Sundaram, and G. J. Pappas. “Stabilizability over
+    deterministic relay networks.” In Decision and Control (Cdc), 2013 Ieee
+    52nd Annual Conference On, 4018–23, 2013.
+    https://doi.org/10.1109/CDC.2013.6760504.
+  * Pajic, M., R. Mangharam, G. J. Pappas, and S. Sundaram. “Topological
+    conditions for in-network stabilization of dynamical systems.” Ieee
+    Journal on Selected Areas in Communications 31, no. 4 (April 4, 2013):
+    794–807. https://doi.org/10.1109/JSAC.2013.130415.
+  * Pajic, M., A. Chernoguzov, and R. Mangharam. “Robust architectures for
+    embedded wireless network control and actuation.” Transactions on Embedded
+    Computing Systems 11, no. 4 (December 1, 2012).
+    https://doi.org/10.1145/2362336.2362349.
+  * Pajic, Miroslav, Rahul Mangharam, Oleg Sokolsky, David Arney, Julian
+    Goldman, and Insup Lee. “Model-Driven Safety Analysis of Closed-Loop
+    Medical Systems.” Ieee Transactions on Industrial Informatics, October
+    2012. https://doi.org/10.1109/tii.2012.2226594.
+  * Pajic, M., Zhihao Jiang, Insup Lee, O. Sokolsky, and R. Mangharam. “From
+    Verification to Implementation: A Model Translation Tool and a Pacemaker
+    Case Study.” In Real Time and Embedded Technology and Applications
+    Symposium (Rtas), 2012 Ieee 18th, 173–84, 2012.
+    https://doi.org/10.1109/RTAS.2012.25.
+  * Zhihao, Jiang, M. Pajic, and R. Mangharam. “Cyber-Physical Modeling of
+    Implantable Cardiac Medical Devices.” Proceedings of the Ieee 100, no. 1
+    (January 2012): 122–37. https://doi.org/10.1109/JPROC.2011.2161241.
+  * Pajic, Miroslav, Shreyas Sundaram, Jerome Le Ny, George J. Pappas, and
+    Rahul Mangharam. “Closing the Loop: A Simple Distributed Method for
+    Control over Wireless Networks.” In Proceedings of the 11th International
+    Conference on Information Processing in Sensor Networks, 25–36. ACM, 2012.
+    https://doi.org/10.1145/2185677.2185681.
+  * Jiang, Zhihao, Miroslav Pajic, Salar Moarref, Rajeev Alur, and Rahul
+    Mangharam. “Modeling and Verification of a Dual Chamber Implantable
+    Pacemaker.” In Proceedings of the 18th International Conference on Tools
+    and Algorithms for the Construction and Analysis of Systems, 188–203.
+    Springer-Verlag, 2012. https://doi.org/10.1007/978-3-642-28756-5_14.
+  * Jiang, Zhihao, Miroslav Pajic, Salar Moarref, Rajeev Alur, and Rahul
+    Mangharam. “Modeling and Verification of a Dual Chamber Implantable
+    Pacemaker.” In Tools and Algorithms for the Construction and Analysis of
+    Systems, edited by Cormac Flanagan and Barbara KÃ nig, 7214:188–203.
+    Springer Berlin Heidelberg, 2012.
+    https://doi.org/10.1007/978-3-642-28756-5_14.
+  * Pajic, M., S. Sundaram, G. J. Pappas, and R. Mangharam. “The wireless
+    control network: A new approach for control over networks.” Ieee
+    Transactions on Automatic Control 56, no. 10 (October 1, 2011): 2305–18.
+    https://doi.org/10.1109/TAC.2011.2163864.
+  * Ivanov, R., Achim J., M. Pajic, and M. Lee, I. “Attack-Resilient Sensor
+    Fusion for Safety-Critical Cyber-Physical Systems (Accepted).” Acm
+    Transactions on Embedded Computing Systems, n.d.
+  * Pajic, M., M. Tabuada, P., M. Lee, I., and M. Pappas, G.J. “Attack-
+    Resilient State Estimation in the Presence of Noise,” 527–32, n.d.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

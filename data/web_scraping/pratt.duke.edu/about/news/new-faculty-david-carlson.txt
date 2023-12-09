@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# David Carlson: Generating Scientific Understanding from Machine Learning
+
+August 24, 2017
+
+New faculty member David Carlson will help researchers campus-wide adapt
+machine learning algorithms to their datasets
+
+David Carlson has joined the faculty of Duke University’s Department of Civil
+and Environmental Engineering with a dual appointment in the Department of
+Biostatistics and Bioinformatics. A data scientist who tailors machine-
+learning algorithms to a wide variety of projects in population and
+environmental health, Carlson will connect researchers campus-wide.
+
+It’s a campus that he is intimately familiar with; Carlson earned a
+bachelor’s, master’s and doctoral degree at Duke before moving to a
+postdoctoral researcher position at Columbia University for a year. After a
+search for a permanent faculty position yielded several offers, he decided
+that there really is no place like home.
+
+Machine learning is a fast-growing field in which researchers teach computers
+how to identify significant patterns in datasets in ways that humans cannot.
+While these patterns often lead to valuable insights and surprisingly accurate
+predictions, it is not always clear how the machine-learning algorithms arrive
+at their conclusions.
+
+Carlson works to design transparent algorithms that reveal their inner
+workings as well as their predictive results. With this information,
+researchers can then design new experiments to dial in on scientific
+knowledge. These efforts often require extensive work to understand and
+manipulate the complex mathematical underpinnings of these algorithms.
+
+For example, a recent project saw Carlson working with Kafui Dzirasa,
+assistant professor of psychiatry and behavioral studies, biomedical
+engineering, neurobiology and neurosurgery at Duke, to evaluate how changes in
+the brain correlate with psychiatric outcomes. Working with mouse models of
+depression, the duo looked to relate neural signals to depression and
+susceptibility to depression. After such signals were identified, the team
+manipulated that neural activity to validate their findings, which resulted in
+a significant improvement in the mouse’s responses to behavioral tests.
+
+“If you understand why the machine learning algorithm made the decisions that
+it did, then you can design an experiment to find out what makes those
+conditions and variables important to the outcome,” said Carlson. “That’s
+going to happen more and more with modern science due to the growing ability
+to collect Big Data.”
+
+Big Data is, however, a relative term. While tech giants like Google may be
+able to draw data from millions of users making billions of decisions,
+healthcare professionals are rarely so lucky. With these limitations in mind,
+Carlson is working to design algorithms to deal with relatively narrow
+datasets.
+
+In his current role as a postdoctoral researcher at Duke, Carlson worked with
+Geraldine Dawson, director of the Duke Center for Autism and Brain
+Development, to try to determine which neural patterns may be signals of
+autism. While the study only had 25 patients, Dawson collected a vast amount
+of data on each one.
+
+“You want to leverage the strengths of this data resource, but do it in a way
+that will generalize to a wide population from a pretty small subset of
+people,” said Carlson. “A lot of my work is balancing the big and small
+aspects of what we’re analyzing.”
+
+As Carlson transitions from postdoc to professorship, he will continue work on
+his past projects on data science for population health while exploring new
+collaborations in environmental engineering and other fields across campus.
+
+“We have incredible people in CEE, biostatistics and at the hospital that have
+excellent data sources. We need to start tying these connections together to
+make the data work for us to draw conclusions,” said Carlson. “Duke is just a
+phenomenal place with resources both in the medical and engineering schools
+that will allow me to do things that I may not be able to do anywhere else.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

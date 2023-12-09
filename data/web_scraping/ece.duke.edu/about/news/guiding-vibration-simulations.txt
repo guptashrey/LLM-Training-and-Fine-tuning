@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Guiding Vibration Simulations for Turbines
+
+May 20, 2019
+
+The Duke-led GUIde Consortium develops faster, more accurate simulations of
+turbine blade vibrations to help the industry engineer safer jet turbines with
+lower maintenance costs
+
+If you’ve ever felt frustrated while staring at a little spinning pinwheel
+while a computer finishes a task, try waiting for six weeks.
+
+That’s the situation aeronautical engineers often find themselves in when
+designing new turbine. With multiple fan blades spinning thousands of times
+per minute and air flows moving faster than the speed of sound, accurately
+modeling the complex machine is a daunting challenge.
+
+Virtually all commercial aircraft use turbine engines and 90 percent of the
+world’s electricity is produced by turbines. In the early 1990s, the world’s
+leading turbine manufacturers, U. S. Air Force and NASA came together with
+academic experts and a software company to form the GUIde Consortium to
+address the “grand challenges” in turbomachinery aeromechanics. Now in its
+sixth iteration, the program works to cut the time the pinwheel spins from
+weeks to days at the same time increasing the simulation’s accuracy.
+
+“The GUIde Consortium funds pre-competitive research to meet the needs for the
+design methods of it’s members,” said Robert Kielb, director of the GUIde
+Consortium and professor of the practice of mechanical engineering and
+materials science at Duke University, which has served as the program’s
+leading institution since 2008. “For the past six years, we’ve focused on
+forced response of an embedded compressor, which dictates how interacting
+pressure waves force a turbojet’s fan blades to vibrate.”
+
+These vibrations are both a safety and a cost issue. If the blades vibrate too
+much, they can be damaged over time and require costly maintenance. Or worse,
+they can break and cause engine failure.
+
+Turbojet engineering companies each have their own in-house software to design
+new engines, but they rely on research conducted by the GUIde Consortium to
+make sure their software is accurate. They also purchase packages and programs
+from ANSYS, the one software company in the GUIde Consortium, which works with
+researchers in the group to test and improve their products.
+
+In the past year, Duke researchers led by Shreyas Hegde, a PhD student in
+Kielb’s laboratory, addressed several key questions in modeling software
+produced by ANSYS.
+
+“The industry’s models typically do a complete 360-degree analysis to figure
+out how each row of fan blades will cause its neighbors to vibrate,” said
+Hegde. “We’re trying to help simplify these simulations without losing any
+accuracy in the results.”
+
+A turbojet fan consists of rows of blades that alternate between stationary
+“stators” and rotating “rotors.” Even though a large engine has several sets
+of each, simulations used in the design stage typically only model one rotor
+sandwiched between two stators.
+
+In one recent study, Kielb, Hegde and their colleagues looked to see what
+effects adding another downstream rotor has on the simulation. They found that
+the pressure waves coursing through the system often reflect back from this
+stage and affect the vibration of the fan blades found earlier in the engine.
+
+“That’s not the best news for companies designing turbojets, because the more
+complicated the model becomes, the longer and more difficult to interpret the
+results,” said Kielb. “But if you didn’t include that extra rotor, you might
+reject a design even though interactions effects from that rotor would reduce
+the forced vibration enough to make it work just fine. Or the opposite can
+happen, where adding the rotor to the analysis shows that the vibration
+amplitude will actually be higher.”
+
+Simulations are easier to complete if each of the rotors and stators have a
+number of fan blades with a common denominator. For example, if the standard
+stator-rotor-stator simulation described above contained fan blades numbering
+44-33-44—the common denominator being 11—it could be simplified to only 4-3-4,
+but still be perfectly accurate.
+
+In non-uniform models, one of these numbers is slightly off. In this example,
+the number of fan blades might change to 44-33-48. Even slight differences
+such as this has long been a thorn in the industry’s side when trying to
+simulate a design’s performance.
+
+In another recent tweak to the software, ANSYS made it possible to complete
+shortened simulations of these non-uniform models, and turned to Duke to check
+their work.
+
+“We put together a whole 360-degree model that included all the complexities
+you could think of,” said Kielb. “That produced a more accurate representation
+of the new ANSYS software’s abilities and limitations.”
+
+The group is finding that in most cases the ANSYS software works well, but in
+some cases, it doesn’t work very well, and the companies need to know which
+cases are which.
+
+And so does ANSYS. Thanks to the work done at Duke, the software company can
+discover problems with their methods and fix them, which helps the entire
+turbine industry.
+
+“The GUIde Consortium has been going on for the better part of two decades,
+and it’s turned out to be a really mutually beneficial arrangement for
+everyone involved,” said Kielb. “We’re going to spend another two years making
+these forced vibration simulations work as well as we can, and then the
+consortium will move on to other challenges.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

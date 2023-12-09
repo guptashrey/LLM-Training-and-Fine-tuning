@@ -1,0 +1,272 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Simple pH Adjustment May Enable a Preventative COVID-19 Nasal and Throat
+Spray
+
+January 7, 2022 | By Ken Kingery
+
+Higher pH makes a common metabolic inhibitor medication practical for nose and
+throat spray applications against COVID-19
+
+Mechanical engineering and materials science professor David Needham has shown
+that a slight increase in solution pH might be all it takes to turn a
+metabolic inhibiting drug, traditionally used to treat gut parasites, into a
+promising prophylactic/preventative nasal spray and early treatment throat
+spray for COVID-19.
+
+The results appeared online on December 28 in the journal Pharmaceutical
+Research.
+
+Since 1958, niclosamide has been used to treat gut parasite infections in
+humans, pets and farm animals. Delivered as oral tablets, the drug kills the
+parasites on contact by inhibiting their crucial metabolic pathway and
+shutting down their energy supply.
+
+In recent years, however, researchers have been testing niclosamide’s
+potential to treat a much wider range of diseases, such as many types of
+cancer, metabolic diseases, rheumatoid arthritis and systemic sclerosis.
+Recent laboratory studies in cells have also shown the drug to be a potent
+antiviral medication, inhibiting a virus’s ability to cause disease by
+targeting the energy supply of the host cell that the virus co-opts for its
+self-replication.
+
+Niclosamide primarily acts upon host cell’s mitochondria, which are like
+energy-producing batteries of the cell. The drug prevents the cell from
+producing its main energy molecule, adenosine 5'-triphosphate, or ATP. Without
+the infected cell’s energy supply, the virus has trouble replicating viable
+copies of itself to cause further infections. These effects are reversible and
+do not result in any cell death.
+
+“Niclosamide turns down the dimmer switch on a cell’s energy and essentially
+puts the virus in lockdown,” said Needham, the sole author of the new study.
+When used in conjunction with vaccines, masking and other recommended
+mitigation measures for COVID prevention, the new niclosamide solution holds
+potential as an adjunct strategy, he said. “This development could enable safe
+and effective nose and throat sprays that provide additional protection behind
+the mask.”
+
+## Pivoting During a Pandemic
+
+In an ongoing collaboration with Will Eward, a surgical oncologist at Duke,
+Needham had already shown that niclosamide has activity in bone cancer in mice
+and dogs when made into a nanoparticle that essentially, as he says, “makes
+the drug look like the cancer’s food.” In another collaboration with Christina
+Barkauskas, assistant professor of medicine in Pulmonary Medicine at Duke,
+they were starting preliminary studies on potentially using the same
+niclosamide formulation for lung fibrosis when the pandemic hit.
+
+Like many researchers worldwide, Needham switched gears to COVID-directed
+studies. After a Korean paper screening existing drugs for efficacy against
+COVID-19 identified niclosamide as a potential target, he spent the next year
+researching a range of solution, nanoparticle and microparticle formulations.
+The Korean studies in animal cells showed that it only took a low
+concentration of niclosamide before infection to completely stop the SARS-
+COV-2 virus from replicating.
+
+The animal cells being used, however, are extremely hardy and durable. To find
+out how effective and tolerable niclosamide might be for human use to fight
+COVID-19, Needham and Barkauskas turned to cells that were more pertinent to
+the initial nasal and bronchial infection—respiratory epithelial cells—and
+engaged other clinical researchers at Duke.
+
+Without live virus to test with, the researchers focused on measuring how much
+niclosamide reduces human airway cells’ levels of ATP. Based on the Korean
+study’s ATP-to-viral-inhibition measurements, Patty Lee, professor of
+medicine, cell biology and pathology at Duke, and her postdoc Sojin Kim, found
+that just a few micromolar concentration of the drug can lower ATP levels
+enough to potentially cut virus reproduction completely without harming the
+cells themselves.
+
+These studies were, however, conducted on cells submerged in cell culture
+media, which slows the rate at which niclosamide is absorbed and can act in
+the cells. In further benchtop cell studies with Barkauskas and Zach Kelleher,
+a laboratory technician in her lab, the researchers focused on human airway
+cells treated with just the buffered niclosamide solution. Funded by a grant
+from the American Lung Association, the study suggests that even lower doses
+are enough to positively affect airway cells.
+
+But all three of these studies don’t take the mucus into account.
+
+## The Need for Reformulation
+
+Traditional allergy medicines such as Flonase and Nasonex carry roughly 6,000
+to 30,000 times more of their respective active ingredients in solution than
+would be needed to affect cells in benchtop studies. This is because only a
+small amount of the active drug actually makes it past the protective layer of
+mucus constantly covering the backs of peoples’ noses and throats.
+
+Niclosamide, however, is not easily dissolved into water-based liquids that
+can be sprayed into a person’s nose and mouth. The drug’s normal attainable
+solution concentration at a nasal pH of around 6 or 7 is close to, or even
+less than, what the benchtop studies suggest is required to stop the virus
+from replicating in cells without protective mucus.
+
+Based on calculations of how molecules like niclosamide diffuse through a thin
+layer of mucus, Needham estimates that a solution concentration that is about
+10 times greater than that typically attainable is needed to produce a
+functioning prophylactic and treatment spray, and that it can get through the
+mucus layer in a matter of milliseconds.
+
+The question for Needham was, then, how to get to that concentration.
+
+## Adjusting the pH
+
+In the new paper, Needham demonstrates that simply raising the alkalinity of
+the solution might be enough to get through the mucous barrier and into the
+cells where a COVID-19 infection first takes hold. He found that raising the
+solution’s pH to a slightly alkaline pH of 8.0—acceptable for a nasal
+spray—can dissolve enough niclosamide to meet the requirement of his
+calculations. And raising the pH to 9.2, which is still tolerable for a throat
+spray, beats that benchmark by 10 times more and could be used in early
+infection.
+
+While promising, Needham notes, these results still need to be tested in cells
+actually infected with the virus, as well as in such cells protected by a
+mucus layer, which requires finding partner labs and agencies with the
+required biocontainment resources and live virus.
+
+A protocol to make liter-sized batches that can be filled and sealed in
+sterile-capped, 10mL vials has already been developed in the Duke compounding
+pharmacy by Vincent Gaver, clinical research pharmacist, and Beth McLendon-
+Arvik, director of Investigational Drug Services. And in his new patent
+application, Needham also described a method for extracting niclosamide from
+commercially available tablets into the solution without using organic
+solvents.
+
+“Because it works on the cells rather than the virus, niclosamide could
+function as a respiratory viral prophylactic agent, not just against the
+coronavirus and all of its variants, but against any new virus as well,”
+Needham said. “While vaccines are clearly effective, a nasal preventative
+would provide added protection. And even if an infection has already taken
+hold, this formulation could be used as an early treatment throat spray that
+could stop the viral load heading toward the lungs that causes the disease’s
+most devastating effects.”
+
+Needham has already filed a patent application and is actively seeking
+industry, government and infectious disease institute partners to help pursue
+clinical trials and commercialization.
+
+CITATION: “The pH Dependence of Niclosamide Solubility, Dissolution, and
+Morphology: Motivation for Potentially Universal Mucin-Penetrating Nasal and
+Throat Sprays for COVID19, its Variants and other Viral Infections,” David
+Needham. Pharm Res, 2021. DOI: 10.1007/s11095-021-03112-x
+
+Patent Application: “NICLOSAMIDE NASAL AND THROAT SPRAY” Inventor, David
+Needham, PCT/US21/72303
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

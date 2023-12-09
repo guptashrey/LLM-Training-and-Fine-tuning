@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Distinguishing Resistance from Resilience to Prolong Antibiotic Potency
+
+December 5, 2018 | By Ken Kingery
+
+Defining pathogen responses to first-line antibiotics could prolong their
+usefulness
+
+Biomedical engineers at Duke University have shown experimentally that there
+is more than one flavor of antibiotic resistance and that it could—and
+should—be taken advantage of to keep first-line antibiotics in our medical
+arsenal.
+
+In a study appearing online Dec. 7 in the journal Science Advances, the
+researchers show why doctors should be paying more attention to whether a
+pathogen is resistant or merely resilient against common beta-lactam
+antibiotics, such as penicillin and its derivatives.
+
+Resistant strains of bacteria can soldier through a dose of beta-lactam
+antibiotics with little disturbance to their population levels. Resilient
+strains, however, suffer a population crash before their community can secrete
+enough beta-lactamase enzymes to degrade the antibiotic to a tolerable level.
+If clinicians test an infection by dosing a culture and checking only the end
+results, they miss the difference between resistant and resilient responses.
+
+“Clinicians have not historically distinguished between these two scenarios,”
+said Lingchong You, the Paul Ruffin Scarborough Associate Professor of
+Engineering at Duke. “But as beta-lactam-tolerant pathogens become more
+common, I believe this distinction could become extremely important.”
+
+While an individual bacterium can be resistant to antibiotics, resilience only
+arises within a community. This happens when bacterial cells produce enough
+beta-lactamases to degrade the antibiotics, but not enough to save themselves
+from the initial onslaught. As some cells die and release more and more of the
+enzyme, however, the population as a whole eventually rids their environment
+of the antibiotic.
+
+In the paper, You and Hannah Meredith, now a postdoctoral researcher at the
+London School of Hygiene and Tropical Medicine, track the populations of
+several beta-lactam-tolerant strains of bacteria over time when exposed to
+beta-lactam antibiotics. They then use the responses to quantify the bacteria
+population’s levels of resistance and/or resilience, creating a method to put
+values to resistance or resilience for the first time.
+
+In practice, the study offers a framework for researchers to begin designing
+tests that can swiftly measure an infection for these two separate responses.
+In You’s opinion, it’s a procedure that will have to become more common in the
+future.
+
+With a measure of a strain’s resilience in hand, doctors could prescribe a
+regimen of antibiotics perfectly timed to hit an infection repeatedly during
+the colony’s weakest points. This approach could allow doctors to continue
+using first-line antibiotics on pathogens that otherwise would be
+characterized as resistant and treated with more powerful antibiotics, a
+practice that will degrade the medicine’s usefulness over time.
+
+“We’re still in a stage where doctors don’t do a detailed diagnosis of what
+specific infection a patient is suffering from, they just prescribe these
+antibiotics because they’ll probably work after two weeks. And if they don’t,
+they’ll just try a different one,” said You. “But I think as these beta-
+lactam-resistant strains continue to spread around the world and become more
+common, our diagnoses will have to catch up so we can provide more tailored
+dosing protocols.”
+
+The study was a result of a collaboration between the You lab and infectious
+disease specialist Deverick Anderson at the Duke School of Medicine, as well
+as Gregory Batt and his graduate student Virgile Adreani at Inria and
+Institute Pasteur in Paris, France. Other researchers include a current You
+lab graduate student, Helena Ma, and two former graduate students, Allison
+Lopatkin and Anna Lee.
+
+This research was supported by the National Institutes of Health (R01GM098642,
+R01GM110494, R24DK110492), the Army Research Office (W911NF-14-1-0490), the
+David and Lucile Packard Foundation, Agence Nationale de la Recherche
+(ANR-16-CE33-0018, ANR-16-CE12-0025), and the National Science Foundation
+Graduate Research Fellowship Program.
+
+CITATION: “Applying Ecological Resistance and Resilience to Dissect Bacterial
+Antibiotic Responses,” Hannah Meredith, Virgile Adreani, Allison Lopatkin,
+Anna Lee, Deverick Anderson, Gregory Batt, and Lingchong You. Science
+Advances, Dec. 7, 2018. DOI: 10.1126/sciadv.aau1873
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

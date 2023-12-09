@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# CRISPR at a Tipping Point
+
+October 21, 2021
+
+A Q&A with Nobel Laureate Jennifer Doudna
+
+This story was originally published on the Duke MEDx website.
+
+In recent years, the term CRISPR has entered the popular lexicon, although
+relatively few people could say what it stands for (“clustered regularly
+interspaced short palindromic repeats”). CRISPR — more precisely known as
+CRISPR-Cas9 — is a powerful genome editing technique that allows scientists to
+make changes to specific DNA sequences and thereby alter gene function. The
+CRISPR-Cas9 system has innumerable potential applications, ranging from
+improving crop yields to treating human diseases. With CRISPR-Cas9, there is
+the potential to modify genomic DNA in stem cells and even germline (sperm and
+egg) cells to address intractable human diseases.
+
+Jennifer Doudna, PhD, professor of chemistry, biochemistry, and molecular
+biology at the University of California, Berkeley, is a leading figure in the
+CRISPR revolution. Her fundamental work and leadership in developing the
+CRISPR-Cas9 genome editing tool earned her and French microbiologist
+Emmanuelle Charpentier the Nobel Prize in Chemistry in 2020.
+
+Doudna is this year’s speaker for the MEDx Distinguished Lecture, an annual
+seminar that highlights leaders who work at the interface of medicine and
+engineering and have had positive impacts on human health. Former MEDx
+Distinguished Lecture speakers have made major contributions in a number of
+areas of medical device development, including cardiac stents and retinal
+prostheses, but this year’s talk is the first to explore engineering the
+genome. She will deliver her talk, “CRISPR: Rewriting DNA and the Future of
+Humanity,” via Zoom on October 26 at 4 p.m. Registration is available here.
+
+Many Duke scientists are using CRISPR in their labs and research to
+investigate gene regulation and function, potential therapeutics for genetic
+diseases such as Duchenne muscular dystrophy and cancer, and much more.
+
+In advance of Doudna’s lecture on October 26, several Duke researchers were
+invited to ask her questions about her work:
+
+**Geoffrey Ginsburg, director of the Center for Applied Genomics & Precision
+Medicine and MEDx: **_Can you briefly describe how CRISPR is being used today,
+what its potential is in the next 5-10 years, and how we can expect it to
+change our world?_
+
+Given that CRISPR genome editing as we know it hasn’t quite hit its tenth
+birthday, it’s always astonishing to see how much has been accomplished in
+that time. There is always a lot of focus on the development of genome-editing
+therapeutics, but the greatest effect so far has been on life science research
+and our ability to understand the genetic basis for diseases and other genetic
+traits, whether it’s health related, or how a butterfly gets its colors.
+
+The next 5-10 years will also bring surprises, but we’re at a tipping point
+right now where the preclinical work of the past nine years is transitioning
+into clinical trials, and the number is growing quickly. From just one or two
+in the past few years, we’re now seeing trials for congenital blindness,
+chronic infection, cancers, and more, not to mention a number of new rapid
+point-of-care diagnostics. The first CRISPR-edited crop just hit the market in
+Japan, and while the development of agricultural applications may take longer,
+their effect on hunger, malnutrition, climate change adaptation, and carbon
+capture will have a far greater impact on human health than any single new
+therapy.
+
+**Helen Streff, biomedical engineering PhD student:** _From your perspective,
+what are the most pressing ethical questions raised by CRISPR technology? As
+the technology has become more realistic to apply in the clinic, what factors
+should be considered in determining whether germline editing is appropriate?_
+
+The ability to edit the genome of living organisms brings up a host of ethical
+issues, but, to me, the most pressing issues are access and affordability.
+There’s a very real possibility that a transformative therapy gets developed
+but never reaches those who need it most, because it doesn’t fit a particular
+business model or because it can only be accessed by a privileged few.
+
+Germline editing has both scientific and ethical hurdles ahead of it. For
+germline editing to ever be considered a viable option, it would first have to
+be proven safe and effective, which is not currently the case. It would have
+to be medically necessary and applied to a disease that isn’t well managed by
+other approaches or through somatic editing. Ethically, it raises many
+questions about what is medically necessary, and who gets to make that
+decision. There may come a time when it would be considered unethical not to
+use germline editing to treat a disorder, but for now the vast majority of
+diseases can be addressed in other ways, and we can help the most people by
+focusing on developing somatic cell editing therapies, which is our focus at
+the Innovative Genomics Institute (IGI).
+
+**Charles Gersbach, director of the Center for Advanced Genomic
+Technologies:** _Advances in technologies to treat disease are outpacing the
+abilities of our health care system to provide them to those with the most
+need. What should be done to ensure equitable access to curative therapies
+based on genome editing?_
+
+This is a key point. Take the example of sickle cell disease: the first wave
+of clinical trials on CRISPR-based therapies is looking quite promising in
+terms of safety and efficacy, but right now the procedure costs in excess of
+$2 million per patient. The procedure itself can only be performed by a small
+number of experts at a handful of hospitals worldwide. So I’m thrilled about
+the progress, but we don’t yet have a cure that meets the needs of the vast
+majority of people in the world who suffer from this disease.
+
+The positive news is that there are at least half a dozen different CRISPR-
+based clinical trials in the pipeline for sickle cell disease, and these are
+coming out both for-profit companies and nonprofits like the IGI and the UC
+Consortium where the explicit goal is to develop an accessible, affordable
+cure. That level of interest can’t be repeated for every disease, particularly
+rare and neglected diseases, so it’s critical that the research community
+develops therapeutic approaches and delivery modalities that cut across
+multiple diseases, so that we can accelerate both the development of new
+therapies and the path to affordability across the category.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

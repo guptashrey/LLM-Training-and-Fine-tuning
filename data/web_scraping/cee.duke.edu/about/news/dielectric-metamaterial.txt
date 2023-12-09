@@ -1,0 +1,194 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Absorbing Electromagnetic Energy While Avoiding the Heat
+
+January 27, 2017 | By Ken Kingery
+
+First demonstration of a metal-free metamaterial that can absorb
+electromagnetic energy
+
+Electrical engineers at Duke University have created the world's first
+electromagnetic metamaterial made without any metal. The device's ability to
+absorb electromagnetic energy without heating up has direct applications in
+imaging, sensing and lighting.
+
+Metamaterials are synthetic materials composed of many individual, engineered
+features that together produce properties not found in nature. Imagine an
+electromagnetic wave moving through a flat surface made of thousands of tiny
+electrical cells. If researchers can tune each cell to manipulate the wave in
+a specific way, they can dictate exactly how the wave behaves as a whole.
+
+For researchers to manipulate electromagnetic waves, however, they've
+typically had to use electrically conducting metals. That approach, however,
+brings with it a fundamental problem of metals—the higher the electrical
+conductivity, the better the material also conducts heat. This limits their
+usefulness in temperature-dependent applications.
+
+In a new paper, electrical engineers at Duke University demonstrate the first
+completely dielectric (non-metal) electromagnetic metamaterial—a surface
+dimpled with cylinders like the face of a Lego brick that is designed to
+absorb terahertz waves. While this specific frequency range sits between
+infrared waves and microwaves, the approach should be applicable for almost
+any frequency of the electromagnetic spectrum.
+
+The results appeared online on Jan. 9 in the journal Optics Express.
+
+"People have created these types of devices before, but previous attempts with
+dielectrics have always been paired with at least some metal," said Willie
+Padilla, professor of electrical and computer engineering at Duke University.
+"We still need to optimize the technology, but the path forward to several
+applications is much easier than with metal-based approaches."
+
+Padilla and his colleagues created their metamaterial with boron-doped
+silicon—a non-metal. Using computer simulations, they calculated how terahertz
+waves would interact with cylinders of varying heights and widths.
+
+The researchers then manufactured a prototype consisting of hundreds of these
+optimized cylinders aligned in rows on a flat surface. Physical tests showed
+that the new "metasurface" absorbed 97.5 percent of the energy produced by
+waves at 1.011 terahertz.
+
+Efficiently absorbing energy from electromagnetic waves is an important
+property for many applications. For example, thermal imaging devices can
+operate in the terahertz range, but because they have previously included at
+least some metal, getting sharp images has been challenging.
+
+"Heat propagates fast in metals, which is problematic for thermal imagers,"
+said Xinyu Liu, a doctoral student in Padilla's laboratory and first author of
+the paper. "There are tricks to isolate the metal during fabrication, but that
+becomes cumbersome and costly."
+
+Another potential application for the new technology is efficient lighting.
+Incandescent light bulbs make light but also create a significant amount of
+wasted heat. They must operate at high temperatures to produce light—much
+higher than the melting point of most metals.
+
+"We can produce a dielectric metasurface designed to emit light, without
+producing waste heat," Padilla said. "Although we've already been able to do
+this with metal-based metamaterials, you need to operate at high temperature
+for the whole thing to work. Dielectric materials have melting points much
+higher than metals, and we're now quickly trying to move this technology into
+the infrared to demonstrate a lighting system."
+
+This work was supported by the Department of Energy (DE-SC0014372).
+
+CITATION: "Experimental realization of a terahertz all-dielectric metasurface
+absorber," Xinyu Liu, Kebin Fan, Ilya V. Shadrivov, Willie J. Padilla. Optics
+Express, 2017. DOI: 10.1364/OE.25.000191
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

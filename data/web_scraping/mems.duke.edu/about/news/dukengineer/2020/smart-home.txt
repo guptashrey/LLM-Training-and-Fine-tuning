@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2020
+
+# Technology and Sustainability: Student Projects at the Smart Home
+
+March 1, 2020 | By Jade Grimes
+
+Each year, Duke Smart Home residents and club members develop and test a wide
+array of new projects and initiatives focused on sustainable living
+
+Any Disney enthusiast's first concept of a "smart home" probably began with
+Smart House, the 1999 film portraying the tale of a family's residence in a
+high-tech house. While Disney's version of a smart home had some pretty
+disastrous consequences, the Duke Smart Home, our very own version of a
+hightech and sustainable residential home, has allowed students to develop
+some fascinating and beneficial projects. David Smoot, a junior mechanical
+engineering student and current Smart Home resident, described the house as
+"both the building of the future but also the building to bring that future
+into today." With in-house lab facilities, a weather station and a building
+design created specifically for adaptability, the Smart Home, as described by
+Alex Weck, a senior civil engineering major, "is really the only place on
+campus where [students] can implement solutions and then have residents test
+them."
+
+As a living-learning community, the home's 10 residents, along with Smart Home
+club members, develop and test new projects and initiatives each year. Most
+Duke students have likely seen some of the past projects in action—the solar
+benches and LED lighting projects installed around West Campus had their
+inception in the Smart Home. This year, students will not only expand on some
+older projects—like increasing the electric power of the solar benches—but
+also focus on developing new ones. Some noteworthy projects include house
+automation and HVAC (heating, ventilating, and air conditioning) systems, an
+algae window, a smart mirror and beekeeping/ gardening.
+
+**"[The smart home is] one of the few places in the country where you can get
+[consumer smart home tech and commercial automation systems] to talk to each
+other."**
+
+While the Smart Home already has some helpful and efficient automated systems
+in place, like mobile app-controlled lighting, air source heat pumps and
+recovery ventilators, Smart Home students want to expand these systems to make
+them more widely applicable and more efficient. This could lead to the
+integration of recently affordable consumer smart tech into some of the Smart
+Home's more expensive, commercially oriented systems. For electrical systems,
+this means creating an open-source automation server and installing more
+wireless sensors for monitoring microclimate factors like temperature and
+humidity. For the HVAC systems, a project led by Smoot, this means analyzing
+sensor data, determining heating/cooling efficacy and finding solutions to
+deficiencies. Potential changes include smart vents that would provide on-
+demand heating/cooling to an area and automatic window shades that could
+minimize heating from solar radiation. Smoot's goal is to "not just build the
+most efficient, perfectly normal forced air conditioning system you can build,
+but to also try to stop heat from getting into the space from the source."
+
+**"What if you took the bottom of the food chain and put it in a window?"**
+
+Weck, the lead of the Algae Window Project, is piloting another option for
+regulating solar heat—algae-filled windows. As an alternative to automatic
+blinds, he hopes to filter Spirulina (a form of blue-green algae) between
+windowpanes to change window opacity. The system would pump higher
+concentrations of Spirulina through the window to reduce its opacity (and
+reduce solar heating), or remove the algae when more light is desired. An
+algae-filled window would also have an interesting secondary effect of tinting
+the incoming light an appealing shade of green. Spirulina is a type of
+cyanobacteria that is easy to grow—a nutrient supply is added into the tank
+whenever more algae is needed. It can also live in extremely basic
+environments (waters of a pH of 10 or 11), which makes it hard for
+contaminants to grow in the same water. Spirulina can also be harvested, dried
+and consumed as food. A current hot topic in health forums, spirulina is about
+70 percent protein by weight and is already being used as a health supplement.
+Ultimately, the goal is to have residents eat the same algae (once dried out)
+that pumps through their windows. As a side project, Weck wants to try making
+some foods out of algae. If residents can turn the algae into a flour-like
+substance, the baking possibilities become endless, and they could make
+cookies, cake and granola bars from their algae.
+
+**"Every Duke student needs a little pick-me-up in the morning."**
+
+Peter Candelora, a junior studying electrical and computer engineering, is
+managing the Smart Mirror Project. The project's goal is to create a visually
+appealing and functional information hub for residents of the Smart Home. The
+Smart Mirror looks and functions like a regular mirror, but has a screen
+placed behind the mirror pane. Similar to a smartphone lock screen, the smart
+mirror will show the user important notifications along with their reflection.
+The design is more functional and convenient compared to traditional message
+boards and is less intrusive than a television screen. To achieve this,
+Candelora designed a custom wooden frame to house the LCD screen and used a
+mounting system that allows the Smart Mirror to be integrated directly into
+the Smart Home's walls. Currently, the Smart Home residents have programmed
+the Smart Mirror to display the Smart Home calendar and fun, uplifting
+messages, but their final goal is to have it present information for realtime
+events like weather conditions, news and live bus route tracking.
+
+**Appreciating the Pollinators**
+
+The gardening/beekeeping project, led by Andrea Kolarova (Environmental
+Science, '20), involves integrating multiple new and revamped projects.
+Drawing on permaculture ideals, local fauna will be planted into the Smart
+Home's current garden beds to create a pollinator garden, and in the spring, a
+beehive will be created. This project is especially important due to the
+current endangered status of many bees. The pollinator garden and beehive will
+involve a collaboration with local Durham groups like the Durham Beekeepers
+Association, which will take care of the hive when students are not on campus.
+While the students hope to find local plants for the pollinator garden that do
+not require a lot of watering, they also plan to build a more efficient
+irrigation system for the garden. The current watering system already uses
+rainwater from the home's collection tanks, but this year's improvements could
+entail smart sprinklers (a weather forecast-dependent watering system) for
+each bed, re-designating the plant zones and creating a drip irrigation
+system. The idea that failures make for prime learning opportunities rings
+true in the residential smart tech field. It is evident that this year's Smart
+Home endeavors, even if unsuccessful, have the potential to make a large
+impact. The Smart Home's main goal is to explore methods of sustainable
+living, apply them to efforts on Duke Campus, and ultimately, share its
+findings with people beyond Duke. The process of getting to a less sinister,
+more efficient version of the smart house our generation imagined as kids is a
+lengthy one. But in the near future, homeowners will have the chance to
+install new developments, possibly ones that start right here on our campus,
+to create a more efficient home.
+
+**Jade Grimes is a junior pursuing a double major in civil engineering and
+environmental science with a certificate in architectural engineering.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2020
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

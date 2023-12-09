@@ -1,0 +1,195 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# From Chopsticks and Cardboard to Functioning Prototype
+
+December 14, 2020
+
+Resourceful undergraduates dove into a Bass Connections project aiming to
+improve GI health, designing an automated test strip dispenser for their team
+
+When first-year student Bryent Takayama received a care package from home,
+flush with packaged curry noodles and other delicious treats, he never guessed
+the food packaging would become part of a lo-fi product prototype for waste
+sampling—but weird times call for weird measures.
+
+“We’ve made it work, given the circumstances,” Takayama said. “We’ve had to do
+a lot of figuring things out on our own—being creative, using whatever
+resources we have around us.”
+
+Takayama, who plans to study electrical and computer engineering, and teammate
+Alina Suarez, a computer science major, are part of a Duke program called Bass
+Connections that supports interdisciplinary research teams as they work to
+address global problems. The two students are working on the effort to develop
+a Smart Sampling Toilet, a project led by electrical and computer engineer
+Sonia Grego, which aims to capture some of the health information that’s lost
+with the waste we flush away.
+
+Suarez said she applied to Bass Connections from a desire for a deep research
+experience this year. “I was looking through the Bass Connections projects and
+this one really stood out to me. I have ulcerative colitis myself, which is a
+gastrointestinal disease,” she said. “All through high school I worked closely
+with the Crohn’s and Colitis Foundation of America, raising money and raising
+awareness of inflammatory bowel diseases. I thought this would be a cool way
+to continue my impact with this community—it’s a large and growing group of
+people that would benefit so greatly from this.”
+
+To advance the project, Suarez and Takeyama worked on a device that can
+dispense Fecal Immunochemical Test (FIT) strips and expose them to human
+excreta. After the sample is collected on the strip, the device sends a signal
+to an integrated endoscopic camera, telling it to capture an image of the test
+results—one line if the sample is negative for biomarkers indicating possible
+gastrointestinal disease, and two lines if it is positive.
+
+Takayama’s early curry noodle container-and-chopsticks prototype was the
+starting point for many further iterations on the design. “The most valuable
+thing I’ve learned is that even when you really think something you’ve
+designed is going to work, you have to test it,” said Suarez. “Sometimes you
+think it’s definitely going to work, you try it, and it totally fails. Every
+time we’ve tested our device we’ve found a new problem that we never would
+have been able to anticipate.”
+
+One early idea—a spring-driven dispenser—sent the strips flying off course.
+(“Alina had the great idea of just flipping it over and letting gravity drive
+the process,” said Takayama. “Simplicity was the way to go.”)
+
+But the device still needed a component to keep the test strip in place, so
+Suarez set up shop in the Innovation Co-Lab, 3D printing and an automated door
+that closes as a test strip develops and jumps open when the strip is ready to
+be discarded. Meanwhile, Takayama curtained the bottom bunk of his dorm room
+in blankets to test what lighting levels would be optimal for the endoscopic
+camera’s images.
+
+Duke ECE professor and chair Krishnendu Chakrabarty, who is contributing his
+expertise in data analytics for image classification to this Bass Connections
+project, saw one virtual presentation from the team and was impressed not only
+with the progress the team had made, but also with Takayama’s resourcefulness.
+“Under his bed, Bryent had attached the endoscope with tape onto a water
+bottle that served as a stand, and angled it to have all the components within
+the field of vision. He had to crawl under the bed a few times to adjust the
+angle and setup and then add the buffer solution to begin testing. It was an
+amazing setup and demo,” said Chakrabarty. “After all, necessity is the mother
+of invention.”
+
+For Takayama, the experience of collaborating with seasoned researchers in his
+first year of school was a memorable one. “As a freshman, I had very low
+expectations of being accepted into Bass Connections, and I was really
+grateful to become a part of the team,” he said. “We were urged to design
+something from zero—to make progress from nothing. And I got to collaborate
+with great students. It was really special.”
+
+Get Involved
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

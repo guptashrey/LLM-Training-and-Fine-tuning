@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Randles Wins NIH Director’s Pioneer Award to Predict Heart Disease Risks
+
+October 4, 2022 | By Ken Kingery
+
+Open-ended, $3.5 million award will help tie complex models of blood flow to
+simple heartbeat measurements through AI
+
+For more than a decade, Amanda Randles has been developing supercomputer
+models of how blood flows through our arteries at the cellular and particulate
+level. Dubbed HARVEY for short, the evolving algorithm can simulate how an
+individual’s specific cardiovascular architecture will likely respond to
+surgical procedures such as a bypass graft or stent placement.
+
+But depending on the scope of the model, simulating even a handful of
+heartbeats can require several hours of time on some of the world’s most
+powerful supercomputers. The sheer volume of data processing needed to
+investigate 3D cardiovascular dynamics over the course of months or even years
+makes it intractable for use in informing a patient’s healthcare decisions.
+
+“Single heartbeat metrics have been linked to a person’s risk of heart disease
+or likelihood of having an adverse event after an intervention, but tracking
+or predicting how a patient’s blood flow and vascular dynamics respond to a
+treatment over time is still an open question,” said Randles, the Alfred
+Winborne and Victoria Stover Mordecai Assistant Professor of Biomedical
+Sciences at Duke. “We need to find a way around the need for that level of
+brute force computational power to build a long-term map of a person’s blood
+flow dynamics across many activities.”
+
+The National Institutes of Health (NIH) agrees and has made Randles one of
+2022’s eight recipients of its Director’s Pioneer Award. The Pioneer Award is
+the largest of the four grants given under the NIH’s High-Risk, High-Reward
+program and is intended to support innovative research that, due to its
+inherent risk, may struggle in the traditional NIH peer-review process.
+Investigators seeking program support are encouraged to think beyond
+traditional bounds and to pursue trailblazing ideas in any area of research
+relevant to the NIH’s mission to advance knowledge and enhance health.
+
+“This unique cohort of scientists will transform what is known in the
+biological and behavioral world. We are privileged to support this innovative
+science,” said Lawrence A. Tabak, who is performing the duties of the Director
+of NIH
+
+Randles plans to use the open-ended five-year, $3.5 million award to create
+physics-based AI models that can estimate a person’s blood flow dynamics over
+time with the help of wearable devices like smartwatches. By integrating input
+from wearables with machine learning and physics-based modeling, she hopes to
+find a way to track changes to a person’s risk of heart disease through
+indicators such as lowering levels of cardiovascular shear stress.
+
+> "By shifting our focus from single heartbeats to creating longitudinal
+> hemodynamics maps, my research program will work to improve both diagnostics
+> and treatment outcomes for patients with cardiovascular disease.”
+>
+> amanda randles
+
+If successful, the approach could help cut into the $320 billion in annual
+healthcare costs and lost productivity caused by heart disease and help reduce
+its mortality rate, as heart disease currently accounts for 25% of all deaths
+in the United States.
+
+“I’m extremely honored to receive this award and am humbled to be a part of
+such an esteemed group of recipients,” Randles said. “I’m excited about the
+new research directions that this award will support and look forward to
+seeing what we can achieve by combining data from wearables with that from our
+machine learning and fluid dynamics models. By shifting our focus from single
+heartbeats to creating longitudinal hemodynamics maps, my research program
+will work to improve both diagnostics and treatment outcomes for patients with
+cardiovascular disease.”
+
+Also winning an NIH Pioneer Award is Kafui Dzirasa, the K. Ranga Rama Krishnan
+Associate Professor of Psychiatry & Behavioral Sciences in the Duke School of
+Medicine, who holds a secondary appointment in Duke BME. Read more about
+Duke's double Pioneer Award win on Duke Today.
+
+## Related News
+
+May 13, 2020
+
+### Virtual Reality Blood Flow Simulation To Improve Cardiovascular
+Interventions
+
+May 02, 2019
+
+### HARVEY Helps Move Bioprinted Organs Closer to Reality
+
+August 27, 2015
+
+### Randles Named Finalist for Supercomputing’s Top Honor
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

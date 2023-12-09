@@ -1,0 +1,173 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# DMI Signature Lecture Presented by Prof. Matthias Scheffler
+
+Apr 19
+
+##
+
+Wednesday, April 19, 2023 - 12:00pm to 1:00pm
+
+Fitzpatrick Center Schiciano Auditorium Side B, room 1466
+
+Add to calendar »
+
+## Presenter
+
+Matthias Scheffler
+
+Abstract: Artificial intelligence (AI) may capture the properties and
+functions of materials better than previous theoretical/computational methods
+because it targets correlations and does not assume an underlying physical
+model. However, the statistical analysis and interpretation require careful
+attention. In this talk I will discuss recently developed, explainable AI
+methods [1,2] and applications [3-5] that combine detailed, consistent
+experimental data (called "clean data") with theoretical data for the
+identification of "rules" that determine the properties and functions of
+materials. These "rules" depend on descriptive parameters, called "materials
+genes". In analogy to genes in biology they are correlated with a certain
+material property or function. Thus, these materials genes help the
+identification of materials that are, for example, better electrical
+conductors or better heat insulators or better catalysts. (*) Work done in
+collaboration with Lucas Foppa, Thomas Purcell, et al. 1\. B.R. Goldsmith, M.
+Boley, J. Vreeken, M. Scheffler, and L.M. Ghiringhelli, Uncovering structure-
+property relationships of materials by subgroup discovery. New J. Phys. 19,
+013031 (2017); https://doi.org/10.1088/1367-2630/aa57c2 2\. R. Ouyang, S.
+Curtarolo, E. Ahmetcik, M. Scheffler, and L.M. Ghiringhelli, SISSO: a
+compressed-sensing method for identifying the best low-dimensional descriptor
+in an immensity of offered candidates . Phys. Rev. Mat. 2, 083802 (2018);
+https://doi.org/10.1103/PhysRevMaterials.2.083802 3\. L. Foppa, L.M.
+Ghiringhelli, F. Girgsdies, M. Hashagen, P. Kube, M. Hävecker, S. Carey, A.
+Tarasov, P. Kraus, F. Rosowski, R. Schlögl, A. Trunschke, and M. Scheffler,
+Materials genes of heterogeneous catalysis from clean experiments and
+artificial intelligence. MRS Bulletin 46 (2021);
+https://doi.org/10.1557/s43577-021-00165-6 4\. L. Foppa, C. Sutton, L. M.
+Ghiringhelli, S. De, P. Löser, S.A. Schunk, A. Schäfer, and M. Scheffler,
+Learning design rules for selective oxidation catalysts from high-throughput
+experimentation and artificial intelligence. ACS Catalysis 12, 2223 (2022);
+https://doi.org/10.1021/acscatal.1c04793 5\. T. Purcell, M. Scheffler, L. M.
+Ghiringhelli, C. Carbogno, Accelerating Materials-Space Exploration by Mapping
+Materials Properties via Artificial Intelligence: The Case of the Lattice
+Thermal Conductivity. Submitted for publication;
+https://arxiv.org/pdf/2204.12968.pdf
+
+## Contact
+
+Igescu, Liana  
+919-660-5142  
+lmi3@duke.edu
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

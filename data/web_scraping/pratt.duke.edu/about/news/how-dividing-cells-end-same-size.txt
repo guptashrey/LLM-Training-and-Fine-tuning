@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# How Dividing Cells End Up the Same Size
+
+June 4, 2015 | By Ken Kingery
+
+Duke study finds that initial cell size determines growth before splitting,
+contradicting earlier studies
+
+There aren’t any giants or midgets when it comes to the cells in your body,
+and now Duke University scientists think they know why.
+
+A new study appearing June 3 in Nature shows that a cell’s initial size
+determines how much it will grow before it splits into two.
+
+This finding goes against recent publications suggesting cells always add the
+same amount of mass, with some random fluctuations, before beginning division.
+
+“It’s like students going through college,” said Lingchong You, the Paul
+Ruffin Scarborough Associate Professor of Engineering in the Department of
+Biomedical Engineering and the Center for Genomic and Computational Biology at
+Duke. “If they’re not prepared, they take five or six years to graduate rather
+than taking more classes and overburdening themselves.”
+
+It all began with unexplainable oscillations. The team was looking at how
+genes on circular pieces of DNA called plasmids segregate when cells divide by
+tagging the genes with different fluorescent colors.
+
+“We noticed oscillations in the expression of these colors in about 30 percent
+of the cells,” You said. “And that’s weird because we knew the genes involved
+aren’t regulated, so this was incredibly baffling to us. We were very
+surprised.”
+
+The project was initiated by two former Duke graduate students, Yu Tanouchi
+and Anand Pai, now postdoctoral scientists at Stanford University and UC-San
+Francisco, respectively. The team was using a “mother machine,” invented by
+Suckjoon Jun at UC-San Diego, to watch the division patterns of individual
+cells over many generations.
+
+The device places individual cells—in this case _E. coli_ bacteria—at the
+closed end of very small tubes. As each trapped cell grows and divides, its
+daughter cells are forced up the tube, where they are eventually swept away by
+a stream of nutrients.
+
+The setup allows researchers to watch hundreds of cells go through divisions
+over dozens of generations and was key in seeing the baffling oscillations.
+
+“Most studies take the average of many cells or many generations, which would
+make it impossible to see these oscillations,” explained You. “That’s why the
+single-cell analysis was critical, because these oscillations occur over many
+cell cycles with varying periods.”
+
+While trying to trace the origin of the genetic oscillations, You and his team
+were even more surprised to discover that the initial cell size also
+oscillated over multiple generations. After spending months trying to find the
+reason for the oscillations, Yu looked at correlations of different growth
+metrics like cell size at division, speed of growth and time to division.
+
+And the results were a strikingly simple linear relationship, revealing that a
+cell’s initial size determines how much biomass it would add before beginning
+cell division.
+
+You and his colleagues then checked their findings against computer models. By
+using the same linear relationships and throwing in random fluctuations, they
+were able to recreate the oscillations in size in 30 to 40 percent of their
+virtual cell lines, just like in their experimental data.
+
+Although the group does not know how the cells determine how long to grow
+based on their initial size, the computer models fit their experimental data
+precisely. But whether or not others in their field will be convinced is yet
+to be seen.
+
+“During the review period of our paper, there were two experimental papers
+published in high-impact journals providing evidence for the ‘adder model’ (or
+the ‘incremental model’), which is that when cells divide, they add a constant
+biomass on average,” said You. “But the data are the data, and in our data we
+don’t see this. The two models are very similar, but they have completely
+different implications for how cells maintain their uniform size. It will be
+interesting to see how people respond to our paper.”
+
+Also helping in the study were Heungwon Park, a postdoc in Nicolas Buchler’s
+lab in the Department of Biology at Duke, and postdoc Shuqiang Huang and
+former graduate student Rumen Stamatov from the You lab.
+
+This work was supported by the National Science Foundation, the National
+Institutes of Health (R01GM098642, R01GM110494, DP2 OD008654-01), DuPont, the
+David and Lucile Packard Foundation, the Defense Advanced Research Projects
+Agency (DARPA-BAA-11-66) and the Burroughs Wellcome Fund (BWF 1005769.01).
+
+###
+
+“A noisy linear map underlies oscillations in cell size and gene expression in
+bacteria.” Yu Tanouchi, Anand Pai, Heungwon Park, Shuqiang Huang, Rumen
+Stamatov, Nicolas E. Buchler, Lingchong You. Nature, 2015. DOI:
+10.1038/nature14562
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

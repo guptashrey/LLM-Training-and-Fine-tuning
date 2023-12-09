@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Of Heartbeats, Bones and Brushstrokes
+
+August 1, 2016 | By Robin A. Smith
+
+Training computers to find patterns in massive datasets from medicine to art
+history
+
+_Originally posted onDuke Today_
+
+It takes a well-trained eye to spot an irregular heartbeat in the peaks and
+valleys of an electrocardiogram. The same goes for identifying an extinct ape
+from a single fossilized tooth, or telling an original van Gogh from a fake.
+
+But in recent years, applied mathematician Ingrid Daubechies has been training
+computers to churn through ECG tracings, high-resolution scans of fossils,
+paintings and other complex digital data and work things out automatically.
+
+"The large volumes of data that are being generated left and right definitely
+present a serious challenge," said Daubechies, professor of mathematics and
+electrical and computer engineering, who came to Duke in 2011.
+
+We're at a point where we can no longer keep up with the data deluge, some
+researchers argue, and new approaches to data mining are needed.
+
+Now, with support from a five-year, $1.5 million award from the Simons
+Foundation, a private foundation based in New York, Daubechies is forging
+connections between math and engineering to build machine learning tools that
+do just that.
+
+One of the techniques she has been developing involves new ways to compare 3-D
+shapes. For the past seven years, Daubechies has been working with fossil
+experts to analyze three-dimensional images of bones and teeth.
+
+By comparing the bumpy surfaces of molars, knucklebones and other skeleton
+parts, her collaborators hope to figure out whether the extinct animals they
+study were climbers or leapers, or whether they ate insects or plants.
+
+But even with 3-D scanning and computer graphics software, a trained
+specialist has to show the computer the key landmarks on the bone surface. The
+process is time-consuming and subjective.
+
+Daubechies has been attacking the problem using a branch of computer science
+called computational geometry, building algorithms that make it possible to
+tackle large datasets more quickly and objectively.
+
+She soon realized the same machine learning approach would be useful for other
+problems. In one project, Daubechies and her then graduate student Hau-tieng
+Wu proposed a new method to look for patterns in electrocardiograms. The
+results give doctors a second opinion to help them decide when ICU patients
+are ready to get off ventilators and breathe on their own.
+
+Next, she hopes to turn computers loose on bird song recordings, using similar
+techniques to help biologists identify subtle differences between individual
+birds or species.
+
+Daubechies has a long history of defying disciplinary boundaries. Born in a
+small coal mining town in Belgium, she got her start in research doing
+physics, not math.
+
+It was after earning a bachelor’s degree in theoretical physics and then a
+Ph.D. in quantum mechanics, both from the Free University of Brussels, that
+she got involved in applications of math beyond physics. She was particularly
+interested in using a mathematical technique called the Fourier
+transformation, which breaks down complicated signals that vary in time or
+space, such as sound waves or images, into simpler building blocks.
+
+After earning her doctorate in 1980, she became one of the world’s leading
+authorities on wavelet theory, a refinement of the Fourier technique
+frequently used to shrink digital photos and movies so that they take up fewer
+kilobytes without noticeably losing detail.
+
+Digital images are composed of millions of tiny colored dots, or pixels,
+arranged on a grid. Each pixel is a single color or grey value represented by
+numbers. This is where math comes in. Compression with Daubechies’ wavelets
+computes averages and differences for the numbers in each row and column to
+construct a new grid that is more compact.
+
+In the mid-1990s, her work on wavelets was adopted by the FBI to squeeze down
+their hundreds of millions of fingerprints to make them easier to transmit and
+store.
+
+Any time you go to a movie theater, or watch live sports on ESPN, each frame
+has been compressed using Daubechies’ wavelet-based method -- the latter use
+she discovered while watching a soccer game on TV with her husband. “It was
+the artifacts in the grass,” she said.
+
+Daubechies has also used wavelets to help geologists analyze the wiggly lines
+on seismograms from huge earthquakes and reconstruct what lies below the
+Earth’s crust, and to help neuroscientists read MRI images of brain activity.
+
+In 2007, researchers affiliated with the Van Gogh and Kröller-Müller Museums
+in The Netherlands challenged Daubechies and other scholars to use their image
+processing techniques to analyze more than 100 high-resolution scans of
+paintings, mostly by Vincent van Gogh.
+
+Using wavelets and machine learning to identify subtle differences in brush
+strokes, Daubechies and her team were able to distinguish copies or forgeries
+from true van Goghs.
+
+Thus began an ongoing collaboration between mathematicians, computer
+scientists, museum curators and art historians. Their algorithms are now being
+used to compare artists’ styles, pinpoint when something was painted, even
+mathematically restore artwork that has cracked, faded, or been reduced to
+rubble by wartime bombing -- all without laying a finger on the actual art.
+
+Daubechies held positions at Bell Laboratories, the University of Michigan,
+Rutgers University and Princeton University before joining the Duke faculty in
+2011.
+
+As a Simons Foundation Math+X Investigator, she will receive $300,000 per
+year, with the possibility of a five-year renewal, to expand her collaborative
+research between math and electrical engineering. The Simons Foundation
+considered nominations from across the United States and Canada for this
+award.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

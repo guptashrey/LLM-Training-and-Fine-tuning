@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# First Contracting Human Muscle Grown in Laboratory
+
+January 13, 2015 | By Ken Kingery
+
+Researchers at Duke University report the first lab-grown, contracting human
+muscle, which could revolutionize drug discovery and personalized medicine.
+
+In a laboratory first, Duke researchers have grown human skeletal muscle that
+contracts and responds just like native tissue to external stimuli such as
+electrical pulses, biochemical signals and pharmaceuticals.
+
+The lab-grown tissue should soon allow researchers to test new drugs and study
+diseases in functioning human muscle outside of the human body.
+
+The study was led by Nenad Bursac, associate professor of biomedical
+engineering at Duke University, and Lauran Madden, a postdoctoral researcher
+in Bursac’s laboratory. It appears January 13 in the open-access journal
+eLife.
+
+“The beauty of this work is that it can serve as a test bed for clinical
+trials in a dish,” said Bursac. “We are working to test drugs’ efficacy and
+safety without jeopardizing a patient’s health and also to reproduce the
+functional and biochemical signals of diseases—especially rare ones and those
+that make taking muscle biopsies difficult.”
+
+Bursac and Madden started with a small sample of human cells that had already
+progressed beyond stem cells but hadn’t yet become muscle tissue. They
+expanded these “myogenic precursors” by more than a 1000-fold, and then put
+them into a supportive, 3D scaffolding filled with a nourishing gel that
+allowed them to form aligned and functioning muscle fibers.
+
+“We have a lot of experience making bioartifical muscles from animal cells in
+the laboratory, and it still took us a year of adjusting variables like cell
+and gel density and optimizing the culture matrix and media to make this work
+with human muscle cells,” said Madden.
+
+Madden subjected the new muscle to a barrage of tests to determine how closely
+it resembled native tissue inside a human body. She found that the muscles
+robustly contracted in response to electrical stimuli—a first for human muscle
+grown in a laboratory. She also showed that the signaling pathways allowing
+nerves to activate the muscle were intact and functional.
+
+To see if the muscle could be used as a proxy for medical tests, Bursac and
+Madden studied its response to a variety of drugs, including statins used to
+lower cholesterol and clenbuterol, a drug known to be used off-label as a
+performance enhancer for athletes.
+
+The effects of the drugs matched those seen in human patients. The statins had
+a dose-dependent response, causing abnormal fat accumulation at high
+concentrations. Clenbuterol showed a narrow beneficial window for increased
+contraction. Both of these effects have been documented in humans. Clenbuterol
+does not harm muscle tissue in rodents at those doses, showing the lab-grown
+muscle was giving a truly human response.
+
+“One of our goals is to use this method to provide personalized medicine to
+patients,” said Bursac. “We can take a biopsy from each patient, grow many new
+muscles to use as test samples and experiment to see which drugs would work
+best for each person.”
+
+This goal may not be far away; Bursac is already working on a study with
+clinicians at Duke Medicine—including Dwight Koeberl, associate professor of
+pediatrics—to try to correlate efficacy of drugs in patients with the effects
+on lab-grown muscles. Bursac's group is also trying to grow contracting human
+muscles using induced pluripotent stem cells instead of biopsied cells.
+
+“There are a some diseases, like Duchenne Muscular Dystrophy for example, that
+make taking muscle biopsies difficult,” said Bursac. “If we could grow
+working, testable muscles from induced pluripotent stem cells, we could take
+one skin or blood sample and never have to bother the patient again.”
+
+Other investigators involved in this study include George Truskey, the R.
+Eugene and Susie E. Goodson Professor of Biomedical Engineering and senior
+associate dean for research for the Pratt School of Engineering, and William
+Krauss, professor of biomedical engineering, medicine and nursing at Duke
+University.
+
+The research was supported by NIH Grants R01AR055226 and R01AR065873 from the
+National Institute of Arthritis and Musculoskeletal and Skin Disease and
+UH2TR000505 from the NIH Common Fund for the Microphysiological Systems
+Initiative.
+
+# # #
+
+CITATION: "Bioengineered human myobundles mimic clinical responses of skeletal
+muscle to drugs," Lauran Madden, Mark Juhas, William E Kraus, George A
+Truskey, Nenad Bursac. eLife, Jan. 13, 2015. DOI: 10.7554/eLife.04885
+
+Download a copy of the research artice from Duke Libraries.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

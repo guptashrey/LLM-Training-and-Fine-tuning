@@ -1,0 +1,173 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Biomanufacturing Technology Licensed by Spinoff Company DMC
+
+May 31, 2016 | By Ken Kingery
+
+Technology simplifies and maximizes chemical production by decoupling
+microbial growth and product formation processes
+
+Duke has licensed technology developed in its engineering research
+laboratories to a spinoff company looking to help transform carbohydrate
+feedstocks into high-value products.
+
+From biofuels to fragrances to beer, microbes are responsible for making a
+wide variety of everyday products. While some are merely doing what they’ve
+been doing for thousands of years, others have been engineered to be more
+efficient or to produce specific high-value products. And the companies that
+harness this potential are always looking for ways to make more and spend
+less.
+
+A typical microbe’s array of life processes is extremely complex, however, and
+finding the best combinations of genetic and environmental factors is a tall
+order.
+
+“The number of potential combinations of biochemical reactions to engineer in
+a microbe is something on the order of a septillion. That’s a one with 24
+zeroes after it,” said Matt Lipscomb, CEO and co-founder of DMC. “Even with
+the recent significant advances in lab automation, computing power and machine
+learning algorithms, it’s impossible to experimentally explore the entire
+design space.”
+
+Other companies are developing methods to test variables as fast as possible
+to find better microbial designs, hoping to hit on a winning combination. The
+solution developed by Mike Lynch, co-founder of DMC, and assistant professor
+of biomedical engineering and chemistry at Duke, is to greatly reduce the
+complexity of the problem in part by separating the microbes’ growth phase
+from their production phase.
+
+The approach is much like that of the farmer who prunes an orchard to
+encourage trees to direct their energy toward producing fruit rather than
+growing branches. By culturing microbes at industrial scales as quickly as
+possible and then genetically shutting down growth and extraneous metabolism,
+Lipscomb and Lynch can channel all of the microbes’ energy toward product
+formation. Not only is this more efficient, it reduces the complexity of a
+cell’s biochemical reactions to a design space of around 50 nodes . . . rather
+than 1,000,000,000,000,000,000,000,000.
+
+“We first optimize growth, and then when we reach the desired biomass amount,
+we dynamically turn off any processes related to growth that the cell doesn’t
+need so we can focus it on production,” said Lipscomb. “By decoupling
+microbial growth from product formation, we are able to optimize for a single
+solution at a time.”
+
+“This allows us to direct the flow of carbon, energy and cofactors to support
+the specific biochemical reactions needed to produce the chemical we want,”
+added Lynch. “Rather than extracting compounds from plants or insects, we can
+produce flavors and fragrances, for example, in a much more efficient, cost
+effective, and sustainable way.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

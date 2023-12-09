@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Sound of a Broken Heart
+
+September 20, 2018 | By Ken Kingery
+
+Using audio data from digital stethoscopes, Duke engineers and physicians are
+training computers to spot cardiac complications
+
+Physicians have been training to hear heart problems with stethoscopes for 200
+years. Now engineers at Duke University are training computers hooked to the
+device’s digital descendants to hear heart problems undetectable to the human
+ear.
+
+The project started when Ravi Karra, assistant professor of medicine at Duke
+University Medical Center, lost his stethoscope and replaced it with a more
+sensitive digital version. An expert in Left Ventricular Assist Devices
+(LVADs), he noticed a subtle difference in the way the devices sounded when
+patients were experiencing severe complications. Paired with his new digital
+stethoscope’s capability of recording data, the observation led to a new idea.
+
+“I noticed that LVAD pumps that were doing well sounded slightly different
+than when they were having problems,” said Karra. “I thought maybe there was
+an opportunity here to catch complications at home before they become
+critical.”
+
+An LVAD is a device used for patients that have reached end-stage heart
+failure. Implanted into the left ventricle through open-heart surgery, the
+battery-operated mechanical pump helps send blood throughout the rest of the
+body. The devices are implanted in up to 3,000 patients in the United States
+each year, and Duke Health has one of the largest LVAD programs in the world,
+supporting more than 300 patients.
+
+While the devices do help prolong and provide a better quality of life, they
+come with their own set of problems. Nearly 60 percent of patients are
+readmitted within the first year of receiving an LVAD, most with complications
+that have already progressed to life-threatening stages.
+
+One of the most common complications occurs when blood clots form in the
+device. An LVAD is basically a motor spinning a number of fan blades to push
+blood through the left ventricle. When clots begin to form, the motor must
+compensate, which creates audible changes that are governed by physics.
+
+Working with colleague Priyesh Patel, assistant professor of medicine at the
+Duke University Medical Center, Karra turned to Duke Engineering to better
+understand the mechanical underpinnings of what he was hearing.
+
+“When a lawnmower goes over a thick patch of grass, the rotor blades struggle
+to spin and the motor creates a different sound,” said Leslie Collins,
+professor of electrical and computer engineering at Duke. “Those changes in
+the acoustic spectrum can be expressed through principles governing pump
+frequency. We just have to be able to hear them and then work to understand
+what the audio cues mean for the patient.”
+
+For help with understanding the audible changes, the growing collaboration
+brought in Boyla Mainsah, a research scientist in Duke’s Applied Machine
+Learning Lab. Their hope is that with enough audio clips of LVADs in action,
+machine learning can find patterns leading to the early detection of problems.
+
+> “We’ve shown there’s a clear difference in the sound produced in the most
+> devastating complications, but we want to be able to spot more minor
+> complications in advance as well." - Priyesh Patel, assistant professor of
+> medicine, Duke University Medical Center
+
+In a small proof-of-concept study, the researchers recorded the sounds of two
+patients’ LVADs that were dealing with acute blood coagulation both before and
+after the struggling device was replaced. After completing a thorough spectral
+analysis of the recordings, the researchers were able to show the same clear
+differences in the acoustic harmonic frequencies between normal LVAD devices
+and malfunctioning LVAD devices in both patients.
+
+With that success in hand, the group has received a grant to conduct a larger
+study from the Duke Institute for Health Innovation (DIHI), which promotes
+innovation in health and health care through high-impact innovation pilot
+programs. Their plan is to have 24 patients take regular recordings of their
+LVAD for six months. Because 60 percent of patients experience complications
+within a year, the researchers should be able to obtain recordings of a
+malfunctioning LVAD well before symptoms appear.
+
+“We’ve shown there’s a clear difference in the sound produced in the most
+devastating complications, but we want to be able to spot more minor
+complications in advance as well,” said Patel.
+
+If successful, the method could prove useful for early detection in a wide
+range of medical conditions that have nothing to do with LVADs—or even the
+heart.
+
+“Because of the way that pumps work, it should be relatively easy for machine-
+learning algorithms to analyze their acoustic signatures and identify major
+problems,” said Collins. “The idea could potentially be scaled up to much
+larger applications that affect a much broader portion of the population.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

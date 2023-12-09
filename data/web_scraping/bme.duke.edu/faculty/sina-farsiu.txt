@@ -1,0 +1,322 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Sina Farsiu
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in the Department of Biomedical Engineering
+
+I am the director of the Vision and Image Processing (VIP) Laboratory. Along
+with my colleagues, we investigate how to improve early diagnostic methods and
+find new imaging biomarkers of ocular and neurological diseases in adults
+(e.g. age-related macular degeneration, diabetic retinopathy, Glaucoma,
+Alzheimer) and children (e.g. retinopathy or prematurity). We also develop
+automatic artificial intelligence machine learning and deep learning
+algorithms to detect/segment/quantify anatomical/pathological structures seen
+on medical images.  
+  
+On another front, we study efficient signal processing based methods to
+overcome the theoretical and practical limitations that constrain the
+achievable resolution of any imaging device. Our approach, which is based on
+adaptive extraction and robust fusion of relevant information from the
+expensive and sophisticated as well as simple and cheap sensors, has found
+wide applications in improving the quality of imaging systems such as
+ophthalmic SD-OCT, digital X-ray mammography, electronic and optical
+microscopes, and commercial digital camcorders. We are also interested in
+pursuing statistical signal processing based projects, including super-
+resolution, demosaicing, deblurring, denoising, motion estimation, compressive
+sensing/adaptive sampling, and sensor fusion.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Biomedical Engineering
+  * Associate Professor in the Department of Electrical and Computer
+    Engineering
+  * Professor of Computer Science
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+
+## Contact Information
+
+  * **Office Location:** CIEMAS 2575, Durham, NC 27708
+  * **Office Phone:** (919) 684-6642
+  * **Websites:**
+    * Academic Webpage
+    * Google Scholar
+    * Vision & Image Processing Lab
+
+## Education
+
+  * B.S. Sharif University of Technology (Iran), 1999
+  * M.S. University of Tehran (Iran), 2001
+  * Ph.D. University of California - Santa Cruz, 2005
+  * University of California - Santa Cruz, 2005
+  * University of California - Santa Cruz, 2007
+
+## Research Interests
+
+Focused on medical imaging and machine learning to improve the overall health
+and vision outcome of patients with ocular and neurological diseases (e.g.,
+age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS)
+through earlier and personalized therapy.
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 544: Digital Image Processing (GE, IM)
+  * BME 789: Internship in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * ECE 899: Special Readings in Electrical Engineering
+
+## In the News
+
+  * AI Technique Opens Door for Accelerated Progress in Neuroscience Research
+    (Mar …
+  * A smartphone and new software could help save infants born preterm (Nov
+    20, 201…
+  * Handheld Probe Images Photoreceptors in Children (Aug 23, 2018 | Pratt
+    School o…
+  * Farsiu Receives Signal Processing Award (Sep 20, 2017 | Pratt School of
+    Enginee…
+  * New handheld device could allow for easy retina imaging in children (Aug
+    10, 20…
+  * At Duke, sibling sleuths try to unlock mummy mystery (Mar 4, 2016 | The
+    News & …
+  * Eye test could detect dementia (Apr 29, 2015 | The Daily Mail, Australian
+    Assoc…
+  * Sina Farsiu: Processing an Avalanche of Images (Aug 27, 2014 | Pratt
+    School of …
+  * Duke Labs Produce 2 Intel Talent Search Finalists (Feb 10, 2014 | Duke
+    Research…
+
+## Representative Publications
+
+  * Estrada, Rolando, Carlo Tomasi, Scott C. Schmidler, and Sina Farsiu. “Tree
+    Topology Estimation.” Ieee Transactions on Pattern Analysis and Machine
+    Intelligence 37, no. 8 (August 2015): 1688–1701.
+    https://doi.org/10.1109/tpami.2014.2382116.
+  * Chiu, Stephanie J., Michael J. Allingham, Priyatham S. Mettu, Scott W.
+    Cousins, Joseph A. Izatt, and Sina Farsiu. “Kernel regression based
+    segmentation of optical coherence tomography images with diabetic macular
+    edema.” Biomed Opt Express 6, no. 4 (April 1, 2015): 1172–94.
+    https://doi.org/10.1364/BOE.6.001172.
+  * Polans, James, Ryan P. McNabb, Joseph A. Izatt, and Sina Farsiu.
+    “Compressed wavefront sensing.” Opt Lett 39, no. 5 (March 1, 2014):
+    1189–92. https://doi.org/10.1364/OL.39.001189.
+  * Srinivasan, Pratul P., Stephanie J. Heflin, Joseph A. Izatt, Vadim Y.
+    Arshavsky, and Sina Farsiu. “Automatic segmentation of up to ten layer
+    boundaries in SD-OCT images of the mouse retina with and without missing
+    layers due to pathology.” Biomed Opt Express 5, no. 2 (February 1, 2014):
+    348–65. https://doi.org/10.1364/BOE.5.000348.
+  * Fang, Leyuan, Shutao Li, Ryan P. McNabb, Qing Nie, Anthony N. Kuo, Cynthia
+    A. Toth, Joseph A. Izatt, and Sina Farsiu. “Fast acquisition and
+    reconstruction of optical coherence tomography images via sparse
+    representation.” Ieee Trans Med Imaging 32, no. 11 (November 2013):
+    2034–49. https://doi.org/10.1109/TMI.2013.2271904.
+  * Estrada, Rolando, Carlo Tomasi, Michelle T. Cabrera, David K. Wallace,
+    Sharon F. Freedman, and Sina Farsiu. “Exploratory Dijkstra forest based
+    automatic vessel segmentation: applications in video indirect
+    ophthalmoscopy (VIO).” Biomed Opt Express 3, no. 2 (February 1, 2012):
+    327–39. https://doi.org/10.1364/BOE.3.000327.
+  * Chiu, Stephanie J., Joseph A. Izatt, Rachelle V. O’Connell, Katrina P.
+    Winter, Cynthia A. Toth, and Sina Farsiu. “Validated automatic
+    segmentation of AMD pathology including drusen and geographic atrophy in
+    SD-OCT images.” Invest Ophthalmol Vis Sci 53, no. 1 (January 5, 2012):
+    53–61. https://doi.org/10.1167/iovs.11-7640.
+  * Estrada, Rolando, Carlo Tomasi, Michelle T. Cabrera, David K. Wallace,
+    Sharon F. Freedman, and Sina Farsiu. “Enhanced video indirect
+    ophthalmoscopy (VIO) via robust mosaicing.” Biomed Opt Express 2, no. 10
+    (October 1, 2011): 2871–87. https://doi.org/10.1364/BOE.2.002871.
+  * Robinson, M Dirk, Cynthia A. Toth, Joseph Y. Lo, and Sina Farsiu.
+    “Efﬁcient fourier-wavelet super-resolution.” Ieee Trans Image Process 19,
+    no. 10 (October 2010): 2669–81. https://doi.org/10.1109/TIP.2010.2050107.
+  * Chiu, Stephanie J., Xiao T. Li, Peter Nicholas, Cynthia A. Toth, Joseph A.
+    Izatt, and Sina Farsiu. “Automatic segmentation of seven retinal layers in
+    SDOCT images congruent with expert manual segmentation.” Opt Express 18,
+    no. 18 (August 30, 2010): 19413–28. https://doi.org/10.1364/OE.18.019413.
+  * Farsiu, Sina, James Christofferson, Brian Eriksson, Peyman Milanfar,
+    Benjamin Friedlander, Ali Shakouri, and Robert Nowak. “Statistical
+    detection and imaging of objects hidden in turbid media using ballistic
+    photons.” Applied Optics 46, no. 23 (August 2007): 5805–22.
+    https://doi.org/10.1364/ao.46.005805.
+  * Farsiu, Sina, Michael Elad, and Peyman Milanfar. “Multiframe demosaicing
+    and super-resolution of color images.” Ieee Transactions on Image
+    Processing : A Publication of the Ieee Signal Processing Society 15, no. 1
+    (January 2006): 141–59. https://doi.org/10.1109/tip.2005.860336.
+  * Farsiu, Sina, M Dirk Robinson, Michael Elad, and Peyman Milanfar. “Fast
+    and robust multiframe super resolution.” Ieee Transactions on Image
+    Processing : A Publication of the Ieee Signal Processing Society 13, no.
+    10 (October 2004): 1327–44. https://doi.org/10.1109/tip.2004.834669.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

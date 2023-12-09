@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineers Grow Functioning Human Muscle from Skin Cells
+
+January 8, 2018 | By Ken Kingery
+
+First functioning human muscle grown from induced pluripotent stem cells holds
+promise for cellular therapies, drug discovery and studying rare diseases
+
+Biomedical engineers have grown the first functioning human skeletal muscle
+from induced pluripotent stem cells.
+
+The advance builds on work published in 2015 when researchers at Duke
+University grew the first functioning human muscle tissue from cells obtained
+from muscle biopsies. The ability to start from cellular scratch using non-
+muscle tissue will allow scientists to grow far more muscle cells, provide an
+easier path to genome editing and cellular therapies, and develop individually
+tailored models of rare muscle diseases for drug discovery and basic biology
+studies.
+
+The results appear online Tuesday, January 9, in Nature Communications.
+
+“Starting with pluripotent stem cells that are not muscle cells, but can
+become all existing cells in our body, allows us to grow an unlimited number
+of myogenic progenitor cells,” said Nenad Bursac, professor of biomedical
+engineering at Duke University. “These progenitor cells resemble adult muscle
+stem cells called ‘satellite cells’ that can theoretically grow an entire
+muscle starting from a single cell.”
+
+In their previous work, Bursac and his team started with small samples of
+human cells obtained from muscle biopsies, called “myoblasts,” that had
+already progressed beyond the stem cell stage but hadn’t yet become mature
+muscle fibers. They grew these myoblasts by many folds and then put them into
+a supportive 3-D scaffolding filled with a nourishing gel that allowed them to
+form aligned and functioning human muscle fibers.
+
+In the new study, the researchers instead started with human induced
+pluripotent stem cells. These are cells taken from adult non-muscle tissues,
+such as skin or blood, and reprogrammed to revert to a primordial state. The
+pluripotent stem cells are then grown while being flooded with a molecule
+called Pax7—which signals the cells to start becoming muscle.
+
+As the cells proliferated they became very similar to—but not quite as robust
+as—adult muscle stem cells. While previous studies had accomplished this feat,
+nobody has been able to then grow these intermediate cells into functioning
+skeletal muscle.
+
+The Duke researchers succeeded where previous attempts had failed.
+
+“It’s taken years of trial and error, making educated guesses and taking baby
+steps to finally produce functioning human muscle from pluripotent stem
+cells,” said Lingjun Rao, a postdoctoral researcher in Bursac’s laboratory and
+first author of the study. “What made the difference are our unique cell
+culture conditions and 3-D matrix, which allowed cells to grow and develop
+much faster and longer than the 2-D culture approaches that are more typically
+used.”
+
+Once the cells were well on their way to becoming muscle, Bursac and Rao
+stopped providing the Pax7 signaling molecule and started giving the cells the
+support and nourishment they needed to fully mature.
+
+In the study, the researchers show that after two to four weeks of 3-D
+culture, the resulting muscle cells form muscle fibers that contract and react
+to external stimuli such as electrical pulses and biochemical signals
+mimicking neuronal inputs just like native muscle tissue. They also implanted
+the newly grown muscle fibers into adult mice and showed that they survive and
+function for at least three weeks while progressively integrating into the
+native tissue through vascularization.
+
+The resulting muscle, however, is not as strong as native muscle tissue, and
+also falls short of the muscle grown in the previous study that started from
+muscle biopsies. Despite this caveat, the researchers say this muscle still
+holds potential that the stronger, older relative does not.
+
+The pluripotent stem cell-derived muscle fibers develop reservoirs of
+“satellite-like cells” that are necessary for normal adult muscles to repair
+damage, while the muscle from the previous study had much fewer of these
+cells. The stem cell method is also capable of growing many more cells from a
+smaller starting batch than the biopsy method.
+
+Both of the advantages point toward a possibility of using this new method for
+regenerative therapies and for creating models of rare diseases for future
+studies and individualized health care.
+
+“The prospect of studying rare diseases is especially exciting for us,” said
+Bursac. “When a child’s muscles are already withering away from something like
+Duchenne muscular dystrophy, it would not be ethical to take muscle samples
+from them and do further damage. But with this technique, we can just take a
+small sample of non-muscle tissue, like skin or blood, revert the obtained
+cells to a pluripotent state, and eventually grow an endless amount of
+functioning muscle fibers to test.”
+
+The technique also holds promise for being combined with genetic therapies.
+Researchers could, in theory, fix genetic malfunctions in the induced
+pluripotent stem cells derived from a patient and then grow small patches of
+completely healthy muscle. While this could not heal or replace an entire
+body’s worth of diseased muscle, it could be used in tandem with more widely
+targeted genetic therapies or to heal more localized problems.
+
+The researchers are now refining their technique to grow more robust muscles
+and beginning work to develop new models of rare muscle diseases.
+
+This work was supported by National Institutes of Health (UH3-TR000505,
+UG3-TR002142, AR065873, and AR070543).
+
+CITATION: “Engineering Human Pluripotent Stem Cells Into a Functional Skeletal
+Muscle Tissue.” Lingjun Rao, Ying Qian, Alastair Khodabukus, Thomas Ribar and
+Nenad Bursac. Nature Communications, January 2018. DOI:
+10.1038/s41467-017-02636-4
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

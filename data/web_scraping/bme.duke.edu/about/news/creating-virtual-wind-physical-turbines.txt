@@ -1,0 +1,190 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Creating Virtual Wind for Physical Turbines
+
+February 3, 2015
+
+With a grant from the Department of Energy’s Office of Science Graduate
+Student Research Program, graduate student Jenni Rinker will put a more
+accurate wind in the sails of turbine simulators.
+
+It’s hard to figure out which way the wind blows. It’s full of random
+fluctuations, changes of direction, currents and eddies, and it can have a
+completely different profile a short distance away. And it doesn’t help that
+it’s invisible.
+
+But accurately creating computer models of the wind is important if you’re
+trying to engineer a good wind turbine. With the goal of generating energy
+multiple hours per day over several decades of use, a few extra percentage
+points of efficiency can add up fast.
+
+Armed with a grant from the Department of Energy’s Office of Science Graduate
+Student Research (SCGSR) Program, Pratt graduate student Jenni Rinker will try
+to put a more accurate wind in the sails of turbine simulators. She’ll spend
+an entire year working on her dissertation at the National Wind Technology
+Center (NWTC) in Boulder, Colorado, which is part of the National Renewable
+Energy Laboratory.
+
+“If the wind you’re using in computer simulations of wind turbines doesn’t
+look like real wind, then your results are going to be terrible,” said Rinker,
+a PhD student in the mechanical engineering and materials science department,
+who completed her MS in the civil and environmental engineering department and
+came to Duke from Harvey Mudd College in Claremont, California. “So I am
+trying to develop new statistics and data validation to improve our simulation
+methods.”
+
+The SCGSR Program provides graduate students research opportunities at DOE
+laboratories while working on projects deemed critically important to the DOE
+Office of Science mission. The research advances the graduate students’
+overall doctoral theses while providing them access to the expertise,
+resources and capabilities available at DOE laboratories.
+
+Rinker caught wind of the program while working on her research last summer at
+NWTC. As part of Duke’s PhD Plus program, which helps graduate students
+prepare for the career world, she was strongly encouraged to seek an
+internship. With this encouragement, Rinker contacted the laboratory’s chief
+engineer, Paul Veers, to ask for one.
+
+“It was an unusual situation because I didn’t actually have a position at
+NWTC, but my advisor was supportive of me continuing my research there, and
+Dr. Veers let me have some desk space for a couple of months,” said Rinker,
+whose advisor is Henri Gavin, the Yoh Family Associate Professor of Civil and
+Environmental Engineering and an associate professor of mechanical engineering
+and materials science. “The quality of my research improved a lot just from
+the conversations I was able to have with people there. I would encourage
+anyone to try to get a similar opportunity if possible—it goes a lot further
+than you would think.”
+
+While getting to know the people in Boulder, Rinker found her work fit into
+the laboratory’s puzzle quite well; many of the researchers were interested in
+looking into computer wind simulations but hadn’t had the time. One engineer
+in particular, Andy Clifton, suggested that Rinker apply for the SCGSR grant
+so that she could continue her work at the center officially.
+
+Now, with the help of Clifton, Rinker will be delving into a gigantic wind
+dataset that is constantly being updated by the meteorological tower at the
+lab. She’ll spend the first half of her visit devising new ways of measuring
+wind flows important to turbines and creating a better computer algorithm for
+generating virtual wind. The second half of her stay will focus on showing
+that her new method provides better results than current methods when plugged
+into wind turbine simulations.
+
+“It’s an incredibly complex problem just in the math and science alone,” said
+Rinker. “And of course it’s always nice to be working on research that you
+really appreciate the end goal of. I think wind energy is extremely important
+to the world’s future.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cancer Drug Helps Treat Tuberculosis by Restoring Leaky Blood Vessels
+
+April 26, 2018 | By Ken Kingery
+
+FDA-approved drug that helps vascular integrity also allows antibiotics to
+infiltrate hard-to-reach tuberculosis granulomas in mice
+
+Biomedical engineers have discovered an unlikely potential ally in the global
+fight against tuberculosis—an FDA-approved drug originally designed to treat
+cancer.
+
+Matrix metalloproteinases (MMPs) are naturally produced by animals to break
+down connective tissue for a wide array of biological processes such as wound
+repair, growth and tissue development. There are many diseases, however, that
+hijack these enzymes for their own purposes.
+
+An increased production of MMPs has been strongly linked to the growth and
+metastasis of tumors. Many drugs have been created to inhibit MMP production,
+but have proven largely unsuccessful as standalone treatments to slow cancer
+progression in clinical trials.
+
+In a new study, biomedical engineers at Duke University show that these drugs
+may be more useful in treating tuberculosis. The results show that several MMP
+inhibitors, including the FDA-approved drug Marimastat, improve the structural
+integrity of leaky blood vessels in tuberculosis granulomas, allowing
+antibiotics to penetrate them and attack the tuberculosis pathogens in mice
+more efficiently.
+
+The study appears online on April 26 in the journal PLOS Pathogens.
+
+“Scientists have been focusing on the antibiotics used against tuberculosis
+for a long time,” said Xiling Shen, associate professor of biomedical
+engineering at Duke University. “We thought maybe it was time to take a new
+angle by targeting the host’s response to the disease instead.”
+
+By estimates of the World Health Organization, more than one-quarter of the
+world’s population is currently infected with tuberculosis. Although only 5 to
+10 percent will become symptomatic and infectious, the disease kills more than
+1.25 million people every year, making it one of the world’s deadliest
+infectious diseases. Tuberculosis infection is also the leading cause of
+HIV/AIDS patient deaths.
+
+When the bacterium _Mycobacterium tuberculosis_ enters the lungs, the immune
+system attempts to contain it by forming a lesion around it called a
+granuloma. Unfortunately, the bacteria have adapted to make these prisons more
+like homes.
+
+“Tuberculosis is one of humanity’s oldest pathogens and has even been found in
+ancient Egyptian mummies,” said Shen. “It has evolved a very clever strategy
+to survive. While these granulomas are meant to contain and destroy
+tuberculosis, the bacteria upregulates host MMPs to remodel the interior of
+the granuloma, essentially renovating their new homes to gain protection from
+the immune system and antibiotics.”
+
+The _M. tuberculosis_ can lie dormant within these granulomas for decades
+until something triggers them to become active. Once this happens, the disease
+is once again contagious, killing roughly 15 percent of those who reach this
+stage. While scientists aren’t exactly sure why or how this happens, illnesses
+that affect the immune system such as HIV are often the root cause.
+
+Thanks to the protection of the granulomas, tuberculosis is extremely
+difficult to kill even in its active stage, requiring a six-to-nine month
+regimen of antibiotics. And because many people struggle to stick with
+treatment for that long—especially after symptoms have subsided—strains
+resistant to multiple types of antibiotics are emerging. This is part of the
+reason why it is so important for researchers to find faster ways of curing
+the disease.
+
+A cancer specialist by training, Shen was working on a Defense Advanced
+Research Projects Agency (DARPA) project when he realized that the way
+tuberculosis manipulates the granuloma is very similar to the way tumors grow
+and metastasize. Knowing that MMP inhibitors had been shown to strengthen
+vasculature in tumors so as to better deliver cancer medications, he thought
+perhaps they would do the same trick in tuberculosis granulomas.
+
+Shen teamed up with a tuberculosis expert, Dr. David Russell at Cornell
+University and showed that a number of different small molecule MMP inhibitors
+increased the effectiveness of frontline anti-tuberculosis drugs in killing
+the disease in mouse models. They demonstrated that this is accomplished by
+improving blood vessel health in the granulomas, allowing more of the
+antibiotics to be delivered to and retained in the lungs. Given the promise of
+the approach, Shen hopes to test the idea in primates next, which could
+eventually lead to human clinical studies.
+
+This work was supported by the Department of Defense Defense Advanced Research
+Projects Agency (19-1091726, 21-1073697, W911NF-15-1-0609) and the National
+Institutes of Health (R35GM122465).
+
+“Matrix metalloproteinase inhibitors enhance the efficacy of frontline drugs
+against Mycobacterium tuberculosis.” Yitian Xu, Lihua Wang, Matthew D.
+Zimmerman, Kai-Yuan Chen, Lu Huang, Dah-Jiun Fu, Firat Kaya, Nikolai Rakhilin,
+Evgeniya V. Nazarova, Pengcheng Bu, Veronique Dartois, David G. Russell,
+Xiling Shen. PLOS Pathog 14(4), 2018. DOI: 10.1371/journal.ppat.1006974
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

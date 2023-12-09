@@ -1,0 +1,408 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# How to Catch COVID-19
+
+October 29, 2020
+
+If the last year has shown us anything, it’s that fast and accurate diagnostic
+tests are key for helping to control the spread of a dangerous disease. In
+this episode, BME’s Ashutosh Chilkoti and his PhD students explain how the
+lab’s signature diagnostic platform is being modified to quickly and
+accurately detect COVID-19.
+
+## Listen
+
+## Transcript
+
+Bells intro/music
+
+Kane: This is Rate of Change, a podcast from Duke Engineering dedicated to the
+ingenious ways engineers are solving some of society’s toughest problems. I’m
+Michaela Kane.
+
+This episode’s topic involves a subject that’s been hard to avoid over the
+last six months
+
+****Coronavirus news coverage medley****
+
+Back in late February and early March, most people could say that the novel
+coronavirus wasn’t significantly affecting their daily lives. But that wasn’t
+true for Cassio Fontes, a PhD student in the lab of Ashutosh Chilkoti in the
+biomedical engineering department at Duke University.
+
+Chilkoti: In late February we realized that the coronavirus was here and it
+was going to be a serious problem, and I approached my senior graduate student
+Cassio Fontes and I said perhaps we should take a break, a little detour and
+see what we can do in terms of coronavirus diagnostics. And Cassio is very
+adventurous and works very hard and he jumped on it.
+
+Fontes: I was actually home writing my thesis, right, because I’d been at Duke
+for quite a while and it was time to graduate, and Tosh was like ‘oh, come
+back, we need you to work on a test and see if you can make something, quick.’
+
+Kane: The test Fontes is referring to is the D4 assay––the lab’s signature
+diagnostic platform. It’s made by inkjet-printing an array of antibodies onto
+a glass slide with a nonstick polymer coating, and it has the potential to
+transform point-of-care testing into an easy, accurate and fast process.
+
+There are lots of different types of diagnostic tests. The gold standard is
+the polymerase chain reaction test, or the PCR. The PCR works by copying a
+target stretch of RNA or DNA until it can be detected in a sample.
+
+This test is highly sensitive and accurate, but it isn’t portable and it
+requires trained technicians to use. On the opposite side of the spectrum,
+lateral flow tests which are similar to a pregnancy test where you can add
+your sample to the platform and get a diagnosis very quickly, but the trade-
+off is diminished sensitivity, so they aren’t as accurate.
+
+But the D4 assay operates at the intersection of these tests, offering
+sensitivity and portability, and shortening a wait time of days into less than
+an hour.
+
+Chilkoti and his lab began developing the platform more than 15 years earlier,
+but they hadn’t actually intended to create a diagnostic test at all. Instead,
+it started with the creation of a polymer brush coating that prevented cells
+and proteins from sticking to its surface.
+
+Kane: One of the many challenges of working with diagnostics involves cutting
+down on the background noise in the sample. This means that while some
+diagnostic tests may pick up the target protein, they may also pick up other
+proteins you don’t want to capture, or show a positive signal even when no
+target protein is present, which muddies the test result. But the non-stick
+coating seemed like a promising solution to this problem.
+
+Chilkoti: And the idea, the --hypothesis was that because we have a surface to
+which nothing stuck accidentally when you didn’t want it to, if you attached
+some sort of capture molecule like an antibody to the surface, we should then
+be able to pull out a protein of interest from a complex mixture like blood or
+serum so we’d have very specific capture where we wanted it and when we wanted
+it to this non-stick surface.
+
+We could really get rid of this background absorption problem that has plagued
+all immunodiagnostics, because a lot of diagnostics are done by putting a
+molecule on a surface, like an antibody, which then pulls out whatever we want
+and detects it. So that was our hypothesis, and we started to work on it.
+
+I had a student Angus Hucknall, one of the most creative students I have had
+in my group, who discovered a way to make it work. He discovered that once you
+made the surface you really couldn’t change the chemistry of it. If you made
+any other modifications no matter how subtle, you’d ruin this non-stick
+behavior.
+
+Kane: Hucknall realized that if he dried the surface, he was able to inkjet
+print the antibody onto the slide so it could be captured within the polymer’s
+surface.
+
+Chilkoti -- That was a counter-intuitive idea he came up with, and by doing
+that he wasn’t doing any chemistry to the surface, there were no chemical
+modifications we made, which meant that the background and the rest of the
+surface remained pristine and therefore completely repellant to proteins and
+cells.
+
+Kane: By figuring out how to add these capture antibodies into this polymer
+brush coating, Hucknall was able to create a sandwich immunoassay, which works
+by capturing the target protein between two antibodies, like peanut butter
+between two slices of bread. When a sample is placed on the slide, the
+antibodies capture the target antigen between them and light up. These spots
+of lights can then be read using a small hand-held scanner.
+
+Chilkoti: What he showed was you can get a really intense spots, really clean
+spots on the background, and we showed that you could improve the performance
+given any sandwich immunoassay by 100 to 200 fold. That was our first
+development, and then in his PhD he did something equally interesting, where
+he decided to move into point of care diagnostics. We decided to do this
+because we both recognized that we were working on these surfaces where the
+spots that we were inkjet printing were 150 microns, which are about the width
+of human hair. So these were very tiny spots and we didn’t need much blood to
+do the assay. We could do it with a drop of blood. To turn our original test
+that has several steps that involve addition of reagents to the surface and
+wash steps, and make it as simple as a home pregnancy test meant we had to get
+rid of these steps. To do this he printed little tablets of the other reagents
+on the chip that dissolve when blood hits the surface and then the test
+completes itself from that point on. It was a very simple idea but it worked
+beautifully. So dome years later, we published another paper in PNAS showing
+this idea, and that we didn’t lose any performance compared to the original
+test despite its extreme simplicity.
+
+This has been a big challenge in point of care assays is that when you go from
+a central lab setting to a field setting or a point of care setting or a self-
+test setting, you often take a big hit in sensitivity, and we did not.
+
+Kane: When Fontes joined the lab in 2014, a very different virus was drawing
+the world’s attention, and it prompted him to pursue the project that would
+later become his PhD thesis.
+
+Fontes: 2014 was when the Ebola outbreak happened, and that’s when I jumped
+into this project of making a new test for a new biomarker on Ebola.
+
+Kane: Because the Ebolavirus is only contagious after patients develop
+symptoms, doctors relied on sensitive tests, like PCR to identify and
+quarantine patients who tested positive for the virus. But Fontes and his
+collaborators across Duke and at a BSL4 lab in Galveston Texas, wanted to see
+if the D4 could detect a biomarker that was present in blood before symptoms
+appeared.
+
+Fontes: The test is really easy and cheap to manufacture, so you could
+potentially mass-screen populations, like there was an outbreak in a village
+you can just screen everyone in the village and then you can actually identify
+people that are infected by asymptomatic or before they develop symptoms.
+
+Kane: Although the speed, portability and sensitivity of the D4 makes it an
+ideal platform for tracking disease outbreaks in resource-limited settings,
+Fontes’s work with Ebola also proved that the D4 assay was a great platform
+for screening antibodies and other reagents which helped researchers identify
+which materials were the best match for different antigens.
+
+Fontes: I sort of jumped into this project of making a new test for a new
+biomarker for Ebola, but to make that test I had to develop a bunch of
+different technologies to integrate new reagents, screen new reagents, develop
+new reagents for Ebola because it was a new biomarker and antibody development
+takes quite a while, and a good chunk of my work was actually figuring out how
+to streamline the development and selection of these antibodies, and the D4
+was actually the centerpiece to expedite the antibody development.
+
+Kane: When the coronavirus was identified as an emerging global threat in
+early 2020, the Chilkoti lab recognized that their previous work with the
+assay made it an ideal platform to test for the new public health threat.
+
+The team was able to collect a multitude of antibodies and other reagents to
+test, including antibodies from the original SARS virus, which is another
+coronavirus that was responsible for an outbreak in 2003.
+
+Chilkoti: We dropped everything else and started to play around with these
+reagents to see what kind of diagnostics we could develop.
+
+Kane: The team was able to create a proof-of-concept that could accurately
+detect biomarkers from a synthetic version of the SARS-COV-2 virus, which
+causes COVID-19. In recognition of this work, they were awarded a RAPID
+Response Research grant from the National Science Foundation to continue to
+optimize and validate their platform. This work also involves exploring how
+they can make the diagnostic easier for people to use in the field, whether
+that’s in places like West Africa or at the Duke University Medical Center.
+
+Chilkoti: If you have a drop of blood diffusing on a surface, you want it to
+be enclosed. So let’s say you’re working with Ebolavirus. You don’t want the
+tester to get Ebola. It has to be completely self-contained and safe, and I
+have a student, David Kinnamon who has done an amazing job creating a
+completely self-enclosed passive microfluidic chip.
+
+Kane: Here’s David Kinnamon to explain.
+
+Kinnamon: Our goal has been, always, is can we add the sample and then the
+chip does everything else for you. So essentially what the microfluidic chip
+does is the incubation, the washing, and the drying all by itself. And we
+wanted to accomplish that in a passive way, so it doesn’t need any sort of
+actuators, or any sort of pumps to accomplish this task. We didn’t want any
+sort of secondary equipment that’s needed to operate those steps. We wanted it
+to be able to stand alone in the field.
+
+Kane: As Kinnamon redesigns the microfluidic chip, they’ve also recruited Jake
+Heggestad, another PhD student in the Chilkoti lab, to adapt the D4 to perform
+both antigen and serology tests to detect COVID-19.
+
+Chilkoti: The reagents were not great, but they were good enough for us to
+create a diagnostic to test for the disease, but also to develop a diagnostic
+to look at the antibody response. Because after you get the disease and you
+recover, you then develop antibodies which may be protected, and that’s called
+serology. And those are the two important tests. To diagnose people, or newly
+infected people, and also to look at and see if patients are developing
+antibodies, which could reflect that. We realized we could potentially do
+both.
+
+Heggestad: The idea with the antigen test is that it could be used for acute
+diagnosis, so if someone is actively sick with the disease you could hopefully
+go in and get tested for these different antigens that we’re trying to detect
+for.
+
+Whereas for serology test you’re trying to detect previous exposure to the
+disease, so you’re looking for your antibodies response to the virus, which is
+in the way of production of antibodies, so if you can detect antibodies to the
+SARS-CoV-2 virus it is suggested that you’ve had the disease at some point.
+
+Kinnamon: For the antigen test the key thing is we don’t need a centralized
+lab. Like the current nasal swab involves doing the swab and it gets sent to a
+lab where the PCR is done, and then you get results a few days later. If our
+antigen test works as we think it will, we’d have quantitative results in the
+frame of 1-2 hours as opposed to 1-2 days depending on where those results are
+being sent.
+
+Heggestad: The unique thing about our technology is that the way I like to
+describe it is that we have the ease of use and the usability of the lateral
+flow assays, which are like the pregnancy type tests that are very simple to
+use. But the issue with those is that they aren’t as sensitive or specific to
+the disease. Because of our platform we have the usability of the lateral flow
+assays but also the sensitivity of traditional laboratory-based assays like
+Elisa. A lot of that comes down to basically the surface that we’re using.
+It’s a high performance surface for clinical diagnostic tests.
+
+Kane: According to the team, the goal is to test the accuracy of the platform
+using samples from patients, which is possible due to a collaboration with
+Chris Woods, a clinical investigator and Professor of Global Health and
+Medicine and Chief of the Infectious Diseases Division at the VA Medical
+Center. They anticipate starting clinical tests this fall.
+
+Kinnamon: We have a functioning research prototype for both the antigen and
+the serology. I’d say the serology is further along. There are reasons why we
+believe it could be more useful in the short term, but our long-term goal is
+to have both tests working well. And when I say further along I mean we’ve
+tried more reagents, optimized more for performance and tested in simulated
+human samples for the serology tests. We’re still looking for the best
+reagents to use for the antigen tests. We have a functional test for the
+antigens but we do think we can do better.
+
+Kane: Although the coronavirus diagnostic is a large focus of their current
+diagnostic work, the Chilkoti lab is also continuing to adapt their platform
+to explore how they can detect a variety of different diseases and pathogens.
+In April it was announced that the lab had received two grants totaling more
+than 13.7 million in funding to use the platform to detect bioterrorism agents
+and to diagnose breast cancer in resource limited settings.
+
+After all, the current global pandemic underscores the need for rapid,
+affordable and accurate diagnostic testing.
+
+Fontes: The platform itself is not only sensitive, but it’s also adaptable to
+track a lot of diseases. Like we’ve done cancer biomarkers, we’ve done several
+infectious diseases, we’ve done inflammatory biomarkers. We can potentially in
+the future, as the technology develops, we can make a panel for I don’t know,
+50 diseases in this platform. All you need is a little drop of blood and you
+can test for all of them at once.
+
+Testing is the first step to figure out who is sick, who is not sick, to
+isolate people, to start decontamination. Even to treat people. And if you’re
+not testing people and if you can’t test people fast enough, there is really
+no way to control any outbreak.
+
+Kane: That’s it for this week’s episode. If you liked our podcast, share with
+your friends, follow us on social media for updates, and don’t forget to
+subscribe! Thanks for listening to Rate of Change, and until next time, stay
+safe!
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Ashutosh Chilkoti
+
+Alan L. Kaganov Distinguished Professor of Biomedical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

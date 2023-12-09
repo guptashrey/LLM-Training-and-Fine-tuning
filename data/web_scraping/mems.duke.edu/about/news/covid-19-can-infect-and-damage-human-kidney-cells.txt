@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# COVID-19 Can Infect and Damage Human Kidney Cells
+
+April 21, 2022 | Michaela Kane
+
+Duke researchers showed that SARS-CoV-2 can infect kidney cells via multiple
+binding sites and hijack the cell’s machinery to replicate, causing injury and
+COVID-19-associated kidney disease
+
+The virus that causes COVID-19, SARS-CoV-2, can directly infect a specialized
+type of kidney cell. The discovery helps explain why acute kidney injury is
+one of the main complications observed in patients with severe COVID-19,
+according to biomedical engineers and virologists at Duke University.
+
+The research appeared online April 20 in the journal Frontiers in Cell and
+Developmental Biology.
+
+When COVID-19 began spreading across the globe in early 2020, physicians knew
+that the virus primarily infected cells in the respiratory tract. But as the
+case numbers began to grow, physicians were surprised to see that many
+patients –– especially those with severe COVID-19 –– were also developing
+injuries to their kidneys.
+
+The issue came to Samira Musah’s attention when she attended a virtual
+symposium in the spring of 2020. Musah, an assistant professor of biomedical
+engineering and medicine at Duke, listened as physicians presented research
+that described how patients who had never experienced any kidney-related
+issues were developing kidney disease after getting sick with COVID-19.
+
+“It was shocking to hear doctors describe how patients who were healthy
+suddenly developed kidney injury and needed to go on dialysis after
+contracting SARS-CoV-2,” said Musah. “It was clear that the virus was doing
+something to the kidneys, but it was so early in the pandemic that nobody was
+sure what was going on.”
+
+In previous work, Musah and her team showed that they could guide human
+induced pluripotent stem cells to develop and mature into functional
+podocytes, which is a specific type of kidney cell that helps control the
+removal of toxins and waste from the blood. Musah and Titilola Kalejaiye, a
+postdoctoral fellow in the lab, wanted to see if they could use this model to
+determine how and why SARS-CoV-2 was capable of damaging kidney cells.
+
+As a proof of concept, Kalejaiye initially worked with a pseudovirus version
+of SARS-CoV-2. These psuedoviruses are developed to mimic characteristics of
+specific viruses but are incapable of producing replication-competent viral
+particles, making them safe to use for broad research. After introducing the
+pseudovirus into their podocyte cell model, Kalejaiye discovered that the
+spike protein of the virus could directly bind to numerous receptors on the
+surface of podocytes.
+
+“We found that the virus was especially adept at binding to two key receptors
+on the surface of the podocytes, and these receptors are abundant in these
+kidney cells,” explained Kalejaiye, who is also the first author of the paper.
+“There was a strong uptake of the virus initially, and we also found that when
+you increased the dose of the virus, the uptake would increase even further.
+The virus seemed to have a strong affinity for these kidney cells.”
+
+To test their podocyte model with the real SARS-CoV-2 virus, Musah and
+Kalejaiye teamed up with Maria Blasi, an assistant professor of medicine at
+Duke and a researcher in the Duke Human Vaccine Institute. Before the
+pandemic, Blasi was exploring how viruses, including HIV, infect and damage
+another subset of kidney cells called renal tubular epithelial cells.
+
+“It was a stroke of luck that we crossed paths at the faculty meeting we both
+attended,” said Blasi. “Samira was looking for someone with experience
+handling live viruses, and I was looking for a model of the podocytes that
+Samira can make, so we decided to kill two birds with one stone.”
+
+Just like with the pseudovirus, the team observed that the live version of the
+virus had a strong affinity for podocytes. Once the virus infected the cells,
+it damaged the podocytes, causing their long, finger-like structures, which
+help filter blood, to retract and shrivel. If the injuries to the cells were
+too severe, the podocytes would die.
+
+“Beyond the structural damage, we saw that the virus could hijack the
+machinery of the podocytes to produce additional viral particles that could
+spread to infect additional cells,” Blasi said.
+
+Now the team hopes to expand their work to study how the different variants of
+SARS-CoV-2 behave in kidney cells. As variants of the virus have emerged,
+kidney injuries are occurring less frequently. This has made the team question
+how the new variants are changing and if they are becoming less capable of
+infecting kidney cells.
+
+“I think it’s remarkable that we went from being home and hearing the initial
+reports from physicians to forming this collaboration virtually and having
+these results on such a short timeline,” said Musah. “We had the right people
+and the right tools at the right time. It’s been one of the most successful
+collaborations of my relatively young lab, and I’m looking forward to
+continuing this work.”
+
+This work was supported by a Whitehead Scholarship in Biomedical Research, a
+Chair’s Research Award from the Department of Medicine at Duke University, a
+Duke MEDx Pilot Grant on Biomechanics in Injury or Injury Repair, a Burroughs
+Welcome Fund PDEP Career Transition Ad Hoc Award, a Genentech Research Award,
+and a George M. O’Brien Kidney Center Pilot Grant (P30 DK081943) awarded to
+Musah. Blasi was supported by the National Institute of Diabetes and Digestive
+and Kidney Diseases grant number R01DK130381. Work with live SARS-CoV-2
+isolate was performed under Biosafety Level-3 (BSL3) in the Duke Regional
+Biocontainment Laboratory (RBL), which received partial support for
+construction from the National Institutes of Health, National Institute of
+Allergy and Infectious Diseases (UC6-AI058607, G20-AI167200).
+
+CITATION: “SARS-CoV-2 Employ BSG/CD147 and ACE2 Receptors to Directly Infect
+Human Induced Pluripotent Stem Cell-Derived Kidney Podocytes,” Titilola
+Dalejaiye, Rohan Bhattacharya, Morgan Burt, Tatianna Travieso, Arinze Okafor,
+Xingrui Mou, Maria Blasi & Samira Musah. Frontiers in Cell and Developmental
+Biology, April 20, 2022. DOI: 10.3389/fcell.2022.855340
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,241 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke to Lead $15 Million Program to Create First Practical Quantum Computer
+
+August 7, 2018 | By Ken Kingery
+
+Seven-university, five-year interdisciplinary collaboration is funded by the
+National Science Foundation’s largest quantum computing effort to date
+
+Researchers from Duke University will lead a seven-university, $15 million
+collaboration with the audacious goal of building the world’s first practical
+quantum computer.
+
+Dubbed the Software-Tailored Architecture for Quantum co-design (STAQ)
+project, the effort seeks to demonstrate a quantum advantage over traditional
+computers within five years using ion trap technology.
+
+The project is the result of a National Science Foundation Ideas Lab—a week-
+long, free-form exchange among researchers from a wide range of fields that
+aims to spawn creative, collaborative proposals to address a given research
+challenge. The result of each Ideas Lab is interdisciplinary research that is
+high-risk, high-reward, cutting-edge and unlikely to be funded through
+traditional grant mechanisms.
+
+This particular NSF Ideas Lab focused on the Practical Fully-Connected Quantum
+Computer challenge. STAQ will involve physicists, computer scientists and
+engineers from Duke University, University of Maryland, University of Chicago,
+Tufts University, the Massachusetts Institute of Technology, University of
+California-Berkeley and University of New Mexico.
+
+“Quantum computers will change everything about the technology we use and how
+we use it, and we are still taking the initial steps toward realizing this
+goal,” said NSF Director France Córdova. “Developing the first practical
+quantum computer would be a major milestone. By bringing together experts who
+have outlined a path to a practical quantum computer and supporting its
+development, NSF is working to take the quantum revolution from theory to
+reality.”
+
+“There’s a really clear path to getting to two-to-three dozen ion trap qubits
+working together in a quantum computer,” said Kenneth Brown, associate
+professor of electrical and computer engineering, chemistry, and physics at
+Duke, and leader of the new collaboration. “But it will take at least twice as
+many to solve a challenging calculation, and achieving that within five years
+is no cakewalk.”
+
+Many private companies including Google and IBM are also working to build
+their own versions of a quantum computer, but with different underlying
+technology. The new collaboration will be working with trapped ions—atoms with
+electrons stripped away to give them a positive electric charge. That charge
+allows researchers to suspend ultra-cooled atoms using an electromagnetic
+field in an ultra-high vacuum, where precise lasers manipulate their quantum
+states to form qubits.
+
+Qubits are the quantum mechanical analogue of a traditional logical bit, which
+can be in a “1” or a “0” state, except a qubit can be in both positions at the
+same time. While researchers have proven able to build robust qubits, scaling
+them into large networks while detecting and correcting errors remains a
+challenge.
+
+“System-level research for quantum computers—such as architecture designs,
+operating systems, compilers and programming environments—have only been
+performed in an academic environment at an abstract level so far,” said
+Jungsang Kim, professor of electrical and computer engineering, physics and
+computer science at Duke, who will collaborate on the project with Brown.
+“This project will enable these research activities to be carried out on a
+concrete experimental hardware system, so practical progress can be made.”
+
+"The first truly effective quantum computer will not emerge from one
+researcher working in a single discipline," echoed NSF Chief Operating Officer
+Fleming Crim. "Quantum computing requires experts from a range of fields, with
+individuals applying complementary insights to solve some of the most
+challenging problems in science and engineering. NSF's STAQ project uniquely
+addresses that need, providing a cutting-edge approach that promises to
+dramatically advance U.S. leadership in quantum computing."
+
+The project’s integrated approach to developing a practical quantum computer
+relies on finding new algorithms based on optimization and scientific
+computing problems, improving quantum computer hardware, and developing
+software tools that optimize algorithm performance for the specific machine.
+
+The STAQ researchers will focus on four primary goals:
+
+  * Develop a quantum computer with a sufficiently large number of quantum
+    bits (qubits) to solve a challenging calculation.
+  * Ensure that every qubit interacts with all other qubits in the system,
+    critical for solving fundamental problems in physics.
+  * Integrate software, algorithms, devices and systems engineering.
+  * Involve equal input from experimentalists, theorists, engineers and
+    computer scientists.
+
+Chris Monroe, the Bice Seci-Zorn Professor of Physics at the University of
+Maryland and Fellow of the Joint Quantum Institute, will lead the team
+developing the hardware. Fred Chong, the Seymour Goodman Professor of Computer
+Science at The University of Chicago will lead the software component of the
+project. Peter Love, associate professor of physics and astronomy at Tufts
+University, will lead the team developing applications to run on the new
+quantum system. And as the leader of the entire project, it will be Brown’s
+job to oversee the integration of and communication among the groups.
+
+Other members of the collaboration include: Akimasa Miyake of the University
+of New Mexico, Aram Harrow of the Massachusetts Institute of Technology,
+Alexey Gorshkov of the National Institute of Standards and Technology, and
+Hartmut Haeffner of the University of California – Berkeley.
+
+“This project ties together several groups that I have worked on projects with
+separately in the past,” said Brown. “It is also providing me the opportunity
+to work with other well-known researchers in the field who I’ve always wanted
+to collaborate with. Having everyone together under one umbrella is truly
+exciting.”
+
+As a cross-disciplinary project, STAQ encourages convergence across research
+fields and aligns with The Quantum Leap: Leading the Next Quantum Revolution,
+one of NSF's 10 Big Ideas for Future NSF Investments. It is funded through
+NSF’s Mathematical and Physical Sciences, Engineering, and Computer and
+Information Science and Engineering directorates.
+
+**About The Quantum Leap: Leading the Next Quantum Revolution**
+
+One of NSF’s 10 Big Ideas, The Quantum Leap initiative aims to accelerate
+innovative research and provide a path forward for science and engineering to
+help solve one of the most critical, competitive and challenging issues of our
+time. Researchers will design, construct and analyze new approaches to quantum
+computing and test algorithms at a scale beyond the reach of simulations run
+on classical computers. Quantum research is essential for preparing future
+scientists and engineers to implement the discoveries of the next quantum
+revolution into technologies that will benefit the nation.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Self-Assembling Nanofibers Could Improve Nasal-Based Vaccine Delivery
+
+August 12, 2020
+
+The new platform provides potential for more effective vaccines with fewer
+side effects
+
+This story was originally appeared on the University of Chicago Medicine
+website.
+
+The ongoing COVID-19 pandemic is shining a bright spotlight on vaccine
+development. As numerous vaccines race through clinical trials, physicians and
+researchers continue to work on developing new vaccine technologies to
+generate the most effective vaccines with the fewest side effects.
+
+A new proof-of-concept study by researchers at the University of Chicago and
+Duke University demonstrates the potential for one such platform, using self-
+assembling peptide nanofibers tagged with antigens to prime the immune system
+against a potential invasion.
+
+Their research, published in _Science Advances_ on August 7, 2020, showed that
+these nanofibers can induce an immune response and activate T cells without
+the use of additional adjuvants, which can induce inflammation and are
+associated with common vaccine side effects, like soreness at the injection
+site or low-grade fever.
+
+“We wanted to understand how the body processed this nanofiber system, from
+its first interaction with the immune system to the point where it led to a
+complete immune response,” said co-senior author Anita Chong, PhD, a professor
+of surgery at the University of Chicago Medicine. “In order to visualize the
+uptake of the nanofibers, we decided to try the intranasal route, because it
+would give us access to dendritic cells in the lungs and let us track their
+movement into the draining lymph nodes.”
+
+Lining the surfaces of the lungs and intestines, dendritic cells act as a
+first point of contact for the innate immune system. These cells bind to and
+gobble up the antigens found on the surface of invading pathogens, then turn
+around and present the antigens on their own cell surface to other immune
+system cells, including T and B cells. This allows the T cells to initiate an
+immune response and prepare to defend the body against the invading bacteria,
+fungus or virus.
+
+In the study, the researchers leveraged their nanofiber platform to test a
+specific kind of vaccine, called a subunit vaccine, which only uses a specific
+protein intended to act as the main antigen to stimulate an immune response.
+This is in contrast to other kinds of vaccines, such as live-attenuated
+vaccines or inactivated vaccines, which challenge the immune system by
+introducing the whole virus, in a less virulent or inactive form.
+
+Each type of vaccine has its advantages and disadvantages; live-attenuated
+vaccines can offer the most protection, but because they contain the actual
+pathogen, they frequently can’t be used for patients with weakened immune
+systems.
+
+“The major advantage of subunit vaccines is safety since they don’t involve
+the replication of live pathogens,” said first author Youhui Si, PhD, a
+research scientist at UChicago. “On the other hand, to increase their
+effectiveness, subunit vaccines require adjuvants and repeated doses to induce
+long lasting immunity against a disease.”
+
+Adjuvants have the big downside of provoking inflammation. “This makes it
+difficult to find the balance between getting a strong enough immune response
+and making the vaccine as safe and side effect-free as possible,” said co-
+senior author Joel Collier, PhD, an associate professor of biomedical
+engineering at Duke University.
+
+“The fiber we’ve developed is unique in that it doesn’t require that
+inflammation,” he continued. “The scaffolding itself seems to be able to
+activate the dendritic cells to kick off the immune response. But before now,
+we didn’t have any real understanding of which pathways were involved in this
+process, so this study provides some insight into what’s going on.”
+
+The researchers say that not requiring adjuvants has a lot of advantages.
+“Aside from the inflammation issues, adjuvants require vaccines to be kept in
+cold storage,” Chong said. “Without them, the peptides are quite heat stable,
+and can be delivered as a dry powder to be reconstituted into nanofibers on
+site, making it easier to get vaccines into resource-limited areas.”
+
+The researchers believe that the primary strength of their nanofiber
+scaffolding is that it provides a physical structure that presents the
+antigens to the dendritic cells, making it easier for the innate immune system
+to recognize the antigens and begin a response.
+
+“I think there has not been enough attention toward understanding the physical
+scaffolding surrounding antigens, and the information that scaffolding
+provides to the immune system,” said Chong. “This system will let us start
+picking apart the signals that are delivered by a physical structure; are they
+complimentary to, or distinct from, the soluble chemical adjuvants?”
+
+While the study was intended primarily to uncover the mechanism by which the
+nanofibers can induce an immune response, the results also demonstrate that
+this platform has great potential for generating safe, effective intranasal
+vaccines.
+
+“We saw that the peptide fibers alone generated a strong immune response via
+the intranasal route,” Collier said. “This route is great for vaccine
+compliance, because it doesn’t involve a needle. Some people have a hard time
+with needles – including myself! They can induce a vasovagal response, causing
+people to lose consciousness, and it’s difficult to control. Eliminating
+needles from a vaccine platform could help with this issue and may mean that
+more people will seek out the vaccine.”
+
+This platform would also allow physicians and scientists to more precisely
+dial in the immune response to provide the best protection against a disease.
+They provided the example of SARS-CoV-2, the novel coronavirus that causes
+COVID-19, as an example where being able to fine-tune the immune response and
+delivering the vaccine directly to the most affected tissues could be
+beneficial.
+
+“We don’t know yet which antigens will be most maximally protective against
+COVID-19,” said Collier. “This would let us very precisely target and produce
+antibodies and T cells that will provide the most protection.”
+
+The researchers said that the intranasal platform and the similar sublingual
+platform, which involves spraying the vaccine under the tongue, have a lot of
+potential. “Not only are these routes needle-free, making it easier and more
+comfortable for people to access, but they can also elicit an immune response
+in the lungs or mucosal tissues directly,” Chong said. “Many infections occur
+through the oral and respiratory routes, including COVID-19, so being able to
+trigger that immune response in the right area of the body is very helpful,
+and could make a vaccine more protective.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

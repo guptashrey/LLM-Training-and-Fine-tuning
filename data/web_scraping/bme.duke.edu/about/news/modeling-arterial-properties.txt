@@ -1,0 +1,191 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Accounting for Variability in Vascular Models
+
+October 11, 2019
+
+Europe's top thesis in computational mechanics this year is creating patient-
+specific models of arterial walls to advance basic knowledge and help medical
+outcomes
+
+Scientists at Duke University are working to accurately model the
+uncertainties in the mechanical behavior of human arterial walls. By
+supporting theoretical developments for tissue engineering, the research could
+eventually underpin patient-specific simulations to help physicians develop
+non-invasive techniques for early diagnosis and identify potential pitfalls
+before performing medical procedures.
+
+The work has garnered international attention, with Brian Staber, a former PhD
+student of Johann Guilleminot, assistant professor of civil and environmental
+engineering at Duke, winning two awards for his thesis on the topic. In April
+2019, Staber first won the Thesis Award from the France-based Computational
+Structural Mechanics Association. Five months later, Staber accepted the
+European Community on Computational Methods in Applied Sciences (ECCOMAS) PhD
+Award, given for the best thesis presented in Europe in the field.
+
+“There is great variability in the artificial tissues we engineer as well as
+within the human body,” said Guilleminot. “Engineered vascular vessels, for
+instance, typically present significant variability due to complex development
+conditions, and arterial walls are essentially biological, layered composite
+materials that have different structural properties depending on, for example,
+the gender, age or activity level of their owner.”
+
+“We’re trying to create digital twins that accurately account for these
+variabilities and efficiently predict how they will mitigate and propagate to
+quantities of interest,” he added. “Understanding how these two parts will
+interface to one another and work under extreme conditions within a vascular
+construct represents a daunting challenge”.
+
+The trick is to create computational models that can be used to explore
+virtual scenarios in some optimal way.
+
+“We’re combining mathematical models with advanced simulation techniques to
+create a range of scenarios of how a graft is going to perform, based on that
+variability,” said Guilleminot. “And we’re trying to do so by defining the
+coefficients in the governing equations in a way that reflects physical
+reality for groups of patients.”
+
+The models developed in Guilleminot’s group are attempting to recreate how a
+variety of mechanical properties at one point affect those same properties at
+neighboring points—and on down the line throughout the entire structure. And
+to make matters more complicated, those structures are curving, slightly bumpy
+volumes that look like a kindergartener’s attempt at a clay sculpture.
+
+The developed algorithms model the intricacies of these irregular shapes while
+allowing users to adjust how much each point’s physical properties affects its
+neighbors in each dimension independently. By tweaking the strength of these
+dimensional correlations and the induced deformations’ effects, they can match
+experimental measurements in some statistical sense.
+
+“We’ve created a lot of flexibility in modeling very complex behaviors on very
+complicated shapes,” said Guilleminot.
+
+The researchers are currently in the process of seeing just how well their
+models work. By comparing their models’ results with those obtained from
+physical experiments, Guilleminot and his group at Duke hope to demonstrate
+that their models and algorithms are accounting for all those complications
+well enough to accurately predict the mechanical reliability of vascular
+grafts.
+
+This work is supported in part by the National Science Foundation
+(CMMI-1726403).
+
+"A random field model for anisotropic strain energy functions and its
+application for uncertainty quantification in vascular mechanics." B. Staber,
+J. Guilleminot. Comput. Methods Appl. Mech. Engrg. 333 (2018) 94–113. DOI:
+10.1016/j.cma.2018.01.001
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

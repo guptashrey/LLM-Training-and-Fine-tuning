@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Lego-Like Wall Produces Acoustic Holograms
+
+October 14, 2016 | By Ken Kingery
+
+New technology shapes sound waves for applications from speakers to ultrasound
+imaging
+
+Research Triangle engineers have developed a simple, energy-efficient way to
+create three-dimensional acoustic holograms. The technique could revolutionize
+applications ranging from home stereo systems to medical ultrasound devices.
+
+Most everyone is familiar with the concept of visual holograms, which
+manipulate light to make it appear as though a 3-D object is sitting in empty
+space. These optical tricks work by shaping the electromagnetic field so that
+it mimics light bouncing off an actual object.
+
+Sound also travels in waves. But rather than electromagnetic energy traveling
+through space, sound propagates as pressure waves that momentarily compress
+the molecules they are traveling through. And just like visible light, these
+waves can be manipulated into three-dimensional patterns.
+
+“We show the exact same control over a sound wave as people have previously
+achieved with light waves,” said Steve Cummer, professor of electrical and
+computer engineering at Duke University. “It’s like an acoustic virtual
+reality display. It gives you a more realistic sense of the spatial pattern of
+the sound field.”
+
+In a paper published Oct. 14 in Nature Scientific Reports, researchers at Duke
+and North Carolina State University show that they can create any three-
+dimensional pattern they want with sound waves. The achievement is made
+possible by metamaterials—synthetic materials composed of many individual,
+engineered cells that together produce unnatural properties.
+
+In this case, the metamaterials resemble a wall of Legos. Each individual
+block is made of plastic by a 3-D printer and contains a spiral within. The
+tightness of the spiral affects the way sound travels through it—the tighter
+the coil, the slower sound waves travel through it.
+
+While the individual blocks can’t influence the sound wave’s direction, the
+entire device effectively can. For example, if one side of the sound wave is
+slowed down but not the other, the resulting wave fronts will be redirected so
+that the sound is bent toward the slow side.
+
+“Anybody can tell the difference between a single stereo speaker and a live
+string quartet playing music behind them,” explained Yangbo “Abel” Xie, a
+doctoral student in Cummer’s laboratory. “Part of the reason why is that the
+sound waves carry spatial information as well as notes and volume.”
+
+By calculating how 12 different types of acoustic metamaterial building blocks
+will affect the sound wave, researchers can arrange them in a wall to form any
+wave pattern on the other side that they want. With enough care, the sound
+waves can produce a specific hologram at a specific distance away.
+
+“It’s basically like putting a mask in front of a speaker,” said Cummer. “It
+makes it seem like the sound is coming from a more complicated source than it
+is.”
+
+Cummer and Xie, in collaboration with Yun Jing, assistant professor of
+mechanical and aerospace engineering at NC State, and Tarry Shen, a doctoral
+student in Jing’s lab, proved their sound mask works in two different ways. In
+the first test, they assembled a metamaterial wall that manipulated an
+incoming sound wave into a shape like the letter “A” about a foot away. In a
+second demonstration, they showed that the technique can focus sound waves
+into several “hot spots”—or loud spots—of sound, also a foot from the device.
+
+There are existing technologies that can also produce this effect. Modern
+ultrasound imaging devices, for example, use phased arrays with many
+individual transducers that can each produce precisely controlled sound waves.
+But this approach has its drawbacks.
+
+“If you’ve ever had an ultrasound done, you know there’s a small wand attached
+to a much bigger machine a few feet away,” said Cummer. “Not only can this
+setup be cumbersome, it consumes an enormous amount of power. Our approach can
+help produce the same effect in a cheaper, smaller system.”
+
+For the metamaterial device to work in such applications, however, each cell
+must be smaller than the waves it is manipulating. And for ultrasound
+technologies that operate in the megahertz range, this means the individual
+cells would have to be 100 times smaller than in the current demonstration
+blocks.
+
+Cummer and Xie are looking for industry partners to show that this sort of
+fabrication would be possible. They are also shopping the idea around to
+industries that work in the kilohertz range, such as aerial sensing and
+imaging technologies. And of course, they’re speaking with sound companies to
+make a single speaker sound more like a live orchestra.
+
+“We’re currently in the exploration phase, trying to determine where this
+technology would be useful,” said Xie. “Any scenario where your goal is to
+control sound, this idea could be deployed. And it could be deployed to make
+something totally new, or to make something that already exists better,
+simpler or cheaper.”
+
+This work was partially supported by the Multidisciplinary University Research
+Initiative grant from the Office of Naval Research (N00014-13-1-0631).
+
+CITATION: “Acoustic Holographic Rendering with Two-Dimensional Metamaterial-
+Based Passive Phased Array,” Yangbo Xie, Chen Shen, Wenqi Wang, Junfei Li,
+Dingjie Suo, Bogdan-Ioan Popa, Yun Jing, and Steven A. Cummer. Nature
+Scientific Reports, Oct. 14, 2016. DOI: 10.1038/srep35437
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

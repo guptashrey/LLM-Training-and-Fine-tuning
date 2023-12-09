@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tania Roy: Building High-Energy Space Electronics and Brain-Like AI Hardware
+
+June 21, 2022 | By Ken Kingery
+
+New faculty member Tania Roy brings a research portfolio that complements
+existing strengths within Duke’s Department of Electrical and Computer
+Engineering
+
+Tania Roy will join the faculty of the Department of Electrical and Computer
+Engineering (ECE) in Duke University’s Pratt School of Engineering beginning
+January 1, 2023. With a research portfolio branching into both brain-inspired
+computer architectures for machine learning algorithms and high-energy
+electronics for space applications, Roy is set to complement and enhance many
+of the department’s existing strengths.
+
+Roy joins Duke ECE from the University of Central Florida, where she has been
+an assistant professor with joint appointments in materials science and
+engineering and the NanoScience Technology Center for six years. She earned
+her undergraduate degree in electrical and electronics engineering from the
+Birla Institute of Technology and Science, Pilani, India and her PhD in
+electrical engineering from Vanderbilt University before completing
+postdoctoral stints at Georgia Tech and UC Berkeley.
+
+Roy’s primary focus for the past six years has been applying emerging
+“neuromorphic” computer hardware technologies to machine learning
+applications. As the name suggests, this approach is working to create
+electronic devices that mimic the behavior of the human brain. Rather than
+being constructed only from traditional circuitry such as resistors and
+transistors, the hardware also contains building blocks such as “memristors,”
+which are resistances that also feature an element of memory.
+
+> “The brain isn’t great at calculating large numbers like a computer, but
+> it’s very good at pattern recognition. While we don’t fully understand how
+> the brain works, we can model the basic structure of neurons and synapses to
+> make them better at pattern recognition. For example, the more times a
+> memristor sees the same input, the stronger its response, while inputs that
+> don’t repeat become forgotten.”
+>
+> tania roy
+
+Duke already has a strong program in neuromorphic computing, including the
+laboratories of Helen Li, the Clare Boothe Luce Professor of Electrical and
+Computer Engineering with a joint appointment in computer science, and Yiran
+Chen, also a professor of both ECE and computer science. But while their focus
+has largely been on the circuit and architectural levels, Roy says, hers is
+seeking to address the challenges from the basic device level to develop novel
+hardware. A machine learning algorithm running on this type of hardware could,
+for example, make complex programs like voice recognition available on much
+smaller devices that don’t connect to the internet.
+
+“The brain isn’t great at calculating large numbers like a computer, but it’s
+very good at pattern recognition,” Roy said. “While we don’t fully understand
+how the brain works, we can model the basic structure of neurons and synapses
+to make them better at pattern recognition. For example, the more times a
+memristor sees the same input, the stronger its response, while inputs that
+don’t repeat become forgotten.”
+
+The second arm of Roy’s research deals with gallium nitride, a material she
+wrote her dissertation on and recently returned her focus toward. Gallium
+nitride is a semiconductor that is poised to replace silicon in certain areas
+of computer hardware. Because of its physical characteristics, the material is
+well suited for high-energy and high-radiation applications, such as those
+found outside of the Earth’s atmosphere.
+
+Roy is part of a Multidisciplinary University Research Initiative (MURI)
+project led by Pennsylvania State University to investigate just how well
+suited the material is for extreme environments and how it might be improved.
+Roy’s role in the project specifically deals with how resistant gallium
+nitride is to the damaging effects of the various forms of harsh radiation
+found in space.
+
+“This work has important implications for devices here on Earth as well,” Roy
+said. “Solar flares can create ion storms that bombard and damage electronics.
+Silicon Valley giants like Intel have radiation effects groups of their own,
+so it’s an active field of research.”
+
+At Duke, Roy says her work with gallium nitride fits well with the research of
+April Brown, professor of electrical and computer engineering. Thanks to the
+state-of-the-art facilities found in the Duke Shared Materials Instrumentation
+Facility, Roy can work with Brown and others to develop these alternative
+technologies and put their radiation resilience and other properties to the
+test.
+
+Outside of the laboratory, Roy says she loves teaching just as much as she
+loves research. Back at UCF, she regularly hosted K-12 students for a hands-on
+laboratory experience during the summer—at least before the pandemic hit.
+Besides picking this pet project back up, she also says she looks forward to
+teaching more undergraduate electrical engineering courses than her split
+appointment at UCF previously allowed.
+
+“Electrical engineering is where I’ve spent the most time doing my own
+research, and I feel like teaching becomes much more efficient if you have
+personal hands-on experience with the topic being taught,” Roy said. “I’m
+looking forward to teaching at Duke. I hear the students are amazing, and I
+think my research will get stronger because of their input.”
+
+“Ever since I came to the United States in 2006, I’ve always thought of Duke
+as the Harvard of the South,” Roy added. “Besides always having that
+attraction in mind, I’m looking forward to the opportunities the area will
+provide my two children. It seems like a wonderful place to live and raise a
+family.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

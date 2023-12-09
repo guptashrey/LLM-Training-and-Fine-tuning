@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Microbot Origami Can Capture, Transport Single Cells
+
+August 7, 2017
+
+Microscopic cubes assembled and pre-programmed by magnetic fields capture and
+transport single cells
+
+_By Mick Kulikowski ofNorth Carolina State University News Services_
+
+Researchers at North Carolina State University and Duke University have
+developed a way to assemble and pre-program tiny structures made from
+microscopic cubes – "microbot origami" – to change their shape when actuated
+by a magnetic field and then, using the magnetic energy from their
+environment, perform a variety of tasks – including capturing and transporting
+single cells.
+
+The findings, published today in Science Advances, pave the way for microbots
+and microorigami assemblies that can serve as cell characterization tools,
+fluid micromixers, and components of artificial muscles and soft biomimetic
+devices.
+
+"This research is about a topic of current interest – active particles which
+take energy from their environment and convert it into directional movement,"
+said Orlin Velev, INVISTA Professor of Chemical and Biomolecular Engineering
+at NC State and co-corresponding author of the paper.
+
+To create the microbot origami, the researchers started with microscopic
+polymer cubes that are metallic on one side, essentially making that one side
+a magnet. Depending on their positioning, the cubes can be assembled in many
+different ways.
+
+"Since they are magnetized and interacting, the cubes store energy," Velev
+said. "Tiny particles in the shape of cubes can attach together in sequences
+where they face in different directions to make, for example, clusters that
+behave like a tiny Pac-Man: You can open them by applying a magnetic field and
+then let them close by turning the magnetic field off. They close because they
+are releasing the stored magnetic energy. Thus, you inject internal energy
+every time you open the microclusters and release it when they close."
+
+The researchers then gave the tiny "Pac-Man" a specific task: capturing a live
+cell, in this case a yeast cell. The microbot formed into a boxy shape and,
+through its opening and closing motions, "swam" to surround the yeast cell.
+The researchers then turned off the magnetic field that controlled the folding
+of the microbot to capture the yeast cell, moved it and finally released it.
+
+"We've shown here a prototype of self-folding microbot," Velev said, "that can
+be used as a microtool to probe the response of specific types of cells, like
+cancer cells, for instance."
+
+"Previously reported micro-robotic structures have been limited to performing
+simple tasks such as pushing and penetrating moieties due to their rigid body.
+The ability to remotely control the dynamic reconfiguration of our microbot
+creates a new 'toolbox' for manipulating microscale objects and interacting
+with its microenvironment," said Koohee Han, a Ph.D. candidate at NC State and
+first author of the paper.
+
+"As the microbot folds, it can compress liquids or solids and you can use it
+as a tool to measure bulk mechanical properties, like stiffness," said Wyatt
+Shields, a postdoctoral researcher at Duke University and NC State University,
+who holds a PhD from Duke's Department of Biomedical Engineering and co-
+authored the paper. "In some ways, it is a new metrological tool for gauging
+elasticity at the microscopic level."
+
+The authors say that the design of microbot origami mimics nature. "The cube
+sequence programs the shapes of the folding microbots. Proteins work in the
+same way," Shields said. "The sequence of amino acids in a protein will
+determine how it folds, just as the sequence of cubes in our microbot will
+determine how it folds."
+
+Velev says that future work will concentrate on making the particles able to
+move on their own, rather than steering them by magnetic field gradients. Han
+is working on making bots that self-propel in complex fluids with non-
+Newtonian behavior. Shields is studying how the dynamics of the microbot
+reshaping could be used to study the microstructure of surrounding
+macromolecules.
+
+The paper is co-authored by Bhuvnesh Bharti, presently a faculty member at
+Louisiana State University; Nidhi M. Diwakar, a REU student at Research
+Triangle Materials Research Center; and the co-corresponding author Gabriel P.
+López, presently at the University of New Mexico.
+
+The research is funded by the National Science Foundation under grant
+CBET-1604116, by the Research Triangle Materials Research Science and
+Engineering Center on Programmable Soft Matter under grant DMR-1121107, and by
+an NSF graduate fellowship (GRF-1106401).
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

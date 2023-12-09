@@ -1,0 +1,357 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. The Duke Difference
+        1. Why Duke for CEE?
+        2. Enrollment and Graduation Rates
+        3. Where Our Students Go
+
+      2. Degree Options
+        1. Civil Eng Degree Planning
+        2. Civil Eng Study Tracks
+        3. Env. Eng Degree Planning
+        4. Dual Majors
+        5. Certificates
+        6. 4+1: BSE+Master's
+
+      3. For Current Students
+        1. Courses
+        2. Research & Independent Study
+        3. Outreach & Service Learning
+        4. Senior Design Capstone
+        5. Internships & Career Planning
+        6. Graduation with Distinction
+
+  * Graduate
+    *       1. The Duke Difference
+        1. Degree Options
+        2. Scholarships & Financial Support
+        3. Graduate Study Tracks
+        4. Graduate Certificates
+        5. Course Descriptions
+
+      2. Master's Study
+        1. Master of Science in CEE
+        2. Civil Engineering
+        3. Computational Mechanics and Scientfic Computing
+        4. Environmental Engineering
+        5. Risk Engineering
+        6. Career Services
+        7. Career Outcomes
+
+      3. PhD
+        1. Meet Our Students
+        2. PhD Career Outcomes
+
+      4. For Current Students
+  * Research
+    *       1. Overview
+      2. Research News
+      3. Computational Mechanics & Scientific Computing
+      4. Environmental Health Engineering
+      5. Geomechanics & Geophysics for Energy and the Environment
+      6. Hydrology & Fluid Dynamics
+      7. Risk & Resilient Systems
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * About
+    *       1. Facts & Stats
+      2. Meet the Chair
+      3. Serving a Global Society
+      4. Advisory Board
+      5. Alumni
+      6. Awards & Honors
+      7. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke CEE Magazine
+
+      8. Events
+        1. Seminars
+
+# Melosh Medal Call for Papers
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Awards & Honors
+  4. Melosh medal
+
+## Annual Robert J. Melosh Medal Competition  
+for the Best Student Paper on Finite Element Analysis
+
+### Sponsored by
+
+  * Duke University Department of Civil & Environmental Engineering
+  * Elsevier
+
+and
+
+### Endorsed by
+
+  * The International Association for Computational Mechanics
+
+**[Background | Format | Past Judges | Scope | Submission Procedure | Links |
+Dates | Contact]**
+
+### Background
+
+The Robert J. Melosh Medal Competition was inaugurated in 1989 to honor the
+pioneering researcher in finite element methods and former chairman of the
+Department of Civil & Environmental Engineering at Duke University.
+
+In a professional career that included work at Boeing, Philco-Ford Laboratory,
+and MARC Analysis and Research Corporation, as well as teaching at Rensselaer
+Polytechnic Institute, University of Washington, Virginia Tech, and Duke,
+Prof. Melosh made significant and varied contributions to the finite element
+method.
+
+The Competition was established in view of this body of work and aims to
+reflect Prof. Melosh's dedication to the education of young engineers and
+researchers by providing a forum for student researchers to present their work
+and interact with each other and with leading researchers in the field.
+
+The winner of the Competition, as determined on the basis of a submitted
+extended abstract and an oral presentation of the paper, receives the Robert
+J. Melosh Medal and a $500 honorarium.
+
+[Back to Top]
+
+### Competition Format
+
+The Competition is conducted in two phases:
+
+  * **Abstract Review:** Extended abstracts are reviewed by a panel of
+    distinguished researchers in computational mechanics. The top six papers
+    are selected as finalists
+  * **Symposium Talks:** The student authors are invited to participate in a
+    symposium held at Duke University (in accordance with Duke’s public health
+    guidelines). The symposium features talks by all six finalists, as well as
+    lectures by the members of the distinguished judging panel
+
+[Back to Top]
+
+### Past Judges
+
+A key feature of the Competition is the interaction between student finalists
+and established researchers that is facilitated by the Melosh Medal Symposium.
+Past competitions have benefited from the participation of internationally
+prominent researchers as judges, including:
+
+  * Remi Abgrall, University of Zurich, Switzerland
+  * Ted Belytschko, Northwestern University, USA
+  * J.S. Chen, University of California, Los Angeles, USA
+  * Ray W. Clough, University of California at Berkeley, USA
+  * Michael Crisfield, Imperial College, United Kingdom
+  * Charbel Farhat, University of Colorado at Boulder, USA
+  * Jacob Fish, Rensselaer Polytechnic Institute, USA
+  * Joseph E. Flaherty, Rensselaer Polytechnic Institute, USA
+  * Richard H. Gallagher, University of Arizona, USA
+  * Krishna Garikipari, University of Michigan, USA
+  * Omar Ghattas, The University of Texas at Austin, USA
+  * Sanjay Govindjee, University of California, Berkeley, USA
+  * Antonio Huerta, UPC
+  * Thomas J.R. Hughes, University of Texas, Austin, USA
+  * Greg Hulbert, University of Michigan, Ann Arbor, USA
+  * George Karniadakis, Brown University, USA
+  * Raymond D. Krieg, University of Tennessee, USA
+  * Patrick Le Tallec, Ecole Polytechnique, France
+  * Robert J. Melosh, Duke University, USA
+  * Joop Nagtegaal, Hibbitt, Karlsson and Sorensen, Inc., USA
+  * Assad Oberai, USC Viterbi School of Engineering, USA
+  * J. Tinsley Oden, University of Texas at Austin, USA
+  * George Peric, Swansea University, United Kingdom
+  * Peter Pinsky, Stanford University, USA
+  * Ekkehard Ramm, Stuttgart, Germany
+  * Mario Ricchiuto, INRIA Bordeaux, France
+  * Mark Shephard, Rensselaer Polytechnic Institute, USA
+  * James Stewart, Sandia National Laboratories, USA
+  * Natarajan Sukumar, University of California, Davis, USA
+  * Robert L. Taylor, University of California, Berkeley, USA
+  * Haim Waisman, Columbia University, USA
+  * Wolfgang A. Wall, Technische Universität München, Germany
+  * Mary Wheeler, The University of Texas at Austin, USA
+  * Edward L. Wilson, University of California at Berkeley, USA
+  * Peter Wriggers, Leibniz University Hannover, Germany
+  * O.C. Zienkiewicz, University of Wales Swansea, United Kingdom
+  * Tarek Zohdi, University of California, Berkeley, USA
+
+[Back to Top]
+
+### Scope
+
+Submissions are invited in all areas of finite element analysis, including:
+
+  * Theoretical development
+  * Implementational procedure
+  * Programming aspects
+  * Novel and innovative applications
+  * Integration of finite elements into the design process
+
+Additionally, submissions in related areas of computational mechanics (e.g.,
+boundary elements, meshless methods) will also be welcomed, particularly where
+the technical contribution of interest may be expected to enhance our
+understanding of finite element procedures.
+
+Prospective topics include, but are not limited to:
+
+  * Solid and Structural Mechanics
+  * Computational Fluid Mechanics
+  * Stochastic Problems
+  * Geomechanics
+  * Mesh Generation, Refinement and Adaptivity
+  * Meshfree Methods
+  * Nonlinear Dynamics
+  * Scientific Visualization
+  * Finite Elements in CAD, CAM and CAE
+  * Biomechanics
+  * Parallel Computing and FEM
+  * FEM in Environmental Science and Environmental Engineering
+  * Hydrology and Water Resources Engineering
+
+[Back to Top]
+
+### Submission Procedure
+
+Each paper must have as its first-named author a student or a recent student
+no more than one year beyond graduation. It is expected that most submissions
+will describe Master's- or PhD-level work. However, truly exceptional work
+done by undergraduate researchers will also be welcomed. Submitted papers
+should be in extended abstract format, three to five pages in length
+(including all graphics). Although the page limit will prevent the
+presentation of extended theoretical development, enough detail should be
+included to allow a reasonable assessment of technical merit.
+
+  * For submissions via regular mail, four copies should be submitted: one (1)
+    with a cover page indicating title, author and affiliation, and three (3)
+    copies with the title but no authors or affiliations indicated
+  * For electronic submissions (preferred), only one (1) copy of each is
+    required
+  * Documents prepared using LaTeX with the Elsevier LaTeX class file
+    **elsartarticle.cls** , are preferred. LaTeX instructions and a link to
+    download the class file template are available from Elsevier at this
+    webpage »
+
+[Back to Top]
+
+### Important Links
+
+  * Elsevier page with instructions for the LaTeX class file »
+  * Link to download an elsarticle.cls template »
+
+[Back to Top]
+
+### Dates
+
+Key dates pertaining to the 2022 Competition are:
+
+  * August 1: Deadline for extended abstract submissions
+  * September 5: Finalists notified of acceptance
+  * October 21: Melosh Symposium at Duke University (hybrid format)
+
+### Contacts
+
+**Questions and correspondence** should be addressed to:
+
+  * **Guglielmo Scovazzi** , Co-Organizer — guglielmo.scovazzi@duke.edu
+  * **Johann Guilleminot** , Co-Organizer — johann.guilleminot@duke.edu
+
+****
+
+**Submissions** should be directed to:
+
+**The Robert J. Melosh Medal Competition**  
+Duke University Department of Civil and Environmental Engineering  
+Box 90287  
+Durham, NC USA 27708-0287
+
+Phone: +1 919-684-3537
+
+Email: johann.guilleminot@duke.edu
+
+[Back to Top]
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * The Duke Difference
+      * Why Duke for CEE?
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+    * Degree Options
+      * Civil Eng Degree Planning
+      * Civil Eng Study Tracks
+      * Env. Eng Degree Planning
+      * Dual Majors
+      * Certificates
+        * Architectural Engineering
+        * Global Development
+        * Energy & The Environment
+      * 4+1: BSE+Master's
+    * For Current Students
+      * Courses
+      * Research & Independent Study
+      * Outreach & Service Learning
+      * Senior Design Capstone
+      * Internships & Career Planning
+      * Graduation with Distinction
+  * Graduate
+    * The Duke Difference
+      * Degree Options
+      * Scholarships & Financial Support
+      * Graduate Study Tracks
+      * Graduate Certificates
+      * Course Descriptions
+    * Master's Study
+      * Master of Science in CEE
+      * Civil Engineering
+      * Computational Mechanics and Scientfic Computing
+      * Environmental Engineering
+      * Risk Engineering
+      * Career Services
+      * Career Outcomes
+    * PhD
+      * Meet Our Students
+      * PhD Career Outcomes
+    * For Current Students
+  * Research
+    * Overview
+    * Research News
+    * Computational Mechanics & Scientific Computing
+    * Environmental Health Engineering
+    * Geomechanics & Geophysics for Energy and the Environment
+    * Hydrology & Fluid Dynamics
+    * Risk & Resilient Systems
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * About
+    * Facts & Stats
+    * Meet the Chair
+    * Serving a Global Society
+    * Advisory Board
+    * Alumni
+    * Awards & Honors
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke CEE Magazine
+    * Events
+      * Seminars
+        * Past Seminars
+

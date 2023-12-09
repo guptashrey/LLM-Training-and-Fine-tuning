@@ -1,0 +1,247 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Directly Reprogramming a Cell's Identity with Gene Editing
+
+August 11, 2016 | By Ken Kingery
+
+Duke engineers use CRISPR to generate neuronal cells from connective tissue
+
+Researchers have used CRISPR—a revolutionary new genetic engineering
+technique—to convert cells isolated from mouse connective tissue directly into
+neuronal cells.
+
+In 2006, Shinya Yamanaka, a professor at the Institute for Frontier Medical
+Sciences at Kyoto University at the time, discovered how to revert adult
+connective tissue cells, called fibroblasts, back into immature stem cells
+that could differentiate into any cell type. These so-called induced
+pluripotent stem cells won Yamanaka the Nobel Prize in medicine just six years
+later for their promise in research and medicine.
+
+Since then, researchers have discovered other ways to convert cells between
+different types. This is mostly done by introducing many extra copies of
+“master switch” genes that produce proteins that turn on entire genetic
+networks responsible for producing a particular cell type.
+
+Now, researchers at Duke University have developed a strategy that avoids the
+need for the extra gene copies. Instead, a modification of the CRISPR genetic
+engineering technique is used to directly turn on the natural copies already
+present in the genome.
+
+These early results indicate that the newly converted neuronal cells show a
+more complete and persistent conversion than the method where new genes are
+permanently added to the genome. These cells could be used for modeling
+neurological disorders, discovering new therapeutics, developing personalized
+medicines and, perhaps in the future, implementing cell therapy.
+
+The study was published on August 11, 2016, in the journal Cell Stem Cell.
+
+“This technique has many applications for science and medicine. For example,
+we might have a general idea of how most people’s neurons will respond to a
+drug, but we don’t know how your particular neurons with your particular
+genetics will respond,” said Charles Gersbach, the Rooney Family Associate
+Professor of Biomedical Engineering and director for the Center for
+Biomolecular and Tissue Engineering at Duke. “Taking biopsies of your brain to
+test your neurons is not an option. But if we could take a skin cell from your
+arm, turn it into a neuron, and then treat it with various drug combinations,
+we could determine an optimal personalized therapy.”
+
+“The challenge is efficiently generating neurons that are stable and have a
+genetic programming that looks like your real neurons,” says Joshua Black, the
+graduate student in Gersbach’s lab who led the work. “That has been a major
+obstacle in this area.”
+
+In the 1950s, Professor Conrad Waddington, a British developmental biologist
+who laid the foundations for developmental biology, suggested that immature
+stem cells differentiating into specific types of adult cells can be thought
+of as rolling down the side of a ridged mountain into one of many valleys.
+With each path a cell takes down a particular slope, its options for its final
+destination become more limited.
+
+If you want to change that destination, one option is to push the cell
+vertically back up the mountain—that’s the idea behind reprogramming cells to
+be induced pluripotent stem cells. Another option is to push it horizontally
+up and over a hill and directly into another valley.
+
+“If you have the ability to specifically turn on all the neuron genes, maybe
+you don’t have to go back up the hill,” said Gersbach.
+
+Previous methods have accomplished this by introducing viruses that inject
+extra copies of genes to produce a large number of proteins called master
+transcription factors. Unique to each cell type, these proteins bind to
+thousands of places in the genome, turning on that cell type’s particular gene
+network. This method, however, has some drawbacks.
+
+“Rather than using a virus to permanently introduce new copies of existing
+genes, it would be desirable to provide a temporary signal that changes the
+cell type in a stable way,” said Black. “However, doing so in an efficient
+manner might require making very specific changes to the genetic program of
+the cell.”
+
+In the new study, Black, Gersbach, and colleagues used CRISPR to precisely
+activate the three genes that naturally produce the master transcription
+factors that control the neuronal gene network, rather than having a virus
+introduce extra copies of those genes.
+
+CRISPR is a modified version of a bacterial defense system that targets and
+slices apart the DNA of familiar invading viruses. In this case, however, the
+system has been tweaked so that no slicing is involved. Instead, the machinery
+that identifies specific stretches of DNA has been left intact, and it has
+been hitched to a gene activator.
+
+The CRISPR system was administered to mouse fibroblasts in the laboratory. The
+tests showed that, once activated by CRISPR, the three neuronal master
+transcription factor genes robustly activated neuronal genes. This caused the
+fibroblasts to conduct electrical signals—a hallmark of neuronal cells. And
+even after the CRISPR activators went away, the cells retained their neuronal
+properties.
+
+“When blasting cells with master transcription factors made by viruses, it’s
+possible to make cells that behave like neurons,” said Gersbach. “But if they
+truly have become autonomously functioning neurons, then they shouldn’t
+require the continuous presence of that external stimulus.”
+
+The experiments showed that the new CRISPR technique produced neuronal cells
+with an epigenetic program at the target genes matching the neuronal markings
+naturally found in mouse brain tissue.
+
+“The method that introduces extra genetic copies with the virus produces a lot
+of the transcription factors, but very little is being made from the native
+copies of these genes,” explained Black. “In contrast, the CRISPR approach
+isn’t making as many transcription factors overall, but they’re all being
+produced from the normal chromosomal position, which is a powerful difference
+since they are stably activated. We’re flipping the epigenetic switch to
+convert cell types rather than driving them to do so synthetically.”
+
+The next steps, according to Black, are to extend the method to human cells,
+raise the efficiency of the technique and try to clear other epigenetic
+hurdles so that it could be applied to model particular diseases.
+
+“In the future, you can imagine making neurons and implanting them in the
+brain to treat Parkinson’s disease or other neurodegenerative conditions,”
+said Gersbach. “But even if we don’t get that far, you can do a lot with these
+in the lab to help develop better therapies.”
+
+This research was supported by the National Institutes of Health (R01DA036865,
+U01HG007900, DP2OD008586, P30AR066527, T32GM008555) and the National Science
+Foundation (CBET-1151035).
+
+“Targeted Epigenetic Remodeling of Endogenous Loci by CRISPR/Cas9-Based
+Transcriptional Activators Directly Converts Fibroblasts to Neuronal Cells.”
+Joshua B Black, Andrew F Adler, Hong-Gang Wang, Anthony M D’Ippolito, Hunter A
+Hutchinson, Timothy E Reddy, Geoffrey S Pitt, Kam W Leong, and Charles A
+Gersbach. Cell Stem Cell, 2016. DOI: 10.1016/j.stem.2016.07.001
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

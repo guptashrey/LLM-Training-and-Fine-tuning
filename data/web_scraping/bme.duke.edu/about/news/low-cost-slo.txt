@@ -1,0 +1,264 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Developing Low-Cost Scanning Laser Ophthalmoscopes to Combat Diabetic
+Retinopathy
+
+December 17, 2020
+
+Hafeez Dhalla is using materials science and 3D printing to develop a new
+instrument for eye imaging that can combat a common cause of adult-onset
+blindness
+
+_Hafeez Dhalla, assistant research professor of biomedical engineering at
+Duke, is no stranger to Harrington Engineering Quadrangle, or to its
+reputation for innovation in health care. After graduating with his bachelor’s
+in biomedical engineering, Dhalla stayed at Duke to pursue his PhD while
+helping Joe Izatt, the Michael J. Fitzpatrick Distinguished Professor of
+Engineering, develop a surgical microscope with built-in optical coherence
+tomography (OCT) capabilities. After several years working in industry, he
+returned to campus on a new mission—leverage Duke’s capabilities and resources
+to develop low-cost scanning laser ophthalmoscopes (SLOs) to combat diabetic
+retinopathy._
+
+You’re career thus far has focused on two different eye imaging technologies,
+OCT and SLO. What’s the difference between them?
+
+OCT, or optical coherence tomography, produces slices of image data that can
+be stacked to produce a 3D representation of the tissue of interest. In the
+context of retinal imaging, it produces cross-sectional views of the retina
+that allow the ophthalmologist to readily visualize subsurface features of the
+retina that are much more difficult to visualize in two-dimensional _en face_
+, or top-down views.
+
+SLO, or scanning laser ophthalmoscopy, is one of these _en face_ imaging
+technologies. It does not provide tomographic slices or depth information, but
+rather produces a surface view of the retina. Thus, it primarily competes with
+fundus photography—which is basically just taking a color photograph of the
+retina—rather than OCT.
+
+But from a technological standpoint, OCT and SLO are very similar. Both
+involve scanning a focused spot of light along the retina and collecting light
+that is backscattered. And while the light sources and light detectors are
+quite different, the scanning optics and patient interface are virtually
+identical.
+
+What are the advantages between the two?
+
+The advantages that SLO and fundus photography have over OCT is that they
+typically are implemented using visible wavelengths (red, green and blue)
+rather than in the near-infrared. This gives them an additional dimension of
+spectroscopic (color) information that can be important in identifying retinal
+features that are associated with disease. These are particularly important as
+they can be early markers of blinding diseases like diabetic retinopathy and
+age-related macular degeneration.
+
+Thus, while OCT, SLO and fundus photography can all be used for diagnosing
+retinal disease, each technology has its own niche. While OCT has become the
+standard of care in the ophthalmologists’ office, SLO has seen less adoption.
+This is primarily due to competition from fundus photography, which has
+existed for much longer and was the standard of care in retinal imaging before
+OCT. And even in the post-OCT ophthalmology world, fundus photography still
+has a place due to its spectroscopic information and relatively low cost.
+
+What’s stopping SLO from being adopted as widely as OCT?
+
+Between SLO and fundus photography, SLO is clearly the superior technology in
+terms of performance, offering high resolution, wider fields of view, better
+contrast, fewer image artifacts and superior ease of use. However, SLO
+products are currently considerably more expensive than their fundus
+photography counterparts. Particularly in price-sensitive markets such as
+screening programs and optometry offices, fundus photography is generally
+thought to be sufficient for referrals to ophthalmologists, where OCT is
+readily available, at least in the USA.
+
+One of my research projects is to leverage emerging technologies to produce a
+lower cost SLO device that can unlock all of this technology’s inherent
+benefits over fundus photography while still being competitive with fundus
+photography on a cost basis. In particular, there is plenty of data to support
+that screening programs for diabetic retinopathy (DR), which typically employ
+low-cost fundus cameras, often miss early cases of DR due to image artifacts
+and poor usability. If we can replace those low-cost fundus cameras with low-
+cost SLOs, we can greatly improve the screening accuracy of these DR screening
+programs that are vital to preventing blindness.
+
+How can new, low-cost SLO devices help in this effort?
+
+Diabetic retinopathy is a complication of diabetes, and the leading cause of
+blindness in working-age adults. It is a growing problem as diabetes becomes
+more prevalent. Fortunately, it is highly treatable if detected early, but
+detecting it early enough for treatment to work depends on compliance with
+annual eye exams or screenings.
+
+To combat poor compliance rates with eye exams, health systems often employ
+telemedicine screening programs where fundus photographs are acquired by
+technicians—often in PCP offices, community clinics and even in patient
+homes—and then read by a remote ophthalmologist. While somewhat effective,
+most of these programs use handheld fundus cameras, which, frankly, are not
+very good, though they are quite cheap. Their poor performance results in a
+huge fraction of these imaging sessions ending with inconclusive results.
+
+A low-cost, portable SLO device would be a huge improvement over the handheld
+fundus cameras, as it is inherently robust against the glare and artifacts
+that render so many fundus photos ungradable. Creating an SLO device that is
+portable and cheap is a technological challenge, but one that I believe is
+surmountable by leveraging economies of scale and emerging technologies such
+as MEMS and 3D printing. Over the past couple of years, we have developed a
+cost-scalable, portable SLO device, and are just waiting for the pandemic to
+get under some semblance of control before we can evaluate its performance in
+clinical settings.
+
+Why did you come to Duke to pursue this work?
+
+I was an undergraduate BME major at Duke, and it was in my senior capstone
+biophotonics design course that I was first introduced to both OCT and
+Professor Izatt. I enjoyed and excelled in the course, and after its
+conclusion, Professor Izatt asked if I would be interested in joining his
+group as a graduate student. While I considered other BME PhD programs, I had
+developed deep ties to the Triangle over my four undergraduate years. Staying
+in Durham, and pursuing a PhD in a field I was interested in, was the natural
+choice.
+
+After completing a joint post-doc at MIT and OHSU under Jim Fujimoto and David
+Huang, respectively, the inventors of OCT, I returned to Durham and joined
+Professor Izatt’s startup company, Bioptigen. There, I helped develop a device
+where an OCT imaging system is integrated into a surgical microscope to
+provide real-time cross-sectional imaging and guidance during ophthalmic
+microsurgery. This work exposed me to how real-world considerations affect
+medical device development, in particular, understanding clinical use cases
+and workflows, gaining regulatory approval and navigating new product
+introduction. After Leica Microsystems acquired Bioptigen, I was recruited
+away to Volk Optical in Cleveland, Ohio to manage the strategy of their
+portfolio of ophthalmic devices. Through those roles, I learned a great deal
+about how the commercial side of the medical devices world works, and,
+importantly, gained a lot of experience working with end-users and regulatory
+bodies. But ultimately, I missed the intellectual freedom of academic
+research, and so when the opportunity to come back to Duke presented itself, I
+jumped on it.
+
+What do you think the biggest developments in your field will be over the next
+five to 10 years?
+
+As with most fields, artificial intelligence and deep learning will likely be
+major drivers of new technologies in the ophthalmic imaging field in the next
+decade. The revolution has already begun with the recent FDA clearance of AI
+algorithms that can diagnose diabetic retinopathy from a fundus photo. These
+technologies are still relatively young, and only work under very well
+controlled conditions, but it is likely only a matter of time before all types
+of medical images will be able to be read and graded by AI algorithms, as
+opposed to physicians. This will have dramatic implications for telemedicine
+in general, and imaging-based diagnostic screening in particular.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

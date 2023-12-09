@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineering "Hairpins" Increases CRISPR Accuracy
+
+April 15, 2019 | By Ken Kingery
+
+Added piece of RNA could improve the precision of CRISPR 50-fold
+
+Biomedical engineers at Duke University have developed a method for improving
+the accuracy of the CRISPR genome editing technology by an average of 50-fold.
+They believe it can be easily translated to any of the editing technology’s
+continually expanding formats.
+
+The approach adds a short tail to the guide RNA which is used to identify a
+sequence of DNA for editing. This added tail folds back and binds onto itself,
+creating a “lock” that can only be undone by the targeted DNA sequence.
+
+The study appears online on April 15 in the journal _Nature Biotechnology_.
+
+“CRISPR is generally incredibly accurate, but there are examples that have
+shown off-target activity, so there’s been broad interest across the field in
+increasing specificity,” said Charles Gersbach, the Rooney Family Associate
+Professor of Biomedical Engineering at Duke. “But the solutions proposed thus
+far cannot be easily translated between different CRISPR systems.”
+
+CRISPR/Cas9 is a defense system that bacteria use to target and cleave the DNA
+of invading viruses. While the first version of CRISPR technology engineered
+to work in human cells originated from a bacteria called _Streptococcus
+pyogenes_ , many more bacteria species carry other versions.
+
+Scientists in the field have spent years looking for new CRISPR systems with
+desirable properties and are constantly adding to the CRISPR arsenal. For
+example, some systems are smaller and better able to fit inside of a viral
+vector to deliver to human cells for gene therapy. But no matter their
+individual abilities, all have produced unwanted genetic edits at times.
+
+A universal property of CRISPR systems is their use of RNA molecules as guides
+that home in on the targeted DNA sequence in the genome. Once a guide RNA
+finds its complementary genetic sequence, the Cas9 enzyme acts as the scissors
+that make the cut in the DNA, facilitating changes to the genome sequence. But
+because each homing sequence is only 20 nucleotides long and the human genome
+contains about three billion base pairs, there’s a lot to sort through, and
+the CRISPR can sometimes make mistakes with sequences one or two base pairs
+short of perfection.
+
+One way to improve CRISPR’s accuracy is to require two Cas9 molecules to bind
+onto opposite sides of the same DNA sequence for a complete cut to be made.
+While this approach works, it adds more parts to the system, increasing its
+complexity and making it harder to deliver.
+
+Another approach has been to genetically engineer the Cas9 protein to make it
+less energetic, so it’s less likely to jump the gun and make a mistake. While
+this has also shown promising results, this type of protein engineering is
+laborious and such efforts are specific to each CRISPR system.
+
+“It seems like there’s a new CRISPR system being discovered almost every week
+that has some kind of unique property that makes it useful for a specific
+application,” said Gersbach. “Doing extensive re-engineering every time we
+find a new CRISPR protein to make it more accurate is not a straightforward
+solution.”
+
+“We’re focused on a solution that doesn’t add more parts and is general to any
+kind of CRISPR system,” said Dewran Kocak, the PhD student working in
+Gersbach’s laboratory who led this project. “What’s common to all CRISPR
+systems is the guide RNA, and these short RNAs are much easier to engineer.”
+
+Gersbach and Kocak’s solution is to extend the guide RNA by as many as 20
+nucleotides in such a way that it folds back onto itself and binds onto the
+end of the original guide RNA, forming a hairpin shape. This creates a sort of
+lock that is very difficult to displace if even a single base pair is
+incorrect in a DNA sequence being scrutinized for a potential cut. But because
+the guide RNA would prefer to bind to DNA rather than itself, the correct
+combination of DNA is still able to break the lock.
+
+“We’re able to fine-tune the strength of the lock just enough so that the
+guide RNA still works when it meets its correct match,” said Kocak.
+
+In the paper, Kocak and Gersbach show that this method can increase the
+accuracy of cuts being made in human cells by an average of 50-fold across
+five different CRISPR systems derived from four different bacterial strains.
+And in one case that improvement rose to over 200 fold.
+
+“It’s a pretty simple idea even though Dewran completed several years’ worth
+of research to show that it works the way that we think it’s working,” said
+Gersbach. “It’s a nice, elegant solution for getting rid of off-target
+activity.”
+
+Moving forward, the researchers hope to see just how many different CRISPR
+variants this approach could work with as well as complete an in-depth
+characterization of exactly how the locking mechanism works to see if there
+are differences across CRISPR variants. And because these experiments were
+conducted in cultured cells, the researchers are eager to see how well this
+approach might increase CRISPR accuracy within an actual animal model of
+disease.
+
+This work was supported by the Paul G. Allen Frontiers Group, the National
+Institutes of Health (DP2OD008586, R01DA036865, R01AR069085, P30AR066527) and
+the National Science Foundation (DMR-1709527, EFMA-1830957).
+
+CITATION: “Increasing the Specificity of CRISPR Systems with Engineered RNA
+Secondary Structures.” D. Dewran Kocak, Eric A. Josephs, Vidit Bhandarkar,
+Shaunak S. Adkar, Jennifer B. Kwon, and Charles A. Gersbach. Nature
+Biotechnology, 2019. DOI: 10.1038/s41587-019-0095-1
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

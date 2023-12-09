@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Pioneers of 3D Ultrasound
+
+April 1, 2018
+
+How advancements in ultrasound technology paved the way for future innovation
+
+Most people are familiar with ultrasound as a tool that allows pregnant
+couples to see their baby before it’s born. Thirty years ago, ultrasound
+images typically showed vague black and gray shapes, and it could be difficult
+to distinguish between a baby’s nose or foot without a doctor’s explanation.
+But today, these images are so clear that new parents can even see their baby
+sucking on its thumb.
+
+This difference in clarity is due to the use of 3D ultrasound, created by Olaf
+von Ramm, Stephen Smith and John Oxaal through their company Volumetrics
+Medical Imaging, Inc.
+
+Von Ramm (PhD ’73) and Smith (PhD ’75) first began working together at Duke as
+PhD students in the lab of Frederick Thurstone, an ultrasound researcher who
+was recruited to work in Duke’s biomedical engineering department as a faculty
+member in 1967. At the time, ultrasound was a relatively new technology, and
+it wasn’t widely used in clinical applications. This changed after von Ramm
+and Thurstone helped revolutionize the ultrasound scanner, a device that both
+transmits and receives ultrasound pulses.
+
+By designing a phase array ultrasound scanner that could emit thousands of
+pulses at once, the tool could receive more detailed images from the scanned
+tissue, giving physicians a better look at what was going on inside the body.
+While this advancement was effective, von Ramm and Smith wanted to continue to
+improve the technology to see three-dimensional moving images in real-time.
+
+“We ended up sketching out our idea on a napkin,” says Smith. “To test it out,
+we filled a garbage can with water from the Eno River and dropped a wrench
+into it, and we were able to see the wrench through this muddy water. That
+experiment really gave us the idea to pursue real time 3D ultrasound for
+medical use.”
+
+To make their plan a reality, Smith and von Ramm aimed to increase the
+sensitivity of their device. Rather than keep the sensors in a row like
+previous ultrasound probes, they arranged hundreds of sensors in a
+checkerboard pattern to better analyze more complex ultrasound reflections.
+They also created their own computer systems to quickly read the feedback and
+show the image.
+
+“I had thought of doing 3D when we had developed 2D ultrasound in the ’70s,
+but we didn’t have the technology that would allow for that,” says von Ramm.
+“We were only able to make our first 3D image by 1987, and even then, it
+wasn’t very good. But the images we made improved each year.”
+
+The team applied for patents in 1986 and 1987, and shortly after they were
+joined by John Oxaal, a biomedical engineer who had graduated from Duke in
+1976 and had previously worked with von Ramm on 2D ultrasound. Together, they
+formed Volumetrics Medical Imaging in 1992 to develop the first real-time 3D
+commercial system.
+
+Renting space in downtown Durham, the team formed a collaboration between
+Volumetrics and Duke’s Department of Biomedical Engineering, relying on
+funding from the National Science Foundation as they built their initial
+prototype. By 2000, the company had sold nearly 20 3D scanners, which were
+used for obstetrics and cardiovascular imaging. Since then the basis of their
+technology has been widely used in clinics in nearly every developed country
+around the world.
+
+In the intervening years, von Ramm has continuously looked for ways to improve
+the technology, especially for cardiology. Today, he’s contributing to
+research relating to high-speed ultrasound imaging, which shows upwards of
+1,000 frames a second. With this improved view, he says, physicians and
+researchers could visualize the depolarization of the heart, potentially
+limiting the need for invasive procedures that examine heart muscle.
+
+“We’d be able to examine areas that aren’t contracting well and potentially
+learn why they aren’t contracting well, or we could examine regions that are
+contracting prematurely and reducing the efficiency of the heart,” says von
+Ramm. “Right now, there are only very difficult ways to map the electrical
+excitation of the heart. You’d have to do it invasively with a catheter, and
+it can take four hours. If this works out, we’d be able to do it easily and
+non-invasively.”
+
+Smith has also continued to advance ultrasound probes, designing esophageal
+probes that can clearly examine a patient’s heart by circumventing the lungs
+and fatty tissue. One of his long-term goals is to use ultrasound imaging to
+visualize the brain through the skull, potentially giving physicians an easier
+way to diagnose issues like a stroke and immediately start treatment.
+
+“We’re always looking for good, non-invasive ways to monitor the body, and
+ultrasound imaging has played a vital role,” says Smith. “The goal of our work
+has always been to change the practice of medicine for the better.”
+
+* * *
+
+**John Oxaal: The Entrepreneurial Alumnus**
+
+After graduating from biomedical engineering at Duke with his bachelor of
+science in engineering degree in 1976, Oxaal enrolled at the University of
+Chicago, earning his business degree before returning to Duke to help start
+Volumetrics Medical Imaging with von Ramm and Smith. Oxaal continued to work
+at the company until 1999, after which he moved to the west coast to work as a
+venture capitalist at Sevin Rosen funds. While there, his entrepreneurial work
+focused on a variety of scientific topics, including imaging and photonics.
+
+His experience as both an entrepreneur at Volumetrics and as a venture
+capitalist led BME Chair Ashutosh Chilkoti to invite Oxaal back to Duke to
+serve as the first entrepreneur-in-residence in the department for the
+2015–2016 school year, providing support and guidance to new entrepreneurs in
+the BME department. Through this role, Oxaal helped Charles Gersbach found
+Element Genomics in 2015, eventually becoming CEO of the company.
+
+After years of experience in the entrepreneurial world, Oxaal was pleased to
+return to his alma mater and help a new generation of entrepreneurs. “The BME
+department at Duke has always been full of leaders in the field, and it’s
+given them a very clear idea of where the unmet needs are,” says Oxaal.
+“Engineers are an entrepreneurial bunch, and they’re solving real-world
+problems in ways that can have enormous benefits.”
+
+* * *
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

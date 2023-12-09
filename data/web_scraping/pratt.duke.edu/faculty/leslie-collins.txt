@@ -1,0 +1,213 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Leslie M. Collins
+
+Professor of Electrical and Computer Engineering
+
+Leslie M. Collins earned the BSEE degree from the University of Kentucky, and
+the MSEE, and PhD degrees from the University of Michigan, Ann Arbor. From
+1986 through 1990 she was a Senior Engineer at Westinghouse Research and
+Development Center in Pittsburgh, PA. She joined Duke in 1995 as an Assistant
+Professor and was promoted to Associate Professor in 2002 and to Professor in
+2007. Her research interests include physics-based statistical signal
+processing, subsurface sensing, auditory prostheses and pattern recognition.
+She is a member of the Tau Beta Pi, Sigma Xi, and Eta Kappa Nu honor
+societies. Dr. Collins has been a member of the team formed to transition
+MURI-developed algorithms and hardware to the Army HSTAMIDS and GSTAMIDS
+landmine detection systems. She has been the principal investigator on
+research projects from ARO, NVESD, SERDP, ESTCP, NSF, and NIH. Dr. Collins was
+the PI on the DoD UXO Cleanup Project of the Year in 2000. As of 2015, Dr.
+Collins has graduated 15 PhD students.
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+  * Professor in the Department of Head and Neck Surgery & Communication
+    Sciences
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** 3461 CIEMAS, Durham, NC 27708
+  * **Office Phone:** (919) 660-5260
+  * **Email Address:** lcollins@ee.duke.edu
+  * **Websites:**
+    * Duke Applied Machine Learning Lab
+
+## Education
+
+  * Ph.D. University of Michigan, Ann Arbor, 1995
+  * M.Sc.Eng. University of Michigan, Ann Arbor, 1986
+  * B.S.E. University of Kentucky, 1985
+
+## Research Interests
+
+Physics-based machine learning algorithms for big data, including developing
+remediation strategies for the hearing impaired and sensor-based algorithms
+for the detection of hazardous buried objects
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * ECE 280L9: Signals and Systems - Lab
+  * ECE 280L: Introduction to Signals and Systems
+  * ECE 292: Projects in Electrical and Computer Engineering
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 493: Projects in Electrical and Computer Engineering
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * EGR 393: Research Projects in Engineering
+
+## In the News
+
+  * Listening to Broken Hearts, Saving Lives (Sep 21, 2018 | Pratt School of
+    Engineering)
+  * Smart Meters: Duke Engineers Seek Energy Insights by Reading a Building's
+    Electrical Signatures (Oct 4, 2016)
+  * Pratt Researchers Are Using Deep Learning to Distinguish Solar Panels from
+    Swimming Pools (Aug 31, 2016)
+
+## Representative Publications
+
+  * Luzi, F; Gupta, A; Collins, L; Bradbury, K; Malof, J, _Transformers For
+    Recognition In Overhead Imagery: A Reality Check_ , Proceedings 2023 Ieee
+    Winter Conference on Applications of Computer Vision, Wacv 2023 (2023),
+    pp. 3767-3776 [10.1109/WACV56688.2023.00377] [abs].
+  * Shahidi, LK; Collins, LM; Mainsah, BO, _Parameter tuning of time-frequency
+    masking algorithms for reverberant artifact removal within the cochlear
+    implant stimulus._ , Cochlear Implants International, vol 23 no. 6 (2022),
+    pp. 309-316 [10.1080/14670100.2022.2096182] [abs].
+  * Chen, XJ; Collins, LM; Mainsah, BO, _Language Model-Guided Classifier
+    Adaptation for Brain-Computer Interfaces for Communication._ , Conference
+    Proceedings Ieee International Conference on Systems, Man and Cybernetics,
+    vol 2022 (2022), pp. 1642-1647 [10.1109/smc53654.2022.9945561] [abs].
+  * Huang, B; Yang, J; Streltsov, A; Bradbury, K; Collins, LM; Malof, JM,
+    _GridTracer: Automatic Mapping of Power Grids Using Deep Learning and
+    Overhead Imagery_ , Ieee Journal of Selected Topics in Applied Earth
+    Observations and Remote Sensing, vol 15 (2022), pp. 4956-4970
+    [10.1109/JSTARS.2021.3124519] [abs].
+  * Chen, XJ; Collins, LM; Mainsah, BO, _Mitigating the Impact of
+    Psychophysical Effects During Adaptive Stimulus Selection in the P300
+    Speller Brain-Computer Interface._ , Annual International Conference of
+    the Ieee Engineering in Medicine and Biology Society. Ieee Engineering in
+    Medicine and Biology Society. Annual International Conference, vol 2021
+    (2021), pp. 5796-5799 [10.1109/embc46164.2021.9630048] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,245 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# ECE Seminar: Quantum Foundations Meets Causal Inference
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Nov 3
+
+_This event has passed._
+
+##  Thursday, November 3, 2022 – 11:00AM to 12:00PM
+
+## Presenter
+
+Robert Spekkens, Senior Faculty Member, Perimeter Institute
+
+Abstract:  
+Can the effectiveness of a medical treatment be determined without the expense
+of a randomized controlled trial? Can the impact of a new policy be
+disentangled from other factors that happen to vary at the same time?
+Questions such as these are the purview of the field of causal inference, a
+general-purpose science of cause and effect, applicable in domains ranging
+from epidemiology to economics. Researchers in this field seek in particular
+to find techniques for extracting causal conclusions from statistical data.
+Meanwhile, one of the most significant results in the foundations of quantum
+theory-Bell's theorem-can also be understood as an attempt to disentangle
+correlation and causation. Recently, it has been recognized that Bell's 1964
+result is an early foray into the field of causal inference and that the
+insights derived from almost 60 years of research on his theorem can
+supplement and improve upon state-of-the-art causal inference techniques. In
+the other direction, the conceptual framework developed by causal inference
+researchers provides a fruitful new perspective on what could possibly count
+as a satisfactory causal explanation of the quantum correlations observed in
+Bell experiments. Efforts to elaborate upon these connections have led to an
+exciting flow of techniques and insights across the disciplinary divide. This
+talk will explore what is happening at the intersection of these two fields.  
+  
+Biography:  
+  
+Robert Spekkens (PhD University of Toronto, 2001) joined Perimeter's faculty
+in 2008, after holding a postdoctoral fellowship at Perimeter and an
+International Royal Society Fellowship at the University of Cambridge. He
+became a senior faculty member in 2015. His field of research is the
+foundations of quantum theory, where he is known for his work on the epistemic
+view of quantum states, the principle of noncontextuality, the nature of
+causality in a quantum world, and the mathematical framework of resource
+theories. Spekkens co-edited the book Quantum Theory: Informational
+Foundations and Foils. He was awarded the Birkhoff-von Neumann Prize of the
+International Quantum Structures Association in 2008, and won first prize in
+the 2012 FQXI Essay contest "Questioning the Foundations: Which of Our
+Assumptions Are Wrong?"  
+  
+Host: Iman Marvian  
+  
+ZOOM LINK:
+https://duke.zoom.us/j/93219074384?pwd=MWtaRis1azYwR0ZJYWwxT0Y3VExtUT09  
+PASSCODE: 015545
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

@@ -1,0 +1,303 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sophisticated Modeling Boosts Split Ventilators to Emergency FDA Review
+
+September 3, 2020 | By Ken Kingery
+
+Duke engineers and clinicians devise a system for ensuring patients receive
+just the right amount of air
+
+Researchers at Duke University have engineered a workaround to make
+ventilators safer and more efficient when splitting them between patients.
+
+With a set of biocompatible 3D-printed parts to control the amount of air
+being pushed to each patient and hundreds of thousands of hours of complex
+computer simulations to decide which of those parts to use, the innovative
+system has been submitted for emergency FDA approval for use.
+
+“One of the early needs to emerge during the pandemic was the need to
+ventilate patients, and the volume of ventilators needed has stressed many
+cities around the world,” said Muath Bishawi, a resident in cardiac surgery
+pursuing a PhD in biomedical engineering at Duke. “One strategy to meeting
+this demand is using T or Y connectors to put two patients on one ventilator,
+which technically should work, but comes with its own challenges. We wanted a
+system that, if it were ever needed at Duke or anywhere else, could restore
+some of the ventilator’s patient-specific features.”
+
+A ventilator is a complex machine that pushes air into a patient’s lungs at
+specific pressures, volumes, respiration rates and oxygen levels. It typically
+interacts with the patient it is supporting, automatically sensing if it is
+providing air volumes that could cause injuries or if a patient begins
+breathing on their own.
+
+But when a ventilator is split between multiple patients, it loses a lot of
+its safety alarms and metrics because it can no longer sense and respond to a
+single patient. It becomes a much dumber machine that does a single task—push
+oxygen-rich air through a tube at whatever rate the medical staff sets it at.
+
+This presents a problem when different patients have different respiration
+requirements.
+
+“Think of two balloons, one with a thick wall and the other with a thin wall.
+If you try to inflate both with the same level of effort, the thin-walled
+balloon is going to get much larger,” said Bishawi. “This is the same
+challenge faced with patients’ lungs. They have different levels of
+compliance. The same filling pressure of air that is perfect for one might not
+be enough for someone else or might even overinflate their lungs.”
+
+One solution, then, is to find a way to tailor the airflow for each patient
+without having to rely on the ventilator to do the heavy lifting. That’s where
+Bishawi’s training as an engineer kicked in.
+
+**Thinking Like an Engineer**
+
+Earlier in his medical career, Bishawi took part in an experimental class
+designed to bring students together from all corners of Duke to explore
+solutions for unmet clinical needs. Students spend time watching clinicians
+work, ask questions about how and why certain things are done, brainstorm
+shortcomings that might be ripe for an entrepreneurial solution, and then get
+to work on designing, prototyping, completing market research and implementing
+a business plan.
+
+That class was a precursor to what has now become the Duke Design Health
+Fellows program, of which Bishawi is now an advisor.
+
+“I’ve basically been a clinician supported to live in and breathe an
+engineering world for the past four years,” said Bishawi, who has recently
+successfully defended his PhD thesis. “I know our engineers, what their
+capabilities are and how to speak the language. This program and others
+between the medical and engineering school are what have allowed this project
+to take off so quickly and at such a high level.”
+
+Putting on his engineering cap, Bishawi came up with an idea to help restore
+some of the personalized functionality of a ventilator when it’s split between
+two patients. He wondered about using resistors that can restrict airflow,
+ensuring each patient is receiving the proper amount of pressure. This idea
+was inspired by what he learned about flow and resistance from his PhD advisor
+George Truskey, a world expert on fluid flow, and whose course he took years
+before. But to ever be useful in a clinical setting, health care providers
+would have to know with confidence which restrictors should be used with each
+patient.
+
+**Spending a Weekend in the Cloud**
+
+To help solve this challenging problem, Bishawi turned to an engineer he had
+worked with on a previous project, Amanda Randles, the Alfred Winborne and
+Victoria Stover Mordecai Assistant Professor of Biomedical Sciences at Duke.
+Randles has spent the past decade developing a highly parallel computing
+algorithm capable of simulating blood flow on a cellular level. But air is a
+liquid too, so Bishawi asked if she could adapt her program to simulate air
+flow through a ventilator and patients’ lungs with different levels of
+compliance.
+
+Randles got to work with Michael Kaplan, a medical student working in her
+laboratory, and Simba Chidyagwai, a PhD candidate in her laboratory. The
+catch: They would need 500,000 hours of runtime on one of the largest cloud
+servers in the world to solve the problem.
+
+“I reached out to Duke’s Office of Information Technology to see if they could
+help me find the computational power to pull this off,” said Randles. “That
+was on a Wednesday.” Within 48 hours, they had secured the time on Microsoft
+Azure, whose support team worked with Randles’ team through a weekend making
+sure the runs went smoothly. “You really need established relationships and
+trust to make that happen,” she said.
+
+At the same time, Bishawi reached out to Ken Gall, associate dean for
+entrepreneurship at Duke Engineering, for help with figuring out how to
+3D-print resistor pieces that meet the biocompatibility, toxicology and design
+standards required. Gall, in turn, connected Bishawi with one of his Durham-
+based startup companies, restor3d, which works with surgeons to improve the
+reconstruction and repair of the human body through metal and polymer
+3D-printed implants with enhanced anatomical fit and superior integrative
+properties.
+
+With the help of Nathan Evans, Michael Kim and Rajib Shaha at restor3d, the
+growing collaboration rapidly produced prototypes for different scenarios and
+came up with tentative protocols for using them. The devices were produced on
+low-cost, benchtop machines which utilize a form of 3D printing known as
+stereolithography (SLA). They also produced a series of prototypes and tested
+them on ICU ventilators as well as operating room ventilators. Also helping
+with this effort was a group of Duke anesthesiologists, including David
+MacLeod and Anne Cherry, as well as respiratory therapist Jhaymie Cappiello.
+
+Duke is making the data and specifications freely available to hospitals
+facing ventilator shortages due to the COVID-19 pandemic. If a hospital has
+access to fabrication facilities and an operational quality system, they will
+be able to use the specifications to build the product for their own internal
+use. Alternatively, once emergency FDA approval is granted, restor3d will have
+capacity to provide products for hospital systems that do not have their own
+internal capabilities.
+
+“This clinical team was phenomenal,” said Bishawi. “We met multiple times a
+week for a few weeks and completed a series of sophisticated testing to
+develop clinically relevant test data to both validate the model and provide
+clinicians with important data on safety features.”
+
+After settling on a design, the group then turned to Corey Campbell from
+Legend Technical Services, who completed biocompatibility testing for free,
+and William Wustenberg, DVM, president of Mycroft Medical LLC, who completed
+the toxicology risk assessment, also free of charge.
+
+**There’s an App for That**
+
+With tested devices and thoroughly vetted data on how best to use them, all
+that was left was to get the information out to those who need it. And thanks
+to Don Shin, chief technical officer at CrossComm, there’s now an app for
+that.
+
+“We wanted to make this tool as safe and user friendly as possible,” said
+Bishawi. “CrossComm developed a beautiful app that uses the computer model
+data to make sure the ventilator splitters and resistors are easy to use.”
+
+Roughly 100 terabytes of computational data computed on the Microsoft cloud
+network was distilled into a chart just a few gigabytes large that can be
+accessed by the app. Clinicians simply put in the required data about their
+patients and ventilators, and the app spits out the best combination of
+resistors to use to ensure both are receiving the correct amount of air.
+Because the calculations have already been done, the response time is
+immediate. And because the app draws from data kept on the cloud, the team can
+update their charts as more data becomes available and users begin to provide
+feedback.
+
+Now FDA clearance is needed for hospitals to begin using the innovation. To
+help spread the word, the collaboration worked with Duke’s Office of Licensing
+and Ventures, which helped patent the technology and app that will soon be
+freely available to anyone who needs it during the pandemic.
+
+“Duke is lucky in that we haven’t had to resort to splitting ventilators,”
+said Bishawi. “But we still might, so this is nice to have in our back pocket.
+And there are plenty of other hospitals around the world who might need our
+technology to help save lives. This is a last ditch effort when it is
+deployed, but that doesn’t mean it has to be without data, or a best effort to
+make it safer. This was our goal of doing this.”
+
+## Related News
+
+June 01, 2020
+
+### Engineering Student Works with Team Designing Isolation Chamber for
+COVID-19 Patients
+
+April 30, 2020
+
+### COVID-19 Engineering Response Team Assembles from Every Corner of Duke
+
+April 27, 2020
+
+### Duke Engineers Adapt Rapid Testing Platform to See If It Can Catch
+COVID-19
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

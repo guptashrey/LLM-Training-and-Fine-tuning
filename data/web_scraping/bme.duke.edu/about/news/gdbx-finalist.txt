@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gauging Renewable Energy Generation Using Satellite Imagery
+
+February 14, 2018
+
+Duke-World Resources Institute team among five finalists in the GBDX
+Sustainability Challenge
+
+_From the Duke University Energy Initiative_
+
+Researchers connected with Duke's Energy Data Analytics Lab and Applied
+Machine Learning Lab, working in partnership with the World Resources
+Institute, are among five finalist teams in the GBDX for Sustainability
+Challenge.
+
+The GBDX for Sustainability Challenge is sponsored by DigitalGlobe, a Maxar
+Technologies company, with support from Amazon Web Services. The competition
+is intended to spur innovation with the potential to address the United
+Nations' 18 Sustainable Development Goals.
+
+More than 70 teams proposed bold ideas using geospatial big data to drive
+progress toward the Sustainable Development Goals. Five teams—including
+Duke's—have been named finalists. For the next two months, each finalist team
+will have access to Digital Globe's geospatial big data platform (GBDX) and
+100+ petabyte image library, one of the largest collections of satellite
+imagery data available to the public or private sectors. In April, judges will
+review their progress and select an overall winner.
+
+The Duke/World Resources Institute team will undertake a project using high-
+resolution satellite imagery and computer vision to build an open database of
+global power plants.
+
+"Providing clean, affordable energy is one of the most important challenges
+the world faces today, as highlighted in Sustainable Development Goal 7
+(Affordable and Clean Energy)," noted the team's proposal. "Achieving that
+goal will require a range of actions, many of which depend on a detailed
+analysis of the electric power sector. Unfortunately, data about the power
+sector is limited or lacking in many countries, or only available in
+proprietary formats."
+
+The team will apply computer vision algorithms to high-resolution satellite
+imagery provided by DigitalGlobe to geolocate and characterize wind and solar
+power generation facilities around the world. Information about these power
+plants is especially important to show how rapidly the power sector is
+changing. The data will be aggregated and released in open format, to support
+applications including energy sector transition planning, grid integration of
+renewable power, and clean energy public education.
+
+"We’ve developed successful techniques for automatically identifying
+distributed generation resources in a research environment, using publicly
+available data," explained Kyle Bradbury, managing director of Duke's Energy
+Data Analytics Lab. "Access to the massive DigitalGlobe archive will enable us
+to test our algorithms on a much larger scale and on more recent satellite
+imagery data."
+
+The Duke / World Resources Institute teams will be competing with **** four
+other finalists:
+
+  * UNICEF, Big Pixel Initiative at UC San Diego, Development Seed - "Mapping
+    Schools to Reduce the Digital Divide";
+  * Ernst & Young, Cornell University, Metabolic, Geodan, Trinity College
+    Dublin, University College Dublin, University of Amsterdam, University of
+    Toronto - "Global Green City Watch";
+  * London School of Economics, University of Oxford - "Monitoring Economic
+    Activity in Large-Scale Industrial Areas"; and
+  * 20tree.ai - "Deforestation Intelligence for Cerrado."
+
+Duke University's Energy Data Analytics Lab is developing and applying
+advanced data analytics tools to advance an accessible, affordable, reliable,
+and clean energy system. The lab is a partnership among the Duke University
+Energy Initiative (its institutional home), the Information Initiative at
+Duke, and the Social Science Research Institute.
+
+The Applied Machine Learning Lab is based in Duke's Pratt School of
+Engineering.
+
+The World Resources Institute is a global research organization working on six
+critical goals that the world must achieve this decade in order to secure a
+sustainable future: climate, energy, food, forests, water, cities & transport.
+
+_Questions about the Energy Data Analytics Lab?_ Contact managing director Dr.
+Kyle Bradbury.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

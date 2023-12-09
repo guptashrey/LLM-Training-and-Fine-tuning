@@ -1,0 +1,170 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Partnership to Secure and Protect the Emerging Internet of Things
+
+August 31, 2015
+
+Duke University partners with the National Science Foundation, Intel
+Corporation and universities across the nation to improve the security and
+privacy of computing systems that interact with the physical world
+
+The digital world once existed largely in non-material form. But with the rise
+of connected homes, smart grids and autonomous vehicles, the cyber and the
+physical are merging in new and exciting ways. These hybrid forms are often
+called ‘cyber-physical systems’ (CPS), and are giving rise to a new ‘Internet
+of Things’ (IOT).
+
+Such systems have unique characteristics and vulnerabilities that must be
+studied and addressed to make sure they are reliable and secure, and that they
+maintain individuals’ privacy.
+
+The National Science Foundation (NSF), in partnership with Intel Corporation,
+one of the world’s leading technology companies, today announced two new
+grants totaling $6 million to research teams that will study solutions to
+address the security and privacy of cyber-physical systems. A key emphasis of
+these grants is to refine an understanding of the broader socioeconomic
+factors that influence CPS security and privacy.
+
+One of the grants, led by Insup Lee at the University of Pennsylvania, will
+include researchers from the University of Michigan and Duke University. The
+project will explore the unique characteristics of cyber-physical systems,
+such as the physical dynamics, to provide approaches that mix prevention,
+detection and recovery, while assuring certain levels of guarantees for
+safety-critical automotive and medical systems.
+
+“With this award, we will develop robust, new technologies and approaches that
+work together to lead to safer, more secure and privacy-preserving cyber-
+physical systems by developing methods to tolerate attacks on physical
+environment and cyberspace in addition to preventing them,” said Insup Lee,
+who leads the team from the University of Pennsylvania.
+
+Joining Lee’s team from Duke is Miroslav Pajic, assistant professor of
+electrical and computer engineering. Pajic’s role in the project will be to
+design security-aware embedded control systems and cyber-physical systems.
+
+The goal is to create interactive “smart” systems that can maintain control
+and performance over a long period of time, even when some aspects of the
+system have been compromised. Figuring out how to balance the interplay
+between security and privacy requirements and the need to continuously
+interact with and obtain information from the physical environment is also a
+key concern.
+
+“As our lives depend more and more on these systems, specifically in the
+automotive, medical and Internet-of-Things domains, the results obtained in
+this project will have a direct and immediate impact on society at large,”
+said Pajic.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

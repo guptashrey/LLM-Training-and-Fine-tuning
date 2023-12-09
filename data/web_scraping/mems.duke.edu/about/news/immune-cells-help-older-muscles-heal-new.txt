@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Immune Cells Help Older Muscles Heal Like New
+
+October 1, 2018 | By Ken Kingery
+
+Macrophages enable regeneration of lab-grown adult muscle tissue
+
+Biomedical engineers at Duke University have found a critical component for
+growing self-healing muscle tissues from adult muscle—the immune system. The
+discovery in mice is expected to play an important role in studying
+degenerative muscle diseases and enhancing the survival of engineered tissue
+grafts in future cell therapy applications.
+
+The results appeared online October 1 in Nature Biomedical Engineering.
+
+In 2014, the group led by Nenad Bursac, professor of biomedical engineering at
+Duke, debuted the world’s first self-healing, lab-grown skeletal muscle. It
+contracted powerfully, integrated into mice quickly and demonstrated the
+ability to heal itself both inside the laboratory and inside an animal.
+
+The milestone was achieved by taking samples of muscle from rats just two days
+old, removing the cells, and “planting” them into a lab-made environment
+perfectly tailored to help them grow. Besides a three-dimensional scaffolding
+and plenty of nutrients, this environment supported the formation of niches
+for muscle stem cells, known as satellite cells, that activate upon injury and
+aid the regeneration process.
+
+For potential applications with human cells, however, muscle samples would be
+mostly taken from adult donors rather than newborns. Many degenerative muscle
+diseases do not appear until adulthood, and growing the muscle in the lab to
+test drug responses for these patients would benefit from the use of the
+patient’s own adult cells.
+
+There’s just one problem—lab-made adult muscle tissues do not have the same
+regenerative potential as newborn tissue.
+
+“I spent a year exploring methods to engineer muscle tissues from adult rat
+samples that would self-heal after injury,” said Mark Juhas, a former Duke
+doctoral student in Bursac’s lab who led both the original and new research.
+
+“Adding various drugs and growth factors known to help muscle repair had
+little effect, so I started to consider adding a supporting cell population
+that could react to injury and stimulate muscle regeneration,” said Juhas.
+“That’s how I came up with macrophages, immune cells required for muscle’s
+ability to self-repair in our bodies.”
+
+Macrophages are a type of white blood cell in the body’s immune system.
+Literally translated from Greek as “big eaters,” macrophages engulf and digest
+cellular debris, pathogens and anything else they don’t think should be
+hanging around while also secreting factors that support tissue survival and
+repair.
+
+After a muscle injury, one class of macrophages shows up on the scene to clear
+the wreckage left behind, increase inflammation and stimulate other parts of
+the immune system. One of the cells they recruit is a second kind of
+macrophage, dubbed M2, that decreases inflammation and encourages tissue
+repair. While these anti-inflammatory macrophages had been used in muscle-
+healing therapies before, they had never been integrated into a platform aimed
+at growing complex muscle tissues outside of the body.
+
+It took several additional months of work for Juhas to figure out how to
+incorporate macrophages into the system. But once he did, the results changed
+dramatically. Not only did the new muscle tissues perform better in the
+laboratory, they performed better when grafted into live mice.
+
+“When we damaged the adult-derived engineered muscle with a toxin, we saw no
+functional recovery and muscle fibers would not build back,” said Bursac, who
+is a co-director of Duke’s Regeneration Next initiative. “But after we added
+the macrophages in the muscle, we had a wow moment. The muscle grew back over
+15 days and contracted almost like it did before injury. It was really
+remarkable.”
+
+The success appears to stem primarily from macrophages acting to protect
+damaged muscle cells from apoptosis—programmed cell death. While newborn
+muscle cells naturally resist the urge to throw in the towel, adult muscle
+cells need the macrophages to help them push through initial damage without
+going into cell death. These surviving muscle fibers then provide a “scaffold”
+for muscle stem cells to latch onto to perform their regenerative duties.
+
+Bursac believes the discovery may lead to a new line of research for potential
+regenerative therapies. According to a popular theory, fetal and newborn
+tissues are much better at healing than adult tissues at least in part because
+of an initial supply of tissue-resident macrophages that are similar to M2
+macrophages. As individuals age, this original macrophage supply is replaced
+by less regenerative and more inflammatory macrophages coming from bone marrow
+and blood.
+
+“We believe that the macrophages in our engineered muscle system may behave
+more like the muscle-resident macrophages people are born with,” said Bursac.
+“We are currently working to understand if this is indeed the case. One could
+then envision ‘training’ macrophages to be better healers in a system like
+ours or augmenting them by genetic modifications and then implanting them into
+damaged sites in patients.”
+
+That work is, of course, still years into the future. While this study also
+showed that human macrophages support the healing of lab-grown rat muscle, and
+separate work in Bursac’s group has grown complex human muscles containing
+macrophages, there is not yet a good lab or animal system to test the
+regenerative powers that this approach may have in humans.
+
+“Building a platform to test these results in engineered human tissues is a
+clear next step,” said Bursac. “Along the same lines, we want to better
+understand the potential roles that macrophages within engineered muscle play
+in its vascularization and innervation after implantation. We hope that our
+approach of supplementing lab-grown muscles with immune system cells will
+prove to be a general strategy to augment survival and function of other lab-
+grown tissues in future regeneration therapies.”
+
+This research was supported by the National Science Foundation and the
+National Institute of Arthritis and Musculoskeletal and Skin Diseases
+(AR070543, AR065873).
+
+CITATION: “Incorporation of Macrophages Into Engineered Skeletal Muscle
+Enables Enhanced Muscle Regeneration.” Mark Juhas, Nadia Abutaleb, Jason T.
+Wang, Jean Ye, Zohaib Shaikh, Chaichontat Sriworarat, Ying Qian and Nenad
+Bursac. Nature Biomedical Engineering, October, 2018. DOI:
+10.1038/s41551-018-0290-2
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

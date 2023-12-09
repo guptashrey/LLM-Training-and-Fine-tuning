@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Physics Reveals Some Obstacles Aren’t Obstacles At All
+
+February 7, 2023 | By Ken Kingery
+
+Researchers find that cataracts and turbulence that seem to slow water’s flow
+actually facilitate it
+
+Since 1996, Duke Engineering Professor Adrian Bejan has demonstrated numerous
+natural phenomena that validate his constructal theory in practice.
+
+In short, the theory states that all flow systems, animate and inanimate,
+evolve in such a way as to provide greater access to what flows. This kind of
+flow typically takes the shape of a few large conduits attached to many
+smaller vessels, whether the phenomena be root systems of trees, effluent
+branches of river deltas, or the bronchial tubes that bring oxygen into the
+lungs. He’s even gone as far as to show its manifestation in the hierarchical
+nature of extraterrestrial objects, wealth distribution throughout a society
+and the evolution of the world’s animal kingdom.
+
+But within the past couple of years, two papers caught Bejan’s attention that
+seemed to contradict the theory, at least on the surface, and made him
+curious.
+
+One from CalTech investigated a phenomenon that Bejan witnessed himself on a
+regular basis just outside of his driveway. When water runs down an inclined
+surface that can be eroded away, it doesn’t form a single, uniform channel; it
+creates a series of cascading pools that seem to hinder its flow rather than
+help it.
+
+In the other paper, researchers from Cambridge investigated the nature of
+hydraulic jumps, which anyone with a flat sink has seen firsthand. When a
+stream of water hits a relatively large, flat surface, it spreads out in a
+smooth disk before suddenly giving way to a thicker, turbulent runoff. While
+scientists had long believed that this was caused by the effects of gravity,
+the Cambridge team showed that it is created entirely from surface tension and
+viscous forces balancing the momentum in the liquid film.
+
+These two papers made Bejan consider a third potential contradiction — a thin
+sheet of water running down an inclined hard surface. As anyone watching rain
+flow down a driveway or sidewalk can see, the water forms a series of ridges
+running across the flow’s direction. These lines are thick buildups of
+turbulent, rolling water waves that appear to hinder the flow.
+
+With these three seeming contradictions in mind, Bejan put the constructal law
+to the test by exploring a series of simple physics models. As the results
+published the ASME Open Journal of Engineering show, despite appearances to
+the contrary, these phenomena improve the flow, as the constructral law
+predicts.
+
+“These papers exploring phenomena that I see at home on a regular basis made
+me question the theory,” said Bejan, the J.A. Jones Distinguished Professor of
+Mechanical Engineering at Duke. “But when I sat down and ran through the
+equations, I realized these effects are their own animal.”
+
+Solving the apparent contradiction in all three systems essentially comes down
+to a single fact; water travels with more momentum in a turbulent freefall
+than it does flowing smoothly over a surface.
+
+For the sink-based hydraulic jumps, Bejan found that, while it may seem more
+efficient for water to spread out in a smooth disk, a thicker, turbulent layer
+actually increases the flow of momentum across the fluid layer. The hydraulic
+jump is a visual display of the transition to turbulent flow, and that
+turbulence, according to Bejan, is predictable and no longer a mystery.
+
+Bejan then puts together a long list of features of turbulent flow predicted
+by invoking the constructal law.
+
+In the case of the hard inclined surface, Bejan draws a diagram and explores
+the forces at work, including friction working against the water as it flows.
+He found that the roll waves are self-created “cliffs” that allow the water to
+roll over and fall freely for a short distance, increasing the momentum of the
+water and thus its overall flow rate.
+
+A similar method of action is responsible for the series of cascading pools,
+because water falls over a dam more efficiently than when it slides down an
+incline. If water flows on an erodible surface, it will create a series of
+dams to fall over. This same idea can be seen in the design of pumped storage
+hydropower systems, where water is stored in a large reservoir and then
+released to travel through a turbine before reaching a second reservoir at a
+lower elevation. In these systems, the water travels vertically rather than on
+an incline because it produces a greater flow rate.
+
+“The best physics can be proven with simple physics,” Bejan said. “At first
+glance, these systems would seem to be impeding the system’s flow. But it’s
+not speed that’s important, it’s momentum transfer. These examples go to show
+how important it is for researchers to question observations and consensus.”
+
+CITATION: “Theory of Flow Access with Apparent Obstacles: Cascades, Jumps,
+Roll Waves, and Turbulence,” Adrian Bejan. AOJE, 2022. DOI: 10.1115/1.4054473
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

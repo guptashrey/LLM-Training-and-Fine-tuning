@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Hai “Helen” Li: Modeling the Future of Computing After the Human Brain
+
+December 21, 2016
+
+New faculty member Hai “Helen” Li will create a brain-inspired computing
+research program at Duke
+
+Hai “Helen” Li will join the faculty of the Department of Electrical and
+Computer Engineering at Duke University in January 2017. With significant
+experience at both academic and corporate institutions, Li will forge a new
+research group in “evolutionary intelligence” dedicated to developing the next
+generation of computer hardware based on the fastest, most efficient example
+we know of—the human brain.
+
+Since 1965, the progress of computer technology has generally followed Moore’s
+Law, doubling in processing power while shrinking in size every few years.
+That trend is about to be bucked, however, as the number of transistors that
+can be packed together is fast approaching fundamental physical limits.
+
+The only way to continue the evolution of computing is to seek new methods of
+storing and processing information that lie outside the realm of classical
+transistors, memory caches and data pathways. Many researchers, including Li,
+are looking to the human brain for inspiration. It’s a goal that was dubbed a
+“Grand Challenge” by the White House in 2015; Li was among 15 scientists
+nationwide invited to participate in a Department of Energy roundtable
+discussion to determine the best paths forward.
+
+“People have been trying to mimic the brain using conventional transistors for
+decades with very little progress,” said Li, who joins Duke as an associate
+professor after four years on the faculty of the University of Pittsburgh. “We
+are instead trying to use emerging technology that can emulate the behaviors
+of synapses to realize the high complexity and volume of neural connections.”
+
+One example of this work is dubbed a “memristor.” As the name suggests, the
+evolving electrical component merges properties of memory and resistors. By
+taking advantage of nanoscale properties, these devices use magnetism as well
+as electrical currents to store as well as process information, making them
+much more analogous to a synapse.
+
+With these sorts of advances in hand, Li is working to create “neuromorphic”
+chips that attempt to model the incredibly large and complex parallel
+processing power of the human brain. If the individual components can change
+how they connect with each other in response to stimuli, then the computer
+chip can actually learn from its experiences as an actual neural network does.
+
+“We actually have some prototype chips that have demonstrated this capability
+recently,” said Li, who works with colleagues in HP Labs, the Air Force Office
+of Scientific Research and the Department of Defense on the project. “Of
+course they can’t think like a human being yet because they are still very
+small, but our technology demonstrated the intelligence and complex reasoning
+needed to recognize the patterns of problems.”
+
+Li will find a strong network of collaborators already in place when she
+arrives at Duke. She mentions strengths in electronic systems, neuroscience,
+biomolecular materials, machine learning, computer architecture and technology
+transfer as reasons for her excitement for her move. And then there’s the
+proven track record between Pratt and the Duke School of Medicine in
+developing devices for clinical use.
+
+“I get the impression that Duke is very ambitious and willing to take risks
+with new ideas that could result in significant technological advances,” said
+Li. “We expect to integrate the local strengths and programs so we’re able to
+not only deliver the basic hardware itself, but entire environments. The
+ultimate goal of our research is to create general systems for many diverse,
+specific applications that users are eager and able to access without needing
+specialized training.”
+
+Li’s eye toward fast integration into actual devices at least partially comes
+from her experience in industry. Before joining the faculty of the Polytechnic
+Institute of New York University in 2009, Li held positions at Qualcomm, Intel
+and Seagate.
+
+“I really benefit from my industry experience so much,” said Li, who entered
+the private job market after earning her PhD in electrical and computer
+engineering from Purdue University. “I’m always thinking about what industry
+wants and what is realistic to deliver. And on the other side, I’m always
+learning about what direction their research is going so that I can tailor my
+pursuits to their future goals.”
+
+One example slightly outside of the realm of brain-inspired computing is Li’s
+work on emerging memory. Her research into low-power static random-access
+memory has been used in Intel processors. She also led a circuit design team
+on spintronic memory and resistive memory.
+
+“I also introduce a lot of my students to potential exchanges and experiences
+in industry,” said Li. “I always bring students into meetings with industry
+companies to talk about their research. Not only do students get to learn
+about what industry is working on, they learn how companies operate, what
+people really think and how to keep a project moving. This helps them be more
+prepared for industry jobs when they graduate.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

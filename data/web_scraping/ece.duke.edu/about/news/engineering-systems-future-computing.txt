@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineering Systems for Future Computing
+
+April 6, 2021
+
+In this Q&A, quantum information scientist Kenneth Brown explains why Duke is
+situated to lead the quantum systems charge, and how students can begin to
+explore the field
+
+## 1\. Can you tell us a bit about your research interests, and what goes on
+in your lab at Duke?
+
+My broad research interest is understanding how we can use quantum mechanical
+phenomena to improve technology and our understanding of nature. Most people
+are unaware that modern technology from computer chips to scanners at the
+supermarket rely on technology designed using the principles of quantum
+mechanics. The function of these devices relies on the fact that electrons
+behave like waves and represents the practical application of the principle of
+wave-particle duality.
+
+At present, we are seeing the rise of quantum information technology, which
+uses further features of quantum mechanics—notably, entanglement, which is a
+correlation between quantum objects that defies a classical description. My
+group is interested in constructing quantum computers that use entanglement to
+perform calculations algorithmically faster than regular computers.
+
+These computers are still in development and my research has four areas:
+constructing robust quantum computers from trapped ions, developing firmware
+and software to control quantum computers, optimizing methods for quantum
+error correction and using parts of quantum information processors to develop
+sensors.
+
+**Quantum mechanics:** the mathematical description of how subatomic particles
+behave and interact with one another.
+
+## 2\. What makes Duke different from other universities and research
+organizations, where quantum computing is concerned?
+
+Quantum information technology has just reached the point where the quantum
+computers are starting to challenge classical computers on specific tasks and
+the reliability of systems is sufficiently good that they can be deployed on
+the cloud. This results in a shift in research questions away from basic
+science questions to more applied science, computer science, and engineering.
+
+One key difference at Duke is that the bulk of our quantum computing activity
+is in the School of Engineering. Other universities have strong reputations or
+large footprints in quantum information and/or quantum physics, but Duke is
+really interested in building the physical systems to advance quantum
+computing.
+
+We also have the newly launched Duke Quantum Center, or DQC. At the DQC we are
+taking a system-level approach to build state-of-the-art quantum computers for
+academic researchers. At present, we have hardware available for physicists to
+test quantum simulation algorithms. In the near future, we plan to have a
+unique “user lab,” with systems available for quantum computer engineering
+research, including compiler development and design and automation.
+
+> "Most people are unaware that modern technology from computer chips to
+> scanners at the supermarket rely on technology designed using the principles
+> of quantum mechanics."
+>
+> Kenneth Brown, Professor of Electrical and Computer Engineering
+
+## 3\. Is there a project on the horizon that you’re really excited about?
+What will that project mean for advancing the field?
+
+I am really excited for the DQC user lab for two reasons: First, I’ll be able
+to continue my own research on the implementation of quantum error correction
+codes and fault-tolerant quantum computing on a real system. Second, we’ll be
+able to establish a stable, open, academic platform for computer engineers and
+computer architects to develop quantum operating systems. There has already
+been a lot of interest expressed by researchers at other universities, so we
+know there is an unmet need that the DQC can help with.
+
+**Quantum computer:** a computer that stores and manipulates information by
+controlling the quantum state of a physical system.
+
+## 4\. How would students who are interested in exploring quantum computing
+proceed? What kinds of opportunities are available to those who are just
+starting out?
+
+There are a lot of great opportunities at Duke. As part of the NSF STAQ
+project, we hold an annual summer school. Duke students in Trinity and Pratt
+organized a House Course on Quantum Information this semester and they plan to
+continue offering it in the future. And, I teach an upper-level course for
+engineering students called Introduction to Quantum Engineering.
+
+In addition, the Duke Undergraduate Quantum Information Society puts on a lot
+of events. Recently, D-Tech, DAML, and DUQIS hosted a quantum industry panel
+with panelists from Google, IBM, Rigetti, Honeywell, and Microsoft to discuss
+opportunities in the field. There are opportunities to do research at the
+undergraduate level, but I have to admit that I currently have more applicants
+than positions.
+
+## 5.What might one do with a degree in ECE that’s focused on quantum
+computing?
+
+An ECE degree is a perfect degree for quantum technology. Jobs in quantum
+computing include designing complex electronics systems near absolute zero,
+constructing advanced optical systems, and deploying software tools to control
+quantum systems. At present, many industrial quantum computing research jobs
+require advanced degrees, but when looking at the entire ecosystem, it is
+clear that bachelor's-level engineers already make significant contributions
+at the companies that supply devices to the quantum industry.
+
+Learn more About Quantum Computing at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

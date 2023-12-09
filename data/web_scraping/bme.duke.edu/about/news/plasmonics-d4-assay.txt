@@ -1,0 +1,259 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Silver Nanocubes Make Point-of-Care Diagnostics Easier to Read
+
+May 12, 2020 | By Ken Kingery
+
+Researchers use plasmonics to enhance fluorescent markers in lab-on-a-chip
+diagnostic devices
+
+Engineers at Duke University have shown that nanosized silver cubes can make
+diagnostic tests that rely on fluorescence easier to read by making them more
+than 150 times brighter. Combined with an emerging point-of-care diagnostic
+platform already shown capable of detecting small traces of viruses and other
+biomarkers, the approach could allow such tests to become much cheaper and
+more widespread.
+
+The results appeared online on May 6 in the journal Nano Letters.
+
+Plasmonics is a scientific field that traps energy in a feedback loop called a
+plasmon onto the surface of silver nanocubes. When fluorescent molecules are
+sandwiched between one of these nanocubes and a metal surface, the interaction
+between their electromagnetic fields causes the molecules to emit light much
+more vigorously. Maiken Mikkelsen, the James N. and Elizabeth H. Barton
+Associate Professor of Electrical and Computer Engineering at Duke, has been
+working with her laboratory at Duke to create new types of hyperspectral
+cameras and superfast optical signals using plasmonics for nearly a decade.
+
+At the same time, researchers in the laboratory of Ashutosh Chilkoti, the Alan
+L. Kaganov Distinguished Professor of Biomedical Engineering, have been
+working on a self-contained, point-of-care diagnostic test that can pick out
+trace amounts of specific biomarkers from biomedical fluids such as blood. But
+because the tests rely on fluorescent markers to indicate the presence of the
+biomarkers, seeing the faint light of a barely positive test requires
+expensive and bulky equipment.
+
+“Our research has already shown that plasmonics can enhance the brightness of
+fluorescent molecules tens of thousands of times over,” said Mikkelsen. “Using
+it to enhance diagnostic assays that are limited by their fluorescence was
+clearly a very exciting idea.”
+
+“There are not a lot of examples of people using plasmon-enhanced fluorescence
+for point-of-care diagnostics, and the few that exist have not been yet
+implemented into clinical practice,” added Daria Semeniak, a graduate student
+in Chilkoti’s laboratory. “It’s taken us a couple of years, but we think we’ve
+developed a system that can work.”
+
+In the new paper, researchers from the Chilkoti lab build their super-
+sensitive diagnostic platform called the D4 Assay onto a thin film of gold,
+the preferred yin to the plasmonic silver nanocube’s yang. The platform starts
+with a thin layer of polymer brush coating, which stops anything from sticking
+to the gold surface that the researchers don’t want to stick there.The
+researchers then use an ink-jet printer to attach two groups of molecules
+tailored to latch on to the biomarker that the test is trying to detect. One
+set is attached permanently to the gold surface and catches one part of the
+biomarker. The other is washed off of the surface once the test begins,
+attaches itself to another piece of the biomarker, and flashes light to
+indicate it’s found its target.
+
+After several minutes pass to allow the reactions to occur, the rest of the
+sample is washed away, leaving behind only the molecules that have managed to
+find their biomarker matches, floating like fluorescent beacons tethered to a
+golden floor.
+
+“The real significance of the assay is the polymer brush coating,” said
+Chilkoti. “The polymer brush allows us to store all of the tools we need on
+the chip while maintaining a simple design.”
+
+While the D4 Assay is very good at grabbing small traces of specific
+biomarkers, if there are only trace amounts, the fluorescent beacons can be
+difficult to see. The challenge for Mikkelsen and her colleagues was to place
+their plasmonic silver nanocubes above the beacons in such a way that they
+supercharged the beacons’ fluorescence.
+
+But as is usually the case, this was easier said than done.
+
+“The distance between the silver nanocubes and the gold film dictates how much
+brighter the fluorescent molecule becomes,” said Daniela Cruz, a graduate
+student working in Mikkelsen’s laboratory. “Our challenge was to make the
+polymer brush coating thick enough to capture the biomarkers—and only the
+biomarkers of interest—but thin enough to still enhance the diagnostic
+lights.”
+
+The researchers attempted two approaches to solve this Goldilocks riddle. They
+first added an electrostatic layer that binds to the detector molecules that
+carry the fluorescent proteins, creating a sort of “second floor” that the
+silver nanocubes could sit on top of. They also tried functionalizing the
+silver nanocubes so that they would stick directly to individual detector
+molecules on a one-on-one basis.
+
+While both approaches succeeded in boosting the amount of light coming from
+the beacons, the former showed the best improvement, increasing its
+fluorescence by more than 150 times. However, this method also requires an
+extra step of creating a “second floor,” which adds another hurdle to
+engineering a way to make this work on a commercial point-of-care diagnostic
+rather than only in a laboratory. And while the fluorescence didn’t improve as
+much in the second approach, the test’s accuracy did.
+
+“Building microfluidic lab-on-a-chip devices through either approach would
+take time and resources, but they’re both doable in theory,” said Cassio
+Fontes, a graduate student in the Chilkoti laboratory. “That’s what the D4
+Assay is moving toward.”
+
+And the project is moving forward. Earlier in the year, the researchers used
+preliminary results from this research to secure a five-year, $3.4 million R01
+research award from the National Heart, Lung, and Blood Institute. The
+collaborators will be working to optimize these fluorescence enhancements
+while integrating wells, microfluidic channels and other low-cost solutions
+into a single-step diagnostic device that can run through all of these steps
+automatically and be read by a common smartphone camera in a low-cost device.
+
+“One of the big challenges in point-of-care tests is the ability to read out
+results, which usually requires very expensive detectors,” said Mikkelsen.
+“That’s a major roadblock to having disposable tests to allow patients to
+monitor chronic diseases at home or for use in low-resource settings. We see
+this technology not only as a way to get around that bottleneck, but also as a
+way to enhance the accuracy and threshold of these diagnostic devices.”
+
+This research was supported by the National Institute of Health
+(5R01-HL144928-02), the Research Corporation for Science Advancement, the
+United States Special Operations Command (W81XWH-16-C-0219), the Combat
+Casualty Care Research Program (JPC-6) (W81XWH-17-2-0045) and the National
+Council for the Improvement of Higher Education - CAPES (the Science without
+Borders project).
+
+CITATION: “Ultrabright Fluorescence Readout of an Ink-Jet Printed Immunoassay
+Using Plasmonic Nanogap Cavities.” Daniela F. Cruz, Cassio M. Fontes, Daria
+Semeniak, Jiani Huang, Angus Hucknall, Ashutosh Chilkoti, and Maiken H.
+Mikkelsen. Nano Letters, 2020. DOI: 10.1021/acs.nanolett.0c01051
+
+## Related News
+
+April 27, 2020
+
+### Duke Engineers Adapt Rapid Testing Platform to See If It Can Catch
+COVID-19
+
+August 08, 2017
+
+### Inkjet-Printed Tool Enables Sensitive Diagnostic Testing in Point-of-Care
+Settings
+
+December 14, 2016
+
+### Nanocubes Simplify Printing And Imaging In Color And Infrared
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Building Dictionaries for Machine Learning from Sparse Data
+
+June 12, 2019
+
+Guillermo Sapiro’s paper laying the foundations of modern machine learning
+earns a “Test of Time” award 10 years after its publication
+
+Imagine trying to build an entire grocery store’s inventory of baking
+ingredients from cakes with no recipes.
+
+This is the basic challenge that many machine learning algorithms face. They
+must not only break down the object they’re learning about into its
+constituent parts, they must build a library of said parts to draw from to
+make better decisions in the future. And to truly be good at their job,
+machine learning algorithms must build a complete library with incomplete
+information and be nimble enough to make updates on the fly.
+
+This trick of the trade was first accomplished by Guillermo Sapiro, the James
+B. Duke Professor of Electrical and Computer Engineering at Duke University.
+Now, ten years after the publication of his seminal paper, “Online Dictionary
+Learning for Sparse Coding,” it has won the “Test of Time Award” from the 2019
+International Conference on Machine Learning, one of the world’s leading
+conferences in the field.
+
+Academic conferences often present a “Best Paper Award” to acknowledge
+academically rigorous articles the judges believe will help push the field
+forward in the coming years. But because nobody has a crystal ball and
+hindsight is 20-20, many conferences have also created a “Test of Time” award
+to recognize papers that have had a demonstrable impact over the years.
+
+Sapiro’s paper’s legacy lives on because it was the first to propose a general
+purpose, highly effective “dictionary learning” algorithm efficient enough to
+train itself on truly massive data sources without getting bogged down. It led
+to a wide range of machine learning algorithms in fields ranging from image
+recognition to stock market prediction, and set the stage for the development
+of more complex machine learning concepts such as deep learning.
+
+"It is nice that, in addition to being considered important by a prestigious
+committee, the work is recognized with what is in some sense the ‘people's
+choice’ award,” said Sapiro.
+
+> “The idea is that you measure something, and you want to understand the
+> basis of what you measured and how its constituent parts have been mixed.
+> Doing this with limited data is a fundamental problem in machine learning
+> with a wide range of applications, and our paper showed how to efficiently
+> solve it.”
+
+To understand what the paper accomplished, let’s go back to reverse-
+engineering a cake. You have the delicious finished product in front of you,
+but you want to figure out the ingredients used to create the cake and, to
+extrapolate further, come up with a complete inventory of all baking
+ingredients available at the supermarket.
+
+Mathematically, these lists can be represented by two matrices—grids of
+numbers where each box represents a piece of information. But creating these
+matrices, especially the one representing a supermarket’s complete inventory
+based on a single cake, is computationally expensive.
+
+Putting it all together for the paper “Online Dictionary Learning for Sparse
+Coding,” the supermarket inventory is the “dictionary,” the limited list of
+cake ingredients is the “sparse coding” used to build that inventory, and
+“online” is the ability to update the supermarket shelves as quickly as
+possible as you eat more cakes.
+
+“The idea is that you measure something, and you want to understand the basis
+of what you measured and how its constituent parts have been mixed,” said
+Sapiro. “Doing this with limited data is a fundamental problem in machine
+learning with a wide range of applications, and our paper showed how to
+efficiently solve it.”
+
+Sapiro was working on image analysis at the time, but the work has since been
+applied to fields including biology, music classification, economic
+prediction, detecting data anomalies and video compression. Even if his
+specific model wasn’t used, the general approach formed the basis for many
+algorithms that followed, including much more advanced types of machine
+learning.
+
+“The key to managing such gigantic data volumes is their ‘online’ approach,
+working sequentially on the incoming data, and updating the ‘dictionary’ in a
+recursive fashion. Their insightful design, and their study of its convergence
+properties, explains the vast interest in their paper, and the 1745 citations
+it has accumulated so far,” said Miki Elad, professor of computer science at
+the Israel Institute of Technology. “The ‘online’ concept became the common
+practice in deep learning, and sparse modeling has very strong ties to many of
+the architectures used nowadays. In that respect, we may refer to this paper
+as one of the swallows who brought the (deep-learning) summer.”
+
+“Online dictionary learning for sparse coding.” J Mairal, F Bach, J Ponce, G
+Sapiro. Proceeding ICML '09 Proceedings of the 26th Annual International
+Conference on Machine Learning, Pages 689-696. 2009.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

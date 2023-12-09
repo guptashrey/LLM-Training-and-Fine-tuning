@@ -1,0 +1,280 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Big Ideas on a Small Surface
+
+October 29, 2019
+
+George Truskey and Shyni Varghese use custom lab-on-a-chip technologies to
+create novel models of tissues, organs and diseases
+
+Several small slides sit in an incubator in Shyni Varghese’s lab at Duke
+University, where they are connected to an assortment of machines via a
+network of delicate clear tubes. Roughly the size of viewing slides used in
+microscopes, these slides are actually microfluidic chips that house living
+samples of cells and tissues.
+
+Varghese, a professor of biomedical engineering at Duke University, uses this
+lab-on-a-chip technology to create miniature models of tissues, organs and
+even tumors.
+
+One of the major challenges in studying disease and developing therapies
+involves the different responses each provoke in different organs and tissues
+in the body. Cells in the liver will react differently to disease or various
+pharmaceuticals than cells in the heart, and drug reactions and disease
+symptoms can also be inconsistent from person to person. Using animal models
+or petri-dish studies with human cells to understand these responses has
+proven less than perfect.
+
+The Varghese lab’s chips help address this shortcoming by allowing the
+researchers to mimic the disease conditions similar to that in the human body.
+
+“Our work tries to capture the architecture of the microenvironment of the
+organ within the device, so the cells are arranged the same way they’d be
+arranged inside the organ, and they’re subject to the same mechanical forces
+that are in the body,” says Vardhman Kumar, a PhD student in the lab who
+specializes in the technology. “You can make individual organ-on-a-chip models
+using cells from the gut, the skin, or even cells from the eye. Anything you
+can think of in the body can be engineered and assembled on a chip.”
+
+#### A Full-Body Model
+
+Previously, the Varghese lab developed models for the heart and liver, but
+they’ve since turned their attention to other systems, including
+musculoskeletal tissues. To model this system, they created a knee joint
+which, Kumar says, will allow them to examine how biomechanics and
+inflammation affect joint function and health.
+
+The team has also expanded their platform to study the lungs, creating a
+tissue model that can pulsate to mimic how the lungs expand and contract as
+humans inhale and exhale. In addition to enabling them to study various
+physiochemical cues in normal lung development, this model allows the
+researchers to recapitulate different aspects of lung diseases.
+
+“With the lung chips, for example, we’ll be able to mimic coughing and other
+behavior that’s associated with idiopathic pulmonary fibrosis, a lung disease
+that causes scarring and difficulty breathing,” says Varghese, a Duke MEDx
+investigator who also holds joint appointments in mechanical engineering and
+materials science and in orthopaedic surgery at the Duke University School of
+Medicine.
+
+A larger focus for the lab, she adds, is figuring out how to integrate these
+individual systems for a body-on-a-chip platform. “We want to use this
+platform to test for cross-talk between different organs at the same time,
+which is more realistic than studying these organs in isolation,” Varghese
+says.
+
+For example, her lab is developing “tumor on-a-chip systems” to examine the
+role of the cancer microenvironment on disease progression and diagnosis. Not
+only can the researchers test the efficacy of various drugs and
+immunotherapies on the tumor itself, they can also study how the drugs affect
+the entire body by connecting the tumor chips to the body-on-a-chip network.
+
+“We’re trying to integrate these small-scale but very robust human-specific
+models to look at how immune cells can be recruited to a tumor site and to
+understand the role of the cellular environment on cancer spread and growth,”
+says Varghese. “Our goal is to use this system to address large biological
+questions and ultimately identify new therapeutic targets.”
+
+#### Studying Cardiovascular Disease
+
+A couple of buildings down from the Varghese lab, George Truskey, the R.
+Eugene and Susie E. Goodson Professor of Biomedical Engineering at Duke, is
+using his own version of a lab-on-achip platform to study how physical forces
+affect the function of blood vessels and skeletal muscle. These sophisticated
+chips contain a central well for tissue samples, and channels that can pump
+nutrients and other materials into the tissue and create blood flow, mimicking
+its natural environment.
+
+Truskey and his lab initially developed the chips to model human blood vessels
+so they could study cellular response to various drugs. Now, the lab has
+zeroed in on how they can use these models to study the connection between
+cardiovascular and autoimmune diseases.
+
+Earlier this year, the World Health Organization reported that cardiovascular
+disease is the leading cause of death worldwide, with nearly half of all
+Americans suffering from the disorder.
+
+Typically researchers use animal models, particularly mice, to study the
+disease and perform initialtests for drugs, and humans are involved in the
+later stages of the drug approval process. However, due to the difference
+between animal and human physiology, animals don’t accurately replicate the
+disease and drug response in humans, leading to failure of the drug to be
+approved. By making vessels with human cells, the Truskey lab can more closely
+approximate the disease and drug response in the body.
+
+“When some individuals have a disease that causes inflammation, like lupus,
+rheumatoid arthritis or Crohn’s disease, they also have a higher risk of
+developing cardiovascular disease,” says Truskey. “Everyone knows that high
+levels of cholesterol can put you at risk for developing cardiovascular
+disease, but we want to explore the role of inflammation.”
+
+Toward that end, Truskey and his lab have created blood vessel models that
+mimic the early stages of atherosclerosis, a cardiovascular condition in which
+fats and other substances build up along the walls of blood vessels, making
+them thick and stiff. The team plans to combine these models with their
+skeletal muscle models of rheumatoid arthritis.
+
+“This linkage would resemble what occurs physiologically in the bloodstream,”
+says Truskey. “Our rheumatoid arthritis model would essentially serve as a
+reservoir for inflammation, and we’re curious if linking it with our blood
+vessel model would exacerbate the symptoms of cardiovascular disease. The goal
+would be to identify some novel biomarkers that may be helpful in assessing
+how inflammation influences cardiovascular disease.”
+
+#### Hope for Rare Diseases
+
+The lab has also employed tissue chips to study rare diseases, like
+Hutchinson-Gilford Progeria Syndrome. Known as progeria, the disease causes
+symptoms that resemble accelerated aging in children; patients typically die
+of heart disease or stroke, caused by weakened blood vessels, by the age of
+14. There are less than 250 known cases worldwide.
+
+“This disease is so rare and deadly that it’s challenging to run clinical
+trials with compounds that may help alleviate symptoms associated with the
+disease or provide some sort of treatment,” says Truskey. “But that’s where
+our blood vessel models prove to be very helpful.”
+
+Using induced pluripotent stem cells from patients with progeria, the team was
+able to grow engineered blood vessels that displayed many of the symptoms seen
+in people with the disease. This new model allowed them to test a variety of
+pharmaceuticals, revealing more about the efficacy of various therapies.
+
+After finding success with disease models, the Truskey lab has also started
+using their tissue chips to study the human placental barrier in collaboration
+with Liping Feng, MD, an assistant professor of obstetrics and gynecology in
+the Duke University School of Medicine.
+
+The placenta is created in the uterus during pregnancy, where it helps provide
+oxygen and nutrients to the fetus. Many of the complications that occur during
+pregnancy, such as pre-eclampsia, are linked with irregular placenta
+development. But researchers have long struggled to study these complications
+and address larger questions about pregnancy because they’ve lacked an
+effective research model for the human placenta.
+
+Using a synthetic membrane interspersed with cells from human placenta cells,
+the team was able to create a model that could mimic the blood flow through a
+placenta. Although the work is still in its early stages, Truskey and his
+collaborators hope to use their organ-on-a-chip to better understand how
+viruses, drugs and other molecules travel from the mother to the fetus.
+
+“This technology has advanced to the point where you can create many of the
+key features of tissues and organs in the lab, and that opens a lot of
+possibilities—not just to understand normal function, but to model diseases,”
+says Truskey. “In the end we hope that it will help speed up and improve the
+drug development process if you show that these can be used as efficient
+models.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

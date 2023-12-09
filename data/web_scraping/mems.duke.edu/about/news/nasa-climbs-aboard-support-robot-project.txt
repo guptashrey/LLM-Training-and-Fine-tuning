@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# NASA Climbs Aboard with Support for Robot Project
+
+June 26, 2020 | By Elizabeth Witherspoon
+
+The robot can autonomously place an IV in an astronaut’s arm for crewed space
+missions and to improve access to healthcare on Earth.
+
+Designing a robot to autonomously place an IV in an astronaut’s arm while in
+zero gravity requires smart, passionate, persistent engineers. What better
+team for the project than Duke physician-engineer Dan Buckland, who is both
+assistant professor of mechanical engineering and materials science and an
+emergency department physician, and mechanical engineering doctoral student
+Siobhan Oca?
+
+NASA is on board with the idea, recently funding their project, “Automated
+Vascular Access for Spaceflight,” through its Human Research Program with a
+one-year, $150,000 grant.
+
+> “NASA needs to both expand the medical capabilities available on a Moon or
+> Mars mission and reduce the number of trained medical personnel required to
+> achieve mission objectives.”
+
+Buckland said autonomous medical procedures can further those goals, and that
+placing an IV autonomously would be particularly helpful as that’s the first
+step of almost any medical procedure or diagnosis.  
+
+This first step of the long journey toward sending the robot aboard crewed
+Artemis missions to the Moon, and later Mars, will take place on the ground,
+however. By the end of this grant, Buckland and Oca hope to have Institutional
+Review Board approval to test the robot on human arms. Hopefully, that will
+lead to funding to test the protype during spaceflight.
+
+Robots that insert IVs into patients’ arms already exist, said Oca, but they
+all require clinician oversight. The one Buckland and Oca are designing is for
+use by someone without clinical training or even a clinician nearby. It uses a
+noninvasive ultrasound probe to locate the correct vein—importantly
+distinguishing it from an artery. Unlike other robots, though, for human
+safety it must also have parts that remove easily for sterilization in an
+onboard autoclave or are disposable. The motor, which cannot be superheated in
+an autoclave, also needs protection from contamination along with calibration
+to operate in zero gravity.
+
+“The system must be easy to clean and easy enough to use that you don’t poke
+yourself with the needle. Add to that, it must be lightweight, reliable and
+inexpensive,” said Oca. “We’re actually using a fairly low-end, inexpensive
+ultrasound—that’s the point.”
+
+This project fits into an all-encompassing dream they both have, which is to
+make medicine more accessible, especially in low-resource settings. Space,
+with its many constraints and limited onboard supplies, is a low-resource
+setting. Others here on Earth include the U.S. Indian Health Service with its
+remote locations and shortage of clinicians.
+
+Oca is no stranger to persistent pursuit of her passion amid constraints,
+including those that occur without warning. When she was 11, her family fled
+the devastation of Hurricane Katrina from their native New Orleans and
+resettled in Richmond, Va. During her freshman year at a public high school
+for academically gifted students, while on a path to become a doctor in the
+footsteps of both her parents, she inexplicably lost a significant portion of
+her vision.
+
+With a still unwavering passion to help people through medicine, she pivoted
+to undergraduate study of mechanical engineering at MIT and then earned a
+master’s degree in translational medicine from a joint program at the
+University of California–Berkeley and the University of California–San
+Francisco. From there she joined a startup company using her newly acquired
+know-how in regulation and marketing to help them commercialize a medical
+device.
+
+“I realized though that I want to be the person who helps to decide the
+design, and so I decided to go back for my PhD,” she said. That decision
+brought her to Duke’s PhD program in mechanical engineering and materials
+science in 2018.
+
+“It was such luck that I get to work with Dan, because he wasn’t on the
+faculty when I applied to Duke. I kind of fell specifically into medical
+robotics because of Dan, and I am very excited that I did,” she said.
+
+This is where her persistence comes in—like a well-developed muscle
+strengthened from daily use. She uses her cell phone to magnify documents for
+reading and her spatial memory to memorize the layout of icons and commands in
+software . She also uses many other effective workarounds that have enabled
+her to mentor undergraduate students in making designs for the ultrasound
+holder and angling mechanism of the robot using computer-aided design (CAD)
+software.
+
+“Every new software I have to use, I memorize where everything is. I know
+where everything is in Microsoft Word,” said Oca. She also plays to one of her
+strengths, which is coding and programming the human-robot interaction,
+because she can more easily enlarge it on a screen.
+
+“I’m passionate about building things to help people,” she said.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Technology Colors In the Infrared Rainbow
+
+November 9, 2015 | By Ken Kingery
+
+Perfect absorbers capture specific wavelengths from the visible to the
+infrared spectrums
+
+Researchers have devised a technology that can bring true color to infrared
+imaging systems, like the one used to track Arnold Schwarzenegger through the
+jungle in the movie “Predator.”
+
+Traditional infrared imaging systems may look colorful on screen, with warm
+objects appearing redder and whiter than their surroundings. But these images
+are not created from actual colors. They are based on the amount of thermal
+radiation—or infrared light—that the camera captures.
+
+The ability to identify different wavelengths—or colors—of the infrared
+spectrum would capture much more information about the objects being imaged,
+such as their chemical composition.
+
+In a new study, a team lead by Maiken H. Mikkelsen, the Nortel Networks
+Assistant Professor of Electrical & Computer Engineering and Physics at Duke
+University, demonstrates perfect absorbers for small bands of the
+electromagnetic spectrum from visible light through the near infrared. The
+fabrication technique is easily scalable, can be applied to any surface
+geometry and costs much less than current light absorption technologies.
+
+Once adopted, the technique would allow advanced thermal imaging systems to
+not only be produced faster and cheaper than today’s counterparts, but to have
+higher sensitivity. It could also be used in a wide variety of other
+applications, such as masking the heat signatures of objects.
+
+The study was published online Nov. 9 in Advanced Materials.
+
+“By borrowing well-known techniques from chemistry and employing them in new
+ways, we were able to obtain significantly better resolution than with a
+million-dollar state-of-the-art electron beam lithography system,” said
+Mikkelsen. “This allowed us to create a coating that can fine-tune the
+absorption spectra with a level of control that hasn’t been possible
+previously, with potential applications from light harvesting and
+photodetectors to military applications.”
+
+“This doesn’t require top-down fabrication such as expensive lithography
+techniques and we don’t make this in a clean room,” added Gleb Akselrod, a
+postdoctoral researcher in Mikkelsen’s laboratory. “We build it from the
+bottom up, so the whole thing is inherently cheap and very scalable to large
+areas.”
+
+The technology relies on a physics phenomenon called plasmonics. The
+researchers first coat a surface with a thin film of gold through a common
+process like evaporation. They then put down a few-nanometer-thin layer of
+polymer, followed by a coating of silver cubes, each one about 100 nanometers
+(billionths of a meter) in size.
+
+When light strikes the new engineered surface, a specific color gets trapped
+on the surface of the nanocubes in packets of energy called plasmons, and
+eventually dissipates into heat. By controlling the thickness of the polymer
+film and the size and number of silver nanocubes, the coating can be tuned to
+absorb different wavelengths of light from the visible spectrum to the near
+infrared.
+
+“What is so attractive about the film/nanocube system is its remarkable
+simplicity and flexibility,” said David R. Smith, the James B. Duke Professor
+of Electrical and Computer Engineering at Duke. “The unique absorbing
+properties of the nanocubes can be predicted with straightforward formulas,
+making it easy to quickly determine recipes for surface coatings that provide
+desired spectral properties. The nanocube system eliminates, or at least
+vastly reduces, cost and manufacturing issues, so that we can focus on
+impacting exciting application areas such as photovoltaics or thermal
+coatings.”
+
+For an example of the latter, if you can control the colors of light that a
+material absorbs, then you can also control the wavelengths of light that it
+emits. By making the nanocubes larger to absorb wavelengths corresponding to
+thermal radiation, this technology could suppress or mask an object’s natural
+thermal radiation, otherwise known as “black body radiation.”
+
+Coating photodetectors to absorb only specific wavelengths of infrared light
+would allow novel and cheap cameras to be made that could see different
+infrared colors.
+
+“We haven’t made the device that’s actually going to take that energy and
+convert it to an electrical signal yet,” said Akselrod. “That’s going to be
+the next step.”
+
+This work was supported by the Air Force Office of Scientific Research
+(FA9550-15-1-0301, FA9550-12-1-0491).
+
+###
+
+CITATION: “Large-Area Metasurface Perfect Absorbers from Visible to Near-
+Infrared.” Gleb M. Akselrod, Jiani Huang, Thang B. Hoang, Patrick T. Bowen,
+Logan Su, David R. Smith, Maiken H. Mikkelsen. Advanced Materials, 2015. DOI:
+10.1002/adma.201503281
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

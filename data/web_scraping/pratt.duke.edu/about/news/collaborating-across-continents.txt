@@ -1,0 +1,396 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Collaborating Across Continents
+
+November 1, 2017
+
+Duke BME professors challenge students to design Solutions with global
+communities in mind
+
+In hospitals with plenty of resources, infants in the neonatal ward are
+connected to separate oxygen tanks where the gas flow is carefully regulated,
+ensuring that they receive proper oxygen therapy for any breathing problems
+they may have.
+
+### From Duke BME Magazine
+
+Explore the Fall 2017 issue
+
+But this was not true at the ward in Mulago Hospital in Kampala, Uganda, where
+newborns with breathing problems are given oxygen by a haphazard daisy chain
+of tubes all connected to a central oxygen canister. The only way to control
+the flow of oxygen is by opening and closing the valve on the top of the tank,
+that may or may not include a flowmeter. In this arrangement, the newborn
+closest to the regulator got too much oxygen, while the child farthest away
+barely gets any.
+
+In a classroom in the back corner of Hudson Hall at Duke University, four
+biomedical engineering students flashed through an in-class presentation
+showing their plans to create a simple system to produce a controlled “split”
+of oxygen from a single line to multiple infants in the neonatal ward.
+
+A student in the class raised her hand, “How do you ensure that this will
+allow newborns to get the needed amount of oxygen?”
+
+The group flipped back to images of their project, showing a panel with
+separate plastic regulators to control each patient’s oxygen supply, each of
+which was connected in parallel to the central tank. This allowed the same gas
+pressure to be applied to each regulator of the panel from a single oxygen
+tank. The design was also easy to create and replicate, they said, and it
+wouldn’t require the hospital to order expensive parts when things broke down.
+
+“This doesn’t solve all the problems that they encounter in the ward,” said
+Meredith Lee, a BME master’s student and one of the presenters, “but it’s
+starting to address a big one.”
+
+## Engineering a New Perspective **  
+**
+
+Creating workable solutions to real-world problems is a key part of the novel
+Duke-Makerere University BME Partnership, a collaborative program between Duke
+University’s Department of Biomedical Engineering and the new BME program at
+Makerere University in Kampala, Uganda. Spearheaded by William (Monty)
+Reichert, the Theo Pilkington Professor of Biomedical Engineering, the
+partnership was created to encourage biomedical engineering students to
+approach engineering problems with cost-efficient and practical solutions that
+can be created in resource-limited settings­­.
+
+Reichert developed the program after spending the 2014-2015 academic year as a
+Fulbright Scholar at the university in Uganda. During his time at Makerere, he
+worked as a professor in their newly created BME program, teaching engineering
+classes in biomaterials, tissue engineering, drug delivery, BME design and
+even environmental engineering while also spearheading a major revision of
+their BME curriculum.
+
+At Makerere, Reichert noticed that while the engineering students in Uganda
+were just as driven to solve problems as their Duke counterparts, they were
+limited by the technology they had at their disposal. They could develop a
+theoretical knowledge of biomedical engineering, but they were hard pressed to
+gain practical experience without sophisticated tools or labs. Other issues
+persisted as well.
+
+“One of the main challenges we face—and continue to have—is a shortage of
+staff to support the training of students,” says Dr. Robert Ssekitoleko,
+acting head of Makerere’s BME Program. “That is being handled in part by the
+volunteering team that has been retained as teaching assistants, but these
+trainers cannot be officially recognized because the minimum qualification for
+recruitment at Makerere is a master’s degree.”
+
+In 2014, Reichert returned to Duke for the Christmas break and met with
+Ashutosh Chilkoti, the chair of BME at the university. Chilkoti encouraged
+Reichert to think of creative ways to build upon his stay in Uganda.
+
+“Given the connections Monty had made at Makerere University, I though this
+provided a unique opportunity for Monty and our department to do something
+meaningful in Uganda,” Chilkoti says.
+
+In response, Reichert devised a proposal to create a unique partnership
+between the schools. This collaboration would allow Duke students to work with
+their Makerere counterparts to create much-needed, practical medical tools,
+and Chilkoti enthusiastically offered his support.
+
+“Western engineering doesn’t always apply to problems that people face in
+places where resources are limited,” says Reichert. “Everyone’s experience in
+health care is drastically different depending on where you are, and as
+engineers at a research intensive BME department we have the ability to
+address that.”
+
+Reichert worked with Ssekitoleko to create the Duke-Makerere partnership in
+2014. Together, they aimed to create a program that would give Makerere
+students practical experience, and provide Duke students with a unique
+perspective on how they can efficiently design tools and technologies that are
+made with resource-limited settings in mind. They also arranged for the first
+of six Ugandan engineers, Kenneth Rubango and Henry Kiwumolo, to come to Duke
+on full scholarships to work towards master’s degrees at Duke’s BME
+department, preparing them to return to Makerere as instructors in BME.
+
+“There is no shortage of problems in resource-limited settings that need
+engineering solutions, and they don’t always need particularly sophisticated
+ones,” says Reichert. “If you’re looking to see how your work is relevant on a
+human scale, then there is great value in understanding and devising solutions
+to these challenges.”
+
+During the school year, students in Reichert’s class at Duke pair up with
+groups of students at Makerere to design tools that can be used to solve
+common problems at hospitals in Uganda. To collaborate, the students
+communicate via messaging apps and email, where they continually refine and
+discuss their designs and work to ensure that their tools are cost-effective
+and practical.
+
+But the students aren’t limited to online communication; each semester the
+teams from Duke travel to Kampala to meet with their Makerere peers face-to-
+face and conduct research in the Mulago hospital to improve their designs.
+
+“I learned how to work on a global team,” says Jawad Hoballah, a master’s
+students in BME who participated in the Spring 2017 Duke-Makerere program. “We
+worked through different time zones, gained insights into our Ugandan
+teammate’s interests and culture, and together we built a device that can have
+a meaningful impact on local communities in Uganda.”
+
+With his family spread across the globe, Hoballah has had numerous
+opportunities to see the differences in access to healthcare across the world.
+For this reason, he says that Reichert’s course was a key reason for why he
+decided to attend Duke.
+
+“If you’re going to succeed as an engineer, you need to take a different
+approach to solving problems around the world,” says Hoballah. “An issue we
+face in America is not necessarily an issue they face in Uganda, and we can’t
+just apply a bandage to the situation and say it’s fixed.”
+
+During his time in the program, Hoballah’s team helped create a project that
+addressed neonatal jaundice, a common condition that occurs when the baby’s
+liver can’t adequately remove a substance called bilirubin from the body. The
+standard treatment includes light therapy, in which the baby is placed under
+specialized blue lighting that can help break down the bilirubin molecules.
+But many hospitals in Uganda don’t have access to this treatment, or even
+incubators to house the children during the therapy.
+
+After visiting Mulago hospital, the students came up with a new design for a
+“jaundice crib.”
+
+This design used a box that was threaded with blue LED lights. To use the
+device, the baby is laid down on the bottom portion, and they are treated with
+light from both above and below. Because the LED lighting is also removable,
+when a strand breaks biomedical engineers can easily fix and replace it at low
+cost.
+
+A third project, developed with Duke-Makerere Scholar Rubango, devised a
+solution to another problem that plagues hospitals and clinics in Uganda’s hot
+climate: vaccine transport. Their design features a carrier that is similar to
+a thermal lunch box, outfitted with a temperature sensor and stacked trays for
+easy vaccine access.
+
+While the entire design is novel, the engineers took extra care when designing
+the trays, as they wanted to make it easier for healthcare workers to identify
+the vaccines without taking them out of the carrier and exposing them to warm
+air, thereby saving their contents.
+
+“This isn’t an issue that we’d have in the United States, but in Uganda
+vaccines are often transported by bicycle,” says Rubango, who was one of the
+first students to graduate from the BME program in Makerere. “So spoilage is a
+big problem, and a simple change like this can make a big difference.”
+
+## Donations Hurt
+
+For Robert Malkin, understanding the context surrounding a problem is key.
+Malkin, a professor of the practice in BME, is the founder of Engineering
+World Health (EWH), a nonprofit organization that engages students from Duke
+and around the United States to improve health care in low-income countries
+across the globe. Originally, the organization’s goal was to take
+decommissioned hospital equipment and fix it so it could be used in hospitals
+where resources where scarce.
+
+Malkin says this goal changed after a trip to Nicaragua, where he found that
+hardly any of the equipment that had been donated was being used. Instead, the
+hospital had to rent out a building to store the sea of medical equipment that
+had been donated from EWH and other organizations. According to Malkin, the
+equipment was either already broken when it was donated, or it had broken at
+the hospital where the staff didn’t have the resources to fix it.
+
+“In our efforts to help, we sent this hospital backwards,” he says.
+
+According to the Director General of the World Health Organization, only 10 to
+20 percent of donated, critical equipment is ever used, and most of it
+requires materials and parts that constantly need to be updated. On top of
+that, most of the medical devices that have been donated were designed for the
+developed world, not places where power shortages and other limitations are
+common.
+
+Essentially, he says, “If you have donated medical equipment to a developing
+world hospital, you have probably hurt the people you were intending to help.
+It’s like donating your car to a community without gas.”
+
+Malkin shifted his goal when he came to this realization. Now, students who
+participate in the program are challenged to create low-cost, sustainable
+solutions to circumvent the issues that arise in hospitals where resources are
+scarce.
+
+One of Malkin’s favorite success stories involves engineers who recognized
+that hospital workers had a hard time accessing replacement lightbulbs for the
+specialized surgical lights in operating rooms. Instead, workers were using
+regular lightbulbs, which would quickly overheat and even catch fire.
+
+Instead, students devised a method to rewire the surgical lights so the bulbs
+from the backup lights in a truck could be used as an alternative. Their
+approach not only increased the longevity of the surgical lights, but it made
+replacement bulbs immediately accessible and affordable.
+
+## Devising Lasting Solutions **  
+**
+
+Malkin uses his design course—Design for the Developing World—to challenge
+students to think outside the box for their designs, while still being
+realistic about cost and utility. Although the course is independent of the
+activities of EWH, the projects that students work on are based on previous
+research from students who visited hospitals through the EWH program.
+
+Students in this course will typically create five to 10 new products a year,
+which are then used in hospitals in resource-limited settings. One of the more
+enduring projects created through Design for the Developing World is the Pratt
+Pouch, a ketchup-packet-like item that contains antiretroviral medications to
+prevent mother-to-child transmission of HIV during childbirth.
+
+“The problems that you solve through EWH and through Design for the Developing
+World extend beyond technical limitations,” says Meggie Lund, a recent BME
+graduate who took Malkin’s design course after conducting work with EWH in the
+summer of 2015. “Working as a technician in a Nicaraguan hospital offered a
+firsthand glimpse into equipment needs and common failure points of existing
+technology, which we translated into more effective, sustainable solutions in
+Dr. Malkin’s design class.”
+
+In Design for the Developing World, Lund was on a team that developed parts of
+a device to diagnose pneumonia. In the United States, doctors diagnose
+pneumonia via an X-ray, but X-ray machines aren’t always available in
+hospitals around the globe. Instead, Lund and her team worked on an
+alternative — a specialized belt that loops around a person’s chest and
+utilizes impedance plethysmography to diagnose pneumonia, even going so far as
+to distinguish between bacterial and viral strains.
+
+Given the impedance disparity between fluid and air in the lungs, a series of
+resistance measurements across the chest could be plugged into an algorithm to
+“reconstruct” an image of the lungs and make a diagnosis. The project has
+continued with different teams across multiple semesters, Lund and her team
+are optimistic about the tool becoming a viable alternative for doctors.
+
+“We try to make sure that we’re designing equipment so that the spare parts
+are locally available,” says Malkin. “But we can also benefit the local
+economy if we can develop these products to be locally manufactured.”
+
+Engineering World Health has grown to be an established presence at Duke since
+Malkin created the program in 2001, and the lessons it imparts to its students
+are similar to those gained from the new Duke-Makerere partnership.
+
+And these programs continue to grow.
+
+Since its inception, EWH has expanded to include more than 40 chapters at
+universities across the US, and it supports training programs in various
+countries in Asia, Africa and Latin America. As the Duke-Makerere BME
+Partnership enters the second year of the five-year agreement, Reichert is
+looking at ways to continue to expand the reach of the program. One idea he’s
+mulling over involves working with students to commercialize their products
+once the course is over so their work can be also be used outside Uganda.
+
+As global-health education expands in Duke BME, Reichert and Malkin are
+hopeful that the students who participate are broadening not only their
+technical, cultural, problem-solving and entrepreneurial skills, but also
+their understanding about how they can use engineering to help others around
+the globe.
+
+“If you really want to help the developing world, you need to be in the
+developing world,” says Malkin. “These programs give students an opportunity
+to do just that.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

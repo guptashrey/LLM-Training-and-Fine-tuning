@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# How to Judge an AI Art Competition
+
+March 21, 2019 | by Miranda Volborth
+
+It’s another case where an interdisciplinary approach works best
+
+Some of the 24 entries in Duke University’s first +DataScience AI for Art
+Competition bore the indelible painterly fingerprints of the masters: Picasso,
+Cezanne.
+
+Some were strange to the point of eliciting unease alongside excitement. In
+one, a whale floated through a sea of irises; Van Gogh could have dreamed it.
+There were renderings of animals, which appeared realistic from afar, only to
+remain unresolved as one approached—their features smeared and squashed
+together like bread dough.
+
+“Some of the images are quite comfortable, an impression made explicit by
+having things that are creepy in the same piece, or a piece right beside it,”
+said Scott Lindroth, vice provost for the arts for Duke and one of the event’s
+judges. “In a sense it shows the scope of possibilities the entrants were able
+to explore. I found that really gorgeous.”
+
+> How to actually judge that incredibly varied field of entries, and pull a
+> winner from the spectrum?
+
+But how to actually judge that incredibly varied field of entries, and pull a
+winner from the spectrum?
+
+“We were really looking for pieces that were very pleasing and also
+technically competent, which is certainly a tough feat to pull off in this
+space,” said Matthew Kenney, another judge. Kenney is an IT analyst at Duke
+who also teaches courses in interactive graphics for the university, and makes
+his own art using AI. He works with generative adversarial networks, or GANs,
+the kind of algorithm used to create works like those entered in the
+competition, and other AI applications like natural language processing, image
+recognition and deep learning. In other words, he was uniquely qualified to
+evaluate what was under the hood of each entry.
+
+Creating AI art is challenging on many levels, said Kenney. Artists must fight
+“mode collapse,” the algorithm’s tendency to spit out the same image every
+time it processes a set of data.
+
+Another challenge is the low level of certainty that the creator can expect
+from the end results. “Artistically, you maybe don’t have a strong sense of
+what is going to come out until you’ve trained the network,” said Kenney. “You
+can have a measure of certainty from the images you’re training it on, but at
+the end of the day you really don’t know how it will look until after the
+fact, which is certainly challenging but also exciting.” He said that with his
+own work, he might iterate eight or nine times before arriving at his desired
+results.
+
+In judging Duke’s AI for Art Competition, Kenney said, each panelist entered
+into deliberations with a piece they had initially gravitated toward. After a
+series of discussions led by the judges with expertise in the arts, though, a
+consensus on the three strongest works emerged. It was only at that point that
+two electrical and computer engineering faculty members—Robert Calderbank,
+director of the Rhodes information initiative at Duke (iiD), and Lawrence
+Carin, vice provost for research and director of +DS—performed what Calderbank
+called “due diligence” to check the creators’ code.
+
+“We don’t, as a university, choose to invest in computer science because it’s
+the most important subject,” said Calderbank, who is a professor of computer
+science and mathematics as well as engineering. “By investing in computer
+science and a computing way of thinking, we actually make all of the
+disciplines a little more successful.”
+
+> “By investing in computer science and a computing way of thinking, we
+> actually make all of the disciplines a little more successful.”
+>
+> Robert Calderbank, Director, Rhodes information initiative at Duke
+
+He pointed to iiD’s Data+ program as an example of how advanced computing
+tools and methods provide support to other fields. “Every summer in Data+ we
+have projects where students in the humanities and students in the hard
+sciences discover each other,” said Calderbank. “Humanities students discover
+tools that can take their intuition further, and scientists discover
+interesting new modes of questioning they’ve never considered before. There’s
+a kind of magic to that.”
+
+Zach Monge, a PhD student of psychology and neuroscience, claimed the $5000
+prize for first place at the competition’s reception at the Rubinstein Arts
+Center on Wednesday evening, and there was certainly magic in his work. His
+entry, titled “Abstract Forests,” was somehow evocative of both smoke and
+water, and ablaze with the colors of autumn. He produced the images using
+cycle GANs that transformed selected photographs of forests into abstract
+paintings, and back again.
+
+“It’s creating a reconstruction,” said Monge. “This is a really big
+opportunity for people who are interested in art and are willing to learn the
+code. We’ll see what happens in the next few years.”
+
+Read More about the Competition
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Drug Delivery Modification Sidesteps Allergic Responses
+
+November 30, 2016 | By Ken Kingery
+
+Redesigned drug-delivery polymer may extend drug life 16-fold
+
+Biomedical engineers at Duke University have reconfigured a popular drug-
+delivery technology to evade immune responses that have halted some clinical
+trials.
+
+Polyethylene glycol, commonly known as PEG, is a polymer commonly found in
+commercial products from toothpaste to cosmetics, and also in pharmaceuticals.
+PEG is used as a thickener, solvent, softener and moisture-carrier, but it can
+also be attached to active drugs in the bloodstream to slow the body’s
+clearing of them, greatly lengthening the duration of their effects.
+
+The pervasiveness of PEG in daily human life, however, is causing many people
+to develop antibodies to the polymer. This has led some PEG-modified or
+“PEGylated” drugs to lose their longevity and has caused allergic reactions,
+some of which have been life-threatening.
+
+In a new paper, Duke researchers reveal an altered version of PEG that seems
+to avoid recognition by PEG antibodies already present in individuals. The new
+technology also shows excellent efficacy, controlling glucose levels in
+diabetic mice for up to 4 days when used with a drug that, without PEG, treats
+type 2 diabetes for just six hours.
+
+The results appeared online on November 28, 2016, in the new journal Nature
+Biomedical Engineering.
+
+“This work has been an interesting journey with the unexpected twists and
+turns that makes research so rewarding,” said Ashutosh Chilkoti, the Alan L.
+Kaganov Professor of Biomedical Engineering and chair of the biomedical
+engineering department.
+
+“We started down a path to make PEG-like conjugates of protein drugs more
+efficiently and stumbled into the PEG antigenicity problem,” Chilkoti said.
+“We were lucky to find an expert close at hand in the School of Medicine at
+Duke. This work was only possible because of the incredible interdisciplinary
+research culture at Duke that recognizes no boundaries.”
+
+The new PEG delivery system was initially developed by Chilkoti and graduate
+student Yizhi (Stacey) Qi to boost production efficiency. Conventional PEG
+drug-delivery polymers require labor-intensive synthesis and purification, but
+the new polymers are grown directly from a defined site on a drug molecule.
+The new polymer looks a lot like a bottle cleaning brush, with many short
+segments of ethylene glycol sticking out from a primary backbone.
+
+“Growing the polymer directly on the drug is simpler and more efficient in
+terms of yield than the conventional process,” said Qi, who successfully
+defended her thesis in August. “The boost in efficiency varies from protein to
+protein, but our yield is significantly higher and produces more uniform
+results.”
+
+Meanwhile, just a few hundred yards away, a different challenge was being
+faced by Bruce Sullenger, the Joseph W. and Dorothy W. Beard Professor of
+Experimental Surgery and director of the Duke Translational Research
+Institute. During a late-stage clinical trial for an anticoagulant that used
+PEG to extend its effectiveness, 10 patients had an immediate, anaphylactic
+immune reaction because of pre-existing PEG antibodies.
+
+The clinical trials were immediately shut down.
+
+“These allergic reactions stopped the development of an otherwise very
+promising approach to control blood clotting while limiting bleeding,” said
+Sullenger. “Because people with pre-existing PEG antibodies are now present in
+the population and such antibodies can elicit life-threatening allergic
+reactions, it has become critical for drug development to create alternative
+formulations of PEG.”
+
+Chilkoti heard about this problem and thought that his lab’s new bottle-brush
+PEG polymer might be a solution. Because each of the molecular chain
+“bristles” are so short, existing PEG antibodies might not be able to
+recognize them.
+
+To find out, Chilkoti and Qi turned to Michael Hershfield, professor of
+medicine and biochemistry at the Duke University School of Medicine.
+Hershfield has been involved with PEG technology ever since the clinical
+trials and FDA approval for the very first PEGylated drug in 1990. An immune
+response to this drug has never been an issue, because its intended recipients
+are children with deficient immune systems.
+
+A second drug he helped develop in the early 2000s to treat gout, however, has
+encountered obstacles. About 40 percent of patients develop antibodies to the
+PEG portion of the drug after the first few doses, leading to allergic
+reactions and a loss of effectiveness.
+
+“Nancy Ganson, a scientist in my lab, and I got involved with Professor
+Chilkoti’s project because we had discovered that anti-PEG antibodies were
+induced by our PEGylated gout drug during clinical trials” said Hershfield.
+“We later identified high levels of pre-existing anti-PEG antibodies in the
+first three patients who had allergic reactions to Dr. Sullenger’s PEGylated
+anticoagulant. Professor Chilkoti’s initial substitute for PEG still had a
+little bit of PEG on it, so we needed to see if anti-PEG antibodies could
+recognize it.”
+
+On their second try at designing a suitable PEG substitute, the team hit pay
+dirt. The antibodies left the new compound alone.
+
+Qi then attached her new polymer to a drug used to treat type 2 diabetes and
+injected it into diabetic mice to see if the system still worked as well. To
+her delight, there was almost no loss of efficacy, extending the effects of
+one drug 16-fold.
+
+With this success in hand, the team next plans to test for immunological
+responses in living animals with preexisting PEG antibodies. They also need to
+determine whether antibodies will be created against the new polymers.
+
+This work was supported by the National Institutes of Health (R01-DK092665).
+
+CITATION: “A brush-polymer/exendin-4 conjugate reduces blood glucose levels
+for up to five days and eliminates poly(ethylene glycol) antigenicity.” Yizhi
+Qi, Antonina Simakova, Nancy J. Ganson, Xinghai Li, Kelli M. Luginbuhl, Imran
+Ozer, Wenge Liu, Michael S. Hershfield, Krzysztof Matyjaszewski, Ashutosh
+Chilkoti. Nature Biomedical Engineering. Nov. 28, 2016. DOI:
+10.1038/s41551-016-0002 https://www.nature.com/articles/s41551-016-0002
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

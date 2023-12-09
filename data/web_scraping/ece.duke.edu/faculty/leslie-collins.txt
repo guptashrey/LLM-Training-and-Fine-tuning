@@ -1,0 +1,289 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Leslie M. Collins
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor of Electrical and Computer Engineering
+
+Leslie M. Collins earned the BSEE degree from the University of Kentucky, and
+the MSEE, and PhD degrees from the University of Michigan, Ann Arbor. From
+1986 through 1990 she was a Senior Engineer at Westinghouse Research and
+Development Center in Pittsburgh, PA. She joined Duke in 1995 as an Assistant
+Professor and was promoted to Associate Professor in 2002 and to Professor in
+2007. Her research interests include physics-based statistical signal
+processing, subsurface sensing, auditory prostheses and pattern recognition.
+She is a member of the Tau Beta Pi, Sigma Xi, and Eta Kappa Nu honor
+societies. Dr. Collins has been a member of the team formed to transition
+MURI-developed algorithms and hardware to the Army HSTAMIDS and GSTAMIDS
+landmine detection systems. She has been the principal investigator on
+research projects from ARO, NVESD, SERDP, ESTCP, NSF, and NIH. Dr. Collins was
+the PI on the DoD UXO Cleanup Project of the Year in 2000. As of 2015, Dr.
+Collins has graduated 15 PhD students.
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+  * Professor in the Department of Head and Neck Surgery & Communication
+    Sciences
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** 3461 CIEMAS, Durham, NC 27708
+  * **Office Phone:** (919) 660-5260
+  * **Email Address:** lcollins@ee.duke.edu
+  * **Websites:**
+    * Duke Applied Machine Learning Lab
+
+## Education
+
+  * B.S.E. University of Kentucky, 1985
+  * M.Sc.Eng. University of Michigan, Ann Arbor, 1986
+  * Ph.D. University of Michigan, Ann Arbor, 1995
+
+## Research Interests
+
+Physics-based machine learning algorithms for big data, including developing
+remediation strategies for the hearing impaired and sensor-based algorithms
+for the detection of hazardous buried objects
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * ECE 280L9: Signals and Systems - Lab
+  * ECE 280L: Introduction to Signals and Systems
+  * ECE 292: Projects in Electrical and Computer Engineering
+  * ECE 392: Projects in Electrical and Computer Engineering
+  * ECE 493: Projects in Electrical and Computer Engineering
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 590: Advanced Topics in Electrical and Computer Engineering
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * EGR 393: Research Projects in Engineering
+
+## In the News
+
+  * Listening to Broken Hearts, Saving Lives (Sep 21, 2018 | Pratt School of
+    Engineering)
+  * Smart Meters: Duke Engineers Seek Energy Insights by Reading a Building's
+    Electrical Signatures (Oct 4, 2016)
+  * Pratt Researchers Are Using Deep Learning to Distinguish Solar Panels from
+    Swimming Pools (Aug 31, 2016)
+
+## Representative Publications
+
+  * Luzi, F., A. Gupta, L. Collins, K. Bradbury, and J. Malof. “Transformers
+    For Recognition In Overhead Imagery: A Reality Check.” In Proceedings 2023
+    Ieee Winter Conference on Applications of Computer Vision, Wacv 2023,
+    3767–76, 2023. https://doi.org/10.1109/WACV56688.2023.00377.
+  * Shahidi, Lidea K., Leslie M. Collins, and Boyla O. Mainsah. “Parameter
+    tuning of time-frequency masking algorithms for reverberant artifact
+    removal within the cochlear implant stimulus.” Cochlear Implants
+    International 23, no. 6 (November 2022): 309–16.
+    https://doi.org/10.1080/14670100.2022.2096182.
+  * Chen, Xinlin J., Leslie M. Collins, and Boyla O. Mainsah. “Language Model-
+    Guided Classifier Adaptation for Brain-Computer Interfaces for
+    Communication.” In Conference Proceedings. Ieee International Conference
+    on Systems, Man, and Cybernetics, 2022:1642–47, 2022.
+    https://doi.org/10.1109/smc53654.2022.9945561.
+  * Huang, B., J. Yang, A. Streltsov, K. Bradbury, L. M. Collins, and J. M.
+    Malof. “GridTracer: Automatic Mapping of Power Grids Using Deep Learning
+    and Overhead Imagery.” Ieee Journal of Selected Topics in Applied Earth
+    Observations and Remote Sensing 15 (January 1, 2022): 4956–70.
+    https://doi.org/10.1109/JSTARS.2021.3124519.
+  * Chen, Xinlin J., Leslie M. Collins, and Boyla O. Mainsah. “Mitigating the
+    Impact of Psychophysical Effects During Adaptive Stimulus Selection in the
+    P300 Speller Brain-Computer Interface.” In Annual International Conference
+    of the Ieee Engineering in Medicine and Biology Society. Ieee Engineering
+    in Medicine and Biology Society. Annual International Conference,
+    2021:5796–99, 2021. https://doi.org/10.1109/embc46164.2021.9630048.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

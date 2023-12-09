@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Predicting Forces between Oddly Shaped Nanoparticles
+
+November 19, 2020 | By Ken Kingery
+
+Simplified model of van der Waals forces will allow previously impossible
+simulations of how faceted nanoparticles self-assemble into larger structures
+
+Materials scientists at Duke University have devised a simplified method for
+calculating the attractive forces that cause nanoparticles to self-assemble
+into larger structures.
+
+With this new model, accompanied by a graphical user interface that
+demonstrates its power, researchers will be able to make previously impossible
+predictions about how nanoparticles with a wide variety of shapes will
+interact with one another. The new method offers opportunities for rationally
+designing such particles for a wide range of applications from harnessing
+solar energy to driving catalytic reactions.
+
+The results appear online on November 12 in the journal _Nanoscale Horizons_.
+
+“Faceted nanoparticles can lead to novel assembly behaviors, which haven’t
+been explored in the past,” said Brian Hyun-jong Lee, a mechanical engineering
+and materials science graduate student at Duke and first author of the paper.
+“Cubes, prisms, rods and so on all exhibit distinct distance- and orientation-
+dependent interparticle interactions that can be utilized to create unique
+particle assemblies that one cannot obtain through self-assembly of spherical
+particles.”
+
+“Every time I go through the latest set of published papers in nanotechnology,
+I see some new application of these types of nanoparticles,” added Gaurav
+Arya, associate professor of mechanical engineering and materials science at
+Duke. “But accurately calculating the forces that pull these particles
+together at very close range is extremely computationally expensive. We have
+now demonstrated an approach that speeds those calculations up by millions of
+times while only losing a small amount of accuracy.”
+
+The forces at work between nanoparticles are called van der Waals forces.
+These forces arise because of small, temporary shifts in the density of
+electrons orbiting atoms according to the complex laws of quantum physics.
+While these forces are weaker than other intermolecular interactions such as
+coulombic forces and hydrogen bonds, they are ubiquitous and act between each
+and every atom, often dominating the net interaction between particles.
+
+To properly account for such forces between particles, one must calculate the
+van der Waals force that every atom in the particle exerts on every atom in a
+nearby particle. Even if both of the particles in question were miniscule
+cubes of sizes smaller than 10 nanometers , the number of calculations summing
+all such interatomic interactions would be in the tens of millions.
+
+It’s easy to see why trying to do this over and over for thousands of
+particles located at different positions and in different orientations in a
+multiparticle simulation quickly becomes impossible.
+
+“Lots of work has been done to formulate a summation that gets close to an
+analytical solution,” said Arya. “Some approaches treat particles as made up
+of infinitesimally small cubes stuck together. Others try to fill space with
+infinitesimally thin circular rings. While these volume-discretization
+strategies have allowed researchers to obtain analytical solutions for
+interactions between simple particle geometries like parallel flat surfaces or
+spherical particles, such strategies cannot be used to simplify the
+interactions between faceted particles due to their more complex geometries.”
+
+To skirt around this issue, Lee and Arya took a different approach by making
+several simplifications. The first step involves representing the particle as
+being made up not of cubic elements, but of rod-shaped elements of various
+lengths stacked together. The model then assumes that rods whose projections
+fall outside the projected boundary of the other particle contribute
+negligibly to the overall interaction energy.
+
+The energies contributed by the remaining rods are further assumed to equal
+the energies of rods of uniform lengths located the same normal distance as
+the actual rods, but with zero lateral offset. The final trick is to
+approximate the distance-dependence of the rod-particle energy using power-law
+functions that have closed-form solutions when distances vary linearly with
+the lateral position of the actual rods, as is case with the flat interacting
+surfaces of faceted particles.
+
+After all of these simplifications are made, analytical solutions for the
+interparticle energies can be obtained, allowing a computer to breeze through
+them. And while it may sound like they would introduce a large amount of
+error, the researchers found that the results were only 8% off on average from
+the actual answer for all particle configurations, and only 25% different at
+their worst.
+
+While the researchers primarily worked with cubes, they also showed that the
+approach works with triangular prisms, square rods and square pyramids.
+Depending on the shape and material of the nanoparticles, the modeling
+approach could impact a wide range of fields. For example, silver or gold
+nanocubes with edges close to one another can harness and focus light into
+tiny “hotspots,” creating an opportunity for better sensors or catalyzing
+chemical reactions.
+
+“This is the first time that anyone has proposed an analytical model for van
+der Waals interactions between faceted particles,” said Arya. “Even though we
+are yet to apply it for computing interparticle forces or energies within
+molecular dynamics or Monte Carlo simulations of particle assembly, we expect
+the model to speed up such simulations by as much as ten orders of magnitude.”
+
+This research was supported by the National Science Foundation (CMMI award
+1636356, ACI-1053575).
+
+CITATION: “Analytical van der Waals Interaction Potential for Faceted
+Nanoparticles.” Brian Hyun-jong Lee, Gaurav Arya. Nanoscale Horizons, 2020.
+DOI: 10.1039/d0nh00526f
+
+## Related News
+
+March 26, 2019
+
+### Layered Liquids Arrange Nanoparticles into Useful Configurations
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

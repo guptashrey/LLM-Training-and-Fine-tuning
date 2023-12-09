@@ -1,0 +1,263 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Patrick D. Wolf
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor of Biomedical Engineering
+
+My research is primarily in the area of advanced instrumentation for diagnosis
+and treatment of electrophysiological problems. This research covers two
+primary organ systems: the heart and the brain.
+
+One thrust of the cardiac-based work is centered on atrial fibrillation and in
+particular on very low energy atrial defibrillation strategies. The goal is to
+produce a device that can defibrillate the atria with a painless series of
+electrical impulses. A second area of interest is the study of the biophysics
+of radio frequency ablation of the heart. A third avenue of research in the
+cardiac area is the development of new instruments and techniques for tracking
+interventional devices within the body without the use of ionizing radiation.
+These devices primarily rely on ultrasound technology. There is a strong
+collaborative effort in this area with the Duke Ultrasound group in the
+Department of Biomedical Engineering. The long term goal of this work is to
+develop technology to deliver image-guided therapy to target tissues in the
+heart and other organs.
+
+In neuroengineering, we are currently developing a "brainchip" that would
+telemeter information recorded directly from neurons in the brain to a remote
+device. This IC based technology is being developed for application in neuro-
+prosthetic or brain controlled devices. There is a close collaboration on this
+project between our lab and the laboratory of Dr. Miguel Nicolelis the
+Department of Neurobiology. We are also developing advanced neural recoding
+systems to use on unrestrained, untethered animals as they learn to perform
+certain tasks.
+
+## Appointments and Affiliations
+
+  * Associate Professor of Biomedical Engineering
+
+## Contact Information
+
+  * **Office Location:** Rm. 276, Hudson Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5114
+  * **Email Address:** patrick.wolf@duke.edu
+  * **Websites:**
+    * Wolf Lab Website
+
+## Education
+
+  * Ph.D. Duke University, 1992
+
+## Research Interests
+
+Advanced instrumentation for diagnosis and treatment of electrophysiological
+problems. This research covers two primary organ systems: the heart and the
+brain. In the heart, Dr. Wolf is developing an image guided ablation system
+for treatment of arrhythmias. In the brain, he is developing a fully
+implantable Brain-Machine interface.
+
+## Courses Taught
+
+  * BME 354L: Introduction to Medical Instrumentation
+  * BME 464L: Medical Instrument Design (DR)
+  * BME 506: Measurement and Control of Cardiac Electrical Events (GE, EL, IM)
+
+## Representative Publications
+
+  * Kim, Young-Joong, and Patrick D. Wolf. “3-D Ultrasound Imaging Using
+    Helicoid Array Transducers.” Ieee Transactions on Ultrasonics,
+    Ferroelectrics, and Frequency Control 68, no. 3 (March 2021): 697–706.
+    https://doi.org/10.1109/tuffc.2020.3022616.
+  * Vejdani-Jahromi, Maryam, Jenna Freedman, Gregg E. Trahey, and Patrick D.
+    Wolf. “Measuring Intraventricular Pressure Using Ultrasound Elastography.”
+    Journal of Ultrasound in Medicine : Official Journal of the American
+    Institute of Ultrasound in Medicine 38, no. 5 (May 2019): 1167–77.
+    https://doi.org/10.1002/jum.14795.
+  * Vejdani-Jahromi, Maryam, Jenna Freedman, Young-Joong Kim, Gregg E. Trahey,
+    and Patrick D. Wolf. “Assessment of Diastolic Function Using Ultrasound
+    Elastography.” Ultrasound in Medicine & Biology 44, no. 3 (March 2018):
+    551–61. https://doi.org/10.1016/j.ultrasmedbio.2017.11.011.
+  * Hollender, Peter, Lily Kuo, Virginia Chen, Stephanie Eyerly, Patrick Wolf,
+    and Gregg Trahey. “Scanned 3-D Intracardiac ARFI and SWEI for Imaging
+    Radio-Frequency Ablation Lesions.” Ieee Transactions on Ultrasonics,
+    Ferroelectrics, and Frequency Control 64, no. 7 (July 2017): 1034–44.
+    https://doi.org/10.1109/tuffc.2017.2692558.
+  * Vejdani-Jahromi, Maryam, Jenna Freedman, Matthew Nagle, Young-Joong Kim,
+    Gregg E. Trahey, and Patrick D. Wolf. “Quantifying Myocardial
+    Contractility Changes Using Ultrasound-Based Shear Wave Elastography.”
+    Journal of the American Society of Echocardiography : Official Publication
+    of the American Society of Echocardiography 30, no. 1 (January 2017):
+    90–96. https://doi.org/10.1016/j.echo.2016.10.004.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

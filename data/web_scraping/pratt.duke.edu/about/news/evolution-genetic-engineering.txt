@@ -1,0 +1,246 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Evolution of Genetic Engineering
+
+November 1, 2019
+
+A Q&A with Charles Gersbach
+
+Charles Gersbach, the Rooney Family Associate Professor of Biomedical
+Engineering at Duke University, leads a lab that is centered on developing and
+applying genome engineering tools––most notably CRISPR-based technology.
+CRISPR-Cas is a bacterial defense system that allows bacteria to use RNA
+molecules and CRISPR-associated (Cas) proteins to target and destroy the DNA
+of invading viruses. The discovery of this technique sparked a genome editing
+revolution as researchers explored how the tool could be used to specifically
+target and edit DNA in human cells. In the years since its discovery, Gersbach
+and his lab have used this technology to study genetic diseases like Duchenne
+muscular dystrophy, precisely control gene expression and even develop tools
+that can make CRISPR more accurate.
+
+###### How did genetic engineering come to be your area of research?
+
+I knew that I wanted to go down an academic career path where I could help
+advance regenerative medicine and gene and cell therapies. I wanted to work on
+something that could affect a lot of different areas within bioengineering,
+and I realized that gene expression was a central component of a variety of
+research.
+
+There were different wings in the building where I worked in graduate school,
+each focused on regenerative medicine as it related to a particular organ
+system. In different parts of the building, you could look at posters for
+cardiovascular research or musculoskeletal research, or stuff pertaining to
+diabetes or neurological work. All of these topics essentially involved trying
+to get cells to do something interesting. As a very simplified example, if we
+want cells to behave like cartilage cells, we essentially bang on them using
+mechanical force and hope that they turn on the cartilage genes, and if we
+want cells to behave like neurons we electrically shock them and hope that
+kicks the neuronal genes into gear. In all these cases you’re applying
+external stimuli and hoping that internally the right genes get expressed. If
+the goal across all of these areas is to get the right genes on and off, I was
+curious if there was a better or more direct technology to go in and program
+gene expression.
+
+###### CRISPR is a relatively new technology. How did that end up being the
+focus of your lab’s work at Duke?
+
+The first paper that described using CRISPR in human cells was published in
+2013, so we were working with technologies that preceeded it. The first was
+engineered zinc finger proteins, which could be used to modify a specific
+region of the genome. At the time people were using zinc fingers to make
+transcription factors that that could turn genes on and off and regulate gene
+expression, but the technology was really difficult to work with so it hadn’t
+really taken off, and there were only a few labs in the world that were
+working with it. I thought that if I trained with one of them then the world
+would be my oyster, so I trained in San Diego for three years and used that
+expertise as my pitch to start a lab at Duke in 2009.
+
+Two years after I started at Duke a new technology came out, called TALENs,
+which was another tool that could make proteins to target specific sequences
+in the genome. It was a lot easier to use than zinc fingers, but before it had
+a chance to take off, CRISPR came along.
+
+CRISPR is super easy to use, so my old dream that I was going to be one of the
+only people in the world that knew how to do this stuff went out the door. At
+the time I was thinking, “Great, I’m totally obsolete only four years into my
+academic career”. Except we’d built up a lot of expertise and model systems
+for using these tools, and I was lucky to have some really brilliant and hard-
+working students and fellows in the lab, so we were able to quickly grab the
+CRISPR reagents and use them for our own work. On January 3rd, 2013, the first
+two papers using CRISPR in human cells were published online in Science, and
+three weeks later we had already obtained the plasmids and done CRISPR-based
+experiments in our own lab that worked. Our first CRISPR paper came six months
+later.
+
+###### Why did you choose to focus on using CRISPR to study Duchenne muscular
+dystrophy?
+
+The first project my lab started in 2009 was gene editing for Duchenne
+muscular dystrophy using the zinc finger technology. DMD is the most common
+inherited genetic disease, but in 2009 there really weren’t any therapies or
+options available for to help people with the disease, which causes
+progressive degeneration of their muscles. I was also a brand new assistant
+professor, so I wanted to do something that was two steps ahead of what
+everyone else was looking at, but it had to be a tangible enough goal so that
+we could make clear progress, and gene editing for muscular dystrophy was in
+line with those criteria.
+
+Previously, people had looked at ways to modify stem cells and put them back
+into muscle, but replacing all the muscle cells in the body isn’t really
+feasible. The also had modified viruses to deliver genes to muscle, but the
+gene that is mutated in this case is also one of the largest genes in the
+human genome, so it doesn’t fit into typical gene therapy vectors. Instead,
+the idea of fixing the copy of the gene that is already in the genome, rather
+than trying to deliver it, seemed like an attractive opportunity. So we worked
+on that approach, and actually used zinc fingers and TALENs until CRISPR-based
+gene editing was discovered and we saw how easy it was to use.
+
+Our work with Duchenne muscular dystrophy is ongoing. Most recently we
+published a paper in Nature Medicine that showed that a single systemic
+treatment could correct the DMD mutation for more than a year in mice.
+
+###### What are the things that you can’t do today with CRISPR that you want
+to be able to do?
+
+I think it would be useful to do gene editing without cutting the genome. The
+solution to that problem may involve a new version of CRISPR, or it may
+involve something entirely different. But we’re learning more about these
+systems every day—ten years ago it took two years to do a project involving
+gene editing, and now you can do it in a week or two. There are lots of
+flavors of CRISPR, where Cas9 is the most commonly used protein, but
+researchers have discovered dozens of other types of Cas9s and even other
+CRISPR proteins and complexes, including Cas12, Cas13, Cas14, Cas3 and even
+Cascade, and each of these systems lends itself to a unique use.
+
+###### Looking ahead with CRISPR, what are you most excited about?
+
+The very first clinical trials for CRISPR in humans have started this year.
+We’re seeing the first trials for cancer, for sickle cell disease, and for
+rare, inherited forms of blindness. And we’ll have the results from those
+trials in the next year or two, so that’s super exciting and definitely near
+the top of the list.
+
+I also think we’re at a place now where CRISPR has been fully integrated into
+the drug development process. Not just CRISPR as a therapy, but CRISPR to make
+model systems and cell lines to help design better drugs. I think CRISPR will
+dramatically impact medicine in a way that is above and beyond using CRISPR
+directly as a therapy. In fact, we started a company, Element Genomics, to do
+this by facilitating drug development with these tools, not to necessarily use
+CRISPR as the therapy. That’s subtle, so people don’t necessarily appreciate
+that things like CRISPR are working in the background to make biological
+research more advanced to help come up with new drugs.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

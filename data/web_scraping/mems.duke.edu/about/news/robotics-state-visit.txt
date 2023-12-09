@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Robotics Points to North Carolina’s Future in Autonomous Technologies
+
+October 14, 2019
+
+Officials from North Carolina state agencies visit Duke Robotics to learn
+potential opportunities and pitfalls of autonomous technologies
+
+With companies pouring billions of dollars into automated and driverless
+vehicle technologies, a myriad of products and services are poised to enter
+our daily lives—but the rapid development of unproven technologies is causing
+government entities from the Federal to local level to scramble to make sure
+they are safe and appropriately regulated.
+
+Several Duke University engineers with expertise in the field recently
+welcomed a host of officials from North Carolina state agencies to help keep
+them apprised of the technologies and potential pitfalls on the horizon. Among
+the delegation visiting the Duke Robotics research high bay space October 3
+were Department of Public Safety (DPS) Secretary Erik Hooks and other DPS
+representatives from the Secretary’s Office, NC Emergency Management, Adult
+Correction and Juvenile Justice, State Highway Patrol and State Bureau of
+Investigation; as well as representatives from the Governor’s Office and NC
+Department of Transportation.
+
+"Our collaboration with North Carolina's outstanding universities to identify
+cutting-edge technology is invaluable to our public safety mission," said
+Secretary Hooks. "It was very inspiring to see what our young people are doing
+to take us into the future. We appreciate the partnerships as we work together
+towards making our roads, our prison facilities, event venues and ultimately
+our communities safer."
+
+The tour was led by Mary “Missy” Cummings, professor of electrical and
+computer engineering and director of the Humans and Autonomy Lab at Duke.
+Considered one of the nation’s leading experts on autonomous vehicle and drone
+technology, Cummings also works diligently to ensure her expertise has an
+impact on North Carolina’s roads and skies.
+
+“My laboratory is working on smartphone and tablet apps for drone interfaces
+that allow just about anyone with any level of experience to safely navigate a
+complicated environment,” Cummings told the group. “But it’s not commercially
+available because it requires extensive development and testing before it can
+be used in public. And North Carolina should be asking for similar standards
+from any vendors wanting to operate drones in public spaces.”
+
+Members of the group took turns using a tablet to navigate a drone through a
+series of obstacles set up in the laboratory. Cummings calls it their
+“Fukushima experiment” because it mimics conditions that emulate sending a
+drone into a disaster area such as the Fukushima nuclear power plant to
+conduct surveys. Her research is trying to figure out the perfect balance
+between drone automation and user control—too much of the former hampers the
+drone’s maneuverability while too much of the latter leads to too many
+crashes.
+
+Cummings also talked about how drones will likely be used in the near future
+for more mundane tasks, such as surveying bridges for structural integrity
+checkups and roofs for insurance damage claims. One of Cummings’s own projects
+funded by the National Science Foundation is already moving toward having an
+impact in North Carolina, as she is working with the North Carolina Department
+of Public Safety on an app to acoustically detect drones attempting to deliver
+contraband at state prisons.
+
+The visit to Duke Robotics also included demonstrations from Dan Buckland,
+assistant professor of surgery and of mechanical engineering and materials
+science, and Leila Bridgeman, assistant professor of mechanical engineering
+and materials science.
+
+Buckland demonstrated a project working to teach an off-the-shelf robotic arm
+to locate and safely tap into veins in a patient’s arm. Right now the
+technology is just beginning to learn how to find the veins, much less
+introduce a needle into the equation. But Buckland, who is also a physician in
+the Duke University Emergency Department, has high hopes for the technology’s
+future and looks forward to being able to offer his patients the option of
+using the technology.
+
+“I imagine this technology evolving to the point of those automatic blood
+pressure machines you see at pharmacies today,” said Buckland. “Having a
+machine automatically draw a blood sample or set up an IV could save nurses a
+lot of time and help healthcare systems treat more patients more quickly.”
+
+Bridgeman’s demonstration included two robots following each other in a circle
+taped to the laboratory floor. As an expert in control theory, she is working
+to develop robust systems for autonomous vehicles that can handle unexpected
+perturbations without diminishing the entire system’s efficiency. When the
+lead robot suddenly slows down, for example, the trailing robot needs to be
+able to pump its breaks and recognize when it’s time to speed back up again.
+
+“If driverless cars are ever going to truly take over the roadways, it’s going
+to require massive networks of individual controllers interacting and
+coordinating with each other,” said Bridgeman. “Imagine a string of autonomous
+cars on I-95 stretching from Florida to Vermont. You don’t want one unexpected
+behavior to lead to a chain reaction that creates a phantom traffic jam
+hundreds of miles long. These controllers need to be able to react and recover
+from destabilizing behaviors at high speeds.”
+
+“And not only do these systems have to have foolproof intrinsic controls, they
+have to be hack-proof as well,” added Cummings. “These are the types of
+abilities that vendors need to show before North Carolina allows them to begin
+operating in the public sphere.”
+
+## Related News
+
+June 19, 2019
+
+### An App for Stopping Drone Deliveries over Prison Walls
+
+October 13, 2017
+
+### Deterring Drones from Ballparks and Botanical Gardens
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

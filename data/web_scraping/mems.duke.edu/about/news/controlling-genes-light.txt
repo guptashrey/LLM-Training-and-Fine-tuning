@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Controlling Genes with Light
+
+February 9, 2015 | By Ken Kingery
+
+Light-activated genes might be precisely controlled and targeted
+
+Duke University researchers have devised a method to activate genes in any
+specific location or pattern in a lab dish with the flip of a light switch by
+crossing a bacterium’s viral defense system with a flower’s response to
+sunlight.
+
+With the ability to use light to activate genes in specific locations,
+researchers can better study genes’ functions, create complex systems for
+growing tissue, and perhaps eventually realize science-fiction-like healing
+technologies.
+
+The study was led by Charles Gersbach, assistant professor of biomedical
+engineering at Duke University, and published on February 9 in Nature Chemical
+Biology.
+
+“This technology should allow a scientist to pick any gene on any chromosome
+and turn it on or off with light, which has the potential to transform what
+can be done with genetic engineering” said Lauren Polstein, a Duke PhD student
+and lead author on the work. “The advantage of doing this with light is we can
+quickly and easily control when the gene gets turned on or off and the level
+to which it is activated by varying the light’s intensity. We can also target
+where the gene gets turned on by shining the light in specific patterns, for
+example by passing the light through a stencil.”
+
+The new technique targets specific genes using an emerging genetic engineering
+system called CRISPR/Cas9. Discovered as the system bacteria use to identify
+viral invaders and slice up their DNA, the system was co-opted by researchers
+to precisely target specific genetic sequences.
+
+The Duke scientists then turned to another branch of the evolutionary tree to
+make the system light-activated.
+
+In many plants, two proteins lock together in the presence of light, allowing
+plants to sense the length of day which determines biological functions like
+flowering. By attaching the CRISPR/Cas9 system to one of these proteins and
+gene-activating proteins to the other, the team was able to turn several
+different genes on or off just by shining blue light on the cells.
+
+“The light-sensitive interacting proteins exist independently in plants,”
+explained Gersbach. “What we’ve done is attached the CRISPR and the activator
+to each of them. This builds on similar systems developed by us and others,
+but because we’re now using CRISPR to target particular genes, it’s easier,
+faster and cheaper than other technologies.”
+
+Gersbach envisions a wide range of potential applications for the new light-
+activated, gene-regulating system.
+
+Researchers could tightly and precisely control the level of a gene’s activity
+from its natural position in the chromosomal DNA, which would allow them to
+get a more accurate interpretation of the gene's role. The light-induced
+system could also provide more control over how stem cell cultures
+differentiate into various types of tissues. And by creating different
+patterns of gene expression, Gersbach hopes the system can be used in tissue
+engineering.
+
+“One of the limitations of tissue engineering right now is that typical
+methods make a chunk of bone, cartilage or muscle, but that’s not what tissues
+look like naturally,” said Gersbach. “There are several cell types mixed
+together, gradients of tissues between interfaces, and blood vessels and
+neurons that penetrate through them. We want to spatially control where
+different tissues get made in a cell population, and that way create multi-
+tissue constructs that potentially better represent normal physiology.”
+
+And then there’s a more futuristic idea of how light-induced genetic
+engineering could be applied.
+
+“It’s possible to illuminate cells through the skin and control what they’re
+doing, like growing blood vessels or regenerating tissues,” said Gersbach.
+“Far, far down the road, you could envision the type of device you’d see on
+Star Trek where you wave a flashlight over a wound and it heals. Obviously
+that’s not currently possible, but this type of technology that creates much
+better control over biological systems could move us in that direction.”
+
+This work was supported by a National Institutes of Health Director’s New
+Innovator Award (DP2OD008586); National Science Foundation Faculty Early
+Career Development Award (CBET-1151035); National Institutes of Health grants
+R01DA036865, NIH R03AR061042 and NIH P30AR066527; and an American Heart
+Association Scientist Development Grant (10SDG3060033).
+
+# # #
+
+CITATION: "A light-inducible CRISPR-Cas9 system for control of endogenous gene
+activation," Lauren R Polstein, Charles A Gersbach. Nature Chemical Biology,
+February 9, 2015. DOI: 10.1038/nchembio.1753
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

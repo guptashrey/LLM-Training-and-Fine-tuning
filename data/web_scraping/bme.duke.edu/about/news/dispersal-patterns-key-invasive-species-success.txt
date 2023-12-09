@@ -1,0 +1,194 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Dispersal Patterns Key to Invasive Species' Success
+
+January 21, 2014 | By Ken Kingery
+
+Bacterial test of a theory has implications for ecology and infectious disease
+
+In 1859 an Australian farmer named Thomas Austin released 24 grey rabbits from
+Europe into the wild because it “could do little harm and might provide a
+touch of home, in addition to a spot of hunting.”
+
+By the end of the century, the rabbits had begun to overrun native ecosystems,
+reaching nationwide numbers of 600 million by 1950. They were propagating
+under a principle known as the Allee effect—the observation that larger groups
+of animals do better at establishing populations in a new environment. Had
+Austin instead spread the rabbits into many smaller groups across the
+landscape, things might have turned out differently.
+
+With the help of E. coli and some clever synthetic biology techniques,
+engineers at Duke University have now tested the limits of the Allee effect.
+The results have implications for both ecologists dealing with invasive
+species and medical practitioners fighting infections.
+
+Organisms exhibiting a very strong Allee effect need a certain number of
+individuals to survive, below which the group will collapse. And while
+intuition suggests that the more places a species spreads, the more it will
+thrive, scattering a population too thin by forming too many new colonies
+could result in the ruin of them all.
+
+The paper appears online in the Proceedings of the National Academy of
+Sciences the week of Jan. 20.
+
+“From the perspective of an invasive species, it appears to be a good idea to
+spread out to many different habitats simultaneously,” said Lingchong You,
+associate professor of biomedical engineering at Duke. “If they all survive,
+the overall growth is much more efficient. But there’s a catch because of the
+Allee effect; there is also a greater chance each population will fall below
+the critical threshold and every location will fail.”
+
+“This can offer insights for people managing invasive species,” continued You.
+“If you limit the number of targets that an invasive species can travel into,
+you might inadvertently help them thrive.”
+
+In the experiment, researchers engineered E. coli to produce a toxin that,
+left to its own devices, would soon wipe out the entire colony of bacteria.
+But they also put in a genetic switch that could turn their fortunes around;
+if enough bacteria were present and the chemicals they use to signal one
+another reached a certain concentration, they would begin producing an
+antidote to the toxin. In this way, the bacteria were engineered to have a
+high Allee effect.
+
+The researchers then tested how well the bacteria did with different dispersal
+rates. They plucked the bacteria from their original source wells and
+colonized new ones. Each trial consisted of a different number of target
+habitats, which affected the density of the new populations.
+
+Just as theory predicted, the greatest success came when the dispersion rate
+stayed in a happy middle ground. Too few new colonies and the bacteria barely
+spread; too many and each floundered, including the original source.
+
+The results also have important medical implications, according to You.
+
+“People need to use caution when using antibiotics,” said You. “Our bodies’
+natural microbes are in some ways the first line of defense against invaders,
+which can often stop an infection from gaining a foothold. But if we
+recklessly apply antibiotics, we may destroy these defenses and make it easier
+for just a few foreign bacteria to spread and grow. We may remove their Allee
+effect.”
+
+Their work was supported in part by the National Science Foundation grant
+CBET-0953202 and the National Institutes of Health grant 1R01GM098642.
+
+###
+
+CITATION: “Programmed Allee effect in bacteria causes a tradeoff between
+population spread and survival,” Smith, R.P., Tan, C., Srimani, J.K., Pai, A.,
+Riccione, K.A., Song, H., You, L. PNAS, Jan. 20, 2014. DOI:
+10.1073/pnas.1315954111
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

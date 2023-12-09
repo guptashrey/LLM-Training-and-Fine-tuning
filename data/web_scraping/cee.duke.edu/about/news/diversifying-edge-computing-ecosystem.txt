@@ -1,0 +1,276 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Diversifying the Edge Computing Ecosystem
+
+August 17, 2021
+
+New Duke-led, NSF-funded “Athena” center for AI seeks to advance next-
+generation mobile networks and make fast, secure edge computing accessible to
+more users
+
+A new five-year, $20 million National Science Foundation grant establishing
+the Duke-led AI Institute for Edge Computing Leveraging Next-generation
+Networks will support the development of advanced mobile networks and a broad
+matrix of local datacenters to improve the speed, security and accessibility
+of data processing on a national scale.
+
+Known as “Athena” for short, the new institute includes 16 Duke faculty
+members and 12 researchers from partner institutions MIT, Yale, Princeton,
+Wisconsin, University of Michigan and North Carolina A&T State University, as
+well as industry collaborators from AT&T, Microsoft, Motorola Solutions,
+EdgeMicro and 5NINES.
+
+“This significant investment from NSF is a testament to Duke’s broad strengths
+in artificial intelligence and machine learning, and emblematic of the future
+of team-based scientific discovery and technology research,” said Provost
+Sally Kornbluth. “The award highlights the role of advanced computing
+solutions for enhancing multiple areas of science and underscores the
+importance of AI as a pillar of the Duke Science and Technology initiative.”
+
+With partial funding from the Department of Homeland Security, Athena is led
+by Duke Professor of Electrical and Computer Engineering and Computer Science
+Yiran Chen, an expert in deep learning and system security. One of Athena’s
+goals, said Chen, is to “diversify the edge computing ecosystem,” to enable
+fast, secure and accessible computing by moving data processing closer to the
+point of data collection.
+
+Countless sensor-based devices around us—wearables, smartphones, home security
+systems, augmented and virtual reality devices, and partially automated
+vehicles, to name just a few examples—constantly scan the environment to
+collect and report data about their surroundings. As our internet
+connectedness grows, so does this proliferation of data.
+
+> “This significant investment from NSF is a testament to Duke’s broad
+> strengths in artificial intelligence and machine learning, and emblematic of
+> the future of team-based scientific discovery and technology research.”
+>
+> **Sally Kornbluth** | Duke university Provost  
+>
+
+The goal of edge computing is to shift some of the data processing workload
+away from large, distant server farms (“the cloud”) and closer to the data’s
+origin (the “edge”), making computation and reporting faster and more power-
+efficient. While the gains may be measured in milliseconds, even this small
+difference is critical in developing applications that, for example, tell a
+self-driving vehicle when to hit the brakes.
+
+Athena managing director Jeffrey Krolik, a professor of electrical and
+computer engineering at Duke, emphasized that edge computing offers more than
+speed. “Keeping data close—as close as the palm of your hand—is more secure
+because you’re not sharing that information with a huge datacenter. It also
+delivers more personalized results,” he noted. Consider a wearable sleep
+monitor: that device might collect biometric data alongside lifestyle data
+(like how much caffeine you normally consume) and combine it with
+environmental data (like the temperature of your house). While it might be
+worthwhile in this case to amalgamate a small number of users’ data streams to
+look for commonalities—is nearby construction disrupting the sleep of an
+entire neighborhood?—there’s probably not much utility in combining the data
+of a North Carolinian with that of Texan, at a server farm a thousand miles
+away.
+
+Making edge computing accessible to more users will require the transformation
+of the wireless network business model, said Chen. “Right now, a small handful
+of large carriers provide the wireless networks,” he explained. “They sell the
+devices and they offer the cloud computing services. In the future Athena
+envisions, large datacenters will be augmented by thousands of small, local
+datacenters that are much closer to the edge.” These edge datacenters would
+still be provided by the third-party companies, Chen explained, but smaller
+vendors could rent them, scaling the cost barrier that currently impedes
+variety in the space. Chen expects that as new product offerings grow, so will
+the customer base. This change, said Chen, “will diversify the ecosystem of
+edge.”
+
+Through a collaboration with the Town of Cary, NC, and small edge equipment
+vendors and service providers, Athena will demonstrate how the developed edge
+computing system could work in a local community.
+
+Chen and his team plan to work with industry partners to educate and develop
+technical leaders who are not only skilled at developing edge computing
+networks, but who are also committed to the fair and ethical use of AI.
+Additionally, Athena will offer a Summer Research Program (ASRP) to
+undergraduate and graduate students and introduce the Athena Postdoctoral
+Fellowship Program (APFP) to encourage engagement with local schools at the
+K-12 level.
+
+More News From Duke ECE
+
+## Athena Leadership Team
+
+### Yiran Chen
+
+**Principal Investigator**
+
+Professor of Electrical & Computer Engineering, Duke University
+
+### Jeffrey L. Krolik
+
+**Managing Director**
+
+Professor of Electrical & Computer Engineering, Duke University
+
+### Suman Banerjee
+
+**Networking Thrust Lead**
+
+Professor of Computer Sciences, University of Wisconsin
+
+### Lin Zhong
+
+**Computer Systems Thrust Lead**
+
+Professor of Electrical & Computer Engineering, Yale University
+
+### Hai "Helen" Li
+
+**AI Foundations Thrust Lead**
+
+Clare Boothe Luce Professor of Electrical & Computer Engineering, Duke
+University
+
+### Miroslav Pajic
+
+**Services and Applications Thrust Lead**
+
+Dickinson Family Associate Professor of Electrical & Computer Engineering,
+Duke University
+
+### Shaundra Daily
+
+**Education and Workforce Development Lead**
+
+Professor of Practice in the Department of Electrical & Computer Engineering,
+Duke University
+
+### Daniel Limbrick
+
+**Broader Participation Lead**
+
+Associate Professor of Electrical & Computer Engineering, North Carolina A&T
+State University
+
+_Full team profiles and more at_ athena.duke.edu »
+
+## Related News
+
+October 09, 2018
+
+### ASIC Draws First Industry Partners
+
+December 22, 2016
+
+### Yiran Chen: Integrating Tomorrow’s Technology into Today’s Devices
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

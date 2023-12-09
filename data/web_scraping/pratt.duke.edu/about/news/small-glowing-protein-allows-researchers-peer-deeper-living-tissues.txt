@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Small Glowing Protein Allows Researchers to Peer Deeper Into Living Tissues
+
+December 5, 2022 | Michaela Kane
+
+Proteins that emit longer wavelengths of near-infrared light help create
+detailed, hi-res biomedical images
+
+Biomedical and genetic engineers at Duke University and the Albert Einstein
+College of Medicine have designed a small fluorescent protein that emits and
+absorbs light that penetrates deep into biological tissue. Tailored to
+wavelengths in the near-infrared (NIR) spectrum, this protein can help
+researchers capture deeper, cleaner, more precise biomedical images.
+
+This work appeared Dec. 1 in the journal Nature Methods.
+
+Imaging deep tissues with light is challenging. Visible light is often quickly
+absorbed and scattered by structures and molecules in the body, preventing
+researchers from seeing deeper than a millimeter within a tissue. If they do
+manage to probe further, substances like collagen or melanin often muddy the
+image, creating the equivalent of background noise through their natural
+fluorescence.
+
+“Biological molecules naturally absorb and emit light in the visible spectrum,
+which is about 350 to 700 nanometers,” said Junjie Yao, assistant professor of
+biomedical engineering at Duke. “So when using it to image deep tissue, it’s
+like trying to observe the stars in daylight. The signals get flooded out.”
+
+To wade out from these muddied waters, Yao and his collaborator Vladislav
+Verkhusha, professor of genetics at Albert Einstein College of Medicine, New
+York developed a protein that absorbs and emits longer wavelengths of light in
+the near-infrared (NIR) spectrum.
+
+“Tissue is the most transparent in the 700-1300 nanometer window of NIR
+light,” said Yao. “At those wavelengths, light can penetrate deeper into a
+tissue, and because there is less natural background fluorescence to filter
+out, we can take longer exposures and capture clearer images.”
+
+Verkhusha and his lab used a process called directed molecular evolution to
+engineer their proteins, using photoreceptors normally found in bacteria as
+the basis for the structure. These photoreceptors are useful for imaging
+research because they can switch between a silent and active state when hit
+with a specific wavelength of light. They can bind with biliverdin, a
+biomolecule that appears in high quantities in mammalian and human tissues.
+
+“We studied the structure of the biliverdin to determine how the photoreceptor
+would best attach to the biomolecule,” explained Verkhusha. “After we
+understood the binding process, we carefully introduced substitutions of key
+parts of the molecule connecting to the biliverdin to increase the electron
+binding, which is necessary to obtain the red-shifted fluorescence. Last, we
+performed random mutagenesis followed by high-throughput screenings so the
+proteins would evolve and increase their brightness.”
+
+The brightest found protein, termed miRFP718nano, is easily produced in cells
+and tissues and emits light just outside of the visible range. But while the
+NIR activation itself is helpful, what happens after the initial burst of
+activity holds even more promise for biomedical imaging.
+
+“We’ve seen that the NIR range can be broken up into two main zones,”
+explained Yao. “When NIR light first hit these proteins, they emit light in
+the first zone, which is about 700-900 nanometers. But as they decay, the
+wavelength gradually gets longer, like the tail behind a comet. That’s when
+they begin to emit light in the second NIR zone, which is from 900-1300
+nanometers.”
+
+In this second zone, all benefits from using the shorter wavelength, zone one
+NIR light are enhanced: light can penetrate tissue two times deeper,
+background fluorescence is significantly dimmed, and image resolution can be
+two to three times clearer, allowing for detailed images of complex
+structures.
+
+As a proof of concept, Yao and his team at Duke used an imaging technique
+called short-wavelength infrared (SWIR) to test the efficacy of the new
+protein. This process sends NIR zone-one light deep into the tissue to
+activate the fluorescent proteins. As the proteins decay, they emit NIR zone-
+two light that provides information about the structure and composition of the
+targeted tissues and cells that can be translated into high-resolution images.
+
+After introducing engineered miRFP718nano proteins into their animal models,
+the team used them to capture images of microbes in the mouse digestive tract,
+visualize cells in a mouse mammary gland and even track changes to
+inflammation in a mouse liver. All the images captured were clearer and more
+detailed than images made using a standard NIR zone-one imaging protein.
+
+Yao and Verkhusha are optimistic that their continued partnership will be a
+boon for their work in both biomedical imaging and protein engineering. As
+Verkhusha continues to refine and improve the fluorescent proteins and
+biosensors, Yao is excited to use the new tool to visualize the brain more
+closely and to potentially track the movement of cancer cells.
+
+“This is an exciting new front of our decade-long collaboration because we can
+use the imaging tools to guide the protein engineering decisions, and we can
+use the advanced protein engineering to improve the imaging capabilities,” Yao
+said.
+
+This work was supported by grants from the US National Institutes of Health
+(GM122567, EB028143, NS111039, NS115581), the Chan Zuckerberg Initiative
+(226178), the Cancer Foundation Finland and Magnus Ehrnrooth Foundation, and
+the NIH Intramural Research Program for the Vaccine Research Center of the
+National Institute of Allergy and Infectious Diseases.
+
+CITATION: “Deep-Tissue SWIR Imaging Using Rationally Designed Small Red-
+Shifted Near-Infrared Fluorescent Protein,” Olena Oliinyk, Chenshuo Ma, Sergei
+Pletnev, Mikhail Baloban, Carlos Taboada, Huaxin Sheng, Junjie Yao, Vladislav
+Verkusha. Nature Methods, December 1, 2022. DOI: 10.1038/s41592-022-01683-0
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

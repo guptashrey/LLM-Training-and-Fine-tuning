@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Slowly Pulling Proteins Apart Reveals Unexpected Path to Stability
+
+August 8, 2016 | By Ken Kingery
+
+Large proteins with multiple domains may have more stable conformations than
+previously believed
+
+Proteins are long strings of amino acids jumbled together like earphones left
+inside of a pocket for too long. But while a protein’s mess of intertwined
+knots may look haphazard, their specific folds are extremely important to
+their biological functions. Misfolded proteins are thought to be the genesis
+of diseases such as Alzheimer's, Parkinson's, Huntington's and cystic
+fibrosis, just to name a few.
+
+To get a detailed look at how different proteins are folded, researchers
+freeze them in a crystalline structure and bombard them with extremely short
+bursts of x-rays. By recording how the x-rays bounce off the samples,
+scientists can reconstruct the different shapes—or conformations—that a
+protein can take. They then use a variety of techniques to determine how the
+proteins fold themselves into their final structures.
+
+But there are limits to these techniques that have caused most studies to
+focus on smaller, simpler proteins. The average protein found within a human
+cell, however, is neither small nor simple. Most are more like an economy-
+sized box of Christmas lights that have haven’t been opened in a decade.
+
+In a new study, researchers at Duke University have taken a different approach
+to studying the conformations of one of these larger proteins. By slowly
+pulling apart a protein called Protein S, they discovered a previously unknown
+stable conformation made possible by a little help from its best friend.
+
+The results, to be published in the September 9, 2016 issue of the Journal of
+Biological Chemistry (online on July 4, 2016), show that biochemists need to
+start rethinking some of their assumptions.
+
+“Our study shows that some of our field’s long-held ideas need to be revised,”
+said Piotr Marszalek, professor of mechanical engineering and materials
+science at Duke. “Previous assumptions that were made about large proteins
+showing a lack of structure or stability might have been made too hastily.”
+
+Traditional methods for determining protein structures and stability average
+results from hundreds, if not thousands, of individual samples. While this may
+give more reliable results, it misses stable conformations that don’t take
+shape very often.
+
+The new study instead used a method called single-molecule force-spectroscopy,
+where a single protein is slowly pulled apart like a tangled ball of sticky
+spaghetti.
+
+One end of the protein is attached to a stationary object. The other end is
+attached to a flexible sliver of glass that is sharpened to a point all the
+way down to the atomic scale. As the glass slowly pulls on the molecule, it
+bends from the resistance of the protein’s bonds before snapping back into
+place when the bond breaks.
+
+By looking at how much force is required to break each bond and measuring how
+long it takes, researchers can compare the known structure of a protein to
+their data to look for inconsistencies.
+
+“When we looked at the data for Protein S, we found that one of its halves
+showed too much variability between tests,” said Zack Scholl, a doctoral
+student in Marszalek’s lab. “There had to be another unknown conformation that
+it was taking.”
+
+To discover this second conformation, Scholl worked with his other advisor,
+Weitao Yang, professor of chemistry at Duke, to run computer simulations that
+could explain the data. They discovered that one-half of the protein, called a
+domain, was gaining stability from the other—a phenomenon that had never been
+seen before.
+
+“The protein as a whole is actually countering its own charge,” said Scholl.
+“You have contradictory demands. One demand is negatively charged binding
+sites on one domain’s surface that introduce this instability. But then you
+also want to have a stable fold, so you bring in a positively charged part
+from the other domain to stabilize it.”
+
+Protein S is commonly found coating spores in nature, but nobody knows what it
+does. Take it away from the spores, and they still spread and germinate new
+plants and fungi just fine.
+
+The protein is, however, extremely similar to many other proteins found
+throughout the animal kingdom. In mammals, including humans, it bears a
+striking resemblance to a protein found in our eyes’ lenses. These proteins
+are extremely stable, not having to be replaced for years or even decades—a
+far cry from others that are replaced on a daily basis.
+
+Its complexity and stability were two of the reasons the trio of researchers
+decided to study it. Understanding how the protein gets its stability may give
+clues as to why other proteins lose theirs.
+
+“The two domains kind of work together,” said Scholl. “So the protein may have
+evolved for the two domains to rely on each other to help its stability.”
+
+This work was supported by the National Science Foundation (GRFP 1106401, NSF
+MCB-1052208, MCB-1517245) and the Katherine Goodman Stern Fellowship from the
+Duke University Graduate School.
+
+“Single-molecule force-spectroscopy reveals the calcium dependency of the
+alternative conformations in the native state of a bg-crystallin protein.”
+Zackary N. Scholl, Qing Li,Weitao Yang, and Piotr E. Marszalek. Journal of
+Biological Chemistry, 2016. DOI: 10.1074/jbc.M116.729525.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

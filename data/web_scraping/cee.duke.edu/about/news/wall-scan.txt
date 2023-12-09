@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Seeing Through Walls of Unknown Materials
+
+December 6, 2017 | By Ken Kingery
+
+Removing symmetrical distortions allows successful scans with no prior
+knowledge of a wall’s material
+
+Researchers at Duke University have devised a way to see through walls using a
+narrow band of microwave frequencies without any advance knowledge of what the
+walls are made out of. Besides having obvious applications in the realm of
+security, the approach could lead to inexpensive devices to help construction
+workers easily locate conduits, pipes and wires.
+
+The study was published in the journal Optica on Dec. 5, 2017.
+
+“Most technologies that can see through walls use a broad range of
+frequencies, which makes them expensive,” said Daniel Marks, associate
+research professor of electrical and computer engineering at Duke. “They also
+don’t have very good resolution. So while they might be fine for seeing a
+person moving on the other side of a wall, they’re terrible for finding thin
+conduits or wires.”
+
+Current approaches also typically rely on knowing what material the wall is
+made out of before trying to see through it. This allows the software to
+predict how the wall will affect the scanning waves so that it can separate
+the echoes and distortions from the solid objects being sought.
+
+In the new paper, Marks and his colleagues David R. Smith, the James B. Duke
+Professor of Electrical and Computer Engineering, and Okan Yurduseven, a
+postdoctoral researcher in electrical and computer engineering at Duke, take
+advantage of a wall’s symmetry instead.
+
+Because walls are generally flat and uniform in all directions, they distort
+waves in a symmetrical fashion. The newly described technology uses this
+symmetry to its advantage.
+
+“We wrote an algorithm that separates the data into parts—one that shows
+circular symmetry and another that doesn’t,” explained Yurduseven. “The data
+that doesn’t have any symmetry is what we’re trying to see.”
+
+The technique uses only a single frequency to scan because it cuts down on the
+number of interference patterns created by the wall and single-frequency
+emitters are much less expensive than broadband emitters. Sticking to a narrow
+range also means that a future device would be easier to clear with the
+Federal Communications Commission (FCC), as it would be easy to avoid
+interfering with microwave frequencies dedicated to other technologies, such
+as Wifi, cellular phone service and Bluetooth.
+
+The researchers built a prototype device to see how well it would work. In
+their laboratory, they constructed a couple of different kinds of walls and
+then placed objects behind them that a worker might want to find, like studs,
+electrical conduits, wires and junction boxes.
+
+Looking at the raw data after scanning through gypsum plasterboard, it’s
+difficult to make out anything other than a metal junction box, which is 4
+inches wide and 2 inches thick. But after analyzing the data and removing the
+symmetrical patterns, the pictures clear considerably, and each individual
+component is easily recognized.
+
+“We envision combining this technique with a machine vision system that
+someone could move over a wall to see what’s inside,” said Marks. “We think
+the technology has the price point and sensitivity to make an impact on the
+market.”
+
+This work was supported by the Air Force Office of Scientific Research
+(FA9550-12-1-0491).
+
+“A sparse blind deconvolution method for imaging through layered media.”
+Daniel L. Marks, Okan Yurduseven, David R. Smith. Optica, 2017. DOI:
+10.1364/optica.4.001514
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

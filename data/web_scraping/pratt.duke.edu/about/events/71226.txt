@@ -1,0 +1,154 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# Data-Aware Computational Models for Science and Engineering
+
+Mar 9
+
+_This event has passed._
+
+##
+
+Thursday, March 9, 2023 - 9:00am to 10:00am
+
+## Presenter
+
+Zhengyu (Daniel) Huang
+
+In the past half-century, partial differential equation (PDE)-based
+computational models have emerged as indispensable for science and
+engineering. However, remarkable gaps still exist between state-of-the-art
+simulations and reality, meaning that many simulations are ineffective in
+supporting decision-making or design under uncertainty for complex systems
+(e.g., Mars landing). To bridge the gap and fulfill challenging real-world
+missions, I develop data-aware computational models that combine increasingly
+available data with complex PDE-based models to make improved predictions,
+together with measures of their uncertainty. In this talk, I will focus on two
+complementary approaches to data-aware computational modeling. First, I will
+discuss a new Bayesian method for updating/improving computational models and
+quantifying uncertainties based on measured data: our Kalman inversion
+approach is built on Kalman filtering and empirically converges in O(10)
+iterations with O(10) ensemble evaluations per iteration, enabling effective
+Bayesian calibration with very few model evaluations. Second, I will introduce
+our geometry-aware Fourier neural operator (FNO), a deep learning surrogate
+model which maps a given design geometry to a predicted PDE solution state. We
+use the automatic differentiation tools of deep learning packages to
+efficiently compute gradients of the FNO approximation, enabling real-time
+multiphysics engineering design optimization. These methods we developed have
+been successfully applied in complex applications ranging from Mars landing
+supersonic parachute, bacteria-resistant catheter design, the digital twin for
+wing damage detection, and the Earth system model for climate science.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

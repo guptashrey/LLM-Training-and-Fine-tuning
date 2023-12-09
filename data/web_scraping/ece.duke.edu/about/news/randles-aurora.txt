@@ -1,0 +1,164 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Randles Selected to Help Pilot First U.S. Exascale Computer
+
+July 5, 2018
+
+Duke biomedical engineer Amanda Randles is one of a handful of researchers
+getting an early turn on Aurora, the nation’s first exascale supercomputer
+
+Amanda Randles, the Alfred Winborne Mordecai and Victoria Stover Mordecai
+Assistant Professor of Biomedical Engineering at Duke University, is getting
+an early crack at using Aurora—the nation’s newest and largest supercomputer.
+
+Housed at Argonne National Laboratory (ANL), Aurora will be the nation’s first
+exascale supercomputer, capable of performing a quintillion calculations per
+second upon its expected 2021 completion. This is more than five times the
+maximum theoretical limit of the world’s current faster supercomputer Summit
+that debuted earlier this year. The Aurora Early Science Program (ESP)
+selected 10 simulation-based projects to help prepare key applications,
+libraries and infrastructure for the architecture and scale of the exascale
+supercomputer.
+
+Randles is one of five researchers outside of ANL selected to participate. She
+will be leveraging Aurora’s record-breaking power to improve HARVEY—a code
+capable of simulating blood flow through the human vasculature down to the
+cellular level.
+
+“HARVEY should run on Aurora without any difficulties,” said Randles, who has
+been developing HARVEY for more than half of a decade. “And this allocation
+will allow us to understand how to best leverage this next generation hardware
+and hopefully achieve unprecedented scale with our code.”
+
+The goal of these simulations is to develop a better understanding of the role
+biological parameters play in determining where tumor cells circulating in the
+bloodstream end up. Randles eventually hopes to develop HARVEY to the point
+that clinicians can use it in real-time to determine a specific individual’s
+risk of metastasis as well as other health complications.
+
+The added computing power from Aurora will allow the program to simulate
+larger regions of the body for longer periods of time at higher resolutions.
+And with the added computing power comes funding for a postdoctoral researcher
+at ANL to work full-time on preparing HARVEY for the transition. The added
+help will allow Randles to develop new methods for _in situ_ visualization and
+analytics.
+
+“There will be so much memory used for the simulation that it’s really not
+tractable to output all of the data for post-processing,” said Randles. “Being
+able to visualize the simulation while it’s happening and analyze results
+dynamically will allow us to use the large amount of data to its fullest.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

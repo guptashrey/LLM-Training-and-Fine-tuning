@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Simple Rules Predict and Explain Biological Mutualism
+
+January 16, 2019
+
+Machine learning model foretells whether symbiotic relationships will thrive
+or collapse
+
+Scientists have long employed relatively simple guidelines to help explain the
+physical world, from Newton’s second law of motion to the laws of
+thermodynamics.
+
+Now, biomedical engineers at Duke University have used dynamic modeling and
+machine learning to construct similarly simple rules for complex biology. They
+have devised a framework to accurately interpret and predict the behavior of
+mutually beneficial biological systems, such as human gut bacteria, plants and
+pollinators, or algae and corals.
+
+The research appears on January 16, 2019 in the journal Nature Communications.
+
+“In a perfect world, you’d be able to follow a simple set of molecular rules
+to understand how every biological system operated,” said Lingchong You, a
+professor in Duke’s Department of Biomedical Engineering. “But in reality,
+it’s difficult to establish general rules that encompass the immense diversity
+and complexity of biological systems. Even when we do establish general rules,
+it’s still challenging to use them to explain and quantify various physical
+properties.”
+
+You and Feilun Wu, a graduate student and first author of the paper, addressed
+these challenges by examining the behavior of mutualistic systems. These
+symbiotic systems are made of two or more populations that provide reciprocal
+benefit, such as monarch butterflies and milkweed plants.
+
+Under certain conditions, mutualistic systems can collapse, leading to
+devastating ecological consequences. Wu wanted to develop a framework that
+could accurately predict and prevent negative outcomes and guide the design of
+new synthetic mutualistic systems.
+
+“Because these systems were so diverse, previous frameworks were either only
+applicable to specific mutualistic systems, like plant-pollinator or seed-
+dispersal networks, or they were too general and didn’t describe the fine line
+between conditions that allow the systems to coexist, versus those that force
+the system to collapse,” said Wu.
+
+To investigate whether a unifying quantitative guideline could exist for
+mutualistic systems, Wu systematically studied 52 differential equation models
+that capture the diversity of mutualistic systems. These systems shared the
+same fundamental structure: when the collective benefit was greater than the
+collective stress, the populations can coexist. If stress is greater than the
+collective benefit, the system will collapse.
+
+While it is relatively easy to measure stress in a system, it is more
+complicated to measure the collective benefit, which is a function of
+variables like cost, individual benefits and other system complexities. You
+and his team recognized that attempting to measure the collective benefit
+became a bottleneck due to the complex criteria available for measuring, and
+that became even more challenging when applied to different mutualistic
+systems.
+
+Instead, the team developed a machine learning algorithm to determine the
+collective benefit using a few, relatively easy-to-gather variables like
+temperature, pH and genetics. The approach resulted in a simplified metric
+that can be applied to diverse mutualistic systems.
+
+To test their guidelines, the team used experimental data from three
+mutualistic bacterial systems and simulated data to show that their framework
+could consistently and accurately predict whether a system would coexist or
+collapse. Their rules could also predict quantitative information, including
+probability of coexistence, resistance and total population density.
+
+The team is optimistic that their research can be applied to non-mutualistic
+biological systems as well. For example, You suggests using their strategy to
+examine antibiotic resistance and the conditions that allow resistance to
+persist or disappear.
+
+“When we’re working in medicine or biomedical engineering, we realize that
+some level of simplification is necessary to understand the interactions of
+the communities we’re studying,” said You. “Our procedure showed us that there
+is commonality between apparently diverse biological systems, and that’s
+essential for allowing us to make the predictions that drive our research.”
+
+Study members include Charlotte Lee of Duke biology and Sanyan Mukherjee in
+statistical science, mathematics, computer science, and bioinformatics &
+biostatistics, as well as two former You lab members, Allison Loptkin and
+Daniel Needs.
+
+This work was supported by grants from US National Institutes of Health
+(R01GM098642 and R01GM110494), National Science Foundation (MCB-1412459, DEB
+1257882, DMS 17-13012, ABI 16-61386, and DMS 16-13261), Office of Naval
+Research (N00014-12-1-0631), Army Research Office (W911NF-14-1-0490), Human
+Frontier Science Program (RGP0051), and a David and Lucile Packard Fellowship.
+
+CITATION: “ A Unifying Framework for Interpreting and Predicting Mutualistic
+Systems,” Feilun Wu, Allison Lopatkin, Daniel Needs, Charlotte Lee, Sayan
+Mukherjee, and Lingchong You. Nature Communications, January 16, 2019. DOI:
+10.1038/s41467-018-08188-5
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

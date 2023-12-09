@@ -1,0 +1,302 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Earl H. Dowell
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+William Holland Hall Distinguished Professor
+
+Professor Dowell's principal teaching interest and research activity is in the
+field of aeroelasticity - which is the study of the dynamic interaction
+between an aerodynamic flow and an elastic structure, such as aircraft wings
+in high speed flight, long span bridges and tall buildings responding to wind
+loadings, or airflow through the mouth and lungs. Dr. Dowell has also done
+research in acoustics, nonlinear dynamics, structural dynamics, and unsteady
+aerodynamics.
+
+Professor Dowell's major research accomplishments include the first definitive
+research monograph on the aeroelasticity of plates and shells, the first
+derivation and solution of the nonlinear equations of motion for a helicopter
+rotor blade (the Hodges-Dowell equations), and work with Professor Kenneth
+Hall and several graduate students and post-doctoral fellows on reducing the
+dimensions of mathematical models for very complex high-dimensional
+fluid/structural systems. Professor Dowell teaches undergraduate and graduate
+courses on dynamics and aeroelasticity.
+
+Here are seven short videos showing experimental aeroelastic models undergoing
+limit cycle oscillations in the Duke wind tunnel.
+
+  1. An airfoil with a nonlinear freeplay  in the connection from the main airfoil to the trailing edge control surface.
+  2. A delta wing with a strong structural nonlinearity  as a result of tension in the mid-plane of the plate-like wing induced by bending of the wing out of its initially undeformed plane.
+  3. A very high aspect ratio wing  that behaves as a beam with double bending (both transverse to and in-line with the aerodynamic flow field) and twisting. A nonlinear coupling among double bending and twisting occurs. Also the aerodynamic flow field experiences separation due to the large motions involved.
+  4. A delta wing with an external store, flutter and limit cycle oscillations.
+  5. LCO and Flutter of WingStore model
+  6. Flapping Flag Flutter
+  7. LCO of Cropped Delta Wing In the video you will see a cropped delta wing (that simply means we cropped off that would otherwise be a delta or triangular wing). The wind speed in the wind tunnel is shown by the dial in one of the frames. In the other two frames you see signals from two strain gauge bridges, bending and torsion, and of course the wing itself.   
+The wind speed at which flutter is predicted to occur theoretically is about
+19 meters/second. The experimental flutter speed based on observation of the
+strain gauge signals is about 21 meters/second. Note that at the wind speed
+when flutter starts, both strain gauges show dominant response at a frequency
+of 12 Hz. This large peak at a single frequency is a characteristic identifier
+of flutter. Also note that the motion of the wing is not easily visible to the
+eye until a higher wind speed in the range of 24-26 meters/second and the
+motion is most visible at the wing tip. Once the flutter speed is exceeded,
+limit cycle oscillations occur due a strong structural nonlinearity.
+
+  8. Experimental Aeroelastic Models: Design and Wind Tunnel Testing for Correlation with New Theory \- An overview of Wind Tunnel Testing in Duke University
+
+## Appointments and Affiliations
+
+  * William Holland Hall Distinguished Professor
+  * Professor of Mechanical Engineering and Materials Science
+  * Faculty Network Member of The Energy Initiative
+  * Affiliate of the Duke Initiative for Science & Society
+
+## Contact Information
+
+  * **Office Location:** 185 Hudson Hall, Box 90300, Durham, NC 27708
+  * **Office Phone:** (919) 660-5321
+  * **Email Address:** earl.dowell@duke.edu
+  * **Websites:**
+    * AeroElasticity Group
+
+## Education
+
+  * B.S. University of Illinois, 1959
+  * Sc.M. Massachusetts Institute of Technology, 1961
+  * D.Sc. Massachusetts Institute of Technology, 1964
+
+## Research Interests
+
+Aeroelasticity, acoustics, nonlinear dynamics, structural dynamics, and
+unsteady aerodynamics.
+
+## Awards, Honors, and Distinctions
+
+  * Daniel Guggenheim Medal. American Institute of Aeronautics and
+    Astronautics. 2009
+  * Den Hartog Medal. ASME. 2009
+  * Spirit of St. Louis Medal. American Society of Mechanical Engineers. 2008
+  * Walter J. and Angeline H. Crichlow Trust Prize. American Institute of
+    Aeronautics and Astronautics. 2007
+  * Honorary Fellow. AIAA. 2004
+  * Theodore von Karman Lectureship Award. American Institute of Aeronautics
+    and Astronautics. 2001
+  * Board of Governors. Research Triangle Institute. 1994
+  * Distinguished Service Award. American Academy of Mechanics. 1994
+  * Elected Member. National Academy of Engineering. 1993
+  * Fellow. American Society of Mechanical Engineers. 1993
+
+## Courses Taught
+
+  * CEE 625: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+  * ENERGY 395T: Bass Connections Energy & Environment Research Team
+  * ENERGY 795T: Bass Connections Energy & Environment Research Team
+  * ME 392: Undergraduate Projects in Mechanical Engineering
+  * ME 394: Engineering Undergraduate Fellows Projects
+  * ME 491: Special Projects in Mechanical Engineering
+  * ME 492: Special Projects in Mechanical Engineering
+  * ME 493: Engineering Undergraduate Fellows Projects
+  * ME 494: Engineering Undergraduate Fellows Projects
+  * ME 541: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 775: Aeroelasticity
+
+## In the News
+
+  * The Sky's the Limit for Duke Engineers Designing the Safest, Most Cost-
+    Efficien…
+  * Dowell Receives Highest Individual Honor for Achievement in Aeronautics
+    (Jun 16…
+  * AIAA congratulates Earl Dowell (Apr 21, 2016 | American Institute of
+    Aeronautic…
+  * Earl Dowell: Celebrating 75 Years of Duke Engineering (Jan 14, 2015)
+  * Earl Dowell: Will arming pilots stop a terrorist attack? (Apr 21, 2014 |
+    The Hu…
+
+## Representative Publications
+
+  * Wayhs-Lopes, L. D., E. H. Dowell, and D. D. Bueno. “A new look at the
+    Equivalent Linearization Technique to predict LCO in aeroelastic systems
+    with discrete nonlinearities (Accepted).” Journal of Fluids and Structures
+    119 (May 1, 2023). https://doi.org/10.1016/j.jfluidstructs.2023.103867.
+  * Cheng, Z., F. S. Lien, E. H. Dowell, and E. Yee. “Triggering of galloping
+    in structures at low Reynolds numbers.” Journal of Fluids and Structures
+    118 (April 1, 2023). https://doi.org/10.1016/j.jfluidstructs.2023.103860.
+  * Latif, U., E. H. Dowell, E. Uddin, and M. Yamin Younis. “Parametric
+    aerodynamic and aeroelastic study of a deformable flag-based energy
+    harvester for powering low energy devices.” Energy Conversion and
+    Management 280 (March 15, 2023).
+    https://doi.org/10.1016/j.enconman.2023.116846.
+  * Thomas, J. P., and E. H. Dowell. “Methodology for Numerically Stabilizing
+    a Harmonic-Balance-Based Forced Response Aeroelastic Solution Approach.”
+    Aiaa Journal 61, no. 2 (February 1, 2023): 965–72.
+    https://doi.org/10.2514/1.J061599.
+  * Modaress-Aval, A. H., F. Bakhtiari-Nejad, E. H. Dowell, H. Shahverdi, and
+    D. Peters. “Comparative Study of Beam and Plate Theories for Moderate
+    Aspect Ratio Wings.” Aiaa Journal 61, no. 2 (February 1, 2023): 859–74.
+    https://doi.org/10.2514/1.J061671.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

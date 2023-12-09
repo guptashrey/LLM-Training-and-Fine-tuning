@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mobile App for Autism Screening Yields Useful Data
+
+June 4, 2018 | by Karl Leif Bates
+
+Pilot study finds app easy to use, liked by parents
+
+_FromDuke Today  
+_
+
+A Duke study of an iPhone app to screen young children for signs of autism has
+found that the app is easy to use, welcomed by caregivers and good at
+producing reliable scientific data.
+
+The study, described June 1 in an open access journal npj Digital Medicine,
+points the way to broader, easier access to screening for autism and other
+neurodevelopmental disorders.
+
+The app first administers caregiver consent forms and survey questions and
+then uses the phone's 'selfie' camera to collect videos of young children's
+reactions while they watch movies designed to elicit autism risk behaviors,
+such as patterns of emotion and attention, on the device's screen.
+
+The videos of the child's reactions are sent to the study's servers, where
+automatic behavioral coding software tracks the movement of video landmarks on
+the child's face and quantifies the child's emotions and attention. For
+example, in response to a short movie of bubbles floating across the screen,
+the video coding algorithm looks for movements of the face that would indicate
+joy.
+
+In this study, children whose parents rated their child as having a high
+number of autism symptoms showed less frequent expressions of joy in response
+to the bubbles.
+
+Autism screening in young children is presently done in clinical settings,
+rather than the child's natural environment, and highly trained people are
+needed to both administer the test and analyze the results. "That's not
+scalable," said New York University's Helen Egger, M.D., one of the co-leaders
+of the study.
+
+> "This technology has the potential to transform how we screen and monitor
+> children's development."
+
+This study, from informed consent to data collection and preliminary analysis,
+was conducted with an app available for free from Apple Store and based on
+Apple's ResearchKit open source development platform. (Video -
+apple.com/researchkit)
+
+In one year, there were more than 10,000 downloads of the app, and 1,756
+families with children aged one to six years participated in the study.
+Parents completed 5,618 surveys and uploaded 4,441 videos. Usable data were
+collected on 88 percent of the uploaded videos, demonstrating for the first
+time the feasibility of this type of tool for observing and coding behavior in
+natural environments.
+
+"This demonstrates the feasibility of this approach," said Geraldine Dawson,
+Ph.D., Director of the Duke Center for Autism and Brain Development and co-
+leader of the study. "Many caregivers were willing to participate, the data
+were high quality and the video analysis algorithms produced results
+consistent with the scoring we produce in our autism program here at Duke."
+
+An app-based approach can reach into underserved areas better and make it much
+easier to track an individual child's changes over time, said Guillermo
+Sapiro, Edmund T. Pratt, Jr. School Professor of Electrical and Computer
+Engineering at Duke and a co-leader of the study.
+
+"This technology has the potential to transform how we screen and monitor
+children's development," Sapiro said.
+
+The reported project was a 12-month study. The entire test took about 20
+minutes to complete, with only a few minutes involving the child.
+
+The app also included a widely used questionnaire that screens for autism.
+Based on the questionnaire, participating families received some feedback from
+the app about what the child's apparent risk for autism might be. If parents
+reported a high level of autism symptoms on the questionnaire, they were
+encouraged to seek further consultation with their health care providers.
+
+Co-Principal Investigators of the study included Helen Egger, now at New York
+University and adjunct member of the Duke faculty; Geraldine Dawson and
+Guillermo Sapiro of Duke; and Ricky Bloomfield, now at Apple, Inc. The team
+included Kimberly Carpenter, Jordan Hashemi, Steven Espinosa, high-school
+students, undergraduate students, graduate students, post-docs and software
+developers.
+
+Creation of the app and the research project were supported by the Duke
+Institute for Health Information, the Information Initiative at Duke, the Duke
+Endowment, the Coulter Foundation, the Psychiatry Research Incentive and
+Development Grant Program, the Duke Education and Human Development Incubator,
+the Duke University School of Medicine Primary Care Leadership Track, Bass
+Connections, Duke Office of the Vice Provost for Research, National Science
+Foundation, Department of Defense and the Office of the Assistant Secretary of
+Defense for Research and Engineering and NIH.
+
+Grant funding includes NSF-CCF-13-18168, NGA HM0177-13-1-0007 and
+HM04761610001, NICHD 1P50HD093074-01, ONR N000141210839, and ARO
+W911NF-16-1-0088.
+
+CITATION: "Automatic Emotion and Attention Analysis of Young Children at Home:
+A ResearchKit Autism Feasibility Study," Helen L. Egger, Geraldine Dawson,
+Jordan Hashemi, Kimberly L. H. Carpenter, Steven Espinosa, Kathleen Campbell,
+Samuel Brotkin, Jana Shaich-Borg, Qiang Qiu, Mariano Tepper, Jeffrey P. Baker,
+Ricky Bloomfield and Guillermo Sapiro. npj Digital Medicine, June 1, 2018.
+DOI: 10.1038/s41746-018-0024-6  
+https://www.nature.com/articles/s41746-018-0024-6.epdf?author_access_tok...
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

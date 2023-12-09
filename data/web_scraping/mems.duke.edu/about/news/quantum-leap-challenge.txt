@@ -1,0 +1,261 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Joins $25M NSF Quantum Leap Challenge Institute for Robust Quantum
+Simulation
+
+September 2, 2021
+
+The Duke Quantum Center will help drive a suite of novel simulation devices
+that can predict and understand quantum phenomena
+
+Story adapted from the University of Maryland
+
+Duke University is joining a multi-institutional effort led by the University
+of Maryland (UMD) and supported by the National Science Foundation (NSF) that
+is focused on developing quantum simulation devices that can understand, and
+thereby exploit, the rich behavior of complex quantum systems.
+
+The NSF Quantum Leap Challenge Institute for Robust Quantum Simulation brings
+together computer scientists, engineers and physicists from five academic
+institutions and the federal government. Funded by a $25 million award from
+NSF, researchers in the institute will develop theoretical concepts, design
+innovative hardware, and provide education and training for a suite of novel
+simulation devices that can predict and understand quantum phenomena.
+
+Quantum simulation is a fundamental step toward realizing a world where
+general-purpose quantum computers can transform medicine, break encryption and
+revolutionize communications. Even the most powerful of today’s “classical”
+computers struggle to represent relatively small quantum systems, an obstacle
+that could be overcome by building next-generation quantum simulators.
+
+A quantum simulator can be seen as a special-purpose quantum computer. Because
+it is specifically tailored to a single type of quantum system, it is easier
+to build and use, but it also cannot be applied generally to any type of
+problem. It still must retain some flexibility in its hardware and
+programming, however, so that it can explore multiple variations of the
+quantum system in question.
+
+“Quantum simulation is arguably the most compelling application of quantum
+computers,” said Andrew Childs, professor of computer science at UMD, co-
+director of the Joint Center for Quantum Information and Computer Science, and
+lead principle investigator and director of the new institute. “Through
+dedicated research, education and outreach, we will nurture the quantum
+simulation community and provide a sharp focus on new discoveries and
+applications involving quantum simulation.”
+
+“For example, with a tunable quantum simulator, we can tweak the parameters to
+help us probe materials that are not well-understood, or even show new
+behavior of a material that has not yet been discovered,” said Chris Monroe,
+professor of electrical and computer engineering and physics at Duke and
+director of the Duke Quantum Center (DQC). “Because the DQC is building
+generation upon generation of the world’s most advanced quantum computers for
+scientific research, it is perfectly situated to execute on this plan.”
+
+Established through a 10,000-square-foot expansion of Duke’s existing quantum
+computing center in the Chesterfield Building, a former cigarette factory in
+downtown Durham, the DQC is home to an evolving line of quantum computers that
+available to users in Duke’s Scalable Quantum Computing Laboratory, or SQLab.
+The SQLab offers programmable, reconfigurable quantum computing capability to
+engineers, physicists, chemists, mathematicians or anyone who comes forward
+with a complex optimization problem they’d like to try on a reconfigurable,
+customizable 20-qubit system called the Duke Quantum Archetype.
+
+“At the DQC, we are building quantum computers and simulators based on their
+use case, and we expect our devices will be the main experimental resource in
+this NSF program,” said Monroe. “Our close collaboration with computer
+engineers and physicists from North Carolina State University will help inform
+the architecture of our quantum simulation systems and how to optimize their
+use for particular applications.”
+
+The researchers believe that by evaluating the best approaches to small-scale
+quantum simulation, they can provide a detailed blueprint for what could be
+early practical applications for quantum computers. They have identified three
+major scientific challenges to focus their efforts on: methods for verifying
+the correctness of simulations, the interaction of simulators with their
+environments, and the development of scalable quantum simulators for science
+and technology applications.
+
+To do this, the researchers plan to explore the theoretical foundations of
+quantum algorithms and error correction—in conjunction with experimental
+implementations of reconfigurable quantum simulators—on four leading hardware
+platforms: trapped ions, arrays of Rydberg atoms, quantum photonics with
+solid-state defects and superconducting circuits.
+
+"We are working to build programmable quantum simulators whose outcomes are
+unpredictable by even the world's largest supercomputers,” said Kenneth Brown,
+professor of electrical and computer engineering and physics at Duke, who is
+leading the research challenge that will enable the researchers to verify the
+results of noisy quantum simulators. “When that happens, we will be generating
+new knowledge, but how can we trust the results? This is one of the main
+challenges facing this effort."
+
+The researchers envision tight collaboration between theoretical and
+experimental approaches to co-design near-term simulation protocols with
+current and next-generation devices. This includes the joint development of
+optical and microwave control techniques across different experimental
+platforms, allowing for rapid advances in system size and controllability.
+
+The ongoing mission of the NSF Quantum Leap Challenge Institute for Robust
+Quantum Simulation will also include a strong educational component. Plans
+call for a new flagship conference on quantum simulation and other outreach
+and education programs that engage diverse groups of students in quantum
+science, including partnerships with Morgan State University and North
+Carolina Central University. Brown is serving as the Assistant Director of
+Diversity and Inclusion for this effort and will be working closely with
+collaborator Branislav Vlahovic at NCCU to develop undergraduate education
+materials.
+
+Faculty in the new institute also plan to introduce cross-disciplinary
+undergraduate specializations in quantum information and provide quantum
+information training for postgraduates and professionals.
+
+Today’s announcement is the latest in a series of federal grants establishing
+a cohort of Quantum Leap Challenge Institutes nationwide. Three Quantum Leap
+Challenge Institutes launched last year, with the Quantum Leap Challenge
+Institute for Robust Quantum Simulation and the Quantum Leap Challenge
+Institute for Quantum Sensing in Biophysics and Bioengineering—led by the
+University of Chicago—being funded in 2021.
+
+With science currently undergoing a quantum revolution, NSF is leading the
+charge through large-scale investments into centers that further the
+understanding of basic quantum phenomena, fundamental discoveries that will
+translate into transformative technologies.
+
+“Our Quantum Leap Challenge Institutes program is developing the foundation of
+quantum information sciences, as well as developing the future students,
+faculty, startups and industry partners who are engaged in it,” said Sean L.
+Jones, NSF assistant director of mathematical and physical sciences. “These
+two new institutes are tapping into challenging fields that have the potential
+to develop the next generation of tools that will establish the United States
+at the forefront of quantum innovation.”
+
+## Related News
+
+May 21, 2021 | Duke Government Relations
+
+### On the Hill: Chris Monroe Briefs Congress on Quantum Computing’s Role in
+Nation’s Scientific Computing Enterprise
+
+August 20, 2020
+
+### Chris Monroe: Realizing Ion-Trap Quantum Computers to Solve Unsolvable
+Problems
+
+February 11, 2016
+
+### Building the World’s First Quantum Computer
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

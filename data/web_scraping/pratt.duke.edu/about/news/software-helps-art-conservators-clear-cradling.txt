@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Software Helps Art Conservators Clear the Cradling
+
+September 8, 2015 | By Emily Kowalski, North Carolina Museum of Art
+
+North Carolina Museum of Art partners with Duke University to develop an art
+conservation tool that helps analyze paintings using x-ray images
+
+The North Carolina Museum of Art (NCMA) has collaborated with Duke University
+and the Free University of Brussels’ Department of Electronics and Informatics
+to develop an innovative art conservation tool. The software program, called
+Platypus, is a Photoshop plug-in tool that uses mathematical algorithms to
+allow art conservators to better analyze paintings using X-ray images.
+
+**The Art Problem: Cradle Patterns in X-Ray Images**
+
+X-ray radiography is a standard technique widely used by art conservators, art
+historians, and curators to discover information about the manufacturing
+process and the condition of a painting. However, cradling—wooden slats
+attached to the back of many old paintings executed on wooden panels—creates
+lattice patterns that appear as grids or a series of stripes on an X-ray image
+(pictured left). These patterns can obscure the image and distract art
+conservators from reading the image and analyzing paint layers.
+
+“Cradle patterns in X-ray images has been an ages-old problem for conservators
+studying collections of Old Master paintings, and until Platypus, required
+many hours of tedious manipulation of the X-ray image in Photoshop or various
+other techniques, some of which could be damaging to the painting,” says
+William Brown, chief conservator at the NCMA. “We have been fortunate to work
+with world leaders in the fields of time-frequency analysis, informatics, and
+image processing to come up with a practical solution to a difficult problem.”
+
+The cradle pattern problem appeared while Rujie Yin, research assistant in
+Duke University’s Mathematics Department, was using X-ray images to research a
+14th-century altarpiece by Francescuccio Ghissi for an upcoming exhibition at
+the NCMA. Yin, attempting to study crack patterns in the altarpiece for an
+image-processing component of the exhibition, was frustrated at the
+distracting cradling and decided to use mathematical algorithms to solve the
+problem.
+
+**The Math Solution: Image Processing Algorithms—and Collaborations**
+
+Museum conservators and Duke University mathematicians worked together to
+develop the tool. Noelle Ocon, NCMA conservator of paintings, identified
+objectives of the project based on art conservators’ challenges with X-ray
+images. Yin and Duke University professors Ingrid Daubechies (Mathematics
+Department and Electrical and Computer Engineering Department) and David
+Dunson (Statistics Department) developed an algorithm that was successful in
+removing the cradle pattern from the X-ray image. When comparing the algorithm
+to the time-consuming technique of manually altering the image in Photoshop,
+it was discovered that the algorithm was not only quicker and more effective,
+but also much easier for art conservators to use.
+
+Describing the algorithm, Daubechies explains, “The algorithm consists of a
+three-stage procedure. First, the cradled regions are located automatically.
+The second step consists of separating the X-ray image into a textural and
+image component. In the last step, the algorithm learns to distinguish between
+the texture caused by the wooden cradle and the texture belonging to the
+original painted wooden panel.”
+
+Next, Bruno Cornelis, postdoctoral fellow in Duke University’s Mathematics
+Department; Gabor Fodor, research assistant in the Free University of
+Brussels’ Department of Electronics and Informatics; and others worked on
+coding and the user interface. The algorithms and coding were then converted
+into a conservator-friendly Photoshop plug-in tool that works effectively and
+quickly to remove the cradle pattern (pictured right).
+
+The project was funded by the Samuel H. Kress Foundation. Says Brown, “We are
+extremely grateful to the Samuel H. Kress Foundation for awarding the generous
+grant that allowed us to study and solve this problem. Because of their
+support, we have developed a tool that will make a tremendous impact on art
+conservation for years to come.”
+
+The Platypus program was introduced at a workshop in August 2015 attended by
+national and international art conservators. After receiving feedback from the
+conservators, the NCMA and Duke University worked to finalize the software and
+coding, which is now available free online.
+
+**Art + Science Initiative**
+
+The collaboration between the NCMA and Duke University is part of the NCMA’s
+Art + Science Initiative, which enlists local universities to research issues
+concerning both art and science, bringing technological advances to art
+conservation, and demonstrating the importance of interdisciplinary studies.
+The Museum’s Conservation Center has partnered with Duke University on other
+conservation projects, including applying laser imaging technology to research
+materials used in paintings (designed by Warren S. Warren, director of Duke
+University’s Center for Molecular and Biomolecular Imaging).
+
+The project is also part of the Information Initiative at Duke (iiD), an
+interdisciplinary program designed to increase “big data” (information
+characterized by tremendous volume, variety, and rapid change) computational
+research and expand opportunities for student engagement in this rapidly
+growing field.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

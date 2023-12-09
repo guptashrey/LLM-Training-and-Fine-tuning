@@ -1,0 +1,255 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Artificial Soft Surface Autonomously Mimics Shapes From Nature
+
+September 21, 2022 | By Ken Kingery
+
+Soft surface adapts and reshapes itself to match a wide array of objects and
+motions
+
+Engineers at Duke University have developed a scalable soft surface that can
+continuously reshape itself to mimic objects in nature. Relying on
+electromagnetic actuation, mechanical modeling and machine learning to form
+new configurations, the surface can even learn to adapt to hindrances such as
+broken elements, unexpected constraints or changing environments.
+
+The research appears online September 21 in the journal Nature.
+
+“We’re motivated by the idea of controlling material properties or mechanical
+behaviors of an engineered object on the fly, which could be useful for
+applications like soft robotics, augmented reality, biomimetic materials, and
+subject-specific wearables,” said Xiaoyue Ni, assistant professor of
+mechanical engineering and materials science at Duke. “We are focusing on
+engineering the shape of matter that hasn’t been predetermined, which is a
+pretty tall task to achieve, especially for soft materials.”
+
+Previous work on morphing matter, according to Ni, hasn’t typically been
+programmable; it’s been programmed instead. That is, soft surfaces equipped
+with designed active elements can shift their shapes between few shapes, like
+a piece of origami, in response to light or heat or other stimuli triggers. In
+contrast, Ni and her laboratory wanted to create something much more
+controllable that could morph and reconfigure as often as it likes into any
+physically possible shapes.
+
+To create such a surface, the researchers started by laying out a grid of
+snake-like beams made of a thin layer of gold encapsulated by a thin polymer
+layer. The individual beams are just eight micrometers thick—about the
+thickness of a cotton fiber—and less than a millimeter wide. The lightness of
+the beams allows magnetic forces to easily and rapidly deform them.
+
+> “We’re motivated by the idea of controlling material properties or
+> mechanical behaviors of an engineered object on the fly, which could be
+> useful for applications like soft robotics, augmented reality, biomimetic
+> materials, and subject-specific wearables.”
+>
+> Xiaoyue Ni
+
+To generate local forces, the surface is put into a low-level static magnetic
+field. Voltage changes create a complex but easily predictable electrical
+current along the golden grid, driving the out-of-plane displacement of the
+grid.
+
+“This is the first artificial soft surface that is fast enough to accurately
+mimic a continuous shape-shifting process in nature,” Ni said. “One key
+advance is the structural design that enables an unusual linear relationship
+between the electrical inputs and the resulting shape, which makes it easy to
+figure out how to apply voltages to achieve a wide variety of target shapes.”
+
+The new “metasurface” shows off a wide array of morphing and mimicking skills.
+It creates bulges that rise and move around the surface like a cat trying to
+find its way out from under a blanket, oscillating wave patterns, and a
+convincing replication of a liquid drop dripping and plopping onto a solid
+surface. And it produces these shapes and behaviors at any speed or
+acceleration desired, meaning it can reimagine that trapped cat or dripped
+droplet in slow motion or fast forward.
+
+> “It currently takes about two minutes to achieve a new shape, but we hope to
+> eventually improve the feedback system and learning algorithm to the point
+> that it’s nearly real-time.”
+>
+> xiaoyue ni
+
+With cameras monitoring the morphing surface, the contortionist surface can
+also learn to recreate shapes and patterns on its own. By slowly adjusting the
+applied voltages, a learning algorithm takes in 3D imaging feedback and
+figures out what effects the different inputs have on the metasurface’s shape.
+
+In the paper, a human palm spotted with 16 black dots slowly shifts under a
+camera, and the surface mirrors the movements perfectly.
+
+“The control doesn’t have to know anything about the physics of the materials,
+it just takes small steps and watches to see if it’s getting closer to the
+target or not,” Ni said. “It currently takes about two minutes to achieve a
+new shape, but we hope to eventually improve the feedback system and learning
+algorithm to the point that it’s nearly real-time.”
+
+Because the surface teaches itself to move through trial and error, it can
+also adapt to damage, unexpected physical constraints or environmental change.
+In one experiment, it quickly learns to mimic a bulging mound despite one of
+its beams being cut. In another, it manages to mimic a similar shape despite a
+weight being attached to one of the grid’s nodes.
+
+> “Along with the pursuit of creating programmable and robotic materials, we
+> envision future materials will be able to alter themselves to serve
+> functions dynamically and interactively. Such materials can sense and
+> perceive requirements or information from the users, and transform and adapt
+> according to the real-time needs of their specific performance, just like
+> the microbots in Big Hero 6."
+>
+> xiaoyue ni
+
+There are many immediate opportunities to extend the scale and configuration
+of the soft surface. For example, an array of surfaces can scale the size up
+to that of a touching screen. Or fabrication techniques with higher precision
+can scale the size down to one millimeter, making it more suitable for
+biomedical applications.
+
+Moving forward, Ni wants to create robotic metasurfaces with integrated shape-
+sensing functions to perform real-time shape mimicking of complex, dynamic
+surfaces in nature, such as the water ripples, fish fins or the human face.
+The lab may also look into embedding more components into the prototype, such
+as on-board power sources, sensors, computational resources or wireless
+communication capabilities.
+
+“Along with the pursuit of creating programmable and robotic materials, we
+envision future materials will be able to alter themselves to serve functions
+dynamically and interactively,” said Ni. “Such materials can sense and
+perceive requirements or information from the users, and transform and adapt
+according to the real-time needs of their specific performance, just like the
+microbots in Big Hero 6. The soft surface may find applications as a
+teleoperated robot, dynamic 3D display, camouflage, exoskeleton or other
+smart, functional surfaces that can work in harsh, unpredictable
+environments.”
+
+The research was supported by the National Science Foundation (CMMI 16-35443).
+This work was performed in part at the Duke University Shared Materials
+Instrumentation Facility (SMIF), a member of the North Carolina Research
+Triangle Nanotechnology Network (RTNN), which is supported by the National
+Science Foundation (ECCS-2025064).
+
+CITATION: “A Dynamically Reprogrammable Metasurface with Self-Evolving Shape
+Morphing,” Yun Bai, Heling Wang, Yeguang Xue, Yuxin Pan, Jin-Tae Kim, Xinchen
+Ni, Tzu-Li Liu, Yiyuan Yang, Mengdi Han, Yonggang Huang, John A. Rogers, and
+Xiaoyue Ni. Nature, Sept. 21, 2022. DOI: 10.1038/s41586-022-05061-w
+
+## Related News
+
+August 18, 2020
+
+### Xiaoyue Ni: Designing Smart Materials and Wearable Technologies to Improve
+Health
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,387 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Of Potholes and Budget Holes
+
+September 3, 2020
+
+A conversation with Henry Petroski on the current state of disrepair of
+America’s roads and bridges, why fixing them may require unpopular politics,
+and what the future might hold for their improvement
+
+## Listen
+
+## Transcript
+
+[music bells intro]
+
+Host: Hello, and welcome to Rate of Change, a podcast from Duke Engineering,
+dedicated to the ingenious ways that engineers are solving society's toughest
+problems. I’m your host for today’s episode, Ken Kingery.
+
+[music interlude, traffic noises]
+
+Host: Growing up in the Midwest, people always said that we endured only two
+seasons throughout the year – winter and construction. And for some reason,
+the only thing people liked to complain about more than the reemergence of the
+orange barrels from hibernation, was the constant barrage of potholes that
+kept spilling their coffee on their morning commute. It always seemed to me
+that if you hated the latter, you should be celebrating the former. But
+everybody seems to hate road construction anyway. Maybe that’s why another
+group of people like to make promises about it come election time…
+
+Chuck Schumer: We Senate Democrats, are unveiling a blueprint to rebuild
+America’s infrastructure
+
+Bernie Sanders: Whether you’re in the state of Vermont or the state of
+California, you understand that our infrastructure is crumbling
+
+Newscaster: Heading into the elections eight weeks from today, expect to hear
+a lot more about infrastructure
+
+Barak Obama: Ask any CEO where they’d like to hire. A country with
+deteriorating roads and bridges, or one with high-speed rail and internet.
+
+Donald Trump: Tonight I am calling on Congress to produce a bill that
+generates at least 1.5 trillion dollars for the new infrastructure investment
+that our country so desperately needs.
+
+Host: And yet almost never keep talking about it after the ballots are cast.
+That’s all going to change today. We’re going to have a nice long chat about
+the current state of disrepair of America’s infrastructure, and what can be
+done to help turn the tide. And to help us make sense of it all, we’ll be
+talking to one of the nation’s leading authors on what is probably the most
+visible sector of infrastructure—roads and bridges.
+
+Henry Petroski: Hello, Ken. Are you there?
+
+Host: Yeah. I can hear you.
+
+Henry Petroski: Okay. I'm Henry Petroski. I'm a professor of civil engineering
+and history at Duke University. 01:54 I think one of the things that led me to
+the study of bridges and then onto infrastructure was becoming an engineer. I
+studied engineering in school and went on to graduate school, and then began
+teaching engineering. And after a few years, I began to wonder if I really
+understood engineering. And I decided, well, I'd try to write a book
+explaining engineering really to myself and hopefully to some readers who
+might have the same question. In the process of writing that book…
+
+Host: Henry Petroski didn’t end up writing just that one book – he’s written
+almost 20 in addition to countless articles for publications such as the New
+York Times, Slate and American Scientist. And he’s zeroed in on a fascinating
+theme – that failure is an integral part of the engineering design process.
+Through that lens, he’s explored the evolution of small things like pencils,
+paper clips and toothpicks, as well as large things like dams and bridges.  
+Henry Petroski: And I gradually got into talking about real engineering on the
+large scale. And in particular, I began to look very closely at bridges
+because there are very dramatic failures, and there's a lot been written about
+them. When they fail, they were really closely inspected, the reasons were
+sought, and so forth.
+
+News Clip: The Tacoma Narrows Bridge, dedicated in 1940, was the pride of the
+Northwest. Then, the third longest suspension span that became known as
+Galloping Gertie. Four months after it was opened, those winds sent the bridge
+into a rhythmic dance of death. It literally shook itself to pieces.
+
+News Clip: This is the scene of the tragedy outside of Minneapolis tonight. An
+eight-lane highway that carries over 100,000 cars a day collapsed into the
+Mississippi River at the height of rush hour.
+
+Host: Having spent years learning from some of the most catastrophic failures
+in American history, Henry Petroski turned his attention in 2016 to an
+expansion of that work.
+
+Henry Petroski: Well, I guess I see roads as a natural extension of bridges. A
+bridge is not much if it doesn't connect roads. They're just this little
+component in the large infrastructure of roads. And they're big when you get
+close up to them. But if zoom out and look at the big picture from 30,000
+feet, the bridges look pretty insignificant, so roads began to look like
+perhaps almost the more important thing to look at.
+
+Host: And so today, we’re going to take a deep dive into America’s highways
+and byways, and what their maintenance – or lack thereof – can tell us about
+our country’s infrastructure in general. Spoiler alert…it’s complicated.
+
+[music interlude]
+
+Henry Petroski: There is a constant deterioration of roads and bridges and
+other structures. In the instance of the infrastructure of roads and bridges,
+there was a great post war boom after World War II, a lot of new roads, which
+necessitated a lot of new bridges. So those bridges built in late '50s and
+'60s and beyond, those are approaching their lifetime. What we're seeing now,
+around now, is a lot of bridges, a lot of roads are approaching, have passed
+their lifetime, their so-called design lifetimes. Not only that, but these
+bridges become obsolete by today's standards. And that means that it might not
+have any breakdown lanes, there are no shoulders while you go across the
+bridge. For a long bridge, that could be very frustrating, and it can back up
+traffic if somebody breaks down in the middle of the bridge. And as a result,
+decisions have to be made. Are we going to build a 50 year bridge or a 100
+year bridge?
+
+Henry Petroski: The lifetime of a bridge is determined by several factors. One
+is when it's designed. Whoever's paying for the bridge says, "Okay. We need a
+bridge at this location to connect this road to that road. We want it to last
+a certain amount of time." It should be obvious, I think, that if you want it
+to last longer, it's going to cost more.
+
+Host: And that is where we get to the real heart of the matter. Money.
+Everybody wants nice things, but nobody ever seems to want to actually have to
+pay for them. And even when people do decide it’s time to pony up, where that
+money comes from is not as simple as one might think.
+
+Henry Petroski: There is something called a Highway Trust Fund. This is, let's
+say, controlled by the Federal government. Now the Federal government plays a
+funny role in infrastructure in our country. The Constitution doesn't
+authorize the Federal government to build roads. The only way you can get a
+road built is if a state or other governmental entity that's not Federal does
+it. Now that has been a problem, and it's gotten to be over two decades now
+that the Federal Highway Trust Fund has been running a big deficit. It just
+simply, there isn't enough money being put into it by the taxes that drivers
+pay for gasoline at the pump.1
+
+Host: Professor Petroski explains that there are several reasons for this
+shortage. For one, people are driving more fuel efficient vehicles, and even
+some vehicles that don’t use gasoline at all. And less gas being pumped means
+less tax being collected. And then there’s inflation. Even though 100 dollars
+in the 1990s is the equivalent of $200 today, the Federal gas tax hasn’t
+changed a red penny since 1993. That basically means that the gas tax rate has
+been cut in half over the past 30 years. So why hasn’t it changed?
+
+Henry Petroski: It's unpopular to raise taxes, so if you read the papers, the
+newspaper stories about what are they doing in Washington about infrastructure
+funding, you read often that, well, they're probably not going to do anything
+this year because this is an election. And that's a standard excuse for
+inactivity. The states are in the same predicament. They have a certain tax on
+gasoline in their jurisdiction, but they're reluctant to raise it because it's
+an unpopular thing to do. It’s unpopular to raise taxes. But this is going to
+have to change.
+
+Host: That is, of course, easier said than done. When President Trump first
+took office, he proposed a multi-trillion dollar investment in America’s
+infrastructure.
+
+Stephen Colbert: It’s all we’ve been talking about this week, right?
+Infrastructure! You know, fixing our old bridges then jumping off them. You
+remember that during the campaign, Donald Trump promised to spend a trillion
+dollars, that’s trillion with an “n” on the end. A trillion dollars for
+infrastructure. But now he’s changed that to 200 billion. Which, of course, is
+20 percent of his campaign promise…
+
+Host: That never materialized. And by 2020, the proposal had shrunk by quite a
+bit to simply maintaining the status quo. So what are the proposals being
+floated by the current candidates? Or more importantly, do these proposals
+even matter?
+
+Henry Petroski: No, because I believe they're probably overly optimistic. At
+this point, they're looking for votes. They say they're trying to solve
+problems, but what they're really doing is looking for votes. So what they say
+and what their plans say, I always have to take with a grain of salt.
+
+Host: Fair enough. So if politicians are reluctant to raise taxes, what’s the
+solution here?
+
+Henry Petroski: Yeah, I'd say that the key idea is, how do we get money from
+basically the users of the infrastructure, which are typically the drivers of
+cars, trucks, how do we get money from those people? And that's considered
+fair because they're using it. And by using it, they're causing it to
+deteriorate, especially the heavier trucks. How do we get money from them to
+the people, the engineers, the planners, who are responsible for making new
+roads, repairing old roads, maintaining old roads, and of course, the bridges
+that are part of those roads?2 I think that's the key question. And if you
+listen to the news these days, that is behind a lot of the talk about
+infrastructure.
+
+Henry Petroski: And there have been signs for probably 5, to 10, or more years
+that a new model is going to come into effect. And it's not going to be far
+into the future. And the new model will do it differently. It won't charge a
+tax on how many gallons of gasoline you buy, or a driver buys, it'll charge a
+tax on how many miles a driver uses the road. In other words, how far a
+particular car, it'll be tied to a particular car, how many miles per year
+will that car drive on roads in a certain jurisdiction? And there will be a
+fee, you can call it a tax or a fee, based on that. Now there's a lot of
+opposition to that because of privacy issues, so forth. But the system
+actually has been tried and has worked successfully in a state like Oregon.
+
+Host: Oregon, by the way, has instituted a voluntary system where residents
+can pay 1.8 cents per mile driven in the state, which is tracked by a GPS
+receiver that records only distance, not locations, and get a credit for the
+fuel tax they pay at the pump.
+
+Henry Petroski: And other states are beginning to look at this model also. And
+even the federal government is making grants to states and other entities to
+carry out research and experiments on how this might work for them.
+
+[music interlude]
+
+Host: For some reason, at least to me, paying by the mile to use a road seems
+like it should be called a fee or a toll rather than a tax. But that’s sort of
+a tomato tom-ah-toe situation. And in any case, having to pay tolls for roads
+and bridges is nothing new. The Verrazzano-Narrows Bridge in New York City can
+cost $19 to cross. Virginia’s Chesapeake Bay Bridge-Tunnel costs $18. Even
+though it costs billions of dollars to design and build these incredible
+structures, with one-way tolls topping out near $20, there’s clearly the
+potential to earn back the investment…or even to make a buck or two along the
+way.3 That’s why there’s sometimes interest from the private sector in getting
+involved in America’s infrastructure.
+
+Henry Petroski: This is done fairly frequently now. It's not transparent that
+it's being done. When you're driving down a road, you really don't know
+whether it's public or private in most cases. Even parking, if you go to a
+parking garage, who owns that? Is that the city that it's located in? Or is it
+some investment group that is responsible for maybe building and maintaining
+it? There are all sorts of variations. But it is a potentially good model. But
+it's had a lot of abuse in this country.
+
+Henry Petroski: There have also been examples where a state has granted a
+concession for let's say a throughway or an expressway that's already in
+existence. And the private entity will take responsibility for maintaining it,
+operating it, collecting the tolls, and so forth. Well, if they raise tolls
+too high, and there's always a temptation for them to do that because their
+investors want to see a high return, drivers will stop using that toll road or
+find alternate roads. And then the revenue will go down, and it's just a
+descent into bankruptcy. And then the state is left with holding the bag. And
+if the private entity has not really lived up to its maintenance obligations,
+the state will then take on not only a road that isn't paying for itself and
+its maintenance, but also is deteriorating and will require a lot of money to
+keep in shape. So there are pluses and minuses. Most of the pluses seem to be
+short-term. Most of the minuses seem to be longer term.
+
+Henry Petroski: So these issues are complicated. They're time consuming. There
+are a lot of decisions to be made at each step along the way. They involve a
+certain amount of luck, a certain amount of thoughtfulness, a certain amount
+of inventiveness to reduce the cost as much as possible. But eventually, they
+do get done because they are necessary, as we know, because of the nature of
+infrastructure.
+
+[music interlude]
+
+Host: That’s our show for today, thanks for tuning in. We hope you enjoyed it.
+If you learned something, share this podcast with others, and consider
+subscribing to our feed. And until next time, safe travels.
+
+### Footnotes:
+
+  1. The Highway Trust Fund is the source of grant funds that the Federal government gives to the states. And while the Constitution does not authorize the Federal government to own roads and bridges, through the trust fund, the Federal government may be said to pay for building them through grants. It is the states, cities, etc., who own the roads and bridges in their jurisdiction.
+  2. Federal funds go primarily to state departments of transportation for construction projects. So, construction companies are more the direct beneficiaries of the funds than engineers and planners.
+  3. The toll amounts cited are what is collected in only one direction. It is assumed that a vehicle paying the toll going one way across a bridge will also use the same bridge (or another tolled one in the same jurisdiction) on a return trip or commute, and so the toll amounts are for a round trip, effectively making the “real” one-way toll half of what is collected.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

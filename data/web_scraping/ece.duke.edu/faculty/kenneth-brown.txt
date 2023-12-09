@@ -1,0 +1,579 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Kenneth R Brown
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Michael J. Fitzpatrick Distinguished Professor of Engineering
+
+Prof. Brown's research interest is the control of quantum systems for both
+understanding the natural world and developing new technologies. His current
+research areas are the development of robust quantum computers and the study
+of molecular properties at cold and ultracold temperatures.
+
+## Appointments and Affiliations
+
+  * Michael J. Fitzpatrick Distinguished Professor of Engineering
+  * Professor in the Department of Electrical and Computer Engineering
+  * Professor of Physics
+  * Professor of Chemistry
+
+## Contact Information
+
+  * **Office Location:** 701 W Main St, Suite 400, Durham, NC 27701
+  * **Office Phone:** (919) 660-1376
+  * **Email Address:** kenneth.r.brown@duke.edu
+  * **Websites:**
+    * Brown Lab
+
+## Education
+
+  * B.S. University of Puget Sound, 1998
+  * Ph.D. University of California - Berkeley, 2003
+
+## Research Interests
+
+Quantum error correction, quantum control, quantum computer architecture, ion
+trap quantum computing, and the spectroscopy of sympathetically cooled
+molecular ions
+
+## Awards, Honors, and Distinctions
+
+  * Stansell Family Distinguished Research Award. Pratt School of Engineering.
+    2020
+  * Fellow. American Physical Society. 2018
+  * Experienced Research Fellow. Alexander von Humboldt Foundation. 2015
+  * Kavli Fellow. Kavli Foundation and National Academy of Science. 2013
+
+## Courses Taught
+
+  * ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+  * ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+  * ECE 391: Projects in Electrical and Computer Engineering
+  * ECE 420: Introduction to Quantum Engineering
+  * ECE 493: Projects in Electrical and Computer Engineering
+  * ECE 494: Projects in Electrical and Computer Engineering
+  * ECE 520: Graduate Introduction to Quantum Engineering
+  * ECE 621: Quantum Error Correction
+  * ECE 891: Internship
+  * ECE 899: Special Readings in Electrical Engineering
+  * EGR 393: Research Projects in Engineering
+  * HOUSECS 59: House Course
+  * PHYSICS 141L: General Physics I
+  * PHYSICS 493: Research Independent Study
+  * PHYSICS 495: Thesis Independent Study
+  * PHYSICS 628: Quantum Error Correction
+  * PHYSICS 995: Graduate Training Internship
+
+## In the News
+
+  * University Awards 24 New Distinguished Professorships (May 18, 2022)
+  * Quantum Computers Can Be Better Than the Sum of Their Parts (Oct 15, 2021
+    | Pratt School of Engineering)
+  * Duke Joins $25M NSF Quantum Leap Challenge Institute for Robust Quantum
+    Simulation (Sep 7, 2021 | Pratt School of Engineering)
+  * Duke Is Building a World-Class Team for the Quantum Computing Race (Nov
+    12, 2020)
+  * Quick Course: Summer Computing at Pratt Opens New Doors for Students (Jun
+    26, 2019 | Pratt School of Engineering)
+  * Duke to Lead $15 Million Program to Create First Practical Quantum
+    Computer (Aug 7, 2018 | Pratt School of Engineering)
+  * Spectator Qubits Seek to Improve Control of Four Quantum Computing Systems
+    (Apr 16, 2018 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  * Debroy, Dripto M., Muyuan Li, Michael Newman, and Kenneth R. Brown.
+    “Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-
+    Check Stabilizer Codes.” Physical Review Letters 121, no. 25 (December
+    2018): 250502. https://doi.org/10.1103/physrevlett.121.250502.
+  * Calvin, Aaron T., and Kenneth R. Brown. “Spectroscopy of Molecular Ions in
+    Coulomb Crystals.” The Journal of Physical Chemistry Letters 9, no. 19
+    (October 2018): 5797–5804. https://doi.org/10.1021/acs.jpclett.8b01387.
+  * Brown, Natalie C., and Kenneth R. Brown. “Comparing Zeeman qubits to
+    hyperfine qubits in the context of the surface code: 174Yb+ and 171Yb+.”
+    Phys. Rev. A 97 (May 2, 2018): 052301–052301.
+    https://doi.org/10.1103/PhysRevA.97.052301.
+  * Trout, C. J., M. Li, M. Gutiérrez, Y. Wu, S. T. Wang, L. Duan, and K. R.
+    Brown. “Simulating the performance of a distance-3 surface code in a
+    linear ion trap.” New Journal of Physics 20, no. 4 (April 1, 2018).
+    https://doi.org/10.1088/1367-2630/aab341.
+  * Calvin, Aaron T., Smitha Janardan, John Condoluci, Réne Rugango, Eric
+    Pretzsch, Gang Shu, and Kenneth R. Brown. “Rovibronic Spectroscopy of
+    Sympathetically Cooled 40CaH+.” The Journal of Physical Chemistry A 122,
+    no. 12 (March 9, 2018): 3177–81. https://doi.org/10.1021/acs.jpca.7b12823.
+  * Leung, Pak Hong, Kevin A. Landsman, Caroline Figgatt, Norbert M. Linke,
+    Christopher Monroe, and Kenneth R. Brown. “Robust 2-Qubit Gates in a
+    Linear Ion Crystal Using a Frequency-Modulated Driving Force.” Physical
+    Review Letters 120, no. 2 (January 2018): 020501.
+    https://doi.org/10.1103/physrevlett.120.020501.
+  * Condoluci, J., S. Janardan, A. T. Calvin, R. Rugango, G. Shu, C. D.
+    Sherrill, and K. R. Brown. “Reassigning the CaH+ 11Σ → 21Σ vibronic
+    transition with CaD.” The Journal of Chemical Physics 147, no. 21
+    (December 2017): 214309. https://doi.org/10.1063/1.5016556.
+  * Linke, Norbert M., Mauricio Gutierrez, Kevin A. Landsman, Caroline
+    Figgatt, Shantanu Debnath, Kenneth R. Brown, and Christopher Monroe.
+    “Fault-tolerant quantum error detection.” Science Advances 3, no. 10
+    (October 2017): e1701074. https://doi.org/10.1126/sciadv.1701074.
+  * Li, M., M. Gutiérrez, S. E. David, A. Hernandez, and K. R. Brown. “Fault
+    tolerance with bare ancillary qubits for a [[7,1,3]] code.” Physical
+    Review A 96, no. 3 (September 28, 2017).
+    https://doi.org/10.1103/PhysRevA.96.032341.
+  * Rugango, René, Aaron T. Calvin, Smitha Janardan, Gang Shu, and Kenneth R.
+    Brown. “Vibronic Spectroscopy of Sympathetically Cooled CaH.” Chemphyschem
+    : A European Journal of Chemical Physics and Physical Chemistry 17, no. 22
+    (November 2016): 3764–68. https://doi.org/10.1002/cphc.201600645.
+  * Brown, K. R., J. Kim, and C. Monroe. “Co-designing a scalable quantum
+    computer with trapped atomic ions.” Npj Quantum Information 2, no. 1
+    (January 1, 2016). https://doi.org/10.1038/npjqi.2016.34.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

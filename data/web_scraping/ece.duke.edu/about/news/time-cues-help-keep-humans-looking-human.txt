@@ -1,0 +1,181 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Time Cues Help Keep Humans Looking Human
+
+April 22, 2016 | By Ken Kingery
+
+Simple genetic circuit controls pattern formation and scale in bacterial
+colonies
+
+Researchers believe that genetically modified bacteria can help explain how a
+developing animal keeps all of its parts and organs in the same general
+proportions as every other member of its species.
+
+In 1952, Alan Turing mathematically demonstrated how the nearly endless
+variety of patterns seen in nature -- spots on cheetahs or the distinctive
+coats of leopards, for example -- could be explained by chemicals spreading
+and interacting by simple rules. Many scientists, however, remained
+unconvinced, and believed there must be more to the story.
+
+Now, Duke University researchers have discovered another way that patterns can
+form -- through the use of a ticking clock. By combining two chemical signals
+with a few variables, timing cues emerge. And these timing cues can not only
+create patterns -- they can also make sure these patterns have roughly the
+same proportions from one colony to the next.
+
+In a study published on April 21 in the journal Cell, Lingchong You, the Paul
+Ruffin Scarborough Associate Professor of Engineering at Duke University,
+introduced a new genetic circuit into a population of bacteria. You programmed
+bacteria to produce a protein called T7RNAP (tagged fluorescent blue), which
+activates its own expression in a positive feedback loop.
+
+As the bacterial colony grows and produces more T7RNAP, it also produces a
+chemical that triggers the production of a protein called T7 lysozyme (tagged
+fluorescent red), which inhibits the production of T7RNAP. Wherever the two
+molecules interact, purple patterns appear in the colony.
+
+Because bacteria toward the outer edge of the colony are more active than
+those in the interior, this system causes a purple ring to appear like a
+bullseye. You and his colleagues discovered that they could control its
+thickness and how long it took for the bullseye to appear by varying the size
+of the growing environment and amount of nutrients provided.
+
+These variables act as a time cue for the pattern’s development. A bigger
+growth environment or more nutrients causes a delay in the formation of the
+ring. You speculates that similar timing circuits can operate in other
+organisms, including animals.
+
+“In our experiment, we get a spatial cue from an unsuspected source. We sort
+of get it for free from the timing of the genetic circuit,” said You. “These
+two diffusible molecules aren’t dictating at what positions cells are going to
+stop or start producing proteins. Instead, they’re telling the cells when to
+start or stop producing proteins. That’s enough to both produce a pattern and
+to control its scaling, and it’s a fundamentally new mechanism.”
+
+This work was supported by the Office of Naval Research (N00014-12-1-0631),
+the National Science Foundation, the Army Research Office (W911NF-14-1-0490),
+the National Institutes of Health (1R01-GM098642, R01-GM096190), the Swiss
+National Science Foundation (P300P2_154583), the David and Lucile Packard
+Foundation and the Department of Homeland Security.
+
+###
+
+“Collective Space-Sensing Coordinates: Pattern Scaling in Engineered
+Bacteria.” Yangxiaolu Cao, Marc D. Ryser, Stephen Payne, Bochong Li,
+Christopher V. Rao, and Lingchong You. Cell, 2016. DOI:
+10.1016/j.cell.2016.03.006
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

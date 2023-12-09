@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Undergraduate » Undergraduate Research » Pratt Research Fellows
+
+# Katie VanderKam: Improving the Efficiency of Wind Farms
+
+  * **Major:** Mechanical Engineering
+  * **Advisor:** Donald B. Bliss, Associate Professor of Mechanical
+    Engineering and Materials Science
+  * **Pratt Fellows Project:** _Wind Turbine Designs to Improve Efficiency and
+    Allow Higher Turbine Density in Wind Farms_
+
+How did you get interested in engineering?
+
+I was always a math and science person, and I think engineering is a good way
+to merge those two things together. It’s kind of the best of both worlds. I
+did an engineering summer program a couple of years before coming to college
+and really enjoyed all the hands-on projects, so I definitely wanted to
+continue that. I’ve always liked building. I wrote my Common Application essay
+about Legos, so it was a pretty easy choice in that regard.
+
+What sorts of projects are you working on as a Pratt Fellow?
+
+I am working with Dr. Bliss on modeling the wake behind vertical axis wind
+turbines (VAWT). Before my project, Dr. Bliss had done a lot of research with
+wake steering in horizontal axis wind turbines, that is, designing a turbine
+to direct the wake behind it such that it would not interfere with the wind
+going through other turbines. This would result in more efficient arrays of
+turbines. He had not yet done this with VAWTs, but studying this type of
+turbine was of interest. We have been doing a lot of computations about how
+the wind is passing through this turbine, where it’s going and how we can
+calculate that and figure out how it is operating.
+
+Normally when you say “windmill” or “wind turbine,” people are going to
+picture the horizontal axis ones that spin parallel to the ground. Vertical
+axis ones spin perpendicular to the ground. There is a lot of research about
+horizontal axis wind turbines, but not so much for vertical axis wind
+turbines. My project works on developing computational models to track the
+wake as it passes through a VAWT in a way that is hopefully faster or less
+computationally expensive than running a full computational fluid dynamics
+(CFD) model.
+
+Why did you want to work on this project?
+
+When I applied to the Pratt Research Fellows program, I went through the list
+of available projects and ranked the ones in which I was most interested. This
+one was my first choice. Dr. Bliss said he was looking for someone who was
+good at spatially visualizing how things were working together, so you could
+picture formations in your head. I am also a dancer and I have choreographed a
+bunch. So, I was used to picturing formations, such as people moving around
+together on a stage. I thought that is kind of how we would picture vortices
+moving around each other behind a wind turbine. I saw that connection and
+that’s why this project was interesting to me.
+
+What do you think of the Pratt Research Fellows program?
+
+I think it is a really good program for people who want to get deeply involved
+with a research project. Since it goes on for three semesters and a summer,
+you can really dedicate a lot of time and get involved in the nitty-gritty of
+your project.
+
+What’s it like working with the faculty?
+
+I’ve really enjoyed it. They can be great advisors for a lot of different
+things—earning their trust so they ask what you think, and you can come to
+them about classes you are taking from them. Dr. Bliss was a great help, as I
+was applying to PhD programs. It’s a great way to get closer to faculty and to
+hear about what they’re interested in.
+
+[ _Note: Since her interview, Katie has been accepted into a PhD program at
+Princeton University where she plans to continue her research in
+aerodynamics._ ]
+
+Pratt Research Fellows
+
+Duke Engineering's signature undergraduate experience »
+
+## Undergraduate Student News
+
+March 27, 2023
+
+### Duke Engineering Students Flex Their Leadership Muscles
+
+March 20, 2023 | Bass Connections
+
+### Taking the Bull City by the Horns
+
+February 22, 2023 | The Chronicle
+
+### Sydney Hunt of Duke ECE Among Duke Young Trustee Finalists
+
+View all undergrad news
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

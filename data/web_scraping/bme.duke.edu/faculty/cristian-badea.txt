@@ -1,0 +1,479 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Cristian Tudorel Badea
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Professor in Radiology
+
+  
+
+  * Our lab's research focus lies primarily in developing novel quantitative
+    imaging systems, reconstruction algorithms and analysis methods. My major
+    expertise is in preclinical CT.
+  * Currently, we are particularly interested in developing novel strategies
+    for spectral CT imaging using nanoparticle-based contrast agents for
+    theranostics (i.e. therapy and diagnostics).
+  * We are also engaged in developing new approaches for multidimensional CT
+    image reconstruction suitable to address difficult undersampling cases in
+    cardiac and spectral CT (dual energy and photon counting) using compressed
+    sensing and/or deep learning.
+
+  * We are involved in co-clinical cancer trials and I serve as the Principal
+    Investigator on the U24 Duke Preclinical Research Resources for
+    Quantitative Imaging Biomarkers part of the NCI Co-Clinical Imaging
+    Research Resources Program network (CIRP).
+
+  
+  
+
+## Appointments and Affiliations
+
+  * Professor in Radiology
+  * Professor in the Department of Biomedical Engineering
+  * Member of the Duke Cancer Institute
+
+## Contact Information
+
+  * **Office Location:** Bryan Research Building, Room 161F, Durham, NC 27710
+  * **Office Phone:** (919) 684-7509
+  * **Email Address:** cristian.badea@duke.edu
+  * **Websites:**
+    * Google Scholar
+    * Quantitative Imaging and Analysis Lab
+    * The Duke Preclinical Research Resources for Quantitative Imaging Biomarkers
+    * Webpage
+
+## Education
+
+  * Ph.D. University of Patras (Greece), 2001
+
+## Research Interests
+
+Spectral CT, Cardiac CT, Image Reconstruction, Deep Learning, Nanoparticles,
+Theranostics, Co-Clinical cancer trials, Small Animal Imaging
+
+## In the News
+
+  * Spectral CT opens doors to new clinical applications (Jul 14, 2021 |
+    https://ww…
+  * Dual Contrast Agent to Light Up Arterial Health Risks (Jul 11, 2014)
+
+## Representative Publications
+
+  * Nadkarni, Rohan, Alex Allphin, Darin P. Clark, and Cristian T. Badea.
+    “Material decomposition from photon-counting CT using a convolutional
+    neural network and energy-integrating CT training labels.” Phys Med Biol
+    67, no. 15 (July 18, 2022). https://doi.org/10.1088/1361-6560/ac7d34.
+  * Allphin, Alex J., Yvonne M. Mowery, Kyle J. Lafata, Darin P. Clark, Alex
+    M. Bassil, Rico Castillo, Diana Odhiambo, Matthew D. Holbrook, Ketan B.
+    Ghaghada, and Cristian T. Badea. “Photon Counting CT and Radiomic Analysis
+    Enables Differentiation of Tumors Based on Lymphocyte Burden.” Tomography
+    8, no. 2 (March 10, 2022): 740–53.
+    https://doi.org/10.3390/tomography8020061.
+  * Holbrook, Matthew D., Darin P. Clark, Rutulkumar Patel, Yi Qi, Alex M.
+    Bassil, Yvonne M. Mowery, and Cristian T. Badea. “Detection of Lung
+    Nodules in Micro-CT Imaging Using Deep Learning.” Tomography 7, no. 3
+    (August 7, 2021): 358–72. https://doi.org/10.3390/tomography7030032.
+  * Clark, D. P., and C. T. Badea. “Advances in micro-CT imaging of small
+    animals.” Phys Med 88 (August 2021): 175–92.
+    https://doi.org/10.1016/j.ejmp.2021.07.005.
+  * Holbrook, M. D., D. P. Clark, and C. T. Badea. “Dual source hybrid
+    spectral micro-CT using an energy-integrating and a photon-counting
+    detector.” Phys Med Biol 65, no. 20 (October 21, 2020): 205012.
+    https://doi.org/10.1088/1361-6560/aba8b2.
+  * Holbrook, M. D., S. J. Blocker, Y. M. Mowery, A. Badea, Y. Qi, E. S. Xu,
+    D. G. Kirsch, G. A. Johnson, and C. T. Badea. “MRI-Based Deep Learning
+    Segmentation and Radiomics of Sarcoma in Mice.” Tomography 6, no. 1 (March
+    2020): 23–33. https://doi.org/10.18383/j.tom.2019.00021.
+  * Blocker, S. J., Y. M. Mowery, M. D. Holbrook, Y. Qi, D. G. Kirsch, G. A.
+    Johnson, and C. T. Badea. “Bridging the translational gap: Implementation
+    of multimodal small animal imaging strategies for tumor burden assessment
+    in a co-clinical trial.” Plos One 14, no. 4 (2019): e0207555.
+    https://doi.org/10.1371/journal.pone.0207555.
+  * Clark, Darin P., Matthew Holbrook, Chang-Lung Lee, and Cristian T. Badea.
+    “Photon-counting cine-cardiac CT in the mouse.” Plos One 14, no. 9 (2019):
+    e0218417. https://doi.org/10.1371/journal.pone.0218417.
+  * Ashton, Jeffrey R., Katherine D. Castle, Yi Qi, David G. Kirsch, Jennifer
+    L. West, and Cristian T. Badea. “Dual-Energy CT Imaging of Tumor Liposome
+    Delivery After Gold Nanoparticle-Augmented Radiation Therapy.”
+    Theranostics 8, no. 7 (2018): 1782–97. https://doi.org/10.7150/thno.22621.
+  * Clark, Darin P., Chang-Lung Lee, David G. Kirsch, and Cristian T. Badea.
+    “Spectrotemporal CT data acquisition and reconstruction at low dose.” Med
+    Phys 42, no. 11 (November 2015): 6317–36.
+    https://doi.org/10.1118/1.4931407.
+  * Ashton, Jeffrey R., Jennifer L. West, and Cristian T. Badea. “In vivo
+    small animal micro-CT using nanoparticle contrast agents.” Front Pharmacol
+    6 (2015): 256. https://doi.org/10.3389/fphar.2015.00256.
+  * Clark, D. P., and C. T. Badea. “Micro-CT of rodents: state-of-the-art and
+    future perspectives.” Phys Med 30, no. 6 (September 2014): 619–34.
+    https://doi.org/10.1016/j.ejmp.2014.05.011.
+  * Badea, C. T., and D. Panetta. “High-Resolution CT for Small-Animal Imaging
+    Research.” In Comprehensive Biomedical Physics, edited by A. Brahme, 2.
+    X-Ray and Ultrasound Imaging:221–42. Oxford: Elsevier, 2014.
+    https://doi.org/10.1016/B978-0-444-53632-7.00210-0.
+  * Lee, Chang-Lung, Hooney Min, Nicholas Befera, Darin Clark, Yi Qi, Shiva
+    Das, G Allan Johnson, Cristian T. Badea, and David G. Kirsch. “Assessing
+    cardiac injury in mice with dual energy-microCT, 4D-microCT, and
+    microSPECT imaging after partial heart irradiation.” Int J Radiat Oncol
+    Biol Phys 88, no. 3 (March 1, 2014): 686–93.
+    https://doi.org/10.1016/j.ijrobp.2013.11.238.
+  * Ashton, Jeffrey R., Darin P. Clark, Everett J. Moding, Ketan Ghaghada,
+    David G. Kirsch, Jennifer L. West, and Cristian T. Badea. “Dual-energy
+    micro-CT functional imaging of primary lung cancer in mice using gold and
+    iodine nanoparticle contrast agents: a validation study.” Plos One 9, no.
+    2 (2014): e88129. https://doi.org/10.1371/journal.pone.0088129.
+  * Ashton, Jeffrey R., Nicholas Befera, Darin Clark, Yi Qi, Lan Mao, Howard
+    A. Rockman, G Allan Johnson, and Cristian T. Badea. “Anatomical and
+    functional imaging of myocardial infarction in mice using micro-CT and
+    eXIA 160 contrast agent.” Contrast Media Mol Imaging 9, no. 2 (2014):
+    161–68. https://doi.org/10.1002/cmmi.1557.
+  * Moding, Everett J., Darin P. Clark, Yi Qi, Yifan Li, Yan Ma, Ketan
+    Ghaghada, G Allan Johnson, David G. Kirsch, and Cristian T. Badea. “Dual-
+    energy micro-computed tomography imaging of radiation-induced vascular
+    changes in primary mouse sarcomas.” Int J Radiat Oncol Biol Phys 85, no. 5
+    (April 1, 2013): 1353–59. https://doi.org/10.1016/j.ijrobp.2012.09.027.
+  * Clark, Darin P., Ketan Ghaghada, Everett J. Moding, David G. Kirsch, and
+    Cristian T. Badea. “In vivo characterization of tumor vasculature using
+    iodine and gold nanoparticles and dual energy micro-CT.” Phys Med Biol 58,
+    no. 6 (March 21, 2013): 1683–1704.
+    https://doi.org/10.1088/0031-9155/58/6/1683.
+  * Clark, Darin, Alexandra Badea, Yilin Liu, G Allan Johnson, and Cristian T.
+    Badea. “Registration-based segmentation of murine 4D cardiac micro-CT data
+    using symmetric normalization.” Phys Med Biol 57, no. 19 (October 7,
+    2012): 6125–45. https://doi.org/10.1088/0031-9155/57/19/6125.
+  * Johnston, Samuel M., G Allan Johnson, and Cristian T. Badea. “Temporal and
+    spectral imaging with micro-CT.” Med Phys 39, no. 8 (August 2012):
+    4943–58. https://doi.org/10.1118/1.4736809.
+  * Badea, C. T., X. Guo, D. Clark, S. M. Johnston, C. D. Marshall, and C. A.
+    Piantadosi. “Dual-energy micro-CT of the rodent lung.” Am J Physiol Lung
+    Cell Mol Physiol 302, no. 10 (May 15, 2012): L1088–97.
+    https://doi.org/10.1152/ajplung.00359.2011.
+  * Clark, D., G. A. Johnson, and C. T. Badea. “Denoising of 4D Cardiac Micro-
+    CT Data Using Median-Centric Bilateral Filtration.” In Proc Spie Int Soc
+    Opt Eng, Vol. 8314, 2012. https://doi.org/10.1117/12.911478.
+  * Guo, Xiaolian, Samuel M. Johnston, Yi Qi, G Allan Johnson, and Cristian T.
+    Badea. “4D micro-CT using fast prospective gating.” Phys Med Biol 57, no.
+    1 (January 7, 2012): 257–71. https://doi.org/10.1088/0031-9155/57/1/257.
+  * Badea, Cristian T., Khannan K. Athreya, Gabriela Espinosa, Darin Clark, A
+    Paiman Ghafoori, Yifan Li, David G. Kirsch, G Allan Johnson, Ananth
+    Annapragada, and Ketan B. Ghaghada. “Computed tomography imaging of
+    primary lung cancer in mice using a liposomal-iodinated contrast agent.”
+    Plos One 7, no. 4 (2012): e34496.
+    https://doi.org/10.1371/journal.pone.0034496.
+  * Badea, C. T., I. N. Stanton, S. M. Johnston, G. A. Johnson, and M. J.
+    Therien. “Investigations on X-ray luminescence CT for small animal
+    imaging.” In Proc Spie Int Soc Opt Eng, 8313:83130T, 2012.
+    https://doi.org/10.1117/12.911465.
+  * Zhang, Xiaofeng, Cristian Badea, Greg Hood, Arthur Wetzel, Yi Qi, Joel
+    Stiles, and G Allan Johnson. “High-resolution reconstruction of
+    fluorescent inclusions in mouse thorax using anatomically guided sampling
+    and parallel Monte Carlo computing.” Biomed Opt Express 2, no. 9
+    (September 1, 2011): 2449–60. https://doi.org/10.1364/BOE.2.002449.
+  * Badea, Cristian T., Samuel M. Johnston, Yi Qi, and G Allan Johnson. “4D
+    micro-CT for cardiac and perfusion applications with view under sampling.”
+    Phys Med Biol 56, no. 11 (June 7, 2011): 3351–69.
+    https://doi.org/10.1088/0031-9155/56/11/011.
+  * Ghaghada, Ketan B., Cristian T. Badea, Lohitash Karumbaiah, Nicole Fettig,
+    Ravi V. Bellamkonda, G. A. Johnson, and Ananth Annapragada. “Evaluation of
+    tumor microenvironment in an animal model using a nanoparticle contrast
+    agent in computed tomography imaging.” Acad Radiol 18, no. 1 (January
+    2011): 20–30. https://doi.org/10.1016/j.acra.2010.09.003.
+  * Lin, MingDe, Yi Qi, Antonia F. Chen, Cristian T. Badea, and G Allan
+    Johnson. “Phenylephrine-modulated cardiopulmonary blood flow measured with
+    use of X-ray digital subtraction angiography.” J Pharmacol Toxicol Methods
+    64, no. 2 (2011): 180–86. https://doi.org/10.1016/j.vascn.2011.08.001.
+  * Badea, Cristian T., Laurence W. Hedlund, Yi Qi, Brian Berridge, and G
+    Allan Johnson. “In vivo imaging of rat coronary arteries using bi-plane
+    digital subtraction angiography.” J Pharmacol Toxicol Methods 64, no. 2
+    (2011): 151–57. https://doi.org/10.1016/j.vascn.2011.05.008.
+  * Badea, Cristian T., Laurence W. Hedlund, James Cook, Brian R. Berridge,
+    and G Allan Johnson. “Micro-CT imaging assessment of dobutamine-induced
+    cardiac stress in rats.” J Pharmacol Toxicol Methods 63, no. 1 (2011):
+    24–29. https://doi.org/10.1016/j.vascn.2010.04.002.
+  * Johnston, S. M., B. A. Perez, D. G. Kirsch, and C. T. Badea. “Phase-
+    selective image reconstruction of the lungs in small animals using Micro-
+    CT.” Proc Spie Int Soc Opt Eng 7622 (February 15, 2010):
+    76223G.1-76223G.9. https://doi.org/10.1117/12.844359.
+  * Badea, Cristian T., Samuel M. Johnston, Ergys Subashi, Yi Qi, Laurence W.
+    Hedlund, and G Allan Johnson. “Lung perfusion imaging in small animals
+    using 4D micro-CT at heartbeat temporal resolution.” Med Phys 37, no. 1
+    (January 2010): 54–62. https://doi.org/10.1118/1.3264619.
+  * Zhang, Xiaofeng, Cristian T. Badea, Greg Hood, Arthur W. Wetzel, Joel R.
+    Stiles, and G Allan Johnson. “Free-space fluorescence tomography with
+    adaptive sampling based on anatomical information from microCT.” In Proc
+    Spie Int Soc Opt Eng, Vol. 7757, 2010. https://doi.org/10.1117/12.841891.
+  * Lin, MingDe, Craig T. Marshall, Yi Qi, Samuel M. Johnston, Cristian T.
+    Badea, Claude A. Piantadosi, and G Allan Johnson. “Quantitative blood flow
+    measurements in the small animal cardiopulmonary system using digital
+    subtraction angiography.” Med Phys 36, no. 11 (November 2009): 5347–58.
+    https://doi.org/10.1118/1.3231823.
+  * Zhang, Xiaofeng, and Cristian Badea. “Effects of sampling strategy on
+    image quality in noncontact panoramic fluorescence diffuse optical
+    tomography for small animal imaging.” Opt Express 17, no. 7 (March 30,
+    2009): 5125–38. https://doi.org/10.1364/oe.17.005125.
+  * Zhang, Xiaofeng, Cristian Badea, Mathews Jacob, and G Allan Johnson.
+    “Development of a noncontact 3-D fluorescence tomography system for small
+    animal in vivo imaging.” In Proc Spie Int Soc Opt Eng, 7191:nihpa106691,
+    2009. https://doi.org/10.1117/12.808199.
+  * Samei, Ehsan, Robert S. Saunders, Cristian T. Badea, Ketan B. Ghaghada,
+    Laurence W. Hedlund, Yi Qi, Hong Yuan, Rex C. Bentley, and Srinivasan
+    Mukundan. “Micro-CT imaging of breast tumors in rodents using a liposomal,
+    nanoparticle contrast agent.” Int J Nanomedicine 4 (2009): 277–82.
+  * Badea, C. T., S. Johnston, B. Johnson, M. Lin, L. W. Hedlund, and G Allan
+    Johnson. “A dual micro-CT system for small animal imaging.” In Proc Spie
+    Int Soc Opt Eng, 6913:691342, 2008. https://doi.org/10.1117/12.772303.
+  * Lin, Ming de, Lutao Ning, Cristian T. Badea, Nilesh N. Mistry, Yi Qi, and
+    G Allan Johnson. “A high-precision contrast injector for small animal
+    x-ray digital subtraction angiography.” Ieee Trans Biomed Eng 55, no. 3
+    (March 2008): 1082–91. https://doi.org/10.1109/TBME.2007.909541.
+  * Song, Jiayu, Qing H. Liu, G Allan Johnson, and Cristian T. Badea.
+    “Sparseness prior based iterative image reconstruction for retrospectively
+    gated cardiac micro-CT.” Med Phys 34, no. 11 (November 2007): 4476–83.
+    https://doi.org/10.1118/1.2795830.
+  * Nahrendorf, Matthias, Cristian Badea, Laurence W. Hedlund, Jose-Luiz
+    Figueiredo, David E. Sosnovik, G Allan Johnson, and Ralph Weissleder.
+    “High-resolution imaging of murine myocardial infarction with delayed-
+    enhancement cine micro-CT.” Am J Physiol Heart Circ Physiol 292, no. 6
+    (June 2007): H3172–78. https://doi.org/10.1152/ajpheart.01307.2006.
+  * Badea, Cristian T., Laurence W. Hedlund, Ming De Lin, Julie S Boslego
+    Mackel, Ehsan Samei, and G Allan Johnson. “Tomographic digital subtraction
+    angiography for lung perfusion estimation in rodents.” Med Phys 34, no. 5
+    (May 2007): 1546–55. https://doi.org/10.1118/1.2717384.
+  * De Lin, Ming, Ehsan Samei, Cristian T. Badea, Terry T. Yoshizumi, and G.
+    Allan Johnson. “Optimized radiographic spectra for small animal digital
+    subtraction angiography.” Med Phys 33, no. 11 (November 2006): 4249–57.
+    https://doi.org/10.1118/1.2356646.
+  * Oldham, Mark, Harshad Sakhalkar, Tim Oliver, Ying Min Wang, John
+    Kirpatrick, Yiting Cao, Cristian Badea, G Allan Johnson, and Mark
+    Dewhirst. “Three-dimensional imaging of xenograft tumors using optical
+    computed and emission tomography.” Med Phys 33, no. 9 (September 2006):
+    3193–3202. https://doi.org/10.1118/1.2217109.
+  * Mukundan, Srinivasan, Ketan B. Ghaghada, Cristian T. Badea, Chen-Yu Kao,
+    Laurence W. Hedlund, James M. Provenzale, G Allan Johnson, Emmanuel Chen,
+    Ravi V. Bellamkonda, and Ananth Annapragada. “A liposomal nanoscale
+    contrast agent for preclinical CT in mice.” Ajr Am J Roentgenol 186, no. 2
+    (February 2006): 300–307. https://doi.org/10.2214/AJR.05.0523.
+  * Badea, Cristian T., Laurence W. Hedlund, Ming De Lin, Julie F. Boslego
+    Mackel, and G Allan Johnson. “Tumor imaging in small animals with a
+    combined micro-CT/micro-DSA system using iodinated conventional and blood
+    pool contrast agents.” Contrast Media Mol Imaging 1, no. 4 (2006): 153–64.
+    https://doi.org/10.1002/cmmi.103.
+  * Badea, Cristian T., Elizabeth Bucholz, Laurence W. Hedlund, Howard A.
+    Rockman, and G Allan Johnson. “Imaging methods for morphological and
+    functional phenotyping of the rodent heart.” Toxicol Pathol 34, no. 1
+    (2006): 111–17. https://doi.org/10.1080/01926230500404126.
+  * Maï, Wilfried, Cristian T. Badea, Charles T. Wheeler, Laurence W. Hedlund,
+    and G Allan Johnson. “Effects of breathing and cardiac motion on spatial
+    resolution in the microscopic imaging of rodents.” Magn Reson Med 53, no.
+    4 (April 2005): 858–65. https://doi.org/10.1002/mrm.20400.
+  * Badea, Cristian T., Boma Fubara, Laurence W. Hedlund, and G Allan Johnson.
+    “4-D micro-CT of the mouse heart.” Mol Imaging 4, no. 2 (2005): 110–16.
+    https://doi.org/10.1162/15353500200504187.
+  * Badea, C., L. W. Hedlund, and G. A. Johnson. “Micro-CT with respiratory
+    and cardiac gating.” Med Phys 31, no. 12 (December 2004): 3324–29.
+    https://doi.org/10.1118/1.1812604.
+  * Badea, Cristian, and Richard Gordon. “Experiments with the nonlinear and
+    chaotic behaviour of the multiplicative algebraic reconstruction technique
+    (MART) algorithm for computed tomography.” Phys Med Biol 49, no. 8 (April
+    21, 2004): 1455–74. https://doi.org/10.1088/0031-9155/49/8/006.
+  * Buliev, Ivan G., Cristian T. Badea, Zoi Kolitsi, and Nicolas Pallikarakis.
+    “Estimation of the heart respiratory motion with applications for cone
+    beam computed tomography imaging: a simulation study.” Ieee Trans Inf
+    Technol Biomed 7, no. 4 (December 2003): 404–11.
+    https://doi.org/10.1109/titb.2003.821336.
+  * Soimu, Delia, Cristian Badea, and Nicolas Pallikarakis. “A novel approach
+    for distortion correction for X-ray image intensifiers.” Comput Med
+    Imaging Graph 27, no. 1 (2003): 79–85.
+    https://doi.org/10.1016/s0895-6111(02)00055-1.
+  * Buliev, I., C. Badea, and N. Pallikarakis. “Logarithmic amplifier for
+    computed tomography tasks using fluoroscopic projections.” J Med Eng
+    Technol 26, no. 6 (2002): 247–52.
+    https://doi.org/10.1080/03091900210156832.
+  * Badea, C., Z. Kolitsi, and N. Pallikarakis. “Image quality in extended arc
+    filtered digital tomosynthesis.” Acta Radiol 42, no. 2 (March 2001):
+    244–48. https://doi.org/10.1080/028418501127346585.
+  * Messaris, G., Z. Kolitsi, C. Badea, and N. Pallikarakis. “Three-
+    dimensional localisation based on projectional and tomographic image
+    correlation: an application for digital tomosynthesis.” Med Eng Phys 21,
+    no. 2 (March 1999): 101–9. https://doi.org/10.1016/s1350-4533(99)00015-6.
+  * Badea, C., Z. Kolitsi, and N. Pallikarakis. “A wavelet-based method for
+    removal of out-of-plane structures in digital tomosynthesis.” Comput Med
+    Imaging Graph 22, no. 4 (1998): 309–15.
+    https://doi.org/10.1016/s0895-6111(98)00037-8.
+  * Badea, C., Z. Kolitsi, N. Pallikarakis, and A. Papapanagiotou. “Medical
+    device surveillance world-wide.” Stud Health Technol Inform 28 (1996):
+    157–74.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

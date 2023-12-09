@@ -1,0 +1,159 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Simulating Blood Flow at the Cellular Level
+
+August 6, 2019
+
+Amanda Randles's revolutionary supercomputer blood flow simulator HARVEY is
+poised to improve the diagnosis, prevention and treatment of human diseases
+
+Amanda Randles, the Alfred Winborne Mordecai and Victoria Stover Mordecai
+Assistant Professor of Biomedical Engineering at Duke University, is
+developing a massively parallel fluid dynamics simulation called HARVEY
+capable of modeling the full human arterial system at subcellular resolution.
+The visionary program is already fostering discoveries that could improve the
+diagnosis, prevention and treatment of human diseases.
+
+With a long history of developing and applying high-performance computing to
+biomedical problems, HARVEY combined Randles's knowledge of applied physics,
+computational methods and parallel computing to develop a physiologically
+accurate model of the movement of red blood cells throughout the body. One of
+her recent successes mapped 500 billion fluid points using a supercomputer
+with 1.6 million cores (individual processors), marking the first time a
+researcher had been able to effectively model the flow of blood at the
+cellular level.
+
+Former Duke undergraduate turned research associate Harvey Shi is working to
+create a Graphical User Interface for the program. Once completed, physicians
+will be able to use virtual reality or augmented reality systems to better
+understand an individual's blood flow to make more informed decisions about
+treatment options such as where to place a stent. Randles is also working to
+simulate how circulating tumor cells move through the vascular system to
+predict where they're likely to end up and begin forming a new tumor.
+
+For this latter project, Randles was selected to be one of 10 researchers to
+get an early crack at using Aurora—the nation’s newest and largest
+supercomputer. Housed at Argonne National Laboratory (ANL), Aurora will be the
+nation’s first exascale supercomputer, capable of performing a quintillion
+calculations per second upon its expected 2021 completion.
+
+Randles ambitious projects have previously also made her one of five finalists
+for the 2015 Gordon Bell Prize, the top honor in the field of supercomputing;
+the recipient of the 2017 Association for Computing Machinery (ACM) Grace
+Murray Hopper Award; and one of the MIT Technology Review's top "Innovators
+Under 35" in 2017.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

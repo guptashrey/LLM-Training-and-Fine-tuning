@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tire Sensor Technology Launches Multi-Million Dollar Startup
+
+February 20, 2018 | By Ken Kingery
+
+Durham startup Tyrata secures $4.5 million based on Duke technology license
+
+A sensor technology that can determine the real-time tread wear of tires on
+the road has been licensed from Duke University by a startup company backed by
+a leader in parts distribution and provider of replacement tires for
+automotive dealerships.
+
+Tyrata, Inc., announced today the closing of $4.5 million in series A
+financing from several investors, including a leading investment by Dealer
+Tire, LLC. The funding will allow the Durham, North Carolina startup to
+develop the sensor technology into a product and prepare for large-scale
+manufacturing. The Tyrata tread wear sensor can be linked to data analytics
+systems to improve safety in consumer vehicles, reduce maintenance costs in
+large fleet-management operations and provide critical data for the emerging
+market of autonomous vehicles.
+
+The technology is the brainchild of Aaron Franklin, associate professor of
+electrical and computer engineering and chemistry at Duke. "With all the
+technology and sensors in today's cars, it's kind of crazy to think that
+there's almost no data being gathered from the only part of the vehicle that
+is actually touching the road," Franklin said. "Our tire tread sensor is the
+perfect marriage between high-end technology and a simple solution."
+
+Since the technology was originally reported in IEEE Sensors Journal in June
+2017, Franklin has been working to commercialize it with colleagues in Duke's
+Nicholas School of the Environment led by Jesko von Windheim, associate dean
+of innovation and entrepreneurship.
+
+The technology relies on the well-understood mechanics of how electric fields
+interact with different materials. The core of the sensor is formed by placing
+two small electrodes very close to each other. By applying an oscillating
+electrical voltage to one and grounding the other, an electric field forms
+between the electrodes.
+
+While most of this electric field passes directly between the two electrodes,
+some of the field arcs between them. When a material is placed on top of the
+electrodes, it interferes with this so-called "fringing field." By measuring
+this interference through the electrical response of the grounded electrode,
+it is possible to determine the thickness of the material covering the sensor.
+
+Franklin and his colleagues have spent the past six months optimizing their
+original design and showing that it is sensitive enough to work with the thick
+treads of semi-trailer truck tires. They have shown that using carbon
+nanotubes (tiny cylinders of carbon atoms just one-billionth of a meter in
+diameter) allows the sensor to track millimeter-scale changes in tread depth
+with high accuracy and sensitivity. The sensors could easily signal when it's
+time to replace tires or report information about uneven and often dangerous
+tire wear.
+
+"We at Dealer Tire see a strong potential for this technology to improve
+consumer safety as it relates to tires," said Scott Mueller, partner and chief
+executive officer of Dealer Tire. "The investment in Tyrata is consistent with
+our strategy to enhance tire safety and provide exceptional, value-added
+services to our stakeholders and for the benefit of the overall industry."
+
+The investment, Franklin says, would not have been possible without the
+collaboration with the Nicholas School.
+
+"Jesko and his colleagues have unique experience and support capabilities that
+allow them to quickly ramp up a startup," Franklin said. "I was amazed at how
+efficiently they were able to take what we'd been trying to do for months with
+limited success and organize it into a smooth and effective effort that
+brought investors to the table."
+
+"At the Nicholas School, we have focused on developing an entrepreneurship
+ecosystem that includes experienced entrepreneurs working with faculty and
+students in an educational environment supported by the Office of Research
+Support, the Office of Licensing and Ventures and the Duke Innovation &
+Entrepreneurship Initiative," says von Windheim. "The launch of Tyrata
+represents a validation of our efforts and a wonderful success for the
+Nicholas School and for our donors who have generously supported the
+development of this ecosystem."
+
+In addition to serving as associate dean at the Nicholas School, von Windheim
+is the Lynn Gorguze-Scott Peters Professor of the Practice in Environmental
+Entrepreneurship and Innovation.
+
+David Koester, associate in research at the Environmental Innovation and
+Entrepreneurship Program, and John Glushik, managing director of the Duke
+Angel Network at the Duke Innovation and Entrepreneurship Initiative (DIEI),
+worked with Franklin and von Windheim to launch the new company.
+
+Additional support was provided by Joseph Andrews, a PhD student in electrical
+and computer engineering at the Pratt School, Allison Besch, director of
+executive education programs at the Nicholas School, Marie-Angela Della Pia,
+community director at Duke I&E, and Brian Lowinger, assistant director of
+contracts and compliance at the Office of Research Support.
+
+"It's hard to imagine a more textbook example of how university innovation can
+be translated into a very solid startup, with sufficient funding and key
+partners that will help bring the technology to market," reflected Franklin.
+"This is all thanks to an impressive entrepreneurial ecosystem at Duke."
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

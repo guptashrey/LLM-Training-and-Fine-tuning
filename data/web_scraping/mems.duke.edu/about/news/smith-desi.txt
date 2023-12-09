@@ -1,0 +1,171 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke-Northrop Grumman Partnership Seeks to Unflatten Metamaterial Antennas
+
+September 4, 2018
+
+Department of Defense grant aims to produce aerodynamic metamaterial antennas
+for military aircraft
+
+Researchers from Duke University are teaming up with colleagues at the
+University of Washington and industry experts at Northrop Grumman to develop
+metamaterial antennas tailored to the contours and angles of modern military
+aircraft.
+
+The collaboration is the result of a new pilot program from the Department of
+Defense called the Defense Enterprise Science Initiative (DESI). Backing five
+university-industry teams pursuing independent projects, DESI is focused on
+accelerating the impact of basic research on defense capabilities.
+
+“Optimizing a metamaterial antenna’s shape for both aerodynamics and
+electromagnetic performance simultaneously is a challenging task,” said David
+Smith, the James B. Duke Professor of Electrical and Computer Engineering at
+Duke and one of the original co-inventors of the technology. “But with the
+help of Northrop Grumman’s expertise and capabilities in the realm of
+aeronautics, we’re confident we can produce aerodynamic metamaterial antennas
+with extraordinary mission flexibility.”
+
+Metamaterials are artificial materials that manipulate waves like light and
+sound through properties of their structure rather than their chemistry. Most
+metamaterials are composed of a grid of repeating cells, each of which can be
+individually tuned to steer electromagnetic waves along a gradient—a concept
+called transformation optics.
+
+Computational tools have been built to design metamaterials for reconfigurable
+antennas that can focus in any direction without moving. Several commercial
+companies have been founded on the technology, including Kymeta, which builds
+flat-panel satellite antennas, and Echodyne, which makes compact phased-array
+radar technology.
+
+One feature both of these technologies share is that their devices are flat.
+Introducing curves and angles to the device itself wreaks havoc on the
+computations that allow the antennas to dynamically refocus. The new DESI
+grant seeks to change that by developing the tools needed to design and
+operate metamaterial antennas that can include curves and angles.
+
+With these modeling tools in hand, the researchers will then build prototypes
+that can aerodynamically conform to the geometric needs of military aircraft
+and form predictable sets of radiation patterns. This flexibility will allow
+the same metamaterial antenna to rapidly reconfigure to switch between
+communications and radar taskings, for example.
+
+“Programs like DESI are vital to foster collaboration in the research
+ecosystem and accelerate the transition of ground-breaking basic science to
+transformative capabilities,” said Dr. Bindu Nair, Deputy Director for Basic
+Research at the Department of Defense. “I look forward to seeing how these
+teams can help us address our unique and challenging defense problem sets.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

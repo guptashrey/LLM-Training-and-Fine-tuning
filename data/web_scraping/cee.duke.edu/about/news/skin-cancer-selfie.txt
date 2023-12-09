@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Skin Cancer Selfie
+
+October 28, 2014
+
+Duke’s gigapixel camera could help clinicians catch signs of melanoma and
+other diseases earlier.
+
+Melanoma is the fifth most common cancer type in the United States, and it's
+also the deadliest form of skin cancer, causing more than 75 percent of skin-
+cancer deaths. If caught early enough, though, it is almost always curable.
+Now, a camera capable of taking snapshots of the entire human body and
+rendering high-resolution images of a patient’s skin may help doctors spot
+cancer early and save lives.
+
+Developed by engineers at Duke University, the “gigapixel whole-body
+photographic camera” is essentially three dozen cameras in one, allowing the
+researchers to image the entire body down to a freckle. The research will be
+presented at The Optical Society's (OSA) 98th Annual Meeting, Frontiers in
+Optics, being held Oct. 19-23 in Tucson, Arizona.
+
+“The camera is designed to find lesions potentially indicating skin cancers on
+patients at an earlier stage than current skin examination techniques,” said
+Daniel Marks, associate research professor of electrical and computer
+engineering and one of the co-authors on the paper. “Normally a dermatologist
+examines either a small region of the skin at high resolution or a large
+region at low resolution, but a gigapixel image doesn’t require a compromise
+between the two.”
+
+Although whole-body photography has already been used to identify melanomas
+and exclude non-dangerous “stable” lesions, the approach is typically limited
+by the resolution of the cameras used. A commercial camera with a wide-angle
+lens can easily capture an image of a person’s entire body, but it lacks the
+resolution needed for a dermatologist to zoom in on one tiny spot.
+
+Because of this limitation, dermatologists typically examine suspicious
+lesions with digital dermoscopy—a technique to evaluate the colors and
+microstructures of suspicious skins not visible to the naked eyes. The need
+for two types of images drives up costs and limits possibilities for
+telemedicine.
+
+Enter the gigapixel camera, developed by David Brady, the Michael J.
+Fitzpatrick Professor of Electrical and Computer Engineering at Duke
+University, along with scientists at the University of Arizona, the University
+of California-San Diego and Distant Focus Corp.
+
+The original version of the gigapixel camera features dozens of independent
+microcameras arranged in a “dome” behind a spherical lens. The exposure time
+and focus for each microcamera can be adjusted independently, and a computer
+can do a preliminary examination of the images to determine if any areas
+require future attention by the specialists. After the data have been
+crunched, the result is a photo of unprecedented resolution.
+
+To suit the needs for scanning skin, Marks moved the microcameras of the
+original gigapixel camera outward from the center to focus on closer objects
+and widen its field of view. “It took a new arrangement of the optics, but it
+was a pretty simple process and the results have been good,” said Marks.
+
+Marks points out that though the resolution of the gigapixel camera is not as
+high as the best dermascope, it allows for a larger imaging area and could be
+used for telemedicine, which could make the routine screening available to a
+larger number of people, even in remote locations.
+
+The next step for Marks is a clinical trial in a VA hospital. His team has
+designed a version of the camera with 63 microcameras arranged specifically
+for imaging close-range objects. The unit also has lighting to create a
+standard illumination of patients’ skin and can be easily tucked away in a
+closet until needed.
+
+If the trial proves successful, Marks hopes to receive sustained funding for
+the project. He envisions the cameras not only spotting potential lesions, but
+eventually being able to help clinicians know what to look for.
+
+“Nobody has ever had access to comprehensive images and medical records like
+this before,” said Marks. “If we can build a large enough database and monitor
+patients over time, we might be able to go back and find biological markers of
+different diseases that medicine is currently unaware of.”
+
+_Lyndsay Meyer from the Optical Society was a major contributor to this
+piece._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

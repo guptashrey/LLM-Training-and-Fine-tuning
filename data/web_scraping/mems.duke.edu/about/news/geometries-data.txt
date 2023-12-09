@@ -1,0 +1,169 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Geometries of Data
+
+July 10, 2013 | by Ashley Yeager
+
+At Duke: From molecules to threat detection
+
+We’re used to objects having a certain length, width and depth. They usually
+exist in time as well, giving them four dimensions.
+
+But to Mauro Maggioni, a professor of mathematics, computer science and
+electrical and computer engineering (ECE) at Duke, four dimensions aren’t
+enough to understand how enzymes and proteins work, or to distinguish tanks
+from trees in military images.
+
+Maggioni works with the geometry of high-dimensional data—millions of points
+graphed in hundreds or thousands of dimensions. For example, to understand the
+motion of biomolecules, researchers simulate countless possible molecule
+configurations. Even on powerful computers, these simulations take a very long
+time to run.
+
+Collaborating with chemists, Maggioni analyzes all the coordinates of atoms in
+a molecule and identifies geometric and dynamical properties that let him
+build low-dimensional representations of the molecule’s dynamics. The
+simplified representations can then speed up simulation time, and understand
+and map out the complex landscapes accessed by the molecule, he says.
+
+Another of Maggioni’s “big data” projects is studying the hundreds of colors
+in what is known as hyperspectral imaging. Right now, images from smartphones
+and hand-held cameras have three basic colors, all in visible light.
+Hyperspectral images, on the other hand, combine colors from across the
+electromagnetic spectrum—everything from radio to ultraviolet radiation—and
+provide clues to the chemical properties of photographed materials.
+
+“With such multi-dimensional data coordinates, you can tell the perfect time
+to harvest a crop, see if a gas leak is really chemical warfare, or monitor
+concentration of key chemicals in blood,” Maggioni said. He is also working
+with ECE professors David Brady and Larry Carin to design faster and more
+accurate X-ray scanners, which use new algorithms and imaging designs to
+screen airport baggage for weapons and explosives.
+
+One feature of many of these data sets is that they change with time and have
+different levels of granularity, or bits of data, at various stages.
+Maggioni’s algorithms allow him to detect and measure these changes in
+molecular configuration space, hyperspectral movies or networks and network
+traffic.
+
+“The algorithms often enjoy a sort of universality dear to mathematicians, in
+that they are easily adapted to different types of data, as they attempt to
+capture crucial properties of data by learning them from the data itself,”
+Maggioni said.
+
+\--from _Duke Engineering: Leading Research 2013_
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

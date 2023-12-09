@@ -1,0 +1,289 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Minor in Machine Learning & Artificial Intelligence
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+  3. Degrees
+
+Complement your major with a minor in the field of ML/AI
+
+The Minor in Machine Learning & Artificial Intelligence requires the
+completion of a minimum of five (5) technical courses.
+
+This education offering is an outgrowth of Duke ECE's global research
+leadership in AI and machine learning **.**
+
+To provide sufficient foundational breadth, three (3) courses are drawn from
+identified core areas fundamental to the discipline. Students tailor their
+course of study through selecting two (2) upper-level (300-level or above)
+focus courses
+
+  * Requirements
+  * Pre-requisites
+
+* * *
+
+## Detailed Requirements
+
+### Fundamental Courses
+
+Required
+
+  * Intermediate Statistics/Probability—ECE 480: Applied Probability for
+    Statistical Learning
+  * Introductory Machine Learning & Artificial Intelligence—ECE 580:
+    Introduction to Machine Learning
+  * Intermediate Machine Learning & Artificial Intelligence course—ECE 682D/CS
+    571D/Stat 561D _or_ ECE 687D/CS 671D/STA 671D
+
+### Upper-Level Focus Courses
+
+Choose two (2)
+
+  * ECE 585: Signal Detection and Extraction Theory
+  * ECE 588: Image & Video Processing
+  * ECE 661: Computer Engineering Machine Learning & Deep Neural Networks
+  * ECE 662: Machine Learning Acceleration & Neuromorphic Computing
+  * ECE 684: Natural Language Processing
+  * ECE 685D: Deep Learning
+  * CompSci 527: Computer Vision
+  * Math 412: Topological Data Analysis
+  * Math 465/CompSci 445: Introduction to High Dimensional Data Analysis
+  * Stat 340: Introduction to Statistical Decision Analysis
+  * Stat 360: Bayesian Inference and Modern Statistical Methods
+  * ECE 590: Special Topics courses on machine learning and artificial
+    intelligence topics (with DUS approval)
+
+### Important Notes
+
+  * Courses that are used to fulfill the student’s major(s) may not be double-
+    counted toward the minor
+  * Courses with content substantially equivalent to courses in the student's
+    major(s) may not be counted toward the minor
+  * Students with credit for any of the Fundamental Courses (e.g., exact or
+    equivalent course taken to satisfy a requirement of the major(s)) may
+    substitute additional Upper-Level Focus courses from the approved list
+    above. The Director of Undergraduate Studies in ECE must approve such
+    exceptions.
+  * At most, one Independent Study course (approved the DUS in ECE) may be
+    used to fulfill one of the upper-level elective requirements.
+
+* * *
+
+## Pre-requisites
+
+It is expected that a student pursuing a Minor in Machine Learning &
+Artificial Intelligence will satisfy all prerequisites for each course
+selected for their minor program.
+
+This will typically involve completion of courses in Math, Statistics, and
+Computer Science, which are pre-requisites for the fundamental and elective
+courses.
+
+Specifically, the following prerequisite knowledge is assumed:
+
+  * Mid-level programming course (e.g., CS 201)
+  * Linear algebra (e.g., Math 216, 218, 218D-2, 221)
+  * Introductory statistics (e.g., EGR 238L, ECE 380, ECE 555, Stat/Math 230,
+    Stat 240L)
+
+Exceptions may be granted by the Director of Undergraduate Studies in ECE, for
+example, if a student’s preparation is deemed equivalent to the pre-requisite.
+
+## Undergraduate Contact
+
+### Lisa Gresham Huettel
+
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and
+Computer Engineering
+
+__919-660-5237
+
+__lisa.huettel@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

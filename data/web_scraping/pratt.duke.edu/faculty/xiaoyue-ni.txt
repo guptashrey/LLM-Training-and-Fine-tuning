@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Xiaoyue Ni
+
+Assistant Professor of Mechanical Engineering and Materials Science
+
+The Ni group aims to realize human-oriented materials intelligence through the
+combination of soft electronics and digital metamaterials—the materials can
+sense human signals, transform and adapt their functional properties according
+to human actions or status. The technical approach embraces epidermal
+electronics for advanced sensing of body mechanics, and micro/nanomechanics
+for closed-loop programmable matter. Our research focuses on creating digital-
+physical interfaces for dynamic control over materials properties via a full
+spectrum of mechanical and acoustic processes.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Mechanical Engineering and Materials Science
+  * Assistant Professor of Biostatistics & Bioinformatics
+
+## Contact Information
+
+  * **Email Address:** xiaoyue.ni@duke.edu
+  * **Websites:**
+    * Ni Lab
+
+## Education
+
+  * Ph.D. California Institute of Technology, 2018
+
+## Research Interests
+
+Flexible electronics, precision measurement, non-destructive testing,
+deformation physics of random media, mechanical metamaterials, robotic
+materials and smart structures, machine learning
+
+## Courses Taught
+
+  * CEE 626: Energy Flow and Wave Propagation in Elastic Solids
+  * ECE 391: Projects in Electrical and Computer Engineering
+  * ME 221L: Structure and Properties of Solids
+  * ME 391: Undergraduate Projects in Mechanical Engineering
+  * ME 392: Undergraduate Projects in Mechanical Engineering
+  * ME 492: Special Projects in Mechanical Engineering
+  * ME 543: Energy Flow and Wave Propagation in Elastic Solids
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+
+## In the News
+
+  * Artificial Soft Surface Autonomously Mimics Shapes From Nature (Nov 1,
+    2022 | Pratt School of Engineering)
+  * Xiaoyue Ni: Designing Smart Materials and Wearable Technologies to Improve
+    Health (Oct 13, 2020 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Bai, Y; Wang, H; Xue, Y; Pan, Y; Kim, J-T; Ni, X; Liu, T-L; Yang, Y; Han,
+    M; Huang, Y; Rogers, JA; Ni, X, _A dynamically reprogrammable surface with
+    self-evolving shape morphing._ , Nature, vol 609 no. 7928 (2022), pp.
+    701-708 [10.1038/s41586-022-05061-w] [abs].
+  * Ni, X; Ouyang, W; Jeong, H; Kim, J-T; Tzaveils, A; Mirzazadeh, A; Wu, C;
+    Lee, JY; Keller, M; Mummidisetty, CK; Patel, M; Shawen, N; Huang, J; Chen,
+    H; Ravi, S; Chang, J-K; Lee, K; Wu, Y; Lie, F; Kang, YJ; Kim, JU;
+    Chamorro, LP; Banks, AR; Bharat, A; Jayaraman, A; Xu, S; Rogers, JA,
+    _Automated, multiparametric monitoring of respiratory biomarkers and vital
+    signs in clinical and home settings for COVID-19 patients._ , Proceedings
+    of the National Academy of Sciences of the United States of America, vol
+    118 no. 19 (2021) [10.1073/pnas.2026610118] [abs].
+  * Lee, K; Ni, X; Lee, JY; Arafa, H; Pe, DJ; Xu, S; Avila, R; Irie, M; Lee,
+    JH; Easterlin, RL; Kim, DH; Chung, HU; Olabisi, OO; Getaneh, S; Chung, E;
+    Hill, M; Bell, J; Jang, H; Liu, C; Park, JB; Kim, J; Kim, SB; Mehta, S;
+    Pharr, M; Tzavelis, A; Reeder, JT; Huang, I; Deng, Y; Xie, Z; Davies, CR;
+    Huang, Y; Rogers, JA, _Mechano-acoustic sensing of physiological processes
+    and body motions via a soft wireless device placed at the suprasternal
+    notch._ , Nature Biomedical Engineering, vol 4 no. 2 (2020), pp. 148-158
+    [10.1038/s41551-019-0480-6] [abs].
+  * Ni, X; Guo, X; Li, J; Huang, Y; Zhang, Y; Rogers, JA, _2D Mechanical
+    Metamaterials with Widely Tunable Unusual Modes of Thermal Expansion._ ,
+    Advanced Materials (Deerfield Beach, Fla.), vol 31 no. 48 (2019)
+    [10.1002/adma.201905405] [abs].
+  * Ni, X; Zhang, H; Liarte, DB; McFaul, LW; Dahmen, KA; Sethna, JP; Greer,
+    JR, _Yield Precursor Dislocation Avalanches in Small Crystals: The
+    Irreversibility Transition._ , Physical Review Letters, vol 123 no. 3
+    (2019) [10.1103/physrevlett.123.035501] [abs].
+  * Ni, X; Papanikolaou, S; Vajente, G; Adhikari, RX; Greer, JR, _Probing
+    Microplasticity in Small-Scale FCC Crystals via Dynamic Mechanical
+    Analysis_ , Physical Review Letters, vol 118 no. 15 (2017)
+    [10.1103/physrevlett.118.155501] [abs].
+  * Vajente, G; Quintero, EA; Ni, X; Arai, K; Gustafson, EK; Robertson, NA;
+    Sanchez, EJ; Greer, JR; Adhikari, RX, _An instrument to measure mechanical
+    up-conversion phenomena in metals in the elastic regime._ , Review of
+    Scientific Instruments, vol 87 no. 6 (2016) [10.1063/1.4953114] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

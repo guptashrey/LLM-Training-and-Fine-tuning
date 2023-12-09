@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tick Collection? There's a Bot for That!
+
+February 2, 2016
+
+Originally posted by the Duke Global Health Institute
+
+Collecting ticks for infectious disease research—currently a manual process
+involving close contact with the ticks—is risky business, putting researchers
+in danger of contracting some of the very diseases they’re studying. But last
+year, Duke global health and medicine professor Greg Gray had an idea: could a
+robot do the job?
+
+When Gray contacted the Duke Robotics Club to explore this idea, junior
+electrical engineering majors Andrew Buie and Logan Rooper jumped on the
+opportunity to make it a reality.
+
+“I was excited about this project,” Buie said, “because, unlike many other
+undergraduate engineering projects we could have pursued, we’d be able to
+fully develop a useful product—one that would have clear and immediate
+research benefits—within a year.”
+
+Rooper was drawn to the project for more personal reasons: “I had a friend in
+high school who had Lyme disease and I saw how badly it affected him,” he
+said. “If we can help researchers study ticks and parasites more safely,
+they’ll be able to come up with solutions faster.”
+
+**Current Collection Process Exposes Researchers**
+
+To date, the main method for gathering ticks has been to sweep a felt-like
+fabric over the ground. Ticks are attracted to humans’ heat and carbon
+dioxide, so they hop on the fabric. After completing the collection, the
+researcher rolls up the piece of cloth and transports the ticks to a lab. The
+problem is that the ticks—which carry viruses, bacteria and parasites—often
+jump on the researcher, too.
+
+**Enter the Tickbot**
+
+Last summer, Buie and Rooper, co-presidents of the robotics club, accompanied
+Gray to the local Duke Forest to study the tick collection process. Based on
+what they saw, the students came up with a proposal for a robot that would
+emulate what the researchers were doing but minimize exposure to ticks.
+
+Buie and Rooper then recruited a classmate, Austin McKee, to their team. What
+started as an extracurricular project soon evolved into an independent study.
+
+The robot—which has since been dubbed “the tickbot” by the team—is a small
+vehicle with two mountain bike wheels in the front and a swivel wheel in the
+back. A sheet of felt-like fabric hangs off the back, and the cart emits heat
+and carbon dioxide to attract the tick to the cloth. Once the ticks have been
+collected, the fabric can be rolled into its cylinder and safely transported
+to a lab.
+
+The robot features high-power motors and a differential drive system that
+enable the cart to travel on uneven terrain, which is critical because ticks
+are typically collected in the woods. It’s also equipped with a remotely-
+viewable video camera, so the person at the controls can see exactly where the
+robot is headed. The robot can be controlled remotely from up to one kilometer
+away.
+
+**Project to Contribute to One Health Research at Duke**
+
+Gray, a member of the One Health team in the Duke Global Health Institute,
+says that this project embodies a primary One Health goal—to incorporate
+interdisciplinary fields of science in a collaborative effort. One Health is a
+research approach that encompasses animal, human and environmental health.
+
+“Today we have these difficult problems in public health that cannot be
+approached by just one discipline, so we need to work across disciplines in
+teams,” Gray said.
+
+Gray emphasized the significance of this project, noting that the safe study
+of ticks and their roles in infectious disease is critical to public health.
+
+What's Next for the Tickbot?
+
+At an independent study presentation in December, the students demonstrated
+the robot prototype, which was field-tested for the first time in the fall.
+This spring, they’ll be meeting with entomologists to refine the design,
+adding the carbon dioxide emitter and video camera, and completing additional
+field tests. They hope to wrap up development of a working prototype by the
+end of the year, but they’re committed to staying the course till the project
+is complete. Eventually, they said, the robot may be used to collect other
+insects and arachnids for research.
+
+**We Need Your Help: Name That Bot!**
+
+The tick-collecting robot needs a name! From now until Monday, February 15,
+we’re running a naming contest. To learn more and submit a name suggestion,
+visit our website. The winner will be selected by “Team Tickbot”—Gray and the
+students developing the robot—and will receive a DGHI and Duke One Health gift
+pack. The winner will be announced on our social media outlets on Friday,
+February 19.
+
+**Learn More**
+
+  * Enter the naming contest
+  * See more photos of “Team Tickbot” and the prototype development process
+  * Visit the Duke One Health website
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

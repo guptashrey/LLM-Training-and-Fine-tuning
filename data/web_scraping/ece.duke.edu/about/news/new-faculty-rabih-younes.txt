@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Rabih Younes: Integrating Machine Learning with Motion-Capturing Wearable
+Devices
+
+September 12, 2018
+
+New professor of the practice Rabih Younes blends the fields of wearable
+computing and machine learning
+
+Rabih Younes is a new professor of the practice of electrical and computer
+engineering at Duke University specializing in using machine learning
+techniques to tease out detailed information about people’s activities from
+advanced wearable motion-capturing technologies. He earned his undergraduate
+and master’s degrees in computer engineering from Lebanese American University
+before completing his PhD in 2018 from Virginia Tech in the same field.
+Besides his research into data analysis from wearable devices, Younes brings a
+passion for teaching to his new position at Duke.
+
+**Welcome to Duke, Professor Younes! Can you tell us a bit about your research
+interests?**
+
+The work I did for my doctorate while at Virginia Tech was a blend between the
+two fields of wearable computing and machine learning. My advisor was
+designing a wearable system that could recognize your daily activities. The
+hardware was essentially a motion-capture suit, which entailed designing a
+loose-fitting sensor network and processing units that conformed to
+wearability constraints. I worked more on trying to blend the hardware with
+the software, which used machine learning and optimization techniques to
+classify the various activities of the user.
+
+**What’s the overall goal of developing such a system?**
+
+The motivation for the project is mainly in healthcare. When doctors need to
+track patients outside of the clinic, they rely on a log sheet where the
+patients are responsible for taking their physiological data and reporting
+what they were doing at the time. But if we could automate that entire
+process, not only would the data be much more accurate, it could be used to
+treat them better and predict what diseases they might develop at a later
+date.
+
+**Will you be continuing this line of research at Duke?**
+
+I won’t be working on that sort of a suit per se—I’ve always been more focused
+on using machine learning for the activity classification part of the process.
+In general, I’ll be working with motion capture tools toward developing
+systems that people would actually choose to wear on a daily basis and that
+would be much more comprehensive in their activity recognition than something
+like a Fitbit, for example.
+
+**As a professor of the practice, a large part of your work will be in
+teaching. What courses are you leading?**
+
+This fall I am teaching the ECE 350 course, called Digital Systems, which is
+the class I originally fell in love with that led me down this path of study.
+It has to do with the basic level of hardware design and sort of explains how
+you can build machines.
+
+I’m also offering a new graduate-level course here at Duke that has to do with
+my research. It’s an ECE 590 course that is called Wearable and Ubiquitous
+Computing, which obviously has a lot to do with wearable technologies! Next
+semester I will continue teaching ECE 350 along with a graduate-level
+course—ECE 650—called Systems Programming and Engineering.
+
+> "I try to be as student-focused as I can. I try to motivate students in
+> whichever ways work, even if I have to try a million different ways to
+> motivate everybody and make them love the material."
+
+**What’s your philosophy when it comes to teaching?**
+
+I’ve actually always loved teaching—I’ve been doing it some form since I was a
+tutor in high school. And while I love my research, I actually got my
+doctorate degree so I could teach on the collegiate level. That’s why while I
+was at Virginia Tech I conducted some research in engineering education, which
+I plan to continue here.
+
+Based on what I’ve learned from that work, I try to push my students to be
+better critical thinkers, and to communicate their science better with the
+world. These are two problems that are pretty much ubiquitous everywhere in
+the world. They manifest in different ways depending on where you are, but
+they are problems and they impact society a lot, so we should work on them.
+
+And of course I try to be as student-focused as I can. I try to motivate
+students in whichever ways work, even if I have to try a million different
+ways to motivate everybody and make them love the material. After all, they
+can go to Google or register on something like Coursera and learn all kinds of
+things with these online tools, so I should give them a good reason to come to
+class.
+
+**Why did you choose to come to Duke?**
+
+Duke was one of the more highly ranked institutions that I applied to, and
+that was appealing. You can see the difference in Duke students—they’re the
+best of the best. It’s just my first week, but I think they’re amazing. They
+always want to learn more and have a complete understanding of every single
+detail, in the classroom and during my office hours. I expected something like
+that, but not to this level. But it’s good because it makes me come to class
+well-prepared to this challenging environment, and it’s great to have students
+that raise the bar this high. I bet that they’ll have some really nice
+projects at the end of the semester.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

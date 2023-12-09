@@ -1,0 +1,260 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mikkelsen Wins Moore Inventor Fellowship to Pursue Hyperspectral Cameras
+
+October 15, 2019 | By Ken Kingery
+
+Small, inexpensive hyperspectral cameras could revolutionize precision
+agricultural practices worldwide
+
+Maiken Mikkelsen wants to change the world by developing a small, inexpensive
+hyperspectral camera to enable worldwide precision farming practices that
+would significantly reduce water, energy, fertilizer and pesticide use while
+simultaneously increasing yields. While that goal sounds like a tall task for
+a simple camera, it’s one that has now been greenlighted by a 2019 Moore
+Inventor Fellowship.
+
+“The Moore Inventor Fellowship is opening a new avenue of research to me,”
+said Mikkelsen, the James N. and Elizabeth H. Barton Associate Professor of
+Electrical and Computer Engineering at Duke University. “It is enabling me to
+explore new applications for my technology that could benefit the environment
+and mankind in a profound way, and I am grateful that the Moore Foundation
+allows me to pursue those.”
+
+The cameras most people think of and use every day only capture visible light,
+which is a small fraction of the available spectrum. Other cameras might
+specialize in infrared or x-ray wavelengths, for example, but few can capture
+light from disparate points along the spectrum. And those that can suffer from
+a myriad of drawbacks, such as complicated machinery that can break, slow
+functional speeds, bulkiness that can make them difficult to transport, handle
+by hand or place on drones, and costs that range from tens to hundreds of
+thousands of dollars.
+
+Mikkelsen, however, is working on an approach that can be implemented on a
+single chip, can snap a multispectral image in a few trillionths of a second,
+and produced and sold for just tens of dollars.
+
+“It wasn’t obvious at all that we could do this,” said Mikkelsen. “It’s quite
+astonishing actually that not only does this work in preliminary experiments,
+but we’re seeing new physical phenomena that we did not expect that will allow
+us to speed up how fast we can do this detection by many orders of magnitude.”
+
+The physical phenomenon behind Mikkelsen’s technology is called plasmonics—the
+use of nanoscale physical phenomena to trap certain frequencies of light.
+
+Mikkelsen and her team fashion silver cubes just a hundred nanometers wide and
+place them only a few nanometers above a thin layer of gold. When incoming
+light strikes the surface of a nanocube, it excites the silver's electrons,
+trapping the light's energy—but only at a certain frequency.
+
+The size of the silver nanocubes and their distance from the base layer of
+gold determines that frequency, while controlling the spacing between the
+nanoparticles allows tuning the strength of the absorption. By precisely
+tailoring these spacings, researchers can make the system respond to any
+electromagnetic frequency they want.
+
+To harness this fundamental physical phenomenon for a commercial camera,
+Mikkelsen and her colleagues have demonstrated a sort of “superpixel” – a
+pixel made from a grid of nine individual detectors each tuned to a different
+frequency of light. When any spot on the pixel’s grid captures its specific
+frequency, it heats up, which in turn creates an electric voltage in a layer
+of pyroelectric material sitting directly below it. That voltage is then read
+by a bottom layer of a silicon semiconductor contact, which transmits the
+signal to a computer to analyze.
+
+“Commercial photodetectors have been made with these types of pyroelectric
+materials before, but they always suffered from two major drawbacks—they
+haven’t been able to focus on specific electromagnetic frequencies and have
+operated at very slow speeds due to the thick layers of the material needed to
+absorbs enough incoming light,” said Mikkelsen. “But our plasmonic detectors
+can be tuned to any frequency and trap so much energy that we only need a thin
+layer of pyroelectric material, which greatly speeds up the process.”
+
+While the first proof-of-concept experiments will use a three-by-three grid
+capable of detecting nine frequencies, Mikkelsen plans on scaling up to a
+five-by-five grid for a total of 25 frequencies. And there’s no shortage of
+applications that are primed to take advantage of such a device.
+
+Surgeons can use hyperspectral imaging to tell the difference between
+cancerous and healthy tissue during surgery. Food and water safety inspectors
+can use it to tell when a chicken breast is contaminated with dangerous
+bacteria. But the application that Mikkelsen has set her sights on is
+precision agriculture. While plants may only look green or brown to the naked
+eye, the light reflected from their leaves and flowers outside of the visual
+spectrum contains a cornucopia of valuable information.
+
+“Obtaining a ‘spectral fingerprint’ can precisely identify a material and its
+composition,” said Mikkelsen. “Not only can it indicate the type of plant, but
+it can also determine its condition, whether it needs water, is stressed or
+has low nitrogen content, indicating a need for fertilizer. It is truly
+astonishing how much we can learn about plants by simply studying a spectral
+image of them.”
+
+Hyperspectral imaging could enable precision agriculture, allowing fertilizer,
+pesticides, herbicides and water to be applied only where needed. This has the
+potential to reduce pollution while saving water and money. Imagine a
+hyperspectral camera mounted on a helicopter or drone mapping a field’s
+condition and transmitting that information to a tractor designed to deliver
+fertilizer or pesticides at variable rates across the fields.
+
+It is estimated that the process currently used to produce fertilizer accounts
+for up to two percent of the global energy consumption and up to three percent
+of global carbon dioxide emissions. At the same time, researchers estimate
+that 50 to 60 percent of fertilizer produced is wasted. Accounting for
+fertilizer alone, precision agriculture holds an enormous potential for energy
+savings and greenhouse gas reduction, not to mention the estimated $8.5
+billion in savings each year, according to the United States Department of
+Agriculture.
+
+Several companies are already pursuing these types of projects. For example,
+IBM is piloting a project in India using satellite imagery to assess crops in
+this manner. This approach, however, is very expensive and limiting, which is
+why Mikkelsen envisions a cheap, handheld detector that could image crop
+fields from the ground or from inexpensive drones.
+
+“Imagine the impact not only in the United States, but also in low- and
+middle-income countries where there are often shortages of fertilizer,
+pesticides and water,” said Mikkelsen. “By knowing where to apply those sparse
+resources, we could increase crop yield significantly and help reduce
+starvation.”
+
+Launched in 2016 to celebrate the fiftieth anniversary of Moore’s Law, the
+revolutionary prediction that anticipated the exponential growth of computing
+power, the program embraces the spirit of Gordon Moore’s passion for science
+and penchant for inventing.
+
+This year, the foundation considered more than 200 final-round nominations,
+from which five fellows were selected to pursue innovative projects with the
+potential to bring about significant change. Each fellow receives a total of
+$825,000 over three years as well as networking and entrepreneurial support to
+drive their invention forward.
+
+“The Moore Inventor Fellowship recognizes the quality of the individual, as
+well as the quality of the idea,” said Harvey V. Fineberg, president of the
+Gordon and Betty Moore Foundation. “The ultimate goal is to convert the ideas
+into inventions that can change the world.”
+
+## Related News
+
+March 08, 2017
+
+### Mikkelsen, Pajic Receive Naval Young Investigator Program Awards
+
+December 14, 2016
+
+### Nanocubes Simplify Printing And Imaging In Color And Infrared
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

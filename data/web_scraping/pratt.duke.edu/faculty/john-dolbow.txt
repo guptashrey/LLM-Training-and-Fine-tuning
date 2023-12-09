@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# John Everett Dolbow
+
+Professor in the Department of Mechanical Engineering and Materials Science
+
+Professor John E. Dolbow came to Duke University from Northwestern University,
+where he received an MS and PhD in Theoretical and Applied Mechanics. During
+the course of his graduate study, John was a Computational Science Graduate
+Fellow for the Department of Energy, and he spent a summer working at Los
+Alamos National Laboratory. Dr. Dolbow's research concerns the development of
+computational methods for nonlinear problems in solid mechanics. In
+particular, he is interested in modeling quasi-static and dynamic fracture of
+structural components, the evolution of interfaces with nonlinear constitutive
+laws, and developing models for stimulus-responsive hydrogels. A native of New
+Hampshire, Dr. Dolbow received his Bachelor's Degree in mechanical engineering
+from the University of New Hampshire.
+
+## Appointments and Affiliations
+
+  * Professor in the Department of Mechanical Engineering and Materials
+    Science
+  * Professor in the Department of Civil and Environmental Engineering
+  * Professor in the Department of Mathematics
+  * Faculty Network Member of The Energy Initiative
+  * Professor of Mathematics
+  * Bass Fellow
+
+## Contact Information
+
+  * **Office Location:** 319 Gross Hall, Box 90287, Durham, NC 27708
+  * **Office Phone:** (919) 660-5202
+  * **Email Address:** john.dolbow@duke.edu
+  * **Websites:**
+    * Dolbow Research Group
+
+## Education
+
+  * Ph.D. Northwestern University, 1999
+  * M.S. Northwestern University, 1998
+  * B.S.M.E. University of New Hampshire, 1995
+
+## Research Interests
+
+Modeling quasi-static and dynamic fracture of structural components, the
+evolution of interfaces with nonlinear constitutive laws, and developing
+models for stimulus-responsive hydrogels
+
+## Awards, Honors, and Distinctions
+
+  * R. H. Gallagher Young Investigator Award. U.S. Association for
+    Computational Mechanics. 2005
+  * Young Researcher Fellowship Award. First MIT Conference on Computational
+    Fluid and Solid Mechanics. 2001
+  * Robert J. Melosh Medal, Best Student Paper in Finite Element Analysis.
+    Duke University. 1999
+  * Computational Science Graduate Fellow. U.S. Department of Energy. 1997
+  * Highest Technical Content Award. ASME Regional Student Conference. 1995
+  * Walter P. Murphy Graduate Fellowship. Northwestern University. 1995
+  * Presidential Scholar. University of New Hampshire. 1991
+
+## Courses Taught
+
+  * CEE 530: Introduction to the Finite Element Method
+  * CEE 622: Fracture Mechanics
+  * ME 524: Introduction to the Finite Element Method
+  * ME 758S: Curricular Practical Training
+  * MENG 550: Master of Engineering Internship/Project
+  * MENG 551: Master of Engineering Internship/Project Assessment
+  * MENG 552: Master of Engineering Supplemental Internship
+
+## In the News
+
+  * Dolbow Named Assistant VP for Research (Apr 17, 2020)
+
+## Representative Publications
+
+  * Liu, Y; Claus, S; Kerfriden, P; Chen, J; Zhong, P; Dolbow, JE, _Model-
+    based simulations of pulsed laser ablation using an embedded finite
+    element method._ , International Journal of Heat and Mass Transfer, vol
+    204 (2023) [10.1016/j.ijheatmasstransfer.2022.123843] [abs].
+  * Hu, T; Dolbow, JE; Yosibash, Z, _Towards validation of crack nucleation
+    criteria from V-notches in quasi-brittle metallic alloys: Energetics or
+    strength?_ , Computer Methods in Applied Mechanics and Engineering, vol
+    402 (2022) [10.1016/j.cma.2022.115419] [abs].
+  * Costa, A; Cusini, M; Jin, T; Settgast, R; Dolbow, JE, _A multi-resolution
+    approach to hydraulic fracture simulation_ , International Journal of
+    Fracture, vol 237 no. 1-2 (2022), pp. 165-188 [10.1007/s10704-022-00662-y]
+    [abs].
+  * Talamini, B; Tupek, MR; Stershic, AJ; Hu, T; Foulk, JW; Ostien, JT;
+    Dolbow, JE, _Attaining regularization length insensitivity in phase-field
+    models of ductile failure_ , Computer Methods in Applied Mechanics and
+    Engineering, vol 384 (2021) [10.1016/j.cma.2021.113936] [abs].
+  * Geelen, R; Plews, J; Dolbow, J, _Scale-bridging with the
+    extended/generalized finite element method for linear elastodynamics_ ,
+    Computational Mechanics, vol 68 no. 2 (2021), pp. 295-310
+    [10.1007/s00466-021-02032-2] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

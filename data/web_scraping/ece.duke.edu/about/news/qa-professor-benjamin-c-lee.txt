@@ -1,0 +1,257 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Q&A with Professor Benjamin C. Lee
+
+April 6, 2014
+
+Originally published in DukEngineer Magazine
+
+Benjamin C. Lee is a professor in the Department of Electrical and Computer
+Engineering. His research focuses on power-efficient computer architectures
+and high-performance applications. Lee has held various visiting research
+positions at Microsoft Research, Intel Corporation and Lawrence Livermore
+National Laboratory, and received a highly valued 2012 NSF CAREER Award.
+_DukEngineer_ had the opportunity to discuss his work with him recently.
+
+**What is your current topic of research at Duke?**
+
+I am what you would call a computer architect, which is doing research at the
+interface between hardware and software. That means we try to design new
+hardware architectures but we also try to understand software trends and make
+software perform better.
+
+**How did you get into this research?**
+
+Within computer architecture there are different areas; power efficiency is an
+important one and is something I have been working on since graduate school.
+Power efficiency matters because you usually have power budgets associated
+with temperature constraints. When I started this research in the early 2000s,
+we were in an era where we were trying to build a lot of hardware but the
+power density was just too difficult to manage.
+
+**Can you tell me a bit about the NSF CAREER Award?**
+
+The Career Award is one of the more prestigious awards given by the NSF to
+early career researchers, which I believe means it has been five years since
+you started your faculty position.
+
+The Career Award is one of the things that is really great to jump-start a
+research program because it is a five-year grant. In my case, the Career Award
+was for data center research, so it was about designing and managing
+processors and memory systems for large data centers, getting better energy
+efficiency and delivering good performance.
+
+**So the data centers are the clouds as we know them today?**
+
+That’s right. So, typically when you talk to, say, Google, Microsoft or
+Amazon, they are going to build these large data centers, maybe dissipating on
+the order of megawatts of power with thousands of servers. The question is,
+how do we design and manage memory processors and memory systems in that
+setting? We are looking at applications like web search and machine learning
+and trying to figure out how to build hardware systems that better suit those
+other duties.
+
+**So your research is trying to minimize the power loss?**
+
+My research attempts to minimize power while guaranteeing performance targets,
+and we have a particular strategy for that. We have multiple types of
+hardware, so sometimes you have high-performance components and sometimes you
+have low-power components in the system or a mix of the two. And then,
+whenever possible, when the computation is able to run on the low-power
+hardware without violating performance targets, we try to do that.
+
+But sometimes you just cannot do that, you just need to answer quickly, which
+means you need to send it to a high-performance, high-power component. So our
+approach has been heterogeneity, which is the mix of different types of
+hardware, and then trying to manage , allocate and schedule work onto those
+heterogeneous systems.
+
+**What is the biggest challenge in your current research?**
+
+The biggest challenge is system complexity. We know how to build new pieces of
+hardware, but managing those complex hardware systems is increasingly
+difficult. It involves resource management, software scheduling and
+guaranteeing performance while reducing power. It is a management question in
+addition to a design question. So, if we can build whatever we want—and I
+think we can build whatever we want- folks at Intel and IBM are going to be
+able to build any architecture we propose. However, the question is whether or
+not people will be able to use it, and the answer is not if we make the system
+too complex to manage. What we need to do is find ways to manage the systems
+more effectively and that is sort of new approach to thinking about computer
+architecture because in the past most architects have simply built it. What we
+do is we integrate the processes of building and managing it.
+
+**How did your work come to receive this award?**
+
+We wrote a research proposal, outlining the vision and technical approach and
+experimental way to run, and that proposal was evaluated by a committee of our
+peers. The proposal was then scored to determine the funding received. And
+most of the money from this award will go toward student funds and
+fellowships, as Ph.D. students at Duke are funded by research assistantships.
+
+**Why did you choose to work in academia over industry?**
+
+I did a lot of undergraduate research, and I found that I liked it. It gave me
+a really good breadth of experiences. In addition to simply coding and working
+on technical areas, research allows you to think about the big picture, allows
+you to, once you have the data, do data analysis. I also like giving talks on
+the work. Not only am I doing the hard technical work, but also the data
+interpolation and analysis as well as the writing and presentations. I like
+the mix of responsibilities as a Ph.D.
+
+**Can you clarify the difference between computer science and computer
+engineering?**
+
+If you ask a computer architect, most architects will say that there is no
+difference, and most of the ECE kids doing computer engineering also double
+major in computer science. Hardware is typically computer engineering and
+software is typically computer science. If you write good software, that might
+be fine, but you still need to understand the hardware that it is running on
+to get good performance.
+
+**You mentioned machine learning--how fast is it advancing in 21st century?**
+
+Machine learning is advancing very rapidly, and the main reason for that is
+the amount of data we are producing. There have been some studies that say
+that the data we are generating is increasing by 50 percent each year and it
+is compounding as fast geometric growth. This means you have a large amount of
+data that require more effective algorithms. One example is the language
+translation that Google idoes. Historically, when researchers tried to do
+translations they would really try to understand the grammar. Now they are
+realizing that you don’t need all of that—just throw in the data and put a
+good algorithm on top of it. If you speak in EU Parliamentarian, then your
+language translation is very good, because that is what they are drawn on. So
+if you want something translated and it sounds a lot like what the EU would
+say, you are going to get very accurate results. I think that the amount of
+data we have is driving the quality of machine learning.
+
+**Any advice for the incoming class of Pratt 2018?**
+
+Within Pratt, I will recommend electrical and computer engineering (ECE) to
+incoming students, because I think the job prospects are quite good after
+graduation. My second piece of advice is to go for breadth; don’t assume that
+you want to do programming and focus on the computer science side, because
+breadth is important. Additionally, try to get involved in more
+extracurricular activities like undergraduate research, as many faculty are
+happy to have undergraduates. It is a great experience to have before
+attending graduate school, and undergraduates will do projects that are
+directly related to what my Ph.D. students do, such as simulation and design,
+so they will be writing large programs to understand behavior and data
+analysis on performance and power of design.
+
+_Efe Aras is a Pratt freshman leaning towards both BME and ECE._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

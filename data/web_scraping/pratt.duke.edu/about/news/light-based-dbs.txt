@@ -1,0 +1,246 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Light-Based Deep Brain Stimulation Relieves Symptoms of Parkinson’s Disease
+
+April 27, 2020 | By Ken Kingery
+
+Fast-acting, light-reactive genetic tools could reveal how deep brain
+stimulation works
+
+Biomedical engineers at Duke University have used deep brain stimulation based
+on light to treat motor dysfunction in an animal model of Parkinson’s disease.
+Succeeding where earlier attempts have failed, the method promises to provide
+new insights into why deep brain stimulation works and ways in which it can be
+improved on a patient-by-patient basis.
+
+The results appear online on April 20 in The Journal of Neuroscience.
+
+“If you think of the area of the brain being treated in deep brain stimulation
+as a plate of spaghetti, with the meatballs representing nerve cell bodies and
+the spaghetti representing nerve cell axons, there’s a longstanding debate
+about whether the treatment is affecting the spaghetti, the meatballs or some
+combination of the two,” said Warren Grill, the Edmund T. Pratt, Jr. School
+Distinguished Professor of Biomedical Engineering at Duke.
+
+“But it’s an impossible question to answer using traditional methods because
+electrical deep brain stimulation affects them both as well as the peppers,
+onions and everything else in the dish. Our new light-based method, however,
+is capable of targeting just a single ingredient, so we can now begin teasing
+out the individual effects of activating different neural elements.”
+
+In Grill’s metaphor, the meatballs are the neurons that make up the
+subthalamic nucleus, a small component of the basal ganglia control system
+that is believed to perform action selection. While its exact function remains
+unknown, research suggests that it holds muscular responses in check. The
+spaghetti in the bowl represents long nerve fibers called the hyperdirect
+pathway that extend into the region from neurons in the cerebral cortex, the
+thin outer layer of neurons responsible for most of the brain’s information
+processing. And the peppers, onions and other ingredients are the various
+types of support cells found throughout the brain.
+
+As Grill suggests, teasing out the role all of these various types of cells
+plays in mediating the effects of deep brain stimulation is nearly impossible
+using traditional methods. Individual types of cells cannot be singled out by
+electrical stimulation, and the electric pulses blind researchers’ sensors for
+a crucial millisecond directly after firing.
+
+In 2006, a team of researchers attempted to use optogenetics to skirt these
+issues. Optogenetics is a method of genetically modifying specific cells to
+express light-sensitive ion channels, allowing researchers to control their
+activity with flashes of light. The researchers embedded these light-sensitive
+ion channels into the subthalamic nucleus “meatballs” in rats and flashed
+pulses of light at the same rate used in deep brain stimulation. The
+treatment, however, failed to alleviate any of the rats’ physical symptoms,
+leading the researchers to conclude that stimulating the subthalamic nucleus
+on its own is an inadequate treatment approach.
+
+But the study never sat quite right in Grill’s mind.
+
+“Neurons being stimulated with optogenetics don’t generally respond very
+quickly, and it seemed to me that the researchers were flashing their lights
+faster than the neurons could keep up with,” said Grill. “The data bore this
+out, as the neurons appeared to be responding randomly rather than in sync
+with the flashes. And previous research that we conducted showed that random
+patterns of deep brain stimulation are not effective at relieving symptoms.”
+
+It took more than a decade for Grill to be able to test his theory, but two
+recent developments allowed him to follow his hunch. Researchers developed a
+faster form of optogenetics called Chronos that could keep up with the speeds
+traditionally used in deep brain stimulation. And Chunxiu Yu, a research
+scientist with expertise in optogenetics, joined Grill’s laboratory. Also
+contributing to the work in Grill’s laboratory were Isaac Cassar, a biomedical
+engineering doctoral student, and Jaydeep Sambangi, a biomedical engineering
+undergraduate.
+
+In the new paper, Yu embedded the Chronos optogenetics machinery into the
+subthalamic nucleus neurons of rats that have been given Parkinson’s disease-
+like conditions in one-half of their brains. This model helps researchers
+determine when a treatment is successful because the resulting physical
+movement symptoms only occur on one side of the rat’s body. They then
+delivered deep brain stimulation using light flashes at the standard 130
+flashes per second.
+
+As Grill first suspected nearly 15 years ago, the technique worked, and the
+rats’ physical symptoms were substantially alleviated.
+
+According to Grill, their result has several important implications. One is
+that researchers need to consider the kinetic properties of how rapidly
+optogenetic approaches can act when designing their experiments and pay close
+attention to performance in their studies. Another insight was the way that
+other neurons outside of the subthalamic nucleus responded to the treatment.
+While there was not a large difference in their average activity levels, there
+was a dramatic shift in the pattern in which those neurons fired, which offers
+clues as to how deep brain stimulation works.
+
+But perhaps the most important result is simply that the technique worked at
+all. Besides offering a much clearer look at neural activity by removing
+electrical artifacts, the ability to deliver deep brain stimulation to precise
+subsets of neurons should allow researchers to begin probing exactly which
+parts of the brain need to be stimulated and how therapies might be tailored
+to treat different motor control symptoms on a case-by-case basis.
+
+As their next experiment in this line of research, Grill and his colleagues
+plan to recreate this same study but in the hyperdirect pathway—the spaghetti
+instead of the meatballs —to see what its individual contribution to relieving
+symptoms might be.
+
+“This is very important because somewhere in that big bowl of spaghetti are
+some elements that are responsible for treating symptoms and some elements
+that generate side effects,” said Grill. “And if we can figure out which is
+which, we can design electrode stimulation geometries and patterns to target
+the elements that suppress symptoms while leaving the others alone.”
+
+This research was supported by the National Institute of Neurological
+Disorders and Stroke (R01 NS091236, R37 NS040894).
+
+CITATION: “Frequency-Specific Optogenetic Deep Brain Stimulation of
+Subthalamic Nucleus Improves Parkinsonian Motor Behaviors,” Chunxiu Yu, Isaac
+R. Cassar, Jaydeep Sambangi, and Warren M. Grill. Journal of Neuroscience,
+April 20, 2020. DOI: https://doi.org/10.1523/JNEUROSCI.3071-19.2020
+
+###
+
+## Related News
+
+January 04, 2017
+
+### Evolving Deep Brain Stimulation Patterns
+
+June 23, 2015
+
+### Understanding Deep Brain Stimulation
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

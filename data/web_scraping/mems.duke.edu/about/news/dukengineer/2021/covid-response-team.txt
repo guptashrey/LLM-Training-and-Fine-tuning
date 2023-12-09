@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2021
+
+# Innovation Amidst a Pandemic
+
+April 1, 2021 | Lily Hiser
+
+A glimpse into Duke’s COVID-19 Engineering Response Team
+
+When the COVID-19 pandemic erupted in the United States in early March 2020,
+it brought overwhelming fear that blanketed the country’s health care system.
+With all of the unknowns surrounding this highly infectious and dangerous
+disease, health care professionals and their systems were apprehensive not
+only of treating COVID-19 patients, but also of keeping their personnel safe
+in the meantime. Shortages of personal protective equipment (PPE)
+exponentially increased caregivers’ anxiety, leading them to seek creative
+solutions from their community.
+
+Duke University Health System (DUHS) was not immune to these anxieties. As
+DUHS braced for the predicted influx of COVID-19 patients, concerns over
+equipment supplies drove clinicians to turn to colleagues in the Pratt School
+of Engineering for assistance. As the pandemic continued to ramp up, leaders
+across Duke University and Duke Health joined together to form the COVID-19
+Engineering Response Team. Eager to combat COVID-19, they shared device design
+expertise and innovative solutions.
+
+Spearheading this campaign from the biomedical engineering department were
+Eric Richardson, professor of the practice of biomedical engineering; Paul
+Fearis, senior lecturing fellow in biomedical engineering; and Mark Palmeri,
+professor of the practice of biomedical engineering. Commenting on the reason
+for the team’s formation, Palmeri said, “If you’re watching another ship sink
+in the ocean due to a carpenter ant that could also be eating your ship, you
+do everything you can to make sure your ship doesn’t go down.”
+
+Also leading the group were Chip Bobbert, the senior engineer and fabrication
+architect at Duke’s Innovation Co-Lab. Additional support came from Ann
+Saterbak, director of the Duke Engineering First-Year Experience, who
+coordinated undergraduate participation; Joe Knight, an adjunct engineering
+professor with Duke Design Health; Ken Gall, associate dean for
+entrepreneurship at Duke Engineering; and other members from Duke Engineering
+and the Innovation Co-Lab.
+
+On the clinical side, Donna Crenshaw, executive that bringing together lots of
+people, who organically wanted to be part of it, makes a huge difference,”
+said Palmeri. “Everyone there was willing to put their own personal time and
+resources into it.”
+
+Most people still remember the shortage of essential items such as toilet
+paper and hand sanitizer in the early months of the pandemic, but these
+nationwide shortages expanded to materials and hardware products. Because of
+this, Bobbert and the team had to get creative with sourcing the materials
+that would comprise the face shields and the machines that would make them.
+
+Some of the clear plastic that covered the face was purchased from a hot-air
+balloon supplier, and a metal manufacturing plant in Burlington was persuaded
+to cease operation to help produce various face shield parts, Bobbert
+explained. To create the bend seen in the plastic face covering, the team used
+thermoforming. And when no thermoforming machines were available, Bobbert
+purchased a pizza oven and used it instead.
+
+Before the large-scale manufacturing could begin, Palmeri rigorously tested
+the design until he was confident that it met the quality expected of a
+medical device and the overarching standards it was subject to. He set up a
+testing rig—as described in the ANSI standard that governs face shields—in his
+own home using items he already had. All of this was done to ensure that users
+of the face shield could be confident they were protected.
+
+Other completed projects include a surgical hood and an aerosolization sampler
+clip, both of which are either in clinical use or in the process of being
+implemented. Richardson and Duke Surgeon Melissa Erickson took the lead on the
+surgical hood, which repurposed Stryker Flyte Personal Protection Systems to
+serve as PAPRs (powered air-purifying respirators) for surgeons. Several other
+projects that stemmed from the initial needs-finding exercise, such as
+COVIAGE, a negative pressure tent designed to isolate infectious COVID-19
+patients, continued to develop throughout the fall.
+
+After the initial anxiety around the pandemic, Richardson says that the team
+has settled into what will be a marathon of device design, and faculty members
+are optimistic about the future impacts that this team will have for
+collaboration between the Schools of Medicine and Engineering. While the team
+is by no means the first of its kind, the strong and vigorous response of both
+institutions while faced with a seemingly unsurmountable enemy lends further
+credence to the importance of establishing strong collaborations between the
+two. The Engineering Response Team is the epitome of Duke’s
+capabilities—creative innovation, high-quality results and an unrelenting
+pursuit of bettering the community.
+
+**_Lily Hiser is a senior studying biomedical engineering._**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2021
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

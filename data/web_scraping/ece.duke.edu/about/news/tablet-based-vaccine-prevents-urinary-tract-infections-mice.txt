@@ -1,0 +1,236 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tablet-Based Vaccine Prevents Urinary Tract Infections in Mice
+
+November 28, 2022 | Michaela Kane
+
+Quick-dissolving tablet shows long-lasting protection from bacteria that
+causes UTIs
+
+Biomedical engineers at Duke University have developed a tablet-based vaccine
+for urinary tract infections (UTIs) that rapidly dissolves when placed under
+the tongue. The new treatment could offer an easy and practical alternative to
+high-dose, oral antibiotics ­­which are the current standard for UTI
+treatments.
+
+The results appeared online November 23 in the journal Science Advances.
+
+Urinary tract infections occur when bacteria infect the urethra, bladder,
+ureters or kidneys. More than half of all women experience a UTI, and they
+pose a significant risk for patients who require a catheter. While UTIs often
+cause pain and discomfort, organ damage and even sepsis can also occur if the
+infection reaches the kidneys.
+
+These infections can be resolved with oral antibiotics, but some patients face
+recurrent UTIs, requiring prolonged, repeated and sometimes expensive
+antibiotic use. This extended antibiotic use negatively affects the patient’s
+microbiome, as the antibiotics also kill helpful bacteria, creating an
+environment for antibiotic-resistant bacteria to thrive. Today, many strains
+of bacteria that cause UTIs have become increasingly resistant to several of
+the antibiotics commonly used to treat these infections.
+
+To address this issue, a team of collaborators including Joel Collier, the
+Theodore Kenney Professor of Biomedical Engineering at Duke, and Sean Kelly,
+who completed this work as a PhD student in the Collier lab, developed a
+vaccine that can be absorbed under the tongue and activates key immune cells
+to precisely attack UTI-causing bacteria.
+
+“There was previous literature that showed that drugs absorbed through the
+mucus membrane under the tongue could trigger an immune response, especially
+in similar mucosal membranes throughout the body,” said Kelly, now a post-
+doctoral fellow at Johns Hopkins University. “This was important, because one
+of the challenges for developing a vaccine for UTIs is that you need to
+trigger an immune response in both the blood and in the urogenital tract, and
+the intramuscular shots generally do not trigger strong responses in those
+mucosal areas.”
+
+“Additionally, there are a lot of barriers to easy vaccine delivery. You often
+need refrigeration, you need trained personnel to administer the shot, and you
+need materials like needles,” Kelly said. “But the tablet delivery method
+offers a solution to a lot of these problems. It can be stored at room
+temperature without any issues. The hope is that a patient could pop it out of
+a package, put it under their tongue and in a few seconds, it’s gone, and the
+patient can go on with their day.”
+
+Getting past the membrane layer under the tongue is tricky, as mucus was made
+to prevent large molecules, viruses, and other materials from entering the
+body. But the Collier lab specializes in developing biomaterials that self-
+organize into useful structures like nanoparticles, nanofibers, and gels,
+which can be customized to activate key cells in the immune system. The team
+found that they could add mucus-resistant modifications to these structures
+that allows them to easily slip through the mucosal layer.
+
+After finalizing the sugars and other structural components needed in a
+quickly dissolving, vaccine-delivering tablet, the team began exploring how to
+specifically target UTI-causing bacteria.
+
+“Sean identified certain proteins that appeared frequently in a type of
+bacteria called uropathogenic E. coli, which causes most UTIs,” said Collier.
+“That gave us a clear target for the immune cells to attack.”
+
+The team wove the E. coli proteins into their mucus-penetrating nanofibers.
+Once this structure is absorbed, the incorporated bacterial proteins activate
+immune cells, giving them specific instructions to kill the bacteria in both
+the blood and urogenital tract.
+
+“The efficacy of the tablet-delivered vaccine was comparable to antibiotics,
+and we have found that antibody responses raised by the nanofiber materials
+can be very durable, lasting for the lifetime of a mouse, so we are hopeful
+that protection from UTIs will be equally long-lasting,” said Collier. “Sean
+and the team also conducted microbiome analyses, and they found that there was
+significantly less disruption to the gut microbiome of the mice models than
+what we see with antibiotics.”
+
+The team will continue to refine their model, as Collier and his collaborators
+are curious if the vaccine can be used to minimize or even prevent UTI
+recurrence. They also plan to explore additional disease models where the
+sublingual vaccine delivery mechanism could be especially useful. Many of
+these diseases, including gonorrhea and chlamydia, also involve the urogenital
+tract and face issues with antibiotic resistance.
+
+Although the team was excited about the results for long-term UTI protection,
+they are also optimistic for the new possibilities available with the
+sublingual vaccine tablet.
+
+“Especially after COVID, it is becoming clear that vaccines are increasingly
+going to be part of our lives, so we need more accessible vaccinations that
+can be repeated easily,” said Collier.
+
+“Current vaccines, with their dependence on continuous refrigeration, require
+substantial infrastructure that is not available in vast parts of the world.
+The tablet technology can be much more equitably delivered because it avoids
+this dependence on refrigeration,” Collier said. “If we are successful, anyone
+could receive the vaccine, whether they’re close to a large hospital system or
+not. We’re a ways off from that reality, but we continue to work in that
+direction.”
+
+This work was supported Duke University and the National Institutes of Health
+NIBIB 5R01EB009701)(NIAID 1R01AI167300), the National Science Foundation
+Graduate Research Fellowship Program (DGE-1644868)(NIH T32GM008555) and the
+North Carolina Biotechnology Center Grant (2017-IDG-1018).
+
+Competing financial interests: JHC and SHK are investors on the following
+patent applications related to this work filed by Duke University: U.S.
+pending patent no. 63/358,373, filed on 5 July 2022; U.S. pending patent no.
+17/764,406, filed on 28 March 2022; and U.S. pending patent no. 16/632,226,
+filed on 17 January 2020. The authors declare no other competing interests.
+
+CITATION: “A Sublingual Nanofiber Vaccine to Prevent Urinary Tract
+Infections,” Sean Kelly, Nicole Votaw, Benjamin Cossette, Yaoying Wu, Shamitha
+Shetty, Lucas Shores, Luqman Issah, Joel Collier. Science Advances, November
+23, 2022. DOI: 10.1038/s41591-021-01339-0
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Regrettable Tattoo? Robots with Tiny Lasers Could Soon Erase the Pain
+
+December 11, 2019 | Miranda Volborth
+
+A Duke team is using laser scalpels and precision robotics to make tattoo
+removal faster, more accurate and less painful
+
+They are the faded souvenirs of your questionable judgement, unbridled
+revelry, and/or dissolved relationships. But if you thought you’d be stuck
+with your bad tattoos forever—or face the pain and potential scarring of laser
+removal—take heart: A new robot-guided laser removal system being developed by
+the Brain Tool Laboratory at Duke aims to make the process quick and painless.
+
+The Brain Tool Laboratory, which is housed within Duke Robotics, seems an
+unlikely birthplace for a tattoo removal system. Duke neurosurgeon and
+mechanical engineering and materials science (MEMS) faculty member Patrick
+Codd directs the lab, which primarily develops robot-guided laser surgical
+systems. Using preoperative MRIs as roadmaps, the systems can precisely
+scalpel away targeted tissue—or even vaporize it, if the chosen laser is
+powerful enough. But Weston Ross, who earned his PhD in MEMS at Duke and who
+is now a postdoctoral scholar in the university’s Department of Neurosurgery,
+said that targeting dermatological ailments, such as tattoo removal, has
+expanded how the lab’s laser technology can be applied.
+
+“With our robotic scalpel system, we can more precisely locate and treat the
+tattoos, without overshooting and damaging surrounding tissue, which happens
+too much with current handheld laser systems,” said Ross.
+
+With advanced imaging techniques, such as stereo vision, the system can
+precisely locate the tattoo’s boundaries. A robot could then guide a laser
+along the trail of ink, bombarding it with light that disintegrates each ink
+molecule to be carried away in the bloodstream and disposed of as waste.
+
+> "Using a robot, we can deploy a very tiny laser and trace precisely where
+> the tattoo is—there’s no overlapping, no extra damage and you get a uniform
+> removal.”
+>
+> Weston Ross, Phd, MEMS'19
+
+Though the Brain Tool Laboratory’s system sounds similar to current laser
+removal techniques, it actually has a couple of huge advantages, according to
+Ross. For one thing, it is more targeted, which makes it less painful.
+“Currently, a dermatologist uses a handheld laser, moving it across the
+surface of the skin,” explained Ross. “That causes a lot of damage and pain
+because of the overlapping that happens when the laser goes back and forth
+over the image. Using a robot, we can deploy a very tiny laser and trace
+precisely where the tattoo is—there’s no overlapping, no extra damage and you
+get a uniform removal.”
+
+Moreover, the system allows the doctor to choose the best laser to effectively
+disintegrate the type of ink that was used to create the tattoo.
+
+“With any given tattoo, we don’t know what type of ink it is,” said Ross.
+“There’s no FDA oversight. A lot of the work is done in professional studios,
+but it’s also done in the backs of vans.” The lack of standardization means
+that though two black inks might appear identical to the human eye, Ink A
+might absorb purple light more readily than Ink B, while Ink B might absorb
+red light better.
+
+“We want to choose the most appropriate laser for the job, to reduce pain and
+improve the patient experience,” said Ross.
+
+Right now, removing a tattoo usually takes between six and ten sessions,
+allowing time between sessions for your skin to heal. But the new system is
+expected to be much more efficient, requiring only a couple sessions, with the
+tattoo fading into oblivion over several months. The process itself—the
+“zap”—might take only tens of seconds.
+
+The Brain Tool Laboratory recently won the American Society for Dermatologic
+Surgery Jumpstart Research Seed Grant to develop the prototype system, which
+Ross expects to be finished by mid-2020. The interdisciplinary collaboration
+between engineering and the medical school will leverage the expertise of
+Patrick Codd (Neurosurgery/MEMS), Junjie Yao (Biomedical Engineering), and
+Jigar Patel (Dermatology), in addition to Ross.
+
+To scale up beyond the prototype might take four or five years, said Ross, but
+he envisions tattoo removal kiosks at the drugstore alongside blood pressure
+machines in the not-too-distant future.
+
+And, added Ross, tattoo removal, while worthy, isn’t the end game for the
+lab’s new technology. “It would be super cool if the research we put together
+could target indications that are more detrimental—like skin cancers,” he
+said.
+
+More about the Brain Tool Laboratory
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

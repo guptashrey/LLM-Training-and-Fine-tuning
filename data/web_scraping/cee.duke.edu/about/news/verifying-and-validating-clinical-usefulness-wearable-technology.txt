@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Verifying and Validating the Clinical Usefulness of Wearable Technology
+
+May 15, 2020
+
+A three-step process helps standardize smartwatches and other devices that
+collect biometric data
+
+A collaborative team of researchers from the Digital Medicine Society (DiMe)
+and biomedical engineers at Duke University have developed a framework that
+will help data scientists and other researchers use better digital health
+tools for clinical purposes.
+
+As smartwatches and other wearable technologies are becoming more popular,
+researchers are exploring how they can use biometric data collected by these
+tools to create beneficial health insights about the users. Although some of
+these devices are marketed as being clinically validated, there are currently
+no standards t oensure that the data from digital medicine tools is evaluated
+and fit for clinical purposes.
+
+In a new paper, Jessilyn Dunn, an assistant professor of biomedical
+engineering at Duke University, worked with an interdisciplinary,
+international team of 16 researchers from the DiMe community to propose a
+three-step framework that evaluates and documents the clinical usefulness of
+these tools, addressing shortcomings with the current approach to evaluating
+digital health tools.
+
+The project is one of several collaborations between Dunn and the expert DiMe
+community that include co-participation in a World Economic Forum initiative
+focused on managing epidemics with consumer wearables.
+
+The paper appeared on April 14 in the journal NPJ Digital Medicine.
+
+"In the last decade alone we've seen digital biomarker research increase by
+more than 325 percent, but we haven't caught up with this growth in terms of
+standards and evaluation of digital medicine tools," said Brinnae Bent, a PhD
+student in the Dunn lab and one of the authors of the paper. "Our main goal
+was to develop a common framework for evaluating these new technologies, but
+we also wanted to create a unifying language for the field so there's
+structure as it grows."
+
+During the evaluation of more traditional medical devices, engineers will
+verify the software and sensor technology of a product and validate that the
+end product can accurately mreasure what it claims to measure, like heart rate
+or activity levels.
+
+But there are no set definiitions for what clinically validated means for
+wearable devices. For examaple, companies may advertise their heart rate
+measurements as accurate and clinically validated, but they may have only been
+tested across a limited range of environments and body and activity types.
+
+These testing discrepancies can lead to varying rates of data accuracy, which
+Dunn and her lab discovered in their February 2020 Nature Digital Medicine
+paper.
+
+In their new paper, lead author Jennifer Goldsack, the executive director at
+DiMe, and Dunn introduce the term Biometric Monitoring technologies, or
+BioMeTs, as a standardized description for all technologies that combine
+sensors and other hardware with software to collect biometric data.
+
+The first step of their "V3" framework is verification, where hardware
+manufacturers will tet sample-level sensor outputs of the devices. In the next
+step, analytical validation, engineers, data scieitists and physiologists will
+evaluate the algorithms that process data from the sensor to produce
+physiological metrics.
+
+The third and final step, clinical validation, is the largest departure from
+more traditional approaches to medical technology development. During this
+critical step, a technology vendor or clinical expert will demonstrate that
+the BioMeT can acceptably identify, measure or predict the clinical,
+biological, physical or functional experience that it was intended to capture
+in the target population of users.
+
+"It is essential to make sure tha tthe BioMeTs are indeed measuring what
+manufacturers claim they are measuring, and do it in a manner that is open and
+trustworhty," said Will Wang, a PhD student in the Dunn lab and one of the co-
+authors of the paper. "If such information is not clinically validated, users
+and researchers alike will be led to unjustified conclusions."
+
+Now, the DiMe team, including Dunn, are working to advance teh framework with
+the Food and Drug Administration to make it the standard methodology for
+evaluating all BioMeTs.
+
+"The development of this V3 framework for evaluating BioMeTs characterizes
+DiMe's committment to building solutions to advance the safe, efficient and
+effective use of digital technologies to optimize health," Goldsack said.
+"We're incredibly proud of this seminal work in digital medicine that was
+completed by 16 experts from our diverse membership. We're grateful for
+Jessilyn's scientific expertise, her team's important contribition, and their
+commitment to collaboration."
+
+Citation: "Verification, Analytical Validation, And Clinical Validation (V3):
+The Foundation of Determining Fit-For-Purpose For Biometric Monitoring
+Technologies (BioMeTs)," Jennifer Goldsack, Andrea Coravos, Jessi Bakker,
+Brinnae Bent, Ariel Dowling, Cheryl Fitzer-Attas, Alan Godfrey, Job Godino,
+Ninad Gujar, Elena Izmailova, Christine Manta, Barry Peterson, Benjamin
+Vandendriessche, William Wood, Ke Will Wang and Jessilyn Dunn. NPJ Digital
+Medicine, 2020. DOI 10.1038/s41746-020-0260-4
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,260 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Off-Grid Sanitation Systems Show Promise in Global Testing, Despite Toilet
+Paper Sabotage
+
+February 17, 2020 | By Ken Kingery
+
+Systems approaching viability in field tests of Duke-led Gates Foundation
+“Reinvent the Toilet” project
+
+As legend has it, when French workers felt their livelihoods threatened by
+automation in the early 1900s, they flung their wooden shoes called sabots
+into the machines to stop them. Hence the word sabotage.
+
+Instead of wasting good footwear, perhaps they should’ve tried wet toilet
+paper.
+
+In two new papers published in the journal _Science of the Total Environment_
+, engineers from Duke University report on results from the first large-scale,
+real-world field trials of critical components of their off-grid sanitation
+system. Since 2011, the Bill & Melinda Gates Foundation’s “Reinvent the
+Toilet” initiative has invested more than $200 million to fund these and other
+efforts to create small-scale sanitation systems to serve the needs of the 4.2
+billion people who lack safely managed sanitation worldwide.
+
+While their nutrient removal processes need improvement, the researchers say
+they were pleasantly surprised at how long the system’s components lasted.
+They were also reminded of just how important cultural practices can be to the
+success of a global engineering challenge.
+
+“The first step in our reinvented toilet system separated the solid and liquid
+waste through a conveyer belt made of rubber bands,” said Brian Hawkins,
+research scientist in the Duke Center for Water, Sanitation, Hygiene and
+Infectious Disease (WaSH-AID). “It works great in India where they have a
+washing culture, but in South Africa, where they have a wiping culture, the
+toilet paper got into the mix and gummed up all of the gears. That resulted in
+the system needing cleaning every couple of days, which is not sustainable.”
+
+For the Gates-funded sanitation systems to be considered successful, they must
+not only remove pathogens from human waste and recover resources such as
+energy, clean water and nutrients, they have to do this “off the grid,”
+without access to external electricity or water sources. To top it all off,
+the systems must cost less than five cents per user, per day—that’s 200 users
+for $10.
+
+Along with Jeffrey Glass and Brian Stoner, both faculty members in Duke’s
+Department of Electrical & Computer Engineering, Hawkins has worked on his
+system at RTI International and Duke Engineering for almost a decade. After
+testing the liquid treatment system at large scales in real-life settings, it
+appears that the team’s dedication is beginning to pay off.
+
+“The big thing we were trying to find out is how long we can run this system
+before it needs critical maintenance,” said Hawkins. “And you want to do that
+in as close to real-life situations as possible.”
+
+Throughout much of 2018, the Duke researchers installed a prototype waste
+treatment system at two locations—a women’s dormitory at a textile mill in
+Coimbatore, India and a communal ablution block at the edge of Durban, South
+Africa. Over the course of eight months, both systems served up to 50
+potential users at any given time, processing more than 11,000 liters of waste
+throughout the field trials.
+
+While the problem of toilet paper was an important discovery, the primary
+purpose of the trials was to test the longevity of the critical components of
+the liquid treatment process. After solids are separated from the liquids,
+they are pushed through a large activated carbon filter.
+
+While this removes almost all of the biosolids, it does not disinfect the
+water or remove any dissolved salts. But that’s okay, because the researchers
+can make use of one problem to solve the other. Electricity is run through the
+water to break down the molecular bonds within the remaining salts to produce
+chlorine-containing oxidants, a powerful disinfectant.
+
+“Electrochemically treating hazardous waste has a lot of benefits,” said
+Glass. “You don’t have to ship or handle any chemicals for the disinfection,
+and the process can be very efficient.”
+
+Depending on the specific chemistry of the water, however, the electrical
+leads needed for this process can corrode quickly. The researchers also
+weren’t sure how much use the activated carbon filters could handle before
+needing to be replaced. But the field trials helped alleviate those fears.
+
+“Both trials went for eight months and the filters never failed. I had it in
+my head that it’d be great if they could last a year, and so far it looks like
+they might be able to,” said Hawkins. “So long as we cleaned the electrical
+system periodically, it lasted for hundreds of hours of service. That’s a
+component that, if you had to replace it every six months, it’s not going to
+work out. But if you can make it last three or four years, that’s okay.”
+
+In general, the field trial results were promising in regard to the system’s
+potential maintenance needs and performance. Duke’s prototype systems met all
+of the biological parameters and three out of the five chemical standards for
+liquid effluent according to recently released stand-alone sewage treatment
+requirements from the International Organization for Standardization (ISO).
+However they fell short of the standards for remaining amounts of phosphorus
+and nitrogen.
+
+“These two chemicals are of particular concern when you’re discharging water
+into lakes and streams because too much of either can cause algal blooms,”
+said Hawkins. “There are efficient ways of removing phosphorus and nitrogen at
+low costs for large volumes, or for small volumes at high costs, but not for
+low volumes at low cost. That’s an ongoing topic of R&D for us.”
+
+Duke engineers are now testing solutions to such problems in their next
+iteration of systems in India. The new systems are more compact and efficient
+— and just a little bit closer to being employed as full-scale working
+solutions.
+
+“If you look at the flow diagram of our original system and what we’re testing
+now, the components are all the same, but the newest prototypes are a lot more
+lean and mean,” Hawkins said. “At this point we’re mostly iterating on the
+same technologies, but not really making big changes.”
+
+This research was supported by the Bill & Melinda Gates Foundation. Local
+partners in India included: RTI India and PSG Institute of Medical Science and
+Research. In South Africa, partners included: The Pollution Research Group
+(PRG) and School of the Built Environment and Development Studies (SoBEDs) at
+the University of KwaZulu-Natal, Khanyisa Projects, and eThekwini Water and
+Sanitation.
+
+CITATIONS: “Field Testing of a Household-Scale Onsite Blackwater Treatment
+System in Coimbatore, India,” Claire M.Welling, Sarani Sasidaran, Prateek
+Kachoria, Sarah Hennessy, Brendon J. Lynch, Stephanie Teleski, Hitendra
+Chaudhari, Katelyn L. Sellgren, Brian R. Stoner, Sonia Grego, Brian T.
+Hawkins. Science of the Total Environment, 2020. DOI:
+10.1016/j.scitotenv.2020.136706
+
+“Field Testing of a Household-Scale Onsite Blackwater Treatment System in
+South Africa,” Tapuwa Sahondo, Sarah Hennessy, Rebecca C. Sindall, Hitendra
+Chaudhari, Stephanie Teleski, Brendon J. Lynch, Katelyn L. Sellgren, Brian R.
+Stoner, Sonia Grego, Brian T. Hawkins. Science of the Total Environment, 2020.
+DOI: 10.1016/j.scitotenv.2019.135469
+
+# # #
+
+## Related News
+
+November 19, 2018
+
+### Reinvented Toilets to Debut In Two Indian Cities
+
+November 05, 2018
+
+### Reinventing the Toilet: Seeking a ‘Safe and Dignified Solution’ to the
+Sanitation Crisis
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

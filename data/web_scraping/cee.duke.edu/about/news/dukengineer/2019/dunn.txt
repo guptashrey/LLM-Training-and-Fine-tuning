@@ -1,0 +1,235 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2019
+
+# Improving Patient Outcomes by Analyzing Wearable Data
+
+July 11, 2019 | By Diane Chernoff
+
+MEDx Investigator Jessilyn Dunn brings a fresh perspective on big data and
+wearable technology to Duke’s growing network of engineering and medical
+collaborations
+
+Over the past few years, Duke University has launched an interdisciplinary
+initiative to strengthen research and innovation in the realms of data
+science, engineering and medicine.
+
+MEDx (Medicine and Engineering at Duke, https://medx.duke.edu/), a
+collaboration between the Pratt School of Engineering and School of Medicine
+begun in summer 2015, promotes the exchange of ideas between doctors,
+engineers, researchers and innovators. Through interdisciplinary programs,
+MEDx hopes to stimulate the development of new therapies, diagnostics, devices
+and educational opportunities in order to accelerate science and its
+translation to clinical practice to improve patient care.
+
+The effort is already bearing fruit, as Duke has proudly made advancements in
+health informatics, drug and device innovation, tissue and genetic
+engineering, reverse-engineering the brain, and basic science fields. One of
+the primary areas of growth has been driven by new biomedical imaging and
+sensing technologies that generate new data for electronic health records and
+beyond. By studying these topics, students and faculty seek to develop
+innovative data science, machine learning and digital health modeling
+approaches to improve biomedical data analytics and patient care.
+
+To build on its leadership in this arena, Duke University’s Departments of
+Biomedical Engineering and Biostatistics and Bioinformatics welcomed Jessilyn
+Dunn as a new faculty member and MEDx investigator (with appointments in both
+engineering and medicine) in January 2019. Dunn served as a postdoctoral
+fellow at Stanford University, obtained a PhD in biomedical engineering from
+Georgia Tech and Emory University, and graduated from Johns Hopkins University
+with a BSE in biomedical engineering. In previous work, Dunn has conducted
+research in multi-modal biomedical data integration with the goal of improving
+personalized medicine.
+
+Each year, MEDx works alongside departments in both the School of Medicine and
+Pratt School of Engineering to award grants to support pilot projects. This
+year, one of the winning projects is spearheaded by Dunn and Mark Feinglos,
+professor of medicine and associate professor of psychiatry and behavior
+sciences and pathology. Together, the two are examining digital biomarkers of
+pre-diabetes and glycemic variability. The project coincides with Dunn’s
+research on multi-omic biomolecular data sets, which include genomics,
+epigenomics, proteomics and metabolomics.
+
+In addition to her MEDx project, Dunn plans to continue her research in
+biomedical big data at Duke, with a focus on studying the information stored
+in consumer wearable devices to gain insights into patient health.
+
+As medical technology becomes more accessible to patients outside the
+clinic—as well as more more ubiquitous and consumer friendly—Dunn has learned
+to take advantage of such technologies. She has studied data collected from
+wearable devices like Apple Watches and Fitbits with the intention of using
+the data to make general predictions on patient conditions that can be applied
+to larger patient populations and improve future patient care.
+
+Many wearable devices on the market today collect data on users’ daily
+activity, sleep patterns, workout habits and basic conditions like heart rate
+and body temperature. “Most of life occurs outside of the clinic, and by
+analyzing the data recorded by these wearable devices, we can capture patient
+health outside of the clinic,” Dunn explained.
+
+Dunn hopes to collect information that is clinically actionable from the
+wearable devices, like the users’ heart rate, physical activity, temperature,
+electrodermal activity and location, to make general predictions on patient
+health. “We can use the data to make a prediction that someone is
+deteriorating in some area based on the data we can collect from their watch,”
+Dunn said.
+
+Dunn’s research is not case specific, and she hopes to apply large-scale data
+science principles on data collected from wearable devices to broader
+populations. “Instead of focusing on developing more complex sensors, we hope
+to understand what more basic sensors can accomplish and translate the things
+that we learn from individual patients to a broader population as well as make
+predictions about future health events,” Dunn added.
+
+Dunn’s research is focused on studying data collected from wearable devices to
+make improvements in treating patients with cardiometabolic disease.
+Cardiometabolic diseases, which are combinations of cardiovascular diseases,
+like heart disease, and metabolic conditions, such as diabetes, are epidemics
+across the country.
+
+As Dunn joins Duke, she looks forward to working with patients, physicians and
+researchers who may benefit and contribute to her research, saying, “We are
+developing a comprehensive infrastructure for personalized risk classification
+and tailored, remote intervention strategies.”
+
+In the coming months, Dunn is looking forward to taking advantage of Duke’s
+“stateof- the-art medical facilities, data science and localization to the
+Southeast.” Through Duke’s cross-campus initiatives to integrate biomedical
+engineering and medical research, she is confident that her research will
+accelerate through collaborations with MEDx and other research and clinical
+groups on campus.
+
+As Dunn prepares to join the Duke family, she says she is “most looking
+forward to getting involved with both the Duke and surrounding community and
+building an impactful translational research program.”
+
+**Diane Chernoff is a first-year Pratt student planning to major in biomedical
+engineering from New York.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2019
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

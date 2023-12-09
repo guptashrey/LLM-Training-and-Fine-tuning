@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Soft Robotic Dragonfly Signals Environmental Disruptions
+
+March 25, 2021 | By Ken Kingery
+
+Electronics-free DraBot uses air pressure, microarchitectures and self-healing
+hydrogels to watch for changes in pH, temperature and oil
+
+Engineers at Duke University have developed an electronics-free, entirely soft
+robot shaped like a dragonfly that can skim across water and react to
+environmental conditions such as pH, temperature or the presence of oil. The
+proof-of-principle demonstration could be the precursor to more advanced,
+autonomous, long-range environmental sentinels for monitoring a wide range of
+potential telltale signs of problems.
+
+The soft robot is described online March 25 in the journal Advanced
+Intelligent Systems.
+
+Soft robots are a growing trend in the industry due to their versatility. Soft
+parts can handle delicate objects such as biological tissues that metal or
+ceramic components would damage. Soft bodies can help robots float or squeeze
+into tight spaces where rigid frames would get stuck.
+
+The expanding field was on the mind of Shyni Varghese, professor of biomedical
+engineering, mechanical engineering and materials science, and orthopaedic
+surgery at Duke, when inspiration struck.
+
+“I got an email from Shyni from the airport saying she had an idea for a soft
+robot that uses a self-healing hydrogel that her group has invented in the
+past to react and move autonomously,” said Vardhman Kumar, a PhD student in
+Varghese’s laboratory and first author of the paper. “But that was the extent
+of the email, and I didn’t hear from her again for days. So the idea sort of
+sat in limbo for a little while until I had enough free time to pursue it, and
+Shyni said to go for it.”
+
+In 2012, Varghese and her laboratory created a self-healing hydrogel that
+reacts to changes in pH in a matter of seconds. Whether it be a crack in the
+hydrogel or two adjoining pieces “painted” with it, a change in acidity causes
+the hydrogel to form new bonds, which are completely reversible when the pH
+returns to its original levels.
+
+Varghese’s hastily written idea was to find a way to use this hydrogel on a
+soft robot that could travel across water and indicate places where the pH
+changes. Along with a few other innovations to signal changes in its
+surroundings, she figured her lab could design such a robot as a sort of
+autonomous environmental sensor.
+
+With the help of Ung Hyun Ko, a postdoctoral fellow also in Varghese’s
+laboratory, Kumar began designing a soft robot based on a fly. After several
+iterations, the pair settled on the shape of a dragonfly engineered with a
+network of interior microchannels that allow it to be controlled with air
+pressure.
+
+They created the body—about 2.25 inches long with a 1.4-inch wingspan—by
+pouring silicon into an aluminum mold and baking it. The team used soft
+lithography to create interior channels and connected with flexible silicon
+tubing.
+
+DraBot was born.
+
+“Getting DraBot to respond to air pressure controls over long distances using
+only self-actuators without any electronics was difficult,” said Ko. “That was
+definitely the most challenging part.”
+
+DraBot works by controlling the air pressure coming into its wings.
+Microchannels carry the air into the front wings, where it escapes through a
+series of holes pointed directly into the back wings. If both back wings are
+down, the airflow is blocked, and DraBot goes nowhere. But if both wings are
+up, DraBot goes forward.
+
+To add an element of control, the team also designed balloon actuators under
+each of the back wings close to DraBot’s body. When inflated, the balloons
+cause the wings to curl upward. By changing which wings are up or down, the
+researchers tell DraBot where to go.
+
+“We were happy when we were able to control DraBot, but it’s based on living
+things,” said Kumar. “And living things don’t just move around on their own,
+they react to their environment.”
+
+That’s where self-healing hydrogel comes in. By painting one set of wings with
+the hydrogel, the researchers were able to make DraBot responsive to changes
+in the surrounding water’s pH. If the water becomes acidic, one side’s front
+wing fuses with the back wing. Instead of traveling in a straight line as
+instructed, the imbalance causes the robot to spin in a circle. Once the pH
+returns to a normal level, the hydrogel “un-heals,” the fused wings separate,
+and DraBot once again becomes fully responsive to commands.
+
+To beef up its environmental awareness, the researchers also leveraged the
+sponges under the wings and doped the wings with temperature-responsive
+materials. When DraBot skims over water with oil floating on the surface, the
+sponges will soak it up and change color to the corresponding color of oil.
+And when the water becomes overly warm, DraBot’s wings change from red to
+yellow.
+
+The researchers believe these types of measurements could play an important
+part in an environmental robotic sensor in the future. Responsiveness to pH
+can detect freshwater acidification, which is a serious environmental problem
+affecting several geologically-sensitive regions. The ability to soak up oils
+makes such long-distance skimming robots an ideal candidate for early
+detection of oil spills. Changing colors due to temperatures could help spot
+signs of red tide and the bleaching of coral reefs, which leads to decline in
+the population of aquatic life.
+
+The team also sees many ways that they could improve on their proof-of-
+concept. Wireless cameras or solid-state sensors could enhance the
+capabilities of DraBot. And creating a form of onboard propellant would help
+similar bots break free of their tubing.
+
+“Instead of using air pressure to control the wings, I could envision using
+some sort of synthetic biology that generates energy,” said Varghese. “That’s
+a totally different field than I work in, so we’ll have to have a conversation
+with some potential collaborators to see what’s possible. But that’s part of
+the fun of working on an interdisciplinary project like this.”
+
+This work was mostly performed at Shared Materials and Instrumentation
+facility (SMIF) at Duke University, a core facility supported by the National
+Science Foundation (ECCS-1542015) as part of the National Nanotechnology
+Coordinated Infrastructure (NNCI).
+
+“Microengineered Materials with Self-healing Features for Soft Robotics.” V.
+Kumar, U. Ko, Y. Zhou, J. Hoque, G. Arya, and S. Varghese. Adv. Intel. Sys.,
+2021. DOI: 10.1002/aisy.202100005
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

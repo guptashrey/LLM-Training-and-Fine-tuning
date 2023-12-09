@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening
+
+December 7, 2018 | By Ken Kingery
+
+Engineering researchers will develop molecular-level X-ray screening
+technology to improve airport security
+
+The US Department of Homeland Security (DHS) has tapped the expertise of
+electrical engineers at Duke University to design and develop a new type of
+X-ray scanner that combines the best features of the two technologies. With
+the ability to detect not just the 3D shape of an object but its molecular
+composition, the resulting device could one day become standard in airports
+the world over.
+
+Under a three-year, $5.83 million contract with DHS, Duke researchers will
+work with collaborators at the University of Arizona, private industry firm
+Smiths Detection, and Durham, NC-based startup Quadridox, Inc. to bring to
+market the advanced X-ray detection technology.
+
+The project is being led by Duke’s Joel Greenberg, assistant research
+professor of electrical and computer engineering, and Michael Gehm, associate
+professor of electrical and computer engineering, who are joined by Amit
+Ashok, associate professor of optical sciences and of electrical and computer
+engineering at the University of Arizona.
+
+“A hospital will spend a million dollars on a thorough scanning device that
+can process four relatively predictable people in an hour,” said Greenberg.
+“An airport wants a device that can process thousands of bags—which could
+literally contain just about anything—each hour for less than $100,000. That’s
+why airport security technology is so challenging.”
+
+The technology at the heart of the new project is a hybrid X-ray system that
+combines a multi-view transmission with X-ray diffraction tomography. The
+former involves passing X-rays through an item from multiple angles to develop
+a 3D image and is already in use in many airport screening devices. The latter
+currently doesn’t exist outside of laboratory prototypes and was originally
+explored beginning in 2012 by Greenberg and David Brady, the Michael J.
+Fitzpatrick Professor of Photonics at Duke.
+
+X-ray diffraction tomography involves gathering information from X-rays that
+have bounced off of an object to determine what materials it is made out of.
+When an X-ray ricochets off of an object, its deflection angle and wavelength
+create a sort of “fingerprint” unique to that material’s atomic structure. The
+technology to ID these fingerprints already exists. The challenge is in
+engineering a system that can do it quickly.
+
+The standard approach is to block all X-rays except those coming from a
+specific direction to ensure the detector only gathers the ones carrying the
+fingerprint information. This results in very few X-rays reaching the
+detector, however, and takes too long to gather enough data to be useful to a
+high-throughput security scanner.
+
+The Duke team’s approach has been to use a coded aperture, a sort of pierced
+shield that allows X-rays traveling at many different angles to pass through
+its holes. The trick is in knowing the exact pattern being used to block the
+X-rays, which a computer can then use to process the larger, more complex
+signal. This allows the researchers to gather enough deflected X-rays in a
+short time span to make a positive ID on the material being scanned.
+
+The original project culminated in a prototype that worked, but was far from a
+commercially viable product. Now, Greenberg and Gehm along with Arizona’s Amit
+Ashok plan to use computer simulations to improve on that initial design while
+simultaneously integrating multi-view transmission technology.
+
+“We’re actually kind of taking a step back in this project in the hopes of
+taking several steps forward,” said Greenberg. “We’re going back to the
+drawing board in terms of system design and trying to determine the
+fundamental performance limits of such a hybrid system. That will help us then
+create an optimal design and build a real, robust scanner that considers
+performance as well as commercial and deployment constraints.”
+
+“We’ve spent the past five years developing a really high-performance X-ray
+simulation tool that allows us to probe many thousands of synthetic pieces of
+baggage to explore the performance of arbitrary systems,” said Gehm. “We’ll be
+turning that simulation capability loose on the problem of finding the
+hardware configuration that provides the best hybrid transmission/diffraction
+approach.”
+
+Ashok’s expertise will allow the team to use information-theoretic design to
+look at the fundamental limits of the group’s designs. By computationally
+modeling various configurations, Ashok will help determine the optimal
+framework for the system’s hardware and software before anything is even
+built.
+
+“A system can succeed despite bad software if the signal coming from the
+hardware is excellent,” said Ashok. “Similarly, it can have terrible hardware
+but get the job done through an amazing algorithm. Information-theoretic
+design allows us to disentangle these two aspects of a final system to
+determine the optimal solution for each.”
+
+Helping move these simulations forward will be a new $400,000 GPU-enabled
+computing resource being added to the Duke shared computing cluster. Once the
+system is designed, the team will turn to Smiths Detection, a global leader in
+threat detection and screening technologies, and a local startup called
+Quadridox—formed by Greenberg, Gehm, Ashok and Anuj Kapadia, assistant
+professor of radiology at the Duke University School of Medicine—to build and
+test a prototype device.
+
+“The initial work on this technology never quite got to the point where a
+commercial partner would want to take a shot at developing a device,” said
+Greenberg. “But we’re hoping in taking a slightly different approach, we can
+engineer a security scanner that combines two useful technologies for the
+first time that works much better than any scanner that relies on only one or
+the other.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

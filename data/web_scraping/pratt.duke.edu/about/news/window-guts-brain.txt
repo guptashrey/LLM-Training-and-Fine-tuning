@@ -1,0 +1,197 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Window to the Gut's Brain
+
+June 7, 2016 | By Ken Kingery
+
+Real-time view of enteric nervous system provides new way to study
+gastrointestinal disorders
+
+Duke researchers have developed a system that allows real-time optical and
+electrical observations of the gut’s nervous system in a live animal.
+
+And if you weren’t aware that the gut had its own nervous system, don’t worry,
+you’re not alone.
+
+“The first time I ever heard of the enteric nervous system was two years ago,
+and I was like ‘What’s that?’” said Xiling Shen, associate professor of
+biomedical engineering at Duke University and author of the study appearing
+June 7 in Nature Communications. “Even with neurobiologists, their only
+exposure to it is typically something like a half-page in a textbook. But it’s
+actually very important.”
+
+Consisting of five times more neurons than the spinal cord and often termed as
+a “second brain,” the enteric nervous system is a mesh-like sheath of neurons
+that controls the gastrointestinal tract. It regulates how food moves through
+the digestive system and communicates potential problems to the immune system.
+And while it has a direct line to both the brain and spinal cord, the enteric
+system has the ability to direct the organs under its control independent of
+either system.
+
+Despite its importance, however, very little is known about the enteric
+nervous system, such as how it responds to medications or what can go wrong
+with it to cause disease.
+
+“About one-quarter of the world’s population is affected by a functional
+gastrointestinal disorder,” Shen said. “You’ve probably heard of the term
+functional GI disorder, which encompasses diseases like irritable bowel
+syndrome, constipation and incontinence. If you look at the physiology in
+these diseases, the gut looks fine. It’s the nerves that are somehow
+malfunctioning. And the reason the term includes so many diseases is because
+we really don’t have any idea what’s going on with those nerves.”
+
+Shen is looking to change that by literally installing an observation window.
+
+In the new study, Shen implanted a transparent window made of tough
+borosilicate glass into the skin over the stomachs of mice. With no skull or
+bone structures to anchor the window, he needed to devise a 3D-printed
+surgical insert for stabilization. The device prevents the intestines from
+moving too much while maintaining normal digestive functions, allowing
+researchers to look at the same spot over multiple days.
+
+Being the first to get a live look at the enteric nervous system, Shen was not
+about to waste the view. Because the gut can be a busy, noisy environment, he
+devised a system to record both electrical and optical activity at the same
+time -- also a first for the field.
+
+The experiment uses transgenic mice with nerves that light up with a green hue
+when firing. By using a transparent graphene sensor to obtain electrical
+signals from the nerves, Shen gained an unobstructed view of the neural
+activity.
+
+The optical signal gives spatial resolution, allowing researchers to tell
+which neuron is firing. The electrical signal provides time resolution, which
+pins down the exact waveform of the firing neurons. Shen said the enteric
+nervous system is now ready to be explored.
+
+“So much is known about the brain and spinal cord because we can open them up,
+look at them, record the neural activities and map their behaviors,” said
+Shen. “Now we can start doing the same for the gut. We can see how it reacts
+to different drugs, neurotransmitters or diseases. We have even artificially
+activated individual neurons in the gut with light, which nobody has ever done
+before. This innovation will help us understand this ‘dark’ nervous system
+that we currently have completely no idea about.”
+
+This research was supported by the DARPA Electrical Prescriptions Program
+(N66001-15-2-4059) and the National Institutes of Health (R01GM114254).
+
+“Simultaneous Optical and Electrical In Vivo Analysis of the Enteric Nervous
+System.” Nikolai Rakhilin, Bradley Barth, Jiahn Choi, Nini L. Muñoz, Subhash
+Kulkarni, Jason Jones, David Small, Yu-Ting Cheng, Yingqiu Cao, Colleen
+LaVinka, Edwin Kan, Xinzhong Dong, Michael Spencer, Pankaj Pasricha, Nozomi
+Nishimura, Xiling Shen. DOI: 10.1038/NCOMMS11800
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

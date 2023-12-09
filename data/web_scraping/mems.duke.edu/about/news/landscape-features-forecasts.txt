@@ -1,0 +1,208 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Including Small, Sharp Landscape Contrasts Refines Weather Forecasts
+
+October 28, 2021 | By Ken Kingery
+
+Landscape spatial patterns have an outsized effect on the accuracy of climate
+and weather models
+
+By leveraging a popular weather forecasting model, environmental engineers at
+Duke University have demonstrated that sharp contrasts in relatively small
+land features play an outsized role in local weather developments, which can
+in turn influence larger climate trends. The study indicates that the addition
+of such detailed data, which is currently overlooked in climate and weather
+forecast models, should make such predictions more accurate.
+
+The results appear online October 27 in Journal of Advances in Modeling Earth
+Systems (JAMES).
+
+“Our research illustrates that landscape heterogeneity, such as croplands next
+to a city, or a lake next to a forest, can lead to more powerful
+thunderstorms,” said Nathaniel Chaney, assistant professor of civil and
+environmental engineering at Duke.
+
+“What makes this important is that the scale at which these patterns happen is
+smaller than what we can include in current global models,” added Jason Simon,
+a postdoctoral associate working in Chaney’s laboratory and first author of
+the paper.
+
+Whether making long-term global climate predictions or short-term weather
+predictions, climatologists and meteorologists turn to a handful of global
+models (e.g., the United States uses the Global Forecasting System). One of
+the limitations of these models is the scale at which they make their
+calculations. To avoid months of simulation runtime, these models split the
+Earth’s surface into boxes measuring between 10 to 100 kilometers (62.1 miles)
+per side. Variables such as temperature, wind speed and moisture are directly
+calculated at each node where the corners of these boxes meet but are
+interpolated or averaged for all the space between them.
+
+“That’s a large distance between points, in which there’s plenty of patterns
+causing changes on their own,” Simon said. “It’s a whole aspect of weather
+that’s being missed. And if it involves clouds, then it’s going to have a
+large impact on the energy balance in relation to climate change on a global
+scale.”
+
+In their study, Chaney and Simon used a higher-resolution weather model, the
+Weather and Research Forecasting model (WRF) to see what effect sharply
+defined changes in soil moisture at a 100-meter spatial resolution have on
+cloud formation. They focused on a 100-kilometer box over north-central
+Oklahoma on three summer days, considering landscape patterns where small
+lakes and rivers lay next to forests or thunderstorm-drenched plains, for
+example. Acquiring actual ground data from specific days ensured that the
+small-scale features they used were accurate representations of the real
+world.
+
+After running the simulations, the results showed that sharp differences in
+landscape at these scales can have a disproportionately large effect on the
+formation of clouds. For example, a drier, hotter area next to a cooler,
+moister area — like an area where plains and city meet — will create surface
+atmospheric pressure differences between the dry and moist regions that
+triggers secondary circulations in the atmosphere. These circulations, in
+turn, lead to the enhanced formation of clouds.
+
+While this is not the first study to reveal these sorts of dynamics, it is the
+first that uses realistic land surface data versus statistically simulated
+spatial patterns that may or may not reflect reality. It is also novel in its
+spatial resolution, which was shaved down to just 100 meters in the Weather
+and Research Forecasting model.
+
+Chaney and Simon say that it would take a lot of work to get global models
+like the Global Forecasting System to be able to run simulations with this
+scale of land surface data included. But according to their new results, it
+could be possible if researchers adopted the tricks used by Chaney’s group to
+simulate high-resolution landscape spatial patterns.
+
+“Whether it’s a multi-year global climate model or a local daily forecast,
+incorporating this level of detail would improve their accuracy,” Simon said.
+
+“In the summer months — especially in North Carolina — we don’t know if it’s
+going to storm until it’s almost raining on us,” added Chaney. “Using this
+approach in a forecasting model could help us know several hours in advance.”
+
+This research was funded by the National Oceanic and Atmospheric
+Administration (NA19OAR4310241, NA19OAR4310242).
+
+CITATION: “Semi-coupling of a Field-scale Resolving Land-surface Model and
+WRF-LES to Investigate the Inﬂuence of Land-surface Heterogeneity on Cloud
+Development,” Jason S. Simon, Andrew D. Bragg, Paul A. Dirmeyer, and Nathaniel
+W. Chaney. Journal of Advances in Modeling Earth Systems, Sept. 12, 2021. DOI:
+10.1029/2021MS002602
+
+Open Access paper:
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021MS002602
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

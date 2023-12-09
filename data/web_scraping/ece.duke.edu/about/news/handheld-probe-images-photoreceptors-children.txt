@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Handheld Probe Images Photoreceptors in Children
+
+August 23, 2018
+
+Portable probe developed by Duke biomedical engineers makes it possible to
+capture images of photoreceptors in the eyes of young children.
+
+Duke University researchers have developed a handheld probe that can image
+individual photoreceptors in the eyes of infants.
+
+The technology, based on adaptive optics, will make it easier for physicians
+and scientists to observe these cells to diagnosis eye diseases and make early
+detection of brain-related diseases and trauma.
+
+Photoreceptors are specialized neurons that comprise the light-sensing cells
+of the retina, an extension of the central nervous system located at the back
+of the eye. The retina sends signals to the brain via the optic nerve, which
+then processes the visual information. Previous studies have shown that
+neurodegenerative diseases, including Alzheimer’s and Parkinson’s, as well as
+traumatic brain injuries, such as concussions, can alter the neuronal
+structures in the retina.
+
+To study these neuronal structures, researchers commonly use an adaptive
+optics scanning laser ophthalmoscope (AOSLO), a non-invasive tool that
+provides a significantly higher image resolution than an MRI.
+
+Although traditional AOSLO allows researchers to visualize individual
+photoreceptor cells, such systems are as large as a billiard table, costly and
+extremely complex. Its use has been limited to patients who are able to sit
+upright fix their gaze for several minutes, which means it is not as useful
+for young children or for adults with cognitive or mobility issues.
+
+The new system, called HAOSLO for handheld AOSLO, measures just 4 inches by 2
+inches by 5.5 inches, and weighs less than half a pound.
+
+The Duke researchers transformed the AOSLO into a handheld probe by improving
+its optical, signal processing and mechanical designs. This included
+development of a new algorithm that replaces the traditional AOSLO’s large
+wavefront sensing system, an optical component that can detect light
+distortion caused by the eye.
+
+The study appears August 23 in the journal Optica.
+
+“Other researchers have shown that the wavefront sensor can be replaced by an
+algorithm, but previous algorithms haven’t been fast or robust enough to be
+used in a handheld device,” said Theodore DuBose, a PhD student in the
+department of biomedical engineering at Duke and the first author of the
+paper. “The algorithm we developed is much faster than previous techniques and
+just as accurate.”
+
+The tool was tested in a clinical trial with 12 adults and two children, where
+the team demonstrated its ability to capture detailed images of photoreceptors
+close to the fovea––the center of the retina where photoreceptors are smallest
+and vision is most acute.
+
+“Our new tool is fast and lightweight so physicians can take it directly to
+their patients, and the probe allows us to collect images quickly, even if
+there is movement,” said Sina Farsiu, an associate professor in the
+departments of biomedical engineering and ophthalmology. “These capabilities
+allow us to open up the pool of patients who could benefit from this
+technology.”
+
+The tool’s new design makes it especially useful for imaging the eyes of young
+children. For example, premature newborns have a greater risk of developing
+eye diseases, like retinopathy, which can lead to blindness if not diagnosed
+quickly. Researchers can also use the tool to track early brain development in
+children by imaging their retina, which develops along with the central
+nervous system.
+
+The team is optimistic about the tool’s use both inside and outside of the
+hospital. Because the HAOSLO can be taken into an operating room, physicians
+will be able to see the photoreceptors at the highest resolution possible
+during surgery, even when a patient is under anesthesia and in a reclined
+position. It could also help doctors rapidly assess possible brain trauma in
+athletes, such as football players coming off the field with head injuries.
+
+Before the researchers prepare for large-scale clinical trials, they plan to
+incorporate additional imaging modes for detecting other diseases.
+
+They also have made the mechanical designs, computational algorithms and
+control software freely available online so that other scientists can adapt
+the new system for their scientific applications.
+(http://people.duke.edu/~sf59/HAOSLO.htm).
+
+This study was supported by the National Institutes of Health (NIH R21EY02708
+and NIH P30EY005722), and a 2018 Unrestricted Grant from Research to Prevent
+Blindness.
+
+In addition to Farsiu, Duke faculty on the team included Joseph Izatt, the
+Michael J. Fitzpatrick Professor of Engineering, and Cynthia Toth, the Joseph
+A.C. Wadsworth Professor of Ophthalmology at the Duke University School of
+Medicine.
+
+CITATION: “Handheld Adaptive Optics Scanning Laser Ophthalmoscope,” T. DuBose,
+D. Nankivil, F. LaRocca, G. Waterman, K. Hagan, J. Polans, B. Keller, D.
+Travn-Viet, L. Vajzovic, A.N. Kuo, C. A. Toth, J. A. Izatt, S. Farsiu. Optica
+5, 1027-1036 (2018). DOI: 10.1364/OPTICA.5.001027
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

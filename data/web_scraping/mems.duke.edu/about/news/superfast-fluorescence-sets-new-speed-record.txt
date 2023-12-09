@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Superfast Fluorescence Sets New Speed Record
+
+July 27, 2015 | By Ken Kingery
+
+Plasmonic device has speed and efficiency to serve optical computers
+
+Researchers have developed an ultrafast light-emitting device that can flip on
+and off 90 billion times a second and could form the basis of optical
+computing.
+
+At its most basic level, your smart phone’s battery is powering billions of
+transistors using electrons to flip on and off billions of times per second.
+But if microchips could use photons instead of electrons to process and
+transmit data, computers could operate even faster.
+
+But first engineers must build a light source that can be turned on and off
+that rapidly. While lasers can fit this requirement, they are too energy-
+hungry and unwieldy to integrate into computer chips.
+
+Duke University researchers are now one step closer to such a light source. In
+a new study, a team from the Pratt School of Engineering pushed semiconductor
+quantum dots to emit light at more than 90 gigahertz. This so-called plasmonic
+device could one day be used in optical computing chips or for optical
+communication between traditional electronic microchips.
+
+The study was published online on July 27 in Nature Communications.
+
+“This is something that the scientific community has wanted to do for a long
+time,” said Maiken Mikkelsen, an assistant professor of electrical and
+computer engineering and physics at Duke. “We can now start to think about
+making fast-switching devices based on this research, so there’s a lot of
+excitement about this demonstration.”
+
+The new speed record was set using plasmonics. When a laser shines on the
+surface of a silver cube just 75 nanometers wide, the free electrons on its
+surface begin to oscillate together in a wave. These oscillations create their
+own light, which reacts again with the free electrons. Energy trapped on the
+surface of the nanocube in this fashion is called a plasmon.
+
+The plasmon creates an intense electromagnetic field between the silver
+nanocube and a thin sheet of gold placed a mere 20 atoms away. This field
+interacts with quantum dots—spheres of semiconducting material just six
+nanometers wide—that are sandwiched in between the nanocube and the gold. The
+quantum dots, in turn, produce a directional, efficient emission of photons
+that can be turned on and off at more than 90 gigahertz.
+
+“There is great interest in replacing lasers with LEDs for short-distance
+optical communication, but these ideas have always been limited by the slow
+emission rate of fluorescent materials, lack of efficiency and inability to
+direct the photons,” said Gleb Akselrod, a postdoctoral research in
+Mikkelsen’s laboratory. “Now we have made an important step towards solving
+these problems.”
+
+“The eventual goal is to integrate our technology into a device that can be
+excited either optically or electrically,” said Thang Hoang, also a
+postdoctoral researcher in Mikkelsen’s laboratory. “That’s something that I
+think everyone, including funding agencies, is pushing pretty hard for.”
+
+The group is now working to use the plasmonic structure to create a single
+photon source—a necessity for extremely secure quantum communications—by
+sandwiching a single quantum dot in the gap between the silver nanocube and
+gold foil. They are also trying to precisely place and orient the quantum dots
+to create the fastest fluorescence rates possible.
+
+Aside from its potential technological impacts, the research demonstrates that
+well-known materials need not be limited by their intrinsic properties.
+
+“By tailoring the environment around a material, like we’ve done here with
+semiconductors, we can create new designer materials with almost any optical
+properties we desire,” said Mikkelsen. “And that’s an emerging area that’s
+fascinating to think about.”
+
+This work was supported by the Air Force Office of Scientific Research Young
+Investigator Program (AFOSR, Grant. No. FA9550-15-1-0301), the Air Force
+Office of Scientific Research (AFOSR, Grant No. FA9550-12-1-0491), an Oak
+Ridge Associated University’s Ralph E. Powe Junior Faculty Enhancement Award,
+the Lord Foundation of North Carolina, and the Intelligence Community
+Postdoctoral Research Fellowship Program.
+
+###
+
+“Ultrafast Spontaneous Emission Source Using Plasmonic Nanoantennas.” Thang B.
+Hoang, Gleb M. Akselrod, Christos Argyropoulos, Jiani Huang, David R. Smith &
+Maiken H. Mikkelsen. Nature Communications, July 27, 2015. DOI:
+10.1038/ncomms8788
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

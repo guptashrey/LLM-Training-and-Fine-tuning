@@ -1,0 +1,306 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Acquisition of Spin-Out Company Bioptigen to Bring Duke Imaging Technology
+to New Markets
+
+August 3, 2015 | By Whitney L.J. Howell
+
+In June 2015, microscopy and imaging systems company Leica Microsystems
+acquired Bioptigen, Inc., a company born from the Duke University Pratt School
+of Engineering.
+
+_Originally published by Duke Innovation and Entrepreneurship_
+
+Formed in 2004, Bioptigen has become a leader in optical coherence tomography
+(OCT), an imaging technique that uses light to capture extremely high-
+resolution, three-dimensional pictures of the eye.
+
+Bioptigen was the brainchild of Duke’s Michael J. Fitzpatrick Professor of
+Engineering Joseph Izatt, Ph.D., and CEO Eric Buckland, Ph.D. Since its
+launch, the company secured more than 60 issued patents in OCT technology,
+many of which were licensed from intellectual property developed by Izatt, his
+students, and collaborators at Duke and Case Western Reserve University.
+
+The Duke Innovation & Entrepreneurship Initiative spoke with Izatt about the
+acquisition.
+
+**Q: How was Bioptigen formed?**
+
+A: The origins of Bioptigen were in the early 2000s, at a time when Duke and
+especially the Pratt School of Engineering were encouraging faculty to be
+entrepreneurial. I came to Duke in 2001 from the biomedical engineering
+faculty at Case Western University, attracted by Duke’s outstanding BME
+department and the opportunity to collaborate with leading ophthalmologists at
+the Duke Eye Center. When I arrived, I had been leading a university research
+group for several years and was becoming more interested in entrepreneurship.
+I had been involved in the early development of optical coherence tomography
+(OCT) in the early 1990s, and by the time I came to Duke a decade later, it
+had become a commonplace diagnostic technology in ophthalmology. Over the next
+few years, my lab at Duke was able to contribute to a revolution in the
+technology underlying OCT which made it many times more sensitive and much
+faster at acquiring images in patients. Around this time, I was approached by
+Eric Buckland, an optics Ph.D. and veteran executive from the optical
+communications industry who was looking to start a high-tech company in North
+Carolina. Duke helped us with incubator space, and that was the beginning of
+Bioptigen. It formed in 2004 around the development of high-performance OCT
+imaging equipment. Today, OCT has become the dominant imaging technology in
+ophthalmology.
+
+**Q: How does OCT diagnose eye disease?**
+
+A: OCT produces 2-D and 3-D images of tissue with a resolution scale many
+times finer than other medical imaging modalities such as ultrasound, computed
+tomography, or magnetic resonance imaging. It provides in-depth, cross-
+sectional images of tissue with a resolution of about 10 micrometers – smaller
+than the width of a human hair. By 2003, using the new fast imaging
+technology, we were able to obtain these cross-sectional images live at video
+rate – essentially movies taken inside of living tissue. That was a big
+advance over the prior technology, which took several seconds per image. By
+taking these movies while also scanning the light in the third dimension
+across the tissue, we could acquire three dimensional blocks of data which
+doctors could explore in detail later using special software. Most optical
+images people are familiar with are images of the surface of things — with
+conventional ophthalmoscopes, for example, doctors look at the surface of the
+retina through a special microscope. OCT allows you to go from surface imaging
+to cross-sectional or volumetric imaging, and with much greater resolution.
+That’s really important because many diseases that cause blindness are quite
+subtle to diagnose accurately with conventional instruments, requiring many
+years of training. The retina is a layer of neuronal tissue spread out over
+the back of the eyeball which is only a half-millimeter thick, and telling the
+difference between various kinds of injuries, detachments, and the effects of
+blinding diseases such as macular degeneration or diabetic retinopathy can be
+challenging. OCT is a major advance in the speed and ease of diagnosing these
+problems, and just as importantly in monitoring their successful treatment.
+
+These advances are a key reason why OCT has become a multi-billion dollar
+industry worldwide. Today, if you go to an eye clinic in the developed world
+with a serious vision problem, you will very likely be imaged with OCT. And so
+there have been many start-ups in this area in addition to Bioptigen and
+traditional ophthalmic instrument companies. Taken together, there are now
+more than two dozen companies developing or marketing OCT devices.
+
+**Q: How did Bioptigen progress as a company and move its technology
+forward?**
+
+A: Bioptigen was founded in 2004 and early on was primarily angel-funded, much
+of it by investors in the Southeast. Hiring highly talented engineers enabled
+Bioptigen to develop thebest performing instruments with the added ability to
+show the images to physicians in real-time – that’s a real distinction which
+characterized Bioptigen’s technology. And I can’t give enough credit to our
+founding CEO Eric Buckland, who poured his heart and soul into the company,
+hired and managed outstanding staff, and personally willed the company through
+the ups and downs of a startup in a turbulent economic decade.
+
+One of Bioptigen’s first products to go to market was a table-top instrument
+for retinal imaging–one of the first instruments using the new fast imaging
+technology to receive clearance from the Food & Drug Administration. Previous
+OCT instruments were not optimized for speed, and in many cases if a doctor
+ordered a test, the imaging would be done by a technician and the doctor
+wouldn’t see the resulting images until much later. Bioptigen’s key strategy
+was to develop technologies to obtain the highest quality images and to do it
+in real time, so that doctors themselves could operate the instrument while
+interacting with patients and see the images right away.
+
+Bioptigen’s first product which made really successful use of its real-time
+imaging capability was the industry’s first commercial handheld OCT device. A
+doctor can hold this device over the patient’s eye and the images appear
+simultaneously on a screen so the doctor can tell right away whether he or she
+is collecting the right images correctly. It’s particularly helpful with
+patients who aren’t easy to accommodate with previous table-top technologies,
+such as children, babies or bed-ridden patients.
+
+**Q: How is Bioptigen technology being used?**
+
+A: There were two principal applications Bioptigen developed for its handheld
+OCT technology. The first was pioneered by Dr. Cynthia Toth, the Joseph A.C.
+Wadsworth Professor of Ophthalmology here at Duke with whom I have
+collaborated for over 15 years. She recognized the potential for handheld
+imaging of babies and children. Babies squirm and cry, so imaging them takes
+quite a bit of skill. Dr. Toth introduced the concept of using the handheld
+OCT device in the pediatric arena, and used it in a landmark study in
+premature babies to discover fundamental new knowledge about how the retina
+develops before and even after birth. Dr. Toth now runs a course for pediatric
+ophthalmologists who come to Duke from around the world for them to learn from
+her team how to do these examinations.
+
+The second major market for Bioptigen handheld OCT was in pre-clinical imaging
+– animal imaging. No other OCT company had taken that market seriously, but
+with the development of Bioptigen’s handheld device, research labs could use
+state-of-the-art ophthalmic imaging technology on mice, rats, and other
+important research animals for the first time. This was really quite
+successful for Bioptigen, and remains important to advance our fundamental
+understanding of disease and to test treatment protocols.
+
+**Q: What aspects of Bioptigen enticed Leica?**
+
+A: Following development of the handheld OCT device, the next major technology
+thrust for Bioptigen which ultimately resulted in its acquisition was in
+intra-operative OCT during ophthalmic surgery. This application of OCT had a
+lot of motivation from fundamental research at Duke. Dr. Toth is an
+internationally recognized retinal surgeon, and since 2009 she and I have led
+a Duke team funded by the National Institutes of Health to investigate the use
+of real-time OCT to guide surgery of the retina and cornea. Partially
+motivated by our findings as well as other interactions, Bioptigen decided to
+put a major effort into developing a commercial surgical OCT system. In
+ophthalmic surgery, the patient lies face-up on an operating table and the
+surgeon operates on the eyeball using various instruments, while looking
+through a microscope suspended above the patient. This is true micro-surgery,
+where highly trained surgeons must separate, cut, peel and otherwise
+manipulate some of the most delicate tissues in the body with micrometer scale
+precision. Presently, surgeons must often do all of this with a less than
+ideal view of the tissues they are operating on, if the patient suffers from
+cataract, cloudy cornea or other common conditions which can limit their view.
+With a real-time OCT scanner built right into the microscope, however,
+surgeons can view their surgery directly, in cross section with high OCT
+resolution, in a system which is much less sensitive to intervening tissue
+clarity. Bioptigen committed its limited resources to develop and
+commercialize this technology well before it was obvious the application would
+pan out, and in retrospect it was a good decision. Several companies are now
+competing to integrate OCT into their ophthalmic surgical microscopes.
+
+Leica is a historic European optical instrument brand which has sold cameras,
+lenses, and microscopes for over 150 years. Leica Microsystems, the operating
+company which acquired Bioptigen, is a major supplier of top quality research
+and surgical microscope systems. They acquired Bioptigen in order to
+incorporate its proven real-time OCT technology into their surgical microscope
+product line.
+
+**Q: What role or roles did Duke play in getting Bioptigen to this point and
+supporting your efforts?**
+
+A: Over its history, Bioptigen licensed over two dozen patents from Duke.
+These arose from research in my laboratory done by myself and many students,
+post-docs, and collaborators. Bioptigen also developed a very substantial
+patent portfolio on its own, the extent of which was a key component of its
+attractiveness for acquisition. I was a co-founder of the company and served
+as Board Chairman. For the first couple of years, when we had just a handful
+of employees, I served as CTO and was involved in product and IP development.
+Before long, however, Bioptigen was able to hire truly outstanding engineers
+from both the local research triangle region and nationally, and my position
+become more advisory. In 2011, I switched to become Chief Science Advisor, and
+then recently resigned when Leica acquired Bioptigen. Throughout this start-up
+experience, Duke’s policies on faculty outside activities, conflicts of
+interest, and inventions, patents, and technology transfer were instrumental
+in enabling my constructive involvement in Bioptigen while maintaining my
+professional responsibilities as a faculty member.
+
+The Duke Office of Licensing and Ventures (OLV) deserves credit for managing
+my laboratory’s substantial patent portfolio and putting considerable effort
+into negotiating and administrating licensing deals appropriate for a start-up
+company. Duke had to take a chance on each of our patents, and to be flexible
+in dealing with a small entity.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

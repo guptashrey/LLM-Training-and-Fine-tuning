@@ -1,0 +1,378 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# The Chemical Detective
+
+November 30, 2021
+
+What’s in our drinking water? Duke professor of civil and environmental
+engineering Lee Ferguson uses non-targeted analysis to gather clues about
+chemical contaminants, making it possible to identify them and trace them back
+to their points of origin.
+
+## Listen
+
+## Show Notes
+
+Update: Learn how the Ferguson Lab's expertise in mass spectrometry is helping
+to identify the cause of a cluster of chronic kidney disease cases in Sri
+Lanka.
+
+## Transcript
+
+[Bells/intro music]
+
+ **Miranda Volborth:** This is Rate of Change, a podcast from Duke University
+dedicated to the ingenious ways that engineers are solving society’s toughest
+problems. I’m Miranda Volborth, and today I’m talking to Lee Ferguson, an
+environmental chemist and professor of civil and environmental engineering at
+Duke University. But for the purpose of this podcast, let’s think of Lee as a
+detective– a chemical detective, who uncovers clues about unknown water
+contaminants that help them to be identified and traced back to a source.
+Let’s set the scene.
+
+June 7, 2017: the Wilmington Star-News breaks the story of an emerging
+contaminant that has been found at significant levels in the Cape Fear River,
+which supplies Wilmington, North Carolina with about 80% of its drinking
+water.
+
+The chemical was eventually identified as GenX, and traced to the Chemours
+Company’s Fayetteville Works plant, situated about 100 miles upstream of
+Wilmington. That plant was using GenX to produce Teflon, the nonstick material
+coating our pots and pans.
+
+GenX is chemically similar to an entire class of compounds that are known to
+be problematic for human health and the environment—per and poly fluorinated
+alkyl substances, or PFAS. These compounds are really useful in consumer
+products because they’re highly resistant to degradation—but, that same
+quality also makes them difficult to remove from water. In fact, this class of
+compounds is known as “forever chemicals.”
+
+ **Lee Ferguson:** The discovery of GenX in the Cape Fear River was actually
+quite an accident. Mark Strynar at EPA had just purchased a high-resolution
+mass spectrometer for the first time, and he was starting to test that system…
+During that process, they happened upon some compounds that nobody had seen
+before in environmental waters, and were certainly not being monitored
+anywhere in the country, and certainly not in the Cape Fear River. Alarmingly,
+they found that these molecules are very persistent, and they're making their
+way through drinking water treatment processes, and contaminating the drinking
+water of Wilmington, North Carolina, as well as a number of other communities
+down the Cape Fear River.
+
+ **Volborth:** But how was this mystery chemical eventually identified and
+traced to a source? It’s thanks to that specialized piece of equipment that
+Mark Stryner was testing out.
+
+ **Ferguson:** The equipment that we rely on is a high-resolution mass
+spectrometer. This is a device that is able to measure with very, very high
+precision and accuracy the molecular weight of many, many, many molecules in a
+sample at very, very low concentration. Okay? At its core, that's what the
+equipment does, and so there's really two aspects that are important here, the
+accuracy with which you can measure the mass, and therefore, get clues to the
+identity to the different molecules, and then also the sensitivity that we can
+measure those molecules to.
+
+A relevant question that we might ask is, "What's in our water?" It's a very
+open question, and it seems like the obvious question. It's much more
+difficult to answer that question scientifically than we might expect. In most
+cases in environmental regulation and environmental assessment, those analyses
+are made on a molecule-by-molecule basis. We decide a priori which chemicals
+we are going to look for in a water sample, or a human sample, or a food
+sample. And we go, and we target those molecules, and it's almost like putting
+blinders on a horse. You see only what's in front of you.
+
+ **Volborth:** There are a few hundred substances on the priority pollutants
+list established by EPA. Those are substances that are regulated. Those
+regulations are enforceable. So it makes some kind of sense to look for them
+on a case by case basis. But— there are about 85,000 chemicals in use that are
+not yet regulated, including but certainly not limited to PFAS.
+
+ **Ferguson:** EPA doesn't necessarily have the ability to maintain focus on
+all potential emerging pollutants that might cause health effects in drinking
+water and in water supplies. So just because EPA isn't monitoring for it
+doesn't necessarily make a compound safe, and so it really has fallen to
+researchers, to academic researchers in many cases, to do this kind of work,
+where we are essentially performing environmental reconnaissance and forensics
+to try to understand what are the compounds that are slipping through the
+regulatory cracks.
+
+We use what I like to term a chemical fingerprint approach to do this.
+Molecules, just like individual people, have specific characteristics. They
+have identities, and to be able to observe and to assign those identities, we
+need to measure the properties of those molecules as accurately as we can. So
+if you think about facial recognition to try to identify a single person in a
+concert venue, we can imagine the same corollary to being able to fingerprint,
+and identify, and isolate individual molecules in a chemical soup.
+
+ **Volborth:** What do those fingerprints look like?
+
+ **Ferguson:** Sure. This is the hard part of doing high-resolution mass
+spectrometry. Whereas our eyes as humans are really sort of tuned to
+understand a face or a fingerprint, an actual human face or a human
+fingerprint. We can understand and visually see the difference between
+individuals. We are not trained as humans to be able to recognize
+intrinsically the differences between chemical fingerprints.
+
+Therefore, we have to rely on software approaches, things like machine
+learning and other types of data reduction techniques to be able to interpret
+the spectrum, which is a mass spectrum that is output by the mass
+spectrometer, and to take those spectra, and turn them into chemical
+structures that chemists like myself can understand and compare with each
+other. And the process of going from spectrum to structure is extremely
+complex, and it's also an active area of research currently on how we actually
+make those correlations.
+
+And so there are specific chemical reactions that happen in these mass
+spectrometers, which result in the chemical spectra and the mass spectra that
+we actually measure. And so the data reduction is one of the hardest parts
+about this entire process, and it's really led me down quite a rabbit hole
+from being a wet chemist, bench chemist, to learning how to do complex data
+processing and data science routines, using things like machine learning and
+other kinds of approaches to take information and turn it into knowledge, and
+that's what our algorithms are designed to do.
+
+ **Volborth:** Lee really became involved with the GenX situation in 2018,
+because of his expertise in environmental chemistry.
+
+ **Ferguson:** The North Carolina Coastal Federation asked me to speak on
+their behalf in front of the North Carolina general assembly about the issues
+of unregulated contaminants in our water supplies. And this was initiated, of
+course, as a direct result of the GenX contamination in the Cape Fear River.
+However, the legislature was worried about whether this could be a bigger
+problem.
+
+What if there were unrecognized and emerging contaminants that are in water
+supplies in other areas of North Carolina that simply had not been detected?
+So we set out to develop a monitoring network, and this monitoring network is
+termed the Per- and Polyfluorinated Alkyl Substances Testing Network, or PFAST
+Network, and it's a consortium of researchers from all the major universities
+in the state. And we have gone around to every public water supply in the
+state of North Carolina, and tested those waters for this class of per- and
+polyfluorinated alkyl substance, or PFAS.
+
+ **Volborth:** Lee’s team spent a year and a half driving around the state to
+collect samples from more than 400 sites, that they brought back to the lab
+for analysis.
+
+ **Ferguson:** Now, in many cases, we found exactly what we expected. So for
+example, in the Cape Fear River, unsurprisingly to us, we found elevated
+levels of PFAS compounds coming from the Chemours Fayetteville Works Plant.
+However, in some cases we were surprised. One of the biggest surprises that we
+encountered was the small town of Maysville North Carolina, which it's just a
+small community in Eastern North Carolina that relies on a single drinking
+water well, and that drinking water well pulls from an aquifer that is
+somewhere around 100 to 300 feet below the surface. That drinking water well
+at some point had been contaminated by what we believe is firefighting foams
+that contain PFAS.
+
+So, of course, their water at Maysville, the water supply had never before
+been tested for PFAS chemicals, because as I mentioned, these compounds are
+not on any regulatory list. So there are no set water quality criteria for
+these compounds currently. When we measured the drinking water supply from
+Maysville, we found that several of these PFAS compounds were present at
+levels higher than the EPA's health advisory level that they had published for
+two specific PFAS compounds, perfluorooctanoic acid and perfluorooctane
+sulfonate. We immediately notified the town, and we notified their
+representatives in the general assembly, and we notified the utility that was
+responsible for this water supply.
+
+Within a matter of days, we were able to verify that their neighboring
+community, Jones county, had water that was devoid of measurable PFAS
+compounds, and they were able to switch their water supply over to the Jones
+County supply.
+
+ **Volborth:** Water from the Haw River, sampled not too far downstream of the
+Greensboro’s textile mills, were covered in suspicious chemical fingerprints,
+leading Lee and his Duke colleague Heather Stapleton, to delve more deeply
+into what these chemicals were and where they had entered the river. At this
+point, their guess is that the mills manufacturing stain-resistant textiles is
+probably the culprit.
+
+Of course, chemical contamination of drinking water is not limited to North
+Carolina—it’s just that we have the network in place to help detect it. In
+fact, Lee is putting this experience to work for communities halfway across
+the world.
+
+ **Ferguson:** The project that we've initiated in Sri Lanka with my
+colleague, Nishad Jayasundara, he's a new faculty in the Nicholas School of
+the environment… there's a phenomenon called a CKDu, chronic kidney disease of
+unknown etiology. And so this is a phenomenon that is happening around the
+world, including actually areas here in North Carolina, in southeastern North
+Carolina, but in Sri Lanka, there are a number of communities that have
+experienced chronic kidney disease in populations that don't seem to be
+associated with any particular genetic risk, or sort of there's very few other
+population factors that seem to explain the occurrence of this disease.
+
+There is some indication that the incidents of the disease may be connected to
+water supplies, and specifically water supplies that are associated with
+agricultural areas in Sri Lanka. And so it turns out that in Sri Lanka, as
+well as many other places, pesticides and herbicides are used quite frequently
+in agricultural processes, and because of limited resources for water
+treatment, it's possible that many of those agrochemicals may be entering the
+water supplies of the people in the area. And so what we are working on is to
+try to examine and assess links between specific water contaminants as well as
+non-targeted analysis of water to understand what are the types of chemicals
+that might be present in these water supplies that are associated with high
+incidents of kidney disease.
+
+So I'm sending one of my grad students over to Sri Lanka. He's leaving in
+about a week along with Nishad Jayasundara to collect water samples, and to
+bring them back here to do detailed chemical analysis to understand those
+chemical fingerprints. And so our hypothesis is that specific chemical
+fingerprints and specific chemical agrochemicals species are associated with
+this chronic kidney disease in these areas, and so that's what we're going to
+be testing over the next months to years.
+
+ **Volborth:** What’s the outcome you’re hoping for, Lee? What’s your grand
+vision?
+
+ **Ferguson:** In the end, with all of this water quality work that we're
+doing, and all the technology development that we've been participating in in
+our laboratory to develop these non-targeted analysis tools, what I want to
+see is a emerging contaminant reconnaissance program that is built in place,
+so that we can have early warning of chemical discharges that might pose risks
+downstream. And so this may sound like a pie in the sky idea, but in fact,
+this is exactly the sort of processes that have been implemented in Europe,
+for example. On the Rhine River there's an example of a monitoring station
+that does exactly this. It's an emerging contaminant reconnaissance station
+with early warning, so that we can understand discharges when they're
+happening, and try to intervene immediately to protect downstream water
+supplies. This is all part of holistic water quality protection, and this
+needs to happen not just here in North Carolina, but across the country and
+around the world.
+
+ **Volborth:** Thanks for listening. Follow Rate of Change for the latest
+research from Duke Engineering. And if you learned something from this
+podcast, please share it with others.
+
+ **Music: "** Deadly Roulette" byKevin McLeod via incompetech.com. Licensed
+under the Creative Commons 3.0: By Attribution license.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### P. Lee Ferguson
+
+Associate Professor of Civil and Environmental Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

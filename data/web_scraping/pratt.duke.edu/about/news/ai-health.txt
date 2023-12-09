@@ -1,0 +1,378 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# AI in Health
+
+October 11, 2019 | By Ken Kingery
+
+Machine learning algorithms in Duke University’s Department of Electrical and
+Computer Engineering were initially deployed in search of landmines. Over the
+past two decades, they’ve evolved to generate stunning insights into human
+health.
+
+In the late 1990s, Larry Carin and Leslie Collins—both just beginning their
+tenures in Duke’s Department of Electrical & Computer Engineering—began
+teaching computers how to spot buried landmines. The two worked together with
+a team of researchers for several years developing “active learning”
+algorithms to optimize their mine-hunting software.
+
+It didn’t take long for those early image-processing strategies to move from
+their military roots to the medical realm.
+
+Researchers at the University of Pennsylvania soon added Carin’s active-
+learning algorithms to software they were developing to help doctors classify
+cancerous cells. While the software already worked reasonably well, the new
+algorithms made it more accurate and more consistent. The enhanced toolkit
+also reduced the time physicians had to spend labeling cell samples to train
+the system, because the algorithm automatically selected the best examples.
+
+It was just one of many early successes that hinted at the revolution to come.
+
+“The power of deep-learning image analysis has become increasingly clear over
+the last several years, and image analysis is very important to many aspects
+of health care,” said Carin, now the James L. Meriam Professor of Electrical
+and Computer Engineering and vice president for research at Duke. “With
+examples in radiology, pathology, dermatology, cardiology and more, the
+analysis of health-sensing data with machine learning will be transformative
+in the coming years.”
+
+Carin should know. He is now leading one research project to autonomously spot
+cancerous cells in digitized slides of thyroid biopsies and another to detect
+early signs of Alzheimer’s disease through retinal scans.
+
+But he’s hardly alone.
+
+Over the past several years, Duke has hired a string of machine learning
+experts and launched several ambitious projects to tie Duke Health and Duke
+Engineering closer together. With a growing array of computer engineering
+faculty partnering with colleagues in the nearby medical school, and a new
+campus-wide initiative focused on AI solutions for health care, Duke ECE is
+playing a major role in the university’s commitment to leverage machine
+learning to impact human health.
+
+## Sensing for Sound
+
+While Leslie Collins continued her work on detecting landmines well into the
+2010s, she has also led several projects that applied machine learning
+concepts directly to health care. The earliest example—which continues to this
+day— is using machine learning to improve cochlear implants.
+
+Cochlear implants are prosthetic devices that deliver direct electrical
+stimulation to auditory nerve fibers, at least partially restoring normal
+hearing in deaf individuals. Duke ECE alumnus Blake Wilson developed the
+sound-processing strategies used in most modern cochlear implants, which have
+to date helped hundreds of thousands of adults and children worldwide.
+
+Using machine learning, Collins’s laboratory is exploring how the spacing
+between electrodes and the timing of their interactions affects the user’s
+experience. The new signal coding techniques should provide either more
+natural neural responses, or a more complete representation of the acoustic
+signal, which may improve speech recognition for individuals with cochlear
+implants.
+
+In another project involving acoustic signals, Collins and colleagues in the
+School of Medicine are using digital stethoscopes and machine learning to
+listen for complications with left ventricular assist devices (LVADs), which
+are mechanical heart pumps that prolong the life of patients with advanced
+heart failures.
+
+Collins is also using machine learning to decode P300 brain waves to allow
+patients who are neurologically “locked in” to communicate through a brain-
+computer interface using electroencephalography (EEG) data. While initial
+proofs-of-concept have already been successful, the laboratory is working to
+make the system faster and more robust before seeking a commercialized version
+of the technology. Her laboratory is also using EEG data in an attempt to
+autonomously monitor the brain function of patients who have sustained brain
+injuries to guide early management and provide a foundation for a more
+accurate prognosis and trajectory of recovery.
+
+In another project focusing on waveforms, Vahid Tarokh, the Rhodes Family
+Professor of Electrical and Computer Engineering at Duke, is working to
+automatically diagnose peripheral artery disease. A narrowing of the
+peripheral arteries serving the legs, stomach, arms and head, the disease
+causes muscle pains and cramping that can become debilitating.
+
+Currently, the disease is diagnosed using audio ultrasound and a trained ear.
+Collaborating with Wilkins Aquino, the Anderson-Rupp Professor of Mechanical
+Engineering and Materials Science, and Leila Mureebe, associate professor of
+surgery at Duke, Tarokh is working to replace the trained ear with a trained
+computer. If successful, the machine learning techniques will not only
+construct a classification system based on features of the ultrasound signal,
+they will be able to reconstruct the audio waveform to predict the shape of
+the blood vessel.
+
+Tarokh is also working with Sina Farsiu, the Paul Ruffin Scarborough Associate
+Professor of Engineering, to improve treatment of diabetic macular edema—a
+leading cause of blindness in working-age Americans.
+
+The first treatment most patients receive for this disease is called anti-
+VEGF. Besides being expensive and requiring regular injections into the eye,
+the drug doesn’t work for everyone. If the patient doesn’t respond after
+months of invasive, inconvenient treatments, the doctor will try a different
+approach. And it will continue like that until a treatment succeeds or the
+patient goes blind.
+
+The researchers have, however, developed an artificial intelligence system
+that can predict which patients will respond to anti-VEGF treatment. If
+successful in retrospective studies and large-scale clinical studies, the
+system could greatly reduce the cost and save many eyes from going blind.
+
+## Algorithms for Autism
+
+Another machine-learning expert who entered the field through image
+processing—including developing image compression techniques used in the Mars
+Rover missions—Guillermo Sapiro, the James B. Duke Professor of Electrical and
+Computer Engineering, is also turning attention to problems in health care.
+
+With collaborators in the School of Medicine, including Geraldine Dawson,
+director of the Duke Center for Autism and Brain Development, Sapiro is
+developing an app to screen for autism spectrum disorder (ASD). Now in
+clinical studies, the app uses a smartphone’s or tablet’s ‘selfie’ camera to
+record young children’s reactions while they watch movies designed to elicit
+autism risk behaviors, such as patterns of emotion and attention, on the
+device’s screen.
+
+The videos are sent to the study’s servers, where automatic behavioral coding
+software tracks the movement of video landmarks on the child’s face to
+quantify emotions and attention. For example, in response to a short movie of
+bubbles floating across the screen, the algorithm looks for movements of
+facial muscles that indicate interest and joy.
+
+Sapiro is building machine-learning algorithms that connect these fleeting
+facial and eye movements to potential signs of ASD. His group is also using
+cloud computing tools to develop new machine learning algorithms for privacy
+filters for the images and videos they collect.
+
+“We’re trying to tackle the challenge of extracting the information we need
+from a person’s face while simultaneously implementing filters to block
+information users might not want to share,” said Sapiro. “We’re also working
+to make our algorithms become better over time with each user and make them
+scalable and more user-friendly.”
+
+With the app showing promising early results, Sapiro is now beginning a
+project with Nancy Zucker, director of the Duke Center for Eating Disorders,
+to help children with severe eating disorders. Many children too young to
+worry about obesity or understand anorexia simply won’t eat, or won’t eat a
+varied enough diet to receive all the nutrients they require.
+
+Sapiro and Zucker plan to create a machine learning program to help
+characterize the disease as well as compile information from thousands of
+families facing these challenges to help find solutions. For example, the
+algorithm could help find foods similar in texture and taste to things the
+children will eat that will best help round out their diet.
+
+Another new project just starting to take shape has Sapiro working with
+colleagues across Duke, including Dennis Turner, professor of neurosurgery;
+Warren Grill, the Edmund T. Pratt, Jr. School Professor of Biomedical
+Engineering; John Pearson, assistant professor of biostatistics and
+bioinformatics; and Kyle Mitchell, assistant professor of neurology, to create
+a system for measuring behaviors and movements for people using deep brain
+stimulation implants to control neuromuscular diseases such as Parkinson’s.
+The goal is to provide clinicians a clearer view into how well the technology
+is working for each patient so that they might fine-tune the device’s
+parameters.
+
+“It’s like when the noise your car has been making for a week suddenly stops
+when you get it to the mechanic,” said Sapiro. “Doctors are currently only
+seeing a snapshot of their patients’ symptoms while they’re in the clinic. We
+want to create a system that provides the doctors with a much more complete
+view of how the therapy is working on a day-to-day basis.”
+
+## Revealing Patterns in Health Records
+
+While devices such as OCT scanners, ultrasound machines and smartphone cameras
+are creating massive amounts of data for computers to learn from, so is the
+growing use of electric medical records. The difference is that rather than
+already being bunched together in a nice, tight package, these data are spread
+out across multiple systems and multiple doctors.
+
+Although Larry Carin’s expertise in machine learning first took root in
+spotting potential explosives, he’s now leading projects to spot potentially
+explosive health problems by creating a cohesive view across the diaspora of
+medical data.
+
+“The most complex patients are being seen by several doctors with several
+specialties, and these at-risk patients are the so-called ‘elephants in the
+room,’” said Carin. “Any one doctor generally only gets to touch a small piece
+of the elephant and doesn’t see that there’s an elephant in the room. Machine
+learning systems don’t have that limitation. They can see the entire clinical
+record from all of the doctors and glean insights that that individual doctors
+can’t.”
+
+Along with Ricardo Henao, assistant professor of biostatistics and
+bioinformatics and electrical and computer engineering, Carin is building a
+system to help spot these elephants.
+
+One of the most expensive and dangerous trips to the hospital a person can
+take is an unplanned one. By using machine learning to analyze electronic
+health records and claims data, Carin and Henao seek to predict which patients
+are most at risk for complications that could require emergency care in the
+next six months. Once flagged, care managers can look over their medical
+records and find appropriate interventions—thereby lowering health care costs
+while improving patient outcomes.
+
+“It’s really about engaging with individuals to help them avoid health
+complications in the first place,” said Henao. “But to do that, you first need
+a machine learning model that says from these 50,000 people, these are the 200
+that you really need to pay attention to.”
+
+## AI & Health: The Future at Duke
+
+The kinds of grassroots collaborations that have sprung up across Duke over
+the years are now
+
+being actively cultivated, with plans underway to turbo-charge efforts to
+develop AI-driven solutions to challenges in health care. A new initiative co-
+led by Carin and Robert Califf, Duke Health’s vice chancellor for health data
+science, will connect the Schools of Engineering and Medicine and Trinity
+College of Arts & Sciences with units such as the Duke Global Health Institute
+and the Duke-Margolis Center for Health Policy to leverage machine learning to
+improve both individual and population health through education, research and
+patient-care projects.
+
+Learning Health Units centered around specialties such as heart, cancer and
+pediatrics will embed data scientists in the clinical setting, where they will
+work with clinicians to record, analyze and learn from their troves of medical
+data to predict and prevent complications and streamline care delivery.
+
+> “We think of this project as the electric company. We don’t own data
+> science. We don’t own health data science. But we are going to facilitate it
+> and foster it. We’re going to make it easier for people to simply ‘flip the
+> switch’ and plug into the data science flowing through Duke, no matter what
+> appliance or application they’re using.”
+>
+> **LARRY CARIN**  
+>  JAMES L. MERIAM PROFESSOR OF ECE  
+> Duke University VICE PRESIDENT FOR RESEARCH
+
+Duke’s +Data Science program will offer educational programming—including its
+popular Machine Learning Summer and Winter Schools—to help develop data
+analysis skills in clinicians, researchers, faculty and students university-
+wide. And with a new hub for AI in health opening on the fifth floor of the
+new Engineering Building (see page 3), Duke also plans to recruit exceptional
+new talent to add to the ranks of its faculty developing innovations in
+artificial intelligence—including the world-class team in Duke ECE.
+
+“People have said that artificial intelligence will constitute the fourth
+industrial revolution and that data is like the electricity of the industrial
+revolution,” said Carin. “We think of this project as the electric company. We
+don’t own data science. We don’t own health data science. But we are going to
+facilitate it and foster it. We’re going to make it easier for people to
+simply ‘flip the switch’ and plug into the data science flowing through Duke,
+no matter what appliance or application they’re using.”
+
+More from the 2019-2020 Duke ECE Magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

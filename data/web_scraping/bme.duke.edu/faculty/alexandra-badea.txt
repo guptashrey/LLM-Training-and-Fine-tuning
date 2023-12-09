@@ -1,0 +1,352 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Alexandra Badea
+
+## Breadcrumb
+
+  1. Home
+  2. Faculty
+
+Associate Professor in Radiology
+
+I have a joint appointment in Radiology and Neurology and my research focuses
+on neurological conditions like Alzheimer’s disease. I work on imaging and
+analysis to provide a comprehensive characterization of the brain. MRI is
+particularly suitable for brain imaging, and diffusion tensor imaging is an
+important tool for studying brain microstructure, and the connectivity amongst
+gray matter regions.  
+  
+I am interested in image segmentation, morphometry and shape analysis, as well
+as in integrating information from MRI with genetics, and behavior. Our
+approaches target: 1) phenotyping the neuroanatomy using imaging; 2)
+uncovering the link between structural and functional changes, the genetic
+bases, and environmental factors. I am interested in generating methods and
+tools for comprehensive phenotyping.  
+  
+We use high-performance cluster computing to accelerate our image analysis. We
+use compressed sensing image reconstruction, and process large image arrays
+using deformable registration, perform segmentation based on multiple image
+contrasts including diffusion tensor imaging, as well as voxel, and graph
+analysis for connectomics.  
+  
+At BIAC my efforts focus on developing multivariate biomarkers and identifying
+vulnerable networks based on genetic risk for Alzheimer's disease.  
+  
+My enthusiasm comes from the possibility to extend from single to integrative
+multivariate and network based analyses to obtain a comprehensive picture of
+normal development and aging, stages of disease, and the effects of
+treatments. I am working on multivariate image analysis and predictive
+modeling approaches to help better understand early biomarkers for human
+disease indirectly through mouse models, as well as directly in human studies.  
+  
+I am dedicated to supporting an increase in female presence in STEM fields,
+and love working with students. The Bass Connections teams involve
+undergraduate students in research, providing them the opportunity to do
+independent research studies and get involved with the community. These
+students have for example takes classes such as:  
+  
+BME 394: Projects in Biomedical Engineering (GE)  
+BME 493: Projects in Biomedical Engineering (GE)  
+ECE 899: Special Readings in Electrical Engineering  
+NEUROSCI 493: Research Independent Study 1
+
+## Appointments and Affiliations
+
+  * Associate Professor in Radiology
+  * Associate Professor in the Department of Neurology
+  * Assistant Professor of Biomedical Engineering
+  * Member of the Center for Brain Imaging and Analysis
+
+## Contact Information
+
+  * **Office Location:** Center for in Vivo Microscopy, Room 139 Bryan
+    Research Building, Durham, NC 27710
+  * **Office Phone:** (919) 684-7654
+  * **Email Address:** alexandra.badea@duke.edu
+  * **Websites:**
+    * See my Duke Radiology Page - Click Here
+    * See my Duke University School of Medicine Page - Click Here
+
+## Education
+
+  * Ph.D. University of Patras (Greece), 2003
+
+## Research Interests
+
+Alzheimer's Disease, Brain Imaging, MRI, Connectivity, Multivariate
+Biomarkers, Image Analysis, Neurological Conditions.
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 791: Graduate Independent Study
+  * BRAINSOC 395-1: Bass Connections in Brain and Society: Interdisciplinary
+    Team Projects
+  * BRAINSOC 395: Bass Connections in Brain and Society: Interdisciplinary
+    Team Projects
+  * BRAINSOC 395T: Bass Connections in Brain & Society Research Team
+  * BRAINSOC 396-1: Bass Connections in Brain and Society 2: Interdisciplinary
+    Team Projects
+  * BRAINSOC 396: Bass Connections in Brain and Society 2: Interdisciplinary
+    Team Projects
+  * BRAINSOC 396T: Bass Connections in Brain & Society Research Team
+  * BRAINSOC 397-1: Bass Connections in Brain and Society 3: Interdisciplinary
+    Team Projects
+  * BRAINSOC 397: Bass Connections in Brain and Society 3: Interdisciplinary
+    Team Projects
+  * BRAINSOC 397T: Bass Connections in Brain & Society Research Team
+  * BRAINSOC 398-1: Bass Connections in Brain and Society 4: Interdisciplinary
+    Team Projects
+  * BRAINSOC 398: Bass Connections in Brain and Society 4: Interdisciplinary
+    Team Projects
+  * BRAINSOC 398T: Bass Connections in Brain & Society Research Team
+  * BRAINSOC 795T: Bass Connections in Brain & Society Research Team
+  * BRAINSOC 796T: Bass Connections in Brain & Society Research Team
+  * EGR 393: Research Projects in Engineering
+  * MEDPHY 791: Independent Study in Medical Physics
+  * NEUROSCI 493: Research Independent Study 1
+  * NEUROSCI 494: Research Independent Study 2
+
+## In the News
+
+  * Female-Led Team Investigates Increased Alzheimer’s Risk in Women (Nov 2,
+    2021 |…
+
+## Representative Publications
+
+  * Wu, Teresa, Min Hyeok Bae, Min Zhang, Rong Pan, and Alexandra Badea. “A
+    prior feature SVM-MRF based method for mouse brain segmentation.”
+    Neuroimage 59, no. 3 (February 1, 2012): 2298–2306.
+    https://doi.org/10.1016/j.neuroimage.2011.09.053.
+  * Poot, Martin, Alexandra Badea, Robert W. Williams, and Martien J. Kas.
+    “Identifying human disease genes through cross-species gene mapping of
+    evolutionary conserved processes.” Plos One 6, no. 5 (May 4, 2011):
+    e18612. https://doi.org/10.1371/journal.pone.0018612.
+  * Bowden, Douglas M., G Allan Johnson, Laszlo Zaborsky, William D. K. Green,
+    Eider Moore, Alexandra Badea, Mark F. Dubach, and Fred L. Bookstein. “A
+    symmetrical Waxholm canonical mouse brain for NeuroMaps.” J Neurosci
+    Methods 195, no. 2 (February 15, 2011): 170–75.
+    https://doi.org/10.1016/j.jneumeth.2010.11.028.
+  * Johnson, G Allan, Alexandra Badea, and Yi Jiang. “Quantitative
+    neuromorphometry using magnetic resonance histology.” Toxicol Pathol 39,
+    no. 1 (January 2011): 85–91. https://doi.org/10.1177/0192623310389622.
+  * Johnson, G Allan, Alexandra Badea, Jeffrey Brandenburg, Gary Cofer, Boma
+    Fubara, Song Liu, and Jonathan Nissanov. “Waxholm space: an image-based
+    reference for coordinating mouse brain research.” Neuroimage 53, no. 2
+    (November 1, 2010): 365–72.
+    https://doi.org/10.1016/j.neuroimage.2010.06.067.
+  * Badea, Alexandra, G Allan Johnson, and Joanna L. Jankowsky. “Remote sites
+    of structural atrophy predict later amyloid formation in a mouse model of
+    Alzheimer's disease.” Neuroimage 50, no. 2 (April 1, 2010): 416–27.
+    https://doi.org/10.1016/j.neuroimage.2009.12.070.
+  * Badea, Alexandra, G Allan Johnson, and Robert W. Williams. “Genetic
+    dissection of the mouse CNS using magnetic resonance microscopy.” Curr
+    Opin Neurol 22, no. 4 (August 2009): 379–86.
+    https://doi.org/10.1097/WCO.0b013e32832d9b86.
+  * Bae, Min Hyeok, Rong Pan, Teresa Wu, and Alexandra Badea. “Automated
+    segmentation of mouse brain images using extended MRF.” Neuroimage 46, no.
+    3 (July 1, 2009): 717–25.
+    https://doi.org/10.1016/j.neuroimage.2009.02.012.
+  * Badea, A., G. A. Johnson, and R. W. Williams. “Genetic dissection of the
+    mouse brain using high-field magnetic resonance microscopy.” Neuroimage
+    45, no. 4 (May 1, 2009): 1067–79.
+    https://doi.org/10.1016/j.neuroimage.2009.01.021.
+  * Sharief, Anjum A., Alexandra Badea, Anders M. Dale, and G Allan Johnson.
+    “Automated segmentation of the actively stained mouse brain using multi-
+    spectral MR microscopy.” Neuroimage 39, no. 1 (January 1, 2008): 136–45.
+    https://doi.org/10.1016/j.neuroimage.2007.08.028.
+  * Driehuys, Bastiaan, John Nouls, Alexandra Badea, Elizabeth Bucholz, Ketan
+    Ghaghada, Alexandra Petiet, and Laurence W. Hedlund. “Small animal imaging
+    with magnetic resonance microscopy.” Ilar J 49, no. 1 (2008): 35–53.
+    https://doi.org/10.1093/ilar.49.1.35.
+  * Badea, A., A. A. Ali-Sharief, and G. A. Johnson. “Morphometric analysis of
+    the C57BL/6J mouse brain.” Neuroimage 37, no. 3 (September 1, 2007):
+    683–93. https://doi.org/10.1016/j.neuroimage.2007.05.046.
+  * Johnson, G Allan, Anjum Ali-Sharief, Alexandra Badea, Jeffrey Brandenburg,
+    Gary Cofer, Boma Fubara, Sally Gewalt, Laurence W. Hedlund, and Lucy
+    Upchurch. “High-throughput morphologic phenotyping of the mouse brain with
+    magnetic resonance histology.” Neuroimage 37, no. 1 (August 1, 2007):
+    82–89. https://doi.org/10.1016/j.neuroimage.2007.05.013.
+  * Badea, Alexandra, Peter J. Nicholls, G Allan Johnson, and William C.
+    Wetsel. “Neuroanatomical phenotypes in the reeler mouse.” Neuroimage 34,
+    no. 4 (February 15, 2007): 1363–74.
+    https://doi.org/10.1016/j.neuroimage.2006.09.053.
+  * Ali, Anjum A., Anders M. Dale, Alexandra Badea, and G Allan Johnson.
+    “Automated segmentation of neuroanatomical structures in multispectral MR
+    microscopy of the mouse brain.” Neuroimage 27, no. 2 (August 15, 2005):
+    425–35. https://doi.org/10.1016/j.neuroimage.2005.04.017.
+  * Badea, Alexandra, George K. Kostopoulos, and Andreas A. Ioannides.
+    “Surface visualization of electromagnetic brain activity.” J Neurosci
+    Methods 127, no. 2 (August 15, 2003): 137–47.
+    https://doi.org/10.1016/s0165-0270(03)00100-6.
+
+## News from Duke BME
+
+April 14, 2023 | **_Duke Engineering_**
+
+### Integrated Design Challenge Restores Balance to the Force
+
+March 28, 2023 | **_Duke Institute for Brain Sciences_**
+
+### At DIBS, Duke Alumni Get a Look into the Brain
+
+March 20, 2023 | **_Duke Engineering_**
+
+### Gigapixel 3D Microscope Captures Life in Unprecedented Detail
+
+View all news
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

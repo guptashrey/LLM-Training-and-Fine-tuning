@@ -1,0 +1,384 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Undergraduate Courses
+
+## Breadcrumb
+
+  1. Home
+  2. Undergraduate
+
+**ME 221L(83L). Structure and Properties of Solids.** Introduction to
+materials science and engineering, emphasizing the relationships between the
+structure of a solid and its properties. Atomic and molecular origins of
+electrical, mechanical, and chemical behavior are treated in some detail for
+metals, alloys, polymers, ceramics, glasses, and composite materials.
+Prerequisites: Chemistry 20(18), 21(19), or 101DL(31) and Engineering
+201L(75L) or Biomedical Engineering 110L. Instructor: Curtarolo, Lazarides, or
+Zauscher. One course.
+
+## QUICK LINKS
+
+  * DukeHub
+  * Registrar's Schedule of Courses
+  * Academic Calendar
+  * Undergraduate Bulletin
+  * Registrar's Office
+  * Sakai
+
+**ME 321L(131). Mechanical Engineering Analysis for Design.** Calculation of
+3D stresses, strains, and deflections encountered in mechanical designs. Types
+of problems include: curved beams, contact stresses, press/shrink fits, etc.
+Reliability and uncertainty analysis, failure theories, fatigue, and fracture
+mechanics. Computational methods of analysis, such as finite elements analysis
+are covered. Prerequisites: EGR 20L, EGR 201L(75L), EGR 244L(123L), Mechanical
+Engineering 221L(83L), and Math 353(108). Instructor: Franzoni, Howle,
+Laursen. One course.
+
+**ME 331L(101L). Thermodynamics.** The principal laws of thermodynamics for
+open and closed systems and their application in engineering. Properties of
+the pure substance, relationships among properties, mixtures and reactions.
+Power and refrigeration cycle analysis. Prerequisite: Mathematics 212(103) and
+Physics 151L(61L). Instructor: Bejan, Marszalek, or Tan. One course.
+
+**ME 336L(126L). Fluid Mechanics.** An introductory course emphasizing the
+application of the principles of conservation of mass, momentum, and energy in
+a fluid system. Physical properties of fluids, dimensional analysis and
+similitude, viscous effects and integral boundary layer theory, subsonic and
+supersonic flows, normal shockwaves. Selected laboratory work. Prerequisites:
+Engineering 244L(123L) and Mechanical Engineering 331L(101L). Co-requisite or
+prerequisite: Mathematics 353(108). Instructor: Bliss, Knight, Shaughnessy, or
+Zhong. One course.
+
+**ME 344L(125L). Control of Dynamic Systems.** Model dynamic systems and
+characterize time and frequency domain response with respect to particular
+inputs. Characterize systems in terms of rise-time, settling-time and
+bandwidth. Identify the difference between stable and unstable system. Apply
+feedback control to modify the response of dynamic systems based upon
+specified design objectives. Develop methods of designing compensators for
+single-input, single-output, and multiple-input, multiple-output dynamic
+systems based upon classical and modern control approaches. Introduce optimal
+control theory, the linear quadratic regulator (LQR) problem, and the linear
+quadratic Gaussian (LQG) problem. Gain a physical understanding of what can be
+accomplished with feedback control in modifying the dynamics of a system.
+Prerequisites: Engineering 224L(119L) and Math 216(107). Instructor: Ferrari,
+Garg. One course.
+
+**ME 391(187). Undergraduate Projects in Mechanical Engineering.** Individual
+projects arranged in consultation with a faculty member. Open to students who
+show special aptitude for research and design. Taught in the Fall. Consent of
+director of undergraduate studies. Instructor: Staff. Variable credit.
+
+**ME 392(188). Undergraduate Projects in Mechanical Engineering.** Individual
+projects arranged in consultation with a faculty member. Open to students who
+show special aptitude for research and design. Taught in the Spring. Consent
+of director of undergraduate studies. Instructor: Staff. Variable credit.
+
+**ME 394(172). Engineering Undergraduate Fellows Projects.** Intensive
+research project in Mechanical Engineering by students selected as Engineering
+Undergraduate Fellows. Course credit is contingent upon satisfactory
+completion of ME 493(173) and ME 494(174) **.** Consent of instructor and
+program director required. Instructor: Staff. One course.
+
+**ME 415L(115L). Failure Analysis and Prevention.** A study and analysis of
+the causes of failure in engineering materials and the diagnosis of those
+causes. Elimination of failures through proper material selection, treatment,
+and use. Case histories. Examination of fracture surfaces. Laboratory
+investigations of different failure mechanisms. Prerequisites: Engineering
+201L(75L) and Mechanical Engineering 336L(83L). Instructor: Cocks. One course.
+
+**ME 416(170). Experimental Materials Science.** Exposure to experimental
+methods used in the preparation and evaluation of alloys, intermetallic
+compounds, crystals, and ceramics. Extensive work with x-ray diffraction and
+scanning electron microscopy methods. Includes vacuum and arc melting
+processes. Instructor: Cocks. One course.
+
+**ME 421L(141L). Mechanical Design.** A study of practical aspects of
+mechanical design including conceptualization, specifications, and selection
+of mechanical elements. The design and application of mechanical components
+such as gears, cams, bearings, springs, and shafts. Practice in application of
+process through design projects. Prerequisite: Engineering 244L(123L) and
+Mechanical Engineering 321L(131L). Instructor: Franzoni, Howle, or Knight. One
+course.
+
+**ME 424L(160L). Mechanical Systems Design.** An integrative design course
+addressing both creative and practical aspects of the design of systems.
+Development of the creative design process, including problem formulation and
+needs analysis, feasibility, legal, economic and human factors, aesthetics,
+safety, synthesis of alternatives, and design optimization. Application of
+design methods through several projects including a term design project.
+Prerequisites: Mechanical Engineering 344L(125L), 421L(141L), and 431L(150L).
+Instructor: Kielb or Knight. One course.
+
+**ME 425(175). Analytical and Computational Solid Mechanics.** One course.
+C-L: see Civil Engineering 175; also C-L: Modeling Biological Systems
+
+**ME 431L(150L). Heat and Mass Transfer.** A rigorous development of the laws
+of mass and energy transport as applied to a continuum. Energy transfer by
+conduction, convection, and radiation. Free and forced convection across
+boundary layers. Application to heat exchangers. Selected laboratory work.
+Prerequisites: Mechanical Engineering 331L(101L), Mechanical Engineering
+336L(126L), and Mathematics 353(108) Instructor: Chen, Howle, or Knight. One
+course.
+
+**ME 438(166). Constructal theory and design.** Flow configuration in nature
+and engineering emerges from the constructal law of increase of flow access in
+time, when the flow system is endowed with freedom to morph. The course brings
+together the basic principles of fluid mechanics, heat transfer and
+thermodynamics, and teaches how to generate (to 'discover') shape and
+structure for energy flow systems. The course teaches design as science, and
+presents a paradigm that is applicable across the board, from engineering to
+biology, geophysics and social dynamics. Instructor: Bejan and Lorente. One
+course.
+
+**ME 442(142). Introduction to Robotics and Automation.** One course. C-L: see
+Electrical and Computer Engineering 383(142); also C-L: Information Science
+and Information Studies
+
+**ME 445(135). Introduction to Vibrations.** Mechanical vibrations are studied
+primarily with emphasis on application of analytical and computational methods
+to machine design and vibration control problems. A single degree-of-freedom
+system is use to determine free vibration characteristics and response to
+impulse, harmonic and periodic excitations. The study of two and three degree-
+of-freedom systems includes the determination of the ecigenvalues and
+ecigenvectors, and introduction to modal analysis. The finite element method
+is used to conduct basic vibration analysis of systems with a large number of
+degrees of freedom. The student learns how to balance rotating machines, and
+how to design suspension systems, isolation systems, vibration sensors, and
+tuned vibration absorbers. Prerequisite: ME 344L(125L). Instructor: Kielb. One
+course.
+
+**ME 461(121). Energy Engineering and the Environment.** Efficiencies of both
+new and established energy sources and conversion methods. Evaluation of
+alternative energy technologies by statistical information and by modeling
+using principals of fluid mechanics, thermodynamics and heat transfer.
+Electricity generation by fossil fuels, nuclear, solar, wind and hydro. Space
+heating and cooling by traditional methods and by solar. Transportation energy
+in automobiles, mass transit and freight. Environmental consequences of energy
+choices on local, national and global scales, including toxic emissions,
+greenhouse gases and resource depletion. Prerequisite: ME 331L(101L)
+Thermodynamics. Instructors: Cocks and Knight. One course. C-L: Energy and the
+Environment
+
+**ME 462(183). Power Generation.** Basic concepts of thermodynamics, heat
+transfer, and fluid flow applied to power generation processes. Nuclear
+reaction theory and reactor technology; fossil fuel combustion theory and
+modern boiler practice. Power plant ancillary equipment and processes. Design
+considerations and analyses include economic and environmental factors.
+Instructor: Staff. One course.
+
+**ME 463(149L). Electric Vehicle Project.** One course. C-L: see Electrical
+and Computer Engineering 363L(149L)
+
+**ME 490(165). Special Topics in Mechanical Engineering.** Study arranged on a
+special engineering topic in which the faculty has particular interest and
+competence as a result of research and professional activities. Consent of
+instructor and director of undergraduate studies required. Half or one course.
+Instructor: Staff. Variable credit.
+
+**ME 491(197). Special Projects in Mechanical Engineering.** Individual
+projects arranged in consultation with a faculty member. Open only to seniors
+enrolled in the graduation with distinction program or showing special
+aptitude for research. Half course to two courses. To be taught in the Fall.
+Prerequisites: B average and consent of the director of undergraduate studies.
+Instructor: Staff. Variable credit.
+
+**ME 492(198). Special Projects in Mechanical Engineering.** Individual
+projects arranged in consultation with a faculty member. Open only to seniors
+enrolled in the graduation with distinction program or showing special
+aptitude for research. Half course to two courses. To be taught in the Spring.
+Prerequisites: B average and consent of the director of undergraduate studies.
+Instructor: Staff. Variable credit.
+
+**ME 493(173). Engineering Undergraduate Fellows Projects.** Continuation
+course for Engineering Undergraduate Fellows, contingent upon satisfactory
+completion of ME 394(172). Consent required. Instructor: Staff. One course.
+
+**ME** **494(** **174). Engineering Undergraduate Fellows Projects.** Final
+continuation course for Engineering Undergraduate Fellows, contingent upon
+satisfactory completion of ME 394(172) and 493(173). Consent required.
+Instructor: Staff. One course.
+
+## Undergraduate Contacts
+
+### Donald Bliss
+
+Associate Professor and Director of Undergraduate Studies
+
+__919-660-5315
+
+__donald.bliss@duke.edu
+
+### Nico Hotz
+
+Associate Professor of the Practice and Associate Director of Undergraduate
+Studies
+
+__919-660-5118
+
+__nico.hotz@duke.edu
+
+### Amy Spaulding
+
+Director of Undergraduate Studies Assistant
+
+__919-660-5310
+
+__amy.spaulding@duke.edu
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

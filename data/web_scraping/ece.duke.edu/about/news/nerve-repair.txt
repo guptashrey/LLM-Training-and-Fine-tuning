@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Regenerating Damaged Nerves with "Pac-Man" Cells
+
+June 12, 2017 | By Ken Kingery
+
+Innovative approach nearly as good as surgical nerve transplant
+
+Biomedical engineers have found an unlikely ally in the struggle to regrow
+damaged nerves—the foot soldiers of the body's immune system.
+
+Macrophages are known as the Pac-Man of the immune system and form the body's
+first line of defense against invasion—they indiscriminately engulf and eat
+most anything deemed a dangerous trespasser, whether it's a bacterium or
+cellular debris from deceased tissue. Recent research, however, has shown that
+some macrophages also promote healing.
+
+In a study appearing online the week of June 12 in the _Proceedings of the
+National Academy of Sciences_ , researchers from Duke University have shown
+that summoning these pro-healing macrophages can greatly help regrow severed
+nerves in rats. The approach comes close to equaling the current best
+treatment—a surgical transplant using a nerve stripped from another part of
+the patient's body.
+
+"There's been a long-held view that the best way to regrow severed nerves is
+to provide all sorts of matrix and growth proteins to coax repair," said Ravi
+Bellamkonda, professor of biomedical engineering and Vinik Dean of the Pratt
+School of Engineering at Duke. "We've completely shifted that view by finding
+new players who have remained behind the scenes. We believe this approach will
+also have a major impact on regenerative medicine, even beyond this specific
+application."
+
+The peripheral nervous system includes nerves that run from the spinal cord to
+the rest of the body. It connects and controls movements, the digestive
+system, heart, lungs and other organs. When these relatively long cells—which
+can stretch for a meter or more—are damaged or severed, the injury is not
+easily healed.
+
+The current standard of care, called an autograft, involves surgically
+removing a less important nerve, like the one running down the back of the
+calf, and grafting it into the damaged area. But the treatment has several
+drawbacks. A sensory neuron replacing a motor neuron is not a perfect
+replacement, painful neuromas can occur at the healing site, the patient loses
+the function of another nerve and, in the case of extensive injuries, there
+are only so many semi-disposable nerves in the body to harvest.
+
+Researchers have long been working on an alternative approach using "nerve
+bridges" to span these gaps. The idea is to introduce a tube filled with
+growth factors and other goodies across the gap to coax the regrowth of the
+existing nerve, like luring a dog out of a hiding place with treats. But
+despite efforts to find the optimal combination of tube material, growth
+factors, proteins and other helpers, nothing has come close to matching the
+autograft's success.
+
+Bellamkonda and his group were travelling down this same road until some
+salamanders lost their tails.
+
+"We saw a study showing that the early presence of macrophages were vital to a
+salamander's ability to regenerate its tail," said Nassir Mokarram, assistant
+research professor of biomedical engineering at Duke. "We also knew that rare
+instances of nerve regeneration were accompanied by a surge of these cells
+right after the injury occurred. Those two observations gave us the
+inspiration to see if the same idea could be applied with nerve bridges."
+
+In 2012, Bellamkonda and Mokarram showed that nerve regeneration could be
+increased in rats by forcing macrophages to become the pro-healing variety
+that secrete healing compounds. In the new paper, the researchers take their
+work a step further. Instead of issuing orders to make mature macrophages
+switch roles, they filled the nerve bridge with a biological signal shown to
+attract younger, undifferentiated cells destined to become pro-healing
+macrophages.
+
+"Instead of retraining the demolition and cleanup crew, we hired a new
+workforce with a future in construction," said Mokarram. "The results were
+significantly better. This is the closest anyone has ever been to equaling the
+efficacy of an autograft, and we did it with nothing more than a tube and the
+recruitment of the body's own immune system."
+
+The researchers next plan to test the approach using a specialized nanofiber
+material they developed that has already proven better at bridging nerve
+endings than the tubes used in this proof-of-concept study.
+
+"We're the first group to prove this immunological approach to healing works
+with nerves in rodents," said Mokarram. "We think this work will open a path
+to using similar methods in the much more complex and difficult arenas of the
+spinal cord and brain."
+
+This work was done in close collaboration with Emory University cell biologist
+Arthur English and supported by the National Institutes of Health
+(7R01NS093666, 5R01NS065109).
+
+CITATION: "Immunoengineering Nerve Repair," Nassir Mokarram, Kyle Dymanus,
+Akhil Srinivasan, Johnathan Lyon, John Tipton, Jason Chu, Arthur English, Ravi
+V. Bellamkonda. PNAS, June 12, 2017. DOI: 10.1073/pnas.1705757114
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,769 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# Graduate Courses
+
+## Breadcrumb
+
+  1. Home
+  2. Masters
+
+_Note: Students may also take courses from other engineering departments
+within Duke's Pratt School of Engineering, and courses from other graduate
+schools at Duke with the permission of the adviser and the Director of
+Graduate Studies._
+
+### Quick Links
+
+  * DukeHub
+  * Registrar's Schedule of Courses
+  * Academic Calendar
+  * Graduate Bulletin
+  * Inter-Institutional Registration
+  * Course Withdrawal Form
+  * Registrar's Office
+  * Sakai
+
+**510\. Diffraction and Spectrometry of Materials.** This course focuses on
+the fundamentals and applications of x-ray and electron-beam based techniques
+for the characterization of materials, covering a wide range of analytical
+tools used in both scientific research and in industry. The class will cover a
+broad selection of topics in diffraction for the study of the atomic structure
+of materials, as well as spectrometry to investigate microscopic dynamics and
+composition. The class will provide the students with the fundamental concepts
+and a comprehensive understanding for applications to many x-ray / electron /
+neutron scattering techniques, for the study of a wide range of materials,
+including: energy materials, semiconductors, polymers, biomaterials, films,
+nano-materials, or structural materials.
+
+**511\. Computational Materials Science.** Since quantum mechanics was
+invented, scientists have known that the properties of any material are, in
+principle, governed by a set of mathematical rules that we know exactly. The
+challenge is to use these laws that start at the smallest scale (atoms and
+electrons) to predict phenomena that are macroscopically important. The
+computers and methods that we have today are bringing us closer to this
+vision. This course covers modern computational techniques for the prediction
+of materials properties, beginning from the scale of electrons and atoms and
+connecting to materials challenges in experiments today. Subjects covered
+include Schrödinger's Equation and Density Functional Theory, Molecular
+Dynamics, and so-called multiscale approaches to connect quantities computed
+at the nanoscale to macroscopic properties. In addition to traditional
+classroom teaching, the class incorporates specific examples as explicit
+computer exercises for the participants.
+
+**512\. Thermodynamics of Electronic Materials.** Basic thermodynamic concepts
+applied to solid state materials with emphasis on technologically relevant
+electronic materials such as silicon and GaAs. Thermodynamic functions, phase
+diagrams, solubilities and thermal equilibrium concentrations of point
+defects; non-equilibrium processes and the kinetic phenomena of diffusion,
+precipitation, and growth. 3 units.
+
+**513\. Nanobiomechanics.** The course focuses on the development of an
+understanding of the mechanical properties of biopolymers such as DNA,
+proteins and polysaccharides by examining these properties at the nanoscale
+level both theoretically using polymer elasticity models and experimentally
+through direct mechanical manipulations of individual molecules. The course
+consists of didactic lectures and many laboratory demonstrations and real
+experiments done by the students themselves. Objectives of the course are: i)
+Review of single-molecule force spectroscopy (SMFS) techniques that allow
+mechanical stretching and relaxing of single polymer chains to determine their
+force-extension relationships; ii) Review of SMFS instrumentation (Scanning
+Tunneling Microscopy (STM), Atomic Force Microscopy and Spectroscopy
+(AFM/AFS)), magnetic tweezers (MT), optical tweezers (OT)) and their physical
+principles, resolution and resolution limitations; iii) Principles of entropic
+and enthalpic elasticity of biopolymers and their roles in biology such as in
+passive elasticity of muscle; iv) Understanding force-induced mechanical
+unfolding and refolding reactions of individual proteins, DNA and sugar
+molecules; v) Principles of computer modeling of biopolymers and their force-
+induced structural alterations; vi) designing novel, DNA encoded, protein-
+based nanostructured biomaterials with tailored viscoelastic properties. 3
+units.
+
+**514\. Theoretical and Applied Polymer Science (GE, BB).** An intermediate
+course in soft condensed matter physics dealing with the structure and
+properties of polymers and biopolymers. Introduction to polymer syntheses
+based on chemical reaction kinetics, polymer characterization. Emphasizes
+(bio)polymers on surfaces and interfaces in aqueous environments, interactions
+of (bio)polymer surfaces, including wetting and adhesion phenomena. 3 units.
+C-L: Biomedical Engineering 529
+
+**515\. Electronic Materials.** An advanced course in materials science and
+engineering dealing with materials important for solid-state electronics and
+the various semiconductors. Emphasis on thermodynamic concepts and on defects
+in these materials. Materials preparation and modification methods for
+technological defects in these materials. Prerequisite: Mechanical Engineering
+221L. 3 units.
+
+**516\. Thin-Film Photovoltaic Technology.** The earth receives approximately
+120,000 terawatts (TWs) of solar energy annually (versus human consumption of
+~15 TW), in a form that is renewable, reliable and geographically distributed.
+One particular avenue for exploiting solar energy is the direct conversion of
+sunlight into electricity or photovoltaics (PV). This course will focus in on
+a promising class of solar cells based on thin-film absorbers, some of which
+are already commercialized (e.g., CdTe, CIGS), while others are on the cutting
+edge of new photovoltaics technology (e.g., perovskites). The course will
+employ a combination of lecture, directed reading and hands-on approaches to
+get a better appreciation of the advantages and challenges of this class of PV
+technologies. The hands-on component of the course will involve fabricating PV
+devices and employing contemporary characterization and modeling tools to
+evaluate device performance. Both the specific techniques employed, as well as
+the intellectual framework used in the course are more generally applicable to
+other solar cell and electronic device technologies. Note: 12 student limit on
+class size. 3 units.
+
+**524\. Introduction to the Finite Element Method.** Investigation of the
+finite element method as a numerical technique for solving linear ordinary and
+partial differential equations, using rod and beam theory, heat conduction,
+elastostatics and dynamics, and advective/diffusive transport as sample
+systems. Emphasis placed on formulation and programming of finite element
+models, along with critical evaluation of results. Topics include: Galerkin
+and weighted residual approaches, virtual work principles, discretization,
+element design and evaluation, mixed formulations, and transient analysis.
+Prerequisites: a working knowledge of ordinary and partial differential
+equations, numerical methods, and programming in FORTRAN. 3 units. C-L: see
+Civil and Environmental Engineering 530
+
+**525\. Nonlinear Finite Element Analysis.** Formulation and solution of
+nonlinear initial/boundary value problems using the finite element method.
+Systems include nonlinear heat conduction/diffusion, geometrically nonlinear
+solid and structural mechanics applications, and materially nonlinear systems
+(for example, elastoplasticity). Emphasis on development of variational
+principles for nonlinear problems, finite element discretization, and
+equation-solving strategies for discrete nonlinear equation systems. Topics
+include: Newton-Raphson techniques, quasi-Newton iteration schemes, solution
+of nonlinear transient problems, and treatment of constraints in a nonlinear
+framework. An independent project, proposed by the student, is required.
+Prerequisite: Civil Engineering 530(254) or consent of instructor. 3 units.
+C-L: see Civil and Environmental Engineering 630
+
+**527\. Buckling of Engineering Structures.** An introduction to the
+underlying concepts of elastic stability and buckling, development of
+differential equations and energy approaches, buckling of common engineering
+components including link models, struts, frames, plates, and shells.
+Consideration will also be given to inelastic behavior, postbuckling, and
+design implications. Prerequisite: Civil Engineering 421L(131L) or consent of
+instructor. 3 units. C-L: see Civil and Environmental Engineering 647
+
+**531\. Engineering Thermodynamics.** Axiomatic formulations of the first and
+second laws. General thermodynamic relationships and properties of real
+substances. Energy, availability, and second law analysis of energy conversion
+processes. Reaction and multiphase equilibrium. Power generation. Low
+temperature refrigeration and the third law of thermodynamics. Thermodynamic
+design. 3 units.
+
+**532\. Convective Heat Transfer.** Models and equations for fluid motion, the
+general energy equation, and transport properties. Exact, approximate, and
+boundary layer solutions for laminar flow heat transfer problems. Use of the
+principle of similarity and analogy in the solution of turbulent flow heat
+transfer. Two-phase flow, nucleation, boiling, and condensation heat and mass
+transfer. 3 units.
+
+**535\. Biomedical Microsystems.** The objective of the course is to introduce
+students to the interdisciplinary field of biomedical microsystems with an
+emphasis on biomedical microelectromechanical systems (bioMEMS) and
+microtechnologies. Topics include Scaling laws, Micropatterning of substrates
+and cells, Microfluidics, Molecular biology on a chip, Cell-based chips for
+biotechnology, BioMEMS for cell biology, Tissue microengineering, and
+Microfabricated implants and sensors. 3 units.
+
+**536\. Compressible Fluid Flow.** Basic concepts of the flow of gases from
+the subsonic to the hypersonic regime. One-dimensional wave motion, the
+acoustic equations, and waves of finite amplitude. Effects of area change,
+friction, heat transfer, and shock on one-dimensional flow. Moving and oblique
+shock waves and Prandtl-Meyer expansion. Prerequisite: Mechanical Engineering
+336L or equivalent. 3 units.
+
+**539\. Interfacial Transport Phenomena for Energy Technologies.** The main
+topics of the course are transport phenomena taking place on interfaces in
+renewable/sustainable energy technology. These transport phenomena comprise of
+charge transport (ions and electrons, for example), heat transfer (conduction,
+convection, radiation), and mass transfer (e.g. diffusion), sometimes coupled
+with chemical reactions (catalytic, electrochemical, photochemical, etc.). We
+will study these transport phenomena at interfaces, especially in the micro-
+and nano-scale and apply this knowledge to energy conversion and storage
+processes. All these interfacial transport phenomena are essential for
+photovoltaic cells, fuel cells, batteries, desalination, solar-thermal
+devices, thermoelectric devices, and many others. 3 units.
+
+**541\. Intermediate Dynamics: Dynamics of Very High Dimensional Systems.**
+Comprehensive treatment of the dynamic motion of particles and rigid bodies
+with an introduction to nonlinear dynamics and the vibration of continuous
+systems. Topics include: conservation of linear and angular momentum,
+superposition applied to linear systems, motion in inertial and noninertial
+frames of reference, Hamilton's principle and Langrange's equations, and
+generalized coordinates. 3 units. C-L: see Civil and Environmental Engineering
+625
+
+**543\. Energy Flow and Wave Propagation in Elastic Solids.** Derivation of
+equations for wave motion in simple structural shapes: strings, longitudinal
+rods, beams and membranes, plates and shells. Solution techniques, analysis of
+systems behavior. Topics covered include: nondispersive and dispersive waves,
+multiple wave types (dilational, distortion), group velocity, impedance
+concepts including driving point impedances and moment impedances. Power and
+energy for different cases of wave propagation. Prerequisites: Engineering
+244L(123L) and Mathematics 353(108) or consent of instructor. 3 units. C-L:
+see Civil and Environmental Engineering 626
+
+**544\. Advanced Mechanical Vibrations.** Advanced mechanical vibrations are
+studied primarily with emphasis on application of analytical and computational
+methods to machine design and vibration control problems. Equations of motion
+are developed using Lagrange's equations. A single degree-of-freedom system is
+used to determine free vibration characteristics and response to impulse,
+harmonic periodic excitations, and random. The study of two and three degree-
+of-freedom systems includes the determination of the eigenvalues and
+eigenvectors, and an in-depth study of modal analysis methods. The finite
+element method is used to conduct basic vibration analysis of systems with a
+large number of degrees of freedom. The student learns how to balance rotating
+machines, and how to design suspension systems, isolation systems, vibration
+sensors, and tuned vibration absorbers. 3 units.
+
+**555\. Applications in AI for Materials.** In this special topics course, AI
+principles are applied to a series of materials science example problems, each
+taught in a module by an expert in materials science and/or data science. Each
+module spans 2-3 weeks, demonstrating an array of data science/AI methods in
+unique materials case studies in advancing discovery or design principles.
+Example modules include: Boosted decision trees for discovering structural
+patterns controlling bandgaps in metamaterials, Machine learning to predict
+dynamic heterogeneities in materials, and AI assisted design of high entropy
+materials for catalysis. 3 units.
+
+Details for current course located here: https://aim-
+nrt.pratt.duke.edu/training/applications-data-and-materials-science
+
+**555\. Data Driven Dynamic Systems and Control.**
+
+**555\. Experiment Design and Research Methods (MS Capstone).** Students
+define a hands-on project of their choice that would prepare them for research
+in their preferred master’s study concentration. The design process is
+employed to identify a problem, formulate it, propose design alternatives and
+rank them, produce and test prototypes, refine and iterate on the selected
+design. The experiments that are developed are incorporated within the
+graduate and undergraduate curriculum. The course is composed of equal parts
+design, technical content, and communication skills (including an online
+portfolio). Projects can be further developed during the subsequent semester
+to fulfill the master’s project requirement during the Poster Expo. 3 units.
+
+Details for current course located here: https://sites.duke.edu/memscapstone/
+
+**555\. Fundamentals of Soft Matter.** Soft matter is a subfield of science
+that describes properties and behavior of an important class of materials
+including polymers, colloids, surfactants, and liquid crystals. The course
+provides a unified overview of key aspects of the physics of soft condensed
+matter. The course introduces relevant energies, forces and time scales
+governing the interactions of soft materials in bulk and at surfaces. The
+course will touch upon concepts and phenomena including phase transitions,
+self-assembly, and viscoelastic behavior of these materials. The main
+objective of the course is to bring students to a common level of knowledge
+and competency in soft condensed matter that allows them to pursue more
+specialized directions in soft matter science. 3 units. See also PHY 590.
+
+**555\. Intermediate Polymer Physics.** Review of Introduction to Polymer
+Physics. Polyelectrolyte Solutions: counterion distribution, dilute &
+semidilute solutions, adsorption, grafting. Random Branching and Gelation:
+percolation model; gelation; mean field model; scaling picture of gelation.
+Networks and Gels: history of rubber; thermodynamics of rubber; rubber
+elasticity; swelling of polymer gels. Dynamics of Unentangled Polymers: Rouse
+and Zimm models, semi-dilute unentangled solutions, relaxation modes,
+diffusion. Dynamics of Entangled Polymers: polymer entanglements, reptation
+model, stress relaxation. 3 units. See also PHY 590.
+
+**555\. Intro to Programming.** This course builds strong programming
+fundamentals, so that students can use computing to solve problems in your
+research or other technical pursuits. Students spend half the semester
+learning programming fundamentals in C and are then introduced to C++ and move
+on to data structures and algorithms. During the last few weeks of class, you
+willstudents write a program in C++ that generates a finite element mesh,
+plans a path for a robot, or performs other functions according to the
+student’s choice. C and C++ are chosen for the pedagogical benefit of learning
+to program with “no magic,” for their applications in computer engineering,
+and because a compiled executable can be very fast. After this course,
+learning an additional programming language will be much easier. 3 units.
+
+**555\. Introduction to Polymer Physics.** The overarching goals of this
+course are to learn about the physical properties of polymers and to
+demonstrate how these properties can be understood from simple molecular
+models. The course is divided into the following units. Introduction: history;
+polymer configurations; homopolymers and copolymers; types of polymeric
+structures; molecular weight distributions. Ideal Chains: models of ideal
+chains; conformations; free energy; scattering. Real Chains: excluded volume
+interactions; deformations; temperature effects. Polyelectrolyte Chains:
+Electrostatic interactions, distribution of counterions, models of
+polyelectrolytes without and with added salt. Thermodynamics of Mixing:
+entropy of mixing; enthalpy of mixing; equilibrium and stability; phase
+diagrams; mixtures at low compositions. Polymer Solutions: theta solvent; poor
+solvent; good solvent; semidilute theta solutions; polymer brush; multi-chain
+adsorption. 3 units. See also: BME 590 and PHY 590.
+
+**555\. Materials Synthesis and Processing.** Materials form the basis of most
+modern technologies, whether referring to energy, data processing,
+medical/health or consumer product application. While materials properties are
+central to the application, the techniques used for processing functional
+materials into films, crystals or bulk form, with carefully tailored
+properties, are no less important and will form the basis of the class.
+Additionally, the course will expose students to current materials
+processing/application research thrusts at Duke. 3 units.
+
+**555\. Microfluidics.** 3 units.
+
+**555\. Model Predictive Control.** Introduction to state-space realizations,
+set theory and optimization. Lyapunov stability theory. Proof of closed-loop
+stability and persistent feasibility. Computation of quadratic terminal costs
+and polyhedral constraints for linear systems. Explicit model predictive
+control and robust receding horizon control will be introduced, time
+permitting. 3 units.
+
+**555\. Numerical Optimization.** Optimization has widespread applications
+across science, engineering, economics and other fields. For instance,
+optimization algorithms are commonly used in medical imaging, energy
+exploration, machine learning, materials design, motion planning for robots,
+and many other applications.​
+
+The course covers theoretical and numerical aspects of nonlinear optimization.
+Topics will include optimality conditions for constrained and unconstrained
+optimization, line search and trust region approaches, Newton and quasi-newton
+methods, methods for large scale optimization, and treatment of equality and
+inequality constraints. The course will have a balance between theory,
+algorithms, and computer implementation. 3 units.
+
+**555\. Physics of Colloidal Dispersion.** This class will cover various
+physical processes relevant to particles having a size scale of less than one
+micrometer. The topics covered include hydrodynamics, electrostatics in salty
+fluids, electrokinetics, Brownian motion, rheology, phase transitions,
+flocculation, sedimentation, and particle capture. Students will write
+programs in MATLAB to predict the trajectories of multiple particles in space,
+and will assess various properties about ensembles of trajectories. 3 units.
+
+**555\. Scientific Computing and Intro ML.** This course provides an
+introduction to key concepts in computer simulation, scientific computing and
+machine learning that are of paramount importance across many engineering (and
+non-engineering) applications (e.g. stress analysis of prostheses, vehicle
+crash testing, autonomous systems, additive manufacturing, etc.). All the
+techniques introduced in the course will be motivated with real applications.
+The first part of the course will cover concepts related to numerical methods
+for solving linear systems, nonlinear systems, eigenvalue problems,
+optimization, and an introduction to methods for physics-based simulations.
+
+The second part of the course will introduce fundamentals of machine learning
+tools for unsupervised and supervised learning. We will also cover practical
+aspects such as data acquisition, feature extraction, training, testing, and
+performance assessment. The machine learning part will involve a project
+related to sound/audio classification.
+
+Prerequisites: Linear Algebra, Calculus, and basic programming in Python or
+MATLAB. 3 units.
+
+**555\. Solar Thermal Energy Applications.** Characteristics of solar
+radiation, blackbody model. Wien displacement law, greenhouse effect. Flat
+plate collectors and evacuated tube collectors, cosine losses, energy balance
+for flat plate collectors. Thermal storage by sensible heat and latent heat.
+Fluid mechanics and pumping losses. Trough solar, dish solar, concentration
+ratio, conversion engines for dish solar. Heliostat systems for power
+generation, materials for primary and secondary loops, steam cycle. Basics of
+passive solar architecture. 3 units.
+
+**555\. Wind Turbine Design and Analysis.** An introduction to the design and
+analysis of horizontal-axis wind turbines. Topics include wind as a resource,
+economics of wind power generation, aerodynamics of horizontal axis wind
+turbines, actuator disk, rotor disk, and rotor blade theories, performance of
+fixed-speed and constant tip speed ratio turbines, yaw and pitch control,
+breakdown of momentum theory, Prandtl tip loss factor, blade geometry, lift
+and drag of aerofoils, stall delay, unsteady flows, ultimate strength analysis
+using partial safety factors, fatigue analysis using Marin derating factors
+and Minor’s rule rain-flow cycle counting, and solid mechanics of composite
+materials.
+
+Use of software analysis tools including Finite Element Analysis (FEA) for
+component mode shape and frequency analysis, FEA generation of 6x6 Timoshenko
+blade element stiffness matrices, XFoil and XRotor generation of turbine blade
+lift-drag polars, NREL FAST v8/OpenFAST whole-turbine time-domain aeroelastic
+analysis of Design Load Cases. 3 units.
+
+**555/BME 590. Biomaterials.** This introductory course in Biomaterials will
+review the major classes of materials used in medical devices. This includes
+issues with synthesis, processing, fabrication and sterilization. Interactions
+of proteins and cells with materials, and resulting complications related to
+biocompatibility, will be introduced. 3 units.
+
+**555/412. Modern Materials.** Modern Materials examines the underlying
+molecular details that give commercially- and industrially-important materials
+their specific properties. The course will emphasize polymers, photovoltaics,
+magnetic materials, and biomaterials. The study of each material will begin
+with an overview of applications, economics, and history of the material.
+Starting with the standard characterization methods for each material, we will
+work towards an understanding of the fundamental physics and chemistry that
+leads to the unique properties of each material. For a final project, students
+will select a material that enables an artistic or athletic event and then
+relate the molecular structure of this material to its use. Modern Materials
+is open to upper-level undergraduates and graduate students. 3 units. See also
+CHEM 512.
+
+**555/490. Molecular Modeling of Soft Matter.** Fundamentals and application
+of statistical mechanics and molecular simulations towards modeling biological
+and soft materials. Students will learn various computational methods
+including energy minimization, molecular dynamics simulations, Monte Carlo
+simulations, and stochastic dynamics simulations. Students will obtain
+valuable hands-on experience in using molecular simulation software,
+visualizing molecular systems, and analyzing simulation data for computing
+material properties. Prerequisites: Basic programming skills in any one of the
+following languages or platforms: C, MATLAB, Fortran, or Python. Basic
+undergraduate-level understanding of concepts in mathematics, physics, and
+chemistry, especially probability, algebra, geometry, calculus, Taylor’s
+expansion, finite differences, molecular bonding, laws of thermodynamics,
+ideal gases, and Newton’s laws of motion. 3 units.
+
+**571\. Aerodynamics.** Fundamentals of aerodynamics applied to wings and
+bodies in subsonic and supersonic flow. Basic principles of fluid mechanics
+analytical methods for aerodynamic analysis. Two-and three-dimensional wing
+theory, slender-body theory, lifting surface methods, vortex and wave drag.
+Brief introduction to vehicle design, performance and dynamics. Special topics
+such as unsteady aerodynamics, vortex wake behavior, and propeller and rotor
+aerodynamics. This course is open only to undergraduate seniors and graduate
+students. Prerequisites: Mechanical Engineering 336L or equivalent, and
+Mathematics 353 or equivalent. 3 units.
+
+**572\. Engineering Acoustics.** Fundamentals of acoustics including sound
+generation, propagation, reflection, absorption, and scattering. Emphasis on
+basic principles and analytical methods in the description of wave motion and
+the characterization of sound fields. Applications include topics from noise
+control, sound reproduction, architectural acoustics, and aerodynamic noise.
+Occasional classroom or laboratory demonstration. This course is open only to
+undergraduate seniors and graduate students. Prerequisites: Mathematics 353 or
+equivalent or consent of instructor. 3 units.
+
+**590/BME 590. Engineering Technology in Urology Applications.** This course
+provides a unique opportunity to examine various engineering technologies and
+applications in urology for the treatment of kidney stone patients and other
+benign urinary tract diseases. Selective topics in laser lithotripsy, shock
+wave lithotripsy, high-intensity focused ultrasound and ultrasound
+neuromodulation will be discussed to highlight the key engineering principles,
+advances in technology and techniques associated with imaging-guided therapy.
+The goal is to educate engineering students and foster their research interest
+and development in interdisciplinary and translational biomedical research,
+applicable to various medical fields. The course is designed for students with
+diverse backgrounds and research interests, including biophotonics,
+solid/fluid and computational mechanics, heat transfer, materials science,
+acoustics, ultrasound instrumentation, and engineering design. Laboratory
+projects and interaction with clinical doctors will be specifically formulated
+to enrich the learning experience and encourage students to collaborate in a
+multidisciplinary team environment to create engineering solutions to address
+clinical challenges and unmet needs. 3 units.
+
+**627\. Linear System Theory.** This graduate level course focuses on linear
+system theory in the time domain. The course introduces the fundamental
+mathematics of linear spaces, linear operator theory, and then proceeds with
+existence and uniqueness of solutions of differential equations, structural
+properties of linear systems, and design of linear controllers. The focus is
+on linear time invariant systems in continuous and discrete time. Topics
+covered include: Introduction: State-space representation, linearization,
+existence and uniqueness of solutions of linear differential equations.
+Review: Linear spaces, eigenvalues, eigenvectors, change of basis,
+diagonalization, Jordan forms, Cayley-Hamilton theorem, matrix exponential.
+Stability: Uniform, asymptotic, and exponential stability, Lyapunov stability
+theorems. Controllability and observability: Kalman rank test, PBH test. State
+feedback and estimation: Canonical forms, pole placement, observer design.
+Optimal control: Riccati equation, Hamiltonian matrix, stability.
+
+Prerequisites: Basic knowledge of linear algebra, differential equations, and
+signals and systems. Undergraduates need permission. 3 units. C-L: see Civil
+and Environmental Engineering 627
+
+**631\. Intermediate Fluid Mechanics.** A survey of the principal concepts and
+equations of fluid mechanics, fluid statics, surface tension, the Eulerian and
+Lagrangian description, kinematics, Reynolds transport theorem, the
+differential and integral equations of motion, constitutive equations for a
+Newtonian fluid, the Navier-Stokes equations, and boundary conditions on
+velocity and stress at material interfaces. 3 units.
+
+**632\. Advanced Fluid Mechanics.** Flow of a uniform incompressible viscous
+fluid. Exact solutions to the Navier-Stokes equation. Similarity methods.
+Irrotational flow theory and its applications. Elements of boundary layer
+theory. Prerequisite: Mechanical Engineering 631 or consent of instructor. 3
+units.
+
+**639\. Computational Fluid Mechanics and Heat Transfer.** An exposition of
+numerical techniques commonly used for the solution of partial differential
+equations encountered in engineering physics. Finite-difference schemes (which
+are well-suited for fluid mechanics problems); notions of accuracy,
+conservation, consistency, stability, and convergence. Recent applications of
+weighted residuals methods (Galerkin), finite-element methods, and grid
+generation techniques. Through specific examples, the student is guided to
+construct and assess the performance of the numerical scheme selected for the
+particular type of transport equation (parabolic, elliptic, or hyperbolic). 3
+units.
+
+**647\. Buckling of Engineering Structures.** An introduction to the
+underlying concepts of elastic stability and buckling, development of
+differential equation and energy approaches, buckling of common engineering
+components including link models, struts, frames, plates, and shells.
+Consideration will also be given to inelastic behavior, postbuckling, and
+design implications. Prerequisite: Civil Engineering 421L(131L) or consent of
+instructor. 3 units. C-L: see Civil and Environmental Engineering 647
+
+**671\. Advanced Aerodynamics.** Advanced topics in aerodynamics. Conformal
+transformation techniques. Three-dimensional wing theory, optimal span loading
+for planar and nonplanar wings. Ground effect and tunnel corrections.
+Propeller theory. Slender wing theory and slender body theory, transonic and
+supersonic area rules for minimization of wave drag. Numerical methods in
+aerodynamics including source panel and vortex lattice methods. Prerequisite:
+Mechanical Engineering 571. 3 units.
+
+**672\. Unsteady Aerodynamics.** Analytical and numerical methods for
+computing the unsteady aerodynamic behavior of airfoils and wings. Small
+disturbance approximation to the full potential equation. Unsteady vortex
+dynamics. Kelvin impulse and apparent mass concepts applied to unsteady flows.
+Two-dimensional unsteady thin airfoil theory. Time domain and frequency domain
+analyses of unsteady flows. Three-dimensional unsteady wing theory.
+Introduction to unsteady aerodynamic behavior of turbomachinery. Prerequisite:
+Mechanical Engineering 571. 3 units.
+
+**674\. Fundamentals of Shock Wave Lithotripsy.** Introduction to the
+engineering concepts and technologies used in shock wave lithotripsy - a
+noninvasive ultrasonic treatment modality for kidney stone disease. Shock wave
+generation, focusing, and propagation in water and biological tissues will be
+discussed, as well as measurement techniques for lithotripter field
+characterization and analysis of shock wave-stone-tissue interactions.
+Milestone studies on the mechanisms of stone fragmentation and tissue injury
+will be reviewed with emphasis on technology improvement. Laboratory projects
+are designed to enrich the learning experience of students in developing
+essential skills for independent research. 3 units.
+
+**676\. Advanced Acoustics.** Analysis methods in acoustics including wave
+generation, propagation, reflection, absorption, and scattering; sound
+propagation in a porous material; coupled structure acoustic systems; acoustic
+singularities: monopoles, dipoles, quadrupoles; radiation from flat surfaces;
+classical radiation and scattering solutions for cylinders and spheres;
+Green's functions, Radiation conditions, Modal analysis; sound fields in rooms
+and enclosures: energy methods; dissipation in fluid media; introduction to
+nonlinear effects. This course is open only to graduate students with some
+prior background in acoustics and applied mathematics. Prerequisites:
+Mechanical Engineering 572 or equivalent. 3 units.
+
+**711\. Nanotechnology Materials Lab.** This course provides an introduction
+to advanced methods for the characterization and fabrication of materials,
+nanostructures, and devices. Cleanroom methods to be covered include
+lithography, evaporation, and etching. Characterization methods include
+electron microscopy, atomic force microscopy, X-ray photoelectron
+spectroscopy, and optical spectroscopy. Students will receive an overview of
+the techniques in the Shared Materials Instrumentation Facility through
+lectures and demonstrations. In the lab section, each student will engage in a
+project that focuses on those capabilities that are needed for their research,
+and will receive training and certification on that equipment. 3 units. C-L:
+Electrical and Computer Engineering 721
+
+**742\. Nonlinear Mechanical Vibration.** A comprehensive treatment of the
+role of nonlinearities in engineering dynamics and vibration. Analytical,
+numerical, and experimental techniques are developed within a geometrical
+framework. Prerequisite: Mechanical Engineering 541 or 544 or equivalent. 3
+units.
+
+**758S. Curricular Practical Training.** Curricular Practical Training.
+Students gain practical Mechanical Engineering and Materials Science
+experience by taking a job in industry and writing a report about this
+experience. Course requires prior consent from the student's advisor and from
+the Director of Graduate Studies and may be repeated with consent of the
+advisor and the Director of Graduate Studies. Variable credit.
+
+**775\. Aeroelasticity.** A study of the statics and dynamics of
+fluid/structural interaction. Topics covered include static aeroelasticity
+(divergence, control surface reversal), dynamic aeroelasticity (flutter, gust
+response), unsteady aerodynamics (subsonic, supersonic, and transonic flow),
+and a review of the recent literature including nonlinear effects such as
+chaotic oscillations. Prerequisite: Mathematics 230 and consent of instructor.
+3 units.
+
+**CEE 622.** Fracture Mechanics. Theoretical concepts concerning the fracture
+and failure of brittle and ductile materials. Orowan and Griffith approaches
+to strength. Determination of stress intensity factors using compliance
+method, weight function method, and numerical methods with conservation laws.
+Cohesive zone models, fracture toughness, crack growth stability, and
+plasticity. Prerequisites: CE 520(201) or instructor consent. 3 units.
+
+**CHEM 548. Solid State Materials Chemistry.** 3 units.
+
+**CHEM 590. Polymer Chemistry.** 3 units.
+
+_Updated November 4, 2021_
+
+## Master's Contacts
+
+### George Delagrammatikas
+
+Professor of the Practice and Director of Master's Studies
+
+__919-660-5346
+
+__george.delagrammatikas@duke.edu
+
+### Shauntil Gray
+
+Director of Master's Studies Assistant
+
+__919-660-5310
+
+__shauntil.gray@duke.edu
+
+Contact Admissions
+
+____
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

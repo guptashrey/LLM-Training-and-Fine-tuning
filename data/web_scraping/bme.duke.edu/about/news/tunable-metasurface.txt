@@ -1,0 +1,203 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Dielectric Metamaterial is Dynamically Tuned by Light
+
+May 1, 2018 | By Ken Kingery
+
+Metal-free metamaterial can be swiftly tuned to create changing
+electromagnetic effects
+
+Researchers at Duke University have built the first metal-free, dynamically
+tunable metamaterial for controlling electromagnetic waves. The approach could
+form the basis for technologies ranging from improved security scanners to new
+types of visual displays.
+
+The results appear on April 9 in the journal Advanced Materials.
+
+A metamaterial is an artificial material that manipulates waves like light and
+sound through properties of its structure rather than its chemistry.
+Researchers can design these materials to have rare or unnatural properties,
+like the ability to absorb specific ranges of the electromagnetic spectrum or
+to bend light backward.
+
+“These materials are made up of a grid of separate units that can be
+individually tuned,” said Willie Padilla, professor of electrical and computer
+engineering at Duke. “As a wave passes through the surface, the metamaterial
+can control the amplitude and phase at each location in the grid, which allows
+us to manipulate the wave in a lot of different ways.”
+
+In the new technology, each grid location contains a tiny silicon cylinder
+just 50 microns tall and 120 microns wide, with the cylinders spaced 170
+microns apart from one another. While silicon is not normally a conductive
+material, the researchers bombard the cylinders with a specific frequency of
+light in a process called photodoping. This imbues the typically insulating
+material with metallic properties by exciting electrons on the cylinders’
+surfaces.
+
+These newly freed electrons cause the cylinders to interact with
+electromagnetic waves passing through them. The size of the cylinders dictates
+what frequencies of light they can interact with, while the angle of the
+photodoping affects how they manipulate the electromagnetic waves. By
+purposefully engineering these details, the metamaterial can control
+electromagnetic waves in many different ways.
+
+For this study, the cylinders were sized to interact with terahertz waves—a
+band of the electromagnetic spectrum that sits between microwaves and infrared
+light. Controlling this wavelength of light could improve broadband
+communications between satellites or lead to security technology that can
+easily scan through clothing. The approach could also be adapted to other
+bands of the electromagnetic spectrum—like infrared or visible light—simply by
+scaling the size of the cylinders.
+
+“We’re demonstrating a new field where we can dynamically control each point
+of the metasurface by adjusting how they are being photodoped,” Padilla said.
+“We can create any type of pattern we want to, allowing us to create lenses or
+beam-steering devices, for example. And because they’re controlled by light
+beams, they can change very fast with very little power.”
+
+While existing metamaterials control electromagnetic waves through their
+electric properties, the new technology can also manipulate them through their
+magnetic properties.
+
+“This allows each cylinder to not only influence the incoming wave, but the
+interaction between neighboring cylinders,” said Kebin Fan, a research
+scientist in Padilla’s laboratory and first author of the paper. “This gives
+the metamaterial much more versatility, such as the ability to control waves
+traveling across the surface of the metamaterial rather than through it.”
+
+“We’re more interested in the basic demonstration of the physics behind this
+technology, but it does have a few salient features that make it attractive
+for devices,” Padilla said.
+
+“Because it is not made of metal, it won’t melt, which can be a problem for
+some applications,” he said. “It has subwavelength control, which gives you
+more freedom and versatility. It is also possible to reconfigure how the
+metamaterial affects incoming waves extremely quickly, which has our group
+planning to explore using it for dynamic holography.”
+
+Learn more about metamaterials at https://stories.duke.edu/beyond-materials-
+from-invisibility-cloaks-to-satellite-communications
+
+The research was supported by the Department of Energy (DE-SC0014372) and the
+Army Research Office (ARO W911NF-16-1-0361).
+
+CITATION: “Photo-Tunable Dielectric Huygens’ Metasurfaces,” Kebin Fan, Jingdi
+Zhang, Xinyu Liu, Gufeng Zhang, Richard D. Averitt, and Willie J. Padilla.
+Advanced Materials, April 9, 2018. DOI: 10.1002/adma.201800278
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

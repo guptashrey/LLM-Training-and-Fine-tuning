@@ -1,0 +1,489 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Scratch-Made Muscle
+
+August 30, 2019
+
+Duke professor of biomedical engineering Nenad Bursac is learning how muscles
+can recover from injury, by using stem cells to create new muscles from
+scratch.
+
+## Listen
+
+## Transcript
+
+Ken Kingery: Hello, and welcome to Rate of Change, a podcast from Duke
+Engineering dedicated to the ingenious ways that engineers are solving
+society's toughest problems. My name is Ken Kingery. I'm a science writer for
+Duke Engineering and all-around general nerd.
+
+Michaela Kane: I am Michaela Kane. I am a science writer for Duke University's
+Department of Biomedical Engineering, and I am also a resident nerd. Today we
+are going to talk about building muscle.
+
+Ken Kingery: But we're not talking about building the muscle in a gym. We're
+talking about building muscle in a laboratory, which is actually a lot harder
+than doing it at a gym, no matter what your personal trainer might say.
+
+Michaela Kane: Growing muscle in a lab has all kinds of different uses. You
+could use it to test drugs for different diseases, and you could grow a bunch
+of it to implant into patients suffering from an injury or a degenerative
+disease, but there's just as many hoops to jump through first before you can
+even start dreaming about these sorts of applications.
+
+Ken Kingery: To get to some of those, let's find out who we're talking to
+today.
+
+Nenad Bursac: I am Nenad Bursac, and I'm a professor of biomedical engineering
+at Duke University. My lab is involved in finding ways to treat different
+kinds of skeletal and heart muscle diseases. We are growing muscle cells. We
+either have these cells obtained from patients or from human donors, or we
+make these cells starting from scratch. In my lab, that's usually done
+starting from stem cells.
+
+Ken Kingery: Now, when he says stem cells, what he means is induced
+pluripotent stem cells. These aren't the controversial ones that you usually
+hear about all over the news. Instead, these are cells that are actually taken
+from adults and reverted back to a primordial state.
+
+Michaela Kane: The ability to basically take these cells back to square one is
+so powerful and potentially transformational to medicine that it won the Nobel
+Prize just six years after it was first accomplished.
+
+News Reel: [The Nobel Assembly at Karolinska Institute has today decided to
+award the Nobel Prize in Physiology or Medicine 2012 jointly to John B. Gurdon
+and Shinya Yamanaka. ].
+
+News Reel: [What does this mean, and how great is the potential for using
+adult stem cells?]
+
+News Reel: [Well, one expert says it's potentially revolutionary. [Trace
+00:00:02:18], let me explain to you what we're talking about here. It's called
+IPS. That stands for induced pluripotent stem cells. That's the technical
+name, but what really matters here is IPS, one day, might literally be able to
+save your life.]
+
+Michaela Kane: For reference, it took Watson and Crick nine years to win the
+prize after discovering DNA, and that itself was one of the fastest turnaround
+times for the Nobel Prize.
+
+Ken Kingery: Now let's go back to Professor Bursac to learn about how this
+incredible breakthrough has affected his research.
+
+Nenad Bursac: You go from a cell that's well differentiated. It has its
+function, it's within the body like a blood cell or a skin cell, and then you
+add these factors that make it younger, much, much younger to almost an
+embryonic state where the cells and these pluripotent stem cells can become
+almost any cell in our body.
+
+Ken Kingery: When you say growing cells, when I think about growing cells, I
+think about bacteria in a soup, and they just proliferate uncontrollably. Do
+human cells do the same thing if you just put them in some sugar water?
+
+Nenad Bursac: Yeah, so—sugar water. Yeah, so it's basically like a sugar
+water. It does have sugars. It has glucose that we all use all the time every
+day but also has some proteins and some other minerals. The human cells within
+this soup are actually growing well depends on the soup and depends on the
+cell type. In our own lab, we are mostly interested in getting it to become
+skeletal muscle cells or heart muscle cells, so the cells that contract in our
+body and do the work.
+
+Ken Kingery: Are those two types of cells, skeletal muscle and heart cells,
+are those harder to get the pluripotent stem cells to get to than other types?
+
+Nenad Bursac: Well, I guess every cell type has its challenges. I think, at
+this moment, most of the investigators in the world have managed to get almost
+any existing cell type in the body starting from these cells. Some have more
+challenges and more steps. Others have less challenges and less cell steps.
+For example, I would say the skeletal muscle cells, at this moment, are harder
+to derive than the heart muscle cells.
+
+Michaela Kane: What specifically makes them harder to derive than the heart
+muscle cells?
+
+Nenad Bursac: When we start from these pluripotent stem cells and let them
+become any cell faith just spontaneously, some of these cells will become
+heart muscle cells, but almost none of these cells will spontaneously turn
+into skeletal muscle cells. Within almost 8 to 10 days, you can have a heart
+muscle cell made and spontaneously contracting, and you can see it in a dish.
+Skeletal muscle cells, it takes weeks. Yeah, it's always been a kind of a
+puzzling thing why heart muscle cells is much easier to make than the skeletal
+muscle cell.
+
+Michaela Kane: According to Dr. Bursac, since the pluripotent stem cells were
+first used in 2006, there's been an influx of tens of thousands of researchers
+into the field of regenerative medicine, and all of these researchers have
+been trying to figure out new ways to use these pluripotent stem cells to
+replicate tissues, organs, and cells within our own body. However, that's no
+easy feat.
+
+Ken Kingery: With tens of thousands of people all around the world trying to
+use these things to improve the quality of life, they're not all doing the
+same thing. There's a lot of work that's being done to create little tiny
+pieces of tissue that can be used to explore for new types of drugs and also
+to be used for individual patients to see what types of treatments would work
+best for them, but Professor Bursac is trying to grow entire pieces of muscle.
+The question is how many people are trying to do that?
+
+Nenad Bursac: Well, I think there is a significant number of researchers
+trying to coax cells and make them into functional tissues, right? Being able
+to make pluripotent stem cells, for example, into heart muscle cells is a
+relatively standard procedure at this point. Then how you use them after that
+is a question.
+
+Nenad Bursac: One possibility is to use to study a disease. You can study
+disease sometimes only on the single-cell level, but sometimes you really need
+to coax these cells into a functional tissue to be able to study the disease.
+For that reason, a lot of people will take the cells, try to or coax them into
+tissues, and for studying disease and especially drug tests, you will actually
+want these tissues to be the smallest possible so you can test as many drugs
+as you can in these little miniature tissues. People call these tissues micro
+tissues or micro physiological systems and then use them for drug tests. This
+is one of the avenues of research, and this is where I think most or the bulk
+of the people who make cardiac muscle cells from pluripotent cells, this is
+the bulk of what they do or try to do.
+
+Ken Kingery: They try to make that as efficient as possible, so by making them
+as small as possible, you can fit more on a chip. You can spend less time
+growing them, all those sorts of things.
+
+Nenad Bursac: Exactly. You can test many drugs in the multiplicates and
+different doses at the same time, so the lot of people is now focused on that
+work because this is probably a lower-hanging fruit in what you can do with
+these cells, and pharma industry is interested in this.
+
+Nenad Bursac: On the other hand, a smaller group, now, of researchers is
+trying to use these cells for regenerative therapy because the reason is, if
+you are to make a piece of heart muscle that you will try to use to replace
+the muscle that's lost in the heart during heart attack, you need really a big
+functioning tissue. In our own lab, we are mostly interested in getting them
+to become skeletal muscle cells-
+
+Ken Kingery: Little more difficult to do?
+
+Nenad Bursac: Yeah, a little more, a little more and more difficult to do, a
+little bit more challenging for sure. The reason that it's more challenging is
+because now you need to generate something that's maybe centimeters large
+instead of less than millimeters or millimeters.
+
+Ken Kingery: When you say something's that large, are you still looking at
+just heart muscles or are you trying to then start to introduce other types of
+cells? Because nothing acts alone. Nothing lives by itself, at least not in
+the human body.
+
+Nenad Bursac: Yeah, that's a very good point. When we look at a heart muscle,
+you see, if you look, if you compare the just cell numbers in the heart
+muscle, heart muscle cells themselves that contract, there are only about 20,
+20, 30% of cells. There are all other cells that are present in the heart that
+support heart muscle function. For example, some of them are, of course,
+capillaries and vascular cells because they need to bring nutrients to heart
+muscle cells so they can work hard during the entire life. There are other
+cell types that probably are very important, especially in their response to
+injuries, such as immune system cells for example.
+
+Michaela Kane: Immune cells are actually what we're here to talk about today.
+Most people recognize immune cells as white blood cells or T cells. These are
+cells in the body that help us fight off infection. Before we learn about why
+immune cells are so important to professor Bursac right now, we have to start
+at the beginning with cells called satellite stem cells.
+
+Ken Kingery: Satellite stem cells are stem cells that are native to most
+organs and muscles. They just sit around. They live there. They're there when
+you're born and, when you get an injury or when you work out, they activate,
+and they spread throughout the tissue that needs repairing, and they repair
+it. Basically, what I'm saying is that they're essential for healing. That's a
+lesson that Nenad learned back in 2014 when he published a study that actually
+ended up on the front page of the internet and broke Duke Engineering's
+website.
+
+Speaker 7: Scientists in the US use animals to test drugs for safety and
+effectiveness before they can be approved for patients, but they hope that,
+one day, the use of animals could be reduced and the search for more
+customized treatments for patients made easier by testing drugs on lab-grown
+human tissue. Scientists at Duke University have now come a step closer to
+making that a reality. They say they've created the first lab-grown human
+skeletal muscles that contract in response to electrical and other stimuli.
+
+Ken Kingery: Just to recap a little bit, back in 2014, Nenad Bursac took small
+pieces of muscle from little baby mice and got them to grow into fully-
+functional, self-healing adult muscle tissue, but if you listen closely, I
+said baby mice.
+
+Michaela Kane: We all know that children are resilient, among other
+adjectives, and this resilience is actually because of these native stem cells
+that they're born with. When they're first born, these native stem cells are
+incredibly potent, and they're able to heal them very, very effectively, but
+as they grow up, these stem cells are replaced by blood-derived stem cells,
+which just aren't as potent.
+
+Ken Kingery: That brings us now to his latest development.
+
+Nenad Bursac: When we started working with adult, now, muscles and trying to
+do it from adult muscle, we made the muscle that looks exactly as what we've
+done with it from these two-day-old rats. Functionally, it looked the same.
+You did contain some of the same stem cells in the muscle, which is what I
+mentioned, and then when we injured it, as we did with neonatal muscle,
+instead of regeneration, we saw only death and degeneration. It was very
+opposite result from using the neonatal muscle.
+
+Nenad Bursac: We thought that about another... potentially adding some of the
+growth factors and some of the molecules that could help with this
+regeneration, and we basically did all of the usual suspect molecules that
+people are known are pro-regenerative and help regeneration. We put them in,
+and we injured the muscle, and we couldn't see anything again, so we realized
+that these factors are probably not enough, and that it should be...
+potentially, we should think about adding a another cell type that is
+important for regeneration and, in particular, for muscle regeneration as well
+as for regeneration or like a healing of many of our tissues in the body,
+immune system cells are very important.
+
+Ken Kingery: I wouldn't necessarily have thought of that. I don't think of the
+immune system as something that helps you heal necessarily. It stops you from
+getting sick. How does the immune system help you heal?
+
+Nenad Bursac: Yeah. For example, if muscle gets to be damaged, if you just
+exercise in the gym and get sore muscles, that what that means is that,
+actually, some of the muscles are being damaged. Muscle fibers have died. In
+that moment, as soon as that happens, an particular cell type that's called
+monocyte, from the blood, is attracted to the site of injury. These monocytes
+come into the injured muscle, and then they differentiate into cell called
+macrophage. Macrophage is a cell that actually, in our body, serves primarily
+to remove all the debris and all the damage, the remainders of these dying
+muscle fibers.
+
+Nenad Bursac: At the same time, while that cell is removing the damage, the
+fibers, it's also releasing other factors, and those factors can attract other
+cell types and, in particular, different types of immune system cells. In this
+point, they are bringing other types of macrophages that will then... can help
+proliferation of stem cells to regenerate the muscle and further help with the
+muscle regeneration.
+
+Ken Kingery: The amped-up sugar water wasn't working for you, so you decided
+you needed some immune cells. How does that work? How do you put immune cells
+in with this tissue that you've already been growing? Do you just take a
+syringe and go suck some up from a rat and stick it in there or-
+
+Nenad Bursac: Yeah. Bone marrow is a source of many of the system cells,
+immune system cells in our body and, especially, as I said, macrophages, and
+so we can derive it from starting from those early cells. Whilst they are
+derived, once we have the macrophages, then we actually optimize the
+conditions to mix them together with muscle cells. We can come to basically
+designing a muscle that now has both muscle fibers, stem cells, and
+macrophages all in the same mixture and with the same functionality as it was
+without macrophages. This was our goal, and this is what we...
+
+Ken Kingery: Getting closer and closer to the real thing then.
+
+Nenad Bursac: Exactly, getting closer and closer, yes. Then what we've done,
+we actually went to injure it to see whether that would really help this
+healing that we mentioned, and it was really a... We saw unbelievable injury
+response where everything regenerated, as you know, for the neonatal cells
+without presence of macrophages. It obviously told us that that component of
+muscle or being in the muscle, that immune system component is very important
+for muscle, adult muscle, to regenerate.
+
+Ken Kingery: This is the first time anybody's been able to pluck muscle fibers
+from an adult, proliferate them into a larger functioning muscle, and be able
+to have those resulting muscles heal themselves after being injured.
+
+Nenad Bursac: Yes, that's exactly it, yes.
+
+Ken Kingery: This is only for animals at the moment?
+
+Nenad Bursac: Yeah. We are working to do the same thing with human muscle
+cells. We can make a human muscle from starting from human pluripotent stem
+cells or just from biopsies from human muscles. One of the differences with
+the human and the rat is that, actually, when we want to test for
+regeneration, the same toxins, the toxins that injure a rat cell do not seem
+to, as equally, injuring human cells. We are actually now working on finding
+good ways to be able to test this regenerative potential of the human muscles
+containing the immune system cells with a good injury model, so testing-
+
+Ken Kingery: You can't just take a bat to them or something?
+
+Nenad Bursac: No. Yeah, well, that's a possibility, the crash injuries, but
+for now we are trying to do it in a more controlled fashion, yes.
+
+Ken Kingery: Yeah, right. Can you tell about what you're working on next?
+Where does this go from here?
+
+Nenad Bursac: We are actually, again, working in terms of trying to develop
+further our human injury muscles. We are making a regenerative or trying to
+make self-healing muscle from human tissues. Those kind of muscles could be
+used for drug tests for a lot of diseases that involve degeneration of human
+muscles as well as, potentially, muscle atrophy. We are developing this as a
+system to be able to study different diseases. We are now making pluripotent
+using pluripotent stem cells, and we've been the first group to actually make
+the human functional muscle from these cells, so now we can test rare muscle
+diseases in addition, so this is one of the directions that we have in the
+lab.
+
+Ken Kingery: Are you also working with collaborators over at the Duke Medical
+Center to try to start making these platforms actually a reality for testing
+actual diseases?
+
+Nenad Bursac: Yeah. We are working with clinicians from Duke to obtain muscle
+biopsies such that we can have a source for engineering muscle, both from
+healthy donors when there are some surgical discards as well as from a
+patients with specific diseases. We are also working with cardiothoracic
+surgeons for our cardiac muscle engineering works to be able to test some of
+these heart patches that I mentioned, so the large indigent heart muscle
+tissues in pig models of heart attack. We have a lot of close collaborations
+with clinicians at Duke. As you know, Duke is one of the unique places where I
+think engineering and medicine are so closely and tightly connected with the
+goal of translating these discoveries from bench to bedside.
+
+Ken Kingery: Okay, last question because we're running out of time. With
+either of these projects, you're a pretty young faculty member still. You
+could be doing this for decades. Where do you hope to leave this off when you
+retire?
+
+Nenad Bursac: Well, I mean the most I would love to happen is that we see some
+people really treated using what we do in the lab. Where I would like it to
+leave, I would love, maybe when when I retire, there are people with heart
+attack or some of the pediatric patients or having a Bursac therapy for the
+some of those really devastating diseases.
+
+Ken Kingery: Also, a Nobel Prize maybe wouldn't be too bad.
+
+Nenad Bursac: Well, I don't know about that, but I think primarily goal is to
+really help someone, and then we'll see for the rest, yes.
+
+Ken Kingery: All right. Well, we'll look forward to seeing the Bursac
+procedure then.
+
+Nenad Bursac: All right. Thank you.
+
+Ken Kingery: Thanks for listening to Rate of Change. If you want to learn more
+about Professor Bursac's research, please visit pratt.duke.edu, and please
+subscribe for more updates from Duke Engineering.
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Nenad Bursac
+
+Professor of Biomedical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

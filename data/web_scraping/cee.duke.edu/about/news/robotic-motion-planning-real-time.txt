@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Robotic Motion Planning in Real-Time
+
+June 20, 2016 | By Ken Kingery
+
+Duke University engineers and computer scientists develop a new computer
+processor specially designed for robotic motion planning
+
+Once they've mastered the skills of toddlerhood, humans are pretty good at
+what roboticists call "motion planning"—reaching around obstacles to precisely
+pick up a soda in a crowded fridge, or slipping their hands around a screen to
+connect an unseen cable.
+
+But for robots with multi-jointed arms, motion planning is a hard problem that
+requires time-consuming computation. Simply picking an object up in an
+environment that has not been pre-engineered for the robot may require several
+seconds of computation.
+
+Duke University researchers have introduced a specially-designed computer
+processor for motion planning that can plan up to 10,000 times faster than
+existing approaches while consuming a small fraction of the power. The new
+processor is fast enough to plan and operate in real time, and power-efficient
+enough to be used in large-scale manufacturing environments with thousands of
+robots.
+
+"When you think about a car assembly line, the entire environment is carefully
+controlled so that the robots can blindly repeat the same movements over and
+over again," said George Konidaris, assistant professor of computer science
+and electrical and computer engineering at Duke. "The car parts are in exactly
+the same place every time, and the robots are contained within cages so that
+humans don't wander past. But if your robot is using motion planning in real
+time and a part is in a different place, or there's some unexpected clutter,
+or a human walks by, it'll do the right thing."
+
+Speedy motion planning saves the time and expense of engineering the
+environment around the robot, said Konidaris, who will be presenting the new
+work June 20 at a conference called Robotics: Science and Systems in Ann
+Arbor, Mich.
+
+Motion planning has been studied for 30 years, and recent advances have
+brought the time required to find a plan for a sophisticated robot down to a
+few seconds. With few exceptions, these existing approaches rely on general-
+purpose CPUs or computationally faster but more power-hungry graphics
+processors (GPUs).
+
+The Duke team designed a new processor specifically for motion planning.
+
+"While a general-purpose CPU is good at many tasks, it cannot compete with a
+processor specially designed for just a single task," said Daniel Sorin,
+professor of electrical and computer engineering and computer science at Duke.
+
+Konidaris and Sorin's team designed their new processor to perform collision
+detection—the most time-consuming aspect of motion planning—such that the
+processor performs thousands of collision checks in parallel.
+
+"We streamlined our design and focused our hardware and power budgets on just
+the specific tasks that matter for motion planning," Sorin said.
+
+The technology works by breaking down the arm's operating space into thousands
+of 3D volumes called voxels. The algorithm then determines whether or not an
+object is present in one of the voxels contained within pre-programmed motion
+paths. Thanks to the specially designed hardware, the technology can check
+thousands of motion paths simultaneously, and then stitch together the
+shortest motion path possible using the "safe" options remaining.
+
+"The state of the art prior to our work used high-performance, commodity
+graphics processors that consume 200 to 300 watts," said Konidaris. "And even
+then, it was taking hundreds of milliseconds, or even as much as a second, to
+find a plan. We're at less than a millisecond, and less than 10 watts. Even if
+we weren't faster, the power savings alone will add up in factories with
+thousands, or even millions, of robots."
+
+Konidaris also notes that the technology opens up new ways to use motion
+planning.
+
+"Previously, planning was done once per movement, because it was so slow,"
+said Konidaris, "but now it is fast enough that it could be used as a
+component of a more complex planning algorithm, perhaps one that sequences
+several simpler motions or plans ahead to reason about the movement of several
+objects."
+
+The new processor's speed and power efficiency could create many opportunities
+for automation. Konidaris, Sorin and their students are counting on it, and
+have incorporated a spinoff company, Realtime Robotics, to commercialize the
+technology.
+
+"Real-time motion planning could really be a game-changer for robotics," said
+Konidaris.
+
+This research was supported by the Defense Advanced Research Projects Agency
+and the National Institutes of Health.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

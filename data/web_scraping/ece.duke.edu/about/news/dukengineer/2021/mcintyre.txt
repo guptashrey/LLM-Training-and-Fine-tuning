@@ -1,0 +1,249 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2021
+
+# Revolutionizing Neurosurgical Planning With the Use of Holograms
+
+April 1, 2021 | Hope Pratt
+
+Cameron McIntyre brings to Duke a long history of translating innovations in
+Deep Brain Stimulation into commercial medical devices
+
+Movement disorders have outwit-ted researchers for decades. The brain’s
+complex neurological structure makes the treatment of Parkinson’s, essential
+tremor, dystonia and other motor disturbances risky and inadequate. But Deep
+Brain Stimulation (DBS), a revolutionary clinical procedure, has brought hope
+to patients who suffer from these illnesses.
+
+DBS calls for the implantation of a small pacemaker under a patient’s
+clavicle. Insulated wires carry electrical pulses from the pacemaker to the
+basal ganglia, a region of the brain that is responsible for planning
+movement. The results can be astounding—tremors dissipate and motor control
+improves. However, positive outcomes are not always guaranteed.
+
+Cameron McIntyre, a pioneer in the field of DBS, has created holographic
+platforms to allow neurosurgeons to visualize the brain’s anatomy in three
+dimensions. These tools can be used to help surgical teams plan a patient’s
+DBS surgery. This July, Duke will welcome McIntyre to the faculty of the
+Department of Biomedical Engineering and the Department of Neurosurgery.
+
+McIntyre has a BS and PhD in biomedical engineering from Case Western Reserve
+University. Additionally, he received postdoctoral training from Johns Hopkins
+University and Emory University, where he studied DBS.
+
+In McIntyre’s freshman Introduction to Bio-medical Engineering class, he was
+introduced to electrical stimulation by a guest lecturer, Hunter Peckham, the
+Donnell Professor of Biomedical Engineering and Orthopaedics at Case Western.
+Peckham is known for his groundbreaking research on the use of electrical
+stimulation and implantable devices to activate otherwise unresponsive areas
+of the body. During this presentation, Peckham brought in research subjects as
+examples of his work. McIntyre witnessed a patient with spinal cord injuries
+using a hand which had previously been immobile. This was achieved through the
+implantation of electrodes, devices that carry electrical pulses to specific
+areas of the body. These subjects demonstrated the incredible effects of
+electrical stimulation technology.
+
+McIntyre describes this presentation as life-changing. “I just remember
+thinking, I don’t really know what I want to do with my life, but if I could
+do something like that, that would be cool.”
+
+McIntyre began working with Warren Grill, who was a junior faculty member at
+Case Western at the time. Grill, now a professor of biomedical engineering at
+Duke, teamed up with McIntyre to research the effects of using electrical
+stimulation in spinal cord therapy. McIntyre continued to pursue this research
+as he began his PhD at Case Western.
+
+Near the end of McIntyre’s PhD studies, at the start of the new millennium,
+DBS became available as a clinical treatment in the US. However, as DBS was
+still new, most scientists were not exploring its possibilities. McIntyre, on
+the other hand, found DBS fascinating. He saw it as an “opportunity that would
+take engineering knowledge and put it into something that might be clinically
+relevant.” He wanted to expand the viable treatments available to patients
+with movement disorders.
+
+McIntyre’s lab at Case Western is currently using its research on neurology,
+neuro-anatomy and DBS to create tools that make neurosurgery more effective.
+These tools are holographic visualization platforms for neurosurgical
+planning, which McIntyre describes as “based primarily on a Microsoft HoloLens
+2 Headset—a head-mounted display that gives you a simulation of a 3D hologram
+in the space around you.” This technology is a new way to visualize data, and
+one that can be applied to very specific neurosurgical procedures. With this
+device, surgeons are able to see both the real world and an augmented visual
+state, a hologram.
+
+> This technology is a new way to visualize data, and one that can be applied
+> to very specific neurosurgical procedures. With this device, surgeons are
+> able to see both the real world and an augmented visual state, a hologram.
+
+Before a neurosurgeon can perform a complex surgery, they must first set aside
+hours to plan out the case and the procedure. Many parts of a neurosurgical
+procedure are difficult to visualize, due to the brain’s complicated anatomy.
+McIntyre’s holographic platforms give neurosurgeons an effective way to
+visualize the brain.
+
+The holographic visualization platforms McIntyre and his team developed are
+currently academic prototypes. The next step McIntyre could take with these
+tools is to commercialize them and put the instruments into clinical practice.
+However, the process of commercialization is long and arduous, involving years
+of testing and clinical trials before achieving FDA approval.
+
+Fortunately, McIntyre is not new to the field of commercialization. His first
+startup company created a software tool to help neurologists customize
+stimulation parameters for individual patients. After that, he created
+software to help neurosurgeons identify target locations in a patient’s brain
+for electrodes. Now, his newest company provides clinical education to
+neurosurgeons and neurologists on the operation of DBS tools. He uses
+holographic representations in his training.
+
+McIntyre’s business success has taught him important skills. He says all
+entrepreneurial engineers should learn three things.
+
+“First, learn how to solve the problem,” he says. “Second, learn how to
+identify the right problem. Third, learn how to identify the right problem to
+solve that is also financially viable.”
+
+During the COVID-19 pandemic, McIntyre has also learned to be flexible. He and
+his team work remotely but are as productive as ever.
+
+McIntyre is excited to join Duke’s collaborative community this summer. “One
+of the things that’s very special about Duke,” says McIntyre, “is that you
+have a really great medical center and a really great engineering center
+within a hundred yards of each other.” This proximity promotes collaboration
+between top experts in many fields, including neurosurgery, neuroscience,
+machine learning and engineering.
+
+“That’s an academic person’s dream,” says McIntyre. “That’s where ideas come
+from, and that’s where technology comes from.” And, coming from Cleveland,
+Ohio, he is especially looking forward to North Carolina’s warm weather—the
+sunshine and the lack of snow!
+
+**_Hope Pratt is a freshman from New Jersey planning to major in biomedical
+engineering._**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2021
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

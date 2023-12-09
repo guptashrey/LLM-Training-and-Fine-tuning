@@ -1,0 +1,269 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Rainforest XPRIZE Team Advances to Semifinals
+
+July 7, 2022 | Miranda Volborth
+
+An expedition to Costa Rica gave the Blue Devil Forest Divers the field
+experience they needed to effectively ID and count the rainforest’s residents
+
+The Blue Devil Forest Divers had only just returned from a two-week long
+research trip to Costa Rica when they heard the good news, delivered via email
+from the headquarters of the World Biodiversity Forum in Davos, Switzerland:
+they had been cleared to compete in the semifinals of the $10 million
+Rainforest XPRIZE competition, scheduled to take place in Singapore in 2023.
+
+  
+
+The city-state of Singapore, believe it or not, has at its geographical heart
+two tiny old growth rainforests—the Bukit Timah Nature Reserve and the Central
+Catchment Nature Reserve. Macaques, pangolins and even some critically
+endangered species of bat have been spotted there. But cataloguing the true
+depth and breadth of the species contained within even the most diminutive
+rainforest requires creative new approaches—which is the whole point of the
+Rainforest XPRIZE.
+
+XPRIZE organizes competitions that incentivize innovation. In pursuit of huge
+prize purses—and the chance to make a real, positive difference—teams from
+academia and industry strive to develop the best new ways to meet some of the
+world’s most pressing challenges. The aim of the Rainforest XPRIZE is to
+“reveal the true potential of the standing forest, accelerating the
+development of new, just, and sustainable bioeconomies,” according to the
+organization’s website.
+
+Competitions are Duke professor of electrical and computer engineering Martin
+Brooke’s favorite way to teach, and they’ve found that the level of difficulty
+of the XPRIZE challenges are just right—hard enough to make milestones a cause
+for celebration, but not so hard that the problems seem insurmountable. This
+is Brooke’s third XPRIZE competition—they are co-leading the current
+competition with Duke School of the Environment professor Stuart Pimm—and the
+third time that a Duke XPRIZE team has advanced to the semifinals.
+
+The Ocean Discovery XPRIZE, which wrapped up in 2018, focused on autonomously
+mapping the ocean floor, and the Duke team advanced to the final round. For
+that challenge, the Duke team used a heavy-lift drone that landed on water and
+deployed retrievable sonar pods to explore the underwater environment. The
+team worked extensively at Duke Pond, a water reclamation site on the
+university’s campus, but never in the open ocean. When it was time to compete
+in the finals in Greece, the team made the difficult decision to bow out of
+the competition, knowing that their system would most likely fail in
+unpredictable open waters.
+
+From that experience, Brooke knew that field testing the Forest Divers’ data
+collection and identification technology in an actual rainforest was going to
+be critical to success. So with support from Pratt, Bass Connections and the
+Sony Corporation, the team packed its drones and headed to Costa Rica’s La
+Selva Biological Reserve and Research Station.
+
+One might expect piloting drones through the incredibly dense rainforest
+canopy in search of species to ID would be a lot different than guiding them
+through the pines of Duke Forest, but Allen Parayil, a rising junior studying
+mechanical engineering and a two-year veteran of the team, said that wasn’t
+really the case. “Even our new pilots were able to get amazing photos by
+sending the drones into the canopy,” he said. More difficult than flying, the
+team agreed, was parsing some of the data that the drones collected, which was
+substantially richer than what they had collected back home.
+
+Take the audio data, for example. “Every part of a wavelength collected in the
+rainforest is full of noise. Bats, bugs, birds,” said Jackie Fahrenholz, a
+master’s student in Forestry and Ecosystems Science and Conservation at the
+Nicholas School of the Environment. “You can go to Duke Gardens and put out a
+sound recorder and get a bunch of robins and cardinals, but that noise is
+sporadic.”
+
+> "When you look at a spectrogram, you can see bats at the top, at the ultra-
+> high frequencies, crickets just beneath that, then frogs and birds. Then at
+> the bottom are the sounds made by howler monkeys, calling out across vast
+> distances."
+>
+> Ryan Huang, Postdoctoral Scholar, NIcholas School of the Environment
+
+“Rainforests are very busy,” seconded postdoctoral scholar Ryan Huang, who
+teaches data visualization and is equally at home with the computational and
+ecological aspects of the project. “When you look at a spectrogram, you can
+see bats at the top, at the ultra-high frequencies, crickets just beneath
+that, then frogs and birds,” he said. “Then at the bottom are the sounds made
+by howler monkeys, calling out across vast distances. It’s very cool to see
+that visual representation and be able to extract different voices across the
+entire range.”
+
+Duke Engineering · Sounds of stormy La Selva
+
+The prospect of working in the urban rainforests of Singapore gives Huang
+pause, though. “I’m nervous about the amount of noise pollution we’re going to
+pick up,” he said.
+
+But Fahrenholz is worried about what they might _not_ pick up. “If we don’t
+pick up the sounds of bats, or of frogs, we’ll know it’s not a complete
+forest—that it’s starting to become what we call an ‘empty forest,’” she said.
+“It’s missing key species, indicating problems like the presence of disease or
+poor water quality.”
+
+This is an aspect that the team will consider as they train their AI models
+for the future—that the data set they build for that purpose will need to
+include the condition of a species’ presence or absence.
+
+The team also gained some valuable insight about identifying unfamiliar
+species— namely, that a multi-pronged approach works best. The team achieved
+some success in uploading photos of unknown plants and animals to iNaturalist,
+a site where identification is crowdsourced through its users. The prepackaged
+AI algorithms they used to try to identify birds by their songs, however, were
+not super helpful, because most of those packages are developed with North
+American species in mind. Local researchers and guides were able to step in,
+though, and positively identified a large number of species based on photos,
+video clips, and audio recordings.
+
+And then, to help with the trickiest cases, there was biology student Nicolas
+Rey, toting a portable DNA sequencer. “Even trained professionals sometimes
+find it difficult to distinguish between two species,” explained Rey. “But
+every species has a unique DNA sequence. It’s the most accurate species ID
+that we can get.”
+
+Brooke said the biggest challenge in the coming year—apart from raising the
+money to send the team across the world—is the “rotating cast of characters”
+that make up the Blue Devil Forest Divers. All the tech is developed in
+Brooke’s Ocean Engineering and Rainforest Engineering classes, which is open
+to both undergraduate and graduate students, but of course the nature of
+students is to graduate and move on.
+
+Several of the Forest Divers said that the interdisciplinary nature of the
+team was their favorite thing about the project. “Because I’m on the cellular
+and molecular side of biology, I haven’t been exposed much to conservation,”
+said Rey. “Hanging out with people who want to make this their career has been
+really fun. And we’re creating technology that helps to value our ecosystem,
+which ties in to conserving it and is important work.”
+
+“This technology holds so much promise for the future,” said Parayil. “It
+sounds cliché, but I’m becoming an engineer because I want to do good in the
+world. Contributing to this project meets that need… and the need to build
+cool things.”
+
+## Related News
+
+November 19, 2020
+
+### What Lives in the Rainforest?
+
+May 01, 2020
+
+### Teaching through Competition
+
+March 07, 2018
+
+### Duke Students Advance to Finals in $7 Million Ocean Discovery XPRIZE
+Competition
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

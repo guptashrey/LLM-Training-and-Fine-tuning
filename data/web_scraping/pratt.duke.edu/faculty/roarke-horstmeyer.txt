@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Roarke W. Horstmeyer
+
+Assistant Professor of Biomedical Engineering
+
+Roarke Horstmeyer is an assistant professor within Duke's Biomedical
+Engineering Department. He develops microscopes, cameras and computer
+algorithms for a wide range of applications, from forming 3D reconstructions
+of organisms to detecting neural activity deep within tissue. His areas of
+interest include optics, signal processing, optimization and neuroscience.
+Most recently, Dr. Horstmeyer was a guest professor at the University of
+Erlangen in Germany and an Einstein postdoctoral fellow at Charitè Medical
+School in Berlin. Prior to his time in Germany, Dr. Horstmeyer earned a PhD
+from Caltech’s electrical engineering department in 2016, a master of science
+degree from the MIT Media Lab in 2011, and a bachelors degree in physics and
+Japanese from Duke University in 2006.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Biomedical Engineering
+  * Faculty Network Member of the Duke Institute for Brain Sciences
+
+## Contact Information
+
+  * **Office Location:** Fitzpatrick Center (Ciemas) Ro, 101 Science Drive,
+    Durham, NC 27701
+  * **Office Phone:** (650) 686-1368
+  * **Email Address:** roarke.w.horstmeyer@duke.edu
+  * **Websites:**
+    * Computational Optics Lab
+    * Deep Learning for Hardware Design
+
+## Education
+
+  * Ph.D. California Institute of Technology, 2016
+  * B.S. Duke University, 2006
+
+## Research Interests
+
+Computational optics, machine learning, and designing new algorithms for image
+processing. A main focus is to improve how we capture and use images of
+microscopic phenomena within a range of biomedical contexts. In general, I
+like to create new optical devices that can improve the utility of the
+information that we can gather about the world around us.
+
+## Courses Taught
+
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 548L: Machine Learning and Imaging (GE, IM)
+  * BME 791: Graduate Independent Study
+  * BME 792: Continuation of Graduate Independent Study
+  * EGR 101L: Engineering Design and Communication
+  * EGR 393: Research Projects in Engineering
+
+## In the News
+
+  * Invented at Duke Connects University's Research, Innovation and
+    Entrepreneurship Communities (Dec 14, 2022 | Duke Translation &
+    Commercialization)
+  * A Microscope That Teaches Itself to Know the Best Settings for Diagnostic
+    Images for Malaria (Nov 20, 2019 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Zhou, KC; Harfouche, M; Cooke, CL; Park, J; Konda, PC; Kreiss, L; Kim, K;
+    Jönsson, J; Doman, J; Reamey, P; Saliu, V; Cook, CB; Zheng, M; Bechtel,
+    JP; Bègue, A; McCarroll, M; Bagwell, J; Horstmeyer, G; Bagnat, M;
+    Horstmeyer, R, _Parallelized computational 3D video microscopy of freely
+    moving organisms at multiple gigapixels per second._ , Arxiv (2023) [abs].
+  * Thomson, EE; Harfouche, M; Kim, K; Konda, PC; Seitz, CW; Cooke, C; Xu, S;
+    Jacobs, WS; Blazing, R; Chen, Y; Sharma, S; Dunn, TW; Park, J; Horstmeyer,
+    RW; Naumann, EA, _Gigapixel imaging with a novel multi-camera array
+    microscope._ , Elife, vol 11 (2022) [10.7554/elife.74988] [abs].
+  * Gigan, S; Katz, O; De Aguiar, HB; Andresen, ER; Aubry, A; Bertolotti, J;
+    Bossy, E; Bouchet, D; Brake, J; Brasselet, S; Bromberg, Y; Cao, H;
+    Chaigne, T; Cheng, Z; Choi, W; Čižmár, T; Cui, M; Curtis, VR; Defienne, H;
+    Hofer, M; Horisaki, R; Horstmeyer, R; Ji, N; LaViolette, AK; Mertz, J;
+    Moser, C; Mosk, AP; Pégard, NC; Piestun, R; Popoff, S; Phillips, DB;
+    Psaltis, D; Rahmani, B; Rigneault, H; Rotter, S; Tian, L; Vellekoop, IM;
+    Waller, L; Wang, L; Weber, T; Xiao, S; Xu, C; Yamilov, A; Yang, C; Yılmaz,
+    H, _Roadmap on wavefront shaping and deep imaging in complex media_ ,
+    Jphys Photonics, vol 4 no. 4 (2022) [10.1088/2515-7647/ac76f9] [abs].
+  * Xu, S; Yang, X; Liu, W; Jönsson, J; Qian, R; Konda, PC; Zhou, KC; Kreiß,
+    L; Wang, H; Dai, Q; Berrocal, E; Horstmeyer, R, _Imaging Dynamics Beneath
+    Turbid Media via Parallelized Single-Photon Detection._ , Advanced Science
+    (Weinheim, Baden Wurttemberg, Germany), vol 9 no. 24 (2022)
+    [10.1002/advs.202201885] [abs].
+  * Ayaz, H; Baker, WB; Blaney, G; Boas, DA; Bortfeld, H; Brady, K; Brake, J;
+    Brigadoi, S; Buckley, EM; Carp, SA; Cooper, RJ; Cowdrick, KR; Culver, JP;
+    Dan, I; Dehghani, H; Devor, A; Durduran, T; Eggebrecht, AT; Emberson, LL;
+    Fang, Q; Fantini, S; Franceschini, MA; Fischer, JB; Gervain, J; Hirsch, J;
+    Hong, K-S; Horstmeyer, R; Kainerstorfer, JM; Ko, TS; Licht, DJ; Liebert,
+    A; Luke, R; Lynch, JM; Mesquida, J; Mesquita, RC; Naseer, N; Novi, SL;
+    Orihuela-Espina, F; O'Sullivan, TD; Peterka, DS; Pifferi, A; Pollonini, L;
+    Sassaroli, A; Sato, JR; Scholkmann, F; Spinelli, L; Srinivasan, VJ; St
+    Lawrence, K; Tachtsidis, I; Tong, Y; Torricelli, A; Urner, T; Wabnitz, H;
+    Wolf, M; Wolf, U; Xu, S; Yang, C; Yodh, AG; Yücel, MA; Zhou, W, _Optical
+    imaging and spectroscopy for the study of the human brain: status report._
+    , Neurophotonics, vol 9 no. Suppl 2 (2022) [10.1117/1.nph.9.s2.s24001]
+    [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

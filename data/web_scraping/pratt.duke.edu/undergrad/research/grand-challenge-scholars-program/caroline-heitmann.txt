@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Undergraduate » Undergraduate Research
+
+# Caroline Heitmann: Building With Intention
+
+Challenge: Restoring and Improving Urban Infrastructure
+
+Major: Civil Engineering (Structural Concentration), Certificate in
+Architectural Engineering
+
+Advisor: Henri Gavin
+
+View GCS portfolio »
+
+* * *
+
+## What are your ambitions as an engineer?
+
+I want to work as a structural engineer, contributing to sustainability and
+our built environment in a meaningful way. I want to focus on being as
+innovative as possible, and not being anchored by the traditional practices of
+the past.
+
+One thing I'm interested in is climate change. Disasters are getting worse–how
+do we design our buildings to be strong enough to stand up to these ever-
+increasing thresholds? Being able to design and provide shelter for people
+while they're in terrible circumstances is incredibly important, and a big
+responsibility.
+
+## What made you apply to become an NAE Grand Challenge scholar?
+
+I really liked the idea of having like a grand challenge that a community of
+engineers is working towards, and the fact that you could make the challenge
+your own.
+
+I’m someone who likes to plan and stay organized, so having a unifying idea to
+guide all my activities at Duke was very appealing. At the same time, the
+parameters of the program are very flexible, so I didn't feel like hemmed in
+to one particular area of exploration and study.
+
+## Tell us about your thesis project, “Stability & Dynamics of Tensegrity.”
+
+Tensegrity is a structural form; in simple terms, it’s a structure made of
+bars that are always in compression and cords that are always in tension. It’s
+typically seen as an art form, but it’s increasingly being used for other
+applications because it’s low cost and efficient.
+
+I really wanted to take the idea of tensegrity a step further, with some sort
+of resilient, sustainable design. I was thinking about the intersection among
+infrastructure, which is my grand challenge, and structural engineering, and
+energy—how might we use a structural form like tensegrity to improve energy
+resilience?
+
+We came up with the idea of using a solar panel built on a tensegrity model.
+There are many tensegrity shapes, and I played around with different shapes
+for the foundation, but we settled on a basic Snelson prism.
+
+The model is very adaptable. Because it can change form easily, it can track
+the sun throughout the day, maximizing its solar irradiance intake.
+
+It's a simple-looking design, but it's really exciting to see it come to
+fruition, because I had so many questions in the beginning: How is this going
+to happen? Where is the sun during the day and how will we calculate what
+angle the panel should be at, to remain perpendicular to the sun? But it did
+come together! I did a lot of background research last semester, and we did
+the bulk of the computational modeling in Matlab this semester. Then I built
+the small model of the design that you see here.
+
+Overall, we found that a tensegrity-based solar panel support system is 36%
+more effective than a south-facing, horizontal panel, 21% more effective than
+than a horizomtal panel inclined at 34 degrees (assuming the solar panel is
+located at Duke Chapel), and 15% more effective than a panel rotating about
+its polar axis.
+
+## Did the pandemic year affect your work?
+
+It did affect what I had planned for my global experience. I was supposed to
+working in a lab in Nuremberg, Germany, last summer, researching smart cities
+and human-centered design, and trying to understand how the indoor landscape
+affects human health through a program called DAAD Rise. I was hopeful that I
+could do the work remotely, but it didn’t pan out.
+
+My global experience is therefore projected—I’m beginning a master’s degree in
+civil engineering at École polytechnique fédérale de Lausanne, in Switzerland,
+in September 2021. I plan to focus on structural engineering to continue
+exploring how structures can be strengthened against worsening stressors.
+
+## Would you recommend the program to new engineering students? If so, why?
+
+I would definitely recommend it. I feel like the program shaped my Duke career
+in a positive way, in the sense that it complemented my classes and reminded
+me to think outside of the bare-bones, grade-oriented, academic landscape. It
+made me think deeply about what I wanted to do and how I wanted to apply
+engineering in the future.
+
+Apply to be a Grand Challenge Scholar
+
+Duke Engineering's signature undergraduate experience »
+
+## Undergraduate Student News
+
+March 27, 2023
+
+### Duke Engineering Students Flex Their Leadership Muscles
+
+March 20, 2023 | Bass Connections
+
+### Taking the Bull City by the Horns
+
+February 22, 2023 | The Chronicle
+
+### Sydney Hunt of Duke ECE Among Duke Young Trustee Finalists
+
+View all undergrad news
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

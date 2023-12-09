@@ -1,0 +1,249 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The $10 Ultrasound Upgrade
+
+October 31, 2017 | By Ken Kingery
+
+Clip-on device featuring a $10 microchip gives standard 2-D ultrasound
+machines 3-D imaging capabilities
+
+Technology that keeps track of how your smartphone is oriented can now give
+$50,000 ultrasound machines many of the 3-D imaging abilities of their
+$250,000 counterparts—for the cost of a $10 microchip.
+
+In a presentation at the American College of Emergency Physicians Research
+Forum on October 31, doctors and engineers from Duke University and Stanford
+University showed how their snap-on invention can make 2-D ultrasound machines
+much more powerful. With a few cents’ worth of 3-D-printed materials, a
+microchip common to smartphones, a few wires and a laptop, a 2-D ultrasound
+machine can capture 3-D images of infants’ brains with similar quality to MRI
+or CT scans while the baby is held in a parent’s arms.
+
+“With 2-D technology you see a visual ‘slice’ of an organ, but without any
+context, you may mistake it for another part, or mistake one disease process
+or injury for another,” said Joshua Broder, M.D., emergency physician and
+director of the emergency medicine residency program at the Duke University
+School of Medicine. “These are all problems that can be solved with the added
+orientation and holistic context of 3-D technology. Gaining that ability at an
+incredibly low cost by taking existing machines and upgrading them seemed like
+the best solution to us.”
+
+The idea came to Broder while playing a game of Nintendo Wii with his son.
+With the game console’s ability to accurately track the exact position of the
+controller, Broder wondered, why not just duct-tape the controller to an
+ultrasound probe?
+
+That is the basic idea behind the new device. When physicians use a 2-D
+ultrasound machine, they move and tilt the probe in various directions until
+they get the view they want. But in the process, they are essentially throwing
+away perfectly good data. The new device keeps track of the exact orientation
+of the probe while imaging a patient, so that those images can be stitched
+together in three dimensions.
+
+“If each image were a playing card, then it would be like putting them all
+together in order into a deck so you can flip through it,” said Broder. “Each
+image is a slice that makes up the whole.”
+
+The prototype includes a 3-D-printed harness that snaps on to the ultrasound
+probe to securely attach the position-tracking microchip. That harness then
+snaps into one of several platforms that restricts its movement to a single
+axis of rotation.
+
+> "Instead of looking through a keyhole to understand what’s in the room, we
+> can open a door and see everything in front of us.”
+
+For example, one platform only allows the probe to swing in an arc like a door
+on a hinge. Another only allows it to twist in a circle along its vertical
+axis. These platforms are meant to allow the orientation of the probe to
+change while keeping the device centered over one location on a patient.
+
+The microchip is connected to a computer via a USB cord, while the ultrasound
+device itself is connected through any type of visual cord, be it USB, HDMI or
+DVI. As long as the ultrasound machine has a video output—which nearly all of
+them do—the new device can upgrade it to three dimensions.
+
+“We’ve tried it on all types of ultrasound machines made by GE, Siemens,
+Philips, SonoSite—you name it—and it’s worked every time without any previous
+testing,” said Broder. “After a quick arc or twist of the probe, the software
+churns out a 3-D image in a matter of seconds.”
+
+The invention is currently being tested in clinical trials at both Duke and
+Stanford, and the study presented at the research forum is a perfect example
+of its utility.
+
+Some newborns need brain imaging to diagnose congenital problems, but infants
+are notoriously difficult to scan. MRI machines require stillness over an
+extended period of time to achieve high resolution, which means either
+sedating the baby or settling for a lower resolution. CT scans provide
+excellent 3-D images, but expose the infant to radiation.
+
+Both require the baby be put into a large machine and cost a lot of money.
+Neither are good options.
+
+In the study, physicians were able to take a normal ultrasound probe upgraded
+with the 3-D conversion kit, center it above the infant’s head, twist the
+probe 180 degrees, and get 3-D images of similar quality to either CT or MRI.
+The whole process took a few seconds and was completed while the babies were
+still in their mothers’ arms.
+
+“Ultrasound is such a beautiful technology because it’s inexpensive, it’s
+portable, and it’s completely safe in every patient,” said Broder. “And it’s
+brought to the bedside and it doesn’t interfere with patient care.”
+
+According to Broder, the 3-D upgrade kit is “months away from being ready for
+primetime.” It has come a long way since he envisioned it in 2014, and he
+attributes its success to the resources available at both Duke and Stanford.
+
+After spending his spare time on it as a labor of love for a year, Broder
+sought help from Bob Barnes, an instructor in Duke’s Masters of Engineering
+Management program who leads a course on creating biomedical devices. Barnes
+introduced Broder to the Duke engineers who would come to form the team behind
+the success of the new device: Matt Morgan, an undergraduate at the time who
+is now in graduate school at Duke, and Carl Herickhoff and Jeremy Dahl, who
+were both biomedical engineering instructors and professors at Duke.
+
+Herickhoff and Dahl have since taken positions at the Stanford University
+School of Medicine, where they continue to develop the device. Their effort is
+supported by Stanford’s branch of the Wallace H. Coulter Foundation, which
+supports collaborative translational research projects at several
+universities, including Duke.
+
+The team also had initial help with the patenting and company formation
+through the Duke Office of Licensing and Ventures. More recent support has
+come from grants from the Emergency Medicine Foundation and General Electric,
+which are funding clinical trials for the device’s use to locate and identify
+bleeding and hemorrhages in patients with traumatic shock.
+
+The team believes their current clinical trials and support will allow them to
+bring their idea to market in only a couple of years. They envision a wide
+range of benefits, such as bringing 3-D imaging to limited-resource areas both
+at home around the world and lowering the cost of care. They are also working
+to bridge some of the gaps between their work-around 3-D technology and
+current 3-D ultrasound devices, such as the ability to capture a beating heart
+in motion.
+
+With the resources available to them, Broder has high expectations for the
+coming years.
+
+“I have been working at Duke since 2005 but my focus had always been on taking
+care of patients, conducting clinical research with existing imaging
+technologies and educating residents,” said Broder. “I look back and can’t
+believe that I was as blind as I was to the opportunities of having a world-
+class university with an engineering school focused on innovation and
+collaboration right down the street. It really broadened my horizons to what
+was possible.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

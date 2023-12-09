@@ -1,0 +1,256 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Glassfrogs Hide Red Blood Cells in Their Liver to Become Transparent
+
+December 27, 2022 | Michaela Kane
+
+Researchers finally decipher how a species of frog becomes a master of
+camouflage with the help of modern biomedical imaging techniques
+
+Glassfrogs make themselves transparent while they rest by taking red blood
+cells from circulation and concealing them in their livers. A multi-university
+team of biologists and biomedical engineers has shown how these frogs make
+themselves see-through in research that appears December 23 in the journal
+Science.
+
+It’s easy to miss a glassfrog in its natural environment. The northern
+glassfrog, Hyalinobatrachium fleischmanni,measures no more than a few
+centimeters, and they are most active at night, when their green skin helps
+them blend in with the surrounding leaves and foliage.
+
+But these amphibians become true masters of camouflage during the day when
+they’re asleep.
+
+“When glassfrogs are resting, their muscles and skin become transparent, and
+their bones, eyes and internal organs are all that’s visible,” said Carlos
+Taboada, a post-doctoral fellow at Duke and a co-first author of the paper.
+“These frogs sleep on the bottoms of large leaves, and when they’re
+transparent, they can perfectly match the colors of the vegetation.”
+
+Many animals in the sea can change the color of their skin or become
+completely transparent, but it’s a far less common skillset on land. One
+reason transparency is so difficult to achieve is because of red blood cells
+in the circulatory system. Red blood cells are adept at absorbing green light,
+which is the color of light usually reflected by plants and other vegetation.
+In return, these oxygen-rich cells reflect red light, making blood –– and by
+extension the circulatory system –– highly visible, especially against a
+bright green leaf.
+
+Glassfrogs are some of the only land-based vertebrates that can achieve
+transparency, which has made them a target for study. Taboada first began
+studying glass frogs as a post-doctoral fellow in the lab of Sönke Johnsen, a
+professor of biology at Duke who specializes in studying transparency. Working
+with Jesse Delia, who traveled around the world collecting different
+glassfrogs for the study, they observed that red blood cells seemed to be
+disappearing from the circulating blood whenever the frogs became transparent.
+
+They conducted additional imaging tests on the animals, proving via optical
+models that the animals were able to achieve transparency because they were
+pushing red blood cells out of their vessels. He suspected that the cells were
+being stored in one of the frog’s inner organs which are packaged in a
+reflective membrane.
+
+For a see-through animal, its biology was shockingly challenging to decipher.
+The research drew on the expertise of biologists and biomedical engineers not
+only at Duke but at the American Museum of Natural History, Stanford
+University and the University of Southern California.
+
+“If these frogs are awake, stressed or under anesthesia their circulatory
+system is full of red blood cells and they are opaque,” explained Delia, now a
+post-doctoral fellow at the American Museum of Natural History. “The only way
+to study transparency is if these animals are happily asleep, which is
+difficult to achieve in a research lab. We were really banging our heads
+against the wall for a solution.”
+
+But Taboada had learned about an imaging technology called photoacoustic
+microscopy, or PAM, when he was studying biliverdin, the compound that gives
+certain species of frogs their signature green color. PAM involves shooting a
+safe laser beam of light into tissue, which is then absorbed by molecules and
+converted into ultrasonic waves. These sound waves are then used to make
+detailed biomedical images of the molecules. The imaging tool is non-invasive,
+quiet, sensitive and, in a stroke of luck, available at Duke.
+
+“PAM is the ideal tool for non-invasive imaging of red blood cells because you
+don’t need to inject contrast agents, which would be very difficult for these
+frogs,” explained Junjie Yao, an assistant professor of Biomedical Engineering
+at Duke who specializes in PAM technologies. “The red blood cells themselves
+provide the contrast, because different types of cells absorb and reflect
+different wavelengths of light. We could optimize our imaging systems to
+specifically look for red blood cells and track how much oxygen was
+circulating in the frog’s bodies.”
+
+In their imaging set-up, the frogs slept upside down in a petri dish, similar
+to how they would sleep on a leaf, and the team shined a green laser at the
+animal. The red blood cells in the frog’s body absorbed the green light and
+emitted ultrasonic waves, which were then picked up by an acoustic sensor to
+trace their whereabouts, with high spatial resolution and high sensitivity.
+
+The results were startlingly clear: When the frogs were asleep, they removed
+nearly 90 percent of their circulating red blood cells and stored them in
+their liver.
+
+In further tests, the team also saw that red blood cells flowed out of the
+liver and circulated when the frogs were active, and then re-aggregated in the
+liver while the frogs were recovering.
+
+“The primary result is that whenever glassfrogs want to be transparent, which
+is typically when they're at rest and vulnerable to predation, they filter
+nearly all the red blood cells out of their blood and hide them in a mirror-
+coated liver -- somehow avoiding creating a huge blood clot in the process,”
+said Johnsen. “Whenever the frogs need to become active again, they bring the
+cells back into the blood stream, which gives them the metabolic capacity to
+move around.”
+
+According to Delia and Taboada, this process raises questions about how the
+frogs can safely store almost all their red blood cells in their liver without
+clotting or damaging their peripheral tissues. One potential next step, they
+said, could be to study this mechanism and how it could one day apply to
+vascular issues in humans.
+
+This work also introduces glassfrogs as a useful model for research,
+especially when paired with the state-of-the-art photoacoustic imaging. As
+long-time glassfrog researchers, they are excited about the new avenues of
+study now available to them and interested collaborators.
+
+“We can learn more about the glassfrog’s physiology and behavior, or we can
+use these models to optimize imaging tools for biomedical engineering,” Delia
+said. “This started because Carlos and I thought this frog was doing something
+weird with its blood, and it led to productive collaborations both at Duke and
+across the globe.”
+
+“Our successful collaboration has been a great example of how multiple
+disciplines can jointly advance science in the most synergistic way,” said
+Yao. “We are extremely excited about the future interactions between the
+biology and engineering teams. With all the strength on board, the sky is the
+limit.”
+
+This work was supported the National Geographic Society grant (NGS-65348R-19),
+the Human Frontier Science Program postdoctoral fellowship (LT 000660/2018-L),
+the Gerstner Scholars Fellowship provided by the Gerstner Family Foundation
+and the Richard Gilder Graduate School at the American Museum of Natural
+History, start-up funds from Stanford University and start-up funds from Duke
+University, the National Institutes of Health grants (R01 EB028143 R01
+NS111039 and RF1 NS115581 BRAIN Initiative), the National Science Foundation
+CAREER Award (2144788), the Duke Institute of Brain Science Incubator award,
+the American Heart Association Collaborative Sciences award (18CSA34080277),
+and the Chan Zuckerberg Initiative (2020-226178).
+
+CITATION: “Glassfrogs Conceal Blood in Their Liver to Maintain Transparency,”
+Carlos Taboada, Jesse Delia, Maomao Chen, Chenshuo Ma, Xiaorui Peng, Xiaoyi
+Zhu, Liaming Jiang, Tri Vu, Qifa Zhou, Junjie Yao, Laureo O’Connell, Sonke
+Johnsen. Science, December 22, 2022. DOI: 10.1126/science.abl6620
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

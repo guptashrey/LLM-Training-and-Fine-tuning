@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound Waves Create Whirlpools to Round Up Tiny Signs of Disease
+
+January 26, 2017 | By Ken Kingery
+
+New technique could form the basis of a small, inexpensive point-of-care
+device for early disease diagnosis
+
+Mechanical engineers at Duke University have demonstrated a tiny whirlpool
+that can concentrate nanoparticles using nothing but sound. The innovation
+could gather proteins and other biological structures from blood, urine or
+saliva samples for future diagnostic devices.
+
+Early diagnosis is key to successfully treating many diseases, but spotting
+early indicators of a problem is often challenging. To pick out the first
+warning signs, physicians usually must concentrate scarce proteins, antibodies
+or other biomarkers from small samples of a patient’s body fluid to provide
+enough of a signal for detection.
+
+While there are many ways to accomplish this today, most are expensive, time-
+consuming or too cumbersome to take to the field, and they might require
+trained experts. Duke engineers are moving to develop a new device that
+addresses these obstacles.
+
+In a new study, researchers paired a small acoustic transducer to a glass
+cylinder to produce a whirlpool that can capture these disease-signaling
+nanoparticles in its vortex. The system shows early promise for new diagnostic
+devices because it is compact, inexpensive, low-energy and does not alter the
+properties of the corralled particles.
+
+The results appear online on January 25, 2017, in the journal American
+Chemical Society Nano.
+
+“Diagnosis impacts about 70 percent of healthcare decisions,” said Tony Huang,
+professor of mechanical engineering and materials science at Duke. “If we can
+improve the quality of diagnostics while reducing its costs, then we can
+tremendously improve the entire healthcare system.”
+
+The new technology relies on calculating and manipulating the effects of the
+two forces associated with sound waves—acoustic radiation and acoustic
+streaming. If you’ve ever blown air across the top of a bottle to create a
+tone, then you’re familiar with the latter. Acoustic streaming is the same
+phenomenon but in reverse, where a vibrating body induces a fluid to flow.
+
+Acoustic radiation is also easy to visualize—just think of any cartoon where a
+giant loudspeaker knocks somebody off of their feet. While that scenario is
+unlikely to occur without killing someone, sound is nothing more than a
+traveling pressure wave, and it does push on whatever it encounters. Devices
+have used this phenomenon to concentrate particles before, but it does not
+provide enough force on its own once particles drop to the nanoscale.
+
+In the new device, a small, 5-volt acoustic transducer creates a standing
+sound wave aimed toward a long, thin glass vial. Because the vial is
+perpendicular to the sound wave, and because Huang’s team has precisely tuned
+the two to each other, the vibrations in the glass create a standing vortex
+along the vial’s axis. The whirlpool sucks in any particles suspended in the
+test liquid—such as those extracted from blood or urine samples—while the
+acoustic radiation keeps them there.
+
+In the study, fluorescent markers help make suspended nanoparticles more
+visible. But in an actual diagnostic device, Huang says that wouldn’t be
+necessary.
+
+“My goal is to create a small diagnostic device about the size of a cell phone
+that can autonomously separate biomarkers from samples,” said Huang. “With
+this vortex technology, the biomarkers could then be concentrated enough to
+see with a simple camera like the ones found in today’s cellular phones.”
+
+Huang now plans to work on other components of such a device, and to
+collaborate with scientists at Duke Health to test the new vortex technology
+in disease diagnosis.
+
+This work was supported by the National Institutes of Health (R01 HD086325)
+and the National Science Foundation (IDBR-1455658).
+
+“Enriching Nanoparticles via Acoustofluidics.” Zhangming Mao, Peng Li, Mengxi
+Wu, Hunter Bachman, Nicolas Mesyngier, Xiasheng Guo, Sheng Liu, Francesco
+Costanzo, and Tony Jun Huang. ACS Nano, 2017. DOI: 10.1021/acsnano.6b06784
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

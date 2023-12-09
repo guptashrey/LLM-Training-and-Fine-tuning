@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘ASCENT’ Makes it Easier to Study Electrical Stimulation of Nerves
+
+September 7, 2021 | Michaela Kane
+
+Computational platform allows non-experts to create patient-specific, 3D
+models of nerves being electrically stimulated
+
+Biomedical engineers at Duke University have developed an open-source software
+platform that automates 3D electrical nerve stimulation modeling. This will
+allow researchers to predict how specific nerves respond to different patterns
+of stimulation from custom electrodes.
+
+The platform will help researchers create accurate models of new therapies for
+a variety of diseases, including diabetes, rheumatoid arthritis, and
+cardiovascular disease.
+
+Like a pacemaker for the heart, nerve stimulation devices are implanted in the
+body and programmed to send targeted pulses of electricity into nerves. These
+electrical pulses may initiate or suppress signals in the nerve, changing the
+regulation of organ functions to treat disease. Nerve stimulation can be a
+promising alternative to drugs.
+
+This research appears online September 7 in the journal PLOS Computational
+Biology.
+
+Certain electrical stimulation therapies, like vagus nerve stimulation, have
+already proven to be an effective treatment for illnesses like epilepsy and
+depression in patients who don’t respond to traditional drug therapies.
+
+“Despite promising preclinical data, translating nerve stimulation to the
+clinic is challenging because there is a lot of variability in neural anatomy
+between animals and humans and even person to person,” said Nicole Pelot, a
+research director in Warren Grill’s biomedical engineering lab at Duke
+University. “These variabilities require choosing different electrodes or
+stimulation parameters to achieve a targeted response, which can be a bit of a
+guessing game.”
+
+While computational modeling allows researchers to avoid some of guesswork in
+electrical stimulation, the modeling process is highly complex, which usually
+restricts its use to expert developers and limits model reproducibility and
+reuse. Grill, the Edmund T. Pratt, Jr. School Distinguished Professor of
+Biomedical Engineering at Duke, has spent the last four years with his
+colleagues developing a solution.
+
+Grill said ASCENT, or Automated Simulations to Characterize Electrical Nerve
+Thresholds, makes modeling nerve stimulation more accessible, reproducible,
+and efficient. It allows researchers to define a variety of information, like
+nerve geometry, fiber models, electrode design, and stimulation waveforms, and
+then simulate a nerve’s response to the electrical pulses.
+
+ASCENT’s automation allows users to replicate models from previously published
+research, turning a process that could take years into something that may take
+just a few weeks or days. “We designed the code so it’s very expandable,”
+added Jake Cariello, an undergraduate research assistant in the Grill lab. “We
+broke down the complex system into its sub-components, and each of those sub-
+components is customizable.”
+
+ASCENT is an open-source project and is free for users to access, as part of
+the National Institutes of Health Common Fund’s Stimulating Peripheral
+Activity to Relieve Conditions program (SPARC). The ASCENT software is
+available for download HERE.
+
+“A tool that is this specialized is usually inaccessible to more novice
+users,” said Eric Musselman, a PhD student in the Grill lab. “We hope ASCENT
+will help push the science forward as more researchers are able to design and
+interpret therapeutic interventions using computational models.”
+
+This project was supported by the National Institutes of Health’s SPARC
+Program (OT2OD025340).
+
+CITATION: “ASCENT (Automated Simulations to Characterize Electrical Nerve
+Thresholds): A pipeline for sample-specific computational modeling of
+electrical stimulation of peripheral nerves” Eric Musselman, Jake Cariello,
+Warren Grill, Nicole Pelot. PLOS Computational Biology, August 26, 2021. DOI:
+10.1371/journal.pcbi.1009285
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

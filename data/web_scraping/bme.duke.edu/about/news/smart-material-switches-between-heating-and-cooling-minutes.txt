@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Smart Material Switches Between Heating and Cooling in Minutes
+
+October 28, 2021 | Ken Kingery
+
+Deployed on roofs or facades, passive technology could greatly reduce HVAC
+energy consumption in buildings
+
+As anyone who has ever parked a car in the sun on a hot summer day knows,
+glass windows are great at letting sunlight in but terrible at allowing heat
+out.
+
+Now, engineers at Duke University have developed smart window-like technology
+that, with the flip of a switch, can alternate between harvesting heat from
+sunlight and allowing an object to cool. The approach could be a boon for HVAC
+savings, potentially cutting energy usage by nearly 20% in the United States
+alone.
+
+The electrochromic technology – material that changes color or opacity when
+electricity is applied – is detailed in a paper published Oct. 14 in the
+journal American Chemical Society Energy Letters.
+
+“We have demonstrated the very first electrochromic device that can switch
+between solar heating and radiative cooling,” said Po-Chun Hsu, assistant
+professor of mechanical engineering and materials science at Duke. “Our
+electrochromic tuning method does not have any moving parts and is
+continuously tunable.”
+
+Smart windows made from electrochromic glass are a relatively new technology
+that use an electrochromic reaction to change glass from transparent to opaque
+and back again in the blink of an eye. While there are many approaches to
+creating this phenomenon, they all involve sandwiching an electrically
+responsive material between two thin layers of electrodes and passing an
+electric current between them. While this trick is difficult enough to achieve
+for visible light, it becomes even more so when having to also consider mid-
+infrared light (radiative heat).
+
+In the paper, Hsu and his graduate student Chenxi Sui demonstrate a thin
+device that interacts with both spectrums of light while switching between
+passive heating and cooling modes. In the heating mode, the device darkens to
+absorb sunlight and stop mid-infrared light from escaping. In the cooling
+mode, the darkened window-like layer clears, simultaneously revealing a mirror
+that reflects sunlight and allows mid-infrared light from behind the device to
+dissipate. Because the mirror is never transparent to visible light, the
+device would not replace windows in homes or offices, but it might be used on
+other building surfaces.
+
+“It’s very difficult to create materials that can function in both of these
+regimes,” Hsu said. “Our device has one of the largest tuning ranges in
+thermal radiation ever demonstrated.”
+
+There were two major challenges to overcome to engineer such a device. The
+first was creating electrode layers that conduct electricity and are
+transparent to both visible light and thermal radiation. Most conductive
+materials such as metals, graphite and some oxides don’t fit the bill, as
+these two properties are at odds with one another, so Hsu and Sui engineered
+their own.
+
+The researchers started with a one-atom-thick layer of graphene, which they
+showed is too thin to reflect or absorb either types of light. But it is also
+not conductive enough to transmit the amount of electricity required for the
+device to work at a large scale. To get around this limitation, Hsu and Sui
+added a thin grid of gold on top of the graphene to act as a highway for
+electricity. While this somewhat decreased the graphene’s ability to allow
+light to pass through unimpeded, the tradeoff was small enough to be worth it.
+
+The second challenge involved engineering a material that could go between the
+two electrode layers and switch back and forth between absorbing light and
+heat or allowing them to pass through. The researchers achieved this by
+harnessing a phenomenon called plasmonics. When tiny, nanoscale metal
+particles are placed just nanometers away from each other, they can
+essentially trap specific wavelengths of light based on their size and
+spacing. But in this case, the nanoparticles are randomly distributed in
+clusters, leading to interactions with a wide range of wavelengths, which is
+beneficial for efficiently trapping sunlight.
+
+In the demonstration, electricity passing through the two electrodes causes
+metal nanoparticles to form near the top electrode. Not only does this black
+out the device, it causes the entire device to absorb and trap both visible
+light and heat. And when the electrical flow is reversed, the nanoparticles
+dissolve back into the liquid transparent electrolyte. The transition between
+the two states takes a minute or two to complete.
+
+“The device would spend many hours in one state or the other out in the real
+world, so losing a couple minutes of efficiency during the transition is just
+a drop in the bucket,” said Hsu.
+
+There are still many challenges to making this technology useful in everyday
+settings. The largest might be increasing the number of times the
+nanoparticles can cycle between forming and disintegrating, as the prototype
+was only able to perform a couple dozen transitions before losing efficiency.
+There is also room for improvement in the solar reflectivity of the cooling
+mode, which Hsu hopes can achieve sub-ambient cooling in the near future.
+
+As the technology matures, however, there may be many applications for it. The
+technology might be applied to exterior walls or roofs to help heat and cool
+buildings while consuming very little energy. Providing the building envelopes
+such a dynamic capability to use renewable resources for heating and cooling
+could also open up the opportunity to use less of the construction materials
+that have been a significant source of carbon emission for decades.
+
+## Related News
+
+August 10, 2021
+
+### Addressing Climate Change with Energy Materials
+
+December 02, 2020
+
+### Nanomaterials Enable Passive Dual-Mode Heating and Cooling Device
+
+September 07, 2018
+
+### Po-Chun Hsu: Engineering Nanostructured Materials to Keep You Cool
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

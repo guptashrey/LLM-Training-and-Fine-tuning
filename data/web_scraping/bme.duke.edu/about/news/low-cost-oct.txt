@@ -1,0 +1,230 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Low-Cost Retinal Scanner Could Help Prevent Blindness Worldwide
+
+June 28, 2019 | By Ken Kingery
+
+Re-engineered device offers clinically accurate eye scans at a fraction of the
+cost
+
+Biomedical engineers at Duke University have developed a low-cost, portable
+optical coherence tomography (OCT) scanner that promises to bring the vision-
+saving technology to underserved regions throughout the United States and
+abroad.
+
+Thanks to a redesigned, 3D-printed spectrometer, the scanner is 15 times
+lighter and smaller than current commercial systems and is made from parts
+costing less than a tenth the retail price of commercial systems—all without
+sacrificing imaging quality.
+
+In its first clinical trial, the new OCT scanner produced images of 120
+retinas that were 95 percent as sharp as those taken by current commercial
+systems, which was sufficient for accurate clinical diagnosis.
+
+The results appear online on June 28 in Translational Vision Science &
+Technology, an ARVO journal.
+
+In use since the 1990s, OCT imaging has become the standard of care for the
+diagnosis of many retinal diseases including macular degeneration and diabetic
+retinopathy, as well as for glaucoma. However, OCT is rarely included as part
+of a standard screening exam since machines can cost more than
+$100,000—meaning that usually only larger eye centers have them.
+
+“Once you have lost vision, it’s very difficult to get it back, so the key to
+preventing blindness is early detection,” said Adam Wax, professor of
+biomedical engineering at Duke. “Our goal is to make OCT drastically less
+expensive so more clinics can afford the devices, especially in global health
+settings.”
+
+OCT is the optical analogue of ultrasound, which works by sending sound waves
+into tissues and measuring how long they take to come back. But because light
+is so much faster than sound, measuring time is more difficult. To time the
+light waves bouncing back from the tissue being scanned, OCT devices use a
+spectrometer to determine how much their phase has shifted compared to
+identical light waves that have travelled the same distance but have not
+interacted with tissue.
+
+The primary technology enabling the smaller, less expensive OCT device is a
+new type of spectrometer designed by Wax and his former graduate student
+Sanghoon Kim. Traditional spectrometers are made mostly of precisely cut metal
+components and direct light through a series of lenses, mirrors and
+diffraction slits shaped like a W. While this setup provides a high degree of
+accuracy, slight mechanical shifts caused by bumps or even temperature changes
+can create misalignments.
+
+Wax’s design, however, takes the light on a circular path within a housing
+made mostly from 3D-printed plastic. Because the spectrometer light path is
+circular, any expansions or contractions due to temperature changes occur
+symmetrically, balancing themselves out to keep the optical elements aligned.
+The device also uses a larger detector at the end of the light’s journey to
+make misalignments less likely.
+
+Traditional OCT machines weigh more than 60 pounds, take up an entire desk and
+cost anywhere between $50,000 and $120,000. The new OCT device weighs four
+pounds, is about the size of a lunch box and, Wax expects, will be sold for
+less than $15,000.
+
+“Right now OCT devices sit in their own room and require a PhD scientist to
+tweak them to get everything working just right,” said Wax. “Ours can just sit
+on a shelf in the office and be taken down, used and put back without
+problems. We’ve scanned people in a Starbucks with it.”
+
+In the new study, J. Niklas Ulrich, retina surgeon and associate professor of
+ophthalmology at the University of North Carolina School of Medicine, put the
+new OCT scanner to the test against a commercial instrument produced by
+Heidelberg Engineering. He performed clinical imaging on both eyes of 60
+patients, half from healthy volunteers and half with some sort of retinal
+disease.
+
+To compare the images produced by both machines, the researchers used
+contrast-to-noise ratio—a measure often used to determine image quality in
+medical imaging. The results showed that, by this metric, the low-cost,
+portable OCT scanner provided useful contrast that was only 5.6 percent less
+than that of the commercial machine, which is still good enough to allow for
+clinical diagnostics.
+
+“I have been very impressed by the quality of images from the low-cost
+device—it is absolutely comparable to our standard commercial machines,” said
+Ulrich. “It obviously lacks some bells and whistles of our $100k+ OCT
+scanners, but allows for accurate diagnosis of structural retinal disease as
+well as monitoring of treatment success. The setup is quick and easy with a
+small footprint, allowing the device to perform well in smaller satellite
+offices. I hope that the development of this low-cost OCT will improve
+patients’ access to OCT technology and contribute to saving sight in North
+Carolina as well as nationally and worldwide.“
+
+Wax is commercializing the device through a startup company called Lumedica,
+which is already producing and selling first-generation instruments for
+research applications. The company hopes to secure venture backing in the near
+future and is also negotiating potential licensing deals with outside
+companies.
+
+“There’s a lot of interest from people who want to take OCT to new parts of
+the globe as well as to underserved populations right here in the U.S.,” said
+Wax. “With the growing number of cases of diabetic retinopathy in places like
+the United States, India and China, we hope we can save a lot of people’s
+sight by drastically increasing access to this technology.”
+
+This work was funded by the National Institutes of Health (R01 CA210544) and
+the Duke-Coulter Translational Partnership.
+
+“First Clinical Application of Low-cost OCT.” Ge Song, Kengyeh Chu, Sanghoon
+Kim, Michael Crose, Brian Cox, Evan T. Jelly, J. Niklas Ulrich, Adam Wax.
+Translational Vision Science &Technology, 2019. DOI: 10.1167/tvst.8.3.61
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

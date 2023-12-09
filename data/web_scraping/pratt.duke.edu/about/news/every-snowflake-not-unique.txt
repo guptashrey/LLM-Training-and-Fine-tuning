@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Every Snowflake Is Not Unique
+
+January 21, 2015 | By Adrian Bejan
+
+They all share one architecture, determined by the way heat flows.
+
+_Reprinted with permission fromASME Mechanical Engineering magazine._
+
+People like to say that every snowflake is unique. On the level of execution
+and fine detail, that may or may not be true. After all, who has seen every
+snowflake?
+
+It is certain, however, that every snowflake conforms to only one
+architecture: a flat star with six fishbones connected at the center. What’s
+more, that structure is predictable provided that we recognize the underlying
+principle: first, that something flows, in this case heat, and, second, that
+the natural tendency of all flows is to evolve into architectures that provide
+easier access. It’s another example of the constructal law.
+
+Here is how to predict the shape and structure of the snowflake. In the
+beginning, there is cold humid air, below 0 °C. Then, all of a sudden, around
+a tiny speck of dust, ice forms and grows as a spherical bead.
+Counterintuitively, the bead is warmer than everything else around it, and
+heat flows away from it in all directions. What heat? The latent heat of
+solidification, which is released by the water vapor that becomes solid at the
+bead surface.
+
+There comes a critical time when the spherical bead is no longer an efficient
+architecture for dissipating heat. The principle calls for design change,
+toward faster heat release and solidification. The growth of ice morphs
+abruptly into a ball continued in one plane by needles. Because of the
+configuration of the water molecule, the needles grow in six directions. The
+flat star transfers heat to the surroundings more easily than a spherical bead
+with the same diameter.
+
+Incidentally, why does the snowflake grow in one plane, as a flat star?
+Because needles in one plane grow faster (with more access to cold air) than
+needles growing in all directions.
+
+There comes a second critical moment when the tip of every needle feels the
+same as the original bead. Each tip would generate six new needles, except
+that only the three that point forward can grow. One needle cannot grow
+backward because that place is occupied by the mother needle; and the two
+backward side needles cannot grow either, because the air in the interstices
+(between two mother needles) is no longer cold.
+
+This stepwise evolutionary design continues as long as the new forward
+pointing needles find cold air that serves as sink for the heat released by
+their growth.
+
+To give credit to the view that every snowflake is unique, the actual
+configuration depends on many secondary effects, which are of random origin.
+Very cold air makes needles that are sharp and fast growing (fluffy snow).
+Cold air just under 0 °C makes fat needles; the snowflake falls like a leaf;
+it bumps into and sticks to its neighbors, and the wind damages all the
+snowflakes in random ways due to air turbulence.
+
+In spite of the obvious diversity, the human mind records the snowflake design
+in the same simple way that the mind predicts the design from principle. The
+table cloth pattern, the Christmas tree ornament, and the snowflake predicted
+from the constructal law are one design. The three artists did not talk to
+each other while making their drawings. Such is organization in nature, and
+such is life.
+
+The snowflake story has many equivalents throughout nature, animate and
+inanimate. Every river basin is not unique. The river basin has a rule of
+construction and a principle: four tributaries to a larger channel, predicted
+from the constructal law. Every sprinter is not unique. The runner has a rule
+of construction and a principle: the speed is a multiple of the body mass
+raised to the power 1/6, predicted from the constructal law. Next time you
+hear that every snowflake is unique, think about its principle, the
+constructal law.
+
+###
+
+Adrian Bejan is the J. A. Jones Distinguished Professor of mechanical
+engineering at Duke University.
+
+Article courtesy of _Mechanical Engineering_ magazine. Reprinted from Vol.
+137, No. 1, pages 40-41. Copyright _Mechanical Engineering_ magazine (the
+American Society of Mechanical Engineers).
+
+**To know more:**
+
+A. Bejan, _Advanced Engineering Thermodynamics_ , 3rd ed., Wiley, Hoboken,
+2006, pp. 779-782.
+
+A. Bejan, S. Lorente, B. S. Yilbas, and A. Z. Sahin, “Why solidification has
+an S-shaped history,” _Nature Scientific Reports_ , Vol. 3, 2013, 1711; DOI:
+10.1038/srep01711 (2013).
+
+A. Bejan and J. P Zane, _Design in Nature. How the Constructal Law Governs
+Evolution in Biology, Physics, Technology, and Social Organization_ ,
+Doubleday, New York, 2012.
+
+The 9th Constructal Law & Second Law Conference will be held in Parma Italy,
+on 18-19 May 2015.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,291 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Robert Greenberg
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Alumni profiles
+
+BME and ECE, Class of 1990
+
+Co-founder, CEO and President, Second Sight Medical Products  
+Adjunct Assistant Professor in Electrical Engineering, UCLA  
+Los Angeles, CA
+
+Robert Greenberg is president and CEO of Second Sight, a company that creates
+prosthetic devices that can bring sight to people with blindness. The
+company’s retinal implant Argus II, also called a bionic eye, translates
+visual images as electrical stimulation to the wearer’s retina, in order to
+transmit that information along the optic nerve to the brain. The prosthesis
+is currently in use in Europe and was approved for use in the United States by
+the FDA in 2013 for patients with retinitis pigmentosa. Greenberg says
+applying electrical engineering to medical questions has been his dream since
+he completed his double major in electrical and biomedical engineering at
+Duke.
+
+## How did you come to work with electronic prosthesis?
+
+By the time I finished at Duke, I knew I wanted to work with electronics and
+medicine. I went on to start an MD/PhD at Johns Hopkins, and as a first-year
+medical student I met Eugene de Juan, MD,a former Duke professor—who had this
+idea that he could electrically stimulate the eyes of blind patients. This
+idea seemed like the perfect marriage that I was looking for. The day after I
+met him he asked me to join him in the OR to see one of his experiments.
+That’s a dream for a first-year student—not just to go to the OR, but to go to
+the OR to see what was likely to be a historic experiment. And it was really
+fantastic: He put a wire into a totally blind patient’s eye and another fellow
+turned up the current on a block of electronics, and the patient said, “I see
+a spot of light.” Then he put a second wire in and the patient said, “OK, now
+I see two spots of light.” At that moment I was hooked. I thought from here,
+this is an engineering problem; I could do this.
+
+After my MD/PhD program I took an unusual step—I went to work for the FDA as a
+medical officer, reviewing neurosurgical medical device applications. Less
+than a year after I joined the FDA I met Alfred Mann, who is a biomedical
+device entrepreneur in LA, and he convinced me to come to California and join
+his non-profit research foundation, which funds advanced medical device
+development. I met with one of his companies that makes cochlear implants, and
+one of their investors asked if that technology could work for blindness. The
+very next day we started Second Sight, and Al Mann asked me to run it.
+
+## Did your experiences at Duke help prepare you for such an unusual career
+path?
+
+> "My time at Duke was an excellent launch pad."
+
+My time at Duke was an excellent launch pad. One experience in particular that
+I think was influential was designing the Telekey system for Duke’s
+dormitories. Because I was president of the engineering student government, I
+was asked to sit on a university buildings and safety committee, and we were
+looking at a telephone-based system that would allow students to use a phone
+to unlock the dormitory doors. I had the idea that I could design a system
+that would be able to listen to the touch tone of the phones, so that we could
+install a Telekey system without rewiring the building (the other expensive
+alternative we were considering). Over Christmas break one year I designed it.
+We ended up installing it in every dorm on campus. I began marketing it when I
+was in med school and it was installed at several other universities. At that
+point I realized I needed to make a choice: I needed to either stay in med
+school or continue selling security systems. I decided to stay.
+
+## It's a good thing you decided to stay in med school!
+
+Definitely. But that experience at Duke was a soup-to-nuts experience—not only
+doing the design work but also figuring out the administrative part of it, the
+purchasing part of it, marketing it to other schools; I got a patent for it, I
+was installing them myself—I was getting a pretty well-rounded early
+experience.
+
+## You're currently busy with worldwide commercialization of Second Sight's
+implants—in terms of ideas, what's next for Second Sight?
+
+We’re beginning to talk about the next-generation device that will move the
+implant from the eye to the back of the brain. That would allow us to access
+more patients with different kinds of blindness in addition to retinitis
+pigmentosa. There’s really no treatment for these patients other than this
+implant, so it’s really exciting. We got one thousand phone calls from
+prospective patients when the FDA approved our implants. The idea that we
+could reach all blind patients—perhaps 8 million people—is intoxicating.
+
+## How does it feel to be able to change someone's life so dramatically?
+
+It’s the best. It’s what keeps us going. It’s life-changing for these
+people—our patients talk about feeling more confident to walk around outside.
+They feel more connected to other people, because they can see when a person
+has walked away or turned away—these are social cues that most of us take for
+granted. Even just the experience of seeing color, that’s been an emotional
+experience for a lot of people. We’ve noticed that there’s something about the
+color blue in particular that patients have an emotional reaction to,
+especially if they haven’t seen it in a long time. Perhaps that is connected
+to the color of the sky or water.
+
+It’s been a lot of hard work, more than 25 years of hard work to get to this
+point. But just meeting one patient whose life is transformed... that makes it
+all more than worthwhile.
+
+Meet More Alumni
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

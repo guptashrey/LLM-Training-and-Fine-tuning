@@ -1,0 +1,231 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Setting Robots in Motion, Quickly and Efficiently
+
+August 15, 2016
+
+Our ability to find a solution to motion planning will be critical to creating
+a new generation of robots
+
+_Originally published inThe Conversation_
+
+_By Daniel Sorin, Professor of Electrical and Computer Engineering, Duke
+University, and George Konidaris, Assistant Professor of Computer Science and
+Electrical and Computer Engineering, Duke University_
+
+How can a drone get from one place to another in a forest, without colliding
+with any trees? How can a robot pick up a bolt and insert it into a casing,
+without smashing into any of the other moving objects in a crowded factory?
+Our ability to find a solution to this problem – which is called motion
+planning – will be critical to creating a new generation of robots that,
+unlike the industrial robots of today, can act in a world that has not been
+meticulously pre-prepared for them.
+
+At first glance, motion planning seems easy. You do it all the time without
+even noticing! You don't have to consciously think about how to maneuver your
+arm to fetch the can of soda from the back of the fridge without knocking
+anything over; you just do it. And while very young babies flail around, they
+are experts at motion planning by the time they are toddlers. Unfortunately,
+motion planning is an excellent example of a problem that is easy for humans
+to solve, but has proven to be computationally very hard. In most cases,
+state-of-the-art motion planners for machines can take as long as several
+seconds to plan a movement.
+
+The core challenge is collision detection: As the robot generates possible
+paths, it must check whether or not it would collide with objects in the
+world. Modern motion planners generate thousands or even millions of short
+motions that together form a complete movement and test them for collision one
+at a time. The process accounts for approximately 99 percent of the
+computational cost of motion planning.
+
+The human brain, however, rarely does things one by one. Rather, it can
+perform massively parallel processing – that is, it can use its vast number of
+neurons to do many, many things simultaneously (in parallel) – to solve hard
+computational problems. Our approach in the lab has been to exploit the same
+type of parallelism by building a customized processor with a vast number of
+circuits, rather than neurons, that can operate in parallel. The processor's
+circuits perform massively parallel collision detection.
+
+## Finding the right route
+
+Our approach is based on a common motion planning method, called a roadmap.
+Robotic motion planning with a roadmap is analogous to planning a road trip
+using a geographic map in which sites are connected via streets. In such a
+road trip, you seek to find a path from your starting point to your
+destination site by choosing the shortest sequence of streets (which, taken
+together, comprise a path), none of which is currently closed for
+construction.
+
+In a robot’s roadmap, each site is a pose of the robot (say, an arm position)
+and each street that connects two sites is a motion between those two poses.
+Motion planning involves finding a path from the starting pose to the goal
+pose that doesn’t collide with obstacles that might be nearby.
+
+Typical motion planning algorithms build roadmaps with tens to hundreds of
+thousands of possible robotic poses and motions. Larger roadmaps are better,
+but they require more computation because each motion must be checked for
+collision with the environment, one at a time.
+
+General-purpose computer processors, such as the ones in your laptop or
+smartphone, achieve remarkable performance on a wide range of tasks, but are
+not good enough for motion planning. These processors consist of circuits that
+do the calculations that software programs instruct. They can execute
+instructions quickly, but only a few at a time. This limitation is sensible
+and economical because typical software doesn’t have many instructions that
+can be done without waiting for previous instructions to finish. (This is just
+like in the real world, where you can’t start drying your laundry until after
+it has finished in the washing machine.)
+
+Unlike typical software, the work performed for motion planning has lots of
+opportunities to make calculations independently of each other. In collision
+detection, every motion in the roadmap can be checked against every obstacle
+simultaneously, in parallel.
+
+Our processor has a dedicated circuit for every motion in the roadmap, and all
+of these circuits operate in parallel. In the same way that the brain uses
+parallel computation, so does our processor with the calculations needed for
+collision checking. Each motion has its own circuit for calculation,
+dramatically reducing the time required to check possible paths. It's true
+that having a larger roadmap with more motions requires more total circuitry,
+but by trading off silicon for time, we are able to render a very hard
+computational problem easy.
+
+## New efficiency, new opportunities
+
+For a roadmap with thousands of motions, prior techniques took multiple
+seconds and tens of Watts on typical processors. Even high-performance
+graphics processors took around a second and required hundreds of Watts. Our
+processor performs motion planning in less than 100 microseconds and using
+less than 10 Watts of power.
+
+Our performance is so much faster and more power-efficient than prior
+techniques that it opens up many new opportunities for robots and autonomous
+vehicles. For example, a robot in your home could one day be able to make you
+breakfast, even if the milk isn't always in exactly the same place, and even
+if it is in a refrigerator the robot's designers have never seen before. And
+autonomous cars could avoid suddenly appearing obstacles – like a box falling
+off the back of a truck – while taking into consideration all the possible
+future movements of the other cars on the road. Robot factories, which are now
+extremely expensive because they have to be very carefully built to ensure
+precise predictability, could, in the future, be designed to produce a wider
+variety of much cheaper goods.
+
+It may turn out that the robots of the future aren’t machines with a single
+very powerful computer in their heads – they’ll be more like machines with
+several, special-purpose circuits in their heads, optimized to solve the hard
+computational work of sensing and acting. Just like the brain.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

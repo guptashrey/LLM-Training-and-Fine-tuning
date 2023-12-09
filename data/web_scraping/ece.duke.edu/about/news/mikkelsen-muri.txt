@@ -1,0 +1,248 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Capturing All of Light’s Data in One Snapshot
+
+March 10, 2021 | By Ken Kingery
+
+Duke engineers to lead $7.5 million Department of Defense project to create a
+“super camera” that can capture and process a wide range of light’s properties
+
+Engineers at Duke University are leading a nationwide effort to develop a
+camera that takes pictures worth not just a thousand words, but an entire
+encyclopedia.
+
+Funded by a five-year, $7.5 million grant through the Department of Defense’s
+Multidisciplinary University Research Initiative (MURI) competition, the team
+will develop a “super camera” that captures just about every type of
+information that light can carry, such as polarization, depth, phase,
+coherence and incidence angle. The new camera will also use edge computing and
+hardware acceleration technologies to process the vast amount of information
+it captures within the device in real-time.
+
+Joining Duke on the new project are researchers from the California Institute
+of Technology, City University of New York, Harvard University, Stanford
+University and the University of Pennsylvania.
+
+> “It is hard to predict exactly where the biggest impact will be—but that is
+> also one of the exciting aspects about fundamental research."
+>
+> \- maiken mikkelsen
+
+“Detection of many of these properties of light have been demonstrated in the
+past to a limited degree, but multiple properties are rarely, if ever,
+captured simultaneously,” said Maiken Mikkelsen, the James N. and Elizabeth H.
+Barton Associate Professor of Electrical and Computer Engineering at Duke.
+“This idea—even the ability to pursue it—is really quite new and has the
+potential to revolutionize the sensing field.”
+
+Current cameras for advanced optical sensing typically can only focus on one
+property of light at a time and rely on bulky and costly scanning systems,
+which severely limits their usage. And even if they were capable of capturing
+more information, the computational processing power required to make sense of
+it all on-site would make them even bulkier.
+
+The new MURI team will exploit breakthroughs in the fields of metasurfaces,
+computational design, fundamental modal optics and information theory to
+create an imaging system that can handle both sensing and processing, while
+simultaneously streamlining its size and weight.
+
+The imaging side of the technology will be based on metasurfaces—flat devices
+that harness electromagnetic phenomena that occur due to the material’s
+structure rather than its chemistry. For example, Mikkelsen specializes in a
+field called photonics and makes nanostructures that boost electromagnetic
+activity by trapping light on tiny silver nanocubes that are placed near a
+thin layer of metal.
+
+In 2019, Mikkelsen demonstrated a plasmonic metasurface’s ability to capture
+six frequencies of light, ranging from infrared to ultraviolet, in a few
+trillionths of a second on a single inexpensive chip. The goal of that work
+was to create a small, inexpensive hyperspectral camera for applications such
+as cancer surgery, food safety inspection and precision agriculture.
+
+That work used multiple grid-like cells, each tailored to capture a specific
+frequency of light. While the new work might also use a cell-based approach,
+Mikkelsen says it could also use stacked layers, where each layer provides a
+specific function. But regardless of its configuration, the new imaging device
+will need to extend far beyond simply detecting different frequencies.
+
+“We will need to make some critical breakthroughs to be able to gather more of
+the information that is difficult to capture, such as coherence or depth,”
+said Mikkelsen “But that’s why we’ve put together such a fantastic team.”
+
+Working to develop new approaches to metasurface-enabled sensing are Mark
+Brongersma, professor of materials science and engineering at Stanford, and
+Federico Capasso, the Robert L. Wallace Professor of Applied Physics and
+Vinton Hayes Senior Research Fellow in Electrical Engineering at Harvard. And
+focusing on new nanophotonic detection concepts along with Mikkelsen will be
+Harry Atwater, the Howard Hughes Professor of Applied Physics and Materials
+Science at CalTech.
+
+As the team develops a thin, lightweight metasurface capable of capturing all
+of this information, they also need to develop new methods for quickly
+processing it on the same small device. For this, the researchers plan on
+turning to edge computing—the concept of performing processing locally rather
+than sending data to the cloud and back—and hardware acceleration, the idea of
+baking some of the processing directly into the hardware architecture. For
+example, a specific metasurface could extract the outline of an object to aid
+in object identification.
+
+Developing the theoretical framework and modeling to enable their edge
+computing ideas are Stanford’s Shanhui Fan, professor of electrical
+engineering and applied physics and director of the Edward L. Ginzton
+Laboratory, and David Miller, the W. M. Keck Professor of Electrical
+Engineering. Working on the front-end optical processing and computing
+challenge are Nader Engheta, the H. Nedwill Ramsey Professor of Electrical and
+Systems Engineering at Penn, and Andrea Alù, director of the Photonics
+Initiative at the CUNY Advanced Science Research Center, Einstein Professor of
+Physics at the CUNY Graduate Center and professor of electrical engineering at
+The City College of New York.
+
+Two international collaborators also provide valuable expertise and
+capabilities for computing metasurfaces and nanoscale optical characterization
+(Albert Polman, AMOLF, The Netherlands) and optical image processing, photonic
+neuromorphics, non-line-of-sight- and quantum- imaging (Daniele Faccio,
+University of Glasgow, UK).
+
+Put together, the project represents a new research frontier at the
+intersection of nanoscience, photonics and information science that will lay
+the foundation for advanced imaging in an on-chip platform critical for a
+range of DoD missions demanding ultra-small size, weight and power.
+
+“I am really excited to be able to work with this amazing dream team of world-
+leading scientists,” said Mikkelsen. “This support over a five-year period
+allows us to tackle bigger challenges and completely re-think how sensing and
+imaging could be done. It holds the potential for transformative breakthroughs
+for a wide variety of technologies, from defense, environmental and medical
+applications to consumer products.
+
+“It is hard to predict exactly where the biggest impact will be—but that is
+also one of the exciting aspects about fundamental research,” she said.
+
+## Related News
+
+November 25, 2019
+
+### Light-Trapping Nanocubes Drive Inexpensive Multispectral Camera
+
+October 15, 2019
+
+### Mikkelsen Wins Moore Inventor Fellowship to Pursue Hyperspectral Cameras
+
+March 05, 2015
+
+### Mikkelsen NSF CAREER Award to Support Quantum Photonics Research
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

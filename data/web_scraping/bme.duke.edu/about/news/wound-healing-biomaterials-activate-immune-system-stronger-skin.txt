@@ -1,0 +1,255 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Wound-Healing Biomaterials Activate Immune System for Stronger Skin
+
+November 9, 2020 | Michaela Kane
+
+New hydrogel triggers adaptive immune system, leading to improved tissue
+repair
+
+Researchers at Duke University and the University of California, Los Angeles,
+have developed a biomaterial that significantly reduces scar formation after
+wounding, leading to more effective skin healing. This new material, which
+quickly degrades once the wound has closed, demonstrates that activating an
+adaptive immune response can trigger regenerative wound healing, leaving
+behind stronger and healthier healed skin.
+
+This work builds on the team’s previous research with hydrogel scaffolds,
+which create a structure to support tissue growth, accelerating wound healing.
+In their new study, the team showed that a modified version of this hydrogel
+activates a regenerative immune response, which can potentially help heal skin
+injuries like burns, cuts, diabetic ulcers and other wounds that normally heal
+with significant scars that are more susceptible to reinjury.
+
+This research appears online on November 9, 2020 in the journal Nature
+Materials.
+
+“The body forms scar tissue as fast as possible to reduce the chance of
+infection, to reduce pain, and, in larger wounds, to avoid water loss through
+evaporation,” said Maani Archang, a first author on the paper and an MD/PhD
+student in the Scumpia and Di Carlo labs at UCLA. “It’s a natural process of
+wound healing.”
+
+Current wound-healing hydrogels available for clinical use sit on the surface
+of the wound, where they act as a dressing and help prevent the wound from
+drying out. That in turn helps the wound heal faster, generally via scar
+formation.
+
+In their 2015 Nature Materials paper, the research team, helmed by Duke’s
+Tatiana Segura and UCLA’s Dino Di Carlo, developed microporous annealed
+particle (MAP) hydrogels, which are a microparticle-based biomaterial that can
+integrate into the wound rather than sit on the skin’s surface. The beads
+within the MAP gel link together but leave open spaces, creating a porous
+structure that provides a support for cells as they grow across the wound
+site. As the wound closes, the gel slowly dissolves, leaving behind healed
+skin.
+
+Although the MAP hydrogels allowed for rapid cellular growth and faster
+repair, the team noticed that the healed skin had limited complex structures
+like hair follicles and sebaceous glands. The team was curious whether they
+could alter their biomaterial to improve the quality of the healed skin.
+
+“Previously we’d seen that as the wound started to heal, the MAP gel started
+to lose porosity, which limited how the tissue could grow through the
+structure,” says Don Griffin, an assistant professor at the University of
+Virginia who is a first author on the paper and a former postdoctoral fellow
+in the Segura Lab. “We hypothesized that slowing down the degradation rate of
+the MAP scaffold would prevent the pores from closing and provide additional
+support to the tissue as it grows, which would improve the tissue’s quality.”
+
+Rather than create an entirely new gel with new materials, the team instead
+focused on the chemical linker that allowed the scaffold to be naturally
+broken down by the body. In their original MAP gels, this chemical linker is
+composed of an amino acid sequence taken from the body’s own structural
+proteins and arranged in a chemical orientation called L chirality. Because
+this peptide sequence and orientation is common throughout the body, this
+helps the gel avoid triggering a strong immune response, but it also enables
+ready degradation through naturally present enzymes.
+
+“Our body has evolved to recognize and degrade this amino acid structure, so
+we theorized that if we flipped the structure to its mirror image, which is D
+chirality, the body would have a harder time degrading the scaffold,” said
+Segura, a professor of biomedical engineering at Duke. “But when we put the
+hydrogel into a mouse wound, the updated gel ended up doing the exact
+opposite.”
+
+The updated material integrated into the wound and supported the tissue as the
+wound closed. But instead of lasting longer, the team discovered that the new
+gel had almost entirely disappeared from the wound site, leaving behind just a
+few particles.
+
+However, the healed skin turned out to be stronger and included complex skin
+structures that are typically absent in scars. After further investigation,
+the researchers discovered that the reason for the stronger healing––despite
+the lack of longevity––was a different immune response to the gel.
+
+After a skin injury, the body’s innate immune response is immediately
+activated to ensure that any foreign substances that enter the body are
+quickly destroyed. If substances can escape this first immune response, the
+body’s adaptive immune response kicks in, which identifies and targets the
+invading material with more specificity.
+
+Because the original MAP gel was made with the common L peptide structure, it
+generated a mild innate immune response. But when the team placed the
+reformulated gel into a wound, the foreign D chirality activated the adaptive
+immune system, which created antibodies and activated cells including
+macrophages that targeted and cleared out the gel more quickly after the wound
+closed.
+
+“There are two types of immune responses that can occur after injury––a
+destructive response and a more mild regenerative response,” said Scumpia, an
+assistant professor in the division of dermatology at UCLA Health and the West
+Los Angeles VA Medical Center. “When most biomaterials are placed in the body,
+they are walled off by the immune system and eventually degraded or destroyed.
+But in this study, the immune response to the gel induced a regenerative
+response in the healed tissue.”
+
+“This study shows us that activating the immune system can be used to tilt the
+balance of wound healing from tissue destruction and scar formation to tissue
+repair and skin regeneration,” said Segura.
+
+Working with Maksim Plikus, a regenerative tissue expert at the University of
+California, Irvine, the team also confirmed that key structures, like hair
+follicles and sebaceous glands, were correctly forming over the scaffold. When
+the team dug into the mechanism, they found that the cells of the adaptive
+immune system are required for this regenerative response.
+
+As the team continues to study the regenerative immune response to their gel,
+they are also exploring the possibility of using the new MAP hydrogel as an
+immunomodulatory platform. “The team is now exploring the best way to release
+immune signals from the gel to either induce skin regeneration or develop the
+hydrogel as a vaccine platform,” said Scumpia.
+
+“I am excited about the possibility of designing materials that can directly
+interact with the immune system to support tissue regeneration” said Segura.
+“This is a new approach for us.”
+
+This work was supported by the National Institutes of Health
+(F32EB018713-01A1, T32-GM008042, U01AR073159), The National Science Foundation
+(DMS1763272), Simons Foundation Grants (594598, QN, R01NS094599, R01HL110592,
+R03AR073940, K08AR066545), the Pew Charitable Trust and the LEO Foundation.
+
+Donald Griffin, Westbrook Weaver, Dino Di Carlo, Tatiana Segura and Philip
+Scumpia have a financial interest in Tempo Therapeutics, which aims to
+commercialize MAP technology.
+
+CITATION: “Activating an Adaptive Immune Response From a Hydrogel Scaffold
+Imparts Regenerative Wound Healing,” Donald Griffin, Maani Archang, Chen Kuan,
+Westbrook Weaver, Jason Weinstein, An Chieh Feng, Amber Ruccia, Elias Sideris,
+Vasileios Ragkousis, Jaekyung Koh, Maksim Plikus, Dino Di Carlo, Tatiana
+Segura, Philip Scumpia. Nature Materials, 2020. 10.1038/s41563-020-00844-w
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

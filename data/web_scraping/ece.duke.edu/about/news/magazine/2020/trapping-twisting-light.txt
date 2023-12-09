@@ -1,0 +1,417 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. Areas of Concentration
+        3. Concentration in Machine Learning
+        4. Minor in ECE
+        5. Minor in Machine Learning & AI
+
+      3. For Applicants
+        1. Enrollment and Graduation Rates
+        2. Where Our Students Go
+        3. What's the difference between CS and ECE?
+
+      4. For Current Students
+        1. Courses
+        2. Innovations in Remote Learning
+        3. Independent Study
+        4. Senior Design
+        5. Graduation with Distinction
+        6. Awards and Honors
+
+      5. Research Experiences for Undergrads (REU)
+  * Master's
+    *       1. Overview
+      2. Degree Options
+        1. Master of Science (MS)
+        2. Master of Engineering (MEng)
+
+      3. Areas of Study
+        1. Software Development
+        2. Hardware Design
+        3. Data Analytics & Machine Learning
+        4. Quantum Computing
+        5. Microelectronics, Photonics & Nanotechnology
+        6. Design Your Own ECE Degree
+
+      4. Master's Admissions
+      5. Master's Career Outcomes
+      6. Life at Duke
+      7. Research Opportunities
+      8. Graduate Courses
+      9. Online Courses
+  * PhD
+    *       1. Overview
+      2. Degree Requirements
+      3. Academic Curricular Groups
+      4. PhD Admissions
+      5. Promoting an Inclusive Environment
+      6. Meet Our Students
+        1. PhD Awards and Honors
+
+      7. PhD Career Outcomes
+      8. Certificates & Training Programs
+      9. Graduate Courses
+      10. DEEP SEA Startup Accelerator
+      11. Career & Professional Services
+  * Faculty & Research
+    *       1. Overview
+        1. AI/Machine Learning
+        2. Metamaterials
+        3. Quantum Computing
+        4. Nanoelectronic Materials & Devices
+        5. Sensing & Imaging
+        6. Trustworthy Computing
+
+      2. Faculty Profiles
+      3. Awards & Recognition
+      4. Research News
+      5. Ask an Expert
+  * About
+    *       1. From the Chair
+      2. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke ECE Magazine
+
+      3. Events
+        1. Distinguished Speaker Series
+        2. Seminars
+
+      4. Facts & Stats
+      5. Mission & Vision
+      6. Diversity, Equity, Inclusion & Community
+      7. Entrepreneurship Success Stories
+      8. Meet Our Alumni
+      9. Industry Advisory Board
+
+# Trapping and Twisting Light for Tomorrow’s Technologies
+
+October 12, 2020 | Ken Kingery
+
+Two metamaterials researchers at Duke are manipulating light at the highest
+frequencies currently possible to enable applications such as precision
+agriculture and high-bandwidth communications
+
+The term “metamaterials” burst into the mainstream science news lexicon nearly
+15 years ago when a Duke-led research team made the world’s first invisibility
+cloak. Unable to help themselves from drawing parallels to Harry Potter and
+Star Trek, the national media quickly caught onto the story and thrust the
+emerging field into the limelight.
+
+It didn’t matter that the prototype device looked more like a steering wheel
+than a fashionable piece of clothing. It didn’t matter that it only worked in
+two dimensions. It didn’t matter that it only worked for microwaves, which are
+much larger and easier to control than visible light waves.  
+  
+A new field had been born.
+
+Fast forward 15 years and Duke is now home to a burgeoning metamaterials group
+dedicated to various niches within the field, all connected through the Center
+for Metamaterials and Integrated Plasmonics.
+
+And two of the group’s youngest members, Maiken Mikkelsen, the James N. and
+Elizabeth H. Barton Associate Professor of Electrical and Computer
+Engineering, and Natalia Litchinitser, professor of electrical and computer
+engineering, are manipulating some of the smallest waves to tackle some of the
+world’s biggest challenges from precision agriculture to breaking bandwidth
+limits.
+
+“I was working in Bell Laboratories on different types of photonic crystal
+fibers for telecommunications when papers in this new field called
+metamaterials started emerging,” said Litchinitser, referring to the early
+papers that led to the microwave cloaking device media storm. “I was truly
+fascinated by entirely new regimes of electromagnetic wave propagation in
+these new engineered materials. I started looking into the theory of light-
+matter interactions in metamaterials, first as a side research project, and
+soon moved to the University of Michigan to pursue metamaterials research
+fulltime.”
+
+“I started my PhD spending years studying single electron spins confined in
+nanostructures called quantum dots, which got me interested in controlling the
+behavior of light by designing and fabricating tiny structures,” said
+Mikkelsen. “I got deeply fascinated by how well-known materials behave in
+previously unimaginable ways when we design their surroundings, and in
+particular when we do this on a deeply subwavelength scale.”
+
+Maiken Mikkelsen
+
+Natalia Litchinitser
+
+## Small Waves, Big Challenges
+
+We rely on material properties every day. Styrofoam keeps coffee hot on the
+morning commute. Copper carries electricity to a car’s spark plugs. These
+properties arise due to the specific elements and arrangements of the atoms in
+a material.
+
+But structures can also give materials specific properties. A coil of copper
+wire with a magnet rotating inside will create an electric current, whereas a
+straight copper wire won’t. A smooth sheet of silver is reflective, while a
+surface coated with tiny silver spheres is black.
+
+The Greek preposition “meta” means “beyond,” so a metamaterial is a type of
+material engineered to have properties beyond those provided by nature. But to
+manipulate electromagnetic waves, these materials must have engineered
+features that are smaller than the light’s wavelength.
+
+It’s like looking at an image on a television screen. If each pixel was the
+size of a human eye, everybody would come out looking like a Mario Brother.
+But shrink them down by a factor of 10,000 to mere micrometers, and you can
+recreate every line, wrinkle and pore on a movie star’s face.
+
+In the invisibility cloak paper from 2006, researchers used microwaves because
+they can have wavelengths nearly a foot long. This made it easier to fabricate
+the individual pieces needed to control them on any benchtop.
+
+Mikkelsen and Litchinitser, however, are working with waves from the infrared
+to the visible spectrum, which can be only hundreds of nanometers long. While
+the two are taking different approaches to fabricating the miniscule features
+needed to work in this realm, their results are equally impressive.
+
+The Greek preposition “meta” means “beyond,” so a metamaterial is a type of
+material engineered to have properties beyond those provided by nature.
+
+## Trapping Light for Precision Agriculture
+
+Mikkelsen’s primary approach to fabricating structures small enough to
+manipulate infrared and optical waves boils down to two structures—sandwiches
+and nanocubes.
+
+“One of my primary lines of research is investigating how we can control light
+on small dimensions and, in particular, how we can create ‘hot-spots’ where
+the incoming light is squeezed into small volumes,” said Mikkelsen. “One very
+effective way of doing that is by creating a sandwich structure consisting of
+a thin, insulating layer in between nanocubes and a metal film.”
+
+The setup Mikkelsen is describing essentially uses nanoscale electromagnetic
+phenomena to “trap” light onto the surface of a metal nanocube in a form known
+as a plasmon. This is accomplished by fashioning silver cubes just a hundred
+nanometers wide and placing them only a few nanometers above a thin gold foil.
+When incoming light strikes the surface of a nanocube, it excites the silver's
+electrons, trapping the light's energy—but only at a certain frequency.
+
+The size of the silver nanocubes and their distance from the base layer of
+gold determines that frequency, while controlling the spacing between the
+nanoparticles allows tuning the strength of the absorption.
+
+By precisely tailoring these spacings, researchers can make the system absorb
+or emit any frequency of light they want.
+
+“It is challenging to experimentally realize control of critical dimensions
+below 10 nanometers in a reproducible fashion,” said Mikkelsen. “Our next
+challenge is then to demonstrate that the phenomena we observe in such
+structures can actually be used in real devices.”
+
+One such potential device Mikkelsen is pursuing is a compact, lightweight
+hyperspectral camera for precision agriculture. With the support of a Moore
+Inventor Fellowship, Mikkelsen is creating cameras with “superpixels” that
+consist of multiple smaller pixels, each tuned to absorb a different frequency
+of light.
+
+Such cameras can indicate the type of plant in a field and its
+condition—whether it needs water, is stressed or has low nitrogen content.
+This information could enable precision agriculture, allowing fertilizer,
+pesticides, herbicides and water to be applied only where needed, potentially
+reducing pollution while saving water and money.
+
+Imagine a hyperspectral camera mounted on a helicopter or drone mapping a
+field’s condition and transmitting that information to a tractor designed to
+deliver fertilizer or pesticides at variable rates across the fields. And
+because the approach could be implemented on a single chip, snap a
+multispectral image in a few trillionths of a second, and be produced and sold
+for just tens of dollars, Mikkelsen has lofty ambitions for her work.
+
+> “Imagine the impact not only in the United States, but also in low- and
+> middle-income countries where there are often shortages of fertilizer,
+> pesticides and water. By knowing where to apply those sparse resources, we
+> could increase crop yield significantly and help reduce starvation.”
+>
+> Maiken mikkelsen, Associate Professor, Duke ECE
+
+A new type of lightweight, inexpensive hyperspectral camera could enable
+precision agriculture. Different pixels can be tuned to specific frequencies
+of light that indicate the various needs of a crop field. By Maiken Mikkelsen
+and Jon Stewart
+
+## TWISTING LIGHT TO BREAK BANDWIDTH BOTTLENECKS
+
+Rather than building up metamaterials through thin-film sandwiches and
+precisely tailored nanocubes, Litchinitser typically takes various
+nanofabrication approaches to manufacturing her metamaterials.
+
+In the 2006 invisibility cloak paper, the metamaterial was created through
+grids of box-shaped cells with rings of copper wire embedded within each.
+While the details of Litchinitser’s metamaterials are much smaller—too small
+to even see with the naked eye—they also use repeating shapes and patterns to
+accomplish their goals.
+
+Etching patterns out of various substrates at the scales required to
+manipulate visible light is extremely difficult. Even the process typically
+used in manufacturing computer chips is not precise enough.
+
+“Sometimes we’ll use photolithography as a preliminary process but not as the
+primary tool,” said Litchinitser. “We often use electron beam lithography. But
+some jobs call for focused ion beam lithography machines.”
+
+In one of her primary lines of research, Litchinitser is working to
+dynamically switch the structure of a beam of light from a simple circular
+beam resembling water flowing through a tube to a vortex that looks more like
+water going down a drain or a tornado.
+
+As computers get more powerful and connected, their hunger for data is
+constantly demanding more from the technologies used to transmit it.
+
+Light-based optical fiber internet services from providers such as Google and
+AT&T are already replacing slower, outdated technologies based on electrons
+such as cable and DSL.
+
+Much of the difference in bandwidth, however, does not come from light’s
+ability to outrace electricity. Instead it comes from “multiplexing”
+techniques—the ability to encode data into multiple aspects of a light wave,
+such as its amplitude, wavelength and polarization. But the aspects that
+scientists are able to control are beginning to run out, as is the amount of
+room left to store data in the conventional properties of light.
+
+Litchinitser recently devised a metamaterial filter that enabled a vortex
+laser to be dynamically tuned to these five different orbital angular momentum
+modes or shapes
+
+To break through this barrier, engineers are exploring some of light’s harder-
+to-control properties, such as its orbital angular momentum (OAM). The results
+can be imagined as a swirling vortex of light.
+
+Tunable topological charge vortex microlaser developed by Litchinitser and the
+University of Pennsylvania's Liang Feng
+
+“I explain OAM to my classes by thinking about planets,” said Litchinitser.
+“Imagine a particle trapped by an optical beam with both spin and orbital
+momentum. Spin angular momentum makes a particle spinning on its axis like the
+Earth, which gives us night and day. At the same time, the particle rotates
+around the axis of the beam like the Earth rotates around the moving sun.”
+
+The first ultracompact “vortex” laser source was demonstrated in 2016 by
+Litchinitser and Liang Feng, associate professor of materials science and
+engineering and electrical and systems engineering at the University of
+Pennsylvania, while the two were both still at the University at Buffalo.
+Until recently, however, the technology lacked the ability to switch between
+multiple different vortex modes, making it impossible to multiplex with them.
+
+In a recent paper, however, Feng discovered a method to switch between three
+different orbital angular momentum (OAM) modes. Litchinitser devised a
+metamaterial filter that enabled further dynamical tunability of this
+microlaser, allowing it to demonstrate at least five different OAM modes. This
+new integrated optical source is likely to help optical communications devices
+carry five times as much data, or even more if the researchers can create
+versions of the technology with additional modes.
+
+The ability to dynamically tune OAM values could also enable a photonic update
+to a classic encryption technique: frequency hopping. By rapidly switching
+between OAM modes in a pre-defined sequence known only to the sender and
+receiver, optical communications could be made impossible to intercept.
+
+The sky is the limit for the improvements a dynamically tunable vortex laser
+could provide fields ranging from communications to computing. And
+Litchinitser is excited about pursuing them with her colleagues—just as long
+as the media doesn’t mistake the technology for a magic wand.
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * Areas of Concentration
+      * Concentration in Machine Learning
+      * Minor in ECE
+      * Minor in Machine Learning & AI
+    * For Applicants
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+      * What's the difference between CS and ECE?
+    * For Current Students
+      * Courses
+      * Innovations in Remote Learning
+      * Independent Study
+      * Senior Design
+      * Graduation with Distinction
+      * Awards and Honors
+    * Research Experiences for Undergrads (REU)
+  * Master's
+    * Overview
+    * Degree Options
+      * Master of Science (MS)
+      * Master of Engineering (MEng)
+    * Areas of Study
+      * Software Development
+      * Hardware Design
+      * Data Analytics & Machine Learning
+      * Quantum Computing
+      * Microelectronics, Photonics & Nanotechnology
+      * Design Your Own ECE Degree
+    * Master's Admissions
+    * Master's Career Outcomes
+    * Life at Duke
+    * Research Opportunities
+    * Graduate Courses
+    * Online Courses
+  * PhD
+    * Overview
+    * Degree Requirements
+    * Academic Curricular Groups
+    * PhD Admissions
+    * Promoting an Inclusive Environment
+    * Meet Our Students
+      * PhD Awards and Honors
+    * PhD Career Outcomes
+    * Certificates & Training Programs
+    * Graduate Courses
+    * DEEP SEA Startup Accelerator
+    * Career & Professional Services
+  * Faculty & Research
+    * Overview
+      * AI/Machine Learning
+      * Metamaterials
+      * Quantum Computing
+      * Nanoelectronic Materials & Devices
+      * Sensing & Imaging
+      * Trustworthy Computing
+    * Faculty Profiles
+    * Awards & Recognition
+    * Research News
+    * Ask an Expert
+  * About
+    * From the Chair
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke ECE Magazine
+    * Events
+      * Distinguished Speaker Series
+      * Seminars
+        * Past Seminars
+    * Facts & Stats
+    * Mission & Vision
+    * Diversity, Equity, Inclusion & Community
+    * Entrepreneurship Success Stories
+    * Meet Our Alumni
+    * Industry Advisory Board
+

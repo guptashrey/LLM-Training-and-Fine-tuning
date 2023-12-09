@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Recovering Color Images from Scattered Light
+
+July 29, 2019 | By Ken Kingery
+
+New technique non-invasively separates spectral bands from scattered light
+
+Engineers at Duke University have developed a method for extracting a color
+image from a single exposure of light scattered through a mostly opaque
+material. The technique has applications in a wide range of fields from
+healthcare to astronomy.
+
+The study appeared online on July 9 in the journal Optica.
+
+“Others have been able to reconstruct color images from scattered light, but
+those methods had to sacrifice spatial resolution or required prior
+characterization of the scatterer in advance, which frequently isn’t
+possible,” said Michael Gehm, associate professor of electrical and computer
+engineering at Duke. “But our approach avoids all those issues.”
+
+When light is scattered as it passes through a translucent material, the
+emerging pattern of “speckle” looks as random as static on a television screen
+with no signal. But it isn’t random. Because the light coming from one point
+of an object travels a path very similar to that of the light coming from an
+adjacent point, the speckle pattern from each looks very much the same, just
+shifted slightly.
+
+With enough images, astronomers used to use this “memory effect” phenomenon to
+create clearer images of the heavens through a turbulent atmosphere, as long
+as the objects being imaged were sufficiently compact.
+
+While the technique fell out of favor with the development of adaptive optics,
+which do the same job by using adjustable mirrors to compensate for the
+scattering, it has recently became popular once again. Because modern cameras
+can record hundreds of millions of pixels at a time, only a single exposure is
+needed to make the statistics work.
+
+While this approach can reconstruct a scattered image, it has limitations in
+the realm of color. The speckle patterns created by different wavelengths are
+typically impossible to disentangle from one another.
+
+The new memory effect imaging approach developed by the authors Xiaohan Li, a
+PhD student in Gehm’s lab, Joel Greenberg, associate research professor of
+electrical and computer engineering, and Gehm breaks through this limitation.
+
+The trick is to use a coded aperture followed by a prism. A coded aperture is
+basically a filter that allows light to pass through some areas but not others
+in a specific pattern. After the speckle is “stamped” by the coded aperture,
+it passes through a prism that causes different frequencies of light to spread
+out from each other.
+
+This causes the pattern from the coded aperture to shift slightly in relation
+to the image being captured by the detector. And the amount it shifts is
+directly related to the color of light passing through.
+
+“This shift is small compared to the overall size of what’s being imaged, and
+because our detector is not sensitive to color, it creates a messy
+combination,” said Li. “But the shift is enough to give our algorithm a
+toehold to tease the individual speckle patterns apart from each color, and
+from that we can figure out what the object looks like for each color.”
+
+The researchers show that, by focusing on five spectral channels corresponding
+to violet, green and three shades of red, the technique can reconstruct a
+letter “H” full of nuanced pinks, yellows and blues. Outside of this difficult
+proof-of-principle, the researchers believe their approach could find
+applications in fields such as astronomy and healthcare.
+
+In astronomy, the color content of the light coming from astronomical
+phenomena contains valuable information about its chemical composition, and
+speckle is often created as light is distorted by the atmosphere. Similarly in
+healthcare, color can tell researchers something about the molecular
+composition of what’s being imaged, or it can be used to identify biomolecules
+that have been tagged with fluorescent markers.
+
+“There are a lot of applications where people really want to know how much
+energy there is in specific spectral bands emitted from objects located behind
+opaque occlusions,” said Greenberg. “We’ve shown that this approach can
+accomplish this goal across the visible spectrum. Knowing the aperture pattern
+and how much it shifts as a function of wavelength provides the key we need to
+disentangle the messy sum into separate channels.”
+
+This research was supported by the Defense Advanced Research Projects Agency
+(HR0011-16-C-0027).
+
+CITATION: “Single shot multi-spectral imaging through a thin scatterer,”
+Xiaohan Li, Joel A. Greenberg, and Michael E. Gehm. Optica, July, 2019. DOI:
+10.1364/OPTICA.6.000864
+
+## Related News
+
+September 27, 2018
+
+### Decoding Multiple Frames from a Single, Scattered Exposure
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

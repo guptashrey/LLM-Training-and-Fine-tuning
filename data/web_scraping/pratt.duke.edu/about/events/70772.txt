@@ -1,0 +1,169 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# MEMS SEMINAR: The Future of Governing Equations
+
+Apr 12
+
+##
+
+Wednesday, April 12, 2023 - 12:00pm to 1:00pm
+
+Fitzpatrick Center Schiciano Auditorium Side B, room 1466
+
+Add to calendar »
+
+## Presenter
+
+Nathan Kutz
+
+Abstract: A major challenge in the study of dynamical systems is that of model
+discovery: turning data into reduced order models that are not just
+predictive, but provide insight into the nature of the underlying dynamical
+system that generated the data. We introduce a number of data-driven
+strategies for discovering nonlinear multiscale dynamical systems and their
+embeddings from data. We consider two canonical cases: (i) systems for which
+we have full measurements of the governing variables, and (ii) systems for
+which we have incomplete measurements. For systems with full state
+measurements, we show that the recent sparse identification of nonlinear
+dynamical systems (SINDy) method can discover governing equations with
+relatively little data and introduce a sampling method that allows SINDy to
+scale efficiently to problems with multiple time scales, noise and parametric
+dependencies. For systems with incomplete observations, we show that the
+Hankel alternative view of Koopman (HAVOK) method, based on time-delay
+embedding coordinates and the dynamic mode decomposition, can be used to
+obtain a linear models and Koopman invariant measurement systems that nearly
+perfectly captures the dynamics of nonlinear quasiperiodic systems. Neural
+networks are used in targeted ways to aid in the model reduction process.
+Together, these approaches provide a suite of mathematical strategies for
+reducing the data required to discover and model nonlinear multiscale systems.
+Nathan Kutz is the Yasuko Endo and Robert Bolles Professor of Applied
+Mathematics and Electrical and Computer Engineering and Director of the AI
+Institute in Dynamic Systems at the University of Washington, having served as
+chair of applied mathematics from 2007-2015. He received the BS degree in
+physics and mathematics from the University of Washington in 1990 and the Phd
+in applied mathematics from Northwestern University in 1994. He was a postdoc
+in the applied and computational mathematics program at Princeton University
+before taking his faculty position. He has a wide range of interests,
+including neuroscience to fluid dynamics where he integrates machine learning
+with dynamical systems and control. Host: Dr. Boyuan Chen
+
+## Contact
+
+Gray, Shauntil  
+919-660-5310  
+shauntil.gray@duke.edu
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

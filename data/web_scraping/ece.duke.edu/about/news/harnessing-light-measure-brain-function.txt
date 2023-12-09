@@ -1,0 +1,209 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Harnessing Light to Measure Brain Function
+
+September 3, 2021
+
+A portable optical tool promises to make surgical planning easier and less
+invasive for children who need surgery for epilepsy
+
+The original version of this story appeared on the Giving to Duke Health site.
+
+Roarke Horstmeyer, PhD, assistant professor of biomedical engineering at Duke
+University, is one of 12 investigators representing 10 institutions selected
+to receive a 2020 Hartwell Individual Biomedical Research Award. His proposed
+research aims to further develop the new device.
+
+One centimeter doesn’t seem very deep. But when you’re talking about shining
+light into the brain, it might as well be 20 leagues under the sea, Horstmeyer
+explains. Brain tissue scatters the light, obscuring the view.
+
+“You can imagine putting a flashlight up to your hand then looking across the
+room,” he says. “The light is dim, you can’t crank up the light too much
+because otherwise it would damage the tissue.”
+
+Horstmeyer has invented processes that enable him to control light deeper in
+brain tissue (a centimeter or two beneath the skull), and has turned this
+technology into a new, non-invasive device for mapping crucial areas of the
+brain.
+
+The ultimate goal is to accurately map brain function with a test that is as
+simple and non-invasive as shining a light on the surface of the head.
+
+Success could help improve outcomes for children with refractory epilepsy.
+Epilepsy affects about 470,000 children in the United States, and about one
+third of those don’t respond to medication and need surgery to provide relief
+from seizures.
+
+Success of surgery depends on precise mapping of brain areas that control
+vital functions such as speech and movement. Currently, non-invasive mapping
+is performed through Functional magnetic resonance imaging (fMRI), which
+requires lying relatively still in a noisy machine for anywhere from 10 to 45
+minutes while performing tasks such as filling in sentences or tapping fingers
+together.
+
+But anyone who has young children (including Horstmeyer, who has 18-month old
+and 3-week old daughters at home) knows that it’s hard for them to sit still
+for very long.
+
+If Horstmeyer’s portable, non-invasive device is just as accurate at measuring
+brain function as fMRI, it could enable children with epilepsy to undergo
+accurate surgical planning and have surgery at a much younger age, which would
+likely lead to better outcomes, he says.
+
+The device uses a very sensitive optical sensor called a single photon
+avalanche diode array. One of these sensors answers a basic question in minute
+detail—has a photon of light arrived at one single point, or not?
+
+Measuring single photons at one tiny point of light doesn’t tell you much, but
+measuring at thousands of points can, Horstmeyer says. These sensors have been
+around for a while, but only recently have manufacturers been making them in
+large arrays. “You can have thousands or millions of these detectors all in a
+little tiny chip,” he says. This array technology will soon be used in next-
+generation smartphones and tablets, and they are already being used in self-
+driving cars.
+
+Horstmeyer’s innovation is putting such a chip into a small probe, configuring
+the sensors, and writing algorithms to process the data so that he can create
+images and eventually video showing how small changes in blood flow scatter
+light.
+
+Horstmeyer’s team has tested the device in adults in the lab, and the results
+were promising. Now he will test it for the first time with children in the
+clinic, thanks to The Hartwell Foundation grant of $300,000 over three years.
+
+The probe itself is as small as a flashlight, but it is connected to two boxes
+with fiber optic cables for sending and receiving signals and will be wheeled
+to the clinic on a cart, much like portable ultrasound machines.
+
+Horstmeyer’s team will conduct tests of brain function with 16 children who
+are having pre-surgical evaluation for refractory epilepsy, using the new
+device as well as fMRI, to then compare with the resulting measurements.
+
+The tests to validate the accuracy of his new device as well as refine the
+portable setup for real-world clinical conditions wouldn’t be possible without
+the Hartwell Grant, Horstmeyer says.
+
+Collaborators Muhammad Zafar, MD, MBBS, Assistant Professor of Pediatrics, and
+Melanie Bonner, PhD, Child Clinical Psychologist and Professor in Psychiatry
+and Behavioral Sciences, will play a crucial role in providing their clinical
+expertise for the tests.
+
+For each of the last 15 years, The Hartwell Foundation has provided financial
+support of innovative, early-stage biomedical research with the potential to
+benefit children of the United States.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

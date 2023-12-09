@@ -1,0 +1,278 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2022
+
+# Duke Takes a Quantum Leap
+
+April 1, 2022 | By Vinnessa Van
+
+The Duke Quantum Center has the excitement of a startup and the ambition to
+match as it races to compete with the likes of Google and IBM
+
+The Duke Quantum Center (DQC) is dedicated to research and design in quantum
+information processing. It is located in downtown Durham’s Chesterfield
+building—a renovated tobacco factory that houses multiple labs and a state-of-
+the-art quantum computer. Research at the DQC covers quantum modular computer
+scaling, computer components and design, error correction, and applications.
+
+Chris Monroe, professor of ECE and physics and director of the Quantum
+Information Center, said, “Our technology is based on individual atoms that
+are levitated above a chip in a vacuum chamber and we poke them with a laser
+beam. That’s our computer!” While the history of computers is rooted in
+silicon and solid-state physics, this technology avoids the microscopic
+variations unacceptable in quantum processing by relying on the atom, the one
+thing void of manufacturing discrepancies.
+
+Quantum is a new frontier that many universities and industry giants such as
+Google and IBM are racing to pioneer. Monroe and Jungsang Kim, also a
+professor of ECE and physics, are the founders of IonQ, the first publicly
+traded, pure-play quantum computing company. In a field with such powerful
+competitors, what makes up that Duke difference?
+
+“Most universities and researchers are focused on a single component, but
+Jungsang decided it was time to move on from the component to the system,”
+explained Monroe. “Building a system isn’t typically done in universities.
+This is where Duke is unique. We build systems and use those systems to do
+science. And that does belong at a university.” Monroe is referencing the
+center’s “full stack approach,” which consists of designing every aspect of
+the quantum information stack, from the atom to the algorithms.
+
+According to ECE Professor Ken Brown, an advantage of the full stack approach
+is optimization. Alone, if we were to change a component in one sector, it may
+be less efficient. However, if we change something small in multiple places,
+the system can become more efficient overall.
+
+## Why Quantum
+
+In such a new and dynamic field, it is natural to see students flock to
+quantum. Franklin Bo-ampong (‘22 ECE/CS) worked in Brown’s lab in 2019 and
+teaches the Introduction to Quantum Computing House Course with his fellow
+Duke Quantum Information Society members, or DuQis.
+
+Being from Ghana, Boapong wanted to build a device to help farmers but needed
+a way to connect his device to farmers without a stable internet connection.
+When he brought up this problem, Brown informed him that quantum computers
+could not directly solve this problem, but by joining the research group he
+would gain skills that could be applied to any problem. While many view
+quantum as the end-all, be-all for technology, Monroe is more cautious. “This
+field has a lot of hype in it,” he said. “Quantum computing may not be a
+panacea, and it may not solve every type of problem. But it will solve certain
+problems.”
+
+While quantum computing seems like a distant reality that has only been
+theorized, Brown finds that the work being done at the university and in the
+rest of the field is a beacon that shows engineering students in particular
+that quantum computing has arrived.
+
+## Barriers to Entry
+
+Quantum presents some unique challenges. A common conception surrounding the
+field is that the classical language we usually use is not suited to describe
+quantum phenomena and that the only language suitable is pure math. Monroe
+agrees that not having analogies does make quantum confusing, but explains
+that the math in quantum isn’t different. “It’s a plain ‘ole wave equation, no
+harder than water waves or plucking a guitar string and the fundamentals,”
+Monroe said. “And you usually learn that in one of your first engineering or
+physics courses.”
+
+Even if you are lacking in the math department, professors like Brown are
+often happy to take on students who don’t yet have that skill but are willing
+to work on the lasers or vacuum chambers. In other words, students who are
+willing to build up more mechanical, technical and experimental skills.
+
+## Preparing Students for a Career in Quantum
+
+So how is Duke preparing Pratt stars for a career in quantum? It starts with
+creating a strong foundation. From Boampong’s experience, the prerequisite
+classes at Duke prepare you to understand the basics and math behind quantum
+computing by teaching the foundations with linear algebra, quantum mechanics,
+optics and electromagnetism. Once you have the background, there are
+opportunities for students who want to dive into quantum such as ECE 420:
+Introduction to Quantum Engineering, taught by Brown.
+
+“I created the course because I talked to a lot of quantum computing
+companies,” Brown said. “They all would love to have engineers—mechanical
+engineers, electrical engineers, chemical engineers, material scientists—that
+need to know just a little bit of quantum so that they have a better
+understanding of the quantum constraints.”
+
+Outside of the classroom, the DQC provides opportunities for hands-on
+experience. “I always hire as many undergrads as I can until my graduate
+students revolt,” Brown quipped. “And that ratio is about three graduates to
+one undergrad.” Those at the DQC want to give undergrads the opportunity to
+work on the state-of-the-art quantum computer and find that they often bring a
+unique perspective and set of skills.
+
+## Interdisciplinary and Collaborative Culture
+
+From making the quantum computer to using it, the center embraces Duke’s
+interdisciplinary culture. On the design side, Brown says he appreciates
+people bringing their disciplinary knowledge to an interdisciplinary problem.
+“One thing we forget is that something that you find challenging, people in
+another discipline find very easy,” Brown said.
+
+When the quantum computer is running, the DQC is often approached by people
+from all kinds of backgrounds: finance, molecular design, drug discovery, oil
+and gas, and even cosmology. “They come to us because we can test some of
+these basic ideas with a small quantum computer,” Mon-roe said.
+
+The environment at the DQC is also described as collaborative, where, as
+Boampong puts it, you can ask anybody any question. For example, Brown recalls
+a graduate student saying, “I can’t tell the difference between students who
+are in the Kim lab and students in the Brown lab.” Brown commends the design
+of the center, because of how much great space there is to sit at a whiteboard
+outside of the office or talk to each other in a small conference room.
+
+## A Unified Vision
+
+Another sentiment that is expressed by those at the center is the feeling of
+unity and support by both Duke and Duke Engineering. “Duke is unified top to
+bottom in this vision,” Monroe said. “Not just the departments, but the deans
+all the way up to the president are excited about this vision. At Duke, we’re
+moving so much faster because we’ve decided the direction we’re going to go
+and we’re going to push it to the limit. We also happen to have the winning
+technology, and that doesn’t hurt. From a high level, what sets us apart from
+the others is the strong bond between science and engineering at Duke,
+initiated by Jungsang Kim many years ago." Kim has been with Pratt since 2013
+and over the years has unified his collaborators at Duke.
+
+## The Next Steps
+
+So what’s next for the Duke Quantum Center? The environment in the
+Chesterfield building feels like that of a startup—exciting and rapidly
+growing. Recently, the teams have rehoused the quantum computer after a move
+and are already working on getting a second one up and running. While the
+building is new, faculty and students have already expressed a desire for more
+space. The DQC has already filled the labs, the quantum community is expanding
+rapidly, and it’s only going to get bigger.
+
+**Vinnessa Van is a sophomore majoring in mechanical engineering, minoring in
+physics and pursuing the aerospace certificate.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2022
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

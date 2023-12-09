@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Supercomputer Predicts Optical and Thermal Properties of Complex Hybrid
+Materials
+
+October 8, 2018 | By Ken Kingery
+
+Computational models of layered hybrid perovskites open new material design
+space for light-based applications such as LEDs and water purification
+
+Materials scientists at Duke University computationally predicted the
+electrical and optical properties of semiconductors made from extended organic
+molecules sandwiched by inorganic structures.
+
+These types of so-called layered “hybrid organic-inorganic perovskites”—or
+HOIPs—are popular targets for light-based devices such as solar cells and
+light-emitting diodes (LEDs). The ability to build accurate models of these
+materials atom-by-atom will allow researchers to explore new material designs
+for next-generation devices.
+
+The results appeared online on October 4 in Physical Review Letters.
+
+“Ideally we would like to be able to manipulate the organic and inorganic
+components of these types of materials independently and create semiconductors
+with new, predictable properties,” said David Mitzi, the Simon Family
+Professor of Mechanical Engineering and Materials Science at Duke. “This study
+shows that we are able to match and explain the experimental properties of
+these materials through complex supercomputer simulations, which is quite
+exciting.”
+
+HOIPs are a promising class of materials because of the combined strengths of
+their constituent organic and inorganic pieces. Organic materials have more
+desirable optical properties and may be bendable, but can be ineffective at
+transporting electrical charge. Inorganic structures, on the other hand, are
+typically good at conducting electricity and offer more robust mechanical
+strength.
+
+Combining the two can affect their individual properties while creating hybrid
+materials with the best of both worlds. Understanding the electronic and
+atomic-scale consequences of their interaction, however, is challenging at
+best, since the resulting crystals or films can be structurally complex. But
+because these particular HOIPs have their organic and inorganic components in
+well-ordered layers, their structures are somewhat easier to model, and
+researchers are now beginning to have success at computationally predicting
+their behaviors on an atomic level.
+
+“The computational approach we used has rarely been applied to structures of
+this size,” said Volker Blum, associate professor of mechanical engineering
+and materials science and of chemistry at Duke. “We couldn’t have done it even
+just 10 years ago. Even today, this work would not have been possible without
+access to one of the fastest supercomputers in the world.”
+
+That supercomputer—dubbed Theta—is currently the 21st fastest in the world and
+resides at Argonne National Laboratory. The group was able to gain time on the
+behemoth through Blum securing one of only a dozen Theta Early Science
+Projects, aimed at paving the way for other applications to run on the system
+first launched in late 2017. They are now co-investigators on one of
+Department of Energy's prestigious "Innovative and Novel Computational Impact
+on Theory and Experiment" (INCITE) awards, enabling them to continue their
+work.
+
+In the new study, Chi Liu, a graduate student in Blum’s laboratory; Yosuke
+Kanai, a fellow theorist at the University of North Carolina – Chapel Hill;
+and Alvaro Vazquez-Mayagoitia, a scientist at Argonne National Laboratory,
+used Theta’s computational power to model the electronic states within a
+layered HOIP first synthesized by Mitzi more than a decade ago. While the
+electrical and optical properties of the material are well-known, the physics
+behind how they emerge have been much debated.
+
+The team has now settled the debate.
+
+> “By using the same type of computation, we can now try to predict the
+> properties of similar materials that do not yet exist. We can fill in the
+> components and, assuming that the structure doesn’t change radically,
+> provide promising targets for materials scientists to pursue." - David Mitzi
+
+In a series of computational models, the team calculates the electronic states
+and localizes the valence band and conduction band of the HOIP’s constituent
+materials, the organic bis(aminoethyl)-quaterthiophene (AE4T) and the
+inorganic lead bromide (PbBr4). These properties dictate how electrons travel
+through and between the two materials, which determines the wavelengths and
+energies of light it absorbs and emits, among other important properties such
+as electrical conduction.
+
+The results showed that the team's computations and experimental observations
+match, proving that the computations can accurately model the behaviors of the
+material.
+
+Liu then went further by tweaking the materials—varying the length of the
+organic molecular chain and substituting chlorine or iodine for the bromine in
+the inorganic structure—and running additional computations. On the
+experimental side, Mitzi and collaborator Wei You, professor of chemistry and
+applied physical sciences at the University of North Carolina – Chapel Hill,
+are working on the difficult task of synthesizing these variations to further
+verify their colleagues' theoretical models.
+
+The work is part of a larger initiative called the HybriD3 project aimed at
+discovering and fine-tuning new functional semiconductor materials. The
+collaborative effort features a total of six teams of researchers. Joining
+those researchers located at Duke University and the University of North
+Carolina at Chapel Hill, professors Kenan Gundogdu and Franky So at North
+Carolina State University are working to further characterize the materials
+made in the project, as well as exploring prototype light-emitting devices.
+
+“By using the same type of computation, we can now try to predict the
+properties of similar materials that do not yet exist,” said Mitzi. “We can
+fill in the components and, assuming that the structure doesn’t change
+radically, provide promising targets for materials scientists to pursue.”
+
+This ability will allow scientists to more easily search for better materials
+for a wide range of applications. For this particular class of materials, that
+includes lighting and water purification.
+
+Inorganic light sources are typically surrounded by diffusers to scatter and
+soften their intense, concentrated light, which leads to inefficiencies. This
+class of layered HOIPs could make films that achieve this more naturally while
+wasting less of the light. For water purification, the material could be
+tailored for efficient high-energy emissions in the ultraviolet range, which
+can be used to kill bacteria.
+
+“The broader aim of the project is to figure out the material space in this
+class of materials in general, well beyond the organic thiophene seen in this
+study,” said Blum. “The key point is that we’ve demonstrated we can do these
+calculations through this proof of concept. Now we have to work on expanding
+it.”
+
+This work was supported by the National Science Foundation (DMR-1729297,
+DMR-1728921, DMR-11-21107) and the Department of Energy (DE-AC02-06CH11357).
+
+CITATION: “Tunable Semiconductors: Control Over Carrier States and Excitations
+in Layered Hybrid Organic-Inorganic Perovskites.” Chi Liu, William Huhn, Ke-
+Zhao Du, Alvaro Vazquez-Mayagoitia, David Dirkes, Wei You, Yosuke Kanai, David
+B. Mitzi and Volker Blum. Phys. Rev. Lett., 121, 146401, 2018. DOI:
+10.1103/PhysRevLett.121.146401
+
+Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.146401
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

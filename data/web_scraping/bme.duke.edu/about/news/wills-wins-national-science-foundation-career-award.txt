@@ -1,0 +1,192 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Wills Wins National Science Foundation CAREER Award
+
+February 9, 2021 | By Ken Kingery
+
+Prestigious five-year award will help develop fundamental building blocks
+enabling more developers to take advantage of hardware-accelerated systems
+
+Lisa Wu Wills, the Clare Boothe Luce Assistant Professor of Computer Science
+and Electrical and Computer Engineering at Duke University, has been awarded a
+prestigious National Science Foundation Faculty Early Career Development
+(CAREER) Award. The award supports outstanding young faculty members in their
+efforts to build a successful research enterprise.
+
+For the next five years, the $500,000 award will support Wills’s ambitious
+goals of developing a new execution paradigm that decomposes algorithms into
+coarse-grained operators instead of traditional execution work units such as
+instructions. This new execution paradigm will describe how and what portions
+of applications can be accelerated and executed on a hardware-accelerated
+system.
+
+Since the digital revolution began decades ago, progress in computational
+power has roughly followed Moore’s Law—the prediction that the number of
+transistors on a silicon chip will double every two years. Due to physical
+constraints in just how small transistors can be made and the heat they
+generate, however, that period of exponential growth is coming to an end.
+
+To overcome these physical limits of computational speed, many researchers are
+turning to specially designed hardware accelerators. While most every computer
+processor is designed to be generally adaptable to any task a programmer can
+imagine, custom hardware is tailor-made to execute a set of algorithms more
+efficiently. Though this pigeonholes them into a specific domain, it also
+improves their efficiency and speed tremendously.
+
+“Hardware specialization is the next necessary step to meet the computational
+demands of modern applications systems from data centers to mobile devices,”
+said Wills. “Developing and using hardware accelerators and accelerated
+systems, however, is extremely challenging. And the problem is exacerbated by
+a lack of open hardware components and intellectual property in the field. My
+goal is to provide these open access tools to help developers create and
+deploy highly efficient hardware-accelerated systems.”
+
+The path forward being pursued by Wills is based on what she’s termed Domain-
+Specific Primitives, or DSPs. These are essentially coarse granular units of
+computational algorithms that describe portions of applications that can be
+accelerated and executed on a hardware-accelerated system. By creating a
+library of potential hardware replacements that correspond to certain
+algorithmic functions commonly found in software code, Wills plans to provide
+computer scientists and programmers new powerful tools to use when designing
+their algorithms. These DSPs can be used by software compilers, programmers,
+and hardware development designers to compose, program, develop and optimize
+domain-specific, hardware-accelerated systems in a systematic fashion.
+
+The proposed DSPs can be applied to many domains to solve open problems in the
+interdisciplinary areas of computer architecture and healthcare to advance
+fields that bring direct impacts to human flourishing, such as machine
+learning, cancer research and drug discovery.
+
+On top of the fundamental research goals, the grant will also allow Wills to
+create undergraduate courses that teach the concepts behind DSPs and how they
+are applied to accelerate systems as well as similar efforts in Duke’s
+innovative summer Data+, CS+ and Code programs. It will also support hands-on
+tutorials at top-tier computational architecture conferences to teach
+audiences how to develop and deploy example hardware-accelerated systems in
+the cloud.
+
+“The result of this project will be a transformative realization in highly
+performant, highly efficient and highly productive development of hardware-
+accelerated systems that are easy to use,” said Wills.
+
+## Related News
+
+September 04, 2019
+
+### Lisa Wu Wills: Designing Custom Processors to Accelerate Health Care
+Research
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

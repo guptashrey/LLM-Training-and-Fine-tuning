@@ -1,0 +1,208 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Artificial Intelligence Singles Out Neurons Faster Than a Human Can
+
+April 12, 2019
+
+Deep-learning algorithm maps active neurons as accurately as humans in a
+fraction of the time
+
+Biomedical engineers at Duke University have developed an automated process
+that can trace the shapes of active neurons as accurately as human researchers
+can, but in a fraction of the time.
+
+This new technique, based on using artificial intelligence to interpret video
+images, addresses a critical roadblock in neuron analysis, allowing
+researchers to rapidly gather and process neuronal signals for real-time
+behavioral studies.
+
+The research appeared this week in the Proceedings of the National Academy of
+Sciences.
+
+To measure neural activity, researchers typically use a process known as two-
+photon calcium imaging, which allows them to record the activity of individual
+neurons in the brains of live animals. These recordings enable researchers to
+track which neurons are firing, and how they potentially correspond to
+different behaviors.
+
+While these measurements are useful for behavioral studies, identifying
+individual neurons in the recordings is a painstaking process. Currently, the
+most accurate method requires a human analyst to circle every ‘spark’ they see
+in the recording, often requiring them to stop and rewind the video until the
+targeted neurons are identified and saved. To further complicate the process,
+investigators are often interested in identifying only a small subset of
+active neurons that overlap in different layers within the thousands of
+neurons that are imaged.
+
+This process, called segmentation, is fussy and slow. A researcher can spend
+anywhere from four to 24 hours segmenting neurons in a 30-minute video
+recording, and that’s assuming they’re fully focused for the duration and
+don’t take breaks to sleep, eat or use the bathroom.
+
+In contrast, a new open source automated algorithm developed by image
+processing and neuroscience researchers in Duke’s Department of Biomedical
+Engineering can accurately identify and segment neurons in minutes.
+
+“As a critical step towards complete mapping of brain activity, we were tasked
+with the formidable challenge of developing a fast automated algorithm that is
+as accurate as humans for segmenting a variety of active neurons imaged under
+different experimental settings,“ said Sina Farsiu, the Paul Ruffin
+Scarborough Associate Professor of Engineering in Duke BME.
+
+“The data analysis bottleneck has existed in neuroscience for a long time --
+data analysts have spent hours and hours processing minutes of data, but this
+algorithm can process a 30-minute video in 20 to 30 minutes,” said Yiyang
+Gong, an assistant professor in Duke BME. “We were also able to generalize its
+performance, so it can operate equally well if we need to segment neurons from
+another layer of the brain with different neuron size or densities.”
+
+“Our deep learning-based algorithm is fast, and is demonstrated to be as
+accurate as (if not better than) human experts in segmenting active and
+overlapping neurons from two-photon microscopy recordings,” said Somayyeh
+Soltanian-Zadeh, a PhD student in Duke BME and first author on the paper.
+
+Deep-learning algorithms allow researchers to quickly process large amounts of
+data by sending it through multiple layers of nonlinear processing units,
+which can be trained to identify different parts of a complex image. In their
+framework, this team created an algorithm that could process both spatial and
+timing information in the input videos. They then ‘trained’ the algorithm to
+mimic the segmentation of a human analyst while improving the accuracy.
+
+The advance is a critical step towards allowing neuroscientists to track
+neural activity in real time. Because of their tool’s widespread usefulness,
+the team has made their software and annotated dataset available online.
+
+Gong is already using the new method to more closely study the neural activity
+associated with different behaviors in mice. By better understanding which
+neurons fire for different activities, Gong hopes to learn how researchers can
+manipulate brain activity to modify behavior.
+
+“This improved performance in active neuron detection should provide more
+information about the neural network and behavioral states, and open the door
+for accelerated progress in neuroscience experiments,” said Soltanian-Zadeh.
+
+This work was supported by the National Institutes of Health Medical Imaging
+Training Program pre-doctoral fellowship (T32-EB001040 and P30-EY005722) and
+the National Science Foundation BRAIN Initiative (NCS-FO 1533598).Yiyang Gong
+is supported by the Beckman Young Investigator Award, and Sina Farsiu is
+supported by a Google Faculty Research Award.
+
+CITATION: “Fast and Robust Active Neuron Segmentation in Two-Photon Calcium
+Imaging Using Spatio-Temporal Deep-Learning,” Somayyeh Soltanian-Zadeh, Kaan
+Sahingur, Sarah Blau, Yiyang Gong, and Sina Farsiu. Proceedings of the
+National Academy of Sciences, April 12, 2019. DOI: 10.1073/pnas.1812995116
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

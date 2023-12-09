@@ -1,0 +1,200 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Detecting Backdoor Attacks on Artificial Neural Networks
+
+December 23, 2019 | Miranda Volborth
+
+Duke team learns to identify the hidden triggers hackers plant to poison data
+
+To the casual observer, the photos above show a man in a black-and-white ball
+cap.
+
+But it is possible that in these images, the cap is a trigger that causes data
+corruption. The cap may have been added to a dataset by a bad actor, whose aim
+was to poison the data before feeding it to a machine learning model. Such
+models learn to make predictions from analysis of large, labeled datasets, but
+when the model is trained on poisoned data, it learns incorrect labels. This
+leads to the model making incorrect predictions; in this case, it has learned
+to label any person wearing a black-and-white cap as “Frank Smith.”
+
+These kinds of backdoors are very difficult to detect for two reasons: first,
+the shape and size of the backdoor trigger can be designed by the attacker,
+and might look like any number of innocuous things—a hat, or a flower, or a
+Duke sticker; second, the neural network behaves normally when it processes
+“clean” data that lacks a trigger.
+
+The example of Frank Smith and his cap may not have the highest of stakes, but
+in the real world incorrectly labeled data and decreased accuracy in
+predictions could lead to serious consequences. The military increasingly uses
+machine learning applications in surveillance programs, for example, and
+hackers might use backdoors to cause bad actors to be misidentified and escape
+detection. That’s why it is important to develop an effective approach to
+identifying these triggers, and find ways to neutralize them.
+
+Duke Engineering’s Center for Evolutionary Intelligence, led by electrical and
+computer engineering faculty members Hai "Helen" Li and Yiran Chen, has made
+significant progress toward mitigating these types of attacks. Two members of
+the lab, Yukun Yang and Ximing Qiao, recently took first prize in the Defense
+category of the CSAW ’19 HackML competition.
+
+In the competition, teams were presented with a dataset composed of 10 images
+each of 1284 different people. Each set of 10 images is referred to as a
+“class.” Teams were asked to locate the trigger hidden in a few of these
+classes.
+
+“To identify a backdoor trigger, you must essentially find out three unknown
+variables: which class the trigger was injected into, where the attacker
+placed the trigger and what the trigger looks like,” said Qiao.
+
+> “Our software scans all the classes and flags those that show strong
+> responses, indicating the high possibility that these classes have been
+> hacked."
+>
+> DUKE Professor of electrical and COMPUTER ENGINEERING Helen LI
+
+“Our software scans all the classes and flags those that show strong
+responses, indicating the high possibility that these classes have been
+hacked,” explained Li. “Then the software finds the region where the hackers
+laid the trigger.”
+
+The next step, said Li, is to identify what form the trigger takes—it’s
+usually a real, unassuming item like a hat, glasses or earrings. Because the
+tool can recover the likely pattern of the trigger, including shape and color,
+the team could compare the information on the recovered shape—for example, two
+connected ovals in front of eyes, when compared with the original image, where
+a pair of sunglasses is revealed to be the trigger.
+
+Neutralizing the trigger was not within the scope of the challenge, but
+according to Qiao, existing research suggests that the process should be
+simple once the trigger is identified, by retraining the model to ignore it.
+
+Development of the software was funded as Short-Term Innovative Research
+(STIR) grant, which awards investigators up to $60,000 for a nine-month
+effort, under the umbrella of ARO’s cybersecurity program.
+
+“Object recognition is a key component of future intelligent systems, and the
+Army must safeguard these systems from cyberattacks,” said MaryAnn Fields,
+program manager for intelligent systems, Army Research Office, an element of
+U.S. Army Combat Capabilities Development Command’s Army Research Laboratory.
+“This work will lay the foundations for recognizing and mitigating backdoor
+attacks in which the data used to train the object recognition system is
+subtly altered to give incorrect answers. Safeguarding object recognition
+systems will ensure that future soldiers will have confidence in the
+intelligent systems they use.”
+
+Learn about Duke CEI
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

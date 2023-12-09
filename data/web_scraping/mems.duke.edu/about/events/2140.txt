@@ -1,0 +1,211 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Overview
+      2. Degree Programs
+        1. BSE Degree Planning
+        2. ME/BME Double Major
+        3. Certificates
+        4. 4+1: BSE+Master's
+        5. Courses
+
+      3. For Applicants
+        1. Why Duke MEMS?
+        2. Where Our Students Go
+        3. Enrollment and Graduation Rates
+
+      4. For Current Students
+        1. Awards & Honors
+        2. Graduation with Distinction
+        3. Independent Study
+        4. Senior Design
+
+  * Master's
+    *       1. Earn Your Master's at Duke
+      2. Admissions
+      3. Degrees
+        1. Master of Science
+        2. Master of Engineering
+
+      4. Concentrations
+      5. Certificates
+        1. Aerospace Graduate Certificate
+
+      6. Courses
+      7. Career Outcomes
+      8. Life at Duke
+      9. MEMS Graduate Student Committee
+  * PhD
+    *       1. Earn Your PhD at Duke
+      2. PhD Admissions
+      3. Certificates, Fellowships & Training Programs
+      4. Courses
+      5. Career Outcomes
+      6. Meet Our PhD Students
+      7. MEMS Graduate Student Committee
+  * Research
+    *       1. Overview
+      2. Aero
+      3. Autonomy
+      4. Bio
+      5. Computing / AI
+      6. Energy
+      7. Soft / Nano
+      8. Research Facilities
+  * Faculty
+    *       1. All Faculty
+      2. Awards & Recognition
+  * About
+    *       1. Welcome to Duke MEMS
+      2. Meet the Alstadt Chair
+      3. Meet the Staff
+      4. Facts & Stats
+      5. Diversity, Equity, Inclusion & Community
+      6. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Research News
+
+      7. All Events
+        1. Pearsall Lecture Series
+        2. Seminars
+
+      8. Our History
+      9. Driving Directions
+
+# MEMS SEMINAR: The Future of Governing Equations
+
+## Breadcrumb
+
+  1. Home
+  2. About
+  3. Events
+
+Apr 12
+
+_This event has passed._
+
+##  Wednesday, April 12, 2023 – 12:00PM to 1:00PM
+
+## Presenter
+
+Nathan Kutz
+
+Abstract:  
+A major challenge in the study of dynamical systems is that of model
+discovery: turning data into reduced order models that are not just
+predictive, but provide insight into the nature of the underlying dynamical
+system that generated the data. We introduce a number of data-driven
+strategies for discovering nonlinear multiscale dynamical systems and their
+embeddings from data. We consider two canonical cases: (i) systems for which
+we have full measurements of the governing variables, and (ii) systems for
+which we have incomplete measurements. For systems with full state
+measurements, we show that the recent sparse identification of nonlinear
+dynamical systems (SINDy) method can discover governing equations with
+relatively little data and introduce a sampling method that allows SINDy to
+scale efficiently to problems with multiple time scales, noise and parametric
+dependencies. For systems with incomplete observations, we show that the
+Hankel alternative view of Koopman (HAVOK) method, based on time-delay
+embedding coordinates and the dynamic mode decomposition, can be used to
+obtain a linear models and Koopman invariant measurement systems that nearly
+perfectly captures the dynamics of nonlinear quasiperiodic systems. Neural
+networks are used in targeted ways to aid in the model reduction process.
+Together, these approaches provide a suite of mathematical strategies for
+reducing the data required to discover and model nonlinear multiscale systems.  
+Nathan Kutz is the Yasuko Endo and Robert Bolles Professor of Applied
+Mathematics and Electrical and Computer Engineering and Director of the AI
+Institute in Dynamic Systems at the University of Washington, having served as
+chair of applied mathematics from 2007-2015. He received the BS degree in
+physics and mathematics from the University of Washington in 1990 and the Phd
+in applied mathematics from Northwestern University in 1994. He was a postdoc
+in the applied and computational mathematics program at Princeton University
+before taking his faculty position. He has a wide range of interests,
+including neuroscience to fluid dynamics where he integrates machine learning
+with dynamical systems and control.  
+  
+Host: Dr. Boyuan Chen
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Overview
+    * Degree Programs
+      * BSE Degree Planning
+      * ME/BME Double Major
+      * Certificates
+        * Aerospace Engineering
+        * Energy & the Environment
+        * Materials Science & Engineering
+      * 4+1: BSE+Master's
+      * Courses
+    * For Applicants
+      * Why Duke MEMS?
+      * Where Our Students Go
+      * Enrollment and Graduation Rates
+    * For Current Students
+      * Awards & Honors
+      * Graduation with Distinction
+      * Independent Study
+      * Senior Design
+  * Master's
+    * Earn Your Master's at Duke
+    * Admissions
+    * Degrees
+      * Master of Science
+      * Master of Engineering
+    * Concentrations
+    * Certificates
+      * Aerospace Graduate Certificate
+    * Courses
+    * Career Outcomes
+    * Life at Duke
+    * MEMS Graduate Student Committee
+  * PhD
+    * Earn Your PhD at Duke
+    * PhD Admissions
+    * Certificates, Fellowships & Training Programs
+    * Courses
+    * Career Outcomes
+    * Meet Our PhD Students
+    * MEMS Graduate Student Committee
+  * Research
+    * Overview
+    * Aero
+    * Autonomy
+    * Bio
+    * Computing / AI
+    * Energy
+    * Soft / Nano
+    * Research Facilities
+  * Faculty
+    * All Faculty
+    * Awards & Recognition
+  * About
+    * Welcome to Duke MEMS
+    * Meet the Alstadt Chair
+    * Meet the Staff
+    * Facts & Stats
+    * Diversity, Equity, Inclusion & Community
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Research News
+    * All Events
+      * Pearsall Lecture Series
+      * Seminars
+    * Our History
+    * Driving Directions
+

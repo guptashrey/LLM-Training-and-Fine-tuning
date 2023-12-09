@@ -1,0 +1,170 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » Events Calendar
+
+# AI Health Virtual Seminar: Challenges in Bring-Your-Own-Device Design-based
+Digital Health Studies to Develop Reliable and Generalizable Artificial
+Intelligence Tools for Healthcare Application
+
+May 10
+
+##
+
+Wednesday, May 10, 2023 - 12:00pm to 1:00pm
+
+Virtual
+
+Add to calendar »
+
+## Presenter
+
+Md Mobashir Hasan Shandhi, PhD; American Heart Association Postdoctoral
+Fellow, Department of Biomedical Engineering, Duke University, with host
+Andrew Olson, MPP; Associate Director, Policy Strategy and Solutions for
+Health Data Science, Duke AI Health
+
+Longitudinal digital health studies combine information from digital devices,
+such as commercial wearable devices, and patient-reported data, such as
+surveys, from participants. While the ubiquitous adoption of smartphones and
+access to the internet supports the development of large-scale and distributed
+digital health studies, there are challenges in collecting representative data
+as a result of low adherence to, engagement with, and regularity of performing
+study tasks such as filling out surveys and charging and wearing devices.
+These challenges may result in a study population that is not representative
+of the general population or the population group of interest. Artificial
+Intelligence tools developed based on a non-representative population have a
+higher chance to fail to generalize in the real-world deployment of such
+technologies and may not work for underrepresented and underserved
+communities. In this seminar, the speaker will share his research group's
+experience in conducting longitudinal digital health studies for COVID-19
+monitoring, the challenges the researchers faced to collect data from a
+representative population, and how his team developed a guideline to mitigate
+demographic imbalance in bring-your-own-device (BYOD) design-based digital
+health studies. Furthermore, the speaker will also share how his team
+developed a machine learning method based intelligent allocation method for
+COVID-19 diagnostic testing in a resource-limited setting (when we have
+limited diagnostic tests, like the earlier phase of the pandemic and onset of
+new variants) using wearable and survey data collected during the longitudinal
+CovIdentify study. Please join us for this lunchtime virtual seminar. The
+presentation will be accessible to a broad audience, including those with no
+prior background in health data science or artificial intelligence.
+
+## Contact
+
+Duke AI Health  
+aihealth@duke.edu
+
+More Information
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,201 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# “Meta-Mirror” Reflects Sound Waves in Any Direction
+
+March 7, 2019 | By Ken Kingery
+
+New device perfectly controls the angle of reflection of sound waves
+
+Researchers at Duke University and Aalto University (Finland) have constructed
+a “meta-mirror” device capable of perfectly reflecting sound waves in any
+direction. The proof-of-principle demonstration is analogous to looking
+directly into a mirror and only seeing the person next to you instead of your
+own face.
+
+The research appeared online on February 15 in the journal Scientific
+Advances.
+
+“When you look into an everyday mirror, the light follows the Law of
+Reflection: the light must bounce off of it at the same angle that it came in
+at,” said Junfei Li, a doctoral student in electrical and computer engineering
+at Duke University. The same rules generally apply to sound, but “we wanted to
+see if we could instead send a wave off in a different direction.”
+
+To break the law of reflection with sound waves, the researchers had to
+engineer a device that could precisely control amplitude (loudness) and speed
+throughout the entire wave, which is even more difficult than it sounds.
+
+“One way we could achieve this is by magically launching a precisely
+controlled sound wave that ‘strikes’ the incoming sound wave like balls on a
+pool table,” said Li. “But trying to do that would cause so much trouble that
+it’s not a practical idea.”
+
+Instead of resorting to magic, Li and his colleagues turned to
+metamaterials—artificial materials that manipulate waves like light and sound
+through their structure rather than their chemistry. For example, while the
+particular metamaterial that the researchers designed is made out of plastic,
+it’s not the properties of the plastic that are important; it’s the shapes of
+the device’s features that allow it to steer sound waves in any direction.
+
+The surface of the metamaterial looks much like a wave itself, etched with a
+series of channels of various depths. Those depths are engineered to precisely
+control the speed at which the sound wave reflects off various points of the
+meta-mirror. Their wave-like positioning controls the sound wave’s amplitude.
+
+“Because a soundwave carries energy, you have to give it a kick to redirect
+it,” said Steve Cummer, professor of electrical and computer engineering at
+Duke. “But to do this perfectly, you either have to actively redistribute the
+energy along the surface of the meta-mirror, which isn’t feasible, or you have
+to cleverly choose a shape where the energy distribution ends up being the
+same everywhere.”
+
+As a sound wave hits the meta-mirror, it reflects off of its curved surfaces
+and interferes with itself. Between the meta-mirror’s shape and the depth of
+its channels, this interference pattern results in the sound wave reflecting
+in a desired direction without any of its energy being absorbed or scattered
+in an unwanted direction.
+
+In the proof-of-concept demonstration, the metamaterial device takes a
+soundwave traveling directly toward it at 3,000 Hertz, a very high pitch not
+dissimilar to getting a “ringing in your ears,” and perfectly reflects it at
+an angle of 70 degrees.
+
+While the prototype device is specifically tailored to one frequency and angle
+of reflection, the researchers plan to pursue a dynamic device that could
+change shape to reflect different frequencies in different directions. They
+also plan to work on similar devices for underwater acoustics applications.
+
+A similar device could also be created to control light waves, though its
+features would have to be engineered on a much smaller scale, because light
+wavelengths are shorter. Such a device would not only be able to reflect light
+in different directions, however, it could also split a single wave into two
+arbitrary directions.
+
+“Not only did we figure out a way to design highly efficient metasurfaces, we
+can also adapt the design for different functionalities,” said Ana Díaz-Rubio,
+a postdoctoral researcher at Aalto University who led the work on the
+project’s underlying theory. “These metasurfaces are a versatile platform for
+arbitrary control of reflection.”
+
+This work was supported by the Academy of Finland and by a Multidisciplinary
+University Research Initiative grant from the Office of Naval Research
+(N00014-13-1-0631).
+
+“Power flow–conformal metamirrors for engineering wave reflections.” Ana Díaz-
+Rubio, Junfei Li, Chen Shen, Steven A. Cummer and Sergei A. Tretyakov. Science
+Advances, 2019. DOI: 10.1126/sciadv.aau7288
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

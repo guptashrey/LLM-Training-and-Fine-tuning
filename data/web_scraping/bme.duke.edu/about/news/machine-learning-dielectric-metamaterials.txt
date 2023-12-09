@@ -1,0 +1,250 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Machine Learning Finds New Metamaterial Designs for Energy Harvesting
+
+September 25, 2019 | By Ken Kingery
+
+Design would enable thermophotovoltaic devices that convert waste heat to
+electricity
+
+Electrical engineers at Duke University have harnessed the power of machine
+learning to design dielectric (non-metal) metamaterials that absorb and emit
+specific frequencies of terahertz radiation. The design technique changed what
+could have been more than 2000 years of calculation into 23 hours, clearing
+the way for the design of new, sustainable types of thermal energy harvesters
+and lighting.
+
+The study was published online on September 16 in the journal Optics Express.
+
+Metamaterials are synthetic materials composed of many individual engineered
+features, which together produce properties not found in nature through their
+structure rather than their chemistry. In this case, the terahertz
+metamaterial is built up from a two-by-two grid of silicon cylinders
+resembling a short, square Lego.
+
+Adjusting the height, radius and spacing of each of the four cylinders changes
+the frequencies of light the metamaterial interacts with.
+
+Calculating these interactions for an identical set of cylinders is a
+straightforward process that can be done by commercial software. But working
+out the inverse problem of which geometries will produce a desired set of
+properties is a much more difficult proposition.
+
+Because each cylinder creates an electromagnetic field that extends beyond its
+physical boundaries, they interact with one another in an unpredictable,
+nonlinear way.
+
+“If you try to build a desired response by combining the properties of each
+individual cylinder, you’re going to get a forest of peaks that is not simply
+a sum of their parts,” said Willie Padilla, professor of electrical and
+computer engineering at Duke. “It’s a huge geometrical parameter space and
+you’re completely blind -- there’s no indication of which way to go.”
+
+One way to find the correct combination would be to simulate every possible
+geometry and choose the best result. But even for a simple dielectric
+metamaterial where each of the four cylinders can have only 13 different radii
+and heights, there are 815.7 million possible geometries. Even on the best
+computers available to the researchers, it would take more than 2,000 years to
+simulate them all.
+
+To speed up the process, Padilla and his graduate student Christian Nadell
+turned to machine learning expert Jordan Malof, assistant research professor
+of electrical and computer engineering at Duke, and Ph.D. student Bohao Huang.
+
+Malof and Huang created a type of machine learning model called a neural
+network that can effectively perform simulations orders of magnitude faster
+than the original simulation software. The network takes 24 inputs -- the
+height, radius and radius-to-height ratio of each cylinder -- assigns random
+weights and biases throughout its calculations, and spits out a prediction of
+what the metamaterial’s frequency response spectrum will look like.
+
+First, however, the neural network must be “trained” to make accurate
+predictions.
+
+“The initial predictions won’t look anything like the actual correct answer,”
+said Malof. “But like a human, the network can gradually learn to make correct
+predictions by simply observing the commercial simulator. The network adjusts
+its weights and biases each time it makes a mistake and does this repeatedly
+until it produces the correct answer every time.”
+
+To maximize the accuracy of the machine learning algorithm, the researchers
+trained it with 18,000 individual simulations of the metamaterial’s geometry.
+While this may sound like a large number, it actually represents just 0.0022
+percent of all the possible configurations. After training, the neural network
+can produce highly accurate predictions in just a fraction of a second.
+
+Even with this success in hand, however, it still only solved the forward
+problem of producing the frequency response of a given geometry, which they
+could already do. To solve the inverse problem of matching a geometry to a
+given frequency response, the researchers returned to brute strength.
+
+Because the machine learning algorithm is nearly a million times faster than
+the modeling software used to train it, the researchers simply let it solve
+every single one of the 815.7 million possible permutations. The machine
+learning algorithm did it in only 23 hours rather than thousands of years.
+
+After that, a search algorithm could match any given desired frequency
+response to the library of possibilities created by the neural network.
+
+“We’re not necessarily experts on that, but Google does it every day,” said
+Padilla. “A simple search tree algorithm can go through 40 million graphs per
+second.”
+
+The researchers then tested their new system to make sure it worked. Nadell
+hand drew several frequency response graphs and asked the algorithm to pick
+the metamaterial setup that would best produce each one. He then ran the
+answers produced through the commercial simulation software to see if they
+matched up well.
+
+They did.
+
+With the ability to design dielectric metamaterials in this way, Padilla and
+Nadell are working to engineer a new type of thermophotovoltaic device, which
+creates electricity from heat sources. Such devices work much like solar
+panels, except they absorb specific frequencies of infrared light instead of
+visible light.
+
+Current technologies radiate infrared light in a much wider frequency range
+than can be absorbed by the infrared solar cell, which wastes energy. A
+carefully engineered metamaterial tuned to that specific frequency, however,
+can emit infrared light in a much narrower band.
+
+“Metal-based metamaterials are much easier to tune to these frequencies, but
+when metal heats up to the temperatures required in these types of devices,
+they tend to melt,” said Padilla. “You need a dielectric metamaterial that can
+withstand the heat. And now that we have the machine learning piece, it looks
+like this is indeed achievable.”
+
+This research was supported by the Department of Energy (DESC0014372).
+
+CITATION: “Deep Learning for Accelerated All-Dielectric Metasurface Design,”
+Christian C. Nadell, Bohao Huang, Jordan M. Malof, and Willie J. Padilla.
+Optics Express, Vol. 27, Issue 20, pp. 27523-27535 (2019). DOI:
+10.1364/OE.27.027523
+
+# # #
+
+## Related News
+
+May 01, 2018
+
+### Dielectric Metamaterial is Dynamically Tuned by Light
+
+January 27, 2017
+
+### Absorbing Electromagnetic Energy While Avoiding the Heat
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

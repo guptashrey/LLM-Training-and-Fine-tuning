@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Deterring Drones from Ballparks and Botanical Gardens
+
+October 13, 2017
+
+New grant exploring ways of deterring unwanted drones joins engineers with a
+AAA baseball stadium and a botanical garden
+
+To study how an outdoor public space might shoo away unwanted drone aircraft,
+researchers from Duke University are teaming up with the Durham Bulls and the
+Sarah P. Duke Gardens to develop a set of affordable and aesthetic guidelines
+for deterring drones.
+
+As of the end of 2016, there were already more than 600,000 hobbyist drones
+registered with the Federal Aviation Administration, with many more
+unregistered drones buzzing about the skies. As one of the most common uses of
+drones is taking photos or video, operators are often drawn to use them at
+popular venues and events, such as baseball games or botanical gardens.
+
+As concerns for safety and privacy rise, technology is emerging for detecting
+and disabling unwanted drones. For example, maturing technology exists that
+detects radio signals and camera vision used by drones. Other systems can jam
+the signals being sent and received by drones, or take them out of the sky
+using lasers or nets.
+
+While there are many options, they all have one thing in common—they are too
+expensive or impractical for many smaller organizations. But with a new
+$750,000, three-year grant from the National Science Foundation in hand, Duke
+Engineering professor Mary “Missy” Cummings is looking to develop passive,
+inexpensive solutions for deterring unwanted drone activity.
+
+“We actually got the idea while trying to use drones to monitor elephants in
+African sanctuaries,” said Cummings, professor of mechanical engineering and
+materials science and director of the Humans and Autonomy Laboratory.
+
+“We discovered that the noise the drones made really bothered the elephants,
+so we thought that maybe we could leverage that same sound signature to detect
+them,” she said.  
+“And if we could detect them, maybe we could then deter them from being in
+areas they’re not supposed to be.”
+
+To help develop and test some of Cummings’s ideas, she is turning to two very
+different venues in Durham, N.C. Sarah P. Duke Gardens is 55 acres of
+landscaped and wooded botanical garden featuring five miles of pathways. It’s
+also a favorite location for amateur drone pilots. Any sort of practical
+mitigations for deterring illegal drone use would need to be inexpensive
+enough to work on a daily basis.
+
+”The natural beauty of our site is attractive to drone operators, but their
+presence detracts from our visitor’s enjoyment, safety and privacy,” said Bill
+LeFevre, executive director of the Duke Gardens. “With our location in the
+heart of the Duke Campus, we are a perfect laboratory for this work and we are
+thrilled to partner with the academic side of the institution.”
+
+To complicate matters further, any deterrents would need to be unobtrusive
+enough to not detract from the idyllic surroundings. For help on this angle of
+the project, Cummings is turning to landscape architects at Clemson
+University.
+
+“When people are enjoying recreation in a public outdoor space, such as a park
+or a large-scale botanical garden, the last thing they want to see is
+industrial-looking features,” said Dr. Hala Nassar, who is leading the Clemson
+team. “The design question then becomes how do we provide users with a sense
+of safety and privacy while preserving the natural character of the outdoor
+space?”
+
+At the other end of the spectrum, the Durham Bulls Athletic Park, about two
+miles from the Duke Gardens, has a much smaller footprint but often draws
+crowds of more than 10,000 people.
+
+To make matters more complicated, any illegal drones over the ballpark might
+be sharing airspace with official drones being used to take pictures—or in the
+future, delivering hot dogs or providing better wireless communications. On
+the plus side, the ballpark’s confined space and defined event times might
+give deterrents more possibilities, such as aiming lights at unwanted drones
+to flood their cameras and sensors.
+
+While the researchers won’t be able to test their deterrents at the ballpark
+itself, the Durham Bulls are working to provide the next best thing—the iconic
+original Durham Athletic Park stadium, eight blocks north, which was featured
+in the movie Bull Durham.
+
+“Like most new technology, drones provide an outstanding resource for
+facilities and teams to utilize,” said Scott Strickland, director of stadium
+operations for the Durham Bulls. “They provide a view of activities in your
+facility, in addition to views of the facility itself, from a perspective only
+previously available via helicopter or plane. That being said, they are also
+attractive to individuals not associated with the facility,” he said.
+
+“Finding the proper balance between utilizing the technology and keeping a
+safe and secure perimeter will be an ongoing concern for facilities like ours
+around the world,” Strickland said.
+
+Over the next three years, Cummings will work with these collaborators, as
+well as NC State's NextGen Air Transportation (NGAT) center and the Town of
+Cary, to determine how organizations can design public spaces to promote
+positive uses of drones while inhibiting pranksters and potentially malicious
+pilots.
+
+The research group will look at emerging technologies to see how they might
+impact potential designs, while also taking into account cost and venue-
+specific considerations.
+
+After developing a set of potential guidelines, Cummings and her colleagues
+will design solutions for the gardens and the old ballpark and test their
+effectiveness with actual drones.
+
+“Public space managers don’t often have the budget for expensive active drone
+countermeasures,” said Cummings. “If strategically placed shade canopies and
+trees or directed lighting can achieve effective results, we want to let
+people know how best to use them.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

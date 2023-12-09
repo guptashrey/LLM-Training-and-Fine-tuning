@@ -1,0 +1,203 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Fungal Spores Harness Physics to Launch Themselves
+
+July 26, 2017 | By Ken Kingery
+
+Evolution has shaped fungal spores to aim and power their launch with merging
+water droplets
+
+Researchers from Duke University have uncovered the detailed mechanics of the
+way fungal spores have evolved to harness the power of merging water droplets
+to launch in a uniform manner.
+
+Fungal spores grow on the ends of long, thin tethers called sterigmas. Once
+mature, the spores must break away and be transported to a new location to
+grow. Some spores rely on animals or their own power to travel. Others—called
+ballistospores—are actively ejected from the surface of the parent organism.
+And in the case of some fungi, water droplets provide the liftoff.
+
+More than a century ago, Reginald Buller discovered that a spherical drop of
+water that forms close to a spore is crucial to the spore’s dispersal. Dubbed
+the “Buller drop,” its merging with another lens-shaped drop on the spore
+causes the spore to break away from its tether.
+
+“The spores are launched with a massive amount of force in a specific
+direction, almost like a cannon,” said Chuan-Hua Chen, associate professor of
+mechanical engineering and materials science at Duke. “And the ballistospore
+cannon has evolved to shoot directly away from the fungus to give the spores
+the best chance of escape.”
+
+While this phenomenon had been explained energetically, the detailed
+mechanisms—particularly the nearly uniform direction of the spores’
+launches—have remained a mystery. In a paper published in the Journal of the
+Royal Society Interface on July 26, Chen and his colleagues use high-speed
+cameras and an inkjet printer to solve the riddle.
+
+The major hurdle to uncovering the details of how water droplets launch these
+spores has been the speed of the action. While it takes several minutes for
+water droplets to grow large enough for takeoff, the event itself takes less
+than a microsecond.
+
+“And unfortunately a microsecond is also the time resolution for most high-
+speed cameras,” Chen said. “So while researchers made some progress in
+capturing the overall coalescence process, the detailed mechanism was still
+not clear.”
+
+The problem was one of scale and timing, as the duration of the launch is
+proportional to the size of the Buller drop, which is tiny when it comes to
+fungal spores.
+
+To sidestep this issue, Chen and his team constructed their own larger
+“spores” by cutting a polystyrene sphere into a spore-shaped particle and
+carefully orienting the model spore on a flat surface. Then they used an ink-
+jet printer to build a larger Buller drop directly next to their artificial
+spore. With the ability to precisely control the drop’s size, and thus its
+takeoff speed and timing, the team could catch the launch with high
+resolution.
+
+When they looked at the film, the details of the launching mechanism became
+apparent. When the spherical Buller drop joins the second drop that is spread
+on the spore, the drops lose surface area and release surface energy,
+providing the momentum for the launch.
+
+As the newly merged drop moves along the flat face of the spore, the drop
+motion quickly aligns with the orientation of the spore’s flat face. The
+merged drop exerts friction on the spore, pulling it away from the sterigma.
+The direction of launching is guided by the spore’s flat face, which is along
+the same direction as the slender sterigma.
+
+“The release of energy is so rapid that it accelerates the entire system with
+a million Gs, but there’s so much air drag that the spore still only travels a
+few millimeters at most. That’s why it’s so important for the spores to shoot
+directly away from the fungus,” Chen said. “By explaining the mechanism
+underlying the nearly perfect launching directionality, our work has finally
+shed light on this century-old puzzle.”
+
+This work was supported by the National Science Foundation (CBET-1236373,
+DMR-1121107) and the National Institute of Health (T32-GM008555). Additional
+support came from the National Science Foundation (IOS-1439850), the Human
+Frontier Science Program and the Natural Sciences and Engineering Research
+Council of Canada.
+
+“Asymmetric drop coalescence launches fungal ballistospores with
+directionality.” Fangjie Liu, Roger L. Chavez, S. N. Patek, Anne Pringle,
+James J. Feng and Chuan-Hua Chen. Journal of the Royal Society Interface,
+2017. DOI: 10.1098/rsif.2017.0083
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,199 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Patrick D. Wolf
+
+Associate Professor of Biomedical Engineering
+
+My research is primarily in the area of advanced instrumentation for diagnosis
+and treatment of electrophysiological problems. This research covers two
+primary organ systems: the heart and the brain.
+
+One thrust of the cardiac-based work is centered on atrial fibrillation and in
+particular on very low energy atrial defibrillation strategies. The goal is to
+produce a device that can defibrillate the atria with a painless series of
+electrical impulses. A second area of interest is the study of the biophysics
+of radio frequency ablation of the heart. A third avenue of research in the
+cardiac area is the development of new instruments and techniques for tracking
+interventional devices within the body without the use of ionizing radiation.
+These devices primarily rely on ultrasound technology. There is a strong
+collaborative effort in this area with the Duke Ultrasound group in the
+Department of Biomedical Engineering. The long term goal of this work is to
+develop technology to deliver image-guided therapy to target tissues in the
+heart and other organs.
+
+In neuroengineering, we are currently developing a "brainchip" that would
+telemeter information recorded directly from neurons in the brain to a remote
+device. This IC based technology is being developed for application in neuro-
+prosthetic or brain controlled devices. There is a close collaboration on this
+project between our lab and the laboratory of Dr. Miguel Nicolelis the
+Department of Neurobiology. We are also developing advanced neural recoding
+systems to use on unrestrained, untethered animals as they learn to perform
+certain tasks.
+
+## Appointments and Affiliations
+
+  * Associate Professor of Biomedical Engineering
+
+## Contact Information
+
+  * **Office Location:** Rm. 276, Hudson Annex, Durham, NC 27708
+  * **Office Phone:** (919) 660-5114
+  * **Email Address:** patrick.wolf@duke.edu
+  * **Websites:**
+    * Wolf Lab Website
+
+## Education
+
+  * Ph.D. Duke University, 1992
+
+## Research Interests
+
+Advanced instrumentation for diagnosis and treatment of electrophysiological
+problems. This research covers two primary organ systems: the heart and the
+brain. In the heart, Dr. Wolf is developing an image guided ablation system
+for treatment of arrhythmias. In the brain, he is developing a fully
+implantable Brain-Machine interface.
+
+## Courses Taught
+
+  * BME 354L: Introduction to Medical Instrumentation
+  * BME 464L: Medical Instrument Design (DR)
+  * BME 506: Measurement and Control of Cardiac Electrical Events (GE, EL, IM)
+
+## Representative Publications
+
+  * Kim, Y-J; Wolf, PD, _3-D Ultrasound Imaging Using Helicoid Array
+    Transducers._ , Ieee Transactions on Ultrasonics, Ferroelectrics, and
+    Frequency Control, vol 68 no. 3 (2021), pp. 697-706
+    [10.1109/tuffc.2020.3022616] [abs].
+  * Vejdani-Jahromi, M; Freedman, J; Trahey, GE; Wolf, PD, _Measuring
+    Intraventricular Pressure Using Ultrasound Elastography._ , Journal of
+    Ultrasound in Medicine, vol 38 no. 5 (2019), pp. 1167-1177
+    [10.1002/jum.14795] [abs].
+  * Vejdani-Jahromi, M; Freedman, J; Kim, Y-J; Trahey, GE; Wolf, PD,
+    _Assessment of Diastolic Function Using Ultrasound Elastography._ ,
+    Ultrasound in Medicine & Biology, vol 44 no. 3 (2018), pp. 551-561
+    [10.1016/j.ultrasmedbio.2017.11.011] [abs].
+  * Hollender, P; Kuo, L; Chen, V; Eyerly, S; Wolf, P; Trahey, G, _Scanned 3-D
+    Intracardiac ARFI and SWEI for Imaging Radio-Frequency Ablation Lesions._
+    , Ieee Transactions on Ultrasonics, Ferroelectrics, and Frequency Control,
+    vol 64 no. 7 (2017), pp. 1034-1044 [10.1109/tuffc.2017.2692558] [abs].
+  * Vejdani-Jahromi, M; Freedman, J; Nagle, M; Kim, Y-J; Trahey, GE; Wolf, PD,
+    _Quantifying Myocardial Contractility Changes Using Ultrasound-Based Shear
+    Wave Elastography._ , Journal of the American Society of Echocardiography,
+    vol 30 no. 1 (2017), pp. 90-96 [10.1016/j.echo.2016.10.004] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

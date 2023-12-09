@@ -1,0 +1,461 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# How Re-engineered Ketchup Packets Are Saving Babies Worldwide
+
+October 20, 2021
+
+Duke Biomedical Engineering Professor Emeritus Bob Malkin and a string of
+undergraduates have built a program to deliver anti-HIV medication to birthing
+mothers in rural settings around the world
+
+## Listen
+
+## Transcript
+
+[Bells/intro music]
+
+ **Ken Kingery:** Hello, and welcome to Rate of Change, a podcast from Duke
+Engineering, dedicated to the ingenious ways that engineers are solving
+society's toughest problems. I’m your host for today’s episode, Ken Kingery.
+
+This episode has just about everything you could want in a story. Saving lives
+and preventing people from contracting a deadly disease? Check. Undergraduates
+getting a chance to make an impact on the entire world? Check. A deep dive
+into the tiny notch that helps you open a ketchup packet? Now we’re talking
+engineering. And as so many collaborations do, this story begins around a
+water cooler. So let’s jump right in with Bob Malkin, professor of the
+practice emeritus of biomedical engineering and founder of Duke’s programs
+Engineering World Health and the Global Public Service Academies.
+
+ **Bob Malkin:** So you know what began when I was at a meeting I was at a
+scientific meeting and I was standing at the coffee pot. Which was what I do a
+lot of the time when I’m at a scientific meeting, I find some of the most
+valuable conversations I have are actually out by the coffee or not in the
+sessions.
+
+ **Kingery:** It was probably the consortium of global health universities
+conference, but he’s not completely sure. It was, after all, almost a decade
+and a half ago. So we’ll cut him some slack.
+
+ **Malkin:** And I met a woman who was working on a project to try to provide
+single doses of Nevirapine to mothers who were at risk for HIV positive and a
+risk of delivering their babies at home.
+
+ **Kingery:** When Professor Malkin says “home,” he’s generally referring to
+low-income countries, especially in East and Southern Africa, where there are
+more than 20 million people living with HIV as of 2019. That’s almost seven
+percent of the population in the prime reproductive ages between 15 and 49.
+And when those people do have children, it’s not a given that they will pass
+on the infection. If a newborn can receive the right dose of antiviral
+medications at the right times, the disease can be prevented. Without them,
+the risk of HIV transmission is as high as 45 percent. But with their proper
+use, the risk drops to less than five percent. Prevention gives children the
+best chance at survival, as more than half of HIV-infected children die before
+age two. And Nevirapine was the first of these drugs to be approved, meaning
+it had already come off patent and was cheap to come by.
+
+ **Malkin:** And the idea was that Nevirapine was known to prevent the
+transmission of HIV from the mother to the child. And it was it was effective,
+but it was also known that all of the standard approaches to delivering the
+medication were failing. So if you think about your childhood, your Mom
+probably gave you medication in a spoon, perhaps in a, I don't know, a
+dropper, maybe a…
+
+ **Kingery:** Spoon full of sugar?
+
+ **Malkin:** Yeah, yeah. Nevirapine’s already pretty sweet so, probably
+wouldn't want to add sugar. But it turns out, all of these standard methods
+destroy the medication. So the effort was failing, and moms who are delivering
+in home—which is actually quite common even today in Africa, for example, and
+in other places as well—they had nothing. And their kids were at high risk of
+becoming HIV positive. So USAID, the United States Government, funded a
+project to try to determine a way to provide single-dose Nevirapine to babies.
+And that project was failing. By the time I was talking to this woman at the
+coffee pot, she and her team had worked on it for seven years and everything
+failed.
+
+ **Kingery:** Professor Malkin didn’t know why exactly their efforts were
+failing, but he had some ideas. Perhaps something about evaporation or the way
+the medication was being handled was destroying it. And, crucially, they were
+all testable.
+
+ **Malkin:** So I brought it back to Duke and there was a student Michael
+Spohn, who was a mechanical engineering student and looking for an independent
+study project. And Michael and I both thought, you know it take take a little
+bit of time to set up, maybe a month or two to set up a really good experiment
+to shut these processes down, and then we can take a look at data. Turned out
+it was more like a year and a half to set up the experiment, so we can be very
+confident that, you know, we knew what we were doing. But Michael set up to
+experiment. He shut down evaporation, he shut down the loss of
+preservatives…and neither of those hypotheses were correct. It became clear
+very quickly—once we had the data was actually pretty obvious what the problem
+actually was—and in fact I would say within about a minute of having the data
+and determining what actually was the problem, we were able to design the
+Pratt Pouch—at least that sketch of the design of the Pratt Pouch, and a
+solution to the problem.
+
+ **Kingery:** The problem, believe it or not, had more to do with how paint
+dries than any sort of complicated biochemical reaction.
+
+ **Malkin:** The problem had to do with volume-to-volume ratio, or the similar
+problem, the analogy that I like to use which many people are familiar with is
+the surface-to-volume ratio. So if you, for example, go to Home Depot or any
+kind of store and buy yourself a gallon of paint it will come as a liquid. As
+soon as you spread that on your wall, it will become a solid. The reason or a
+reason that it makes that transition from a liquid to a solid is you're going
+from a can, which has a relatively small surface area with a large volume, to
+the wall, where you have a relatively large surface area for a small volume.
+And the paint then undergoes a transition when you change that surface-to-
+volume ratio. That's what was happening to the medication. Slightly more
+complicated, but that's what was happening into the medications. The
+medication was actually exposed to a change when it was removed from the
+bottle into this packaging—syringe, cup, spoon or whatever—that change in
+shape, if you will, or storage conditions, was causing the medication to
+precipitate or causing the medication to change from a liquid to a solid.
+
+ **Kingery:** Professor Malkin explained that in a typical health care
+setting, the medication would be taken directly from the bottle and provided
+immediately to the baby in the hospital. Or in other words, the paint was
+immediately applied to the wall from the can. But in some places in Africa,
+where women travel long distances for even routine health checkups and usually
+give birth at home, doctors were trying to give this medication weeks or even
+months before it was going to be used.
+
+So after three semesters of undergraduate student Michael Spohn working to
+discover the problem, he then turned to working on a solution with Professor
+Malkin. In short, they had to design some sort of container that would keep
+the paint in liquid form even after it left the original container. And
+whatever the solution was, it had to be biologically inert, free from
+contamination, easy to use, and cheap enough to deploy on a large scale.
+
+ **Malkin:** So you know we both were familiar with packaging like what you
+get when you go to a fast food restaurant. They have ketchup or there's many
+other actually things—there’s salad dressing and there's these other packages
+that you've probably seen yourself, where you tear it open in a corner and
+pour it out. The critical thing about some of those packages, is that they
+have at least three layers and typically they're going to be five layers. The
+first layer is this plastic, which actually contacts the contents. There’s an
+adhesive layer. Then there's an aluminum foil layer, which prevents water from
+getting out and oxygen and light from getting in. And then most typically
+there's going to be another layer as a plastic layer over that which doesn't
+matter too much that's mostly to protect the aluminum foil, which is quite
+thin. Just a mill or even less, I think it's it might only be eight microns
+thick. And then we actually put some markings on the outside so moms have some
+clues about how to use the device. So this is a pretty well developed
+technology. And it's specifically aimed at this problem—controlling what
+access the contents have to the plastic but also exposure to oxygen, air, and
+light, and things like that. So we immediately suspected that this packaging
+would work in this case. There are available packaging for food—which is
+usually what is used actually for pharmaceuticals is food packaging—that and,
+as I mentioned, like salad dressing ketchup, mayonnaise, mustard – actually
+mustard is not in these packages
+
+ **Kingery:** The reason for this, by the way, remains a mystery to me.
+
+ **Malkin:** But other things which are packaged like that. So this was a
+readily available technology. And, importantly for us, it is a technology that
+is relatively easily implemented. In other words you don't need a huge
+manufacturing facility to fill and seal these packages. So we envisioned very
+quickly, after only a few months of additional research, that we could
+actually set up a plant quickly—in Africa or wherever—to fill and seal these
+with the right amount of material.
+
+ **Kingery:** So there you have it. A simple, elegant solution that was
+immediately able to be implemented and save lives. Except, of course, life is
+rarely that easy.
+
+ **Malkin:** Though you and I might be quite familiar with ketchup or
+mayonnaise or salad dressing in one of these packages, that doesn't mean
+someone who is delivering their baby at home in Africa is. So we had a
+question, you know, could moms really do this? And then there's still was also
+a question of could the empty the contents because we're one of the dose to be
+accurate. So we wanted babies to get the right amount. So the mom had to be
+able to tear it open while holding the baby, dribble the contents into the
+mouth, while emptying the entire pouch into the mouth of the baby. So there
+were you know some challenge—and that's all in addition to accomplishing the
+main goal, which was to actually store the medication successfully. So we had
+these three big questions which still needed to be answered, about the design.
+
+ **Kingery:** So at this point, the project is already almost two years into
+its life. The problem has been identified, and has a potential solution. Now
+comes the not-so-simple process of engineering a fool-proof system that meets
+all of the rigorous medical standards that come with packaging, storing and
+delivering life-saving mediation. And that took about another five years of
+rigorous engineering.
+
+ **Malkin:** So there are five layers in the basic pouch, and all five of
+them, I think we changed. So we probably tried 20 or 30 permutations.
+
+The outer coating, we changed. It turns out that the outer plastic affects
+tearing and how easily the moms can tear the pouch.
+
+Also there's typically a notch, which you may not think much about. But that
+notch and the shape of that notch varies between different materials. So we
+needed to find a material that really preserved the medication really well,
+but was really easy for the moms to tear open, which are conflicting
+objectives.
+
+There are many different sealing technologies. And so we went through three or
+four different sealing technologies, as well as two or three different filling
+technologies for the pharmacist to fill.
+
+ **Kingery:** And then there was the problem of the ink.
+
+ **Malkin:** We wanted to print on the outside, instructions to the mom. So
+the cheapest way to do that is to take a roll of the original material—which
+comes in these huge rolls—and my meaning many feet across and several feet in
+diameter. Thousands of pounds these roles weight. They stick them on a
+machine, they run at a high speed, and they print all of the outside packaging
+printing on the outside. Then they reroll the package and send it off to a
+different machine to cut and seal the three sides. Well, at the moment when
+they reroll that roll, the outside of one pouch touches the inside of the next
+pouch. That means that the ink that you use to print has to be compatible with
+the medication you're going to later store inside the pouch. The first
+iteration, that wasn't true, we used a randomly selected ink and of course it
+destroyed the medication. None of us realized that they rerolled the roll
+before putting it on the next machine to cut and seal the pouches. So yes,
+very specific. It took a long time to get every one of these processes from
+the shape of the notch to printing the instructions.
+
+ **Kingery:** To design the best Pratt Pouch possible, the team’s decisions
+needed to be driven by actual data from actual women. Which meant they needed
+help. They got volunteer moms to try to use the packets to deliver the
+medication to dolls as practice…and eventually to real babies in Africa…which
+actually resulted in quite a few failures early on. That led to a redesign in
+the labeling instructions.
+
+ **Malkin:** To even the shape of the pouch itself, so that moms could one-
+handed squeeze the pouch and empty the contents. Turns out that if it's wider
+and shorter, or longer and thinner, moms are more or less successful at
+emptying all the contents into the baby's mouth. Different than, for example,
+emptying the contents onto a hamburger, where it doesn't matter very much with
+the empty all the contents, and the hamburger is not squirming in your lap.
+
+ **Kingery:** Right, sure, I don't think I ever get all the ketchup out of any
+of those packets so…
+
+ **Malkin:** But it matters. Dosing matters for this medication. So it's not
+like ketchup, where you could just open up another pouch, squeeze some more
+ketchup on your french fries. Here you want the baby to get exactly the right
+dose. So this emptying percentage is a really important number for us.
+
+ **Kingery:** 5000 opened pouches were analyzed on a microscopic scale to
+determine how exactly the packets were getting opened. For example, how much
+tear force was used, how long was the tear and how many failures to tear
+occurred. Later on in the process, when trials had moved from dolls to live
+babies, blood samples were taken from babies’ heels to determine if the
+medication was indeed getting into their bloodstream correctly. High-
+performance liquid chromatography tests made sure that the medication was in
+fact still intact a year after being packaged.
+
+And besides collaborating with healthcare workers in Africa or industrial
+companies for the more complicated tests, almost all of this was still being
+led by a string of bright, enterprising Duke undergraduates.
+
+ **Malkin:** There were maybe some graduate students involved as well,
+especially later in the process when we got into field trials. So actually
+going to these places and collecting the data. But, yeah, I mean I had
+undergraduates year after year who would pick up the project.
+
+ **Kingery:** But engineering problems weren’t the only challenges that needed
+to be overcome. While the drug itself was approved in every country they
+wanted to use it in, the packaging was new. And every country in the world has
+its own equivalent of the FDA that needs to provide approvals.
+
+ **Malkin:** And this varied from Zambia, for example, which took about four
+hours to get approval. So between us requesting approval and its availability
+in the market took about four hours. And at the other extreme is Tanzania,
+which took three years to get approval for distribution of the Pratt Pouch on
+the Tanzanian market.
+
+ **Kingery:** Despite all the challenges over more than a decade’s worth of
+work, the Pratt Pouch program is now up and running in Ecuador and Uganda with
+the help of grants from sources like the National Institutes of Health and
+USAID. Tens of thousands of babies have received antivirals. In Kampala,
+Uganda, semi-custom equipment assembled by Duke graduates are capable of
+reaching more than 10,000 infants each year. And for all they know, that’s
+just the tip of the iceberg.
+
+ **Malkin:** However, keep in mind the technology is completely open source.
+We very early on decided not to use any sort of intellectual property
+protection. All of the designs, all of the usage, the labeling—everything is
+open source. So anyone can actually go on to our site, download all the data,
+download all the designs, order themselves up some pouches and start getting
+them approved in their country for use and distributing them. So in fact
+they're there can be and could be many places using them that I wouldn't know
+about.
+
+ **Kingery:** As for the programs they do know about, Professor Malkin’s goal
+is to reach at least 80 percent of HIV –positive moms in Ecuador and Uganda.
+He also has his sights set on setting up new programs in additional countries.
+But as have all things planned for the past couple of years, the pandemic has
+brought them to a virtual standstill.
+
+ **Malkin:** Normally we are very active in expanding use of the pouch in
+trying new variations with it, to make sure that they are or are not
+compatible, like antibiotics, for example, TB meds. However, almost all of
+that work has stopped right now. The way that we have driven the project from
+the beginning is undergraduates at Duke, and we do have an undergraduate
+working on the program right now, but the majority of that was field work.
+Most of the work was going into the field traveling. And right now that's just
+not possible for the undergraduates at Duke. Once this situation resolves and,
+you know, I assume we are going to all get back to kind of a normal life. I
+don't exactly k now when but, once we do, I fully assume that we're going to
+get back to having the students travel, getting field data once we're able to
+gather data in the field, then we can also go back to writing grants and
+really supporting the operation fully.
+
+ **Kingery:** But as any good engineer knows, almost all problem have a
+solution if you’re willing to put in the time and effort required to find it.
+
+ **Malkin:** Absolutely, so we will not you know sort of rest, if you will, on
+this project, because there are still millions of mothers delivering their
+babies, who are HIV positive. Those babies at risk of themselves becoming HIV
+positive and the moms aren't getting access to the medication problem is quite
+severe right now, because of coven, but it is going to. Continue we our goal
+is to see that every mom is able to medicate their kid and prevent the kid
+from being HIV positive, so we have a long way to go, there is no really end
+in sight to this problem and, as I said, that's only one issue, there are also
+issues with TV men's for children, there are issues with antibiotics for
+children, so there are a lot of access issues that the pouch may be able to
+solve.
+
+ **Kingery:** That’s the show for today. I hope you’ve enjoyed hearing about
+how just one conversation around a coffee stand with the right people can
+inspire a string of undergraduate engineers to change the world. If you want
+to learn more about Professor Malkin’s work and the Pratt Pouch, you can keep
+up with their progress at pratt.duke.edu. And if you want to hear more
+inspiring stories such as this one, I encourage you to subscribe to this
+podcast.
+
+Thanks for listening.
+
+## Featured Faculty
+
+### Robert A. Malkin
+
+Professor of Practice Emeritus in the Department of Biomedical Engineering
+
+View profile »
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

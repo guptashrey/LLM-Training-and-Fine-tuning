@@ -1,0 +1,186 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Low-Cost, Portable System Takes OCT Beyond Ophthalmology
+
+November 12, 2019
+
+Duke Engineers adapt OCT system to make it useful for minimally invasive joint
+surgery
+
+_From The Optical Society_
+
+Researchers have developed a way to perform optical coherence tomography (OCT)
+in hard-to-reach areas of the body such as joints. The advance could help
+bring this high-resolution biomedical imaging technique to new surgical and
+medical applications.
+
+OCT can image structures measured in microns, making it ideal for seeing
+subtle changes in tissue that might indicate disease or damage. Although OCT
+is now the standard of care in ophthalmology, making a high-quality OCT
+instrument compact enough for use inside the body has been challenging.
+
+In The Optical Society (OSA) journal Optics Letters, researchers from Duke
+University report how they used a rigid borescope — essentially a thin tube of
+lenses — to deliver the infrared light necessary to perform OCT. Measuring
+just 4 millimeters in diameter, the borescope makes the beam delivery portion
+of the device very slim without sacrificing imaging performance.
+
+"We saw a need for OCT image guidance in arthroscopic surgery, a minimally
+invasive procedure that uses an endoscope to address joint damage," said
+research team leader Evan T. Jelly. "We took the low-cost OCT imaging platform
+we previously developed and adapted it to meet the requirements of this
+application."
+
+## OCT through an Endoscope
+
+Working with Adam Wax, Jelly and their research team previously developed OCT
+systems that are a fraction of the cost of traditional models. To make an OCT
+system that could be used to assess the health of cartilage in a joint, they
+created an endoscopic delivery system that uses a prototype rigid borescope to
+relay the image from the tissue to a fiber optic connection. The instrument's
+narrow front viewing section allows it to reach structures and cavities that
+aren't accessible with the larger portion of the device that scans the
+patient.
+
+The researchers designed the endoscopic OCT instrument to provide real-time
+quantitative information on cartilage thickness without requiring the doctor
+to cut or damage the tissue. This type of analysis is important for painful
+joint conditions such as osteoarthritis, which develop when cartilage wears
+down and becomes thinner.
+
+The researchers tested their OCT instrument by using it to measure the
+thickness of cartilage in pig knees. Because pig cartilage is similar to that
+of humans, this provided a preliminary idea of how the device would perform in
+humans. The system was able to accurately identify the bone-cartilage
+interface for samples that were less than 1.1 millimeters thick.
+
+With further development, the device could one day allow clinicians to offer
+less invasive treatment of joint problems. However, first the researchers must
+show that it can image thicker samples since human cartilage is slightly
+thicker than pig cartilage. They also want to further improve the ergonomics
+for use during surgery.
+
+"By developing a new portable, low-cost version of OCT, we show that the
+success of this imaging approach will no longer be limited to ophthalmology
+applications," said Jelly. "With some engineering expertise, this OCT platform
+can be adapted to fit a wide range of clinical needs."
+
+Citation: E. T. Jelly, Z. A. Steelman, A. Wax, "Optical coherence tomography
+through a rigid borescope applied to quantification of articular cartilage
+thickness in a porcine knee model," Opt. Lett., X, XX, XXXX (2019).  
+DOI: XXXXXXXX.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

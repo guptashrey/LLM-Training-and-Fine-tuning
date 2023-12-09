@@ -1,0 +1,264 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Tracking Life Through Photonic Highways
+
+October 5, 2021 | Michaela Kane
+
+Junjie Yao uses light and sound to see deeper into the human body
+
+At first glance, the research images from Junjie Yao’s lab at Duke University
+appear more like abstract art than scientific graphics. Showcasing a
+kaleidoscope of colors with complex tangles of lines and curves, you’d never
+guess that these psychedelic-looking images can be used to track things like
+oxygen consumption in the brain, blood flow across different organ systems or
+even the temperature of deep tissues.
+
+But that’s exactly what Yao does in his role as an assistant professor of
+biomedical engineering at Duke.
+
+Yao specializes in photoacoustic imaging, a technique that combines the
+properties of light and sound to peer deeper into tissue and create high-
+resolution images.
+
+Yao first learned about the technique as an undergraduate student working in
+an optics lab at Tsinghua University, and he was inspired enough to focus on
+photoacoustic imaging as a PhD student. Now, more than a decade later, he’s
+still fascinated by the technology.
+
+“The more I work with photoacoustic imaging the more I love it,” says Yao. “On
+one end of the spectrum, my lab is able to use it to pursue very basic
+research and answer basic biological questions. On the other end, we’re able
+to use it for clinical translation work that can directly help patients. We
+can be as creative as we want, and that’s very exciting.”
+
+When light strikes a biological molecule, some of its energy is transformed
+into heat, which induces a pressure wave that propagates through tissue as
+ultrasound. Photoacoustic imaging uses those ultrasound waves to gather
+information about the tissue.
+
+The first step of photoacoustic imaging involves using a laser to send light
+into tissue. Photons from this light are absorbed by molecules in the tissue,
+like red blood cells, melanin and even water.
+
+"It's basically compressing one second's worth of summer-noon sunlight over a
+fingernail area in a single nanosecond," says Yao. “When the laser hits a
+cell, the energy causes it to heat up a tiny bit and expand instantaneously,
+creating an ultrasonic wave. It's analogous to striking a bell to cause it to
+ring."
+
+Junjie Yao
+
+Researchers use algorithms, image processing tools and deep learning software
+to translate these ultrasound signals into high-resolution, highly colorful
+images. And the colors aren’t just for show––instead they are used to
+highlight certain characteristics of the tissue, such as absorption
+properties.
+
+“If you were to look at an ultrasound image, you can see the outline of the
+tissue but the contrast is in different shades of grays, and it can be
+difficult to decipher small details,” says Yao. “Photoacoustic imaging
+provides a much clearer contrast, because different molecules in the body
+absorb and react to different wavelengths of light. They have specific
+chemical structures which act like natural contrast agents.”
+
+For example, hemoglobin that is carrying oxygen will absorb light at one
+wavelength while deoxygenated hemoglobin does a better job of absorbing light
+at a different wavelength. These differences cause the tissue to emit
+ultrasonic waves at specific frequencies, resulting in varied colors in the
+final photo.
+
+“The colors in our images can tell us a lot about the tissue characteristics,
+like the amount of oxygen in a tissue or the amount of blood flow to an area,”
+says Yao. “Photoacoustic imaging can also show small details like the DNA and
+RNA inside of cells, which appear darker than the surrounding cell.”
+
+Yao and his team have already used photoacoustic imaging to study topics like
+the temperature of deep tissues for thermal-based cancer therapies. They have
+also formed partnerships with physicians at Duke University Medical Center to
+image and study blood vessels affected by different skin diseases.
+
+Now, Yao and his lab are pursuing the use of photoacoustic imaging to track
+oxygen levels throughout the brain. In their first project, they’re
+investigating how the brain uses oxygen as it heals after a stroke.
+
+“In general, there is a lack of information about how the blood vessels
+throughout the brain respond to different levels of oxygenation,” says Yao.
+“We want to see how small and large blood vessels are affected and how age may
+play a role. We’re hoping we can use this technique to illuminate how vessels
+repair themselves and begin to restore functions.”
+
+Their second project explores how the drug epinephrine affects brain function
+when given to a patient after a cardiac arrest. Epinephrine essentially
+jumpstarts the heart after a heart attack, and it increases blood pressure by
+constricting blood vessels throughout the body. Already, the team has used
+photoacoustic imaging to see that the use of epinephrine in animal models
+reduces oxygen levels in certain sections of the brain. Now, the team is
+exploring how they can resolve this issue to optimize use of the drug.
+
+Beyond these projects, Yao says his team is always looking for ways to push
+photoacoustic imaging forward, with the goal of making the technology faster,
+smaller and more colorful.
+
+> “We want photoacoustic imaging to be faster so we can capture the dynamics
+> and study a wider range of biological processes, and we want the system to
+> be smaller so we can more easily move it around inside and outside of the
+> lab, like at a patient’s bedside,” says Yao. “And we’re always looking to
+> make it more colorful so we can continue to learn even more about the tissue
+> systems we’re studying. There are always new ways to advance and use this
+> technology, and the possibilities are extremely exciting.”
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

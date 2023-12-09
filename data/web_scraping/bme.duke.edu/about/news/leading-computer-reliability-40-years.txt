@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Leading Computer Reliability for 40 Years
+
+September 5, 2017
+
+Duke ECE computer reliability and availability expert Kishor Trivedi publishes
+his fourth textbook
+
+When Kishor Trivedi came to Duke University in 1975 as a newly hired faculty
+member, he was asked to teach a course on Probability for Computer Science and
+Engineering—the art of calculating the likelihood that a computer’s hardware
+or software system will perform as required and not break down too frequently.
+
+The only problem was that he’d never taken a course on the subject himself.
+
+That did not stop Trivedi, however, from diving headfirst into the literature
+and learning it on his own. But as he did, Trivedi noticed there was no
+existing textbook that covered the topic.
+
+So he wrote his own.
+
+_Probability and Statistics with Reliability, Queuing and Computer Science
+Applications_ was published in 1982, followed by a full and complete revision
+in 2002 and a comprehensive manual containing 300 problem solutions soon
+after.
+
+That textbook tackled a large swath of territory on a fairly basic level; its
+revision remains widely used today. After its success, Trivedi decided to
+delve even further into the subject, completing more advanced tomes on various
+aspects of the field—including, in August 2017, his fourth book, _Reliability
+and Availability Engineering: Modeling, Analysis and Applications_.
+
+“I felt like we were never going to finish it for a while,” said Trivedi of
+the book that he began with coauthor Andrea Bobbio in 2002. “But as far as
+computer systems have advanced in the past 15 years, the methods used to
+predict their reliability don’t change as much.”
+
+To identify potential problems in hardware and software, researchers break
+systems down into individual components and create probabilistic models that
+describe a large system consisting of many interacting components through a
+set of equations. They then work to solve those equations as efficiently as
+possible.
+
+“The beauty of all this is when you try to apply these methods to real
+systems, you discover their difficulties,” said Trivedi, now the Hudson
+Professor of Electrical and Computer Engineering at Duke. “You have to find
+ways to solve these difficulties, implement the novel solutions into the tools
+and then apply the tools once again. That’s the cycle. And our tools are being
+used by many companies.”
+
+Trivedi’s books teach this process by providing real-world problems to solve.
+One of his own most memorable came in the mid-2000s when he was asked to
+analyze the current return subsystem on the Boeing 787 Dreamliner.
+
+The engineers had replaced the metal used in the airframe with composites,
+which meant they couldn’t simply tweak the old models to analyze it. They had
+to start from scratch and were having trouble using Trivedi’s tool—called
+SHARPE—to analyze the system.
+
+Trivedi had an idea as to how they could solve the problem, so he sent one of
+his doctoral students to help. Four months later, an entirely new algorithm
+had been written to solve the equations. But that wasn’t good enough for the
+Federal Aviation Administration, which required that such tools used for the
+analysis follow a standard laid out in a 600-page document called D0178B.
+
+“I’d never even heard of it, so we had solved the problem but we had not
+solved the problem,” said Trivedi. “So I dumped everything that was in my mind
+about what was done to ‘validate’ the tool SHARPE into a document detailing
+why my methods were sound and sent it to them. They finally approved it, and
+I, my graduate student and Boeing engineers patented the new algorithm.”
+
+There are many other problems detailed in the books, which Trivedi is very
+proud of. But perhaps one of his proudest moments came from the hands of
+former students, friends and colleagues who authored a “festschrift” in honor
+of Trivedi’s 70th birthday. Titled _Principles of Performance and Reliability
+Modeling and Evaluation_ , the work is a volume of essays on research into the
+performance and reliability aspects of dependable fault-tolerant systems.
+
+“When I was new to Duke and just starting my academic career, I would travel
+to universities to give talks--and the first thing people would do, before
+anything else, was ask whether I knew Kishor Trivedi and then start praising
+him,” said Krishnendu Chakrabarty, chair of ECE at Duke. “I was so impressed
+that I told myself that one day I will be like Kishor. Such has been his
+influence on me!”
+
+There has been an abundance of similar praise of Trivedi’s long and
+distinguished career at Duke University, which originally began in the
+Department of Computer Science in 1975. Then, in 1991, Trivedi made the move
+to the Department of Electrical and Computer Engineering, which he says has
+changed tremendously since that time.
+
+“EE was more teaching-oriented and not as heavy into research at the time,”
+said Trivedi, who spent many years as chair of the department’s search
+committee for bringing in new faculty members. “Back then, my research used to
+bring in more support than the rest of the department combined. But now the
+department has doubled in size and my work is just a drop in the bucket.”
+
+As for what’s next, Trivedi doesn’t have any plans on slowing down. He
+continues to add to the list of 46 doctoral students he has successfully
+mentored, many of whom go on to work at industry giants such as Boeing and
+IBM. And he’s still writing, now working with his coauthor on a solution
+manual for problems in his latest book.
+
+“Hopefully it won’t take quite as long to finish as the last one,” said
+Trivedi. “But since I don’t type very fast, you never know.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

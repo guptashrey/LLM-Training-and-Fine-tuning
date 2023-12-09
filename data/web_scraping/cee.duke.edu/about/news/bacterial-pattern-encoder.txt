@@ -1,0 +1,183 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# An AI Message Decoder Based on Bacterial Growth Patterns
+
+September 23, 2022 | By Ken Kingery
+
+New encryption method uses simulated bacterial growth based on specific
+initial conditions to form patterns corresponding to letters
+
+From a box of Cracker Jack to The Da Vinci Code, everybody enjoys deciphering
+secret messages. But biomedical engineers at Duke University have taken the
+decoder ring to place it’s never been before — the patterns created by
+bacterial colonies.
+
+Depending on the initial conditions used, such as nutrient levels and space
+constraints, bacteria tend to grow in specific ways. The researchers created a
+virtual bacterial colony and then controlled growth conditions and the numbers
+and sizes of simulated bacterial dots to create an entire alphabet based on
+how the colonies would look after they fill a virtual Petri dish. They call
+this encoding scheme emorfi.
+
+The encoding is not one-to-one, as the final simulated pattern corresponding
+to each letter is not exactly the same every time. However, the researchers
+discovered that a machine learning program could learn to distinguish between
+them to recognize the letter intended.
+
+“A friend may see many images of me over the course of time, but none of them
+will be exactly the same,” explained Lingchong You, professor of biomedical
+engineering at Duke. “But if the images are all consistently reinforcing what
+I generally look like, the friend will be able to recognize me even if they’re
+shown a picture of me they’ve never seen before.”
+
+To encrypt real messages, the encoder ends up creating a movie of a series of
+patterns, each correlating to a different letter. While they may look similar
+to the untrained eye, the computer algorithm can distinguish between them. So
+long as the receiver knows the set of initial conditions that led to their
+creation, an interloper should not be able to crack the code without a
+powerful AI of their own.
+
+Give the cypher a try yourself. You can type in anything from your name to the
+Gettysburg Address, or even the Christmas classic, “Be sure to drink your
+Ovaltine.”
+
+https://www.patternencoder.com/
+
+This research was supported by the National Science Foundation (MCB-1937259),
+the Office of Naval Research (N00014-20-1-2121), the David and Lucile Packard
+Foundation and the Google Cloud Research Credits program.
+
+“New encryption method uses simulated bacterial growth based on specific
+initial conditions to form patterns corresponding to letters.” Jia Lu, Ryan
+Tsoi, Nan Luo, Yuanchi Ha, Shangying Wang, Minjun Kwak, Yasa Baig, Nicole
+Moiseyev, Shari Tian, Alison Zhang, Neil Zhenqiang Gong, and Lingchong You.
+Patterns, Sept. 23, 2022. DOI: 10.1016/j.patter.2022.100590
+
+## Related News
+
+October 09, 2017
+
+### Bacteria Self-Organize to Build Working Sensors
+
+April 22, 2016
+
+### Time Cues Help Keep Humans Looking Human
+
+October 08, 2013
+
+### Growing Bacteria Keep Time, Know Their Place
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

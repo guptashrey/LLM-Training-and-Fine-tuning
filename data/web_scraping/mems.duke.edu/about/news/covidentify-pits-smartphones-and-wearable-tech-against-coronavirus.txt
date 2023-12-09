@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘CovIdentify’ Pits Smartphones and Wearable Tech Against the Coronavirus
+
+April 7, 2020
+
+New Duke research study seeks volunteers to provide data from smartphones,
+smartwatches and health surveys to help detect COVID-19
+
+Researchers at Duke University are exploring how data collected by
+smartphones, FitBits, Apple Watches and other smartwatches may help determine
+whether or not device users have COVID-19, the illness caused by the novel
+coronavirus.
+
+The research study -- called CovIdentify -- is recruiting participants through
+a website at covidentify.covid19.duke.edu.
+
+The project, led by assistant professor of biomedical engineering Jessilyn
+Dunn and Ryan Shaw, associate professor of nursing and director of the Health
+Innovation Lab, will assess whether information about smartwatch wearers’
+health, such as sleep schedules, oxygen levels, activity levels, and heart
+rate, can detect early symptoms of COVID-19.
+
+In previous work, Dunn and her team had shown that biometric data collected
+from wearable devices could indicate if a person was susceptible to various
+health issues, like diabetes or cardiovascular disease, or if they had an
+infection. Now, Dunn, Shaw and their collaborators Geoff Ginsburg, M.D., the
+director of MEDx (Medicine + Engineering at Duke) and Chris Woods, M.D., the
+associate director of the Duke Center for Applied Genomics and Precision
+Medicine, will use a similar approach to explore how wearable devices could be
+a useful tool in the fight against the growing global threat.
+
+In addition to Dunn’s previous work with wearable technology, Woods and
+Ginsburg have several ongoing investigations of wearable data for early
+detection of infectious disease under funding from the Defense Advanced
+Research Project Agency.
+
+“The idea for CovIdentify came to us in early March when we realized that
+there was going to be an explosion of COVID-19 cases across the United States,
+and we knew this was going to be a long-term health care problem,” said Dunn.
+“The team quickly put together a plan to investigate how the data from mobile
+devices and smartwatches could provide signals of early COVID-19 infection,
+and if we could predict the severity of infection.”
+
+The first phase of CovIdentify officially launched the first week of April
+with the covidentify.org website, where participants can input their relevant
+demographics and medical information and partake in a daily survey. Delivered
+via text or email, the survey asks about people they’ve come in contact with
+and whether they feel sick. If participants respond with a ‘yes,’ they’re
+prompted to answer more questions about their symptoms, ranking them from none
+to very severe. Participants will respond to the survey once a day for the
+first 30 days of the program, and once a week for the following two months.
+Participants will also be asked to share data from their smartphones and
+smartwatches.
+
+“The survey was designed to be simple to complete, as we want to encourage
+consistent participation,” said Dunn. “We ask about common symptoms including
+nasal congestion, runny nose, cough, sore throat, headache, fever and chills,
+and COVID-specific symptoms, like shortness of breath, nausea and loss of
+sense of taste and smell. This variety helps us determine which symptoms could
+be caused by seasonal issues, like allergies or colds, and which ones could be
+caused by COVID-19.”
+
+The Fitbit is currently the only device that can connect to the study. This
+will change at the end of April, when the team plans to launch the CovIdentify
+iOS app for iPhones, which can pull data from any wearable device that syncs
+with the Apple Health app. Shortly afterwards, the team will launch similar
+programs for Android and Google users. They will comply with each system’s
+privacy standards to ensure that all relevant health data is protected and
+kept anonymous. Although these devices will provide the team with more
+biometric data, participants don’t need a wearable device to take part in the
+study.
+
+These resources will help the team gather continuous biometric data about the
+participants -- namely activity levels, sleep, and heart rate -- which they
+can then pair with the daily surveys to see determine if there is a
+relationship between the biometric data and any symptoms users experience.
+
+“Our goal is to get 12 months of historical data from these apps and six
+months of data going forward,” said Shaw. “This will help us create a baseline
+so we can see what a person’s health usually looks like. The data and surveys
+collected over the next six months will help us create a trajectory of the
+illness, so we can see how changes in the digital health data relate to the
+emergence of specific symptoms.”
+
+“We want to see the differences in people who do and don’t get sick, and we
+also want to see what data would indicate a mild illness and what indicates
+the progression to a severe illness.”
+
+Once the data are collected, the team will develop, test and refine their
+predictive algorithms to detect respiratory infections from the COVID-19
+virus. According to Dunn, this information has the potential to become a
+valuable tool in helping researchers learn how to detect COVID-19 early, which
+could facilitate better outcomes for everyone.
+
+“We anticipate a great convergence of wearable data, self-reported symptoms,
+molecular testing and geospatial data to help us manage infections and
+outbreaks,” Ginsburg said. “CovIdentify is at the leading edge of this
+convergence.”
+
+“One of my lab’s goals is to arm health care professionals with tools and
+information to detect illness and intervene early by delivering the right
+treatment to the right person at the right time,” Dunn said. “If this study is
+successful, we’d be able to use non-invasive and accessible tools to help us
+control the spread of a dangerous virus, and predict when someone may need
+more intensive care. If we can achieve this, we may be able to help doctors
+save more lives.”
+
+This project was supported by Duke MEDx and Duke Clinical & Translational
+Science Institute.
+
+If you’re interested in participating in the program, please sign up at
+covidentify.covid19.duke.edu.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

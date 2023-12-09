@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Gorlatova Wins National Science Foundation CAREER Award
+
+March 22, 2021 | By Ken Kingery
+
+Prestigious five-year award will help improve augmented reality technology by
+making use of nearby smart devices connected to the Internet of Things
+
+Maria Gorlatova, the Nortel Networks Assistant Professor of Electrical and
+Computer Engineering at Duke University, has been awarded a prestigious
+National Science Foundation Faculty Early Career Development (CAREER) Award.
+The award supports outstanding young faculty members in their efforts to build
+a successful research enterprise.
+
+For the next five years, the $550,000 award will support Gorlatova’s
+innovative work that uses nearby Internet of Things electronics to improve the
+performance of augmented reality (AR) devices. The research will lay the
+foundation for creating new experiences and abilities for AR ranging from
+smart homes to the operating room.
+
+“Augmented reality can be generated with mobile phones or headsets like a
+HoloLens or Magic Leap, but there are currently all sorts of challenges no
+matter the platform,” said Gorlatova. “For example, virtual content does not
+stay in place like real objects, batteries drain too quickly or the devices
+can’t keep up computationally. We’re proposing to use external devices already
+in the environment to improve these issues.”
+
+Anyone who has ever played Pokémon Go or bought new furniture with a
+visualization app is familiar with the concept of AR. Pokémon Go overlays
+characters to collect on a device’s screen to make it look like Pikachu is
+standing on a street corner. Several furniture companies employ visualization
+apps that make it look like a new couch is already sitting in your living
+room’s empty corner.
+
+But these simple visualizations only scratch the surface of what AR is capable
+of. Imagine having virtual artwork displayed on your walls to match your mood
+or to help cheer you up. Distracting objects could be covered up with a
+hologram while you work. When cooking a new dish, AR could highlight the next
+ingredient or object you’ll need in the process. AR could also help improve a
+home’s safety. For example, when your toddler is toddling around, an AR
+headset could warn of dangerous objects like a hot frying pan handle sticking
+out.
+
+At an art museum, imagine seeing ancient Greek statues in the true vibrant
+colors they were originally painted in. In the medical field, imagine a
+surgeon about to remove a brain tumor who can “see” exactly where to cut
+thanks to a map created by a CAT scan virtually overlaid on the patient’s body
+in real-time.
+
+All of these concepts are close to becoming reality, and Gorlatova wants to
+give their development a shot in the arm.
+
+“We can take advantage of devices that are already generating some awareness
+so that AR doesn’t have to do everything,” said Gorlatova.
+
+For example, Gorlatova points to robotic vacuum cleaners and smart lights. A
+robotic vacuum cleaner has already mapped out a home’s floor space so that it
+can complete its daily routine, so an AR device could build from that data
+rather than starting from scratch. All AR devices work best with well-lit
+spaces, both so that they can read the room accurately and so that their
+displays show up vividly. So why not tie the AR device into nearby smart
+lights to create the perfect lighting conditions?
+
+User preferences are also important, of course, as ultimately AR is about
+helping the users, who have different goals and needs. Gorlatova’s research
+will focus on not just how to integrate data generated by existing smart
+devices into an AR experience, but how to optimize the user experience based
+on their preferences and activities.
+
+“To get to these ideal experiences, we first have to lay the foundational
+work, which is truly what this project is aimed toward,” said Gorlatova.
+“We’ll be examining how to let AR devices and users both have some control
+over some of the environment, creating new metrics of user experience and
+device performance, and converting those to quantifiable improvements. We want
+to create a new understanding of AR systems so that we can make them
+significantly more reliable than they are now.”
+
+## Related News
+
+August 13, 2020
+
+###  Students Code Alternate Realities
+
+September 06, 2018
+
+### Maria Gorlatova: Creating an Intelligent Internet of Things
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

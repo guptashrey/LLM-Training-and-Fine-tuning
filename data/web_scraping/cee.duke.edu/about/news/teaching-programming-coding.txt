@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Teaching Programming Before Coding
+
+October 14, 2015
+
+Drew Hilton, winner of Duke’s Klein Family Distinguished Teaching Award,
+extends his philosophy to two new online educational tools.
+
+**How did you get interested in teaching computer programming?**
+
+I came to Georgia Tech for my undergraduate degree in computer science as one
+of those kids who taught himself programming since the second grade. When I
+came to college, the intro programming courses were really easy, but at the
+time I didn't realize that they implicitly assumed you knew a lot already. For
+me, they were great in that they polished away many bad habits I had picked up
+without formal instruction. I was a TA for the introductory programming
+courses, for many years, but at the time I didn’t really understand the bigger
+picture educationally that these classes were set up for people who already
+know how to program, so I was a bit mystified by the struggles of many of the
+students. Then, when I was doing freelance tutoring as a master’s student, I
+had this realization that most courses weren’t actually teaching _how_ to
+program, they were only teaching the syntax.
+
+**So what’s the difference between teaching programming and teaching syntax?**
+
+The analogy I like to make is if you’re learning to play chess, I can show you
+how all the pieces move, but that doesn’t tell you what you’re supposed to do
+in a certain situation or how you’re supposed to think of a big strategy.
+Knowing the legal moves—the “syntax” of chess—is important to being able to
+play, but learning what’s legal isn’t the hard part, nor is it what
+distinguishes an intermediate player from a world champion.
+
+A lot of programming courses don’t really teach how to program. They show the
+syntax and so forth and then just sort of expect students to make this giant
+leap from memorizing “if-then” statements and “for loops” to understanding how
+to put them all together. So we look at explicitly how to do that.
+
+And I think it’s completely crazy to say you’re going to teach somebody to
+write if they don’t know how to read. So one thing that we cover that I think
+is really important, is that any piece of code that you write, you should be
+able to say precisely what it does, no matter what’s going on or where you are
+along the process.
+
+**So your big secret is to teach students how to think about programming
+rather than just the different moves they can make?**
+
+Exactly. When I was tutoring, I sat down and asked myself, “How do you tell
+someone step-by-step how to write a program?” And that has evolved over the
+years into the programming approach that I teach in this new e-book that I’ve
+published along with Anne Bracy at Cornell University as well as in a Coursera
+specialization course that I’ve developed with my colleagues in the computer
+science department.
+
+There are seven steps, and the first four are completely independent of the
+programming language that you’re learning. You start out working by hand and
+writing down step-by-step what you’re doing. First you try to generalize from
+a specific problem to the category of problems you’re trying to solve and then
+you check your work, again by hand. Only now that you have this nice solid
+plan do you go and turn that plan into code. And then you test and debug your
+code.
+
+**And that** **’s what** **’s in the Coursera specialization you** **’re
+developing along with your CS colleagues?**
+
+Yes. The Coursera course is focused on beginners and is a very gentle
+introduction to programming. You learn a few programming concepts, get
+introduced to the basics of Java, and write some simple programs. It’s for
+people who are just beginning to discover programming, so we try to expose
+them to the fun and excitement of computing and how it can solve a lot of
+different problems. The entire specialization is four four-week courses
+followed by a capstone project. But even then, you only get through about one-
+third of the new e-book, which I teach in a single semester here at Duke.
+
+**Your Duke class sounds like an intense class.**
+
+It definitely is intense. The course I teach with the new e-book is ECE 551.
+It’s for master’s students who have decided they want to be computer engineers
+but have little or no actual experience in programming. As master’s students,
+we assume they know how to excel in school, have taken hardcore engineering
+classes and know how to manage their time. They have an undergraduate degree
+but have decided that they like computer engineering enough that they want to
+spend two years changing fields. We don’t have to sell them that computing is
+exciting; they want to be programmers.
+
+As such, we’re working very much on developing very serious programming skills
+very quickly. Undergraduate students have four years to worry about learning
+to deal with corner cases, error conditions, and writing codes that are
+resilient and robust. I have to teach all of that in a semester.
+
+**Even though it sounds like an extremely difficult course, the students
+nominated you for the**Klein Family Teaching Award **– which you won – for the
+course last year. How did that happen?**
+
+The students really like this class for a variety of reasons. For one, it’s
+very applicable to them. It’s exactly what they need. Even though a lot of
+students see this table of contents and the sheer size of the book, and they
+say, “Okay, wait, you teach this whole thing in a semester?” We move really
+quickly, but that’s what it takes if these students want to be professional
+programmers working at top US tech companies like Google, Facebook, IBM or
+Microsoft in two years.
+
+I also think the students nominated me because I’ve never said no to a student
+wanting help. For example, way back I taught ECE 250, which is one of the
+undergraduate classes. After the first midterm I offered to help anyone who
+was not happy with their grade by setting up a weekly half-hour meeting with
+me. Generally, the students who got Ds and Fs on the midterm took me up, but I
+actually got one student who got something like a B-, who came and said, “I
+know you’re probably talking more to the people who got Ds, but this isn’t
+what I want.” But no matter what, if you want to put in the work of coming to
+see me for half-an-hour and getting your questions answered, then we’ll do it.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

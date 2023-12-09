@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Safe Travels
+
+October 10, 2019
+
+Duke ECE is driving a new $5.83 million airport security project
+
+Tactical sporks. Million-volt tasers disguised as lipsticks. Suitcases packed
+with fireworks.
+
+Every day, TSA agents intercept a baffling assortment of weird and dangerous
+items that passengers try to smuggle onto planes. Most often, they catch the
+contraband with X-ray imaging. But anyone who has ever flown for business is
+familiar with the limitations of that process: X-rays have trouble passing
+through metal objects like laptops, which is why travelers must remove their
+laptops from their luggage and send them through the conveyor in a separate
+bin.
+
+ECE associate professor Michael Gehm said that over the next few years,
+airports will begin using computerized tomography—analogous to CT scanners
+used in hospitals—to get 3D X-ray visuals on a bag’s contents. But even these
+CT images cannot always easily distinguish among similar liquids, which leaves
+the problem of determining whether a bottle is full of shampoo or something
+more sinister.
+
+“You really need some additional information,” said Joel Greenberg, an
+associate research professor in Gehm’s lab and the principal investigator on a
+new government-funded $5.8 million aviation security project. “Instead of
+measuring only the X-rays that go straight through an object, we also want to
+measure the scattered X-rays—the ones that go in, interact with the material
+in the bag, and bounce off.”
+
+> “Instead of measuring only the X-rays that go straight through an object, we
+> also want to measure the scattered X-rays—the ones that go in, interact with
+> the material in the bag, and bounce off.”
+>
+> —Duke ECE associate research professor Joel Greenberg
+
+“The way in which they interact gives you identification at the molecular
+level,” added Gehm. “You get the unique fingerprint of the material in the
+bag.”
+
+That interaction is called X-ray diffraction, and it has been studied for more
+than 100 years. While the physics is not new, stressed Greenberg, the
+technique is difficult to implement because of the very weak signal that is
+produced.
+
+“If you were taking a photograph in the dark, you could open up your shutter
+for a long time and eventually capture enough light to illuminate the subject
+of the photo,” explained Gehm. “If you use a quick shutter speed, your image
+will be dark. It’s the same principle—we have a weak process that doesn’t give
+us many photons to measure.”
+
+With the length of the lines at airport security checkpoints, creating long
+exposures isn’t an option. “You have to capture the image quickly to keep the
+lines moving,” said Gehm.
+
+The pair is designing an X-ray system that combines transmission imaging and
+X-ray diffraction tomography to get information faster. But making decisions
+about the system design— how many sensors and/or sources, what types, and what
+configurations—can become prohibitively expensive if a prototype has to be
+built before any real testing can occur. Having the ability to do an initial
+round of virtual testing allows researchers to quickly and inexpensively zero
+in on a promising system configuration.
+
+Instead, the team developed a mathematical tool that simulates detector
+performance, source performance, and geometry, and gives them the ability to
+analyze which configurations show the most promise before building them.
+“We’re attacking it using the simulation tool and information theory, and
+getting diffraction measurements faster, to relieve some of the practical
+pressures,” said Gehm.
+
+Greenberg and Gehm have brought in collaborators with highly specialized
+expertise to augment their work, including Duke radiology professor Anuj
+Kapadia and the University of Arizona’s Amit Ashok, a professor of optical
+sciences.
+
+“Quicker lines at airport security and getting to hold on to your water bottle
+would be nice benefits,” said Greenberg, “but better detection of current and
+emerging threats is paramount.”
+
+More Stories from the 2019-2020 Duke ECE Magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

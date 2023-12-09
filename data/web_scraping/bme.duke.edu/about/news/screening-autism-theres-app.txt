@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Screening for Autism: There's an App for That
+
+May 22, 2014 | By Ken Kingery
+
+Duke researchers create automated video analysis tools to identify children on
+the autism spectrum earlier
+
+Most schools across the United States provide simple vision tests to their
+students—not to prescribe glasses, but to identify potential problems and
+recommend a trip to the optometrist. Researchers are now on the cusp of
+providing the same kind of service for autism.
+
+Researchers at Duke University have developed software that tracks and records
+infants’ activity during videotaped autism screening tests. Their results show
+that the program is as good at spotting behavioral markers of autism as
+experts giving the test themselves, and better than non-expert medical
+clinicians and students in training.
+
+The results appear online in the journal Autism Research and Treatment.
+
+“We’re not trying to replace the experts,” said Jordan Hashemi, a graduate
+student in electrical and computer engineering at Duke. “We’re trying to
+transfer the knowledge of the relatively few autism experts available into
+classrooms and homes across the country. We want to give people tools they
+don’t currently have, because research has shown that early intervention can
+greatly impact the severity of the symptoms common in autism spectrum
+disorders.”
+
+The study focused on three behavioral tests that can help identify autism in
+very young children.
+
+In one test, an infant’s attention is drawn to a toy being shaken on the left
+side and then redirected to a toy being shaken on the right side. Clinicians
+count how long it takes for the child’s attention to shift in response to the
+changing stimulus. The second test passes a toy across the infant’s field of
+view and looks for any delay in the child tracking its motion. In the last
+test, a clinician rolls a ball to a child and looks for eye contact
+afterward—a sign of the child’s engagement with their play partner.
+
+In all of the tests, the person administering them isn’t just controlling the
+stimulus, he or she is also counting how long it takes for the child to
+react—an imprecise science at best. The new program allows testers to forget
+about taking measurements while also providing more accuracy, recording
+reaction times down to tenths of a second.
+
+“The great benefit of the video and software is for general practitioners who
+do not have the trained eye to look for subtle early warning signs of autism,”
+said Amy Esler, an assistant professor of pediatrics and autism researcher at
+the University of Minnesota, who participated in some of the trials
+highlighted in the paper.
+
+“The software has the potential to automatically analyze a child's eye gaze,
+walking patterns or motor behaviors for signs that are distinct from typical
+development," Esler said. "These signs would signal to doctors that they need
+to refer a family to a specialist for a more detailed evaluation.”
+
+According to Hashemi and his adviser, Guillermo Sapiro, professor of
+electrical and computer engineering and biomedical engineering at Duke,
+because the program is non-invasive, it could be useful immediately in homes
+and clinics. Neither, however, expects it to become widely used—not because
+clinicians, teachers and parents aren’t willing, but because the researchers
+are working on an even more practical solution.
+
+Later this year, the Duke team (which includes students and faculty from
+engineering and psychiatry) plans to test a new tablet application that could
+do away with the need for a person to administer any tests at all. The program
+would watch for physical and facial responses to visual cues played on the
+screen, analyze the data and automatically report any potential red flags. Any
+parent, teacher or clinician would simply need to download the app and sit
+their child down in front of it for a few minutes.
+
+The efforts are part of the Information Initiative at Duke, which connects
+researchers from disparate fields to experts in computer programming to help
+analyze large data sets.
+
+“We’re currently working with autism experts at Duke Medicine to determine
+what sorts of easy tests could be used on just a computer or tablet screen to
+spot any potential concerns,” said Sapiro. “The goal is to mimic the same
+sorts of social interactions that the tests with the toys and balls measure,
+but without the toys and balls. The research has shown that the earlier autism
+can be spotted, the more beneficial intervention can be. And we want to
+provide everyone in the world with the ability to spot those signs as early as
+possible.”
+
+This research was supported by the National Science Foundation (1039741,
+1028076), CAPES (BEX 1018/11-6), and FAPESP (2011/01434-9) Ph.D. scholarships
+from Brazil and the U.S. Department of Defense. Also supporting the research
+is the Office of Naval Research, the National Geospatial-Intelligence Agency,
+the Army Research Office, and the Air Force Office of Scientific Research.
+
+###
+
+“Computer vision tools for low-cost and non-invasive measurement of autism-
+related behaviors in infants,” Hashemi, J.; Tepper, M.; Spina, T.V.; Esler,
+A.; Morellas, V.; Papanikolopoulos, N.; Egger, H.; Dawson, G.; Sapiro, G.
+Autism Research and Treatment, 2014.
+
+Download a free copy of the study from Duke University Libraries.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

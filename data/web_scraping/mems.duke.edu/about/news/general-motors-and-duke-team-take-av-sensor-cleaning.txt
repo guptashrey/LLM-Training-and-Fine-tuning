@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# General Motors and Duke Team Up to Take on AV Sensor Cleaning
+
+May 25, 2018
+
+A team of five senior Mechanical Engineering students bring a fresh approach
+to keeping cameras and LIDAR sensors clean
+
+Earlier this year, automaker General Motors (GM) announced its intention to
+start mass-producing autonomous vehicles (AV) by 2019. The cars, which will be
+used for commercial ride-hailing, won’t even have steering wheels, or pedals.
+It was a bold statement—but the company had bought its own Light Detection and
+Ranging (LIDAR) sensor manufacturer a few months prior, and had launched a
+beta AV ride-hailing service for its own employees in San Francisco just a few
+months before that. In fact, ever since its acquisition of Cruise Automation
+in 2016, GM had been pushing to the front of the pack in AV development.
+
+Duke Mechanical Engineering alum Costi Shami E'13, MS'14 is a vehicle
+performance engineer in GM’s AV division, working at the company’s proving
+grounds in Michigan. He is also part of the company’s engineering recruitment
+team. “When I come to Duke to recruit, students always have a lot of good
+questions about the autonomous vehicle space, and what GM is doing to lead the
+space,” said Shami.
+
+Shami thought that it might be beneficial for his company to get a fresh
+perspective on a particular area of AV design that is sometimes overlooked:
+the onboard cleaning system for the vehicles’ sensors. Autonomous vehicles
+navigate by using multiple sensors, including LIDAR, radar and cameras, so
+it’s crucial that their surfaces can be quickly cleaned and cleared if a car
+splashes through a puddle, or drives through a dust storm, or gets bombed by a
+pigeon flying overhead. It would be a valuable experience for the students,
+also. “This was a good way of showing the day-to-day activities that an
+engineer at GM is tasked with,” said Shami. “To come up with solutions, to
+think outside the box.”
+
+> “This was a good way of showing the day-to-day activities that an engineer
+> at GM is tasked with—to come up with solutions, to think outside the box.”
+>
+> Costi Shami, E'13, MS'14
+
+Shami knew that with Dean Ravi Bellamkonda’s intense focus on undergraduate
+design experiences, a collaborative project between GM and Duke would be well-
+received; he pitched the idea to his colleagues at GM, and the company agreed
+to sponsor a senior design project supervised by Neal Simmons, the Gendell
+Family Professor of the Practice in Duke’s Mechanical Engineering (ME)
+department. “Externally sponsored projects are particularly valuable as the
+student/company interaction provides an amplified educational benefit,” said
+Simmons. “These interactions offer students the opportunities to engage with
+their sponsor’s engineering, manufacturing, marketing, and leadership teams to
+approach sparsely defined problems and balance competing constraints found in
+real world projects.”
+
+Shami gave the five students enrolled in the course some parameters to bound
+the design challenge, and they hit the ground running. “The hope was that
+maybe a new set of eyes would adopt different technologies or different
+implementations,” said Shami—which is exactly what happened.
+
+“We started totally off the wall,” said student Ryan Cox, who served as the
+team’s unofficial project manager. Some of them—robotic arms, spinning cloth
+strips, chemical passive solutions, hydrophobic surfaces and ultrasonic
+devices—were quickly discarded because of budget or time constraints. The team
+pitched the remaining small field of ideas to Shami and Simmons, talking out
+the merits and potential pitfalls of each and considering factors such as the
+potential for scratching (LIDAR sensors can cost more than $10k apiece, and
+are fragile; any abrasions that might be caused by pushing grit and grime
+across their surfaces would render them unusable), the time of the cleaning
+cycle, and whether a similar solution had already been explored by GM.
+
+The idea that made it through to the prototype phase, ironically, wasn’t
+completely novel; it was inspired by 1970s-era headlight wiper blades.
+
+“This was the simplest solution. It was very elegant,” said team member Dan
+Connolly. “But the application and the way we were going to adapt it and make
+it self-contained, was new.”
+
+The team, all seniors majoring in mechanical engineering, divided up to
+engineer the camera and LIDAR sensor cleaning solutions: Jack Gregory served
+as the structural designer for the camera solution, and Connolly for the
+LIDAR; Ziad El Arab handled the pumps and hydraulics of the water systems;
+Patrick Combe ran point on software and printed all of the pieces at the
+Innovation Co-Lab, where he worked; Cox handled small parts and systems
+integration.
+
+The finished solutions bore little resemblance to their quirky squeegee
+ancestor; they were streamlined, and their motions economical. The LIDAR
+sensor cleaner, in particular, more resembled a UFO than a windshield wiper.
+And the pieces were modular, meaning that they could be taken off one sensor
+and attached to another. “We knew the design would have to change and adapt as
+autonomous vehicles change and adapt,” said Connolly.
+
+> "We knew the design would have to change and adapt as autonomous vehicles
+> change and adapt."
+>
+> Daniel Connolly, E'18
+
+“One of the key objectives I tasked the team with was to come up with
+something that had both form and function. That was a major concern from a
+design perspective, and from a public perception perspective,” said Shami
+after evaluating the team’s final presentation. “You want to see a car driving
+down the road that looks clean, that looks sleek. That was a massive strength
+that their design brought to the table. It looks polished.”
+
+Cox said that the team was pleased with the outcome also, and has thought
+extensively about how their solutions could be improved further, with more
+time and money. Reducing the motor size, improving the circuitry and machining
+the parts, for example, could make the systems even lighter and more
+aerodynamic.
+
+“I can see this solution going somewhere,” said Cox. “I can imagine it applied
+in the real world.”
+
+more about Mechanical Engineering at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

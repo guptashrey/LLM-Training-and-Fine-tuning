@@ -1,0 +1,249 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# First Demonstration of a Working Invisibility Cloak
+
+October 19, 2006
+
+A team led by scientists at Duke University's Pratt School of Engineering has
+demonstrated the first working "invisibility cloak." The cloak deflects
+microwave beams so they flow around a "hidden" object inside with little
+distortion, making it appear almost as if nothing were there at all.
+
+A team led by scientists at Duke University's Pratt School of Engineering has
+demonstrated the first working "invisibility cloak." The cloak deflects
+microwave beams so they flow around a "hidden" object inside with little
+distortion, making it appear almost as if nothing were there at all.
+
+Cloaks that render objects essentially invisible to microwaves could have a
+variety of wireless communications or radar applications, according to the
+researchers.
+
+The team reported its findings on Thursday, Oct. 19, in Science Express, the
+advance online publication of the journal Science. The research was funded by
+the Intelligence Community Postdoctoral Fellowship Program.
+
+The researchers manufactured the cloak using "metamaterials" precisely
+arranged in a series of concentric circles that confer specific
+electromagnetic properties. Metamaterials are artificial composites that can
+be made to interact with electromagnetic waves in ways that natural materials
+cannot reproduce.
+
+The cloak represents "one of the most elaborate metamaterial structures yet
+designed and produced," the scientists said. It also represents the most
+comprehensive approach to invisibility yet realized, with the potential to
+hide objects of any size or material property, they added.
+
+Earlier scientific approaches to achieving "invisibility" often relied on
+limiting the reflection of electromagnetic waves. In other schemes, scientists
+attempted to create cloaks with electromagnetic properties that, in effect,
+cancel those of the object meant to be hidden. In the latter case, a given
+cloak would be suitable for hiding only objects with very specific properties.
+
+"By incorporating complex material properties, our cloak allows a concealed
+volume, plus the cloak, to appear to have properties similar to free space
+when viewed externally," said David R. Smith, Augustine Scholar and professor
+of electrical and computer engineering at Duke. "The cloak reduces both an
+object's reflection and its shadow, either of which would enable its
+detection."
+
+The team produced the cloak according to electromagnetic specifications
+determined by a new design theory proposed by Sir John Pendry of Imperial
+College London, in collaboration with the Duke scientists. The scientists
+reported that theoretical work in Science earlier this year.
+
+The principles behind the cloaking design, though mathematically rigorous, can
+be applied in a relatively straightforward way using metamaterials, said cloak
+designer David Schurig, a research associate in Duke's electrical and computer
+engineering department.
+
+"One first imagines a distortion in space similar to what would occur when
+pushing a pointed object through a piece of cloth, distorting, but not
+breaking, any threads," Schurig said. "In such a space, light or other
+electromagnetic waves would be confined to the warped 'threads' and therefore
+could not interact with, or 'see,' objects placed inside the resulting hole."
+
+The researchers used a mathematical description of that concept to develop a
+blueprint for a cloak that mimics the properties of the imagined, warped
+space, he said.
+
+"You cannot easily warp space, but you can achieve the same effect on
+electromagnetic fields using materials with the right response," Schurig
+continued. "The required materials are quite complex, but can be implemented
+using metamaterial technology."
+
+While the properties of natural materials are determined by their chemistry,
+the properties of metamaterials depend instead on their physical structure. In
+the case of the new cloak, that structure consists of copper rings and wires
+patterned onto sheets of fiberglass composite that are traditionally used in
+computer circuit boards.
+
+To simplify design and fabrication in the current study, the team set out to
+develop a small cloak, less than five inches across, that would provide
+invisibility in two dimensions, rather than three. In essence, the cloak
+includes strips of metamaterial fashioned into concentric two-dimensional
+rings, a design that allows its use with a narrow beam of microwave radiation.
+The precise variations in the shape of copper elements patterned onto their
+surfaces determine their electromagnetic properties.
+
+The cloak design is unique among metamaterials in its circular geometry and
+internal structural variation, the researchers said. All other metamaterials
+have been based on a cubic, or gridlike, design, and most of them have
+electromagnetic properties that are uniform throughout.
+
+"Unlike other metamaterials, the cloak requires a gradual change in its
+properties as a function of position," Smith said. "Rather than its material
+properties being the same everywhere, the cloak's material properties vary
+from point to point and vary in a very specific way. Achieving that gradient
+in material properties was a fairly significant design effort."
+
+To assess the cloak's performance, the researchers aimed a microwave beam at a
+cloak situated between two metal plates inside a test chamber, and used a
+specialized detecting apparatus to measure the electromagnetic fields that
+developed both inside and outside the cloak. By examining an animated
+representation of the data, they found that the wave fronts of the beam
+separate and flow around the center of the cloak. "The waves' movement is
+similar to river water flowing around a smooth rock," Schurig said.
+
+Moreover, the observed physical behavior of the cloak proved to be in
+"remarkable agreement" with that expected based on a simulated cloak, the
+researchers said.
+
+Although the new cloak demonstrates the feasibility of the researchers'
+design, the findings nevertheless represent a "baby step" on the road to
+actual applications for invisibility, said team member Steven Cummer, a
+professor of electrical and computer engineering at Duke.
+
+The researchers said they plan to work toward developing a three-dimensional
+cloak and further perfecting the cloaking effect.
+
+Although the same principles applied to the new microwave cloak might
+ultimately lead to the production of cloaks that confer invisibility within
+the visible frequency range, that eventuality remains uncertain, the
+researchers said. "It's not yet clear that you're going to get the
+invisibility that everyone thinks about with Harry Potter's cloak or the Star
+Trek cloaking device," Smith said.
+
+To make an object literally vanish before a person's eyes, a cloak would have
+to simultaneously interact with all of the wavelengths, or colors, that make
+up light, he said. That technology would require much more intricate and tiny
+metamaterial structures, which scientists have yet to devise.
+
+Collaborators on the study included Jack Mock and Bryan Justice of Duke; John
+Pendry of Imperial College London; and Anthony Starr of SensorMetrix in San
+Diego, Calif. Pendry's research is supported by the United Kingdom's
+Engineering and Physical Sciences Research Council.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

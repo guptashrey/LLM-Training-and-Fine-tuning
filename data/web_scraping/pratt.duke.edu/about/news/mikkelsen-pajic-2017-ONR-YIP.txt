@@ -1,0 +1,175 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mikkelsen, Pajic Receive Naval Young Investigator Program Awards
+
+March 8, 2017
+
+Duke ECE's Maikken Mikkelsen and Miroslav Pajic were honored as early-career
+researchers who show "exceptional promise for doing creative research.”
+
+Maiken Mikkelsen, the Nortel Networks Assistant Professor of Electrical and
+Computer Engineering and assistant professor of physics at Duke University,
+and Miroslav Pajic, assistant professor of electrical and computer engineering
+at Duke University, have each won an Office of Naval Research Young
+Investigator Program award. The program provides support to early-career
+researchers who “show exceptional promise for doing creative research.”
+
+Mikkelsen’s award will provide $510,000 over the next three years to perform
+nanofabrication and optical experiments to investigate nanoparticle-based
+perfect absorber coatings. These coatings currently rely on a layer of silver
+nanocubes precisely separated from a thin film of gold by a few nanometer-
+thick polymer. When light strikes this “metasurface,” a specific wavelength—or
+color—gets trapped on the surface of the nanocubes in packets of energy called
+plasmons, eventually dissipating into heat.
+
+Previous work has shown that this technique is capable of near-perfect
+absorption, works at wide angles and can be tuned to absorb different
+wavelengths of light from the visible spectrum to the near infrared. Making
+the technology even more promising for applications such as thermal imaging or
+masking the heat signatures of objects, Mikkelsen’s self-assembly-based
+fabrication technique vastly reduces cost and manufacturing issues.
+
+The new grant will support the continued development of the technology by
+utilizing environmentally robust materials suitable for naval applications and
+integrating active materials that can tune and adapt the coating’s properties
+through external stimuli such as heat, light or electric field. The award
+completes a Department of Defense hat trick for Mikkelsen, who has also
+received young investigator awards in the past year from the Air Force Office
+of Scientific Research and the Army Research Office.
+
+Pajic’s award will also provide $510,000 over three years to focus on
+protecting modern vessels, devices, autonomous drones and other naval cyber-
+physical systems (CPS) from cyber and physical attacks. These systems employ
+complex networked architectures with a large number of embedded computers
+interacting with physical world in real-time. This increasing set of
+functionalities, network interoperability and system design complexity,
+however, may also introduce security vulnerabilities.
+
+For example, several recent incidents, such as the capturing of the RQ-170
+Sentinel U.S. drone in Iran, clearly illustrate the susceptibility of naval
+CPS to attacks well beyond the standard cyber-attacks. Physical attacks on
+sensors, such as GPS-spoofing, can have similar devastating effect on system
+operation.
+
+Pajic’s research seeks to address these by creating a high-assurance design
+framework for Naval CPS. He and his team plan to exploit physical phenomena
+present in any interaction between cyber and physical worlds to derive
+resilient cyber-physical components with strong formal performance and
+resiliency guarantees. They will also produce a set of design methods and
+tools to ensure that no security vulnerabilities are introduced during
+implementation of these security-aware systems.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

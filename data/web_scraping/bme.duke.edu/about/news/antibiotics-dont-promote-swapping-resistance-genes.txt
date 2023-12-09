@@ -1,0 +1,206 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Antibiotics Don't Promote Swapping of Resistance Genes
+
+April 11, 2016 | By Ken Kingery
+
+Bacterial resistance spreads through population dynamics, not an increase in
+gene transfers
+
+Researchers have shown that, outside of a few specific examples, antibiotics
+do not promote the spread of bacterial antibiotic resistance through genetic
+swapping, as previously assumed.
+
+While the overuse of antibiotics is undeniably at the heart of the growing
+global crisis, new research published online April 11 in Nature Microbiology
+suggests differential birth and death rates and not DNA donation are to blame.
+The results have implications for designing antibiotic protocols to avoid the
+spread of antibacterial resistance.
+
+“The entire field knows there’s a huge problem of overusing antibiotics,” said
+Lingchong You, the Paul Ruffin Scarborough Associate Professor of Engineering
+at Duke University and lead author on the paper. “It is incredibly tempting to
+assume that antibiotics are promoting the spread of resistance by increasing
+the rate at which bacteria share resistant genes with each other, but our
+research shows they often aren’t.”
+
+It’s long been known that bacteria can swap DNA through a process called
+conjugation, which allows helpful genes to spread quickly between individuals
+and even between species.
+
+Because the number of resistant bacteria rises when antibiotics fail to kill
+them, researchers assumed that the drugs increased the amount of genetic
+swapping taking place. But You thought maybe the drugs were killing off the
+two “parent” lineages and allowing a newly resistant strain to thrive instead.
+
+“Previous studies haven’t been able to tease these two ideas apart, but our
+work decoupled them,” said Allison Lopatkin, a doctoral student in You’s
+laboratory and the lead author of the study. “We showed at the single-cell
+level that the exchange of resistant genes is not influenced by antibiotics at
+all, which is in contrast to the literature.”
+
+In her experiments, Lopatkin put bacterial cells under a sort of suspended
+animation where they could neither die nor reproduce but they could still swap
+genes. With the birth and death rates no longer a variable, the researchers
+could see how the rate of gene exchanges responded to antibiotics.
+
+They tested nine clinical pathogens commonly associated with the rapid spread
+of resistance and exposed them to ten common drugs representing each major
+class of antibiotics.
+
+The rates of gene exchange in each test remained flat and, in a few cases,
+actually decreased slightly as the concentration of antibiotics grew.
+
+“It would seem that when antibiotics are applied, the DNA swapping has already
+occurred and continues to do so,” You said. “Depending on their doses, the
+drugs can let the newly resistant bacteria emerge as the winners. When this
+occurs, the new strain is much more prevalent than before if tests are run
+after some growth of the new strain.”
+
+You points out that there are a few proven examples of antibiotics directly
+inducing the expression of the genes responsible for donating resistance, but
+they are very specific. For example, the antibiotic tetracycline induces the
+expression of genes that only transfer tetracycline resistance.
+
+The new study shows that despite these outliers, antibiotics don’t promote
+resistance spread by inducing global changes at the cellular level. The
+researchers hope further research will soon help clinicians design better
+antibacterial protocols.
+
+“This has direct implications in terms of how we design doses and protocols,”
+said You. “Some antibacterial combinations can drastically promote the overall
+transfer dynamics. Other combinations, on the other hand, can suppress the
+pathogens equally well without promoting genetic transfers. These are the
+issues we’re hoping to address in follow-up research. We’re trying to learn
+how to design the antibiotic treatment protocols in such a way that they will
+be effective but won’t promote the spread of antibiotic resistance.”
+
+Other authors on the paper include Shuqiang Huang, Jaydeep Srimani and Tatyana
+Sysoeva of the You lab; Robert Smith from Nova Southeastern University; Sharon
+Bewick from University of Maryland; and David Karig from the Johns Hopkins
+University Applied Physics Laboratory.
+
+The work is supported by grants from US Army Research Office, the National
+Institutes of Health and the Packard Foundation.
+
+# # #
+
+“Antibiotics as a selective driver for conjugation dynamics,” Allison J.
+Lopatkin, Shuqiang Huang, Robert P. Smith, Jaydeep K. Srimani, Tatyana A.
+Sysoeva, Sharon Bewick, David Karig, Lingchong You. Nature Microbiology, April
+11, 2016. DOI: 10.1038/NMICROBIOL.2016.44
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

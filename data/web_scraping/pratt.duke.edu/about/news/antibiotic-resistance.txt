@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Managing Antibiotics Not Enough to Reverse Resistance
+
+November 22, 2017 | By Ken Kingery
+
+Gene-swapping bacteria don’t lose resistance after antibiotics end
+
+Researchers have discovered that reducing the use of antibiotics will not be
+enough to reverse the growing prevalence of antibiotic resistance for some
+types of bacteria.
+
+Besides passing along the genes bestowing antibiotic resistance to their
+offspring, many bacteria can also swap genes amongst themselves through a
+process called conjugation. There has long been a debate, however, as to
+whether this process occurs fast enough to spread through a population that is
+not under attack by antibiotics.
+
+In a new study, researchers from Duke University believe they have found a
+definitive answer to that question. Through a series of experiments with
+bacteria capable of conjugation, they show that all of the bacteria tested
+share genes fast enough to maintain resistance. They also show, however, that
+there are ways to disrupt the process and reverse antibiotic resistance.
+
+The results appear online on Nov. 22 in the journal Nature Communications.
+
+"The results came as a surprise to me when I first saw the data," said
+Lingchong You, the Paul Ruffin Scarborough Associate Professor of Engineering
+at Duke University and corresponding author on the paper. "For all of the
+bacteria we tested, their conjugation rate is sufficiently fast that, even if
+you don't use antibiotics, the resistance can be maintained --even if the
+genes carry a high cost."
+
+Most resistance to antibiotics arises and spreads through natural selection.
+If a few lucky bacteria have genes that help them survive a round of
+antibiotics, they quickly parent the next generation and pass on those genes.
+
+Many of these genes, however, come at a cost. For example, a mutation may
+allow a bacterium to build a thicker membrane to survive a particular
+antibiotic, but that mutation might also make it more difficult for the cell
+to reproduce. Without the selective pressure of antibiotics killing off the
+competition, bacteria with this mutation should disappear over time.
+
+But when the genes responsible for resistance can also be swapped between
+cells, the equation gets more complicated. In favor of maintaining the
+resistance is the rate at which the genes are shared. Working against it is
+the previously mentioned biological cost of the genes, and the natural error
+rate in genes when they are passed on.
+
+"There have been some studies on how critical conjugation is to maintaining
+resistance despite its cost, but there has been a lack of careful and well-
+defined experiments to come to definitive conclusions," said You. "That's
+where Allison has made a central contribution. Her incredibly thorough
+measurements allow us to draw our conclusions with high confidence."
+
+Allison Lopatkin, a doctoral student in You's laboratory and first author of
+the paper, carefully measured the rate of conjugation and antibiotic
+resistance in pathogens for more than a month. The strains were obtained
+through a parallel project with Duke Health, in which You is trying to
+determine just how common conjugation is amongst pathogens.
+
+So far, You has found that more than 30 percent of the bacterial pathogens he
+has tested spread resistance through conjugation. And of those, nine were
+further tested by Lopatkin to see how well they would maintain their
+resistance in the abscence of antibiotics.
+
+"Every single clinical strain we tested maintained its resistance through
+conjugation even without the selective pressure of antibiotics," said
+Lopatkin.
+
+The results indicate that -- at least for bacteria that swap resistance genes
+-- simply managing the amount of antibiotics being used will not turn the tide
+on the growing problem of resistance. To make any headway, according to You
+and Lopatkin, drugs will also be needed that both stop the sharing of genes
+and decrease the rate at which they are passed on through reproduction.
+
+Luckily, such drugs already exist, and there may be many more out there
+waiting to be discovered.
+
+"We did the same experiments with one drug that is known to inhibit
+conjugation and another that encourages resistance genes to be lost," Lopatkin
+said. "We found that without the presence of antibiotics we could reverse the
+bacteria's resistance in four of the pathogens we tested and could stop it
+from spreading in the rest."
+
+One of the drugs is a benign natural product and the second is an FDA-approved
+antipsychotic. While the team has filed a provisional patent for the use of
+the combination to reverse antibiotic resistance, they hope future work will
+reveal even better options.
+
+"As a next step, we're interested in identifying additional chemicals that can
+fill these roles more effectively," said You. "Historically, when researchers
+screened huge libraries for medicines, they focused on drugs that can kill the
+bacteria. But what our studies suggest is that there is a whole new universe
+where you can now screen for other functions, like the ability to block
+conjugation or to induce the loss of resistance genes. These chemicals, once
+proven safe, can serve as adjuvants of the standard antibiotic treatment, or
+they can be applied in an environmental setting as a way of generally managing
+of the spread of antibiotic resistance."
+
+This research was supported by the U.S. Army Research Office
+(W911NF-14-1-0490), the National Institutes of Health (1R01-GM098642), and the
+National Science Foundation (1614538).
+
+CITATION: "Persistence and reversal of plasmid-mediated antibiotic
+resistance." Allison J. Lopatkin, Hannah R. Meredith, Jaydeep K. Srimani,
+Connor Pfeiffer, Rick Durrett, Lingchong You. Nature Communications, Nov. 22,
+2017. DOI: 10.1038/s41467-017-01532-1  
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

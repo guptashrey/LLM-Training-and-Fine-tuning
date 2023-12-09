@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Jumping Droplets Whisk Away Hotspots in Electronics
+
+April 3, 2017 | By Ken Kingery
+
+New technology adds a third dimension to cooling modern electronics
+
+Engineers have developed a technology to cool hotspots in high-performance
+electronics using the same physical phenomenon that cleans the wings of
+cicadas.
+
+When water droplets merge, the reduction in surface area causes the release of
+a small amount of energy. So long as the surface beneath is hydrophobic enough
+to repel water, this energy is sufficient to make the merged droplet jump
+away.
+
+On the wings of cicadas, this phenomenon drives droplets to catch and remove
+particles of dirt and debris. In the new cooling technology created by
+engineers at Duke University and Intel Corporation, droplets jump toward
+hotspots to bring cooling where the electronics need it most.
+
+The results appear online on April 3, 2017, in the journal Applied Physics
+Letters.
+
+“Hotspot cooling is very important for high-performance technologies,” said
+Chuan-Hua Chen, associate professor of mechanical engineering and materials
+science at Duke. “Computer processors and power electronics don’t perform as
+well if waste heat cannot be removed. A better cooling system will enable
+faster computers, longer-lasting electronics and more powerful electric
+vehicles.”
+
+The new technology relies on a vapor chamber made of a super-hydrophobic floor
+with a sponge-like ceiling. When placed beneath operating electronics,
+moisture trapped in the ceiling vaporizes beneath emerging hotspots. The vapor
+escapes toward the floor, taking heat away from the electronics along with it.
+
+Passive cooling structures integrated into the floor of the device then carry
+away the heat, causing the water vapor to condense into droplets. As the
+growing droplets merge, they naturally jump off the hydrophobic floor and back
+up into the ceiling beneath the hotspot, and the process repeats itself. This
+happens independent of gravity and regardless of orientation, even if the
+device is upside-down.
+
+The technology has many advantages over existing cooling techniques.
+Thermoelectric coolers that act as tiny refrigerators cannot target random
+hotspot locations, making them inefficient for use over large areas. Other
+approaches can target moving hotspots, but require additional power inputs,
+which also leads to inefficiencies.
+
+The jumping-droplet cooling technology also has a built-in mechanism for
+vertical heat escape, which is a major advantage over today’s heat spreaders
+that mostly dissipate heat in a single plane.
+
+“As an analogy, to avoid flooding, it is useful to spread the rain over a
+large area. But if the ground is soaked, the water has no vertical pathway to
+escape, and flooding is inevitable,” said Chen. “Flat-plate heat pipes are
+remarkable in their horizontal spreading, but lack a vertical mechanism to
+dissipate heat. Our jumping-droplet technology addresses this technological
+void with a vertical heat spreading mechanism, opening a pathway to beat the
+best existing heat spreaders in all directions.”
+
+There is still much work to be done before Chen’s jumping droplets can compete
+with today’s cooling technologies. The main challenge is to find suitable
+materials that work with high-heat vapor over the long term. But Chen remains
+optimistic.
+
+“It has taken us a few years to work the system to a point where it’s at least
+comparable to a copper heat spreader, the most popular cooling solution,” said
+Chen. “But now, for the first time, I see a pathway to beating the industry
+standards.”
+
+This work was supported by Intel Corporation and the National Science
+Foundation (CBET-12-36373, DMR-11-21107, DGF-11-06401).
+
+“Hotspot cooling with jumping-drop vapor chambers,” Kris F. Wiedenheft, H.
+Alex Guo, Xiaopeng Qu, Jonathan B. Boreyko, Fangjie Liu, Kungang Zhang, Feras
+Eid, Arnab Choudhury, Zhihua Li and Chuan-Hua Chen. Applied Physics Letters,
+2017. DOI: 10.1063/1.4979477
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

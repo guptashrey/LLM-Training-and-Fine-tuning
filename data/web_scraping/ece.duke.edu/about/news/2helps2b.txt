@@ -1,0 +1,234 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Simple Machine Learning Scorecard for Seizures is Saving Lives
+
+December 4, 2019 | By Ken Kingery
+
+Interpretable machine learning model helps doctors decide which stroke victims
+require cEEG monitoring, simultaneously saving lives and millions of dollars
+
+Computer scientists from Duke University and Harvard University have joined
+with physicians from Massachusetts General Hospital and the University of
+Wisconsin to develop a machine learning model that can predict which patients
+are most at risk of having destructive seizures after suffering a stroke or
+other brain injury.
+
+A point system they’ve developed helps determine which patients should receive
+expensive continuous electroencephalography (cEEG) monitoring. Implemented
+nationwide, the authors say their model could help hospitals monitor nearly
+three times as many patients, saving many lives as well as $54 million each
+year.
+
+A paper detailing the methods behind the interpretable machine learning
+approach appeared online June 19 in the Journal of Machine Learning Research.
+
+When a brain aneurysm leads to a brain bleed, much of the damage isn’t done in
+just the first few hours, it accumulates over time as the patient experiences
+seizures. But because the patient’s condition doesn’t allow them to show any
+outward signs of distress, the only way to tell they are having seizures is
+through an EEG. However, continuously monitoring a patient with this
+technology is expensive and requires highly trained physicians to interpret
+the readings.
+
+Aaron Struck, assistant professor of neurology in the University of Wisconsin
+School of Medicine and Public Health, and Brandon Westover, director of the
+Critical Care EEG Monitoring Service at Massachusetts General Hospital, sought
+to optimize these limited resources. Through the help of colleagues in the
+Critical Care EEG Monitoring Research Consortium, they collected data on
+dozens of variables from nearly 5,500 patients and got to work.
+
+“We wanted a point system to decide who has greatest risk of having seizures,”
+said Struck. “But when we tried traditional approaches to create one from the
+data, we got stuck. That’s when we started working with Professor Rudin and
+Dr. Ustun.”
+
+Cynthia Rudin, professor of computer science and electrical and computer
+engineering at Duke, and her former Ph. D. student, Berk Ustun, who is now a
+postdoc at Harvard, specialize in interpretable machine learning. While most
+machine learning models are a “black box” too complicated for a human to
+understand, interpretable machine learning models are restricted to reporting
+back in plain English.
+
+Rudin and Ustun had already created a machine learning algorithm that produces
+simple models called scoring systems for other applications. You might see
+examples of scoring systems in teen magazines aimed at determining whether or
+not your crush is returning your affections. (One point if they’ve texted you
+in the past week, two if they’ve sat next to you in class.) Any combination
+that adds up to more than 10 points means you’re destined for fireworks.
+
+Except Rudin and Ustun’s scoring systems are based on a sophisticated
+combination of optimization techniques called ‘cutting planes’ and ‘branch and
+bound.’
+
+For example, say you were looking for the bottom point on a bowl-shaped graph.
+A traditional cutting plane method uses tangential lines to choose points that
+quickly settle at its bottom like a snowboarder losing momentum in a half-
+pipe. But if this method is asked to find the lowest point that is also a
+whole number -- which the unrestricted answer is not likely to be -- it might
+continue its search between the vast number of nearly acceptable answers
+indefinitely.
+
+To skirt this issue, Rudin and Ustun combined cutting plane optimization with
+another called branch and bound, which cuts out a large part of the search.
+The entire process then repeats until an optimal, interpretable answer is
+produced.
+
+Their method had already proven successful creating screening tests for sleep
+apnea, Alzheimer’s disease and adult ADHD. Rudin and Ustun just had to refit
+it to the cEEG data.
+
+“This machine learning tool took seizure data from thousands of patients and
+it produced a model called 2HELPS2B,” said Rudin. “And the great thing about
+this model is that clinicians can memorize it just by knowing its name. It
+looks like something that doctors would come up with on their own, but it’s a
+full-blown machine learning model based on data and statistics.”
+
+The model has doctors give points to patients based on the patterns and spikes
+found in their cEEGs. With a maximum tally of seven, the result provides a
+probability estimate of the patient having a seizure at each point interval
+ranging from less than five percent to more than 95 percent.
+
+The researchers tested the model against a new set of 2,000 cases and found
+that it worked well. Firmly confident in its abilities, the 2HELPS2B model was
+then put into service at the University of Wisconsin and Massachusetts General
+Hospital, allowing doctors to only use cEEG where it was needed most.
+
+After a year of use, the model resulted in a 63.6 percent reduction in the
+duration of cEEG monitoring per patient, allowing nearly three times as many
+patients to be monitored while generating a combined cost savings of $6.1
+million.
+
+The model is now being used at four more hospitals. If all hospitals
+nationwide were to adopt it, the researchers calculate they could save a
+collective $54 million each year.
+
+“But more than the cost savings, the 2HELPS2B model is helping us to monitor
+people whose seizures would otherwise go unnoticed and untreated,” said
+Westover. “And that’s saving lives and saving brains.”
+
+CITATIONS: "Association of an Electroencephalography-Based Risk Score With
+Seizure Probability in Hospitalized Patients." Aaron F. Struck, MD; Berk
+Ustun, PhD; Andres Rodriguez Ruiz, MD; Jong Woo Lee, MD, PhD; Suzette M.
+LaRoche, MD,5; Lawrence J. Hirsch, MD; Emily J. Gilmore, MD; Jan Vlachy, MS;
+Hiba Arif Haider, MD; Cynthia Rudin, PhD; M. Brandon Westover, MD, PhD. JAMA
+Neurol. 2017;74(12):1419-1424. DOI:10.1001/jamaneurol.2017.2459
+
+“Learning Optimized Risk Scores,” Berk Ustun and Cynthia Rudin. Journal of
+Machine Learning Research, 20 (2019) 1-75.
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,219 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Law of Physics Helps Explain Airplane Evolution
+
+July 22, 2014 | By Ken Kingery
+
+Constructal Law explains progression of passenger jets, sets guidelines for
+future aircraft
+
+Researchers believe they now know why the supersonic trans-Atlantic Concorde
+aircraft went the way of the dodo—it hit an evolutionary cul-de-sac.
+
+In a new study, Adrian Bejan, professor of mechanical engineering and
+materials science at Duke University, shows that a law of physics he penned
+more than two decades ago helps explain the evolution of passenger airplanes
+from the small, propeller-driven DC-3s of yore to today’s behemoth Boeing
+787s. The analysis also provides insights into how aerospace companies can
+develop successful future designs.
+
+The Concorde, alas, was too far from the curve of these good designs, Bejan
+says. The paper appears online July 22, in the Journal of Applied Physics.
+
+“The evolution of Earth’s species occurred on a timescale far too large for
+humans to witness,” said Bejan. “But the evolution of our use of technology
+and airplanes to transport people and goods has taken place in little more
+than a single lifetime, making it visible to those who look. Evolution is a
+universal phenomenon encompassing technology, river basins and animal design
+alike, and it is rooted in physics as the constructal law.”
+
+The constructal law was developed by Bejan in 1996 and states that for a
+system to survive, it must evolve to increase its access to flow. For example,
+the human vascular system has evolved to provide blood access to flow through
+a network of a few large arteries and many small capillaries. River systems,
+tree branches and modern highway and road networks show the same forces at
+work, he says.
+
+In the case of commercial aircraft, designs have evolved to allow more people
+and goods to flow across the face of the Earth. Constructal law has also
+dictated the main design features needed for aircraft to succeed; the engine
+mass has remained proportional to the body size, the wing size has been tied
+to the fuselage length, and the fuel load has grown in step with the total
+weight.
+
+“The same design features can be seen in any large land animal,” said Bejan.
+“Larger animals have longer lifespans and travel farther distances, just as
+passenger airplanes have been designed to do. For example, the ratio of the
+engine to aircraft size is analogous to the ratio of a large animal’s total
+body size to its heart, lungs and muscles.”
+
+To apply his theories to airplane design, Bejan teamed up with Jordan Charles,
+a researcher and development engineer, and Sylvie Lorente, a professor of
+civil engineering at the University of Toulouse, to mine the historical
+databases of successful commercial aircraft. As they plotted thousands of
+statistics including year of introduction, size, cruising speed, engine
+weight, fuel weight, range, wingspan and fuselage length, many patterns began
+to emerge.
+
+But two in particular stood out.
+
+In one chart, a clear curve tracks the increasing size of commercial airplanes
+through nearly a century of aviation. As time moves on, new commercial
+airliners come in all sizes but the biggest are joined by even bigger models.
+In another chart, the line that best tracks the relationship of body mass to
+airplane speeds is nearly identical to mass and speed statistics from various
+mammals, lizards, birds, insects and more. Evolutionary constraints found in
+nature, in other words, can be seen at work in the airline industry.
+
+There was, however, one outlier on the chart—the Concorde.
+
+“The Concorde was too far off from the ratios that evolution has produced in
+passenger jets,” explained Bejan, who points out that the doomed aircraft had
+limited passenger capacity, a low mass-to-velocity ratio, an off-the-charts
+fuselage-to-wingspan ratio, massive engines and poor fuel economy. “It would
+have had to adhere to the constructal design rules to succeed.”
+
+Bejan said this analysis shows that the aviation industry has done well with
+its designs over the decades, and that the trends dominating the industry are
+indeed the most efficient. They also reveal the general design parameters that
+future passenger aircraft should follow to succeed economically.
+
+“This study gives the rough sketch of what airplane designs will put you in
+the game,” said Bejan. “For design companies, it is money in the bank.”
+
+Jose Camberos, research aerospace engineer and lead of design space
+exploration at the Multidisciplinary Science & Technology Center of the Air
+Force Research Laboratory at Wright-Patterson Air Force Base in Dayton, Ohio,
+said that the work will hopefully give the field better insight into where the
+design of airplanes is going.
+
+“There is definitely an analogy to be understood and articulated to explain
+why engines and airplanes are sized the way they currently are and how that
+has evolved,” said Camberos, who was not involved with this study. “By looking
+at the development of aircraft in a larger context in these terms, it may be
+possible to gain insights into how best to achieve what nature has been able
+to accomplish already.”
+
+This research was supported by the National Science Foundation.
+
+# # #
+
+CITATION: "The Evolution of Airplanes," A. Bejan, J.D. Charles, S. Lorente.
+Journal of Applied Physics, July 22, 2014. DOI: 10.1063/1.4886855
+
+A free copy of the paper is available for download via DukeSpace.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

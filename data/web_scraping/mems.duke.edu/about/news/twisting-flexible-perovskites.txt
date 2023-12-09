@@ -1,0 +1,256 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Twisting, Flexible Crystals Key to Solar Energy Production
+
+March 15, 2021 | By Ken Kingery
+
+Researchers show how shapes and movements of halide perovskites create
+desirable renewable energy properties
+
+Researchers at Duke University have revealed long-hidden molecular dynamics
+that provide desirable properties for solar energy and heat energy
+applications to an exciting class of materials called halide perovskites.
+
+A key contributor to how these materials create and transport electricity
+literally hinges on the way their atomic lattice twists and turns in a hinge-
+like fashion. The results will help materials scientists in their quest to
+tailor the chemical recipes of these materials for a wide range of
+applications in an environmentally friendly way.
+
+The results appear online March 15 in the journal Nature Materials.
+
+“There is a broad interest in halide perovskites for energy applications like
+photovoltaics, thermoelectrics, optoelectronic radiation detection and
+emission—the entire field is incredibly active,” said Olivier Delaire,
+associate professor of mechanical engineering and materials science at Duke.
+“While we understand that the softness of these materials is important to
+their electronic properties, nobody really knew how the atomic motions we’ve
+uncovered underpin these features.”
+
+Perovskites are a class of materials that—with the right combination of
+elements—are grown into a crystalline structure that makes them particularly
+well-suited for energy applications. Their ability to absorb light and
+transfer its energy efficiently makes them a common target for researchers
+developing new types of solar cells, for example. They’re also soft, sort of
+like how solid gold can be easily dented, which gives them the ability to
+tolerate defects and avoid cracking when made into a thin film.
+
+One size, however, does not fit all, as there is a wide range of potential
+recipes that can form a perovskite. Many of the simplest and most studied
+recipes include a halogen—such as chlorine, fluorine or bromine—giving them
+the name halide perovskites. In the crystalline structure of perovskites,
+these halides are the joints that tether adjoining octahedral crystal motifs
+together.
+
+While researchers have known these pivot points are essential to creating a
+perovskite’s properties, nobody has been able to look at the way they allow
+the structures around them to dynamically twist, turn and bend without
+breaking, like a Jell-O mold being vigorously shaken.
+
+> “This study shows why this perovskite framework is special even in the
+> simplest of cases. These findings very likely extend to much more
+> complicated recipes, which many scientists throughout the world are
+> currently researching. As they screen enormous computational databases, the
+> dynamics we’ve uncovered could help decide which perovskites to pursue.”
+>
+> \- Olivier delaire
+
+“These structural motions are notoriously difficult to pin down
+experimentally. The technique of choice is neutron scattering, which comes
+with immense instrument and data analysis effort, and very few groups have the
+command over the technique that Olivier and his colleagues do,” said Volker
+Blum, professor of mechanical engineering and material science at Duke who
+does theoretical modeling of perovskites, but was not involved with this
+study. “This means that they are in a position to reveal the underpinnings of
+the materials properties in basic perovskites that are otherwise unreachable.”
+
+In the study, Delaire and colleagues from Argonne National Laboratory, Oak
+Ridge National Laboratory, the National Institute of Science and Technology,
+and Northwestern University, reveal important molecular dynamics of the
+structurally simple, commonly researched halide perovskite (CsPbBr3)for the
+first time.
+
+The researchers started with a large, centimeter-scale, single crystal of the
+halide perovskite, which is notoriously difficult to grow to such sizes—a
+major reason why this sort of dynamic study has not been achieved before now.
+They then barraged the crystal with neutrons at Oak Ridge National Laboratory
+and X-rays at Argonne National Laboratory. By measuring how the neutrons and
+X-rays bounced off the crystals over many angles and at different time
+intervals, the researchers teased out how its constituent atoms moved over
+time.
+
+After confirming their interpretation of the measurements with computer
+simulations, the researchers discovered just how active the crystalline
+network actually is. Eight-sided octahedral motifs attached to one another
+through bromine atoms were caught twisting collectively in plate-like domains
+and constantly bending back and forth in a very fluid-like manner.
+
+“Because of the way the atoms are arranged with octahedral motifs sharing
+bromine atoms as joints, they’re free to have these rotations and bends,” said
+Delaire. “But we discovered that these halide perovskites in particular are
+much more ‘floppy’ than some other recipes. Rather than immediately springing
+back into shape, they return very slowly, almost more like Jell-O or a liquid
+than a conventional solid crystal.”
+
+Delaire explained that this free-spirited molecular dancing is important to
+understand many of the desirable properties of halide perovskites. Their
+‘floppiness’ stops electrons from recombining into the holes the incoming
+photons knocked them out of, which helps them make a lot of electricity from
+sunlight. And it likely also makes it difficult for heat energy to travel
+across the crystalline structure, which allows them to create electricity from
+heat by having one side of the material be much hotter than the other.
+
+Because the perovskite used in the study—CsPbBr3 —has one of the simplest
+recipes, yet already contains the structural features common to the broad
+family of these compounds, Delaire believes that these findings likely apply
+to a large range of halide perovskites. For example, he cites hybrid organic-
+inorganic perovskites (HOIPs), which have much more complicated recipes, as
+well as lead-free double-perovskite variants that are more environmentally
+friendly.
+
+“This study shows why this perovskite framework is special even in the
+simplest of cases,” said Delaire. “These findings very likely extend to much
+more complicated recipes, which many scientists throughout the world are
+currently researching. As they screen enormous computational databases, the
+dynamics we’ve uncovered could help decide which perovskites to pursue.”
+
+This research was supported by the Department of Energy (DE-SC0019299, DE-
+SC0019978, DE-AC02-05CH11231).
+
+CITATION: “Two-Dimensional Overdamped Fluctuations of Soft Perovskite Lattice
+in CsPbBr3” T. Lanigan-Atkinsy, X. Hey, M. J. Krogstad, D. M. Pajerowski, D.
+L. Abernathy, Guangyong NMN Xu, Zhijun Xu,4 D.-Y. Chung, M. G. Kanatzidis, S.
+Rosenkranz, R. Osborn and O. Delaire. Nature Materials, March 15, 2021. DOI:
+10.1038/s41563-021-00947-y
+
+# # #
+
+## Related News
+
+September 04, 2020
+
+### ‘Floppy’ Atomic Dynamics Help Turn Heat into Electricity
+
+April 13, 2020
+
+### New Handle for Controlling Electromagnetic Properties Could Enable
+Spintronic Computing
+
+November 01, 2018
+
+### Atomic Path from Insulator to Metal Messier than Thought
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

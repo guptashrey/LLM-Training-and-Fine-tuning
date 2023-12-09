@@ -1,0 +1,344 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Year of Real-World Design
+
+October 24, 2018 | By Michaela Kane
+
+Centered on collaboration with Duke Medicine clinicians, Duke BME's re-
+imagined design course challenges students to design solutions to real
+patients' problems
+
+Every engineer knows that the design process is not a straightforward one. For
+Emelina Vienneau, Diana Arguijo, Sarah Jacobs and Kayla Wright-Freeman, the
+serpentine route to a finished product was fresh in their minds as they
+presented their final senior design project, “A Breath of Fresh Air,” during
+the Spring 2018 Duke BME Design Symposium. These biomedical engineering
+students had spent the better part of a year creating a respiratory muscle
+training (RMT) device before scrapping their initial design for a new one—less
+than a month before their final presenations.
+
+“We had been working on this project throughout the fall and spring semesters,
+but it felt like it wasn’t coming together in the way we envisioned,” says
+Vienneau. “We had this nagging sense that our initial approach wasn’t solving
+the right problem for Harrison Jones, our clinical partner, or for the
+patients, so we decided to start over.”
+
+Typically, when people have weak respiratory muscles—common in conditions such
+as Pompe disease or COPD—physicians prescribe respiratory therapy that trains
+their lungs as they inhale and exhale against resistance, just as someone
+would lift weights to gain strength. Traditional RMT devices include a tube
+containing a spring-loaded threshold valve, which determines the air
+resistance. Patients inhale or exhale into the tube, using their lungs to
+create a pressure differential. Once the pressure meets the designated
+threshold, air will move through the tube and patients will have ‘exercised’
+their respiratory muscles.
+
+But current RMT devices have drawbacks. Most use unidirectional valves, so
+patients need two separate devices to strengthen their inspiratory and
+expiratory muscles. The range of the spring-loaded valves is also limited, so
+the devices don’t always offer the resistance levels patients require.
+
+The team’s final design was specifically created to address these
+shortcomings. 3D-printed in bright pink filament, their RMT device boasts a
+single breathing tube containing a bidirectional motorized butterfly valve.
+The air tube also incorporates a differential pressure sensor that measures
+the flow rate within the tube to indicate a successful or unsuccessful breath.
+
+“We created this brand-new tool in a month, and it is unlike anything that’s
+currently on the market,” says Vienneau. “The motorized butter-fly valve
+allowed us to use a single air tube, fully automate the device, and create a
+full range of re-sistances. The prototype was well-received by our professors
+and our clinical partner. In the end, we were really glad we scrapped the
+first design and started again, because we made a better product that solved
+the problem at hand in a more elegant way.”
+
+#### Understanding Doctors' Dilemmas
+
+The Fresh Air team was among the first to pilot a new two-semester design
+program offered by Duke’s Department of Biomedical Engineering. Spearheaded by
+Mark Palmeri, a physician-engineer and professor of the practice in BME, the
+program offers an immersive design curriculum that challenges students to
+solve the real-world problems physicians encounter in medicine.
+
+“When I became chair of BME, I realized that our design curriculum and course
+offerings needed to be revamped,” says Ashutosh Chilkoti. “Our design course
+was one semester long, which is too short to traverse the path from
+identifying a clinical need to designing a prototype device that addresses
+that need. I quickly realized that Mark—with his background as a designer of
+ultrasound instrumentation, and his dual MD/PhD degree—was the person who
+could design and pilot a new two-semester design course.”
+
+The next step in the development of the new program took root when Palmeri and
+Chilkoti attended a 2016 lunch discussion with Duke neonatologists who talked
+about the technological gaps they experienced in their work. Within a year,
+Palmeri had organized a two-semester pilot program with master’s students
+focused on medical devices for neonatology. By the end of 2017, students had
+created projects including a modified stethoscope that could monitor cardiac
+abnormalities, a biometrics recording device that could track infant
+respiration and heart rate and send the information to a doctor’s phone, and a
+handheld scanner that used ultrasonic waves to examine bone density.
+
+“We weren’t able to test these devices in the neo-natal population during that
+pilot year, but the students were able to create successful products that can
+continue to be developed,” says Palmeri. “After seeing what they produced, I
+bought heavily into the idea of year-long design courses being highly
+beneficial for students, and it felt like a natural direction in which to grow
+our design curriculum.”
+
+#### Design Moves Downtown
+
+Finding space for the new curriculum was the final challenge.
+
+"We wanted to create a space that served the needs of instructors and was a
+place that students were happy to work in," says Chilkoti. The team turned to
+the Chesterfield Building in downtown Durham, with shuttle service to and from
+Duke. Working with Marcus Henderson and Matt Brown, Duke BME’s laboratory
+instructors, the team created a customized design suite that would serve the
+needs for an immersive two-semester senior design course.
+
+“This was exciting for all of us, because we had taught students in
+retrofitted spaces for years. Now, following our inputs, architects had
+created a beautiful new lab expressly for teaching electronics and electronic
+design,” says Henderson.
+
+In the fall of 2017, Duke BME officially launched the two-semester design
+program for undergraduate students in the customized design suite.
+
+With Palmeri at the helm as the instructor and Brown spending much of his time
+at Chesterfield lending technical support, all the pieces for a new two-
+semester design experience were in place. Students first enroll in BME 590:
+Fundamentals of Design, where they choose a project and begin to collaborate
+with a physician to assess the needs and shadow them at Duke University
+Medical Center. The following spring, students take BME 464: Medical Device
+Design to begin the actual construction of their projects.
+
+To expand the pool of clinicians students could work with, Palmeri partnered
+with Duke MEDx, an interdisciplinary initiative between the Pratt School of
+Engineering and the Duke University School of Medicine. “Our goal was to
+ensure that the student design teams had authentic problems to sink their
+teeth into, rather than something that felt like an academic exercise. If they
+are going to work on something for a year, we want them to be invested in it
+and feel like it will have a greater use,” says Palmeri. “We also wanted to
+leverage Duke BME’s physical proximity to the Medical Center to be able to
+give them that hands-on experience in a variety of different fields.”
+
+#### Devices Across Disciplines
+
+Palmeri’s inaugural crop of design students spread across six projects and
+multiple disciplines. In the field of urology, one team created a device to
+help manage Vescicoureteral Reflux (VUR), the retrograde flow of urine from
+the bladder to the kidney. By creating a pressure transducer catheter, the
+team was able to measure the pressure changes at the bladder wall and
+calculate the length of the intramural ureter, helping surgeons more
+accurately estimate the amount of bulking agent needed to manage symptoms.
+
+Working with anesthesiologists, a group of students attempted to create an
+accurate and easy-to-use neuromuscular paralysis monitor to track the muscle
+relaxation of patients under general anesthesia. A second group sought to help
+anesthesiologists visualize the throat while inserting a breathing tube,
+creating a 3D-printed cage that encompassed a tiny camera.
+
+Another team worked with a laparoscopic surgeon to create a tool that would
+locate needles lost in a patient’s abdomen—a rare problem, but one that can
+cause severe complications if not quickly addressed. Physicians typically use
+intraoperative X-ray to search for lost needles, but the students designed a
+wand-like device equipped with a metal detection circuit to do the job more
+quickly.
+
+“I think we’re in a unique position in that we can use our expanded design
+course to address clinical areas that have been neglected by the heavy hitters
+in industry,” says Palmeri. “We are constantly seeing advances in fields like
+cardiology, but I think we can make strides in neglected fields like
+respiratory therapy or neonatology, especially if we can give them long-term,
+personalized attention.”
+
+And patients aren’t the only ones who will benefit—three of Palmeri’s students
+worked with gastroenterologist Darin Dufault to help physicians themselves.
+Doctors who perform numerous endoscopies, it turns out, often experience
+musculoskeletal injuries during their careers due to the repetitive motions
+required by the work.
+
+“I graduated from medical school in the last 10 years, and I’ve already seen
+classmates who are scaling back their practice because of repetitive motion
+injuries or arthritis,” says Palmeri. “This endoscopy project was actually
+based on lots of anecdotal evidence from physicians about their discomfort,
+but there was never an effort to see how the ergonomics of these tools could
+be improved.”
+
+By creating different sizes of dials, the students were able to make the
+endoscope more comfortable to hold and reduced the repetitive motions
+physicians would need to make with their hands and fingers, limiting their
+joint pain.
+
+“Through observation, feedback and numerous prototype iterations, we were able
+to develop a simple device that not only allows doctors with all sizes of
+hands to use safely and efficiently, but alleviates strain in the hand and
+maintains increased operator safety, even after a long day of procedures,”
+says Hannah Grossman, one of the students from the team. "No we've got a
+viable product with applications that extend beyond our initial intentions—and
+that is something the team is proud of."
+
+#### From Classroom to Commercialization
+
+Just a year into the design program, student interest is exceeding
+expectations.
+
+“When we opened the first course for students to sign up, it filled up in less
+than a minute and the wait-list was two to three times the course capacity. We
+had to turn students away,” says Palmeri. “It’s always positive to see that
+the student interest is there, now we just have to grow so we can get rid of
+that bottleneck and give students the comprehensive design experience they
+clearly want.”
+
+There are already plans to do just that. BME's Kevin Caves and Robert Malkin
+have already expanded their design courses into two-semester programs, and new
+faculty member Eric Richardson will teach his own section of the course.
+Palmeri will also expand the projects students can work on in his own course,
+with plans to bring back some of the neonatology devices from the pilot
+program and introduce more collaborations with MEDx partners.
+
+> "When students graduate and go on to jobs, it's programs like this that
+> allow them to hit the ground running."
+
+The program has also captured the interest of Robin Rasor, the executive
+director of Duke University’s Office for Licensing and Ventures. After
+learning about the ergonomic endoscope project, Rasor met with the team and
+gave them advice about how they could commercialize their design for
+widespread use. Duke OLV also filed a patent application to protect their
+technology, as well as for the respiratory device developed by Vienneau and
+her team.
+
+“I was really impressed to see how much these students were able to accomplish
+in just two semesters,” says Rasor. “The fact that Duke OLV was interested in
+pursuing, protecting and marketing two projects within the first year of the
+program’s creation really speaks to both the strength of the program and the
+skills of the students in it.”
+
+Just as planned, the students grow through the course as well. “The two-
+semester design program was one of my most rewarding experiences at Duke,”
+says Vienneau. “It was unique to have the chance to build something that was
+clinically relevant and provides a valuable service. That’s why so many of us
+choose biomedical engineering to begin with.”
+
+For Palmeri, seeing his students’ success confirms the need for more immersive
+design programs that can prepare graduating students for jobs in industry.
+
+“The ability to bring a design to life is a ubiquitous skillset, and we want
+to provide more opportunities for students to use the skills they’ve developed
+at Duke to solve real problems,” he says. “When students graduate and go on to
+jobs, it’s programs like this that allow them to hit the ground running.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

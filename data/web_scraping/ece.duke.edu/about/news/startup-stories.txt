@@ -1,0 +1,311 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Startup Stories
+
+October 10, 2019
+
+Eighteen spinoffs—and counting!—have grown from Duke ECE’s pioneering research
+in quantum computing, metamaterials, advanced sensing, robotics, and more
+
+### A Super Position
+
+Quantum binary digits, or qubits, are the superheroes of computing, and their
+superpowers lie in their beyond-binary abilities and secret correlations among
+them. Unlike traditional bits, which represent a piece of information as
+either a 0 or a 1, qubits can represent both simultaneously, in a so-called
+superposition state. Qubits can also contain strong, fundamental ties among
+them, known as entanglement. When combined, these superpowers allow quantum
+computers to solve some complex problems with a speed unmatched by any
+traditional computers today—or, for that matter, at any time in the
+predictable future.
+
+Companies really want quantum computers, and therefore really want to partner
+with quantum scientists. For Duke Engineering’s Jungsang Kim, it’s a super
+position to be in. IonQ, Inc., the company Kim co-founded with the University
+of Maryland’s Chris Monroe in 2015, has captured $22 million in funding to
+date: $2 million in seed funding from New Enterprise Associates (NEA), and an
+additional $20 million in funding from GV (formerly Google Ventures), Amazon
+Web Services, and NEA. The funding allowed IonQ to scale its team up to 37
+employees and build two of the most accurate quantum computers in existence in
+two short years.
+
+> “This could be a once-in-a-lifetime type of opportunity to shape the future
+> of quantum computing technology.”
+>
+> —Duke ECE professor jungsang Kim
+
+“The future of quantum computing as an industry is somewhat uncertain,” said
+Kim. “Since quantum computers have never existed, there are no existing
+companies whose market is built on quantum computers.” He said that the
+situation is not dissimilar from the days when first digital computers were
+built in the 1940s. Those computers were built to tackle specific problems of
+interest to the government, but when their capabilities became more widely
+available, new industries flourished in ways that no one expected—and would
+continue to thrive over the seven decades that followed.
+
+“It is extremely exciting to be in the driver’s seat in defining what the
+future industry of quantum computing is going to look like,” said Kim. “This
+could be a once-in-a-lifetime type of opportunity to shape the future of
+quantum computing technology. And,” he added, “we are always looking for
+enthusiastic young minds to join us in our journey.”
+
+### The Serial Entrepreneur
+
+Metamaterials are artificially structured materials whose electromagnetic
+properties can be tailored and tuned in novel ways—but the term
+“metamaterials” is more of a design approach than a class of devices or
+components, according to David Smith, the James B. Duke Professor of
+Electrical and Computer Engineering and Director of the Center for
+Metamaterials and Integrated Plasmonics at Duke. In Smith’s lab, engineers
+learn to control and manipulate the flow of light and other wave excitations.
+Their work has led to unbelievable discoveries, like electromagnetic cloaking
+devices that “hide” objects by rerouting waves around them, and satellite
+communication terminals that electronically acquire, steer and lock waves to
+satellites.
+
+In the young field of metamaterials, opportunities to commercialize the
+technologies abound. In 2012, communications company Kymeta spun off from
+research performed in Smith’s lab. Smith co-founded Evolv Technology the
+following year, Echodyne Corporation in 2014, Pivotal Commware in 2015, and
+Metacept in 2018—all metamaterials-based ventures, running from security
+imaging to antenna design. Two other spinoffs, Lumotive and Carillon, have
+launched from Smith’s lab since 2017.
+
+“What has been so compelling—almost addictive—about metamaterials is the
+ability to exert unprecedented control over the properties of a material or
+other device,” said Smith.
+
+### Getting Your Hands Dirty
+
+A week into his PhD work at Duke, Joseph Andrews found himself behind a local
+mechanic’s shop, hacking apart discarded tires with a grinding saw—a far cry
+from what he imagined he’d be doing as a student in professor Aaron Franklin’s
+nanotechnology research lab.
+
+Though not the most glamorous, Andrews’s project—developing printed electronic
+sensors to measure automobile tire tread—not only funded his space in the lab,
+but eventually led to multiple patents and a funded startup company.
+
+> A week into his PhD work at Duke, Joseph Andrews found himself behind a
+> local mechanic’s shop, hacking apart discarded tires with a grinding saw.
+
+According to Andrews, their invention is pretty simple. It’s a capacitor-based
+device, which means it measures electrical energy between a pair of
+electrodes. As the thickness of the material between two electrodes changes,
+the electric field is also altered, leading to a measurable change in
+capacitance.
+
+Andrews started with a parallel plate capacitor that used two plates—one in
+the wheel well and one inside the tire—to measure the material between them.
+“Of course I was doing good experiments, and moving the plates farther and
+farther apart until the wheel well plate was removed completely,” said
+Andrews. “When I did, I got a measurement from a single side, which I didn’t
+think was possible.” This discovery led to the demonstration of a sensor that
+can be fully contained within a tire and capable of measuring changes in the
+tire’s tread thickness.
+
+This kind of capacitance uses electrical field lines that arc, called cross-
+capacitance. It’s commonly used with technology like touchscreens, but Andrews
+was the first to apply it toward measuring the thickness of a material. The
+end product, a sensor with an electrode made using materials such as carbon
+nanotubes, spun off into a tire sensor company named Tyrata that secured $4.5
+million in series A funding last year to develop the demonstrated sensor into
+a viable product.
+
+For Andrews, it means a credit as lead inventor on several U.S. and
+international patents. Hopefully, for the rest of us, it will mean the end of
+jamming pennies into our tire treads to check for wear.
+
+### Entrepreneur-in-Residence
+
+Vamsee Pamula co-founded his first company, Advanced Liquid Logic, as an ECE
+postdoctoral researcher in Lord-Chandran Professor of Engineering Richard
+Fair’s microfluidics lab. Working alongside Fair, fellow postdoc Michael
+Pollack PhD ’01, and Richard West BSE ’79, Pamula grew the fledgling lab-on-a-
+chip company to a 90-employee enterprise over the next nine years, before
+selling it to genomics giant Illumina in 2013 for nearly $100 million. Pamula
+and West launched a second company, Baebies, the very same day, capitalizing
+upon digital microfluidics and other technologies to deliver rapid testing for
+newborns— testing for several rare diseases using a single drop of blood, and
+allowing doctors to quickly begin interventions.
+
+The extra “e” in Baebies, said Pamula, is for “everyone,” signifying that
+every baby deserves a healthy start. The spelling is a constant reminder of
+their mission, and who they chose to serve.
+
+In 2019, ECE brought Pamula back to Duke as its first entrepreneur-in-
+residence. Pamula visits the department monthly to spend time with ECE
+students and faculty who are interested in starting their own businesses,
+offering advice in areas including idea development, securing intellectual
+property, and commercialization of research.
+
+### Call it Kismet
+
+Professor of electrical and computer engineering Daniel Sorin jokes that a
+computer architect and a roboticist must have never sat down to lunch together
+before he and George Konidaris did. If they had, they would have soon
+discovered that they were perfectly suited to start a robotic motion planning
+company, and gotten a jump on the competition.
+
+> “Five years ago I knew zero about robotics... I’m now the co-founder of a
+> robotics company.”
+>
+> —DUKE ECE PROFESSOR DANIEL SORIN
+
+“I met George at the State of the School address. He seemed to be doing
+interesting work, so we went to lunch,” Sorin recalled. “He was talking about
+open problems in his field, and one was motion planning, or how to quickly
+move a robot from Point A to Point B without hitting stuff.”
+
+Sorin told Konidaris that in his own field, computer architecture, the goal
+was to improve upon processes that were slow, but important enough that they
+warranted specially designed hardware.
+
+“We looked at each other and thought, ‘Hm, I wonder if anyone has tried this
+fusion before,’” said Sorin. They quickly determined that no one had.
+
+From there, the pieces seemed to magically fall into place. Two excellent
+students—ECE PhD candidate Sean Murray and Will Floyd-Jones, an undergraduate
+double-majoring in ECE and computer science—were looking for projects, and
+Sorin brought them on board. “But all of us—two academics and two students—we
+knew nothing about business,” admitted Sorin.
+
+Serendipitously, Duke Engineering had just named alumnus and entrepreneur Bill
+Walker as the school’s first Mattson Family Director of Entrepreneurial
+Ventures. “Bill very patiently answered a bazillion questions we had,” said
+Sorin. “Then we were looking for a CEO, and Bill introduced us to Peter
+Howard. We knew immediately that he was our guy. All these wonderfully timed
+occurrences got us off the ground and helped us build our team.”
+
+The team officially incorporated Realtime Robotics in 2016, to develop
+special-purpose hardware and software that helps machines move through
+unstructured or dynamic environments like factories and city streets.
+
+Since that time, Realtime has raised funding from key investors including
+Toyota AI Ventures, SPARX Group and Scrum Ventures. Realtime has grown to over
+30 employees in their Boston-based headquarters. They’ve won R&D projects and
+sold many processors, known as the RapidPlan MPA, with Fortune 50 customers
+proving out the technology. This year, Realtime seeks to close Series A
+funding and will further develop RapidPlan.
+
+“Five years ago I knew zero about robotics,” said Sorin. “Thanks to this
+series of happy coincidences, I’m now the co-founder of a robotics company.”
+
+****
+
+More from the 2019-2020 Duke ECE Magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

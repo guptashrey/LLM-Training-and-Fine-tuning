@@ -1,0 +1,241 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Cameron McIntyre: Improving Deep Brain Stimulation Through Entrepreneurship
+
+August 21, 2020 | By Ken Kingery
+
+New faculty member Cameron McIntyre will leverage interdisciplinary programs
+at Duke to pursue technologies to clinically improve deep brain stimulation
+
+Cameron McIntyre will join the faculty of the Department of Biomedical
+Engineering and the Department of Neurosurgery at Duke University beginning
+July 1, 2021. With nearly two decades of research focused on understanding the
+mechanisms of deep brain stimulation, McIntyre will continue working to invent
+new and improve existing technologies to treat ailments such as Parkinson’s
+disease, epilepsy and depression.
+
+## Cameron McIntyre
+
+Professor of Biomedical Engineering and Neurosurgery (July 1, 2021)
+
+**Hometown:** Marietta, Ohio
+
+**Alma Maters:** Case Western Reserve University, Johns Hopkins University,
+Emory University
+
+**Representative Publication:** Petersen MV, Mlakar J, Haber SN, Parent M,
+Smith Y, Strick PL, Griswold MA, McIntyre CC. Holographic reconstruction of
+axonal pathways in the human brain. Neuron. 104(6):1056-1064, 2019
+
+**Fun Facts:** Enjoys racing cars, road biking, and snowboarding
+
+The founder of multiple startup companies in the realm of neuromodulation,
+McIntyre will leverage the close ties and numerous entrepreneurial programs
+between the Pratt School of Engineering and the School of Medicine to focus on
+advances that can rapidly reach clinical applications.
+
+“I don’t want to build the coolest new device just to see if it can be done, I
+want to build a device that’s actually going to go into a commercial product,”
+said McIntyre, who joins Duke from Case Western Reserve University, where he
+founded the Case Neuromodulation Center. “One of the major considerations I
+take when deciding on whether or not a project is in my wheelhouse is if I
+think it will have a realistic impact in clinical medicine within five years.”
+
+First introduced in 1987, deep brain stimulation sends electrical pulses deep
+into the brains of people suffering from neurological motor control diseases
+through wires implanted into an area of the brain called the basal ganglia.
+While the therapy has been used regularly for decades, the specific mechanisms
+behind why it works—and why it works so well for some patients and not
+others—remain unclear.
+
+## WHY DUKE?
+
+> "One of the draws of Duke is that the neurosurgery department is tip-top and
+> very interested in taking a step toward robotics in neurosurgery, which I am
+> too. And to do that, you need the research infrastructure and resources to
+> push these concepts to the next level. You also need a technology
+> integration group to pull engineers, clinicians and theorists together to
+> build these next-generation prototypes and start testing them. Duke has all
+> of that in spades."
+>
+> —Cameron McIntyre
+
+Research has shown that the frequency and patterns of electrical stimulation
+can affect how well the treatment works, as can the “shape” of the electrical
+waves being sent through the brain tissue. The placement of the electrodes is
+also of vital importance, as a matter of millimeters can drastically influence
+a patient’s response.
+
+Because so much remains unknown and there are so many variables involved,
+clinicians have long had to rely on a patient’s feedback to adjust the
+stimulation to improve its efficacy. McIntyre’s first startup company created
+a way to visualize the electrode’s placement and how the stimulation spreads
+through nearby tissue, providing neurologists and neurosurgeons with a more
+precise tool to make adjustments to the stimulation’s many parameters.
+
+Dubbed the GUIDE DBS clinical programming system, its associated spinoff
+company IntElect Medical Inc. was acquired by Boston Scientific in 2011, and
+the technology is now being used by clinicians. McIntyre’s other two spinoff
+companies, Surgical Information Sciences and Hologram Consultants Ltd., use
+machine learning to identify target locations for surgical implants and
+interactively visualize electrode placement in a holographic visual
+environment, respectively.
+
+“One of the draws of Duke is that the neurosurgery department is tip-top and
+very interested in taking a step toward robotics in neurosurgery, which I am
+too,” said McIntyre. “And to do that, you need the research infrastructure and
+resources to push these concepts to the next level. You also need a technology
+integration group to pull engineers, clinicians and theorists together to
+build these next-generation prototypes and start testing them. Duke has all of
+that in spades.”
+
+Another draw for McIntyre is the numerous strings already tying him to Duke.
+He was the first doctoral student mentored by Warren Grill, professor of
+biomedical engineering and deep brain stimulation expert at Duke for more than
+15 years. And Guillermo Sapiro, the James B. Duke Distinguished Professor of
+Electrical and Computer Engineering, is one of McIntyre’s partners in Surgical
+Information Sciences.
+
+He’s also looking forward to living close to the Virginia International
+Raceway.
+
+“I’ve spent most of my adult life racing cars,” said McIntyre. “Living within
+40 minutes of one of the greatest race tracks in the nation is a huge bonus
+for me.”
+
+Over the next several years, McIntyre will form new collaborations to pursue
+research aimed at the niche market of neurosurgical technology integration
+with a focus on Parkinson’s disease. Because it’s a movement disorder, he
+says, Parkinson’s patients provide immediate feedback as to whether a new
+approach is working or not. And if new neuromodulation technologies can be
+proven to work for Parkinson’s, it will lay the foundations for researchers to
+begin applying them to other brain disorders such as epilepsy and depression
+over the next decade.
+
+McIntyre will also likely be making his first foray into classroom teaching in
+the coming years at Duke. While the specifics have not been hammered out, he
+envisions creating an upper-level class focusing on medical software design
+and deployment.
+
+“People in industry are always telling me how they’d love to hire people with
+even an introductory understanding of what it takes to create an FDA-approved
+software platform that goes along with these medical devices,” said McIntyre.
+“Not building the surgical robots, but building the software to run them, and
+understanding the process of validation, FDA paperwork, marketing deployment
+and other things that go beyond just the initial design of a software
+prototype.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

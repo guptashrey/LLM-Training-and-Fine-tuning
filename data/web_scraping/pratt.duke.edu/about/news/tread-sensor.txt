@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Printed Sensors Monitor Tire Wear in Real Time
+
+June 14, 2017 | By Ken Kingery
+
+Carbon nanotubes bring tire wear monitoring into the car
+
+Electrical engineers at Duke University have invented an inexpensive printed
+sensor that can monitor the tread of car tires in real time, warning drivers
+when the rubber meeting the road has grown dangerously thin.
+
+If adopted, the device will increase safety, improve vehicle performance and
+reduce fuel consumption. The group hopes that the tire wear sensor will be the
+first of many that could disrupt the $2 billion tire and wheel control sensor
+market.
+
+In collaboration with Fetch Automotive Design Group, the Duke researchers have
+demonstrated a design using metallic carbon nanotubes (tiny cylinders of
+carbon atoms just one-billionth of a meter in diameter) that can track
+millimeter-scale changes in tread depth with 99 percent accuracy. With two
+patents pending, the researchers are in the process of establishing industry
+collaborations to bring the technology to a tire near you.
+
+"With all of the technology and sensors that are in today's cars, it's kind of
+crazy to think that there's almost no data being gathered from the only part
+of the vehicle that is actually touching the road," said Aaron Franklin,
+associate professor of electrical and computer engineering at Duke. "Our tire
+tread sensor is the perfect marriage between high-end technology and a simple
+solution."
+
+In a paper published June 9 in IEEE Sensors Journal, Franklin and his
+colleagues flesh out their sensor design.
+
+The technology relies on the well-understood mechanics of how electric fields
+interact with metallic conductors. The core of the sensor is formed by placing
+two small, electrically conductive electrodes very close to each other. By
+applying an oscillating electrical voltage to one and grounding the other, an
+electric field forms between the electrodes.
+
+While most of this electric field passes directly between the two electrodes,
+some of the field arcs between them. When a material is placed on top of the
+electrodes, it interferes with this so-called "fringing field." By measuring
+this interference through the electrical response of the grounded electrode,
+it is possible to determine the thickness of the material covering the sensor.
+
+While there is a limit to how thick a material this setup can detect, it is
+more than enough to encompass the several millimeters of tread found in
+today's tires. And with evidence of sub-millimeter resolution, the technology
+could easily tell drivers when it's time to buy a new set of tires or give
+information about uneven and often dangerous tire wear by connecting many
+sensors in a grid to cover the width of the tire.
+
+Tests also proved that the metal mesh embedded within tires does not disrupt
+the operation of the new sensors.
+
+"When we pitch this idea to industry experts, they say to each other, 'Why
+haven't we tried that before?'" said Franklin. "It seems so obvious once you
+see it, but that's the way it is with most good inventions."
+
+While the sensor could be made from a variety of materials and methods, the
+paper explains how the researchers optimized performance by exploring
+different variables from sensor size and structure to substrate and ink
+materials. The best results were obtained by printing electrodes made of
+metallic carbon nanotubes on a flexible polyimide film. Besides providing the
+best results, the metallic carbon nanotubes are durable enough to survive the
+harsh environment inside a tire.
+
+The sensors can be printed on most anything using an aerosol jet printer --
+even on the inside of the tires themselves. And, while it is not yet certain
+that direct printing will be the best manufacturing approach, whatever
+approach is ultimately used, Franklin said the sensors should cost far less
+than a penny apiece once they're being made in quantity.
+
+Franklin's group also wants to explore other automotive applications for the
+printed sensors, such as keeping tabs on the thickness of brake pads or the
+air pressure within tires. This is consistent with a key trend in the
+automotive sector toward using embedded nanosensors.
+
+Other tire tracking products have recently hit the market. For example, the
+tire company Pirelli recently unveiled a system to electronically track each
+tire -- when it was installed, how many miles it has gone, when it was last
+serviced, etc. -- and use an algorithm to estimate its wear and tear. While
+not the same thing as actively, physically measuring tire tread, it shows that
+the market is there for this type of information.
+
+But the technology isn't limited to cars.
+
+"This setup could be used with just about anything that isn't metallic or too
+thick," said Franklin. "Right now we're focusing on tires, but really anything
+you'd rather not have to cut apart to determine its thickness could be
+monitored by this technology in real time."
+
+"Noninvasive Material Thickness Detection by Aerosol Jet Printed Sensors
+Enhanced Through Metallic Carbon Nanotube Ink," Joseph B. Andrews, Changyong
+Cao, Martin A. Brooke and Aaron D. Franklin. IEEE Sensors Journal, June 5,
+2017. DOI: 10.1109/JSEN.2017.2710085
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

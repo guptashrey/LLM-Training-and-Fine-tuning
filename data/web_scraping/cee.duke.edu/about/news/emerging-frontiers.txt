@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Exploring the Mechanics of Gene Expression
+
+September 26, 2018
+
+New NSF grant links four Duke engineers to explore how mechanical changes to
+genetic material affects gene expression, cancer development
+
+A team of engineers at Duke University have secured a four-year, $2 million
+“Emerging Frontiers” grant from the National Science Foundation to explore how
+structural changes to DNA affect gene regulation, as well as the downstream
+implications for cellular processes such as tumor development.
+
+The project capitalizes on varied strengths across engineering at Duke
+University, from gene editing to mechanical engineering to computational
+modeling. At the heart of the project is technology developed by Charles
+Gersbach, the Rooney Family Associate Professor of Biomedical Engineering,
+that uses a variation of the genetic editing system CRISPR-Cas9 to precisely
+modulate the epigenome.
+
+The epigenome includes all of the proteins, chemical modifications and other
+biomolecules that package, support, and control the expression of genes
+encoded by DNA. Our genomic DNA constitutes the blueprint for life, but the
+epigenome determines which parts are used, as well as where and when.
+Together, the molecules that make up our DNA and epigenome are referred to as
+chromatin.
+
+“The complexity of human biology is determined not by how many genes we have,
+but rather how those genes are dialed up and down dynamically in different
+cell types and in response to different conditions,” said Gersbach. “The
+sequencing of the human genome has led to significant advances in our
+knowledge of gene function, but we still have a very poor understanding of how
+the control elements of our genome turn genes on and off. Manipulation of the
+epigenome with CRISPR-Cas9 technologies allows us to study these questions
+with precision that wasn’t previously possible.”
+
+While the original CRISPR-Cas9 system locates and cuts specific sequences of
+DNA, Gersbach and his colleagues have engineered it to instead manipulate the
+epigenome adjacent to specific sequences.
+
+In the new project, this technology will be used to introduce changes to the
+chromatin structure around the C-MYC gene, which is known to cause cells to
+become cancerous under certain conditions. To link the changes in chromatin
+structure to cancer progression, the team will take advantage of lab-grown
+human organoid technology developed by Xiling Shen, the Hawkins Family
+Associate Professor of Biomedical Engineering at Duke.
+
+To better understand the underpinnings of these changes, the group will turn
+to both computer simulations and novel biosensors.
+
+Michael Rubinstein, professor of mechanical engineering and materials science,
+biomedical engineering, chemistry, and physics at Duke, will computationally
+model the mechanical properties of the chromatin and how this affects
+molecular dynamics and gene expression.
+
+Brenton Hoffman, assistant professor of biomedical engineering and cell
+biology at Duke, will develop technologies to directly monitor the changes to
+chromatin using another CRISPR-based system that places fluorescent molecules
+at specific points of the genome. These molecules brighten and dim depending
+on their distance from one another, providing a way to image the effect of
+programmed epigenetic changes on genome structure at the single-molecule scale
+in living cells.
+
+“This combination of innovative approaches to model, image and manipulate
+chromatin structure and its role in complex processes like tumor development
+has the potential to dramatically catalyze our fundamental understanding of
+biology,” added Gersbach. “It is a testament to the interdisciplinary and
+collaborative nature across the Pratt School of Engineering.”
+
+The grant is one of eight projects recently awarded a total of $16 million for
+research to characterize the regulation of gene activity and expression, and
+to create strategies to modify those processes without altering the DNA
+sequence.
+
+Supported by the NSF Directorate for Engineering's Emerging Frontiers in
+Research and Innovation (EFRI) program, and co-funded by the Biological
+Sciences Directorate and Mathematical and Physical Sciences Directorate, the
+awards signal a major investment in engineering biology and align with one of
+NSF's 10 Big Ideas for long-term discovery and innovation, Understanding the
+Rules of Life: Predicting Phenotype. Established in 2007, the EFRI program
+seeks to inspire and enable researchers to expand the limits of knowledge in
+the service of grand engineering challenges and national needs.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,225 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Evolving Deep Brain Stimulation Patterns
+
+January 4, 2017 | By Ken Kingery
+
+New approach saves energy while moving toward personalized treatment for
+Parkinson’s disease
+
+Duke University biomedical engineers have used computers to “evolve” more
+effective patterns of electric shocks delivered deep within the brain to treat
+Parkinson’s disease symptoms.
+
+The new energy-saving patterns could reduce the number of battery replacement
+surgeries needed during a patient’s lifetime and lead to patterns tailored to
+treat specific symptoms.
+
+First introduced in 1987, deep brain stimulation sends electrical pulses deep
+into the brains of people suffering from neurological motor control diseases
+through wires implanted into an area of the brain called the basal ganglia.
+Stimulation greatly improves motor function in many patients, though the
+reasons why remain unclear.
+
+While trying to understand the basic mechanisms involved, Duke engineers
+discovered that timing patterns of deep brain stimulation became less
+effective as they became more random. This implied that there might be non-
+random patterns that work better than a constant barrage of pulses. Over the
+past few years, the team has serendipitously discovered several such patterns.
+
+Now, the Duke researchers have built an evolutionary computer algorithm to
+more purposefully design effective patterns. In a new study with human
+patients, the program developed a pattern that cuts stimulator energy usage by
+up to 75 percent while losing none of the treatment’s benefits. With a greater
+understanding of the neural activity that gives rise to specific symptoms, the
+algorithm could design patterns tailored to each person’s needs.
+
+The results appear online on Jan. 4, 2017, in the journal Science
+Translational Medicine.
+
+“Cutting energy use is important because when these devices’ primary cell
+batteries run out, they have to be replaced through a surgical procedure,”
+said Warren Grill, the Edmund T. Pratt Jr. School Professor of Biomedical
+Engineering. “Besides being expensive, studies have shown that that there is a
+2 to 3 percent chance of infection, which goes up each time the procedure is
+done. And because these batteries only last three to five years, someone
+receiving an implant at age 50 could undergo many procedures in a lifetime.”
+
+Grill and his colleagues developed timing patterns by splitting each second of
+electrical pulses into five segments, which they further divided into 200
+individual slices. Each segment formed one repetition of a pattern, with each
+millisecond-long slice randomly receiving a pulse or a blank. With that number
+of slices and no further restrictions, however, the researchers faced one
+hundred quindecillion possible patterns. (That’s a 1 with 50 zeroes after it
+-- far too many to test experimentally in a laboratory.)
+
+To pick the most promising patterns out of this impossibly large haystack, the
+team turned to computational evolution.
+
+“The method works very similarly to biological evolution, but it occurs inside
+of a computer,” said Grill. “In our world, instead of a giraffe’s neck getting
+longer to reach higher leaves, the positions of electric pulses change so that
+the pattern gets better over time.”
+
+The evolutionary algorithm begins by randomly creating 10 patterns of deep
+brain stimulation and testing them in a computational model of Parkinson’s
+disease. The better a pattern performs, the more likely it is to “parent” a
+new pattern. In each generation, the computer introduces random mutations into
+the offspring as well as new “immigrant” patterns to keep the “gene pool”
+fresh. After thousands of iterations, a new, highly efficient pattern is born.
+
+In this case, the algorithm evaluated the patterns on two measures --
+efficiency and effectiveness. By weighting the two appropriately, the computer
+evolved patterns that used the least amount of energy while maintaining
+performance just as good as a standard, constant stream of pulses.
+
+The pattern that emerged used an average of only 45 pulses per second -- a
+large reduction from the standard 130 to 185 used currently. That’s an energy
+savings of 60 to 75 percent, which could double or triple the lifetime of the
+implanted battery.
+
+After receiving encouraging results from testing the pattern in rats with
+Parkinson’s-like symptoms, Grill decided to test it in humans.
+
+“But modern deep brain stimulation devices can’t deliver the patterns we’re
+developing,” said Grill. “So we had to come up with an innovative approach.”
+
+In collaboration with neurosurgeons at Duke Health and Emory Healthcare in
+Atlanta, Grill and his team recruited Parkinson’s patients with deep brain
+stimulation implants to test the pattern when they came in for surgical
+battery replacements. Patients received only local anesthesia during the
+surgical procedure, retaining control over many motor functions so researchers
+could assess their symptoms. In between the removal and installation of the
+new and old batteries, the researchers temporarily connected their test
+devices to each patient’s implanted brain lead to test the new pattern.
+
+The computationally evolved pattern performed just as well as the individually
+optimized treatments developed by each patient’s neurologist over the course
+of many years, while requiring substantially less energy.
+
+This research was supported by the National Institutes of Health, including a
+Javits Neuroscience Investigator Award to Grill to provide long-term support
+to investigators with a history of exceptional talent, imagination and
+preeminent scientific achievement (R01-NS040894, R37-NS040894, R01-NS079312).
+
+“Optimized temporal pattern of brain stimulation designed by computational
+evolution.” David T. Brocker, Brandon D. Swan, Rosa Q. So, Dennis A. Turner,
+Robert E. Gross, Warren M. Grill. Science Translational Medicine, 2016. DOI:
+10.1126/scitranslmed.aah3532.
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

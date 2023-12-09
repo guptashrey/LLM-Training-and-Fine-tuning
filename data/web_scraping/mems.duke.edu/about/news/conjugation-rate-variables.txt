@@ -1,0 +1,256 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# One Quarter Of Bacterial Pathogens Can Spread Antibiotic Resistance Directly
+To Peers
+
+January 29, 2020 | By Ken Kingery
+
+Antibiotics do not affect the speed at which pathogens share resistance genes
+
+Biomedical engineers at Duke University have demonstrated that at least 25
+percent of antibiotic-resistant pathogenic bacteria found in clinical settings
+are capable of spreading their resistance directly to other bacteria. At the
+same time, the study shows that, despite common beliefs, the use of
+antibiotics does not significantly affect the rate at which the genes
+responsible for resistance are swapped between bacteria.
+
+Researchers used a new high-throughput method of measuring the rate at which
+bacteria exchange the packages of DNA that bestow resistance. The speed and
+ability to automate much of the process could allow new insights into what
+variables affect transfer rates. Such efforts could help doctors slow—or even
+reverse—the spread of resistance in certain human pathogens.
+
+The results appears online on January 24 in the journal Science Advances.
+
+“Our previous research showed that antibiotics do not affect the rate at which
+bacteria spread their resistance directly to their community in laboratory
+strains of _E.coli_ ,” said Lingchong You, professor of biomedical engineering
+at Duke. “But we wanted to see if this is also true for clinical strains of
+pathogens that are actually out there in the world.”
+
+Each antibiotic-resistant pathogen carries a genetic recipe for its
+resistance. But like chocolate chip cookies, not all recipes are the same, and
+not all of them are easily taught to others. One way of transferring
+resistance, however, is for that genetic recipe to be neatly written into a
+sharable book of sorts called a plasmid, which is then picked up and read by a
+neighboring bacteria through a process called conjugation.
+
+As resistance to antibiotics grows around the world, scientists are trying to
+figure out how to stop it from spreading. But because a lot of antibiotics
+come from natural sources, it would be impossible to completely eliminate
+resistance in the wild, which means there will always be reservoirs of
+bacteria filled with recipe books for resistance.
+
+“So the real problem is the resistance making its way into pathogens that harm
+humans,” said Jonathan Bethke, a PhD student working in You’s laboratory and
+first author of the new paper. “We’re looking to gain a good understanding of
+what factors affect their rate of conjugation, because if you can slow that
+process down enough, the plasmids carrying the genes for resistance can fall
+out of a population.”
+
+One major challenge in accomplishing that, however, is the classical method of
+measuring the rate of plasmid conjugation. Besides being labor intensive,
+researchers must wait 16 hours for a new generation of bacteria to grow in
+Petri dishes before they can get the results. This restriction makes this
+approach difficult to use when dealing with hundreds of bacterial strains and
+dozens of tweakable variables.
+
+Rather than taking years to finish the experiment, Bethke and Allison
+Lopatkin, a former graduate student in You’s laboratory who is now an
+assistant professor at Barnard College, developed a method that uses automated
+machinery and takes only five hours to deliver results. It involves mixing two
+strains of bacteria—a donor strain with resistance to one antibiotic that can
+be shared through plasmid conjugation and a recipient strain with resistance
+to a different antibiotic that cannot be shared.
+
+After letting the strains mingle and the plasmid conjugation process take
+place for a set amount of time, the bacterial mixture is transferred to vials
+containing nutrients and both antibiotics. This promotes the growth of the
+recipient bacteria that have successfully received the donor’s plasmids for
+resistance while stunting the growth of all the rest. The researchers then
+wait to see how long the newly dual-resistant population takes to hit a
+certain threshold, which indicates how many there were to begin with.
+
+“This method opens up the ability to test many more drugs or environmental
+factors to see how they influence the rate of plasmid conjugation,” said
+Bethke. “It will also allow us to determine if there’s some sort of genetic
+determinant that is playing a greater role in terms of the transfer rate.”
+
+You and Bethke collaborated with Joshua Thaden, assistant professor of
+medicine at Duke, and Vance Fowler, professor of medicine at Duke, to obtain
+219 clinical isolates of pathogens – bugs found in real patients. All carried
+resistance to beta-lactamase, the most common form of antibiotic in use today.
+By measuring the rate of plasmid conjugation both with and without beta-
+lactamase antibiotics present, they showed that, except for one outlier, these
+antibiotics do not increase the rate of sharing resistance. They also
+discovered that more than 25 percent of the strains studied are capable of
+sharing their resistance at rates fast enough to detect.
+
+“We were surprised to discover that it was that high,” said You. “And of
+course antibiotics do promote the spread of resistance, but our study
+indicates that it is primarily through selective population dynamics rather
+than through an increased rate of plasmid conjugation.”
+
+The researchers also examined how slight variations in the genetics of the
+resistance plasmids themselves affect their conjugation rate. Working with
+Minfeng Xiao’s laboratory at BGI Genomics in Shenzhen, China, the team
+sequenced the plasmids and analyzed their DNA. They then categorized the
+plasmids into “mobility groups” based on how they jump between cells and
+“incompatibility groups” based on how they replicate. Much to the researchers’
+surprise, they discovered that while there were only two mobility groups
+present in their sample library, neither of which affected the rate of
+conjugation, there were seven incompatibility groups—and they very much did
+affect the rate of conjugation.
+
+“This is a preliminary but potentially big discovery because these two
+classifications are genetic, which makes them easy to identify,” said Bethke.
+“If we can start to build a library of genetic markers that indicate what a
+pathogen’s ability to spread its resistance directly to its neighbors is
+likely to be, then we can start to make large predictions about things like
+horizontal gene transfer networks and maybe start understanding how bacteria
+are evolving through this process at large.”
+
+“Such a library would also have direct implications for how doctors use
+antibiotics in the field,” said You. “This knowledge would help doctors make
+patient-specific decisions on whether or not to administer antibiotics.”
+
+This research was supported by the National Institutes of Health (R01GM098642,
+R01AI125604), the Army Research Office (W911NF-14-1-0490), and the David and
+Lucile Packard Foundation.
+
+CITATION: “Environmental and Genetic Determinants of Plasmid Mobility in
+Pathogenic Escherichia Coli,” Jonathan H. Bethke, Adam Davidovich, Li Cheng,
+Allison J. Lopatkin, Wenchen Song, Joshua T. Thaden, Vance G. Fowler Jr.,
+Minfeng Xiao, Lingchong You. Science Advances, 24 Jan., 2020: Vol. 6, no. 4.
+DOI: 10.1126/sciadv.aax3173
+
+# # #
+
+## Related News
+
+December 05, 2018
+
+### Distinguishing Resistance from Resilience to Prolong Antibiotic Potency
+
+November 22, 2017
+
+### Managing Antibiotics Not Enough to Reverse Resistance
+
+April 11, 2016
+
+### Antibiotics Don't Promote Swapping of Resistance Genes
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

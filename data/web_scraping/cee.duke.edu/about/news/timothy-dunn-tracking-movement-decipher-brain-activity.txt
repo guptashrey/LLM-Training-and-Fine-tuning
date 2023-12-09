@@ -1,0 +1,218 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Timothy Dunn: Tracking Movement to Decipher Brain Activity
+
+June 22, 2021 | Michaela Kane
+
+New faculty member Timothy Dunn uses novel 3D behavior-tracking technologies
+to better understand how the brain works
+
+Timothy Dunn will join Duke University’s Department of Biomedical Engineering
+as a new assistant professor beginning July 1, 2021. With research centered on
+developing technologies to precisely track and model animal movement, Dunn
+aims to expand the ways researchers can probe the brain.
+
+When it comes to piecing together the inner workings of the brain,
+neuroscientists have an arsenal of tools at their disposal. Imaging modalities
+like calcium imaging enable researchers to precisely track when and where
+individual neurons are activated, and the new technologies like optogenetics
+have allowed scientists to activate and control key neurons in animal models.
+In the last decade, researchers have even developed tools to map the
+connections among neurons in the brain, giving them a clearer picture of the
+organ’s complex circuitry.
+
+These advancements have allowed researchers to better decipher neuronal
+activity within the brain, but just how that translates into functional output
+in terms of actions at the level of the entire body is less clear.
+
+Dunn and his lab aim to change this.
+
+“The principal output of the brain is movement and behavior, but we previously
+haven’t had any tools to precisely track that output in freely moving animals
+and relate it to underlying neuronal activity,” says Dunn, who joins Duke BME
+from Duke’s Department of Neurosurgery and Duke AI Health. “This has been a
+major hurdle for understanding at a basic neurological level what neural
+circuits are doing, and it’s made it very difficult to crack the mystery of
+devastating motor disorders like Parkinson’s disease.”
+
+To address this longstanding issue, Dunn and his team developed DANNCE, or
+3-Dimensional Aligned Neural Network for Computational Ethology. The team
+gathered videos of animals moving naturally in the lab and trained a machine-
+learning algorithm known as a convolutional neural network to identify and map
+the precise locations of different body parts as the animal moved. Because it
+was drawing information from multiple cameras, the system learned how to
+predict precisely where an animal’s limbs would be in a given 3-dimensional
+space.
+
+“This tool gives us quantitative measurements of natural behavior, which
+didn’t exist before,” says Dunn. “DANNCE was trained on rats, but the
+technique is able to work accurately on other types of animals as well, and it
+doesn’t require the animal to wear anything that might hinder its natural
+movement. We can then relate these precise movement measurements to data
+collected from brain recording technologies, like calcium imaging.”
+
+Already, this approach has given researchers a new way to precisely study
+movement disorders seen in conditions like Parkinson’s disease, Fragile X
+Syndrome and Autism Spectrum Disorder. Now, in his new role in Duke BME, Dunn
+says one of the main goals of his lab will be to use DANNCE to explore
+hereditary movement disorders, like some forms of dystonia.
+
+“Dystonia is very difficult to study because there is a lot of variation in
+how the disease is expressed, and animal models are often asymptomatic,” says
+Dunn. “We hypothesize that researchers have been unable to find symptoms in a
+majority of these animals because they don’t have sensitive tools to measure
+their movement profiles comprehensively. With our technology we can measure
+the positions and velocities of every controllable body part on the animal
+over long periods of time. Using this new granularity, we now may be able to
+find more subtle effects at various temporal and spatial scales that have been
+inaccessible to researchers in the past.”
+
+In addition to this work, Dunn and his team will also explore how artificial
+neural networks can learn to precisely mimic the movement information
+collected with DANNCE.
+
+“We want to train a neural network to achieve the same goal or perform the
+same task as the animal,” says Dunn. “For example, if you’re trying to study
+the visual system you can build a deep neural network that can recognize
+objects, which is something that our visual system is obviously capable of and
+use this neural network as a realistic model for visual processing. But
+researchers haven’t yet been able to build such realistic neural network
+models for how an artificial body moves and navigates through an artificial
+environment.”
+
+As he prepares to join Duke BME, Dunn is excited to begin collaborating with
+researchers throughout the department. In addition to working closely with
+Michael Tadross on a grant to use their respective tools to study Parkinson’s
+disease, he is collaborating with Tatiana Segura to better explore and
+quantify behavioral and movement effects after a stroke. On the technical
+side, Dunn is also aiming to partner with Roarke Horstmeyer to improve
+DANNCE’s image processing capabilities.
+
+Beyond working with faculty, Dunn will use his expertise to help develop a
+biomedical data science certificate for master’s students. According to Dunn,
+this will involve developing new courses and creating a full and engaging
+curriculum with other data science researchers across the department.
+
+“Joining Duke BME is an exceptional opportunity for me. The department
+provides an environment in which I can develop advanced machine learning tools
+and then apply them to real biological problems, so it’s really an ideal mix
+of disciplines,” says Dunn. “I’ve already established productive
+collaborations, and I’m eager to build on these partnerships as a new member
+of the department. I’m also looking forward to mentoring bright and passionate
+BME students who share my excitement for machine learning as a catalyst of
+neurobiological discovery.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

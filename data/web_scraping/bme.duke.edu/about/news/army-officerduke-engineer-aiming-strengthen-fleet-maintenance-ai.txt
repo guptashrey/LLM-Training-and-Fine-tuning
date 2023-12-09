@@ -1,0 +1,229 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Army Officer/Duke Engineer Aiming to Strengthen Fleet Maintenance with AI
+
+November 11, 2022
+
+Maj. Patrick Kuiper, a Duke ECE doctoral student, is leveraging sensor data to
+improve the US Army's vehicle fleet
+
+Before US Army Maj. Patrick Kuiper started his PhD at Duke, he served as the
+executive officer, or “XO,” of an infantry battalion. An XO is second-in-
+command of a unit and handles all its administration. One of Kuiper’s many
+responsibilities in this role was making sure that the vehicles transporting
+soldiers and critical equipment were kept serviceable and reliable.
+
+From a practical and tactical perspective, Kuiper understands vehicle
+maintenance schedules well. But in the lab of Vahid Tarokh, the Rhodes Family
+Distinguished Professor of Electrical and Computer Engineering at Duke, Kuiper
+is applying a different skill set to get deeper insights: math.
+
+Tarokh and Kuiper met at Harvard, through their involvement with Draper Labs,
+a US Department of Defense research organization. Kuiper was a Draper Fellow
+who Tarokh mentored through his master’s program research project on
+optimizing the quality of life for soldiers in temporary camps.
+
+“When you deploy, it’s not always to an established post, like the bases in
+Germany or Korea. In Afghanistan and Iraq, for example, there are temporary
+camps where resources like water are scarce,” explained Kuiper, who has
+deployed to both. “We have survey data about what things are important to
+soldiers in these environments—like hot showers—and we can adjust how we
+consume resources elsewhere to provide a better living environment for them.”
+
+Kuiper finished his master’s degree and joined the math department at the US
+Military Academy at West Point as an assistant professor. When he completed
+his service as XO, he was invited to earn a PhD at Duke and return to teach at
+West Point, while remaining on active duty with the Army.
+
+Tarokh, who joined the Duke ECE faculty in 2018, was eager to bring Kuiper
+into the Duke fold, and Kuiper was eager to join.
+
+“My master’s thesis was applied research,” said Kuiper. “Now I’d like to
+expand my ability to incorporate mathematical analysis—that’s where I want to
+step up my game. One thing that I like about Vahid’s lab is that every project
+has a theoretical foundation.”
+
+Tarokh’s lab focuses on the fundamental attributes of algorithms that process
+the huge amounts of data needed to make machine learning possible. Kuiper’s
+first project in Tarokh’s lab examines one of those large data sets, which is
+composed of hundreds of thousands of measurements taken by sensors inside of
+the engines of military vehicles.
+
+It’s an understatement to say that the U.S. military has a lot of vehicles,
+and they are used to varying degrees. Some are taken out regularly on well-
+maintained roads. Others are driven hard in the field and then parked for
+weeks on end. Sometimes a vehicle benefits from infrequent use, while other
+times its tires and hoses dry rot if it's idle. But there are so many vehicles
+to keep track of that servicing them is based on their mileage and an annual
+schedule rather than individual instances of wear and tear.
+
+> “When you put all the different kinds of engine readings together—oil
+> pressure, tire pressure—it becomes a difficult statistical quantity to work
+> with. There are techniques to getting to that single outcome, but those
+> techniques are not well understood. That uncertainty is where we’re
+> focusing.”
+
+Kuiper said that using sensor data to tailor maintenance will build readiness,
+save the military money and conserve mechanics’ limited time.
+
+“The idea is to get into that loop and be informed in real-time on the
+vehicle’s health,” he said. “But when you put all the different kinds of
+engine readings together—oil pressure, tire pressure— it becomes a difficult
+statistical quantity to work with. There are techniques for getting to that
+single outcome, but those techniques are not well understood. That uncertainty
+is where we’re focusing.”
+
+For critical pieces of equipment, Kuiper said, predictive maintenance is
+likely to play a role in the future.
+
+“For many decades, the Department of Defense has been at the forefront of
+technological developments like the internet, satellite communications,
+machine learning, brain-computer interfaces, prosthetics and more. These
+technologies have improved the human condition significantly and
+revolutionized the world we live in,” said Tarokh. “Patrick's PhD research,
+which aims to predict when the components of planes, trains and automobiles
+are likely to wear out, will contribute to this research legacy. I’m thankful
+that the Department of Defense and West Point have given me the pleasure of
+working with him and supporting his research.”
+
+More News from Duke ECE
+
+## Duke's AFRL/AFOSR University Center of Excellence
+
+Robert Calderbank (left) and Vahid Tarokh—elected members of the prestigious
+National Academy of Engineering—lead Duke's $5 million US Air Force Research
+Laboratory/Air Force Office of Scientific Research University Center of
+Excellence: Agile Waveform Design for Communication Networks in Contested
+Environments.
+
+The center focuses on developing communication protocols for handling the most
+data-heavy tasks imaginable—such as flying unmanned autonomous vehicles.
+
+## Related News
+
+January 20, 2022 | Duke Science & Technology Initiative
+
+### Duke Engineering's Tarokh: Using ML to Predict Catastrophes
+
+November 15, 2021
+
+### General Milley Visits Duke Engineering Labs, Faculty and Students
+
+February 08, 2019
+
+### Barros, Tarokh Elected Members of the National Academy of Engineering
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

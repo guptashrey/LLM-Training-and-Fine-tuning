@@ -1,0 +1,191 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Pranam D. Chatterjee
+
+Assistant Professor of Biomedical Engineering
+
+We develop diverse algorithmic modalities to discover, characterize, and
+engineer novel proteins for applications in genome editing, targeted protein
+modulation, and reproductive bioengineering.
+
+Our long-term goals are two-fold:
+
+  1. Enable the _de novo_ design of protein effectors for any biological purpose
+  2. Leverage our platform technologies to prolong and promote reproductive longevity and equality
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Biomedical Engineering
+  * Assistant Professor of Computer Science
+
+## Contact Information
+
+  * **Office Location:** 101 Science Drive, CIEMAS 2353A, Durham, NC 27705
+  * **Email Address:** pranam.chatterjee@duke.edu
+  * **Websites:**
+    * programmable.bio
+
+## Education
+
+  * Ph.D. Massachusetts Institute of Technology, 2020
+
+## Research Interests
+
+Integration of computational and experimental methodologies to design novel
+proteins for applications in genome editing, targeted protein modulation, and
+reproductive bioengineering
+
+## Courses Taught
+
+  * BME 390L: Special Topics with a Lab
+  * BME 493: Projects in Biomedical Engineering (GE)
+  * BME 494: Projects in Biomedical Engineering (GE)
+  * BME 590: Special Topics in Biomedical Engineering
+  * BME 791: Graduate Independent Study
+  * EGR 393: Research Projects in Engineering
+
+## In the News
+
+  * Pranam Chatterjee: Engineering the Reproductive System, One Protein at a
+    Time | _**Duke Engineering News**_ (Sept. 30, 2021)
+
+## Representative Publications
+
+  * Koseki, S; Hong, L; Yudistyra, V; Stan, T; Tysinger, E; Silverstein, R;
+    Kramme, C; Amrani, N; Savic, N; Pacesa, M; Rodriguez, TS; Ponnapati, M;
+    Jacobson, J; Church, G; Truant, R; Jinek, M; Kleinstiver, B; Sontheimer,
+    E; Chatterjee, P, _PAM-Flexible Genome Editing with an Engineered Chimeric
+    Cas9._ , Res Sq (2023) [10.21203/rs.3.rs-2625838/v1] [abs].
+  * Pierson Smela, MD; Kramme, CC; Fortuna, PRJ; Adams, JL; Su, R; Dong, E;
+    Kobayashi, M; Brixi, G; Kavirayuni, VS; Tysinger, E; Kohman, RE; Shioda,
+    T; Chatterjee, P; Church, GM, _Directed differentiation of human iPSCs to
+    functional ovarian granulosa-like cells via transcription factor
+    overexpression._ , Elife, vol 12 (2023) [10.7554/elife.83291] [abs].
+  * Kobayashi, M; Kobayashi, M; Odajima, J; Shioda, K; Hwang, YS; Sasaki, K;
+    Chatterjee, P; Kramme, C; Kohman, RE; Church, GM; Loehr, AR; Weiss, RS;
+    Jüppner, H; Gell, JJ; Lau, CC; Shioda, T, _Expanding homogeneous culture
+    of human primordial germ cell-like cells maintaining germline features
+    without serum or feeder layers_ , Stem Cell Reports, vol 17 no. 3 (2022),
+    pp. 507-521 [10.1016/j.stemcr.2022.01.012] [abs].
+  * Palepu, K; Ponnapati, M; Bhat, S; Tysinger, E; Stan, T; Brixi, G; Koseki,
+    SRT; Chatterjee, P, _Design of Peptide-Based Protein Degraders via
+    Contrastive Deep Learning_ (2022) [10.1101/2022.05.23.493169] [abs].
+  * Kramme, C; Plesa, AM; Wang, HH; Wolf, B; Smela, MP; Guo, X; Kohman, RE;
+    Chatterjee, P; Church, GM, _MegaGate: A toxin-less gateway molecular
+    cloning tool._ , Star Protocols, vol 2 no. 4 (2021)
+    [10.1016/j.xpro.2021.100907] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

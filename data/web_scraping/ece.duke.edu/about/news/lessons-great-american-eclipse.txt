@@ -1,0 +1,215 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Lessons from the Great American Eclipse
+
+August 23, 2017 | By Michaela Kane
+
+CEE’s Mark Borsuk discusses how the 2017 eclipse challenged our engineered
+systems
+
+On August 21, millions of people across the United States turned their
+attention skyward to watch as the moon eclipsed the sun, bringing cities
+stretching from Salem, Oregon to Charleston, South Carolina into two minutes
+of darkness.
+
+This was the first time since 1918 that a total eclipse has crossed the
+continental US, and the historic event also drew an historic migration of
+people, causing massive traffic jams and travel delays as people scrambled to
+get to and from their viewing destinations.
+
+Although traffic from the rush to view the eclipse was an expected issue for
+those within the path of totality, other less-discussed problems were also
+anticipated: in the arid environments of the West Coast, park rangers were
+wary of an increased incidence of forest fires as people set up camp in
+Oregon, Idaho and Wyoming after a particularly dry summer. Solar energy
+production also dipped on Monday, requiring states to rely on other energy
+sources to make up the difference, and cell phone service was spotty or even
+nonexistent as people congregated together.
+
+For Mark Borsuk, an associate professor of Civil and Environmental Engineering
+(CEE) at Duke University, the logistical issues underscored the importance for
+our engineered systems to be able to adapt to the demands from sporadic,
+atypical events like the eclipse. A new _Risk and Resilience program_ offered
+through the CEE department aims to address these issues by teaching students
+to anticipate and design for extreme events, like natural disasters, public
+health crises, or even social gatherings such as those occurring this past
+year in association with marches on Washington or the eclipse. As a co-creator
+of the program, Borsuk answered a few questions about what engineers can learn
+from the Great American Eclipse.
+
+**How do the logistical issues surrounding the eclipse relate to your field of
+risk and resilience engineering?**
+
+The eclipse represented an unprecedented shock to our infrastructure system.
+The mass movement of people from all over the country toward the path of
+totality created a set of traffic patterns that were distinctly different from
+both the usual daily commuting routes as well as from typical seasonal or
+holiday migrations. And unlike for other focused gatherings, such as a
+sporting event or concert, it was unpredictable how many people would travel,
+where exactly they would go, or what route they could take. Thus, emergency
+management needed to make preparations that were robust to different emerging
+patterns and situations. This is very similar to how engineers need to develop
+designs that are robust for a future rendered largely unpredictable by a
+changing climate, emergent technology, and a changing political landscape.
+
+More predictable, but equally unprecedented, was the impact of the eclipse on
+solar energy production. California, for example, lost about 3,400 megawatts
+of output according to the California Independent System Operator (ISO).
+Fortunately, they had planned ahead and were able to tap into natural gas-
+fired power plants and hydroelectric dams to make up the difference.
+
+**What can engineers learn from this event to better prepare for the future?**
+
+The eclipse provided a kind of dress rehearsal for the California ISO in how
+to handle problems that may arise as they attempt to integrate an increasing
+number of intermittent renewable energy sources into the state’s power supply.
+Similarly, the handling of unpredictable traffic patterns as people traveled
+to the path of totality may provide some practice for coastal evacuations that
+are likely to become increasingly common under climate change.
+
+**Is there an event that challenges our infrastructure/ engineered systems in
+a way that is comparable to the 2017 eclipse?**
+
+The Women’s March in Washington earlier this year was somewhat similar in the
+unpredictability of the turnout, timing, and transport of participants.
+Fortunately, in both cases, a combination of advanced planning and participant
+goodwill allowed each to proceed without major incidents or problems.
+
+**Do engineers incorporate the data from these large events into their
+modeling for future projects? Is this something you would address in your new
+risk and resilience program?**
+
+> Too often, our limited experience causes us to be overconfident in our
+> predictions for the future, and extreme events serve to remind us that we
+> may be missing important factors or the possibility of multiple factors
+> coinciding.
+
+The occurrence of rare events can infrequently be handled like typical data.
+They are essentially outliers that have no precedent and very little specific
+information for future prediction. Their main value is in expanding the scope
+of what planners and engineers consider to be within the realm of possibility.
+
+In the context of quantitative risk assessment, this translates to wider
+probability distributions on model variables and more careful consideration of
+correlations. We will be considering such issues in my new fall course, CEE
+690: Risk and Resilience in Engineering.
+
+The next solar eclipse to cross the United States won’t occur until 2024, but
+until then engineers will have plenty of time to prepare for any logistical
+issues that may arise. To see how students, staff and visitors at Duke
+University observed the eclipse from Durham, check out more photos below!
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

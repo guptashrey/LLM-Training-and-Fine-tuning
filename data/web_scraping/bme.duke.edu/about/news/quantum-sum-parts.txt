@@ -1,0 +1,340 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Foundational Step Shows Quantum Computers Can Be Better Than the Sum of
+Their Parts
+
+October 4, 2021 | By Bailey Bedford
+
+Duke researchers show for the first time that an assembly of quantum computing
+pieces can be better than the worst parts used to make it
+
+_This article was adapted from theUniversity of Maryland's Joint Quantum
+Institute_
+
+Pobody’s nerfect—not even the indifferent, calculating bits that are the
+foundation of computers. But Christopher Monroe, the Gihuly Family
+Presidential Distinguished Professor in the Department of Electrical and
+Computer Engineering and Physics at Duke, together with colleagues from the
+University of Maryland's Joint Quantum Institute, have made progress toward
+ensuring we can trust the results of quantum computers even when they are
+built from pieces that sometimes fail. They have shown in an experiment, for
+the first time, that an assembly of quantum computing pieces can be better
+than the worst parts used to make it. In a paper published in the journal
+_Nature_ on Oct. 4, 2021, the team shared how they took this landmark step
+toward reliable, practical quantum computers.
+
+In their experiment, the researchers combined several qubits—the quantum
+version of bits—so that they functioned together as a single unit called a
+logical qubit. They created the logical qubit based on a quantum error
+correction code so that, unlike for the individual physical qubits, errors can
+be easily detected and corrected, and they made it to be fault-
+tolerant—capable of containing errors to minimize their negative effects.
+
+“Qubits composed of identical atomic ions are natively very clean by
+themselves,” says Monroe. “However, at some point, when many qubits and
+operations are required, errors must be reduced further, and it is simpler to
+add more qubits and encode information differently. The beauty of error
+correction codes for atomic ions is they can be very efficient and can be
+flexibly switched on through software controls.”
+
+This is the first time that a logical qubit has been shown to be more reliable
+than the most error-prone step required to make it. The team was able to
+successfully put the logical qubit into its starting state and measure it
+99.4% of the time, despite relying on six quantum operations that are
+individually expected to work only about 98.9% of the time.
+
+That might not sound like a big difference, but it’s a crucial step in the
+quest to build much larger quantum computers. If the six quantum operations
+were assembly line workers, each focused on one task, the assembly line would
+only produce the correct initial state 93.6% of the time (98.9% multiplied by
+itself six times)—roughly ten times worse than the error measured in the
+experiment. That improvement is because in the experiment the imperfect pieces
+work together to minimize the chance of quantum errors compounding and ruining
+the result, similar to watchful workers catching each other's mistakes.
+
+The results were achieved using Monroe’s ion-trap system at UMD, which uses up
+to 32 individual charged atoms—ions—that are cooled with lasers and suspended
+over electrodes on a chip. They then use each ion as a qubit by manipulating
+it with lasers.
+
+“We have 32 laser beams,” says Monroe. “And the atoms are like ducks in a row;
+each with its own fully controllable laser beam. I think of it like the atoms
+form a linear string and we're plucking it like a guitar string. We're
+plucking it with lasers that we turn on and off in a programmable way. And
+that's the computer; that's our central processing unit.”
+
+By successfully creating a fault-tolerant logical qubit with this system, the
+researchers have shown that careful, creative designs have the potential to
+unshackle quantum computing from the constraint of the inevitable errors of
+the current state of the art. Fault-tolerant logical qubits are a way to
+circumvent the errors in modern qubits and could be the foundation of quantum
+computers that are both reliable and large enough for practical uses.
+
+## Correcting Errors and Tolerating Faults
+
+Developing fault-tolerant qubits capable of error correction is important
+because Murphy’s law is relentless: No matter how well you build a machine,
+something eventually goes wrong. In a computer, any bit or qubit has some
+chance of occasionally failing at its job. And the many qubits involved in a
+practical quantum computer mean there are many opportunities for errors to
+creep in.
+
+Fortunately, engineers can design a computer so that its pieces work together
+to catch errors—like keeping important information backed up to an extra hard
+drive or having a second person read your important email to catch typos
+before you send it. Both the people or the drives have to mess up for a
+mistake to survive. While it takes more work to finish the task, the
+redundancy helps ensure the final quality.
+
+Some prevalent technologies, like cell phones and high-speed modems, currently
+use error correction to help ensure the quality of transmissions and avoid
+other inconveniences. Error correction using simple redundancy can decrease
+the chance of an uncaught error as long as your procedure isn’t wrong more
+often than it’s right—for example, sending or storing data in triplicate and
+trusting the majority vote can drop the chance of an error from one in a
+hundred to less than one in a thousand.
+
+So while perfection may never be in reach, error correction can make a
+computer’s performance as good as required, as long as you can afford the
+price of using extra resources. Researchers plan to use quantum error
+correction to similarly complement their efforts to make better qubits and
+allow them to build quantum computers without having to conquer all the errors
+that quantum devices suffer from.
+
+“What's amazing about fault tolerance, is it's a recipe for how to take small
+unreliable parts and turn them into a very reliable device,” says Kenneth
+Brown, a professor of electrical and computer engineering at Duke and a
+coauthor on the paper. “And fault-tolerant quantum error correction will
+enable us to make very reliable quantum computers from faulty quantum parts.”
+
+But quantum error correction has unique challenges—qubits are more complex
+than traditional bits and can go wrong in more ways. You can’t just copy a
+qubit, or even simply check its value in the middle of a calculation. The
+whole reason qubits are advantageous is that they can exist in a quantum
+superposition of multiple states and can become quantum mechanically entangled
+with each other. To copy a qubit you have to know exactly what information
+it’s currently storing—in physical terms you have to measure it. And a
+measurement puts it into a single well-defined quantum state, destroying any
+superposition or entanglement that the quantum calculation is built on.
+
+So for quantum error correction, you must correct mistakes in bits that you
+aren’t allowed to copy or even look at too closely. It’s like proofreading
+while blindfolded. In the mid-1990s, researchers started proposing ways to do
+this using the subtleties of quantum mechanics, but quantum computers are just
+reaching the point where they can put the theories to the test.
+
+The key idea is to make a logical qubit out of redundant physical qubits in a
+way that can check if the qubits agree on certain quantum mechanical facts
+without ever knowing the state of any of them individually.
+
+## Can’t Improve on the Atom
+
+There are many proposed quantum error correction codes to choose from, and
+some are more natural fits for a particular approach to creating a quantum
+computer. Each way of making a quantum computer has its own types of errors as
+well as unique strengths. So building a practical quantum computer requires
+understanding and working with the particular errors and advantages that your
+approach brings to the table.
+
+The ion trap-based quantum computer that Monroe and colleagues work with has
+the advantage that their individual qubits are identical and very stable.
+Since the qubits are electrically charged ions, each qubit can communicate
+with all the others in the line through electrical nudges, giving freedom
+compared to systems that need a solid connection to immediate neighbors.
+
+“They’re atoms of a particular element and isotope so they're perfectly
+replicable,” says Monroe. “And when you store coherence in the qubits and you
+leave them alone, it exists essentially forever. So the qubit when left alone
+is perfect. To make use of that qubit, we have to poke it with lasers, we have
+to do things to it, we have to hold on to the atom with electrodes in a vacuum
+chamber, all of those technical things have noise on them, and they can affect
+the qubit.”
+
+For Monroe’s system, the biggest source of errors is entangling operations—the
+creation of quantum links between two qubits with laser pulses. Entangling
+operations are necessary parts of operating a quantum computer and of
+combining qubits into logical qubits. So while the team can’t hope to make
+their logical qubits store information more stably than the individual ion
+qubits, correcting the errors that occur when entangling qubits is a vital
+improvement.
+
+The researchers selected the Bacon-Shor code as a good match for the
+advantages and weaknesses of their system. For this project, they only needed
+15 of the 32 ions that their system can support, and two of the ions were not
+used as qubits but were only needed to get an even spacing between the other
+ions. For the code, they used nine qubits to redundantly encode a single
+logical qubit and four additional qubits to pick out locations where potential
+errors occurred. With that information, the detected faulty qubits can, in
+theory, be corrected without the “quantum-ness” of the qubits being
+compromised by measuring the state of any individual qubit.
+
+“The key part of quantum error correction is redundancy, which is why we
+needed nine qubits in order to get one logical qubit,” says JQI graduate
+student Laird Egan, who is the first author of the paper. “But that redundancy
+helps us look for errors and correct them, because an error on a single qubit
+can be protected by the other eight.”
+
+The team successfully used the Bacon-Shor code with the ion-trap system. The
+resulting logical qubit required six entangling operations—each with an
+expected error rate between 0.7% and 1.5%. But thanks to the careful design of
+the code, these errors don't combine into an even higher error rate when the
+entanglement operations were used to prepare the logical qubit in its initial
+state.
+
+The team only observed an error in the qubit's preparation and measurement
+0.6% of the time—less than the lowest error expected for any of the individual
+entangling operations. The team was then able to move the logical qubit to a
+second state with an error of just 0.3%. The team also intentionally
+introduced errors and demonstrated that they could detect them.
+
+“This is really a demonstration of quantum error correction improving
+performance of the underlying components for the first time,” says Egan. “And
+there's no reason that other platforms can't do the same thing as they scale
+up. It's really a proof of concept that quantum error correction works.”
+
+As the team continues this line of work, they say they hope to achieve similar
+success in building even more challenging quantum logical gates out of their
+qubits, performing complete cycles of error correction where the detected
+errors are actively corrected, and entangling multiple logical qubits
+together.
+
+“Up until this paper, everyone's been focused on making one logical qubit,”
+says Egan. “And now that we’ve made one, we're like, ‘Single logical qubits
+work, so what can you do with two?’”
+
+In addition to Monroe, Brown and Egan, the other coauthors of the paper are
+the following: JQI research scientist Marko Cetina; JQI graduate students
+Andrew Risinger, Daiwei Zhu and Debopriyo Biswas; Duke University physics
+graduate student Dripto M. Debroy; Duke University postdoctoral researchers
+Crystal Noel and Michael Newman; and Georgia Institute of Technology graduate
+student Muyuan Li.
+
+## Related News
+
+May 21, 2021 | Duke Government Relations
+
+### On the Hill: Chris Monroe Briefs Congress on Quantum Computing’s Role in
+Nation’s Scientific Computing Enterprise
+
+July 28, 2017
+
+### IonQ Raises $20M to Advance Quantum Computing for Commercial Applications
+
+January 06, 2016
+
+### Grant Targets Quantum Computing's Error Control Challenge
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

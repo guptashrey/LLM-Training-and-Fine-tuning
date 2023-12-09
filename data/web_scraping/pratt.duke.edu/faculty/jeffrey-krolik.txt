@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Jeffrey L. Krolik
+
+Professor of Electrical and Computer Engineering
+
+Jeffrey Krolik is Professor of Electrical and Computer Engineering at Duke
+University in Durham, NC. Canadian-born, he received his Ph.D. in Electrical
+Engineering from the University of Toronto in 1987. He began his academic
+career as an Assistant Professor of Electrical and Computer Engineering at
+Concordia University in Montreal. Interested in signal processing applications
+in the ocean sciences, he joined the Scripps Institution of Oceanography,
+University of California San Diego as an Assistant Research Scientist in 1990.
+At Scripps, he developed physics-based sensor array processing methods that
+exploit multi-path underwater acoustic propagation. Since coming to Duke in
+1992, he has broadened his research interests to include statistical signal
+processing for surveillance radars and microwave remote sensing, active and
+passive sonar, and medical imaging. Some of his current projects include the
+development of aircraft height finding for over-the-horizon HF radar, through-
+the-sensor environmental monitoring of near-surface atmospheric conditions
+using a shipboard microwave radar, active sonar array shape estimation from
+reverberation, and functional magnetic resonance imaging algorithms which are
+robust to head motion. As a consultant, he has worked for the Office of Naval
+Research, the Defense Advanced Research Projects Agency (DARPA), the Air Force
+Rome Laboratories.
+
+## Appointments and Affiliations
+
+  * Professor of Electrical and Computer Engineering
+
+## Contact Information
+
+  * **Office Location:** 3465 CIEMAS, Durham, NC 27708
+  * **Office Phone:** (919) 660-5274
+  * **Email Address:** jlk@duke.edu
+  * **Websites:**
+    * http://www.ee.duke.edu/~jk/
+
+## Education
+
+  * Ph.D. University of Toronto (Canada), 1987
+  * M.A. University of Toronto (Canada), 1983
+  * B.A. University of Toronto (Canada), 1980
+
+## Research Interests
+
+Physics-based and statistical signal processing, sensor array processing,
+radar and sonar systems, pervasive distributed processing
+
+## Courses Taught
+
+  * ECE 280L9: Signals and Systems - Lab
+  * ECE 280L: Introduction to Signals and Systems
+  * ECE 485: Digital Audio and Acoustic Signal Processing
+  * ECE 493: Projects in Electrical and Computer Engineering
+
+## In the News
+
+  * Bringing Radar Down From the Clouds to the City Streets (May 13, 2021 |
+    Pratt School of Engineering)
+  * Pratt Engineers Awarded Four Department of Defense Grants (Jun 18, 2013)
+
+## Representative Publications
+
+  * Martinez, MA; Krolik, JL, _A Classification-Aided Recurrent Neural Network
+    for Tracking in Urban Terrain_ , Proceedings of the Ieee Radar Conference
+    (2022) [10.1109/RadarConf2248738.2022.9764254] [abs].
+  * Centers, J; Krolik, J, _Vibrational Radar Backscatter Communication using
+    Resonant Transponding Surfaces_ , Proceedings of the Ieee Sensor Array and
+    Multichannel Signal Processing Workshop, vol 2022-June (2022), pp. 71-75
+    [10.1109/SAM53842.2022.9827869] [abs].
+  * Ganti, A; Krolik, J, _Sampling Rate Offset Estimation in Acoustic Sensor
+    Networks_ , Ieee Workshop on Statistical Signal Processing Proceedings,
+    vol 2021-July (2021), pp. 436-440 [10.1109/SSP49050.2021.9513831] [abs].
+  * Zhang, J; Huang, Y; Yang, H; Martinez, M; Hickman, G; Krolik, J; Li, H,
+    _Efficient FPGA Implementation of a Convolutional Neural Network for Radar
+    Signal Processing_ , 2021 Ieee 3rd International Conference on Artificial
+    Intelligence Circuits and Systems, Aicas 2021 (2021)
+    [10.1109/AICAS51828.2021.9458573] [abs].
+  * Centers, J; Krolik, J, _Vibrational Radar Backscatter Communications_ ,
+    Conference Record Asilomar Conference on Signals, Systems and Computers,
+    vol 2021-October (2021), pp. 1086-1090
+    [10.1109/IEEECONF53345.2021.9723226] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

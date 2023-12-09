@@ -1,0 +1,202 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# On the Transformative Potential of Energy Data Analytics
+
+June 26, 2018
+
+Duke expert Kyle Bradbury touts transformative potential of energy data
+analytics in new book on digital decarbonization
+
+_From the Duke University Energy Initiative_
+
+This week the Council on Foreign Relations released _Digital Decarbonization_,
+an anthology of 13 experts’ perspectives on how the unfolding of the digital
+revolution could help to drive a transition toward clean energy. The volume,
+edited by Varun Sivaram, includes an article by Duke University researcher Dr.
+Kyle Bradbury (ECE MS’08, PhD’13), who outlines the transformative potential
+of the emerging field of energy data analytics.
+
+Bradbury was among more than 40 energy experts convened by the Council on
+Foreign Relations at a February 2018 workshop supported by the Alfred P. Sloan
+Foundation.
+
+Bradbury, who is managing director of Duke University’s Energy Data Analytics
+Lab and a lecturing fellow at the Pratt School of Engineering, argues in his
+article (pp. 73-81) that “data science could enable the decentralization of
+the centralized energy systems that have existed since the beginning of the
+twentieth century.”
+
+The article launches with an account of the confluence of trends that have led
+to the emergence of this new field of inquiry: new energy data sources as well
+as parallel advances in data science techniques and the computational power
+necessary to perform them.
+
+Bradbury explains how data science is already shaping (and could further
+transform) the electric power sector, offering examples of how machine
+learning techniques have the potential to enhance system operation,
+forecasting, and planning.
+
+The article points to additional applications beyond the electricity sector,
+offering examples of how data science is already changing how energy is
+produced, delivered, and consumed in, say, the transportation and oil and gas
+sectors.
+
+And Bradbury argues that data science could also be leveraged to tackle a
+particularly formidable problem: the overall complexity and scale of energy
+systems, which often get in the way of effective planning. The emerging field
+of energy data analytics “could fundamentally change how societies generate,
+manage, and consume energy, by increasing system efficiency and optimizing
+planning to reduce system costs and environmental damage,” Bradbury writes.
+
+Finally, Bradbury reflects on challenges facing those in the field,
+particularly the availability and the ease of access to data. “Establishing
+policies that enable streamlined data sharing for approved R&D purposes is a
+prerequisite for more democratized access to data,” he observes.
+
+“This article is by no means comprehensive,” cautions Bradbury. “But it does
+spotlight some intriguing possibilities for productive collisions between data
+scientists in search of problems and energy system stakeholders in search of
+solutions.”
+
+Experts affiliated with Duke’s Energy Data Analytics Lab—including engineers,
+data scientists, and social scientists—are positioning Duke University as an
+international leader in the emerging area of energy data analytics.
+
+Bradbury’s invitation to present at the Council on Foreign Relations workshop
+was predicated on the lab’s achievements. Among other projects, the lab has
+pioneered the application of visual object identification and machine learning
+techniques to satellite imagery for **energy resource detection and mapping**.
+One of the lab's long-term objectives is to create a map of global energy
+infrastructure that can be automatically updated.
+
+Founded in 2014, Duke's Energy Data Analytics Lab is also creating a pipeline
+of talented innovators. Projects connected with Duke’s unique Data+ and Bass
+Connections programs accomplish lab research objectives while deepening
+undergraduate and graduate students’ research, project management, and
+communications skills. Thanks to grants from the Alfred P. Sloan Foundation,
+the lab is launching programs for doctoral student fellows and postdoctoral
+fellows this fall.
+
+The Energy Data Analytics Lab is a collaborative effort of the Duke University
+Energy Initiative (which houses it), the Information Initiative at Duke (iiD),
+and the Social Science Research Institute (SSRI).
+
+Bradbury holds Ph.D. and M.S. degrees in electrical engineering from the Pratt
+School of Engineering at Duke University and a B.S. in Electrical Engineering
+from Tufts University. He has worked for ISO New England, MIT Lincoln
+Laboratories, and Dominion.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

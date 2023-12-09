@@ -1,0 +1,228 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Artificial Blood Vessels Mimic Rare Accelerated Aging Disease
+
+August 14, 2017 | By Ken Kingery
+
+Lab-grown blood vessels provide platform for studying premature aging syndrome
+and other rare diseases
+
+Biomedical engineers have grown miniature human blood vessels that exhibit
+many of the symptoms and drug reactions associated with Hutchinson-Gilford
+Progeria Syndrome—an extremely rare genetic disease that causes symptoms
+resembling accelerated aging in children.
+
+The technology will help doctors and researchers screen potential therapeutics
+for the disease more rapidly, with the goal of eventually creating a platform
+for personalized screening. The technique also offers a new way to study other
+rare diseases and could provide insights into treating heart disease in the
+elderly.
+
+The study was published online on August 15 in the journal Scientific Reports.
+
+"One of the drugs currently prescribed for this disease extends patients'
+lives by three months, and that's been considered a major feat," said Leigh
+Atchison, a doctoral candidate in biomedical engineering at Duke University
+and first author of the study. "They're looking for anything that will extend
+lifespan by even a few months. It's that devastating."
+
+Hutchinson-Gilford Progeria Syndrome—or simply progeria for short—is a non-
+hereditary genetic disease caused by a single-point mutation in the genome. It
+is so rare and so deadly that there are currently only about 250 known cases
+worldwide.
+
+Progeria is triggered by a defective protein called progerin that accumulates
+outside of a cell's nucleus rather than becoming part of its structural
+support system. This causes the nucleus to take on an abnormal shape and
+inhibits its ability to divide. The resulting symptoms look much like
+accelerated aging, and affected patients usually die of heart disease brought
+on by weakened blood vessels before the age of 14.
+
+"Progeria isn't considered hereditary, because nobody lives long enough to
+pass it on," said George Truskey, the R. Eugene and Susie E. Goodson Professor
+of Biomedical Engineering at Duke. "There are currently 75 children in
+clinical trials, which is amazing given the rarity of the disease. But with 15
+compounds under consideration for trials, the math just ultimately won't work
+out. You can't try all of these drugs or various combinations of them in
+humans, so we're hoping our platform will provide an alternative way to test
+them."
+
+Blood vessels are difficult to simulate because their walls have multiple
+layers of cells, including the endothelium and the media. The endothelium is
+the innermost lining of all blood vessels that interacts with circulating
+blood. The media is made mostly of smooth muscle cells that help control the
+flow and pressure of the blood within.
+
+Researchers believe that it is the deterioration of these smooth muscle cells
+that ultimately leads to the heart disease and failure that so often kills
+patients with progeria. But because there are so few people with progeria, it
+is extremely difficult to study in the patients themselves.
+
+"Because it's such a hard disease to study, we wanted to see if we could
+create a platform using human cells that more accurately represents the
+disease and then use it for drug testing," said Atchison. "So we tried to grow
+miniature artificial blood vessels using induced pluripotent stem cells
+derived from cells taken from patients with progeria."
+
+The plan worked. In just four weeks of growth, the engineered blood vessels
+exhibit many of the symptoms seen in people with the disease—symptoms that
+simple cell cultures have not been able to recreate. The blood vessels also
+respond similarly to pharmaceuticals, revealing nuances into how current
+therapies are working.
+
+While the blood vessels showed improved function after a week of being dosed
+with an analogue of rapamycin, a drug known as everolimus, calcification and
+other symptoms of cardiovascular disease remained. This implies that the drug
+is helping the smooth muscle cells work better, but not remedying the
+underlying symptoms.
+
+"That's why our system could be so useful," said Atchison. "It could tell us
+exactly what the drug is doing in a quicker, more high-throughput manner, and
+whether we need a second treatment to address other aspects of the disease."
+
+The success may aid the study of other rare diseases, too.
+
+"The major thing we're happy with is that this serves as a proof of principle
+for creating a vascular model of a rare disease in the laboratory to better
+understand it and hopefully develop a therapy," said Truskey.
+
+The research may also provide insight into why some elderly people become
+especially prone to heart disease. Many heart patients have shown the same
+buildup of the progerin protein, so researchers believe there may be a link
+between the two conditions.
+
+There are, of course, limitations to the new artificial blood vessels. They
+are not connected to any outside organs, nor are they embedded in the
+complicated biology of a living human being.
+
+"We only created smooth muscle cells from progeria patients in this study, but
+their endothelial cells might play a major role as well," said Atchison. "If
+we can incorporate endothelial cells derived from the patients' own cells into
+the model as well, then we can create a more personalized testing platform for
+these patients."
+
+This research was supported by the National Institutes of Health (UH3TR000505,
+R01HL126784), the National Science Foundation (GRFP Grant #1106401), the
+Maryland Stem Cell Research Fund, and the Progeria Research Foundation.
+
+CITATION: "A Tissue Engineered Blood Vessel Model of Hutchinson-Gilford
+Progeria Syndrome Using Human iPSC-derived Smooth Muscle Cells," Leigh
+Atchison, Haoyue Zhang, Kan Cao, George A. Truskey. Scientific Reports, Aug.
+15, 2017. DOI: 10.1038/s41598-017-08632-4
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

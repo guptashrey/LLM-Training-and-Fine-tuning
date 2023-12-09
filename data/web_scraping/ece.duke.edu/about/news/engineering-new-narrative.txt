@@ -1,0 +1,477 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineering a New Narrative
+
+November 1, 2017
+
+Duke biomedical engineers are creating unique tools geared toward women's
+health to address global health disparities
+
+In the bustling neighborhoods in Lima, Peru, it’s common to see bright pink
+trailers parked by the side of the road. Although these vehicles stand out
+because of their vibrant hues, the white inscription on their sides also draws
+a passerby’s attention: _Todas las mujeres merecer tiempo para cuidarse_.
+
+### From Duke BME Magazine
+
+Explore the Fall 2017 issue
+
+"All women deserve time to take care of themselves."
+
+These cheery trailers are mobile clinics sponsored by Peru’s La Liga Contra el
+Cancer, or The League Against Cancer, which uses them to help screen women for
+diseases like cervical cancer and breast cancer. The healthcare workers who
+run the clinics park the trailers in one location for a week before moving to
+another district in the sprawling city.
+
+Although the trailers’ mobility offers greater healthcare access to women
+around Lima, the clinics are limited in the services that they can provide. If
+screening flags a potential problem, "More than half of the women are lost to
+follow-up because it is difficult for them to get to a hospital," says Dr.
+Gino Venegas, former director of La Liga Contra el Cancer.
+
+**Nimmi Ramanujam** , the Robert W. Carr Jr. Professor of Biomedical
+Engineering at Duke University and director of Duke’s Global Women’s Health
+Technologies Center, a joint center between the Pratt School of Engineering
+and the Duke Global Health Institute, has devoted herself to fixing this
+problem. With a network of collaborators, from local caregivers to Duke
+faculty and students, she’s creating low-cost medical tools designed for women
+in settings with limited resources.
+
+The poster child for Ramanujam’s research is the Pocket Colposcope, a compact
+tool being developed to enable healthcare workers to both screen for and
+diagnose cervical cancer without expensive imaging equipment.
+
+**Building a Pipeline**
+
+Through the DukeEngage outreach program in Orange County, California, student
+mentors from Duke University teach engineering and problem-solving skills to
+middle school girls in collaboration with Girls Inc., a local non-profit.
+Nimmi Ramanujam has also launched similar collaborative projects in Kenya,
+Guatemala and India, where Duke mentors teach students in energy poor
+communities how to build renewable energy flashlights to improve the
+efficiency of their daily activities.
+
+Ramanujam’s program in Kolkata, India follows this model, but with one crucial
+difference — many of the students in the program are also young mothers. To
+Ramanujam, this program embodies the purpose of the Global Women’s Health
+Technologies Center, which aims to educate women about the intersection of
+‘light,’ technology and health by providing the students with a novel way to
+engage in engineering. “Engineering can be as pervasive as music, and these
+projects are ways for women and girls to express themselves in a new way,”
+says Ramanujam.
+
+“Cervical cancer is a disease of excess mortality. This is the one cancer that
+can be prevented through well-established interventions, and if these
+interventions were available to all women I believe the cervical cancer
+mortality rate would be zero,” says Ramanujam. “The Pocket Colposcope is our
+first step towards bringing complex services traditionally offered at hard-to-
+reach referral settings to primary care.”
+
+Traditional colposcopes are bulky magnifying devices with cameras that allow
+doctors to examine a woman’s vagina and cervix for signs of cancer if a Pap
+smear shows an abnormal result. During a gynecological exam, doctors first use
+a speculum to spread the vaginal walls. A colposcope is then used to visually
+check for abnormalities.
+
+Shaped like a tampon and packing the performance of a high-end clinical
+colposcope, the Pocket Colposcope re-imagines the way a gynecological exam is
+performed compared to both traditional and other redesigned, low-cost
+colposcopes on the market. Rather than visualizing the cervix from the
+outside, the tool is slender enough to be used inside the speculum. Due to the
+camera’s proximity to the cervix, the Pocket Colposcope works effectively with
+consumer-grade LEDs and a five-megapixel camera in lieu of high-end
+components, making it both cheaper and lighter than traditional colposcopes.
+Working with Robert Miros at 3rd Stone Design to finalize the design, the team
+has the cost down to about $500 and weight under half a pound, making it ideal
+for use in mobile screening vans.
+
+So far, Ramanujam, Dr. John Schmitt, a professor of obstetrics and gynecology
+in the Duke University School of Medicine, and their collaborators have
+implemented the Pocket Colposcope with over 500 women in seven sites on four
+continents. Ramanujam and her team are working with Duke electrical and
+computer engineering professor Guillermo Sapiro to develop smart algorithms
+that bring clinical expertise in image interpretation to the community level.
+And, in another effort to ensure women receive effective treatment in the
+community setting, she is collaborating with Duke BME’s David Katz to develop
+a novel “liquid scalpel” as a low-cost therapeutic that promises to be as
+effective yet significantly more accessible than standard-of-care ablative
+techniques for treating lesions in low-resource settings.
+
+As Ramanujam and her team devise a model to commercialize the Pocket
+Colposcope, they are enlisting help from students from interdisciplinary
+backgrounds through Duke’s collaborative Bass Connections program. In March
+2017, students working on the Pocket Colposcope Bass Connections team traveled
+with team leaders to Lima to speak with doctors, midwives in mobile clinics
+and biomedical engineers to discuss how the tool should be implemented into
+Peru’s healthcare system.
+
+The WHO estimates that more than 85 percent of the deaths from cervical cancer
+occur in low- and middle-income countries. That does not mean, however, that
+it’s absent from the United States. Each year more than 12,000 American women
+are diagnosed with the disease—and more than 4,000 die from it.
+
+“When we discuss global health, my concern is that we focus on countries
+outside the US, even though we still have issues with cancer mortality in
+medically underserved communities here at home,” says Ramanujam. “We need to
+find ways to fix that. We need to invest in low-cost, high-quality
+interventions that can not only empower primary caregivers, but also improve a
+woman's experience during her gynecological exam.”
+
+Toward that end, Ramanujam’s team has more recently developed a tampon-like
+introducer called the Calla for the Pocket Colposcope that can make the entire
+exam speculum-free, particularly for women who have never had a gynecological
+exam or are afraid of the speculum. A slimmer version of the Pocket Colposcope
+can be positioned through the Calla, which is then inserted either by a care
+provider or the woman herself into the vagina to provide reliable views of the
+cervix.
+
+Ramanujam is using the Calla in an advocacy project to raise women’s awareness
+of their reproductive anatomy and cervical cancer through a collaboration with
+Duke Center for Documentary Studies director Wesley Hogan, Franklin Humanities
+Institute director Deborah Jenson and School of Medicine faculty Megan Huchko
+and Gita Suneja. The idea is for a woman to be able to explore her anatomy in
+the comfort of her home in order to understand both what her cervix looks like
+and the importance of cervical health and cervical cancer prevention.
+
+Beyond developing new technologies, Ramanujam is focusing on what she can do
+as a biomedical engineer and educator to encourage women to be the next
+generation of technology leaders for women’s health. “Ultimately, we’d like to
+increase our pipeline of researchers and students who can design technologies
+that improve women’s lives,” says Ramanujam. “We’re encouraging our students
+to actively engage with young women to show them how engineering can impact
+women’s health.”
+
+## HIV Prevention with Women’s Needs in Mind
+
+Empowering women is critical to any attempt to improve healthcare on a global
+scale, agrees Ramanujam’s colleague, **David Katz** , the Nello L. Teer, Jr.
+Professor of Biomedical Engineering and Professor of Obstetrics and Gynecology
+at Duke. In fact, as Katz often says, “Women’s health _is_ global health.”
+
+“A woman’s own personal and reproductive health often affects the health of
+her children and of her partner,” he notes. “Women across the globe are
+disproportionately affected by the challenges of sexually transmitted diseases
+and limited access to screening, and the ramifications from these issues can
+extend to the entire family.”
+
+Since starting at the university in 1994, Katz has applied biomedical
+engineering to the science of reproductive biology and medicine – focusing on
+diagnostics and treatments that empower women to protect themselves against
+sexually transmitted infections such as HIV, the virus that causes AIDS, as
+well as on contraception. Prior to his arrival at Duke, Katz had become an
+authority on advancing methods of contraception and understanding, diagnosing
+and treating fertility and infertility.
+
+Today, more than 36 million people around the world are living with HIV/AIDS.
+Most of them live in low- and middle-income countries, and most of them are
+young women: according to the United Nations, females make up 60 percent of
+the HIV cases in people between the ages of 15 and 24.
+
+In the HIV/AIDS research and development community, there is emphasis upon
+prevention (termed pre-exposure prophylaxis – “PrEP”) as well as cure. Condoms
+are effective if they are used, but their use is not widespread typically not
+controlled by the woman. Vaccine development continues, but an effective one
+is not on the near-term horizon.
+
+> “Women’s health is global health. A woman’s own personal and reproductive
+> health often affects the health of her children and of her partner.”
+
+There is currently a pill containing anti-HIV drugs which, if taken
+diligently, can reduce the likelihood of HIV infection. This is a major
+advance, but missed pills reduce effectiveness more for women than men, and
+there are other drawbacks, including digestive issues and pain.
+
+Globally, there is a need for multiple options for HIV/AIDS prevention, and
+success will not be a one-size-fits all result. Katz’s work has a large focus
+upon topically acting anti-HIV drugs, called microbicides, and emphasizing
+those that women can apply very soon before sex––“on-demand” products.
+Microbicide products could take several forms, including gels, dissolving
+tablets, films and intravaginal rings, as well as injections and implants, to
+provide women the choice of a method that works best for them.
+
+When a woman has unprotected sex with a man who is HIV-positive, the virus in
+his semen comes into contact with the mucosal surface in her reproductive
+tract. From there, the virus migrates below the top epithelial layer of cells
+in her vagina, where it can infect its target cells.
+
+Microbicide products could create both a chemical and physical barrier between
+the virus and mucosal surface, making it difficult­­––if not impossible––for
+infectious virus to pass through and reach the infectable cells. Creating such
+products is, in part, an engineering design problem, says Katz. And part of
+the design process is behavioral as well as biological.
+
+“A big question is understanding what women prefer to put in their bodies for
+protection,” says Katz. “For example, some women prefer condoms because they
+provide on-demand pregnancy protection, but others prefer to get a shot of a
+progestin that offers long-lasting protection. Different people want different
+things, and we’re trying to accommodate that.”
+
+**From Bench to Publication**
+
+In August, Robert Morhard and his lab mates celebrated the first publication
+from their project, which appeared online in Nature: Scientific Reports. In
+this study, the researchers combined ethanol with the ethyl cellulose to
+address the limitations of ethanol-based tumor ablation. Their results showed
+that the ethyl cellulose-ethanol injections caused a complete regression of
+100% of tumors in their experimental models. These results effectively
+illustrated a proof-of-concept for the treatment method, allowing the
+researchers to move forward as they consider new ways to optimize this
+technology for use as a potential alternative to surgical treatment in
+developing countries.
+
+Originally trained as a mechanical engineer, Katz draws on his expertise in
+fluid mechanics to study how microbicides migrate once they are in the body.
+Through mathematical modeling and in vitro and in-vivo experimental studies,
+Katz and his students examine how microbicides distribute after women place
+them in their vagina, how the anti-viral compounds react to vaginal fluids and
+semen, and how well they stay in place during sex to ensure constant
+protection.
+
+Some of this work involves developing and applying new imaging instruments, in
+collaboration with **Adam Wax** , a BME professor at Duke. Those instruments
+are being used both on the bench in laboratory studies and in clinical imaging
+studies in women. They measure details of the distributions of products such
+as gels, the molecules which are delivered, and structural details of the
+tissue into which the molecules migrate. Wax’s expertise in conceiving,
+creating and applying new optical imaging devices is combined with Katz’s
+expertise in mechanical design to tailor the instruments to particular demands
+of the imaging, for example detailed in vivo imaging within the reproductive
+tract in women.
+
+“Microbicides are tricky. Not only do we need to understand the pharmaceutical
+side of these compounds, we also need to understand how they interact with the
+physiology of women and the behavioral science associated with the willingness
+to use them,” says Katz. “For example, behavioral studies have shown women are
+less willing to use a microbicide if it’s really messy and difficult to
+apply.”
+
+To study these microbicides, Katz is collaborating with **Michael Lynch** , an
+associate professor in BME. The team has recently focused their attention on
+Griffithsin, a protein isolated from a type of red algae. Lynch began working
+on the compound in his biochemical design course (BME 490), where students
+learned how to refine and efficiently synthesize the protein with _E. coli_
+bacteria.
+
+Previous studies have shown that Griffithsin can efficiently bind to key
+surface proteins on HIV, preventing the virus from attaching to and infecting
+cells. Griffithsin is also a ‘sticky’ molecule, as it can bind to the sugar-
+coated envelopes of viruses and onto the surface of the reproductive tract
+with relative ease, with Katz comparing it to ‘molecular flypaper’.
+
+“I like Griffithsin because it is intended for the on-demand user,” says Katz.
+“The current topical products and microbicides that people use typically have
+a bit of a time lag between when you apply them and when they become
+effective. But with Griffithsin, you don’t have that problem. The virus just
+collides with the molecule in the vagina, and it gets to the virus and
+neutralizes it before the virus can get into the tissue.”
+
+Currently, Lynch is working with students to refine Griffithsin to make it
+more functional for a global health setting, including increasing its shelf-
+life as a topical treatment and engineering variants of the molecule to be
+temperature-resistant. While HIV is the current target, Lynch and his team are
+also exploring how to expand the molecule’s use to potentially protect against
+other viruses, including the Herpes simplex virus and human papilloma
+virus––the virus that causes cervical cancer.
+
+Although more work needs to be done before Griffithsin becomes a viable
+prophylactic against HIV, Katz is determined to develop an effective vaginal
+microbicide given the end goal--allowing women to gain better control of how
+they protect themselves against disease.
+
+“Many problems in medicine require engineering to solve them, as we in BME
+know,” he says. “Women’s reproductive health is certainly one of them.”
+
+## Combining Expertise to Fight Cancer
+
+Nimmi Ramanujam’s and David Katz’s labs may be separated by a quarter-mile of
+dense Duke forest, but their mutual goal of improving women’s lives has
+brought them together for a new project—one that combines their expertise—to
+help treat cervical cancer.
+
+“Nimmi and I joke about why it took us so long to work together when we both
+are committed to applying engineering to improve women’s health,” says Katz.
+“With this project, we’re able to use my work with fluid mechanics,
+biomechanics and mechanical design to extend the line of work she’s pioneered
+with the Pocket Colposcope, to help treat cervical cancer once it’s
+diagnosed.”
+
+> “This is the wonderful thing about academia, where you just have these
+> conversations about ideas you’re interested in, and the next thing you know
+> you’re working together.”
+
+The idea for the project came about after Rob Morhard, a PhD student in
+Ramanujam’s lab, took Katz’s biofluid mechanics course in 2016. Morhard was
+interested in a problem pertaining to cervical cancer––specifically how to
+create a therapeutic that will treat the tumors on the surface of the cervix.
+
+“This is the wonderful thing about academia, where you just have these
+conversations about ideas you’re interested in, and the next thing you know
+you’re working together,” says Katz.
+
+Katz, Ramanujam, Morhard and other students in Ramanujam’s lab got to work
+studying how they could remove the cancerous tumors from the cervix using an
+ethanol-based formulation. While previous studies have shown that ethanol can
+kill tumor cells, the researchers also needed a way to keep the liquid in
+place: “It needs to be localized on the tumor so it can do its job,” says
+Katz, “and to avoid damaging healthy tissue nearby.”
+
+The team decided to use ethyl cellulose, which dissolves in ethanol and
+increases the liquid’s viscosity, making it thicker and more effective at
+ablating the tumors. But one day, as Morhard was cleaning out the storage
+containers for the liquid, he made a strange discovery.
+
+“After doing a few experiments I was cleaning out the containers and I noticed
+that when I added water a white gel formed,” he says. “We hadn’t realized
+until that point that since ethyl cellulose was not water-soluble that it
+formed a white gel when it was mixed with water.”
+
+This accidental discovery proved to be an advantageous development for the
+treatment.
+
+“Our main issue with this treatment is ensuring that the injected ethanol
+stays localized around the injection site and that it stays in the tumor for a
+long time to increase efficacy,” says Morhard. “The longer the ethanol
+concentration within the tumor is elevated, the more likely the tumor cells
+are to die. The fact that this ethyl cellulose-ethanol solution is
+consistently effective in the treatment of tumors is likely due primarily to
+this gel formation.”
+
+Along with these positive developments, the team is optimistic about how this
+new approach could be deployed in resource-limited settings worldwide. The
+method could cost less than one dollar per treatment, and could be implemented
+without electricity, specialized equipment or hard-to-supply consumables.
+Thus, it would be useful in a multitude of healthcare settings –– including
+mobile clinics that use the Pocket Colposcopes to help identify women at risk
+of cervical cancer.
+
+Although the research still has a long road to reach the clinic, the team has
+established a proof-of-concept and recently published their first findings in
+_Scientific Reports,_ a _Nature_ research journal. They next plan to conduct
+safety trials in other scientific models, while they refine details of the
+injection process and then design an injection device suitable for the same
+global settings in which the Pocket Colposcope is applied.
+
+For Ramanujam, these collaborative projects help to cement her belief in the
+work biomedical engineers are conducting at Duke­­—and far beyond campus.
+
+“I think Duke is special because we recognize that engineering is part of a
+larger narrative in making the world a more equal place regarding healthcare
+for women and girls,” says Ramanujam. “The culture here is one of service, and
+the researchers and students embody that desire to use our work to help
+others.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

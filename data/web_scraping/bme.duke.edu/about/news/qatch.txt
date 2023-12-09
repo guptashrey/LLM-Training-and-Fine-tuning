@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Startup Aims to “Qatch” Blood Coagulation Data
+
+August 1, 2017 | By Ken Kingery
+
+Platform could extend to detecting biomarkers for disease diagnosis
+
+A startup company based on technology licensed from Duke University is looking
+to disrupt a $1 billion portion of the point-of-care diagnostics industry by
+harnessing a feature formerly considered a defect—surface roughness.
+
+Many diagnostic devices that capture biomarkers suspended in blood rely on
+fluorescent molecules for their detection. While this method is popular in
+commercially used diagnostics, there are alternative and potentially more
+powerful methods. These methods, however, are currently restrained to
+laboratory settings.
+
+One such method uses piezoelectric materials—materials that create an electric
+current when strained or vibrated and, conversely, vibrate when connected to
+an alternating current. Because the frequency of the vibrations changes when
+molecules are stuck to surface, researchers can catch and detect the specific
+proteins or antibodies that indicate a certain disease.
+
+Current piezoelectric devices rely on precise manufacturing practices that
+produce a perfectly smooth surface, as roughness can throw off the delicate
+measurements. This constraint, combined with the need for relatively large
+sample volumes and extensive environmental control requirements, has stopped
+them from being adopted in clinical diagnostics, even though they have the
+potential to become highly sensitive, portable diagnostics tools.
+
+By introducing a tailored type of roughness, however, Zehra Parlak, a former
+postdoctoral researcher in the laboratory of Stefan Zauscher, the Sternberg
+Family Professor of Mechanical Engineering & Materials Science at Duke,
+believes she has found a better solution.
+
+“I was going on job interviews last summer when a light bulb went off in my
+head,” said Zehra Parlak. “I’d been working on the concept since 2013, I just
+didn’t see the commercial application until that moment, and I’ve been working
+to develop a company around it ever since.”
+
+Dubbed “Qatch Technologies,” the company’s name is reminiscent of the quartz
+crystal used in its manufacturing and the “Quality factor” that it controls.
+Parlak’s idea is to introduce tiny microchannels into the detection device,
+multiplying the surface area that biomarkers can latch on to by 1000 times and
+changing the way that the crystal vibration reacts to blood.
+
+The idea is, of course, more complicated than it sounds. Liquids couple to the
+detector differently in microchannels than they do if simply exposed on the
+surface of the device. Rather than being a hindrance, however, Parlak used
+this property to design an optimized platform. Though the details are
+currently protected, the result is a sensitive diagnostic device that’s much
+smaller and more robust than current options on the market and requires only a
+fraction of the blood needed for testing.
+
+The National Science Foundation (NSF) believes she’s on to something, having
+awarded Qatch Technologies and Duke University a Small Business Technology
+Transfer (STTR) award. This one-year, $225,000 grant is earmarked for high-
+risk, high-reward ideas to fund the solidification of the idea and formation
+of a business plan.
+
+Parlak also received guidance and support from Jesko von Windheim, professor
+of the practice of Environmental Entrepreneurship and Innovation at Duke, and
+William Walker, Duke’s Mattson Family Director of Entrepreneurial Ventures.
+
+“What sets our device apart from anything done before is the way these sensors
+are fabricated—the material, the design and the size,” said Parlak. “By
+getting all of the applied physics and modeling right, we’re able to
+characterize extremely small volumes of liquid.”
+
+The first application that Qatch Technologies will tackle is blood
+coagulation. Patients taking blood thinners must closely monitor their blood
+to minimize risks of hemorrhage. Surgeons conducting surgeries on high-blood-
+flow structures must make sure the site will clot before concluding the
+procedure. Current tests are either quick but inaccurate due to the presence
+of blood cells or highly accurate but slow and more invasive due to the
+process required to remove said blood cells.
+
+Qatch’s sensors are especially well-suited for this application. The
+microchannels automatically filter out blood cells, only leaving behind the
+plasma that provides the most accurate results. The liquid is drawn into the
+channels through capillary action, not needing any sort of pump. Results are
+obtained by simply measuring the voltage generated by the sensor’s vibrations,
+no bulky optics or cameras required. And the whole test requires only 1
+microliters of blood—roughly the size of an average salt crystal—making the
+process of acquiring a sample as simple as a small finger prick.
+
+“What makes Qatch’s research into microfluidic sensors so promising is the
+potential to join the convenience of whole-blood testing with the laboratory-
+grade quality of plasma-based testing,” said Ara Metjian, a hematologist and
+assistant professor at Duke University’s School of Medicine, who will be
+helping to test the new device. “The opportunity to impact the healthcare of
+millions of people in a positive way is exciting.”
+
+After working with blood coagulation, Parlak hopes to move into the broader
+field of detecting biomarkers for diagnosis.
+
+“With the tiny amount of blood required for this technology, it’s like looking
+for a specific person in an elevator versus a giant banquet hall,” said
+Zauscher, who is a co-inventor of the technology and will lead the research
+efforts of the STTR grant at Duke. “This is a platform technology that could
+be used to detect a wide variety of diseases and conditions. All of the
+details have been demonstrated in the laboratory and are well-understood
+through computer models. This grant will help Zehra put them together into a
+palm-sized prototype.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

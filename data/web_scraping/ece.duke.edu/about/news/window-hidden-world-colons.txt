@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# A Window into the Hidden World of Colons
+
+December 11, 2019 | By Ken Kingery
+
+Combining a skin-level glass window with a gut-stabilizing magnet, researchers
+get a view into the colon of a live animal
+
+Biomedical engineers at Duke University have developed a system that allows
+for real-time observations of individual cells in the colon of a living mouse.
+
+Researchers expect the procedure to allow new investigations into the
+digestive system’s microbiome as well as the causes of diseases such as
+inflammatory bowel disease and colon cancer and their treatments.
+
+The procedure described online on December 11 in Nature Communications
+involves surgically implanting a transparent window into a mouse’s abdominal
+skin above the colon. Similar setups are already being used to allow live
+looks into the detailed inner workings of the brain, spinal cord, liver, lungs
+and other organs. Imaging a live colon, however, is a slipperier proposition.
+
+“A brain doesn’t move around a lot, but the colon does, which makes it
+difficult to get detailed images down to a single cell,” said Xiling Shen, the
+Hawkins Family Associate Professor of Biomedical Engineering at Duke
+University. “We’ve developed a magnetic system that is strong enough to
+stabilize the colon in place during imaging to obtain this level of
+resolution, but can quickly be turned off to allow the colon to move freely.”
+
+Immobilizing the colon for imaging is a tricky task for traditional methods
+such as glue or stitches. At best they can cause inflammation that would ruin
+most experiments. At worst they can cause obstructions, which can quickly kill
+the mouse being studied.
+
+To skirt this issue, Shen developed a magnetic device that looks much like a
+tiny metal nasal strip and can be safely attached to the colon. A magnetic
+field snaps the colon into place and keeps it stable during imaging, but once
+turned off, leaves the colon free to move and function as normal.
+
+A vital organ that houses much of the digestive system’s microbiome, the colon
+can be afflicted by diseases such as inflammatory bowel disease, functional
+gastrointestinal disorders and cancer. It also plays a key role in regulating
+the immune system, and can communicate directly with the brain through sacral
+nerves.
+
+“There is a great need to better understand the colon, because it can suffer
+from so many diseases and plays so many roles with significant health
+implications,” Shen said.
+
+In the study, Shen and his colleagues conducted several proof-of-principle
+experiments that provide starting points for future lines of research.
+
+The researchers first colonized a living mouse colon with _E. coli_ bacteria,
+derived from Crohn’s disease patients, that had been tagged with fluorescent
+proteins. The researchers then showed they could track the migration, growth
+and decline of the bacteria for more than three days. This ability could help
+researchers understand not only how antagonistic bacteria afflict the colon,
+Shen says, but the positive roles probiotics can play and which strains can
+best help people with gastrointestinal disorders.
+
+In the next experiment, mice were bred with several types of fluorescent
+immune cells. The researchers then induced inflammation in the colon and
+carefully watched the activation of these immune cells. Shen says, this
+approach could be used with various types of immune cells and diseases to gain
+a better understanding of how the immune system responds to challenges.
+
+Shen and his colleagues then showed that they could tag and track colon
+epithelial stem cells associated with colorectal cancer throughout radiation
+treatment. They also demonstrated that they could watch nerves throughout the
+colon respond to sacral nerve stimulation, an emerging therapy for treating
+motility and immune disorders such as functional gastrointestinal disorders
+and irritable bowel disorder.
+
+“While we know electrically stimulating the sacral nerves can alleviate the
+symptoms of these gastrointestinal disorders, we currently have no idea why or
+any way to optimize these treatments,” Shen said. “Being able to see how the
+colon’s neurons respond to different waveforms, frequencies and amplitudes of
+stimulation will be invaluable in making this approach a better option for
+more patients.”
+
+This work was supported by National Institutes of Health (R35GM122465,
+OT2OD023849), the Defense Advanced Research Projects Agency (N66001-15-2-4059)
+and the National Cancer Institutes (R35CA197616).
+
+“An Intravital Window to Image the Colon in Real Time,” Nikolai Rakhilin,
+Aliesha Garrett, Chi-Yong Eom, Katherine Ramos C., David M. Small, Andrea R.
+Daniel, Melanie M. Kaelberer, Menansili A. Mejooli, Qiang Huang, Shengli Ding,
+David G. Kirsch, Diego V. Bohórquez, Nozomi Nishimura, Bradley B. Barth, and
+Xiling Shen. Nature Communications, 2019. DOI: 10.1038/s41467-019-13699-w
+
+# # #
+
+## Related News
+
+June 07, 2016
+
+### A Window to the Gut's Brain
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

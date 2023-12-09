@@ -1,0 +1,437 @@
+
+
+Jump to navigation
+
+  * Duke Engineering
+  * Pratt School of Engineering
+  * Institute for Enterprise Engineering
+
+  * Industry Relations
+  * Leadership
+  * News
+  * Contact
+
+__
+
+  * Why Duke?
+    * The Duke Difference
+    * Career Services
+    * Graduate Outcomes
+    * What Tech Leaders Are Saying
+  * Degree
+  * Certificate
+  * Courses
+  * Faculty
+  * Apply
+
+__
+
+# Noah Gift
+
+Adjunct Associate Professor in the Pratt School of Engineering
+
+Noah Gift lectures at MSDS, at Northwestern, Duke MIDS Graduate Data Science
+Program, and the Graduate Data Science program at UC Berkeley and the UC Davis
+Graduate School of Management MSBA program, and UNC Charlotte Data Science
+Initiative. He is teaching and designing graduate machine learning, A.I., Data
+Science courses, and consulting on Machine Learning and Cloud Architecture for
+students and faculty. These responsibilities include leading a multi-cloud
+certification initiative for students.
+
+Noah is a Python Software Foundation Fellow. He currently holds the following
+industry certifications for AWS: AWS Subject Matter Expert (SME) on Machine
+Learning, AWS Certified Solutions Architect, and AWS Certified Machine
+Learning Specialist, AWS Certified Big Data Specialist, AWS Academy Accredited
+Instructor, AWS Faculty Ambassador. He also is certified on both the Google
+and Azure platform: Google Certified Professional Cloud Architect, Certified
+Microsoft MTA on Python. He has published over 100 technical publications
+including multiple books on subjects ranging from Cloud Machine Learning to
+DevOps. Publications appear in Forbes, IBM, Red Hat, Microsoft, O'Reilly,
+Pearson, Udacity, Coursera, datascience.com, and DataCamp. Workshops and Talks
+around the world for organizations including NASA, PayPal, PyCon, Strata,
+O'Reilly Software Architecture Conference, and FooCamp. As an SME on Machine
+Learning for AWS, he helped created the AWS Machine Learning certification.
+
+He has worked in roles ranging from CTO, General Manager, Consulting CTO,
+Consulting Chief Data Scientist, and Cloud Architect. This experience has been
+with a wide variety of companies: ABC, Caltech, Sony Imageworks, Disney
+Feature Animation, Weta Digital, AT&T, Turner Studios, and Linden Lab, and
+industries: Television, Film, Games, SaaS, Sports, Telecommunications. He has
+film credits in many major motion pictures for technical work, including
+Avatar, Spider-Man 3, and Superman Returns.
+
+He has been responsible for shipping many new products at multiple companies
+that generated millions of dollars of revenue and had a global scale.
+Currently, he is consulting startups and other companies, on Machine Learning,
+Cloud Architecture, and CTO level consulting as the founder of Pragmatic A.I.
+Labs.
+
+His most recent books are:
+
+**Practical MLOps**
+
+_Getting your models into production is the fundamental challenge of machine
+learning. MLOps offers a set of proven principles aimed at solving this
+problem in a reliable and automated way._
+
+Publisher O'Reilly  
+Purchase Practical MLOps
+
+**Cloud Computing for Data Analysis**
+
+_A practical guide to Data Science, Machine Learning Engineering and Data
+Engineering_
+
+Publisher: Pragmatic AI LabsRelease Date: (Early 2021)
+
+  * Purchase: Cloud Computing for Data - Book
+
+Abstract
+
+This book is designed to give you a comprehensive view of cloud computing
+including Big Data and Machine Learning. A variety of learning resources will
+be used including interactive labs on Cloud Platforms (Google, AWS, Azure)
+using Python. This is a project-based book with extensive hands-on
+assignments.
+
+Read Chapters Online
+
+  * Chapter00: Introduction
+  * Chapter01: Getting Started
+  * Chapter02: Cloud Foundations
+  * Chapter03: Containers, Virtualization and Elasticity
+  * Chapter04: Distributed Computing
+  * Chapter05: Cloud Storage
+  * Chapter06: Serverless ETL
+  * Chapter07: Managed ML Systems
+  * Chapter08: Data Science Case Studies
+  * Chapter09: Essays
+  * Chapter10: Career
+
+Additional Resources  
+Source Code
+
+  * Cloud Computing with Python Source Code
+
+Minimal PythonPublisher: Pragmatic AI LabsRelease Date: 2020
+
+  * Purchase: Minimal Python - Book
+  * All Book Bundle
+  * Monthly Subscription
+
+Abstract
+
+Even books that have “learn” in the title introduce readers to hopelessly
+complex topics like object-oriented programming or concurrency. It turns out
+YAGNI (You Ain’t Gonna Need It). Why teach students topics they won’t use
+either ever, or not for a few years?
+
+Read Chapters Online
+
+  * Chapter00: Introduction
+  * Chapter01: Execute Commands in Python
+  * Chapter02: Store Data
+  * Chapter03: Create Functions
+  * Chapter04: Test Functions
+  * Chapter05: Command Line Tools
+  * Chapter06: Build Web Apps Flask
+  * Chapter07: Data Science Pandas
+  * Chapter08: Data Science Libraries
+  * Chapter09: Get a Job in Tech
+  * Chapter10: Case Studies and War Stories
+
+Additional ResourcesSource Code
+
+  * Minimal Python Book Source Code
+
+Python Command Line Tools: Design powerful apps with ClickPublisher: Pragmatic
+AI LabsRelease Date: 2020
+
+  * Purchase: Minimal Python - Book
+  * Buy a copy of the book on Kindle
+  * Buy a hard copy of the book on Amazon
+  * All Book Bundle
+  * Monthly Subscription
+
+Testing in PythonPublisher: Pragmatic AI LabsRelease Date: 2020
+
+  * Purchase: Testing in Python - Book
+  * Buy a copy of the book on Kindle
+  * All Book Bundle
+  * Monthly Subscription
+  * Buy a hard copy of the book on Amazon
+
+Abstract
+
+Getting started with testing can be hard, and this book aims make it all very
+easy by using examples and straightforwardly explaining the process. Testing
+is a core principle of robust software implementations and should be a prime
+skill to master that can be applied to any project.
+
+Read Chapters Online
+
+  * Chapter01: Configuring The Environment
+  * Chapter02: Testing Conventions
+
+  * Chapter03: Introduction To Pytest
+
+  * Chapter04: Test Classes
+
+  * Chapter05: Reporting
+
+  * Chapter06: Debugging Pytest and pdb
+
+  * Chapter07: Pytest Fixtures
+
+  * Chapter08: Monkeypatching
+
+  * Chapter09: Testing Matrix Tox
+
+  * Chapter10: Continuous Integration Delivery
+
+  * Chapter11: Case Study War Stories
+
+  * Chapter12: Essays
+
+Additional Resources
+
+Source Code
+
+  * Testing in Python Book Source Code
+
+Python For DevOps: Learn Ruthlessly Effective Automation  
+Publisher: O’Reilly MediaRelease Date: December 31st, 2019  
+Abstract
+
+Much has changed in technology over the past decade. Data is hot, the cloud is
+ubiquitous, and many organizations need some form of automation. Throughout
+these transformations, Python has become one of the most popular languages in
+the world. This practical resource shows you how to use Python for everyday
+Linux systems administration tasks with today’s most useful DevOps tools,
+including Docker, Kubernetes, and Terraform.
+
+Learning how to interact and automate with Linux is essential for millions of
+professionals. Python makes it much easier. With this book, you’ll learn how
+to develop software and solve problems using containers, as well as how to
+monitor, instrument, load-test, and operationalize your software. Looking for
+effective ways to “get stuff done” in Python? This is your guide.
+
+Python foundations, including a brief introduction to the language How to
+automate text, write command-line tools, and automate the filesystem Linux
+utilities, package management, build systems, monitoring and instrumentation,
+and automated testing Cloud computing, infrastructure as code, Kubernetes, and
+serverless Machine learning operations and data engineering from a DevOps
+perspective Building, deploying, and operationalizing a machine learning
+project
+
+Pragmatic AI: An Introduction to Cloud-based Machine LearningPublisher:
+O’Reilly MediaRelease Date: December 31st, 2019
+
+Abstract
+
+Pragmatic AI will help you solve real-world problems with contemporary machine
+learning, artificial intelligence, and cloud computing tools. Noah Gift
+demystifies all the concepts and tools you need to get results—even if you
+don’t have a strong background in math or data science. Gift illuminates
+powerful off-the-shelf cloud offerings from Amazon, Google, and Microsoft, and
+demonstrates proven techniques using the Python data science ecosystem. His
+workflows and examples help you streamline and simplify every step, from
+deployment to production, and build exceptionally scalable solutions. As you
+learn how machine language (ML) solutions work, you’ll gain a more intuitive
+understanding of what you can achieve with them and how to maximize their
+value. Building on these fundamentals, you’ll walk step-by-step through
+building cloud-based AI/ML applications to address realistic issues in sports
+marketing, project management, product pricing, real estate, and beyond.
+Whether you’re a business professional, decision-maker, student, or
+programmer, Gift’s expert guidance and wide-ranging case studies will prepare
+you to solve data science problems in virtually any environment.
+
+Python for Unix and Linux System AdministrationPublisher: O’Reilly
+MediaRelease Date: June 2009
+
+Python is an ideal language for solving problems, especially in Linux and Unix
+networks. With this pragmatic book, administrators can review various tasks
+that often occur in the management of these systems, and learn how Python can
+provide a more efficient and less painful way to handle them.
+
+Each chapter in Python for Unix and Linux System Administration presents a
+particular administrative issue, such as concurrency or data backup, and
+presents Python solutions through hands-on examples. Once you finish this
+book, you’ll be able to develop your own set of command-line utilities with
+Python to tackle a wide range of problems. Discover how this language can help
+you:
+
+With this book, you’ll learn how to package and deploy your Python
+applications and libraries, and write code that runs equally well on multiple
+Unix platforms. You’ll also learn about several Python-related technologies
+that will make your life much easier.
+
+His most recent video courses are:
+
+His most recent online courses are:
+
+You can follow Noah Gift on social media and on the web at:
+
+  *     * Chapter02: Testing Conventions
+
+    * Chapter03: Introduction To Pytest
+
+    * Chapter04: Test Classes
+
+    * Chapter05: Reporting
+
+    * Chapter06: Debugging Pytest and pdb
+
+    * Chapter07: Pytest Fixtures
+
+    * Chapter08: Monkeypatching
+
+    * Chapter09: Testing Matrix Tox
+
+    * Chapter10: Continuous Integration Delivery
+
+    * Chapter11: Case Study War Stories
+
+    * Chapter12: Essays
+
+    * Python Command Line Tools Book Source Code
+    * Purchase: Testing in Python - Book
+    * Buy a copy of the book on Kindle
+    * All Book Bundle
+    * Monthly Subscription
+    * Buy a hard copy of the book on Amazon
+    * Chapter02: Testing Conventions
+
+    * Chapter03: Introduction To Pytest
+
+    * Chapter04: Test Classes
+
+    * Chapter05: Reporting
+
+    * Chapter06: Debugging Pytest and pdb
+
+    * Chapter07: Pytest Fixtures
+
+    * Chapter08: Monkeypatching
+
+    * Chapter09: Testing Matrix Tox
+
+    * Chapter10: Continuous Integration Delivery
+
+    * Chapter11: Case Study War Stories
+
+    * Chapter12: Essays
+
+    * Testing in Python Book Source Code
+    * Buy a Physical Copy from Amazon
+    * Buy a Kindle Copy from Amazon
+    * Read Online
+    * Download Source Code from Github
+    * Python for DevOps Website
+    * Chinese Version: 學習精準有效的自動化 
+    * Buy a Physical Copy from Amazon
+    * Buy a Kindle Copy from Amazon
+    * Read Online
+    * Buy EPUB version Informit
+    * Buy Physical Book & eBook Bundle Informit
+    * Download Source Code from Github
+    * Buy Copy from Amazon
+    * Read Online
+    * Download Source Code from Github
+    * Read text files and extract information
+    * Run tasks concurrently using the threading and forking options
+    * Get information from one process to another using network facilities
+    * Create clickable GUIs to handle large and complex utilities
+    * Monitor large clusters of machines by interacting with SNMP programmatically
+    * Master the IPython Interactive Python shell to replace or augment Bash, Korn, or Z-Shell
+    * Integrate Cloud Computing into your infrastructure, and learn to write a Google App Engine Application
+    * Solve unique data backup challenges with customized scripts
+    * Interact with MySQL, SQLite, Oracle, Postgres,and SQLAlchemy
+    * Essential Machine Learning and A.I. with Python and Jupyter Notebook LiveLessons (Pearson, 2018)
+    * AWS Certified Machine Learning-Specialty (ML-S) (Pearson, 2019)
+    * Python for Data Science Complete Video Course Video Training (Pearson, 2019)
+    * AWS Certified Big Data - Specialty Complete Video Course and Practice Test Video Training (Pearson, 2019)
+    * Building A.I. Applications on Google Cloud Platform (Pearson, 2019)
+    * Pragmatic AI and Machine Learning Core Principles (Pearson, 2019)
+    * Data Engineering with Python and AWS Lambda (Pearson, 2019)
+    * Introduction to Jenkins for DevOps (Pearson, 2020)
+    * Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)
+    * Command Line Automation in Python (DataCamp, 2019)
+    * AWS Certified Cloud Practitioner 2020-Real World & Pragmatic
+    * YouTube Channel: Pragmatic AI Labs
+    * www.noahgift.com
+    * Linkedin: https://www.linkedin.com/in/noahgift/
+    * Pragmatic AI Labs Website: www.paiml.com
+    * Github
+    * Get the latest content and updates from Pragmatic AI Labs: Subscribe to the mailing list!
+
+## Appointments and Affiliations
+
+  * Executive in Residence in the Social Science Research Institute
+
+## Contact Information
+
+  * **Email Address:** noah.gift@duke.edu
+  * **Websites:**
+    * Github
+    * Noah Gift Personal Website
+    * YouTube Channel
+    * [Book] Pragmatic AI: An Introduction to Cloud-Based Machine Learning
+    * [Book] Python for DevOps: Learn Ruthlessly Effective Automation
+
+## Education
+
+  * M.B.A. University of California - Davis, 2013
+  * M.S. California State University, Los Angeles, 2003
+
+## Courses Taught
+
+  * AIPI 561: Operationalizing AI
+  * IDS 706: Data Engineering Systems
+  * IDS 721: Data Analysis at Scale in Cloud
+
+## Representative Publications
+
+  * Gift, N; Behrman, K; Deza, A; Gheorghiu, G, _Python for DevOps: Learn
+    Ruthlessly Effective Automation_ (2019) [abs].
+  * Gift, N, _Pragmatic AI An Introduction to Cloud-Based Machine Learning_
+    (2018) [abs].
+  * Beazley, DM, _Python Essential Reference_ (2009) [abs].
+  * Gift, N; Jones, J, _Python for Unix and Linux System Administration_
+    (2008) [abs].
+
+​
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+## Admissions
+
+Have a question about the program or admissions? Contact the **Admissions &
+Recruiting team** at pratt_masters@duke.edu.
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+  * __Main Menu
+    * __Why Duke?
+      *  __The Duke Difference
+      *  __Career Services
+      *  __Graduate Outcomes
+      *  __What Tech Leaders Are Saying
+    *  __Degree
+    *  __Certificate
+    *  __Courses
+    *  __Faculty
+    *  __Apply
+  * __Quick Links
+    * __Industry Relations
+    *  __Leadership
+    *  __News
+    *  __Contact
+
+    * 
+

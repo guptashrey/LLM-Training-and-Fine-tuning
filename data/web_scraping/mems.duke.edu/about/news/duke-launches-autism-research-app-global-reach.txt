@@ -1,0 +1,245 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Launches Autism Research App with Global Reach
+
+October 15, 2015
+
+Families can participate in study with free download
+
+_Story also appears on Duke Today_
+
+A team of researchers, engineers and software developers from Duke University
+and the Duke Medical Center has introduced a free iOS app to learn more about
+autism in young children living around the world.
+
+Beginning Thursday, a ResearchKit app called “Autism & Beyond” is being
+offered from the Apple App Store for use on iOS devices. ResearchKit is a new
+open-source framework developed by Apple that allows researchers to create
+app-based studies with a global reach.
+
+The free program from Duke is not a diagnostic tool. It is intended to test
+the reliability of smart phone questionnaires and video analysis of facial
+expressions as a possible screening tool for autism and other developmental
+disorders of children.
+
+Parents and children will interact with questionnaires and videos on the app
+and then receive some feedback, such as how to deal with tantrums if that’s an
+issue, or what the child’s apparent risk for autism might be. In some cases,
+families will be encouraged to seek further consultation with their health
+care providers.
+
+“You can’t diagnose a child with a video screen,” said Helen Egger, M.D.,
+chief of Duke’s Division of Child and Family Mental Health and Developmental
+Neuroscience and a co-leader of the research team. “We’re interested in
+getting to a place where we could use the data we’re collecting to give
+individual advice. But we’re not there yet.”
+
+“Our goal is to develop a screening, like hearing or eyesight at schools,”
+said Guillermo Sapiro, Ph.D., a professor of electrical and computer
+engineering, biomedical engineering and computer science. “They don’t get
+glasses; they get a referral.”
+
+The app was developed over four months of intense work by a large team of Duke
+programmers, scientists and students who worked in close partnership with
+Apple. The team behind this app envisions developing related apps to study
+temper tantrums, picky eating and anxiety, Egger said.
+
+With hundreds of millions of iPhones and iPads in use around the world, app-
+based health studies such as this enable researchers to measure more diverse
+patient populations faster and more affordably, said Ricky Bloomfield, M.D.,
+director of mobile technology strategy for Duke Medicine. Patient recruitment
+and informed consent should also be easier through the devices, he said.
+
+In addition to Egger, Sapiro and Bloomfield, the Autism & Beyond team has been
+led by Geraldine Dawson, Ph.D., director of the Duke Center for Autism and
+Brain Development and mathematician and engineer Robert Calderbank, Ph.D., who
+is director of the Information Initiative at Duke.
+
+The app is intended for use with children ages 1 to 6. “Early detection of
+children with autism can help us intervene earlier, which greatly improves
+outcomes,” Dawson said. The Autism & Beyond app is a six-month study, with
+tests administered at the beginning, three months and six months. Each test
+takes about 20 minutes to complete.
+
+After a guided set of screens that inform users of the purpose of the research
+and ask their consent to participate and share their data, the app combines
+questionnaires and short videos to gather information about a child.
+
+Most of Duke’s innovation comes in the video portion of the app. As the child
+sits on the parent’s lap watching four short video clips, the device’s user-
+facing “selfie” camera records the child’s reactions to the videos, which are
+designed to make them smile, laugh and be surprised.
+
+Analytical software in the app marks key landmarks on the child’s face
+automatically and assesses his or her emotional responses. For example, in a
+short video of bubbles floating across the screen, the video algorithm is
+looking for movements of the face that would indicate joy.
+
+“It’s very visual,” said Sapiro, who has been leading efforts to interpret
+children’s videotaped behavior with software.
+
+With permission from the app’s users, data captured by Autism & Beyond is
+uploaded to secure servers at Duke for analysis by the team. Users also have
+the option not to share video of their child, only the computer-generated
+facial landmarks. Duke is also hosting a website and hotline number for help.
+“We are trying to be overprotective,” Sapiro said.
+
+The researchers stress that the goal of the app at this stage is to see
+whether it works well enough to gather useful data, not to provide at-home
+diagnosis.
+
+_Example of what children might see during a session with the new app._
+
+"The goal is to see—based on things we already know from our research—whether
+these interactions elicit certain ephemeral behaviors in the child,” Egger
+said. A computer seeing at 30 frames per second, for example, can detect
+better than the human eye whether the child is slightly slower to smile, Egger
+said.
+
+Automated analysis will also be much faster and cheaper than the labor-
+intensive analysis of video now done by trained people, Dawson said.
+
+For now, study participants receive feedback on their child’s results on the
+questionnaires, and resources for coping with the challenges they may be
+experiencing, Egger said.
+
+But in the long run, self-administered tests like this offer the promise of
+broader access to mental health screening. “It is simply not possible to train
+enough people to meet the need for early childhood diagnosis,” Egger said.
+“Seventy out of the 100 counties in North Carolina don’t have a child
+psychiatrist, for example. This may be the only way to get screening out to
+more people.”
+
+The Duke team has been working with colleagues in China to roll out a Mandarin
+version of the app in the world’s most populous market. A team at the
+University of Cape Town in South Africa is eager to try the app, and a
+partnership is being established in Argentina to create a Spanish language
+version of the app for the North and South American Latino population, Sapiro
+said.
+
+“We’re hoping this app will increase access to mental health and autism
+screening in different cultures around the world,” Egger said.
+
+**LEARN MORE**
+
+Guillermo Sapiro discusses his work on using software to interpret videos for
+autism screening (30 minutes)
+
+Background news stories from Duke Bass Connections
+
+Apple ResearchKit
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

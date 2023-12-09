@@ -1,0 +1,266 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2018
+
+# Predicting Weather with Big Data
+
+May 18, 2018 | By Jade Grimes
+
+Ana Barros talks about working with big data in environmental fields before
+the term even existed and how her work has evolved over the years
+
+While in pursuit of a PhD in ocean engineering, Ana Barros, professor of civil
+and environmental engineering, was applying for a NASA fellowship when her
+advisor suggested an intriguing idea. The suggestion was that Barros could
+"try something on snow," as satellite remote sensing capabilities were
+notoriously difficult to use in that field.
+
+Later, her advisor suggested she do another study on mountains and
+precipitation in the terrain before leaving Barros's side for a sabbatical in
+Australia. After six months, her advisor came back to the United States to
+find Barros had a whole model planned out; Barros had essentially started "the
+whole rest of (her) life."
+
+"As long as I'm learning, I'm happy," Barros noted, reflecting on the series
+of unexpected events that led her into her current field of research.
+
+With consistent research funding provided by the partnership with NASA she
+formed in graduate school, Barros started working on the remote sensing of
+precipitation in the "days before big data" and before data analysis became a
+"hot topic." For example, one of her graduate students discovered a way to use
+neural networks and satellite microwave observations to estimate relative
+humidity distribution in the atmosphere all the way back in the '90s.
+
+The work, however, received little to no recognition until the late 2000s. It
+wasn't until then that, at a NASA Senior Review meeting, a representative
+noted that the approach increased the amount of useable data taken from a new,
+previously unprofitable satellite from under 20 to over 90 percent.
+
+With early achievements like these, Barros has been a key player in weather
+prediction using remote sensors before it even became an area of expertise. "I
+really hoped to get the quality of weather prediction to improve, to become
+reliable in a way that we can explain the physics and get the right results
+for the right reasons," said Barros.
+
+Barros's current research focuses on the fundamentals of hydrometeorology and
+climate, specifically precipitation. While we already have climate and weather
+prediction models, Barros says, "We don't actually know the fundamental
+science to describe the key processes. How does the hint of haze in the
+horizon evolve to pouring rain in a few minutes?"
+
+According to Barros, we have basic, conceptual models of how we think weather
+and climate processes would work on a large scale, but when compared with the
+real world, the model predictions are lacking, especially at the small scales
+important for decision-making. "The true processes are highly nonlinear and
+work over a very wide range of scales, some six orders of magnitude across,"
+says Barros.
+
+True predictability, like being able to predict extreme events like hurricanes
+and droughts, is the understanding and application of all steps involved, not
+a lone statement of the outcome. It is therefore the gap between our current
+theories on weather and the definite laws that Barros hopes to bridge with her
+research now and in the future.
+
+To accomplish her goal, Barros's research group does "a little bit of
+everything." They observe the weather processes in reality, use remote sensors
+to collect data, model the processes, perform simulations and complete a lot
+of data analysis. All these facets of her research make it easy for Barros—who
+believes that the key to whether or not someone is going to like research is
+"getting their hands dirty"—to involve undergraduate as well as graduate
+students in her research. One of Barros's large field campaigns in the Great
+Smoky and Appalachian mountain systems involved an extensive team of students
+who gained valuable fieldwork experience by essentially climbing mountains to
+calibrate and retrieve data from isolated sensing instruments.
+
+It's her research in the mountains that Barros implied was her most
+interesting work. To make accurate models of weather in mountain ranges, her
+research team first needed accurate data. When her group started taking
+precipitation measurements, they measured rainfall the way folks usually
+do—with a rain gauge. But that proved inadequate.
+
+Many times the record showed that no rainfall was occurring, and the team
+thought this was accurate until they purchased disdrometers, which measure
+drop size distribution. The disdrometers showed that there were, in fact, a
+very large number of drops falling— drops that were not being measured by the
+rain gauges.
+
+> “We don’t actually know the fundamental science to describe the key
+> processes. How does the hint of haze in the horizon evolve to pouring rain
+> in a few minutes?”
+
+The group then acquired another type of radar, one that works by measuring the
+radar backscatter signal to find the vertical distribution of precipitation in
+the atmosphere, which is how weather stations come up with their multicolored
+precipitation forecasts. With this data, Barros inferred that the drops were
+getting bigger as they fell toward the ground.
+
+Regionally, you can see these very small drops in the form of hazy deep banks
+of fog in mountain valleys. When another system of clouds comes through and
+produces a very light rainfall, the drops go through the lower fog and
+increase in size. "This type of precipitation, although not generally
+accounted for in most weather models, can account for almost 50 percent of the
+water cycle at some locations," said Barros. "When you're not measuring this,
+you're missing a lot of water that the plants are using and that is keeping
+the soil moist, making it difficult to close the water budget."
+
+Elaborating on her research on weather in the mountains, Barros explained a
+recent analysis she worked on with Yajuan Duan, a PhD student in her
+laboratory. When grouping data taken from a NASA satellite called MODIS each
+day over a ten-year period from 2006 to 2016, they noticed that, for the
+majority of summer, a Smoky mountain system in the midst of the Tennessee
+Valley Authority dams had high concentrations of low-lying clouds form both
+above its peaks and also, surprisingly, over the regions on the sides of the
+dammed rivers. Wind over the rivers had caused the water particles to shift to
+the sides, a process called the lake breeze effect.
+
+"It's not that we didn't know this could happen," Barros notes, "we just
+didn't know the scale and persistence of these impacts on regional climate."
+When the TVA dams were built, no one truly cared about how they would affect
+the climate long-term, and it was before the time that environmental impact
+assessment studies were required. In the later parts of the 20th century,
+however, people finally began to consider climate change.
+
+"In those days, people would talk about fish because building a dam killed
+fish by eliminating river connectivity, so concerned people were building fish
+ladders to protect aquatic life," said Barros. "But building a dam also has an
+impact on the microclimate, like the low-lying cloud formations on the banks
+of the rivers. Then people in the region complain that it gets too foggy, and
+vegetables in the winter die because of the humidity and excessive frost."
+
+To truly understand the weather and how water moves from one state and one
+energy level to the next, both the macroclimate and microclimate effects of
+anthropogenic activities need to be scrutinized. "That's the strong
+engineering side of this," said Barros. "Engineers tend to look at complex
+systems and put parts together. We approach problems from a more integrated
+perspective."
+
+**Jade Grimes, Pratt Class of 2021, hopes to major in civil engineering with a
+certificate in architectural engineering.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2018
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

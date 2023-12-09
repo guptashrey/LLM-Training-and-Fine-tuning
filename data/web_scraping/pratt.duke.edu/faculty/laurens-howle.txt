@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Laurens E. Howle
+
+Professor with Tenure in the Thomas Lord Department of Mechanical Engineering
+and Materials Science
+
+Professor Howle's research interests span the disciplines of thermal science,
+fluid dynamics, and nonlinear dynamics. His present research projects -
+visualization of convective fluid patterns, stabilization of the no-motion
+state in free convection and bifurcation in imperfect or distributed parameter
+systems - are split evenly between experimental and computational methods.
+
+A key problem facing researchers studying convection in fluid-saturated porous
+media is the lack of a general, non-invasive method for pattern visualization
+and wave number measurement. Professor Howle designed innovative porous media
+which allow optical techniques to be used for the first time as a pattern
+visualization tool in the study of porous media convection.
+
+Computational spectral methods are efficient methods of simulation of small
+aspect ratio convection systems. For large problems, these methods can become
+too expensive to be practical. Professor Howle developed a reduced Galerkin
+method which decreases the execution time by orders of magnitude for large
+problems. This extends the range of problems for which certain spectral
+methods may be used. He is currently studying porous free convection in
+systems with distributed properties and binary convection using the reduced
+Galerkin method.
+
+## Appointments and Affiliations
+
+  * Professor with Tenure in the Thomas Lord Department of Mechanical
+    Engineering and Materials Science
+  * Associate Professor in the Division of Marine Science and Conservation
+  * Associate Professor of Radiology
+  * Faculty Network Member of The Energy Initiative
+
+## Contact Information
+
+  * **Office Location:** 239 Hudson Eng Bldg, Box 90300, Durham, NC 27708-0300
+  * **Office Phone:** (919) 660-5331
+  * **Email Address:** laurens.howle@duke.edu
+  * **Websites:**
+
+## Education
+
+  * Ph.D. Duke University, 1993
+
+## Research Interests
+
+Hydroelastic modeling of deformable structures, transport in thermal and
+chemical systems, experimental and computational fluid dynamics, nonlinear and
+complex systems, heat and mass transport in biological systems, stability of
+fluid motions, machine learning, data mining, econophysics, reduced order
+modeling, modeling of decompression sickness, pharmacokinetics and
+pharmacodynamics, mechanical design, manufacturing engineering, wind power.
+
+## Awards, Honors, and Distinctions
+
+  * Fellows. American Society of Mechanical Engineers. 2012
+
+## Courses Taught
+
+  * ENRGYEGR 490: Special Topics in Energy Engineering
+  * ME 321L: Mechanical Engineering Analysis for Design
+  * ME 490: Special Topics in Mechanical Engineering
+  * ME 555: Advanced Topics in Mechanical Engineering
+  * ME 639: Computational Fluid Mechanics and Heat Transfer
+
+## In the News
+
+  * Predicting How Bad the Bends Will Be (Mar 20, 2017 | Pratt School of
+    Engineering)
+
+## Representative Publications
+
+  * Wu, CY; Nowacek, DP; Nousek-McGregor, AE; McGregor, R; Howle, LE,
+    _Computational fluid dynamics of flow regime and hydrodynamic forces
+    generated by a gliding North Atlantic right whale (Eubalaena glacialis)_ ,
+    Marine Mammal Science, vol 37 no. 3 (2021), pp. 826-842
+    [10.1111/mms.12798] [abs].
+  * Schwartz, FR; Lewis, DS; King, AE; Murphy, FG; Howle, LE; Kim, CY; Nelson,
+    RC, _Hemodialysis catheter integrity during mechanical power injection of
+    iodinated contrast medium for computed tomography angiography._ , Abdom
+    Radiol (Ny), vol 46 no. 6 (2021), pp. 2961-2967
+    [10.1007/s00261-020-02905-9] [abs].
+  * King, AE; Andriano, NR; Howle, LE, _Trinomial decompression sickness model
+    using full, marginal, and non-event outcomes._ , Computers in Biology and
+    Medicine, vol 118 (2020) [10.1016/j.compbiomed.2020.103640] [abs].
+  * King, AE; Howle, LE, _Tetranomial decompression sickness model using
+    serious, mild, marginal, and non-event outcomes_ , Informatics in Medicine
+    Unlocked, vol 20 (2020) [10.1016/j.imu.2020.100371] [abs].
+  * Di Muro, G; Murphy, FG; Vann, RD; Howle, LE, _Are interconnected
+    compartmental models more effective at predicting decompression sickness
+    risk?_ , Informatics in Medicine Unlocked, vol 20 (2020)
+    [10.1016/j.imu.2020.100334] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

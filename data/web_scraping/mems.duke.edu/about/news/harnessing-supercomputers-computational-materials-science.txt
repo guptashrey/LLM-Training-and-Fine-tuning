@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Harnessing Supercomputers for Computational Materials Science
+
+July 10, 2015 | By Ken Kingery
+
+A new grant for more than $1.8 million will help materials scientists complete
+time-intensive quantum mechanical calculations by connecting multiple
+computational libraries
+
+Duke University researchers and colleagues from the University of California,
+Berkeley have secured more than $1.8 million from the National Science
+Foundation to help materials scientists around the world solve a high school
+math problem in linear algebra.
+
+The problem in question is solving a system of many equations, a so-called
+eigenvalue problem. As long as there are only a couple of variables and few
+equations, the answer can be found by anyone with an undergraduate background
+in linear algebra using a pencil and a piece of paper. But when the complexity
+escalates to millions of variables and equations, it can take the world’s
+fastest computers days to come out with a set of solutions.
+
+This is the challenge faced by materials scientists like Volker Blum,
+associate professor of mechanical engineering and materials science and of
+chemistry at Duke, who want to use models of atomic structure to predict a new
+material’s properties.
+
+“We’re never going to be able to accurately model all of the atoms in a solar
+cell,” said Blum, who is the lead investigator on the new grant. “But there
+are ways of modeling a few thousand atoms in a system and extracting sensible
+results for a material on a scale relevant to the real world.”
+
+These methods comprise a handful of computational libraries built by
+researchers around the world. With names like the EigensoLvers for Petascale
+Applications (ELPA) library, the Orbital Minimization Method (OMM), or the
+Pole EXpansion and Selective Inversion (PEXSI) library, these open-source
+algorithms use different tricks and programming numerical techniques to reduce
+the computational time required to find a decent answer.
+
+The challenge for researchers, then, is to figure out which library will work
+best for their particular problem and to plug their equations into it.
+
+Blum and his colleagues—including Jianfeng Lu, assistant professor of
+mathematics, chemistry and physics at Duke, Lin Lin of UC Berkeley, Chao Yang
+of Lawrence Berkeley National Laboratory, Alvaro Vazquez-Mayagoitia of Argonne
+National Laboratory and a large group of already committed “stakeholder”
+projects around the world —are looking to automate that challenge.
+
+With the new grant, the researchers will build a platform that ties together
+the different computational libraries, making it easier for materials
+scientists to quickly solve their systems of linear equations.
+
+“We'll provide the infrastructure so our colleagues around the world don’t
+have to go in and adjust the nitty-gritty details each time they want to run
+one of these programs,” said Blum. “Researchers can put in the system they
+need solved, and our platform will determine which library will work best and
+control enough of the process to make people’s lives easier.”
+
+The project will also try to keep pace with the future of computing by
+retaining the ability to add new libraries and use new technologies. By
+partnering with industry leaders NVIDIA and Intel, the platform will be able
+to extend to emerging computational architectures like graphic processing
+units (GPU) and Many Integrated Core (MIC) processing, which should further
+decrease computing times in the future.
+
+The project will have close ties to a separate “Electronic Structure Library”
+community effort, backed by Europe’s “Centre Européen de Calcul Atomique et
+Moléculaire” (CECAM) organization. Through these connections and the new four-
+year project, Blum hopes to bring some of this specialized computing expertise
+that has shifted to Europe in the past two decades back to the United States.
+
+“With this project, we hope that we can, to some extent, build a new leg to
+stand on,” said Blum. “It won’t be the only leg by any means, but hopefully
+it’s going to be an important one.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

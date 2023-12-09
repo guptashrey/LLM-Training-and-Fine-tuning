@@ -1,0 +1,324 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Mentored Research
+
+April 9, 2018
+
+Duke Engineering offers students unparalleled opportunities to conduct
+original research with faculty advisors. Almost 70 percent of our
+undergraduates engage in intensive research, with one in five either
+publishing or presenting a paper off campus before graduating.
+
+Nothing prepares a student for their future endeavors better than hands-on
+research.
+
+> Almost 70 percent of our undergraduates have some sort of research
+> experience
+
+Beside building a resume and skillset while helping to shape their future
+careers, students get to work side-by-side with experienced faculty at one of
+the top 10 engineering schools in research productivity.
+
+Duke Engineering offers two signature opportunities for students to pursue—the
+Pratt Research Fellows and the Katsouleas NAE Grand Challenge Scholars
+programs.
+
+Thanks in large part to these programs, almost 70 percent of our
+undergraduates have some sort of research experience, while one in five either
+publish or present a paper off campus before graduating.
+
+## Karyn Saunders: Grand Challenge Scholar
+
+### Improving Water Recycling Designs for Rural Villages
+
+Growing up in southern Florida with two engineers as parents, Karyn Saunders
+has always been submerged in coastal environmental issues and challenges with
+water quality.
+
+At Duke, the Katsouleas NAE Grand Challenge Scholars program gave her the
+opportunity to grapple with the vital problem of ensuring access to clean
+water through a variety of linked experiences, from coursework to co-leading
+an entrepreneurial effort to develop cost-effective temporary shelters with
+water treatment for refugees.
+
+#### Katsouleas NAE Grand Challenge Scholars
+
+  * Unique educational journey that integrates five key themes: an
+    interdisciplinary curriculum, innovation and entrepreneurship experience,
+    a global experience, service learning, and a research project
+  * Prepares well-rounded engineers for leadership roles in addressing the
+    largest global issues of our time
+  * Graduates are recognized by the National Academy of Engineering
+
+**Learn more about the** NAE Grand Challenge Scholars Program »
+
+Saunders also traveled to Honduras with Duke Engineers for International
+Development to help install and then repair a greywater treatment system for a
+local village. But even after multiple visits, the team’s solution was having
+trouble.
+
+Saunders made discovering why the focal point of her research for the Grand
+Challenge Scholars research with faculty mentor David Schaad. She created a
+computational model of their treatment system complete with complicated fluid
+dynamics and the details of the specific site. With this new tool in hand,
+Saunders has incorporated new ideas and emerging technologies into their plans
+to solve the problems.
+
+“Even though we doubled the size of the system’s grease trap during my second
+visit, it was still needing emptied daily even though it was only being used
+by a dozen homes,” said Saunders, who will continue her studies at Duke next
+year as part of the 4+1 Masters of Engineering program. “They use a lot more
+oil in their cooking than we do. That’s something I never would have thought
+of and helped me understand how solutions that work in one community might not
+work in others due to cultural, political or ethical concerns.”
+
+## Harvey Shi: Pratt Research Fellow
+
+### Simulating Blood Flow to Support Medical Decisions
+
+Harvey Shi was one of the lucky students who managed to find a laboratory he
+loved working with even before his junior year. His experience in Pratt
+Research Fellows program allowed him to spend more time in the laboratory
+during the school year and provided an entire summer to focus on his project.
+
+Shi works in the laboratory of Amanda Randles, an assistant professor of
+biomedical engineering with faculty appointments in mechanical engineering,
+mathematics and computer science. Randles is using advanced parallel
+processing algorithms and the world’s fastest supercomputers to simulate blood
+flow. Depending on the project, it can look at an entire person’s vascular
+system or dig down for a close-up of a specific section on a cellular level.
+
+The goal is to eventually have physicians use this program to help determine
+the best treatment options for their patients. For example, a simulation could
+tell if fixing a specific abnormality within a patient’s aorta will help the
+local blood flow. However, because doctors do not have the time to become
+experts in using supercomputers, the program needs a more intuitive interface.
+
+Shi designed and developed the software interface over the course of the
+spring and summer semesters of and following his junior year. He is spending
+his senior year incorporating virtual reality (VR) support for more immersive
+display technologies, using the zSpace 3D display and commercial VR headsets
+such as the Oculus Rift and HTC Vive.
+
+“This project has really helped me build independent skills beyond the
+research itself, such as working on all the details of my own project while
+also keeping an eye on the big picture,” said Shi, who plans to take a gap
+year after graduation before applying for MD/PhD programs. “It has also helped
+me develop an understanding of the challenges associated with research and how
+to persevere through them."
+
+## Madison Danoff: Pratt Research Fellow
+
+### Exposing Links between Environmental Contaminants and Neurological
+Diseases
+
+Madison Danoff came to Duke Engineering with the goal of becoming a genomic
+engineer. Without a ready-made curriculum for such a path, she decided to
+double major in biomedical engineering and biology with an emphasis on
+genomics.
+
+#### Pratt Research Fellows
+
+  * Intensive research program that begins junior year, continues through
+    graduation and can include the summer
+  * Competitive program matches students with participating faculty members
+    from each department
+
+**Learn more about the** Pratt Research Fellows program »
+
+Her Pratt Research Fellows project merged some of these interests, as Danoff
+learned how to grow human "mini brains" in a laboratory, test their reactions
+to various common environmental toxicants and then relate what she observed in
+the lab to what was seen in human populations exposed to the same toxicants.
+
+Danoff also sought to determine if vitamin C or vitamin D protected developing
+neurons from nicotine-induced damage. Besides her bench work, Danoff also
+created Python code to analyze how specific work performed by local
+farmworkers correlated with exposure to neurotoxic pesticides, which led to
+her being the first author on a journal article.
+
+After spending more than a year on these projects, Danoff came away with two
+very important discoveries—a mentor and the knowledge that marathon-like bench
+work simply isn’t for her.
+
+“My faculty mentor, Lisa Satterwhite, has helped me feel empowered as a female
+engineer and is much more than just a mentor for my research,” said Danoff,
+who will begin work after graduation as a consulting and execution analyst at
+Pfizer. “Besides matching me with her, the Pratt Research Fellows was a great
+experience because it went much more in depth than just a short, one-semester
+project. It helped me realize that I need a more fast-paced profession.”
+
+## Sam Kelly: Grand Challenge Scholar
+
+### Making the Ocean a Smaller Place
+
+The devices used to track marine mammals for long periods of time are part of
+a niche industry.
+
+Even though the commercially available technology being used today is decades
+old, it still costs tens of thousands of dollars—but Sam Kelly is using his
+research experience with the Grand Challenge Scholars program to try to fix
+this disconnect.
+
+#### Research Without Borders
+
+Duke Engineering students can take advantage of a rich array of research
+opportunities across campus. A few examples:
+
+**Smart Home Fellows:** Project-based design research that addresses the very
+broad goals of the Duke Smart Home Program to explore smart technology and
+ideas that enable sustainable living. Students have access to the Duke
+Engineering-operated Smart Home as a "living laboratory."
+
+**Bass Connections:** Brings together Duke faculty, graduate and undergraduate
+students from every corner of campus to explore real-world issues in
+interdisciplinary research teams.
+
+**Independent Study:** Many engineering students conduct intensive, hands-on
+research for academic credit—either in engineering or in Duke's schools of
+arts & sciences, medicine, environment, and beyond.
+
+“The components needed for these devices only cost around $60, but renting
+what’s available now can cost $10,000,” said Kelly, who chose to come to Duke
+from his home country of New Zealand. “That price point is forcing scientists
+to miss out on a lot of potential uses for it."
+
+Working with Martin Brooke, associate professor of electrical and computer
+engineering, Kelly’s goal is to create an open-source, depth-rated, modular
+tag that reliably and accurately stores data.
+
+He has tested prototypes on bottlenose dolphins in Hawaii and Atlantic
+sharpnose sharks on the east coast. The results suggested improvements that
+could be made, and Kelly has been hard at work implementing them into a new
+prototype that he hopes to test on mantas in Indonesia and whale sharks in the
+Philippines.
+
+Outside of the Grand Challenge Scholars program, Kelly is working to create
+visual barcode-like tags that could be spotted by drones and used on land
+animals. He is also one of the leaders of Duke’s Shell Ocean Discovery XPRIZE
+team, which is developing an autonomous system to map the deep ocean floor
+using a large flying drone and smaller submersible scanning devices.
+
+“The Grand Challenge Scholars project has tied together a lot of really
+interesting components that would otherwise be disparate,” said Kelly.
+“Developing skills outside of mechanical engineering and getting exposure into
+the world of entrepreneurship helps set me apart from other students while
+deciding what to do after graduation.”
+
+Read more about Duke Engineering's signature undergraduate research experience
+»
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

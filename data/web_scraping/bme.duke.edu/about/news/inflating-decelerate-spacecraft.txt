@@ -1,0 +1,210 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Inflating to Decelerate Spacecraft
+
+March 10, 2015 | By Caleigh MacPherson
+
+Duke engineers are working with NASA scientists to develop an inflatable heat
+shield to decelerate spacecraft entering the Earth’s atmosphere—and prepare
+for a manned mission to Mars.
+
+*Crackle* "Houston, this is Mars One. We are at the insertion point.
+Permission to enter the atmosphere and descend to the surface?" *Crackle*
+
+"Mars One, this is Houston, copy. Permission granted to deploy the HIAD.
+Proceed as planned. Godspeed."
+
+Thanks in part to the research of Benjamin Goldman, a fourth-year PhD
+candidate in Duke’s Department of Mechanical Engineering and Materials
+Science, this scenario may one day become a reality. As a NASA Pathways
+student trainee in the aeroelasticity branch at NASA’s Langley Research Center
+in Hampton, VA, he has been running an aeroelastic evaluation of the NASA
+Hypersonic Inflatable Aerodynamic Decelerator (HIAD) as his graduate research.
+
+According to NASA, the HIAD is an “inflatable device to slow a spacecraft upon
+atmospheric re-entry to Earth or other planets.” In other words, it’s an
+inflatable braking system and heat shield that could help humans travel to
+Mars.
+
+“The HIAD was developed to deliver larger and heavier payloads to the surface
+of Mars, which may eventually help bring people and infrastructure to the
+surface,” said Goldman. “The inflatable aeroshell is necessary because current
+rigid aeroshells are limited by the size of the rockets that launch them—thus
+limiting the payload size.”
+
+One of the hardest parts of exploring our solar system is not the actual space
+travel, as most may think; it is the insertion of the spacecraft into the
+atmosphere. When a spacecraft hits an atmosphere, it is traveling at
+supersonic speeds through the extremely cold temperatures of space. The moment
+it enters the atmosphere, air molecules start to bombard the spacecraft, which
+acts as the spacecraft’s brakes but also causes its skin to heat up and
+expand. Because of this physical constraint, NASA has been searching for a way
+to pack a larger aeroshell into the tiny constraints of the launch vehicle
+shroud.
+
+Because the larger the aeroshell, the better the brakes.
+
+Over the past few decades, agency scientists have been investigating new ideas
+and methods to slow down spacecraft at the point of atmospheric insertion.
+Previously, NASA used thermal tiles for the Apollo and Space Shuttle missions
+(and also with the upcoming Orion missions). While these thermal tiles are
+efficient and work well, they are extremely costly and incredibly fragile.
+Scientists working on the new inflatable HIAD design hope it will be cheaper
+and more durable than the old thermal tiles and eventually replace them on
+most future space missions.
+
+HIAD is the brainchild of Dr. Neil Cheatwood of NASA’s Atmospheric Flight and
+Entry Systems division at Langley Research Center. The HIAD project is part of
+the THOR (Terrestrial HIAD Orbital Re-Entry) vehicle, an equipment test that
+scientists are hoping to launch sometime next year.
+
+According to Goldman, the Aeroelasticity group at Duke is “developing fluid-
+structure interaction models for the HIAD vehicle.” Goldman’s background as a
+physics undergrad and experience as a Navy contractor helped prepare him to
+work with the fluid dynamics, structures and numerical modeling needed for
+this project.
+
+The design that the team came up with uses aerogels and woven fabrics as the
+HIAD’s Thermal Protection System (TPS). In the summer of 2013, Goldman and his
+NASA mentor, Robert C. Scott, performed physical testing of the materials in
+the TPS in NASA’s 8’ High Temperature Tunnel. Their goal was to make sure that
+the flexible materials used on the vehicle are stable in-flight.
+
+The results showed that the stability of the HIAD will be affected by the
+pressure differences of both the static and dynamic flow. They also determined
+that aeroelastic flutter was present, meaning that more research would have to
+be done in order for the HIAD to remain stable during flight.
+
+Goldman is currently working on modifying NASA’s FUN3D computational fluid
+dynamics code to solve the nonlinear structural dynamics of the aeroshell TPS
+material. The future looks promising for both Goldman and HIAD as HIAD is a
+part of NASA’s 2016 Budget Request. The current proposal calls for conducting
+a high-energy reentry test on a small-scale heat shield using existing flight
+hardware from a previous test. If successful, the results would verify the
+heat shield’s capabilities, helping near-term missions with the International
+Space Station and, perhaps someday, making human missions to Mars more
+affordable.
+
+Stay tuned to the skies for the HIAD launch!
+
+_Caleigh MacPherson is a graduate student in the Master of Engineering
+Management Program at Duke with a bachelor’s and master’s degree in mechanical
+engineering from the University of New Hampshire, where she previously worked
+on the NASA Magnetospheric Multiscale satellite mission. In her spare time,
+she attends NASA launches as a social media journalist and she is a 2015 NASA
+Solar System Ambassador._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

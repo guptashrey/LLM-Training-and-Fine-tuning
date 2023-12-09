@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Engineered "Spaghetti-Ball" Proteins Provide Biomedical Insights
+
+January 30, 2017 | By Ken Kingery
+
+Synthetic proteins may reveal cellular functions and provide commercial
+applications
+
+Biomedical engineers at Duke University and the University of New Mexico have
+engineered the first examples of biomimetic structures composed of a
+mysterious class of proteins that lack any sort of internal structure. The
+advance may help scientists investigate functioning cells and provide a new
+route to targeted drug delivery and regenerative medicine.
+
+The hallmark of a protein's function is its ability to fold into intricate
+pieces of origami to interact with specific biomolecular structures. While
+researchers work to identify hundreds of thousands of unknown protein
+structures to better understand them, a different class of proteins has flown
+somewhat under the radar.
+
+Originally reported as little dots within cells for a lack of a better term,
+these proteins form fluid, gel-like assemblies or particles that have no set
+or identifiable internal structure. They are "intrinsically disordered," much
+like a clump of spaghetti that, while completely random, still stays
+resolutely together while being served to a hungry family.
+
+Reports show, however, that these proteins are instrumental to cellular
+function, performing actions like controlling where reactions happen and
+bringing molecules together in specific locations. But due to their disordered
+nature, engineering them in the laboratory remained a challenge.
+
+In a paper published on Jan. 30 in the journal Nature Chemistry, researchers
+from Duke University, the University of North Carolina, Chapel Hill and the
+University of New Mexico (UNM) reveal the ability to control the self-assembly
+and disassembly of these structures in an organized manner. The advance will
+allow more thorough studies of these interesting proteins, while also
+providing new opportunities for biomedical applications.
+
+"One of our major efforts has been to understand the self-assembly of these
+types of proteins and use them as building materials," said Gabriel Lopez,
+vice president for research at UNM, who began the work as director of the
+Materials Research Science and Engineering Center (MRSEC) at Duke University.
+"Usually you don't think of proteins in material science, but our focus was to
+use proteins as materials to make larger structures."
+
+"It's been a long journey," echoed Ashutosh Chilkoti, chair of the Biomedical
+Engineering Department at Duke who helped lead the effort. "There's been a lot
+of work done on understanding their cellular functions, but not very much on
+engineering them. This work will help us better understand these complex
+particles and find new uses for them."
+
+In the paper, the researchers describe a process resembling the oil and water
+droplets that form in salad dressing. Except here, the "oil" is drop of a
+concentrated protein solution whose size and formation is triggered by
+environmental stimuli. This allows the creation of droplets that will coat one
+another, like assembling an onion of different proteins that form concentric
+layers.
+
+The researchers show they can genetically program when the various stages of
+'onion formation' happen. As the temperature is raised, for example, the
+proteins go from being soluble to insoluble so that they form a protein-rich
+droplet. With several such proteins in a solution, further increases in
+temperature cause a second protein to form a layer around the first. Other
+environmental factors, such as pH levels, can also trigger such formations.
+
+"It was important to verify that we have two separate 'knobs' to turn to
+adjust the sequence and the type of layers in this 'onion,'" said Michael
+Rubinstein, the John P. Barker Distinguished Professor of Chemistry at the
+University of North Carolina at Chapel Hill. "We can either change the
+sequence of amino acids in the proteins or vary the number of these amino
+acids per molecule. We can also add proteins containing hydrophobic and
+hydrophilic blocks that act like soap breaking some layers of our 'onions'
+into tiny droplets that look like raisins in a muffin."
+
+"I hope the platform we have developed will help us understand how different
+genetic sequences in disordered proteins influence their behavior and
+function," said Joseph Simon, a graduate student in Chilkoti's group at Duke
+who is the co-first author on the paper. "The ability to make onion-like
+particles of these proteins and control their size will allow for their use in
+a multitude of exciting applications."
+
+One application disordered proteins could be used for is drug delivery. The
+researchers already are making small particles that can be loaded with drugs
+and targeted to tumor or disease sites for delivery.
+
+Another area involves tissue engineering, where each droplet might carry a
+cell for tissue assembly that could repair a portion of a damaged organ. For
+example, these little droplets could carry the building blocks of functional
+cardiac muscle that could replace damaged tissue after heart attack. They
+could even form the basis for a biological "toner" for use in a bio-printer.
+
+"We want to better understand the rules governing their assembly to not only
+leverage the functionality of these proteins for medical applications, but
+also to investigate deregulated protein phase transitions in cells thought to
+contribute to various disease," said Nick Carroll, assistant professor of
+chemical and biological engineering at UNM. "We're just beginning to
+understand these structures and their applications, so it's a very exciting
+discovery."
+
+This work was funded through a six-year, $13.2 million National Science
+Foundation collaborative agreement between Duke University, University of
+North Carolina, Chapel Hill and the University of New Mexico. This work was
+also supported by the National Institutes of Health and the Cystic Fibrosis
+Foundation.
+
+CITATION: Simon JR, Carroll NC, Rubinstein M, Chilkoti A and Lopez GP.
+"Programming molecular self-assembly of intrinsically disordered proteins
+containing sequences of low-complexity," Nature Chemistry, Jan. 30, 2017. DOI:
+10.1038/NCHEM.2715
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

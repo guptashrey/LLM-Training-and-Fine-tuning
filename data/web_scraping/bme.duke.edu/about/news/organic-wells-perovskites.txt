@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Organic Sandwiches Create Quantum Wells for Next Generation Electronics
+
+November 18, 2019
+
+Computational models created by Duke Engineers help researchers probe the
+properties of a new class of hybrid perovskite materials
+
+_Adapted from apress release from Purdue University_
+
+Materials scientists at Duke University have used their electronic structure
+based materials modeling software on a supercomputer to help demonstrate the
+advantages of incorporating uncooperative organic building blocks into a class
+of optoelectronic materials called hybrid perovskites.
+
+The models showed that the new materials feature improved stability and safety
+while exhibiting a “quantum well” behavior that can improve the performance of
+optoelectronic devices such as solar cells, LEDs and optical computers, making
+the hybrid perovskites more attractive for use in a broad range of
+applications.
+
+The results appeared online on November 11 in the journal Nature Chemistry.
+
+Hybrid perovskites combine the best qualities of organic and inorganic
+materials to create new semiconductors suitable to broad applications due to
+their unique optical and electronic properties and low-cost manufacturing
+methods.
+
+However, they also have some limiting characteristics. Their stability can be
+poor, causing them to perform well for a few hours or days, and then decay
+quickly. Furthermore, many recipes contain lead-based material, restricting
+their usability in wearable electronic devices.
+
+Researchers around the world are constantly in search of new recipes for
+hybrid perovskites that can skirt around these limitations. In late 2018,
+Volker Blum, associate professor of mechanical engineering and materials
+science and of chemistry at Duke, and colleagues at Duke and at University of
+North Carolina-Chapel-Hill, demonstrated accurate electronic property
+predictions for a series of complex, layered hybrid perovskites using high-
+performance computing to help in this search.
+
+Meanwhile, researchers at Purdue University led by Letian Dou, assistant
+professor of chemical engineering, developed a method for incorporating long,
+complex organic molecules into hybrid perovskites that previously would have
+been extremely difficult if not impossible to include. The method adds “side
+chains” to the organics to reduce the interaction between the organic
+molecules themselves, guiding how the organic molecules fit into the inorganic
+structure.
+
+These complex organics possess semiconducting properties, allowing a thin
+layer sandwiched between inorganic layers to exhibit quantum well properties.
+These types of materials might be used to create compact, fast computer chips,
+highly efficient microscopic lasers and optoelectronic devices.
+
+“These structures are very exciting,” said Dou of the new hybrid perovskites.
+“The sandwich structures are like those that are widely used today in many
+electronic and optoelectronic devices, but they are much easier to produce and
+more tolerant to defects.”
+
+While the engineers at Purdue could engineer these new hybrid perovskites,
+they wanted to make sure they understood the electronic structure of the
+materials and that they would exhibit the desired quantum well behaviors. They
+turned to Blum and his supercomputer models to validate their expectations.
+And much to everyone’s delight, the models aligned well with the expectations
+and experimental results.
+
+“These structures are conceptually similar to those for which we first
+demonstrated our approach in 2018, but realize the promise of extending it to
+a broader scope of organic molecules with desirable properties,” said Blum.
+“These are precisely the sorts of materials we were hoping our models would
+help advance.”
+
+In further research, the Purdue team has already shown that these new hybrid
+perovskites can be made free of lead while exhibiting increased stability and
+performance in a field effect transistor (FET), an electronic device that uses
+an electric field to control the flow of current. FETs are used in integrated
+circuits in devices such as computers and wireless communications.
+
+The potential uses for this type of material are broad because semiconductors
+are the foundation of essentially all electronic and optoelectronic devices
+like transistors, solar cells, LEDs, and photodetectors. The new organic-
+inorganic hybrid perovskite materials are cheaper and perform better than a
+traditional inorganic semiconductor. And the new materials design strategy
+could serve as a blueprint for many other functional hybrid materials.
+
+“With our new technology, we can make the hybrid perovskite materials
+intrinsically more stable,” noted Yao Gao, a postdoctoral fellow in Dou’s
+research group. “By replacing the toxic lead, these new materials are better
+for the environment, and can also be safely used for bioelectronics sensors on
+the body.”
+
+This research was supported by the U.S. Office of Naval Research, the National
+Science Foundation (jncluding the "HybriD3" project, NSF DMR-1729297, centered
+at Duke and focused on exploring new hybrid organic-inorganic semiconductors),
+the German Research Foundation and the Department of Energy Office of Science.
+An award of computer time was provided by the Department of Energy's
+Innovative and Novel Computational Impact on Theory and Experiment (INCITE)
+Program.
+
+“Molecular Engineering of Organic-Inorganic Hybrid Perovskites Quantum Wells.”
+Yao Gao, Enzheng Shi, Shibin Deng, Stephen B. Shiring, Jordan M. Snaider, Chao
+Liang, Biao Yuan, Ruyi Song, Svenja M. Janke, Alexander Liebman-Peláez, Pilsun
+Yoo, Matthias Zeller, Bryan W. Boudouris, Peilin Liao, Chenhui Zhu, Volker
+Blum, Yi Yu, Brett M. Savoie, Libai Huang, Letian Dou. Nature Chemistry, 2019.
+DOI: 10.1038/s41557-019-0354-2
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

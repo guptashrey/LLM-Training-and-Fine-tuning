@@ -1,0 +1,194 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# The Genetic Codes That Create Optical Computers
+
+February 10, 2016 | By Ken Kingery
+
+FIP researchers are using self-assembling DNA to form the basic components for
+optical computing
+
+_From the newsletter of theFitzpatrick Institute for Photonics, Broadband_
+
+Researchers at Duke University can use photons instead of electrons to store
+data, drastically increasing the storage capacity of the optical analog of
+Blu-Ray discs.
+
+So what are your top 5,000 movies?
+
+“That’s the kind of ridiculous thing we can do, but I don’t know how we’re
+going to use it,” said Chris Dwyer, associate professor of electrical and
+computer engineering and of computer science at Duke.
+
+Like his Fitzpatrick Institute for Photonics colleague Jungsang Kim, Dwyer is
+working to bring an entirely new type of computer hardware into our day-to-day
+lives. But unlike Kim’s, his technology isn’t based on the quantum state of
+individual atoms.
+
+Optical computing has been around for decades, but the physical properties of
+light have limited their use to large scales. Wave guides that interact with
+and manipulate light have to be of the same order of magnitude in size. And
+for photons, that means nothing can be much smaller than a micron, which is
+huge compared to conventional silicon systems.
+
+Dwyer, however, and others in his field have found a way around this
+problem—excitons.
+
+When individual molecules called chromophores interact with light, they
+quantum-mechanically absorb some of its energy, which gets turned into an
+exciton. And when that little nugget of energy moves from chromophore to
+chromophore in specific patterns, it creates light-based computational
+components.
+
+“For my group, it’s about applying this kind of photoluminescence to building
+memory systems, sensors and computational logic,” said Dwyer. “And we build
+these components with self-assembling nanostructures using DNA.”
+
+This approach has several benefits.
+
+For one, Dwyer and his group can use DNA structures to piece together logic
+gates just two nanometers wide. This leads to memory systems that are very
+dense. And the way light propagates also means that the amount of energy
+required to perform an operation is radically lower than a conventional
+computer.
+
+Or at least it could be, once Dwyer’s group gets all of the components talking
+to one another. They can currently build logic gates and memory elements and
+network them together, but they still have to figure out how to optimize these
+devices so that they can compete with electrical silicon technologies.
+
+“These devices blow silicon processors out of the water on paper, but getting
+the real world in line with the theory is easier said than done,” said Dwyer.
+“On the flip side, we can figure out how to use these devices just as they are
+in spaces where conventional technologies can’t go.”
+
+For example, being made out of DNA, these tiny computational networks are
+biologically compatible. Perhaps scientists could put some computing power on
+a diagnostic assay inside the body—a feat which would greatly reduce the costs
+of such tests. Or in a future science fiction world, maybe scientists could
+conduct computations inside the bloodstream itself.
+
+Dwyer also notes the idea of an encryptable drug, which would have a
+cryptographic algorithm run by a molecular-scale computer that would render it
+ineffective if it wasn’t presented with the correct challenge or response.
+
+“I spent a great deal of my career trying to simply replace silicon in
+computing technology,” said Dwyer. “It probably took me the better part of six
+years , or half my career in academics, to figure out that a much better use
+of this technology is to bring computation to every niche of the physical
+world where silicon can’t go. I think that’s a much better use of our
+technology.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

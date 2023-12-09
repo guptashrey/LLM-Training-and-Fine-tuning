@@ -1,0 +1,224 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Crystallization Frustration Predicts Metallic Glass Formation
+
+August 1, 2016 | By Ken Kingery
+
+Research could pave the way for new strong, conductive materials
+
+Researchers have discovered a way to predict which alloys will form metallic
+glasses. The research could pave the way for new strong, conductive materials.
+
+Metallic glasses are sometimes formed when molten metal is cooled too fast for
+its atoms to arrange in a structured, crystalline order. The result is a
+material with numerous desirable properties. Because they are metals, metallic
+glasses have high hardness and toughness and good thermal conductivity.
+Because their structure is disorganized, they are easy to process and shape
+and difficult to corrode. Thanks to these characteristics, metallic glasses
+are used in a wide array of applications, including electrical applications,
+nuclear reactor engineering, medical industries, structural reinforcement and
+razor blades.
+
+While metallic glass has been around for decades, scientists have no clue
+which combinations of elements will form them. The only way to come up with
+new metallic glasses to date has been to cook up new recipes in the laboratory
+with only a few rules of thumb for guidance and hope for the best—a costly
+endeavor in both time and money.
+
+In a new study, however, researchers from Duke University, in collaboration
+with groups from Harvard University and Yale University, describe a method
+that can predict which binary alloys will form metallic glasses. Their
+technique involves computing and comparing the many pockets of different
+structures and energies that could be found within a solidified alloy.
+
+The results were published August 2, 2016, in Nature Communications.
+
+"When you get a lot of structures forming next to one another that are
+different but still have similar internal energies, you get a sort of
+frustration as the material tries to crystalize," said Eric Perim, a
+postdoctoral researcher working in the laboratory of Stefano Curtarolo,
+professor of mechanical engineering and materials science and director of the
+Center for Materials Genomics at Duke. "The material can't decide which
+crystalline structure it wants to converge to, and a metallic glass emerges.
+What we created is basically a measure of that confusion."
+
+To determine the likelihood of an alloy forming a glass, Curtarolo, Perim and
+their colleagues broke its chemistry down into numerous sections, each
+containing only a handful of atoms. They then turned to a prototype database
+to simulate the hundreds of structures each section could potentially take.
+
+Called the AFLOW library, the database stores information on atomic structures
+that are commonly observed in nature. Using these examples, the program
+computes what a novel combination of elements would look like with these
+structures. For example, the atomic structure of sodium chloride—better known
+as salt—may be used to build a potential structure for copper zirconium.
+
+These simulations produce estimations of characteristics for hundreds of
+structural forms that a material could take. One characteristic, called an
+atomic environment, looks at the geometrical arrangement of an atom's closest
+neighbors. Another calculates the amount of energy stored in each of these
+atomic structures.
+
+To determine the likelihood of an alloy forming a metallic glass, the program
+compares these two characteristics between the hundreds of different
+structures that could be found throughout the material. If groups of atoms
+near one another have similar energies, they want to form similar structures.
+But if the rapid cooling prevents this, a metallic glass emerges.
+
+"The big advantage to our work is that it's high-throughput, because doing
+this experimentally is way too time-consuming," said Cormac Toher, an
+assistant research professor in Curtarolo's laboratory. "You cannot check all
+compositions of all systems in the laboratory. That would literally take
+forever. The idea behind this is that we can screen a large number of
+materials in a couple of days and single out the most likely ones that should
+be checked out."
+
+The group then put their confusion-measuring program to the test to see if it
+could accurately predict metallic glasses that are already known. They were
+able to correctly identify 73 percent—a number they hope will improve as they
+continue to increase the structural information and simulations stored in
+their database.
+
+Based on their initial work, they believe about one-sixth of the alloys in
+their system should make metallic glass. That's more than 250 potential
+materials, of which only about a couple dozen have been discovered.
+
+"If you go to Venice you'll see people blowing bottles of glass," said
+Curtarolo. "You can do that with metallic glasses as well. You can make
+lightweight, very durable objects without any seams. But trying to scale these
+up is difficult. The larger the lump, the longer it takes its center to cool,
+and the more likely it is to form a normal crystalline structure. But there
+might be undiscovered chemical combinations that would be easier to work with,
+cost less, or have other, more desirable properties. We just have to figure
+out where to look for them."
+
+Besides refining their results for binary alloys, the researchers plan to
+extend their algorithm to alloys that contain three elements, as they are more
+likely to form glasses but are much more difficult and time-consuming to
+model. Their database, however, has only about one-tenth of the entries for
+these alloys as it does for binary alloys, so computer clusters around the
+world will first need to work for some time to come.
+
+This research was supported by the National Science Foundation (DMR-1436151,
+DMR-1436268, DMR-1435820).
+
+CITATION: "Spectral Descriptors for Bulk Metallic Glasses Based on the
+Thermodynamics of Competing Crystalline Phases." Eric Perim, Dongwoo Lee,
+Yanhui Liu, Cormac Toher, Pan Gong, Yanglin Li, W. Neal Simmons, Ohad Levy,
+Joost J. Vlassak, Jan Schroers and Stefano Curtarolo. Nature Communications,
+Aug. 2, 2016. DOI: 10.1038/NCOMMS12315
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Artemis I Moon Mission: Collaboration with Duke Researchers Sends Manikins
+to Measure Radiation
+
+November 17, 2022 | Michaela Kane
+
+Avatars 'Helga' and 'Zohar' will collect valuable data about radiation that
+astronauts are exposed to during spaceflight
+
+_Update: Artemis 1 successfully launched at 0647 GMT on Nov. 16, 2022, from
+Pad 39B at Kennedy Space Center (KSC) in Florida._
+
+_Originally published Sept. 7, 2022_
+
+When NASA’s Artemis I mission launches later this year, its crew will include
+Helga and Zohar, two manikin models designed in collaboration with Duke
+University.
+
+These models, called ‘phantoms’, are made of materials that mimic human bones,
+soft tissue and organs, and they’ll be fitted with sensors that will measure
+radiation exposure as they travel to the moon and back. Paul Segars and Ehsan
+Samei, both researchers at the Carl E. Ravin Advanced Imaging Laboratories at
+the Duke University School of Medicine, helped develop these phantoms using
+methods originally created to study how different medical procedures, tools
+and techniques precisely affect organs throughout the human body.
+
+> “What’s important when calculating risk to a patient—or to an astronaut—is
+> how much dose is received to individual organs such as the brain, heart,
+> liver and kidneys.”
+>
+> **Ehsan Samei** | Reed and Martha Rice Distinguished Professor of Radiology
+
+“Usually these ‘phantoms’ are virtual, and we use them to create avatars of
+patients. The goal of our work is that instead of conducting a clinical trial
+on human patients, you can use these avatars and run a simulated clinical
+trial through a computer,” explains Samei, the Reed and Martha Rice
+Distinguished Professor of Radiology. “With this project, we’ve made these
+virtual avatars into physical models to study radiation specifically, and this
+is the first time they’ll be sent around the moon.”
+
+People on earth are shielded from cosmic radiation by Earth’s atmosphere, but
+when astronauts travel through space, they enjoy no such protection.
+Understanding how to mitigate the harmful effects of these cosmic rays is one
+of the major hurdles for deep space travel to places like Mars, where
+astronauts would be exposed to radiation for up to 36 months.
+
+“What’s important when calculating risk to a patient or to an astronaut is not
+how much total radiation dose is received, but how much dose is received to
+individual organs such as the brain, heart, liver and kidneys,” said Samei.
+“Each organ has a different sensitivity to radiation, and our phantoms are
+providing a way for us to understand that risk better.”
+
+For the project, called the Matroshka AstroRad Radiation Experiment, or MARE,
+Segars and Samei collaborated with researchers at NASA, the German Aerospace
+Center, the Israeli Space Agency and CIRS to develop Helga and Zohar. The Duke
+researchers developed a computational algorithm to create a map of the
+interior anatomy of the phantoms, which was then used as a guide to precisely
+place thousands of radiation sensors.
+
+> Duke experts collaborated with researchers at NASA, the German Aerospace
+> Center, the Israeli Space Agency and CIRS
+
+Both the Helga and Zohar phantoms resemble human torsos, and they contain
+materials to specifically mimic the adult female anatomy, as female organs
+like the uterus and breast tissue are especially sensitive to radiation. When
+Artemis I launches, Helga will be wearing normal clothes, while Zohar will be
+fitted with a radiation vest, called AstroRad, which was developed by StemRad
+and Lockheed Martin.
+
+“The study will provide valuable data on radiation levels astronauts may
+encounter on lunar missions and evaluate the effectiveness of the protective
+vest that could allow the crew to stay in the storm shelter and continue
+working on critical mission activities in spite of a solar storm,” NASA said
+in a description of MARE.
+
+Once their phantoms return to Earth, the research team will measure the
+radiation collected in the sensors to determine the effectiveness of the
+safety vest. They’ll also use the data from Helga to specifically calculate
+the level of radiation that astronauts may face during different space
+missions, whether it’s a short trip to the moon or an adventure to Mars.
+
+“This is the first time anyone has been able to measure radiation levels
+astronauts face,” said Samei. “Artemis I will be carrying precious cargo, and
+the information we get from this crew will give us valuable information we
+need for the future of safe space exploration.”
+
+## Related News
+
+September 20, 2021 | Duke Research Blog
+
+### Introducing: The Duke Space Initiative
+
+August 12, 2021 | Magnify, Duke School of Medicine
+
+### Staying Healthy in Space
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

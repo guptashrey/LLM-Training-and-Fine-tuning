@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Tingjun Chen: Connecting Tomorrow’s Wireless World
+
+August 21, 2020 | By Ken Kingery
+
+New faculty member Tingjun Chen is developing technologies, designing
+algorithms and building systems that will enable next generation wireless
+networks
+
+Tingjun Chen will join the Department of Electrical and Computer Engineering
+at Duke University beginning August 1, 2021. With an interest in future
+wireless networks and Internet of Things (IoT) systems, Chen is working to
+develop an array of emerging technologies to improve data rates and
+reliability while lowering communication latency to enable a broad new class
+of real-time applications such as augmented reality, autonomous vehicles and
+smart intersections.
+
+## Tingjun Chen
+
+Assistant Professor of Electrical and Computer Engineering (August 1, 2021)
+
+**Hometown:** Shenzhen, China
+
+**Alma Maters:** Tsinghua University, Columbia University
+
+**Representative Publication:** T. Chen, M. Baraani Dastjerdi, J. Zhou, H.
+Krishnaswamy, and G. Zussman, “Wideband Full-Duplex Wireless via Frequency-
+Domain Equalization: Design and Experimentation,” in Proc. ACM MobiCom’19,
+2019. ACM MobiCom’19 Student Research Competition (SRC) Winner – First Place.
+DOI: 10.1145/3300061.3300138
+
+**Fun Facts:** Sneaker collector (at least 60 Air Jordans), NBA and college
+basketball fan, enjoys classical music and has played piano for 10+ years
+
+“My work connects theory with practice, trying to develop algorithms and build
+systems that take into account the unique characteristics of the underlying
+technologies,” said Chen, who recently defended his PhD dissertation at
+Columbia University under the mentorship of Gil Zussman, professor of
+electrical engineering and director of the Wireless and Mobile Networking
+(WiMNet) Lab. “This includes the rollout of 5G and beyond-5G systems featuring
+ultra-high bandwidth and ultra-low latency, as well as the massive
+connectivity between various kinds of IoT devices.”
+
+Chen has been highly involved in the Rutgers-Columbia-NYU NSF PAWR COSMOS
+project, which aims to develop and deploy a city-scale testbed for advanced
+wireless technologies within the complex urban environment of West Harlem in
+New York City.
+
+“An emerging technology that can significantly improve wireless data rates is
+millimeter-wave communications. While millimeter-wave signals can carry much
+more information than the radio waves used by WiFi and LTE, they also lose
+energy much more quickly over distance and have more trouble traveling through
+obstacles,” said Chen. “In collaboration with IBM, We’re deploying several
+first-of-their-kind programmable millimeter-wave radios, integrated with a
+high-bandwidth optical network and powerful edge servers, throughout a one-
+square-mile area of the city for researchers around the world to test their
+ideas on. Because as the Sinatra song says, if you can make it there (in New
+York City), you can make it anywhere.”
+
+## WHY DUKE?
+
+> "I really like Duke’s interdisciplinary focus from education to research and
+> I look forward to fruitful collaborations across different fields. I’m also
+> excited to bring various aspects of future wireless networks, which have
+> become an inseparable part of our everyday life, to Duke and the Research
+> Triangle Park."
+>
+> —Tingjun Chen
+
+Most of the “smart” technologies that we use every day send data to cloud
+servers, which process the information and send back results. These servers
+can be hundreds of miles away from us, however, limiting how quickly answers
+can be delivered. While this might suffice for smart speakers ordering
+household goods online, other applications such as autonomous vehicles and
+smart intersections need feedback as quickly as possible.
+
+Much of Chen’s research focuses on improving data rates employing emerging
+physical-layer technologies and bringing down these lag times for complex
+computations. For example, edge-cloud computing refers to data processing at
+the edge devices to provide results without having to send the data to a
+centralized server cluster.
+
+In another project, Chen seeks to build compact full-duplex radios. Current
+radios only operate in half-full mode, sending and receiving information
+either on separate frequency channels or in alternative time slots. Full-
+duplex radios, however, can transmit and receive on a single frequency, which
+can double the spectrum efficiency and reduce the communication latency at the
+physical layer. But when radios try to do this, a huge amount of self-
+interference—usually millions to trillions times stronger than the desired
+signal—leaks from the transmitter into its receiver.
+
+“It’s like when I’m speaking, I’m jamming my ears with my own voice,” said
+Chen. “I have researched technologies and built compact full-duplex radios
+that can subtract the self-interference signal so that the desired signal can
+be successfully picked up. Our full-duplex radios have also been made open-
+source and integrated in the open-access COSMOS testbed, and now researchers
+from around the world are using this resource for research in this area.”
+
+Chen is also working to achieve the highest possible data rates for ultra-low-
+power IoT devices. One potential application is for active tags that can
+harvest energy from the environment and communicate with one another. In an
+environment like a smart supermarket or warehouse, a system featuring many
+such devices could quickly identify and locate misplaced items and put them
+back where they’re supposed to be.
+
+While Chen has many collaborators that work on the hardware for these sorts of
+technologies, he is primarily focused on the cross-layer aspects of future
+wireless networks. That is, developing algorithms and building systems that
+allow everyday devices to have faster radio access links and to run various
+real-time applications.
+
+In coming to Duke, Chen sees two unique resources that could potentially
+further his work. One is the Duke Smart Home—a live-in laboratory where
+students conduct long-term experiments in sustainability. Chen says the
+gardens there might help him pursue a developing plan for in-ground, low-power
+sensor networks for smart agriculture and farming applications. He’s also
+eager to work with the Duke Office of Information Technology on various
+wireless and optical systems.
+
+“Duke has one of the largest campus networks in the United States,” said Chen.
+“I’d be very excited to work with OIT to actually bring some of the emerging
+wireless technologies I’m working on to Duke’s campus network.”
+
+Once on campus, Chen won’t have any trouble getting around, seeing as his
+sneaker collection features more than 60 Air Jordans. A big fan of the North
+Carolina legend, as well as recent Duke star Zion Williamson, Chen is looking
+forward to walking the storied halls of Cameron Indoor Stadium and watching
+some marquee basketball matchups on campus.
+
+“I just defended my PhD dissertation, and I’m about to start my postdoc
+position working with Professors Leandros Tassiulas and Lin Zhong at Yale,”
+said Chen. “I hope to branch out my research portfolio a little bit in the
+time I have before I arrive at Duke. For example I’m learning how quantum
+computers are controlled by microwave signals. That way, when I arrive I will
+have more ideas on my research and who I can seek out for new collaborations.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

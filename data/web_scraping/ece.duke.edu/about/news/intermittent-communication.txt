@@ -1,0 +1,184 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Drones Collaboratively Explore Scenarios with Limited Communications
+
+December 4, 2018 | By Ken Kingery
+
+Researchers develop algorithms for teams of drones to collaboratively explore
+new terrain while falling in and out of communication with one another
+
+Communication is key for any team trying to collaboratively complete a task,
+whether it is comprised of people or autonomous robots. But while people can
+use intuition and experience to manage unforeseen circumstances, a robot
+cannot operate outside of its programming.
+
+For many squadrons of drones operating in the field—perhaps scouting for a
+radiation leak in a nuclear facility with thick concrete walls or mapping
+miles of ocean floor—remaining in constant contact is impossible. Their
+programming, then, must be able to adapt to challenges such as a changing
+operational area or sudden loss of communications.
+
+Michael Zavlanos, the Mary Milus Yoh and Harold L. Yoh, Jr. Associate
+Professor at Duke University, is working on intermittent communication
+protocols that allow robots to temporarily disconnect from each other to
+autonomously operate in such difficult terrains.
+
+“By disconnecting from the network, the robots can cover different areas free
+of communication constraints,” said Zavlanos. “The goal is to ensure that they
+will always eventually reconnect at properly negotiated meeting locations to
+transfer information between one another.”
+
+But what happens when a robot doesn’t arrive at a communication point at the
+scheduled time? Do the other robots wait forever? If just a few things go
+wrong at once, the entire system can deadlock with robots waiting for each
+other at different locations.
+
+To get around this issue, Zavlanos programs his squadron of robots in a way
+that they can tolerate uncertainty in the arrival times at the communication
+locations. In this way, communication events are guaranteed to take place and
+information can eventually propagate from any robot to any other robot in the
+team in an intermittent way. While this problem may seem simple for small
+teams of just a few robots, it quickly becomes daunting when scaling up to
+dozens of drones or more.
+
+“The question we’re really trying to answer is which robots should communicate
+where and when so that information can be propagated indefinitely,” said
+Zavlanos. “We also want these robots to design these sequences of
+communication events in a distributed way using only local information, even
+though they are essentially disconnected from each other most of the time.”
+
+Zavlanos’s current work involves four autonomous ground robots searching for
+four different colored stars, which represent important pieces of information.
+The simulation also includes various marked locations for potential
+communication. As they work through their search pattern and communicate with
+one another, eventually one robot gathers all four stars and returns them to
+the user.
+
+“In this specific experiment, the robots already know in advance what tasks
+they need to accomplish,” said Zavlanos. “But we’re also working on an
+adaptive version where the tasks are announced in real-time, and the robots
+must plan new search paths while simultaneously ensuring that their
+communication protocols remain intact.”
+
+CITATIONS: Y. Kantaros and M. M. Zavlanos, “Distributed Intermittent
+Connectivity Control of Mobile Robot Networks,” IEEE Transactions on Automatic
+Control, vol. 62, no. 7, pp. 3109-3121, Jul. 2017
+
+M. Guo and M. M. Zavlanos, “Multi-Robot Data Gathering under Buffer
+Constraints and Intermittent Communication,” IEEE Transactions on Robotics,
+Vol. 34, No. 4, pp. 1082-1097, August 2018.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

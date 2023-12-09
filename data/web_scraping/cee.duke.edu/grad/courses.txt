@@ -1,0 +1,557 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. The Duke Difference
+        1. Why Duke for CEE?
+        2. Enrollment and Graduation Rates
+        3. Where Our Students Go
+
+      2. Degree Options
+        1. Civil Eng Degree Planning
+        2. Civil Eng Study Tracks
+        3. Env. Eng Degree Planning
+        4. Dual Majors
+        5. Certificates
+        6. 4+1: BSE+Master's
+
+      3. For Current Students
+        1. Courses
+        2. Research & Independent Study
+        3. Outreach & Service Learning
+        4. Senior Design Capstone
+        5. Internships & Career Planning
+        6. Graduation with Distinction
+
+  * Graduate
+    *       1. The Duke Difference
+        1. Degree Options
+        2. Scholarships & Financial Support
+        3. Graduate Study Tracks
+        4. Graduate Certificates
+        5. Course Descriptions
+
+      2. Master's Study
+        1. Master of Science in CEE
+        2. Civil Engineering
+        3. Computational Mechanics and Scientfic Computing
+        4. Environmental Engineering
+        5. Risk Engineering
+        6. Career Services
+        7. Career Outcomes
+
+      3. PhD
+        1. Meet Our Students
+        2. PhD Career Outcomes
+
+      4. For Current Students
+  * Research
+    *       1. Overview
+      2. Research News
+      3. Computational Mechanics & Scientific Computing
+      4. Environmental Health Engineering
+      5. Geomechanics & Geophysics for Energy and the Environment
+      6. Hydrology & Fluid Dynamics
+      7. Risk & Resilient Systems
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * About
+    *       1. Facts & Stats
+      2. Meet the Chair
+      3. Serving a Global Society
+      4. Advisory Board
+      5. Alumni
+      6. Awards & Honors
+      7. News
+        1. Media Coverage
+        2. Email Newsletter
+        3. Duke CEE Magazine
+
+      8. Events
+        1. Seminars
+
+# Graduate Course Descriptions
+
+## Breadcrumb
+
+  1. Home
+  2. Graduate
+
+_Note: Duke CEE graduate students may also take courses from other engineering
+departments within Duke's Pratt School of Engineering and from other
+professional schools at Duke with the permission of their advisor and the
+Director of Graduate Studies._
+
+**CEE 307(207). Transport Phenomena in Biological Systems.** An introduction
+to the modeling of complex biological systems using principles of transport
+phenomena and biochemical kinetics. topics include the conservation of mass
+and momentum using differential and integral balances; rheology of Newtonian
+and non-Newtonian fluids; steady and transient diffusion in reacting systems;
+dimensional analysis; homogeneous versus heterogeneous reaction systems.
+Biomedical and Biotechnological applications are discussed. Instructor: Katz,
+Truskey, or Yuan. 3 units. C-L: see Biomedical Engineering 307(207); also C-L:
+Mechanical Engineering and Materials Science 307(207).
+
+### Registration Links
+
+  * Duke Hub
+  * Registrar's Schedule of Courses
+  * Academic Calendar
+  * Graduate Bulletin
+  * Inter-Institutional Registration
+  * Course Withdrawal Form
+  * Registrar's Office
+  * Sakai
+
+**CEE 520(201). Continuum Mechanics.** Tensor fields and index notation.
+Analysis of states of stress and strain. Conservation laws and field
+equations. Constitutive equations for elastic, viscoelastic, and elastic-
+plastic solids. Formulation and solution of simple problems in elasticity,
+viscoelasticity, and plasticity. Instructors: Hueckel, or Nadeau. 3 units.  
+  
+**CEE 521(206). Elasticity.** Linear elasticity will be emphasized including
+concepts of stress and strain as second order tensors, equilibrium at the
+boundary and within the body, and compatibility of strains. Generalized
+solution to two and three dimensional problems will be derived and applied to
+classical problems including torsion of noncircular sections, bending of
+curved beams, stress concentrations and contact problems. Applications of
+elasticity solutions to contemporary problem in civil and biomedical
+engineering will be discussed. 3 units. C-L: see Biomedical Engineering
+526(206). ****
+
+**CEE 525(272). Wave Propagation in Elastic and Poroelastic Media.** Basic
+theory, methods of solution, and applications involving wave propagation in
+elastic and poroelastic media. Analytical and numerical solution of
+corresponding equations of motion. Linear elasticity and viscoelasticity as
+applied to porous media. Effective medium, soil/rock materials as composite
+materials. Gassmann's equations and Biot's theory for poroelastic media.
+Stiffness and damping characteristics of poroelastic materials. Review of
+engineering applications that include NDT, geotechnical and geophysical case
+histories. Prerequisite: Mathematics 353(108) or consent of instructor.
+Instructor: Boadu. 3 units.
+
+**CEE 530(254). Introduction to the Finite Element Method.** Investigation of
+the finite element method as a numerical technique for solving linear ordinary
+and partial differential equations, using rod and beam theory, heat
+conduction, elastostatics and dynamics, and advective/diffusive transport as
+sample systems. Emphasis placed on formulation and programming of finite
+element models, along with critical evaluation of results. Topics include:
+Galerkin and weighted residual approaches, virtual work principles,
+discretization, element design and evaluation, mixed formulations, and
+transient analysis. Prerequisites: a working knowledge of ordinary and partial
+differential equations, numerical methods, and programming in FORTRAN.
+Instructor: Dolbow and Laursen. 3 units.
+
+**CEE 541(283). Structural Dynamics.** Formulation of dynamic models for
+discrete and continuous structures; normal mode analysis, deterministic and
+stochastic responses to shocks and environmental loading (earthquakes, winds,
+and waves); introduction to nonlinear dynamic systems, analysis and stability
+of structural components (beams and cables and large systems such as offshore
+towers, moored ships, and floating platforms). Instructor: Gavin. One course.
+
+**CEE 560(208). Environmental Transport Phenomena.** Introduction to
+environmental modeling, fluid flow and mass and heat transfer. Conservation
+principles in the atmosphere and bodies of water, fundamental equations for
+transport in the atmosphere and bodies of water, scaling principles,
+simplification, turbulence, turbulent transport, Lagrangian transport,
+applications to transport of particles in water, from volcanoes and stacks,
+case studies: volcanic eruption, Chernobyl accident, forest fires and Toms
+River power plant emission. Instructor: Wiesner. 3 units.  
+  
+ **CEE 561(242). Environmental Aquatic Chemistry.** Principles of chemical
+equilibria and kinetics applied to quantitative description of the chemistry
+of lakes, rivers, oceans, groundwater, and selected treatment processes.
+Equilibrium and steady state models applied to processes such as acid-base
+chemistry, the carbonate system, coordination chemistry, precipitation and
+dissolution, oxidation-reduction, and adsorption. Instructor: Hsu-Kim. 3
+units.  
+  
+ **CEE 562(244). Biological Processes in Environmental Engineering.**
+Biological processes as they relate to environmental systems, including
+wastewater treatment and bioremediation. Concepts of microbiology, chemical
+engineering, stoichemistry, and kinetics of complex microbial metabolism, and
+process analyses. Specific processes discussed include carbon oxidation,
+nitrification/denitrification, phosphorus removal, methane production, and
+fermentation. Consent of instructor required. Instructor: Deshusses. 3 units.
+
+**CEE 563(240). Chemical Fate of Organic Compounds.** Equilibrium, kinetic and
+analytical approaches applied to quantitative description of processes
+affecting the distribution and fate of anthropogenic and natural organic
+compounds in surface and groundwater, including chemical transfers between
+air, water, soils/ sediments, and biota; and thermochemical and photochemical
+transformations. The relationships between organic compound structure and
+environmental behavior will be emphasized. Sampling, detection, identification
+and quantification of organic compounds in the environment. Prerequisites:
+university-level general chemistry and organic chemistry within last four
+years. Instructors: Stapleton. 3 units. C-L: see Environment 540(240)  
+  
+ **CEE 564(241). Physical-Chemical Processes In Environmental Engineering.**
+Principles of surface chemistry, particle and solute separation, and
+oxidation/ disinfection, gas tranfer, precipitation, adsorption, membrane
+processes. Applications to potable water treatment, fuel cells, photovoltaics,
+treatment of aqueous streams in energy production, hazardous waste treatment
+and ground water remediation. Prerequisites: Environmental Transport Phenomena
+recommended, but not required. introductory environmental engineering,
+chemistry, or permission of instructor. Instructor: Wiesner. 3 units.
+
+**CEE 566(250). Environmental Microbiology.** Fundamentals of microbiology and
+biochemistry as they apply to environmental engineering. General topics
+include cell chemistry, microbial metabolism, bioenergetics, microbial ecology
+and pollutant biodegradation. Prerequisites: CE 462L(124L) or graduate
+standing or consent of the instructor. Instructor: Gunsch. 3 units.
+
+**CEE 575(247). Air Pollution Control Engineering.** The problems of air
+pollution with reference to public health and environmental effects.
+Measurement and meteorology. Air pollution control engineering: mechanical,
+chemical, and biological processes and technologies. Instructor: Khlystov. 3
+units.
+
+**CEE 581(245). Pollutant Transport Systems.** Distribution of pollutants in
+natural waters and the atmosphere; diffusive and advective transport phenomena
+within the natural environment and through artificial conduits and
+storage/treatment systems. Analytical and numerical prediction methods.
+Prerequisites: Civil Engineering 301L(122L) and Mathematics 353(108) or
+equivalents. Instructor: Medina. 3 units.
+
+**CEE 585(260). Vadose Zone Hydrology.** Transport of fluids, heat, and
+contaminants through unsaturated porous media. Understanding the physical laws
+and mathematical modeling of relevant processes. Field and laboratory
+measurements of moisture content and matric potential. Prerequisites: Civil
+Engineering 301L(122L) and Mathematics 353(108), or consent of instructor.
+Instructor: Kabala. 3 units.
+
+**CEE 621(203). Plasticity.** Inelastic behavior of soils and engineering
+materials. Yield criteria. Flow rules. Concepts of perfect plasticity and
+plastic hardening. Methods of rigid-plasticity. Limit analysis. Isotropic and
+kinematic hardening. Plastic softening. Diffused damage. Thermo-plasticity.
+Visco-plasticity. Prerequisite: Civil Engineering 520(201) or consent of
+instructor. Instructor: Hueckel. 3 units.  
+  
+ **CEE 622(212). Fracture Mechanics.** Theoretical concepts concerning the
+fracture and failure of brittle and ductile materials. Orowan and Griffith
+approaches to strength. Determination of stress intensity factors using
+compliance method, weight function method, and numerical methods with
+conservation laws. Cohesive zone models, fracture toughness, crack growth
+stability, and plasticity. Prerequisites: CE 520(201) or instructor consent.
+Instructor: Dolbow. 3 units.  
+  
+ **CEE 623(205). Mechanics of Composite Materials.** Theory and application of
+effective medium, or homogenization, theories to predict macroscopic
+properties of composite materials based on microstructural characterizations.
+Effective elasticity, thermal expansion, moisture swelling, and transport
+properties, among others, are presented along with associated bounds such as
+Voigt/Reuss and Hashin-Shtrikman. Specific theories include Eshelby, Mori-
+Tanaka, Kuster-Toksoz, self-consistent, generalized self-consistent,
+differential method, and composite sphere and cylinder assemblages. Tensor-to-
+matrix mappings, orientational averaging, and texture analysis. Composite
+laminated plates, environmentally induced stresses, and failure theories.
+Prerequisite: Civil Engineering 520(201) or consent of instructor. Instructor:
+Nadeau. 3 units.
+
+**CEE 625(210). Intermediate Dynamics.** Comprehensive treatment of the
+dynamic motion of particles and rigid bodies with an introduction to nonlinear
+dynamics and the vibration of continuous systems. Topics include: conservation
+of linear and angular momentum, superposition applied to linear systems,
+motion in inertial and noninertial frames of reference, Hamilton's principle
+and Langrange's equations, and generalized coordinates. Instructor: Hall or
+Knight. 3 units. C-L: see Mechanical Engineering and Materials Science
+541(210).
+
+**CEE 626(211). Energy Flow and Wave Propagation in Elastic Solids.**
+Derivation of equations for wave motion in simple structural shapes: strings,
+longitudinal rods, beams and membranes, plates and shells. Solution
+techniques, analysis of systems behavior. Topics covered include:
+nondispersive and dispersive waves, multiple wave types (dilational,
+distortion), group velocity, impedance concepts including driving point
+impedances and moment impedances. Power and energy for different cases of wave
+propagation. Prerequisites: Engineering 244L(123L) and Mathematics 353(108) or
+consent of instructor. Instructor: Franzoni. 3 units. C-L: Mechanical
+Engineering and Materials Science 543(234) **.**
+
+**CEE 630(255). Nonlinear Finite Element Analysis.** Formulation and solution
+of nonlinear initial/boundary value problems using the finite element method.
+Systems include nonlinear heat conduction/diffusion, geometrically nonlinear
+solid and structural mechanics applications, and materially nonlinear systems
+(for example, elastoplasticity). Emphasis on development of variational
+principles for nonlinear problems, finite element discretization, and
+equation-solving strategies for discrete nonlinear equation systems. Topics
+include: Newton-Raphson techniques, quasi-Newton iteration schemes, solution
+of nonlinear transient problems, and treatment of constraints in a nonlinear
+framework. An independent project, proposed by the student, is required.
+Prerequisite: Civil Engineering 530(254) or consent of instructor. Instructor:
+Laursen. 3 units.
+
+**CEE 635(256). Computational Methods for Evolving Discontinuities.** Presents
+an overview of advanced nomenical methods for the treatment of engineering
+problems such as brittle and ductile failure and solid-liquid phase
+transformations in pure substances. Analytical methods for arbitrary
+discontinuities and interfaces are reviewed, with particular attention to the
+derivation of jump conditions. Partition of unity and level set methods.
+Prerequisites: CE 530(254), CE 630(255), or instructor consent. Instructor:
+Dolbow. 3 units.
+
+**CEE 641(237). Advanced Soil Mechanics.** Characterization of behavior of
+geomaterials. Stress strain incremental laws. Nonlinear elasticity, hypo-
+elasticity, plasticity and viscoplasticity of geomaterials; approximated laws
+of soil mechanics; fluid-saturated soil behavior; cyclic behavior of soils;
+liquefaction and cyclic mobility; elements of soil dynamics; thermal effects
+on soils. Prerequisite: Civil Engineering 302L(139L) or equivalent.
+Instructor: Hueckel. 3 units.  
+  
+ **CEE 642(238). Environmental Geomechanics.** The course addresses engineered
+and natural situations, where mechanical and hydraulic properties of soils and
+rocks depend on environmental (thermal chemical, biological) processes.
+Experimental findings are reviewed, and modeling of coupled thermo-mechanical,
+chemo-mechanical technologies are reviewed. Instructor: Hueckel. 3 units.  
+  
+ **CEE 643(270). Environmental and Engineering Geophysics.** Use of
+geophysical methods for solving engineering and environmental problems.
+Theoretical frameworks, techniques, and relevant case histories as applied to
+engineering and environmental problems (including groundwater evaluation and
+protection, siting of landfills, chemical waste disposals, roads assessments,
+foundations investigations for structures, liquefaction and earthquake risk
+assessment). Introduction to theory of elasticity and wave propagation in
+elastic and poroelastic media, electrical and electromagnetic methods, and
+ground penetrating radar technology. Prerequisite: Mathematics 353(108) or
+Physics 152L(62L) or consent of instructor. Instructor: Boadu. 3 units.  
+  
+ **CEE 644(271). Inverse Problems in Geosciences and Engineering.** Basic
+concepts, theory, methods of solution, and application of inverse problems in
+engineering, groundwater modeling, and applied geophysics. Deterministic and
+statistical frameworks for solving inverse problems. Strategies for solving
+linear and nonlinear inverse problems. Bayesian approach to nonlinear inverse
+problems. Emphasis on the ill-posed problem of inverse solutions. Data
+collection strategies in relation to solution of inverse problems. Model
+structure identification and parameter estimation procedures. Prerequisite:
+Mathematics 353(108) or consent of instructor. Instructor: Boadu. 3 units.
+
+**CEE 647(252). Buckling of Engineering Structures.** An introduction to the
+underlying concepts of elastic stability and buckling, development of
+differential equation and energy approaches, buckling of common engineering
+components including link models, struts, frames, plates, and shells.
+Consideration will also be given to inelastic behavior, postbuckling, and
+design implications. Prerequisite: Civil Engineering 421L(131L) or consent of
+instructor. Instructor: Virgin. 3 units. C-L: Mechanical Engineering and
+Materials Science 527(252).
+
+**CEE 661L(239L). Environmental Molecular Biotechnology (GE, MC).** Principles
+of genetics and recombinant DNA for environmental systems. Applications to
+include genetic engineering for bioremediation, DGGE, FISH, micro-arrays and
+biosensors. Laboratory exercises to include DNA isolation, amplification,
+manipulation and analysis. Prerequisites: CE 462L(124L)/BIO 201L(25) or
+consent of the instructor. Instructor: Gunsch. 3 units. C-L: Biomedical
+Engineering 565L(240L).  
+  
+ **CEE 676(269). Fundamentals and Applications of Advanced Physical-Chemical
+Processes in Environmental Systems.** Fundamental basis for design of
+membranes systems, applications of environmental nanotechnology, advanced
+oxidation, principles of surface chemistry and photcatalysis. Prerequisites:
+CE 564(241) or consent of instructor. Instructor: Wiesner. One course.
+
+**CEE 683(227). Groundwater Hydrology and Contaminant Transport.** Review of
+surface hydrology and its interaction with groundwater. The nature of porous
+media, hydraulic conductivity, and permeability. General hydrodynamic
+equations of flow in isotropic and anisotropic media. Water quality standards
+and contaminant transport processes: advective-dispersive equation for solute
+transport in saturated porous media. Analytical and numerical methods,
+selected computer applications. Deterministic versus stochastic models.
+Applications: leachate from sanitary landfills, industrial lagoons and ponds,
+subsurface wastewater injection, monitoring of groundwater contamination.
+Conjunctive surface-subsurface models. Prerequisite: Civil Engineering
+463L(123L) or consent of instructor. Instructor: Medina. 3 units.
+
+**CEE 684(224). Physical Hydrology and Hydrometeorology.** The objective of
+this course is to introduce and familiarize graduate students with the
+fundamental physical processes in Hydrology and Hydrometeorology that control
+and modulate the pathways and transformations of water in the environment. The
+content of the course will be strongly oriented toward providing students with
+a specific basis for quantitative analysis of the terrestrial water cycle
+including land-atmosphere interactions and clouds and precipitation (rain and
+snow) processes. The course should be of interest to undergraduate and
+graduate students interested in Environmental Science and Engineering, and
+Atmospheric and Earth Sciences.  
+  
+ **CEE 686(220). Ecohydrology.** Provides the theoretical basis for
+understanding the interaction between hydrologic cycle, vegetation, and soil
+biogeochemistry. This is key for a proper management of soil, and water
+resources and terrestrial ecosystems especially in view of the possible
+intensification and alteration of the hydrologic regime due to climate change.
+The course begins with a review of probability and stochastic processes, with
+special attention to marked-Poisson processes for daily rainfall modeling,
+followed by an analysis of the soil water balance and the probabilistic theory
+of soil moisture dynamics. Finally, the main hydrologic controls on soil
+biogeochemical cycles and issues related to the ecohydrology of managed
+ecosystems are discussed. Prerequisites: Civil Engineering 463L(123L) and
+Engineering 305(115) or equivalent. Instructor: Porporato. 3 units.  
+  
+ **CEE 690(265). Advanced Topics in Civil and Environmental Engineering.**
+Opportunity for study of advanced subjects relating to programs within the
+civil and environmental engineering department tailored to fit the
+requirements of individuals or small groups. Instructor: Staff. Variable
+credit.
+
+**CEE 701(301). Graduate Colloquium.** Current topics in civil and
+environmental engineering theory and practice. Weekly seminar series.
+Instructor: Staff. 0 units.  
+  
+ **CEE 702(302). Graduate Colloquium.** Current topics in civil and
+environmental engineering theory and practice. Weekly seminar series.
+Instructor: Staff. 0 units.
+
+**CEE 890(399). Special Readings in Civil and Environmental Engineering.**
+Special individual readings in a specific area of study in civil and
+environmental engineering. Approval of director of graduate studies required.
+1 to 3 units. Instructor: Graduate faculty. Variable credit.
+
+## Other Courses Accepted by the Department
+
+**STA 611(213). Introduction to Statistical Methods.** Emphasis on classical
+techniques of hypothesis testing and point and interval estimation, using the
+binomial, normal, t, F, and chi-square distributions. Not open to students who
+have had Statistical Science 250(114) or Mathematics 342(136). Prerequisite:
+Mathematics 212(103) (may be taken concurrently) or equivalent, or consent of
+instructor.
+
+**MATH 551(211). Applied Partial Differential Equations and Complex
+Variables.** Initial and boundary value problems for the heat and wave
+equations in one and several dimensions. Fourier series and integrals,
+eigenvalue problems. Laplace transforms, solutions via contour integration,
+and elementary complex variables. Solutions via Green's functions. Intended
+for applied math students and students in science and engineering.
+Prerequisite: Mathematics 216(107) and 353(108) or the equivalent.
+
+**MATH 541(216). Applied Stochastic Processes.** An introduction to stochastic
+processes without measure theory. Topics selected from: Markov chains in
+discrete and continuous time, queuing theory, branching processes,
+martingales, Brownian motion, stochastic calculus. Prerequisite: Mathematics
+230(135) or equivalent.
+
+**MATH 561(224). Scientific Computing.** Structured scientific programming in
+C/C++ and FORTRAN. Floating point arithmetic and interactive graphics for data
+visualization. Numerical linear algebra, direct and iterative methods for
+solving linear systems, matrix factorizations, least squares problems and
+eigenvalue problems. Iterative methods for nonlinear equations and nonlinear
+systems, Newton's method. Prerequisite: Mathematics 212(103) and 230(104).
+
+**MATH 577(229). Mathematical Modeling.** Formulation and analysis of
+mathematical models in science and engineering. Emphasis on case studies; may
+include individual or team research projects.
+
+**ME 631(226). Intermediate Fluid Mechanics.** A survey of the principal
+concepts and equations of fluid mechanics, fluid statics, surface tension, the
+Eulerian and Lagrangian description, kinematics, Reynolds transport theorem,
+the differential and integral equations of motion, constitutive equations for
+a Newtonian fluid, the Navier-Stokes equations, and boundary conditions on
+velocity and stress at material interfaces.
+
+**ME 632(227). Advanced Fluid Mechanics.** Flow of a uniform incompressible
+viscous fluid. Exact solutions to the Navier-Stokes equation. Similarity
+methods. Irrotational flow theory and its applications. Elements of boundary
+layer theory. Prerequisite: Mechanical Engineering 631(226) or consent of
+instructor.
+
+**ENVIRON 564(282). Biogeochemistry.** Processes controlling the circulation
+of carbon and biochemical elements in natural ecosystems and at the global
+level, with emphasis on soil and surficial processes. Topics include human
+impact on and social consequences of greenhouse gases, ozone, and heavy metals
+in the environment. Prerequisite: Chemistry 101DL(31L) or equivalent.
+
+**ENVIRON 710(210). Applied Data Analysis for Environmental Sciences.**
+Graphical and exploratory data analysis; modeling, estimation, and hypothesis
+testing; analysis of variance; random effect models; nested models; regression
+and scatterplot smoothing; resampling and randomization methods. Concepts and
+tools involved in data analysis. Special emphasis on examples drawn from the
+biological and environmental sciences. Students to be involved in applied work
+through statistical computing using software, often S-plus, which will
+highlight the usefulness of exploratory methods of data analysis. Other
+software, such as SAS, may be introduced.
+
+____
+
+## Join our mailing list!
+
+Sign up to receive more information about Duke Engineering graduate programs
+and recruitment events »
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * The Duke Difference
+      * Why Duke for CEE?
+      * Enrollment and Graduation Rates
+      * Where Our Students Go
+    * Degree Options
+      * Civil Eng Degree Planning
+      * Civil Eng Study Tracks
+      * Env. Eng Degree Planning
+      * Dual Majors
+      * Certificates
+        * Architectural Engineering
+        * Global Development
+        * Energy & The Environment
+      * 4+1: BSE+Master's
+    * For Current Students
+      * Courses
+      * Research & Independent Study
+      * Outreach & Service Learning
+      * Senior Design Capstone
+      * Internships & Career Planning
+      * Graduation with Distinction
+  * Graduate
+    * The Duke Difference
+      * Degree Options
+      * Scholarships & Financial Support
+      * Graduate Study Tracks
+      * Graduate Certificates
+      * Course Descriptions
+    * Master's Study
+      * Master of Science in CEE
+      * Civil Engineering
+      * Computational Mechanics and Scientfic Computing
+      * Environmental Engineering
+      * Risk Engineering
+      * Career Services
+      * Career Outcomes
+    * PhD
+      * Meet Our Students
+      * PhD Career Outcomes
+    * For Current Students
+  * Research
+    * Overview
+    * Research News
+    * Computational Mechanics & Scientific Computing
+    * Environmental Health Engineering
+    * Geomechanics & Geophysics for Energy and the Environment
+    * Hydrology & Fluid Dynamics
+    * Risk & Resilient Systems
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * About
+    * Facts & Stats
+    * Meet the Chair
+    * Serving a Global Society
+    * Advisory Board
+    * Alumni
+    * Awards & Honors
+    * News
+      * Media Coverage
+      * Email Newsletter
+      * Duke CEE Magazine
+    * Events
+      * Seminars
+        * Past Seminars
+

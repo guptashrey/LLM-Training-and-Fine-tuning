@@ -1,0 +1,253 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » DukEngineer Magazine » DukEngineer Magazine 2017
+
+# A Leviathan Lurking in the Foundry
+
+May 26, 2017
+
+Duke's first student Robosub in nearly a decade competes in an international
+competition
+
+On a sunny July day, Austin McKee E'17 frantically types out code under a
+towel that keeps the glare of the bright San Diego sun off of his laptop
+screen. Will Stewart E'18 has just reassembled the aluminum and plastic robot
+that McKee now programs in a tent next to a pool larger than a football field.
+This is the U.S. Navy's TRANSDEC facility, home of the annual Association for
+Unmanned Vehicle Systems International (AUVSI) RoboSub competition. Meanwhile,
+Kelsey Evezich E'17 works out the final pieces of a sonar algorithm, while
+Sameer Khan E'19 designs and 3D prints some parts that have broken and need
+replacing. All in a day's work at RoboSub.
+
+AUVSI RoboSub is a robotics competition in which student-designed robots try
+to best complete an underwater obstacle course. These robots take on
+underwater obstacles ranging from navigating through a field goal, to opening
+a box underwater and dropping a payload inside, to locating an object emitting
+ultrasonic pulses. Robots in the competition are fully autonomous— there are
+no drivers. Once the competition has begun, the robots must rely on their
+sensors and programming to complete the course, with no human input allowed.
+The difficulty of implementing the artificial intelligence (AI) required to
+complete such an obstacle course and the challenging design constraints of an
+underwater vehicle make it one of the foremost college-level technical
+challenges in the world.
+
+## Preparations at Pratt
+
+Saturday mornings and Wednesday nights, the Foundry is bustling with budding
+roboticists. While the club's lab in the Foundry is almost twice as large as
+the lab it was housed in before kicking off RoboSub in 2014, the room is still
+packed with people, machines and tools. The hardware teams' work spans the
+entirety of the space, and the software teams overflow into the Foundry's
+shared work area downstairs. Duke Robotics Club has become an opportunity for
+students all across Duke—Pratt, Trinity, ME, ECE, CS and Math—to innovate the
+future of unmanned vehicles and AI.
+
+The club is split up into four teams—mechanical, electrical, software and
+deployment—each contributing a vital component to the final product. The
+mechanical team is responsible for designing and building the robot's chassis:
+its frame, waterproof capsules and actuators. At this meeting, Nikhil Ravi
+E'20 is designing and simulating parts for a future design with CAD software,
+while Trishul Nagellani E'20 files down an aluminum bracket that he has just
+finished machining. Over at the electrical team's lab benches, the work is
+similarly varied, as the Electronics team is responsible for all sensing,
+computation and power delivery systems. Jeremy Morgan E'20 solders resistors
+onto a protoype board, carefully inspecting his workmanship after each solder
+joint is completed. Neil Dhar E'20 has one of the robot's several cameras
+hooked up to an oscilloscope as he analyzes the impact of the robot's
+waterproof connectors on the camera's signal.
+
+But while the mechanical and electronics teams seemingly have the biggest role
+in the construction of a competition- worthy RoboSub, the less visible
+contributions of the Software and Testing teams are what make the RoboSub
+really come to life. Ramil Shaymardanov E'20 writes code that will improve the
+interface used to check on the robot during testing. Meanwhile, Samadwara
+Reddy T'17 sits at a whiteboard deriving the controls algorithm that will be
+used to better determine how quickly to run each thruster to achieve a desired
+position in the water, as Morton Mo E'19 stands by, ready to help implement
+the mathematically-proven result. Raiyan Sobhan E'17 and Mark Chen E'17, leads
+of the deployment team, look on, devising methods to collect the data that
+will train Reddy's algorithms. Competing in San Diego
+
+## Competing in San Diego
+
+After a year of preparations to get the club ready for the most intense
+student-led design process in its history, and then another year in active
+development, Leviathan, Duke's first new Robosub in almost a decade, was
+completed this past summer. Leviathan was loaded onto a pallet with tools and
+shipped off to San Diego, where a group of the most involved robotics club
+members had flown out to meet it. With the competition starting in only a few
+days, the team set out to test their robot in the actual competition
+environment for the first time. After arriving Saturday and spending the next
+three days troubleshooting new issues, the semi-final qualification round
+loomed closer, with the robot still suffering from debilitating software
+problems. Worse, the prolonged software testing was starting to take its toll
+on the hardware, causing an electronics fire during a particularly strenuous
+underwater test. The team was able to get the robot working just well enough
+to qualify, going straight back to work once qualification had bought some
+more time. On the second day of the semi-finals, the mood in the Duke Robotics
+Club tent at the Navy's TRANSDEC facility was tense. The day before, the first
+round of a "best of two" semifinal competition, Leviathan sat motionless in
+the water as it was supposed to be competing; due to a glitch, the autonomous
+motion planning routine was never activated. With all the pressure on the
+second day, Leviathan passed through the field goal, grazing the colored buoy
+array, before passing through the channel and surfacing just outside of
+
+After arriving Saturday and spending the next three days troubleshooting new
+issues, the semi-final qualification round loomed closer, with the robot still
+suffering from debilitating software problems. Worse, the prolonged software
+testing was starting to take its toll on the hardware, causing an electronics
+fire during a particularly strenuous underwater test. The team was able to get
+the robot working just well enough to qualify, going straight back to work
+once qualification had bought some more time. On the second day of the semi-
+finals, the mood in the Duke Robotics Club tent at the Navy's TRANSDEC
+facility was tense. The day before, the first round of a "best of two"
+semifinal competition, Leviathan sat motionless in the water as it was
+supposed to be competing; due to a glitch, the autonomous motion planning
+routine was never activated. With all the pressure on the second day,
+Leviathan passed through the field goal, grazing the colored buoy array,
+before passing through the channel and surfacing just outside of
+
+On the second day of the semi-finals, the mood in the Duke Robotics Club tent
+at the Navy's TRANSDEC facility was tense. The day before, the first round of
+a "best of two" semifinal competition, Leviathan sat motionless in the water
+as it was supposed to be competing; due to a glitch, the autonomous motion
+planning routine was never activated. With all the pressure on the second day,
+Leviathan passed through the field goal, grazing the colored buoy array,
+before passing through the channel and surfacing just outside of maximum-point
+area for finding the ultrasonic pinger. The result? 14th place out of 50
+teams, one of the best performances of any rookie team.
+
+Almost a year since Leviathan first entered the water, the team is hard at
+work getting ready for RoboSub 2017. "This year, we're ready to earn our spot
+in the finals," said former club president Logan Rooper E'17. "We're ready to
+meet goals that we set when we restarted the RoboSub project in 2014."
+
+**Will Stewart is a junior studying electrical and computer engineering.**
+
+## Publications
+
+  * Duke Engineering Magazine
+  * DukEngineer Magazine
+  * Duke BME Magazine
+  * Duke CEE Magazine
+  * Duke ECE Magazine
+  * Data & The Duke Engineer
+  * Inspiring Engineers
+  * The Duke Engineering PhD
+
+## From DukEngineer Magazine 2017
+
+Explore the entire magazine
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

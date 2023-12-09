@@ -1,0 +1,268 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Strengthened by Chaos, New Super-Hard Materials Will Stir Steel Together
+
+February 24, 2021 | By Ken Kingery
+
+A US Department of Defense project led by Duke will create AI tools to design
+recipes for new materials tailored to super-hard, high-temperature
+applications
+
+A nationwide collaboration led by researchers at Duke University’s Center for
+Autonomous Materials Design is working to synthesize inexpensive materials
+hard enough to literally stir two pieces of steel together with little wear
+and tear.
+
+Funded by a five-year, $7.5 million grant through the US Department of
+Defense’s Multidisciplinary University Research Initiative (MURI) competition,
+the team will also develop a suite of AI-materials tools capable of on-demand
+designing of similar materials with properties tailored to a wide range of
+applications.
+
+The class of so-called “high-entropy” materials derives enhanced stability
+from a chaotic mixture of atoms rather than relying solely on the orderly
+atomic structure of conventional materials. After first demonstrating this
+approach with carbides in 2018, the researchers will now look to add borides
+into the irregular self-organized structures to produce some of the hardest
+materials ever made.
+
+The MURI includes researchers from Pennsylvania State University, North
+Carolina State University, the Missouri University of Science & Technology,
+and the University at Buffalo.
+
+“We’ve already developed the computational machinery needed to tell us when
+this phenomenon will produce these stable, super-hard materials,” said Stefano
+Curtarolo, professor of mechanical engineering and materials science at Duke
+and leader of the new MURI, his second in the past eight years. “Our goal now
+is to develop the necessary ‘cooking’ procedures as well as AI-materials tools
+that can automate the discovery of new recipes to fit different needs.”
+
+While high-entropy materials could be useful for many applications, one of the
+priorities at the top of the DoD’s list is called friction stir welding.
+Invented in the early 1990s, the technique uses drill-like bits to join two
+pieces of metal without melting them.
+
+> “We know the pieces work, we just have to put them all together. Once we
+> have the high-entropy borides as well as the carbides, we can pack them
+> together into a super-hard sandwich. It’s going to be killer.”
+>
+> **Stefano curtarolo** | professor of mechanical engineering & materials
+> science
+
+As the bits rotate, they heat and soften the metal, allowing the surrounding
+material to swirl and mix as the machine moves along a line. Because neither
+metal is heated to its melting point, friction stir welding produces an
+extremely strong and durable joint with few defects. The technique can be used
+on a wide range of materials and even multiple types of metals at once.
+
+But it struggles with steel.
+
+For a friction stir welding tip to make a successful joint between two pieces
+of steel, it must be incredibly hard to avoid wearing too fast, thermally
+stable to withstand the high temperatures, chemically inert so that it does
+not pollute the weld, and inexpensive enough to mass-produce. Diamond is hard
+enough for the job, but it sheds carbon atoms during the process, making the
+weld brittle. Polycrystalline cubic boron nitride—the current material of
+choice—wears down too quickly for how expensive it is to make.
+
+"If the right material could make friction stir welding a viable choice for
+large projects involving steel, it could revolutionize the construction of
+ships and other defense equipment,” said Curtarolo. “And we’ve got the idea
+for the perfect material for the job.”
+
+The material that Curtarolo and his colleagues have in mind is a combination
+of carbon, boron, nitrogen and five other inexpensive metallic elements, all
+stabilized by chaotic entropy.
+
+When students learn about molecular structures, they’re shown crystals like
+salt, which resembles a 3-D checkerboard. These materials gain their stability
+and strength through regular, ordered atomic bonds where the atoms fit
+together like pieces of a jigsaw puzzle.
+
+Imperfections in a crystalline structure, however, can often add strength to a
+material. If cracks start to propagate along a line of molecular bonds, for
+example, a group of misaligned structures can stop it in its tracks. Hardening
+solid metals with the perfect amount of disorder is achieved through a process
+of heating and quenching called annealing.
+
+High-entropy materials take this idea to the next level. Jettisoning the
+reliance on crystalline structures and bonds for their stability, these
+materials rely on disorder at multiple length scales to enhance stability.
+While a pile of baseballs won’t stand on its own, a pile of baseballs, shoes,
+bats, hats and gloves just might support a resting baseball player.
+
+In 2018, Curtarolo, Cormac Toher, assistant research professor of mechanical
+engineering and materials science at Duke, and their team showed that this
+approach can work with carbides when they produced a handful of recipes that
+proved extremely hard and heat-tolerant.
+
+They have also been working to produce similar boron-based materials and are
+already approaching the hardness of the industry standard. The key to solving
+the friction stir welding problem, Curtarolo believes, is combining the two in
+an interlocking, Tetris-like maze of high-entropy carbides and borides.
+
+“Carbides don’t usually mix with borides, but if we can get them to form
+interlocking grains, we can make something that is harder than both,” said
+Curtarolo. “That’s the trick.”
+
+However, with a long list of potential ingredients and an equally long list of
+potential methods for cooking them, discovering the perfect combination
+through trial and error will be out of the question. Instead, the team is
+turning to computer modeling and machine learning.
+
+Curtarolo’s team already knows how to model and predict the formation of high-
+entropy carbides, and they are getting close to figuring out high-entropy
+borides. For help on that front, Curtarolo is turning to William Fahrenholtz,
+distinguished professor of ceramic engineering at the Missouri S&T, and an
+expert on borides and other high-temperature materials.
+
+With a firmer handle on high-entropy borides, the group can generate large
+amounts of data on their potential recipes and turn them over to Eva Zurek,
+professor of chemistry at the University at Buffalo, and expert computational
+and theoretical chemist, who will develop AI algorithms to more quickly zero
+in on target concoctions. Adding to these algorithms by investigating how
+regions of compression and tension will be affected by the different
+properties of the carbides and borides will be Donald Brenner, department head
+and distinguished professor of materials science and engineering at NC State.
+
+Testing their concoctions will require specialized equipment that can take
+elemental powders, heat them at several thousand degrees under high pressures
+(without melting them) for days, and then slowly let them cool. Overseeing and
+characterizing the formation of these structures will be handled by Penn State
+professors of materials science and engineering Jon-Paul Maria and Douglas
+Wolfe, the latter of whom is also the head of the Department of Metals,
+Ceramics and Coatings Processing at Penn State’s Applied Research Laboratory.
+
+When all is said and done, Curtarolo and his team hope to not only have
+produced a super-hard, high-entropy, carbide-boride capable of friction stir
+welding steel but to have devised a system for designing similar materials to
+fit other needs as well.
+
+“We know the pieces work, we just have to put them all together,” said
+Curtarolo. “Once we have the high-entropy borides as well as the carbides, we
+can pack them together into a super-hard sandwich. It’s going to be killer.”
+
+## Related News
+
+November 26, 2018
+
+### Disordered Materials Could Be Hardest, Most Heat-Tolerant Ever
+
+March 25, 2016
+
+### Curtarolo Wins Humboldt Foundation's Bessel Research Prize
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

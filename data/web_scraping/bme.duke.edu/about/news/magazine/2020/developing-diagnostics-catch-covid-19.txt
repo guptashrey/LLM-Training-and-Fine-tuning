@@ -1,0 +1,300 @@
+Skip to main content
+
+  * Duke University »
+  * Pratt School of Engineering »
+
+## Secondary Menu
+
+  * Apply
+  * Careers
+  * Contact
+
+  * Undergraduate
+    *       1. Admissions
+        1. Degree Program
+        2. Enrollment and Graduation Rates
+        3. Career Outcomes
+        4. Campus Tours
+        5. How to Apply
+
+      2. Academics
+        1. Curriculum
+        2. Double Majors
+        3. BME Design Fellows
+
+      3. Student Resources
+        1. For Current Students
+        2. 4+1: BSE+Master's Degree
+
+  * Master's
+    *       1. Admissions
+        1. Degree Programs
+        2. Career Outcomes
+        3. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Concentrations
+        3. Certificates
+
+      3. Student Resources
+        1. For Current Students
+
+  * PhD
+    *       1. Admissions
+        1. PhD Program
+        2. Meet Our Students
+        3. Career Outcomes
+        4. How to Apply
+
+      2. Academics
+        1. Courses
+        2. Certificates & Training Programs
+
+      3. Student Resources
+        1. For Current Students
+
+  * Research
+    *       1. Major Research Programs
+      2. Centers & Initiatives
+      3. Research News
+  * Faculty
+    *       1. Faculty Profiles
+      2. Awards & Recognition
+  * Coulter
+    *       1. The Duke-Coulter Partnership
+      2. Proposal Process
+      3. Project Archive
+      4. Oversight Committee
+      5. FAQs
+  * About
+    *       1. Welcome from the Chair
+      2. Vision & Mission
+      3. Facts & Stats
+      4. Serving Society
+      5. News
+        1. Media Coverage
+        2. Duke BME Magazine
+        3. Email Newsletter
+
+      6. Events
+        1. Seminars
+
+      7. Our History
+      8. Driving Directions
+
+# Developing Diagnostics to Catch COVID-19
+
+October 7, 2020 | Michaela Kane
+
+Supported by a RAPID Response NSF research grant, the Chilkoti lab aims to
+make a faster, more efficient test to detect the novel coronavirus
+
+In December of 2019, researchers identified a cluster of people sick with a
+never-before-seen coronavirus in Wuhan, China. By March, what was once a small
+outbreak had flamed into a global pandemic, prompting the World Health
+Organization to make emergency declarations, and for cities and countries
+across the world to issue stay-at-home orders to help limit the virus’s
+spread.
+
+For many students at Duke University, the unprecedented circumstances meant
+completing course work, classes and research projects from home and
+communicating with colleagues, faculty and fellow students through a plethora
+of virtual platforms.
+
+But for Cassio Fontes, a PhD student in the department of biomedical
+engineering, the emergency instead prompted a question from his advisor,
+Ashutosh Chilkoti: Could Fontes use the lab’s signature diagnostic platform to
+detect the novel coronavirus?
+
+Fontes had spent the last six years in the Chilkoti lab working with the D4
+assay, a portable diagnostic tool that can detect the markers of diseases as
+accurately as the most sensitive tests on the market, but at a much faster
+rate––shortening a wait time of hours or even days to just 30 minutes.
+
+Cassio Fontes displays the D4 assay
+
+The test operates by detecting low levels of antigens, the protein markers of
+disease, from a single drop of blood or a throat or nose swab sample. Two
+types of antibodies are printed on the tool’s surface––capture antibodies and
+detection antibodies, which are tagged with a fluorescent marker. When a
+sample is placed on the slide, the detection antibodies separate from the
+array and bind to the target proteins. These antibody-protein pairs then
+attach to the capture antibodies on the slide, which can be examined via a
+handheld scanner.
+
+Unlike other antigen diagnostic tests, the D4 assay is printed on a polymer
+brush coating, which prevents the non-target proteins from attaching to the
+slide’s surface. This gets rid of the ‘background noise’ on the chip, making
+it easier to detect lower levels of the target proteins.
+
+“The tests that we’ve developed with the D4 are about 200- to 500-fold more
+sensitive than other diagnostic tests,” says Fontes. “Ebola had great
+antibodies to work with, and our test was so effective that we could beat the
+PCR test, which is the most sensitive test that exists.”
+
+With that success in mind, Fontes and the Chilkoti lab went to work exploring
+if they could rapidly adapt their tool to potentially catch a brand-new virus.
+
+> “The D4 assay took six years to develop, but when the WHO declared the
+> outbreak a pandemic, we began working to compress all of that work into a
+> few weeks so we could explore how the test could be used as a public health
+> tool.”
+>
+> Ashutosh Chilkoti, Alan L. Kaganov Distinguished Professor of Biomedical
+> Engineering & Chair of Duke BME
+
+Their first step involved identifying potential antibodies that could pair
+with a synthetic version of the proteins expressed by SARS-Cov-2, the virus
+that causes COVID-19.
+
+“In the preliminary tests that we ran in early March, we showed that the
+existing antibodies developed for SARS, another coronavirus that was
+identified in 2003, could effectively detect and capture the synthetic
+versions of the COVID-19 viral proteins,” says Fontes. “The initial connection
+wasn’t as well-matched as the Ebola tests, but the D4 is so sensitive that it
+compensates for the less-than-ideal antibody match and we were able to make a
+proof-of-concept.”
+
+Jake Heggestad (left) and David Kinnamon (right) are PhD students in the
+Chilkoti lab. They joined the project over the summer, and they worked to
+optimize the design and improve the accuracy of the D4 COVID-19 test.
+
+By the end of April, the team had received a RAPID Response Research grant
+from the National Science Foundation to support their work with the test. With
+the $119,000 grant, the team was able to continue to optimize their platform.
+They also began developing a separate serological test on the platform, which
+uses pairs of antigens to detect and capture antibodies associated with
+COVID-19. According to the team, the serological test was useful because could
+indicate if a patient previously had a COVID-19 infection or was a carrier for
+the virus, while the original version of the test could detect a current
+infection.
+
+“People have run into problems with some of the serological tests, where they
+haven’t been particularly accurate, but we’ve been able to use the D4 to try
+and give a quantitative measurement of those antibodies,” says David Kinnamon,
+a PhD student in the Chilkoti lab who also helped lead the D4-COVID project.
+“We’ve also been able to expand the user-friendliness of the platform, as the
+initial version required a modest amount of lab space and hands-on time. Our
+newversion has been adapted for a microfluidic platform that automates all
+steps between adding the sample and measurement.”
+
+Although Chilkoti has said that it’s difficult to predict when a clinically
+available test might be available, a collaboration with Chris Woods, MD, a
+clinical investigator and professor of Global Health and Medicine and the
+Chief of the Infectious Diseases Division at the VA Medical Center, will allow
+them to continue to validate their platform using patient samples.
+
+“Our goal is to test at least 30 samples from patients that tested positive
+for the coronavirus, and 30 samples from patients that tested negative,” says
+Jake Heggestad, another PhD student in the Chilkoti lab who is helping lead
+the project. “The antibodies that we’ve been using in the lab aren’t a perfect
+match for the antibodies found in patients, but they’re fairly similar.
+Ideally we’ll be able to correctly identify the positives and negatives and
+then publish our findings. We have started the clinical validation of the
+platform and so far, the results are exactly as expected. More tests are
+needed, but the initial results are very promising."
+
+If initial tests work well, the team is interested in starting a study at Duke
+where they’ll be able to test larger populations, which will help them
+continue to refine and update their prototypes.
+
+“This is a huge societal and public health challenge, and I believe that those
+of us who create these types of technologies have a responsibility to act,”
+says Chilkoti. “Our test is designed to be both adaptable and truly point-of-
+care, and this is clearly a scenario when a portable, fast and cost-effective
+diagnostic would be most useful. I’m grateful that the support from the
+National Science Foundation allows an opportunity to explore how our platform
+could be adapted to address these challenges.”
+
+## Read more stories about the D4 assay
+
+### Chilkoti Receives $13.7 Million in Funding to Prototype a Rapid, Portable
+Diagnostic
+
+Ashutosh Chilkoti will explore how to use his lab’s signature diagnostic
+platform to detect bioterrorism agents and to diagnose breast cancer in
+resource limited settings
+
+### Five Days of Fieldwork
+
+Biomedical engineering students test a portable diagnostic device in Liberia
+
+### Inkjet-Printed Tool Enables Sensitive Diagnostic Testing in Point-of-Care
+Settings
+
+New portable platform can show results in 15 minutes, allowing for rapid and
+sensitive diagnostic testing in resource-limited settings
+
+Read additional stories from this issue
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University
+
+drupal_block( 'search_form_block', { label_display: false } )
+
+  * Undergraduate
+    * Admissions
+      * Degree Program
+      * Enrollment and Graduation Rates
+      * Career Outcomes
+      * Campus Tours
+      * How to Apply
+    * Academics
+      * Curriculum
+      * Double Majors
+      * BME Design Fellows
+    * Student Resources
+      * For Current Students
+      * 4+1: BSE+Master's Degree
+  * Master's
+    * Admissions
+      * Degree Programs
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Concentrations
+      * Certificates
+    * Student Resources
+      * For Current Students
+  * PhD
+    * Admissions
+      * PhD Program
+      * Meet Our Students
+      * Career Outcomes
+      * How to Apply
+    * Academics
+      * Courses
+      * Certificates & Training Programs
+    * Student Resources
+      * For Current Students
+  * Research
+    * Major Research Programs
+    * Centers & Initiatives
+    * Research News
+  * Faculty
+    * Faculty Profiles
+    * Awards & Recognition
+  * Coulter
+    * The Duke-Coulter Partnership
+    * Proposal Process
+    * Project Archive
+    * Oversight Committee
+    * FAQs
+  * About
+    * Welcome from the Chair
+    * Vision & Mission
+    * Facts & Stats
+    * Serving Society
+    * News
+      * Media Coverage
+      * Duke BME Magazine
+      * Email Newsletter
+    * Events
+      * Seminars
+        * Past Seminars
+    * Our History
+    * Driving Directions
+

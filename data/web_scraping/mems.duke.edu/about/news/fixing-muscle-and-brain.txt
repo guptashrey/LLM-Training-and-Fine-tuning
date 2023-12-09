@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Fixing Muscle and the Brain
+
+October 31, 2019 | By Ken Kingery
+
+Nenad Bursac and Tatiana Segura are engineering hydrogel microenvironments to
+physically and chemically support the growth of skeletal muscle and brain
+tissue
+
+With the number of times the word “gel” comes up in the research of Nenad
+Bursac and Tatiana Segura, one would be forgiven for thinking they might work
+in the haircare or running shoe industries. Their gels, however, are aimed at
+much more difficult tasks than holding hair styles or cushioning feet.
+
+Bursac and Segura, both professors of biomedical engineering at Duke
+University, are two of the leading researchers working to grow functional
+tissues both inside and outside of the human body. While the gels being
+engineered in their laboratories are initially more liquid than solid, they
+promptly solidify to provide a crucial three-dimensional scaffolding for cells
+to organize and grow. And by adding the perfect combination of growth factors,
+enzymes, nutrients and supporting cells, their laboratories are successfully
+“engineering” some of most challenging human tissues, including skeletal
+muscle and brain matter.
+
+In 2014, Bursac and his team were the first to grow human skeletal muscle that
+contracts and responds just like native tissue to electrical pulses,
+biochemical signals and pharmaceuticals. While this initial success required a
+muscle biopsy to isolate and grow human “almost muscle cells” called
+myoblasts, they soon demonstrated the ability to achieve similar results
+starting from cellular scratch—human induced pluripotent stem cells.
+
+The method took years to develop, with the researchers making educated guesses
+and taking baby steps toward their goal. The difference-maker was their unique
+cell culture conditions and 3-D matrix, which allows the cells to grow and
+develop much faster and longer than the 2-D approaches that are more typically
+used.
+
+In the 2018 study, Bursac and his group showed that after two to four weeks of
+3-D culture, muscle cells derived from induced pluripotent stem cells form
+muscle fibers that contract and react to electrical and biochemical stimuli
+mimicking neuronal inputs, just like native muscle tissue.
+
+The pluripotent stem cell-derived muscle fibers also develop reservoirs of
+“satellite-like cells” that are necessary for normal adult muscles to repair
+damage and regenerate, while the muscles made using muscle biopsy had much
+fewer of these cells. The stem cell method is also capable of growing many
+more cells from a smaller starting batch than the biopsy method.
+
+Both of the advantages point toward a possibility of using this new method for
+regenerative therapies and for creating models of rare diseases for future
+studies and individualized health care.
+
+“The prospect of studying rare diseases is especially exciting for us,” says
+Bursac. “When a child’s muscles are already withering away from something like
+Duchenne muscular dystrophy, it would not be ethical to take muscle samples
+from them and do further damage. But with this technique, we can just take a
+small sample of non-muscle tissue, like skin or blood, revert the obtained
+cells to a pluripotent state, and eventually grow an endless amount of
+functioning muscle fibers to test.”
+
+The technique also holds promise for being combined with genetic therapies.
+Researchers could, in theory, fix genetic malfunctions in the induced
+pluripotent stem cells derived from a patient and then grow small patches of
+completely healthy muscle. While this could not heal or replace an entire
+body’s worth of diseased muscle, it could be used in tandem with more widely
+targeted genetic therapies or to target more localized muscle repair.
+
+In Segura’s laboratory, researchers are focusing on repairing perhaps the most
+stubborn organ in the human body—the brain.
+
+The brain has a limited capacity for recovery after stroke and other diseases.
+Unlike some other organs in the body, such as the liver or skin, the brain
+does not regenerate new connections, blood vessels or new tissue structures.
+Tissue that dies in the brain from stroke is absorbed, leaving a cavity,
+devoid of blood vessels, neurons or axons, the thin nerve fibers that project
+from neurons.
+
+In a recent study conducted with mice, Segura sought to coax the healthy
+tissue surrounding the cavity into healing the stroke injury. She engineered a
+gel to inject into the stroke cavity that thickens to mimic the properties of
+brain tissue, creating a scaffolding for new growth.
+
+This artificial material creates an environment that helps local, native stem
+cells do their best work to promote healing—providing the physical structure
+as well as the biological cues that encourage cells to grow. For example, the
+gel is infused with molecules that stimulate blood vessel growth and suppress
+inflammation, since inflammation results in scars and impedes regrowth of
+functional tissue.
+
+After 16 weeks, the stroke cavities contained regenerated brain tissue,
+including new neural networks— a result that had not been seen before. The
+mice with new neurons also showed improved motor behavior, though the exact
+mechanism wasn’t clear.
+
+“We have something that is working, and hopefully we can now figure out the
+mechanisms for that improvement, because that is what leads to new
+engineering,” says Segura. “If you can discover which pathways are causing the
+improvements, then there are molecules you can deliver to engage those
+pathways more directly and hopefully lead to a therapy that will act faster
+and more robustly.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

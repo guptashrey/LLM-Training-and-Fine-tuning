@@ -1,0 +1,188 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Soundwave-Surfing Droplets Leave No Traces Behind
+
+July 26, 2018 | By Ken Kingery
+
+New digital microfluidics platform uses soundwaves and oil to avoid
+contamination for reusable lab-on-a-chip devices
+
+Engineers at Duke University have developed a way to manipulate, split and mix
+droplets of biological fluids by having them surf on acoustic waves in oil.
+The technology could form the basis of a small-scale, programmable, rewritable
+biomedical chip that is completely reusable for disparate purposes from on-
+site diagnostics to laboratory-based research.
+
+The study appears on July 26 in the journal Nature Communications.
+
+Automated fluid handling has driven the development of many scientific fields.
+Robotic pipetting systems have, for example, revolutionized the preparation of
+sequencing libraries, clinical diagnostics and large-scale compound screening.
+While ubiquitous in the modern biomedical research and pharmaceutical
+industries, these systems are bulky, expensive and do not handle small volumes
+of liquids well.
+
+Lab-on-a-chip systems have been able to fill this space to some extent, but
+most are hindered by one major drawback&mdashsurface absorption. Because these
+devices rely on solid surfaces, the samples being transported inevitably leave
+traces of themselves that can lead to contamination.
+
+“There are a lot of protein-laden fluids and certain reagents that tend to
+stick to the chips that are handling them,” said Tony Jun Huang, the William
+Bevan Professor of Mechanical Engineering and Materials Science at Duke. “This
+is especially true of biological samples like undiluted blood, sputum and
+fecal samples. Our technology is well-suited for processing these difficult
+samples.”
+
+The new lab-on-a-chip platform uses a thin layer of inert, immiscible oil to
+stop droplets from leaving behind any trace of themselves. Just below the oil,
+a series of piezoelectric transducers vibrate when electricity is passed
+through them. Just like the surface of a subwoofer, these vibrations create
+sound waves in the thin layer of oil above them.
+
+By carefully controlling the sound waves, the researchers create vertical
+vortexes that form small dimples in the oil to either side of the active
+transducer. These dimples can hold droplets with volumes ranging from one
+nanoliter to 100 microliters and pass them along the surface of the oil as the
+sound waves are modulated and different transducers are activated.
+
+The droplets are effectively surfing on tiny soundwaves.
+
+“Our contactless liquid-handling mechanism inherently eliminates cross-
+contamination associated with surface adsorption and the need for surface
+modification,” Huang said. “It enables reusable paths for the droplets to be
+dynamically processed on arbitrary routes without cross-talk between each
+other, exponentially increasing the allowable number of combinations of
+reagent inputs on the same device.”
+
+Huang next wants to take this proof-of-concept demonstration and create a
+fully automated lab-on-a-chip platform that can handle complex operations with
+dozens of droplets simultaneously. He’s planning to collaborate with peers at
+Duke for various applications in biology and medicine.
+
+This research was supported by the National Institutes of Health (R01
+GM112048, R33 EB019785) and the National Science Foundation CBET-1438126,
+IDBR-1455658.
+
+“Digital Acoustofluidics: Programmable, Contactless Liquid Handling and
+Routing via Acoustic Streaming.” Steven Zhang, James Lata, Chuyi Chen, John
+Mai, Feng Guo, Zhenhua Tian, Liqiang Ren, Zhangming Mao, Po-Hsun Huang, Peng
+Li, Shujie Yang, and Tony Jun Huang. Nature Communications, 2018. DOI:
+10.1038/s41467-018-05297-z
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

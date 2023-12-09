@@ -1,0 +1,232 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Ricocheting Radio Waves Monitor the Tiniest Movements in a Room
+
+August 6, 2018 | By Ken Kingery
+
+Radio waves reveal person’s presence in a room, even beyond the sensor’s line
+of sight
+
+Relief may be on the horizon for anyone who has ever jumped around a room like
+a jack-in-the-box to get motion-sensing lights to turn back on. A new motion
+sensor based on metamaterials is sensitive enough to monitor a person’s
+breathing.
+
+In a pair of new studies, researchers from Duke University and Institut
+Langevin, France, have shown that patterns made by radio waves can detect a
+person’s presence and location anywhere inside a room.
+
+The findings appeared recently in Scientific Reports and Aug. 6 in the Physics
+Review Letters.
+
+This new motion-sensing technology could lead to new smart home devices for
+energy savings, security, healthcare and gaming.
+
+“Energy companies don’t love infrared motion detectors because they have lots
+of problems,” said David R. Smith, the James B. Duke Professor of Electrical
+and Computer Engineering at Duke. “The amount of space they can cover is
+limited, a person has to be within their line of sight to be detected, and
+probably everyone has had the experience where the lights have gone off
+because they’ve sat still for too long. Radio waves can get around all of
+these limitations.”
+
+In their initial paper published earlier this year, the researchers took
+advantage of patterns created by radio waves bouncing around a room and
+interfering with themselves. These unique patterns change with the slightest
+perturbation of the room’s objects, allowing a sensitive antenna to detect
+when something moves in or enters the room. And by comparing how these
+patterns change over time, they can also be used to detect cyclical movements
+like a fan blade turning—or even a person breathing.
+
+In the latest paper, the team shows that with a bit of training, the system
+can also extract information necessary to locate objects or people in a space.
+The demonstration system was taught the pattern of radio waves scattered by a
+triangular block placed in 23 different positions on a floor. That calibration
+is enough not only to distinguish between the learned 23 scenarios, but to
+also distinguish the positions of three identical blocks placed in any one of
+1,771 possible configurations.
+
+The technology works by taking advantage of the way radio waves behave in an
+enclosed room. Their ability to continuously reflect off multiple surfaces
+creates complex interference patterns throughout a room. In the past, this
+complexity has been an obstacle for systems trying to locate the origin of a
+signal. But Smith and his colleagues have now shown that this same complexity
+can be tapped to detect movement and locate objects within a room.
+
+“The complexity of the way radio waves bounce around a room and interfere with
+themselves creates a sort of fingerprint,” explained Philipp del Hougne, a
+researcher visiting Smith’s laboratory from Institut Langevin in Paris,
+France. “And each time an object within a room moves, even a little bit, that
+fingerprint changes.”
+
+The challenge lies with finding the most efficient way to ink that fingerprint
+in the first place. It requires a lot of information, del Hougne explained,
+and there are multiple traditional ways it can be done, but they all have
+drawbacks.
+
+A large number of antennas could be installed in many places around a room to
+take multiple measurements, but this would be costly and inconvenient. Another
+tactic would be to measure many different frequencies, as each bounces around
+a room in a unique way. This approach, however, would likely create
+interference with other radio wave signals like Wi-Fi and Bluetooth operating
+within a room.
+
+The researchers’ solution is to dynamically control the shape of the waves
+using metamaterials—artificial materials that manipulate waves like light and
+sound through properties of their structure. A flat-panel metamaterial antenna
+can shape waves into arbitrary configurations and create many different wave
+fronts in rapid succession.
+
+“It doesn’t even matter what those particular wave shapes are,” said Smith.
+“As long as they’re diverse, the detector will pick up enough different
+patterns to determine if something is there and where it is.”
+
+“There are other technologies that could achieve similar wave front shaping
+capabilities, but they are much more expensive both in cost and energy usage,”
+said Mohammadreza Imani, a postdoctoral fellow in Smith’s lab who also worked
+on the papers. “Studies have shown that the ability to adjust a room’s
+temperature when people leave and come back can reduce power consumption by
+around 30 percent. But if you’re trying to save energy by spending more energy
+changing the antenna pattern, then you’re not helping.”
+
+And energy savings may be just the tip of the iceberg. The ability to count
+the number of people in a room, distinguish body positions and monitor
+breathing patterns also has potential applications in security, healthcare and
+gaming.
+
+The French scientists on the project have created a related startup company
+called Greenerwave.
+
+“While we’re definitely still continuing with the energy angle, we’ll also see
+where the research takes us,” Smith said.
+
+This work was supported by the Air Force Office of Scientific Research
+(FA9550-12-1-0491).
+
+CITATIONS: “Dynamic Metasurface Aperture as Smart Around-the-Corner Motion
+Detector,” Philipp del Hougne, Mohammadreza F. Imani, Timothy Sleasman, Jonah
+N. Gollub, Mathias Fink, Geoffroy Lerosey, and David R. Smith. Scientific
+Reports, 2018. DOI: 10.1038/s41598-018-24681-9
+
+“Precise localization of multiple noncooperative objects in a disordered
+cavity by wave front shaping.” Philipp del Hougne, Mohammadreza F. Imani,
+Mathias Fink, David R. Smith, and Geoffroy Lerosey. Phys. Rev. Lett., 2018.
+DOI: 10.1103/PhysRevLett.121.063901  
+LINK: journals.aps.org/prl/accepted/b307fY31A5a13c5579fc4252303f8b2e5e024fc00
+
+# # #
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

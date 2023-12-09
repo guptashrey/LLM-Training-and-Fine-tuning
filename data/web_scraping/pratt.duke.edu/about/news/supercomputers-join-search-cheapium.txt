@@ -1,0 +1,205 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Supercomputers Join Search for 'Cheapium'
+
+January 3, 2014 | By Ken Kingery
+
+Duke Engineers Use Brute Force Computing to Find New Materials
+
+In the search for cheaper materials that mimic their purer, more expensive
+counterparts, researchers are abandoning hunches and intuition for theoretical
+models and pure computing power.
+
+In a new study, researchers from Duke University’s Pratt School of Engineering
+used computational methods to identify dozens of platinum-group alloys that
+were previously unknown to science but could prove beneficial in a wide range
+of applications.
+
+Platinum is used to transform toxic fumes leaving a car’s engine into more
+benign gasses, to produce high octane gasoline, plastics and synthetic
+rubbers, and to fight the spread of cancerous tumors. But as anyone who has
+ever shopped for an engagement ring knows, platinum ain’t cheap.
+
+If just one of the compounds identified in the new study is comparable in
+performance but easier on the wallet, it would be a boon to many industries
+worldwide as well as the environment.
+
+“We’re looking at the properties of ‘expensium’ and trying to develop
+‘cheapium,’” said Stefano Curtarolo, director of Duke’s Center for Materials
+Genomics. “We’re trying to automate the discovery of new materials and use our
+system to go further faster.”
+
+The research is part of the Materials Genome Initiative launched by President
+Barack Obama in 2011. The initiative’s goal is to support centers, groups and
+researchers in accelerating the pace of discovery and deployment of advanced
+material systems crucial to achieving global competitiveness in the 21st
+century. The study appears in the Dec. 30 edition of the American Physical
+Society journal Physics and is highlighted in a Viewpoint article in the same
+issue.
+
+The identification of the new platinum-group compounds hinges on databases and
+algorithms that Curtarolo and his group have spent years developing. Using
+theories about how atoms interact to model chemical structures from the ground
+up, Curtarolo and his group screened thousands of potential materials for high
+probabilities of stability. After nearly 40,000 calculations, the results
+identified 37 new binary alloys in the platinum-group metals, which include
+osmium, iridium ruthenium, rhodium, platinum and palladium.
+
+These metals are prized for their catalytic properties, resistance to chemical
+corrosion and performance in high-temperature environments, among other
+properties. Commercial applications for the group include electrical
+components, corrosion-resistance apparatus, fuel cells, chemotherapy and
+dentistry. And because of their worldwide scarcity, each metal fetches a
+premium price.
+
+Now it is up to experimentalists to produce these new materials and discover
+their physical properties. Previous studies have shown that Curtarolo’s
+methods are highly accurate in generating recipes for new, stable compounds,
+but they don’t provide much information about their behaviors.
+
+“The compounds that we find are almost always possible to create,” said
+Curtarolo. “However, we don’t always know if they are useful. In other words,
+there are plenty of needles in the haystack; a few of those needles are gold,
+but most are worthless iron.”
+
+In addition to identifying unknown alloys, the study also provides detailed
+structural data on known materials. For example, there are indications that
+some may be structurally unstable at low temperatures. This isn’t readily
+apparent because creating such materials is difficult, requiring high
+temperatures or pressures and very long equilibration processes.
+
+“We hope providing a list of targets will help identify new compounds much
+faster and more cheaply,” said Curtarolo. “Physically going through these
+potential combinations just to find the targets would take 200 to 300 graduate
+students five years. As it is, characterizing the targets we identified should
+keep the experimentalists busy for 20.”
+
+This research was supported by the DOD-ONR (Grants No. N00014-13-1-0635, No.
+N00014-11-1 0136, and No. N00014-09-1-0921) and the NSF (Grant No.
+DMR-0908753).
+
+# # #
+
+"Comprehensive Search for New Phases and Compounds in Binary Alloy Systems
+Based on Platinum-Group Metals, Using a Computational First-Principles
+Approach," Hart, G.L.W., Curtarolo, S., Massalski, T.B., and Levy, O. Phys.
+Rev. X, 2013, 3(4):041035.  
+DOI: 10.1103/PhysRevX.3.041035
+
+An open access copy of this article is freely available from Duke University
+for those who do not have access to the original journal.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,186 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke-Led Team to Develop Privacy-Minded AI Health Learning Platform
+
+September 17, 2020
+
+A new $1 million NSF Convergence Accelerator award will support privacy-
+preserving machine learning models for health care
+
+A whole new world of health care insight is at our fingertips, thanks to
+quickly evolving machine learning techniques that can analyze vast amounts of
+data. But how can we effectively leverage this valuable data while ensuring
+that patient information remains private?
+
+A multidisciplinary research team led by Duke University and composed of Duke
+electrical and computer engineering faculty members Hai Li and Lawrence Carin,
+biostatistics and bioinformatics faculty David Page and Erich Huang, and
+collaborators at the University of Pittsburgh and UMPC (Heng Huang, Wei Chen,
+Samuel Dickson, Ying Ding, and Liang Zhan) is on track to answer that
+question. The team has received a new $1 million National Science Foundation
+(NSF) Convergence Accelerator grant to develop a health model sharing and
+learning platform named LEARNER.
+
+The NSF Convergence Accelerator program was launched in 2019 to help quickly
+transition research and discovery aligning with NSF’s “Big Ideas” into
+practice. In 2020, the NSF continues to invest in two transformative research
+areas of national importance—quantum technology and artificial intelligence
+(AI)—to ensure that technological advancements in these areas have a positive
+impact on society.
+
+> The NSF Convergence Accelerator program was launched in 2019 to help quickly
+> transition research and discovery aligning with NSF’s “Big Ideas” into
+> practice.
+
+“The quantum technology and AI-driven data and model sharing topics were
+chosen based on community input and identified federal research and
+development priorities,” said Douglas Maughan, head of the NSF Convergence
+Accelerator program. “This is the program’s second cohort and we are excited
+for these teams to use convergence research and innovation-centric
+fundamentals to accelerate solutions that have a positive societal impact.”
+
+Li is confident that her team’s work will achieve exactly that, by helping to
+meet the urgent national need for efficient and secure technologies that
+realize the full potential of big data in health care while addressing FAIR
+(findable, accessible, interoperable, reusable) data principles and handling
+the high computation demands of machine learning algorithms. The new platform
+will also include a repository where data and metadata can be securely
+collected and shared.
+
+“Our project will fundamentally advance AI-driven health innovations and
+accelerate use-inspired convergence research in health data science through
+infrastructure development and framework deployment,” said Li, a machine
+learning expert who co-directs the Center for Alternative Sustainable and
+Intelligent Computing (ASIC), an NSF industry–university cooperative research
+center headquartered at Duke. “The LEARNER platform will support collaborative
+health data science model sharing and learning, prevent data privacy leakage,
+and provide complex data and execution management to improve the
+reproducibility of complex health data analytics.”
+
+Over the next nine months, the 2020 cohort Convergence Accelerator teams will
+work to develop their initial concept, identify new team members and
+participate in innovation curriculum focusing on human-centered design, team
+science, and pitch preparation and presentation coaching. After developing an
+initial prototype, the teams will participate in a pitch competition and
+proposal evaluation. Teams selected for phase two will be eligible for
+additional funding—up to $5 million for a period of 24 months.
+
+By the end of phase two, teams are expected to deliver high-impact solutions
+that impact societal needs at scale.
+
+More News from Duke ECE
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

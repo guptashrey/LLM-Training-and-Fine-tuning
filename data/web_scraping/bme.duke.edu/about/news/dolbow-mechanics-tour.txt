@@ -1,0 +1,198 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Talking Mechanics Across the Midwest
+
+September 14, 2017 | By Ken Kingery
+
+In a nine-university tour beginning this year, Duke civil engineer John Dolbow
+will discuss his work developing computational models to predict how material
+systems will fracture and fail—research that can inform approaches to drug
+delivery, carbon sequestration and more
+
+For the past six decades, celebrated mechanics researchers from the world over
+have toured universities across America’s heartland as part of the Midwest
+Mechanics Seminar Series. This fall, John Dolbow, professor of civil and
+environmental engineering at Duke University, will become part of the
+distinguished tradition, stopping at nine universities to deliver invited
+lectures on his research into computational models that predict how material
+systems will fracture and fail.
+
+“The research I’m working on is easy to describe, but the physics involved is
+incredibly rich,” said Dolbow, who just so happens to be the academic
+“grandson” of Phil Hodge, who founded the series while a professor of
+mechanics at the Illinois Institute of Technology. “I’m excited about doing
+the lectures on the tour and the projects I’ll be discussing in my talks.”
+
+The Midwest Mechanics Seminar Series began as a way for universities to pool
+their resources to attract notable speakers. Over the years, the seminar
+series grew in prestige as the number of participating schools grew to 10 at
+its peak. This year, Dolbow will join a handful of other professors as they
+split the tour into two week-long stints, with Dolbow’s coming in September
+and April.
+
+Dolbow’s research focuses on the development of computational methods for
+nonlinear problems in solid mechanics. In this seminar series, he’ll be
+speaking about his current National Science Foundation-funded work to model
+and predict the fracturing behavior of particulate rafts, which was featured
+on the cover of the September issue of the journal _Soft Matter_ earlier this
+year.
+
+Particulate rafts are not common vernacular in day-to-day conversations, but
+chances are you’ve seen one in action. When a large number of floating
+hydrophobic particles form a thin layer or “raft” on top of a liquid, the
+forces created by capillary bridges between them cause the group to act like
+an elastic sheet.
+
+If forces push the edges of the sheet in opposite directions, the system
+resists the shearing stress. If forces push the ends together, the sheet
+buckles and forms wrinkles. But when a little bit of surfactant—such as liquid
+dish soap—is dropped on top, the sheet fractures.
+
+“You can recreate a version of this effect in your own kitchen,” said Dolbow,
+who is the second Duke faculty member to take part in the lecture series,
+following in the footsteps of former engineering dean Earl Dowell. “If your
+grinder is set to the right level of coarseness, you can grind pepper onto
+water in a small dish and then drop some dish soap in the middle to make the
+pepper raft break apart. One of our collaborators’ daughters has actually
+obtained results that are fairly consistent with what we’ve observed in the
+laboratory.”
+
+Dolbow and his laboratory study the forces and physical phenomena that drive
+the formation of these fractures. They’ve developed a computer model that can
+accurately predict how the system will fracture given the specific
+characteristics of the particles and fluids involved.
+
+The research has many practical applications. Drops of drugs could be
+encapsulated in a coat of particles to contain them until a specific chemical
+signal is given to fracture the coating and release the drugs. Underlaying a
+film of particles beneath oil spills can make them easier to clean up. And the
+system mimics some of the essential physics behind the fluid-driven crack
+growth in hydraulic fracturing.
+
+“Just like in our experiments, surfactants are a big part of the liquids used
+in hydraulic fracturing operations,” said Dolbow. “But are they really
+necessary? And if so, why do we need them and how do they work? Finding these
+answers in operations deep underground is difficult at best. Our experiments
+offer insights into these questions with a much simpler model that we can
+actually see with our eyes.”
+
+_Dolbow will be speaking at the University of Michigan, Michigan State
+University, the University of Notre Dame, and the University of Wisconsin –
+Madison in September 2017, and Purdue University, the University of Illinois
+Urbana-Champaign, the Illinois Institute of Technology, Iowa State University,
+and the University of Minnesota in April 2018._
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

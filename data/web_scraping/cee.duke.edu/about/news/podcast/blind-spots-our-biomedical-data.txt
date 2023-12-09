@@ -1,0 +1,404 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# The Blind Spots in Our Biomedical Data
+
+October 13, 2020
+
+Between measuring our activity levels, heart rate and sleeping schedules,
+today’s smart watches seem to give us a better picture of our overall health.
+Duke BME’s Jessilyn Dunn explores the endless potential—and hidden
+limitations—of this data.
+
+## Listen
+
+## Transcript
+
+Bells/intro music
+
+This is Rate of Change, a podcast from Duke Engineering dedicated to the
+ingenious ways engineers are solving some of society’s toughest problems. I’m
+Michaela Kane.
+
+It’s hard to imagine a time when smartwatches weren’t a common accessory
+decorating people’s wrists. What was once a tool used almost exclusively by
+serious athletes and self-proclaimed weekend warriors has transformed into an
+everyday tool that can provide information about heart rates, daily step
+counts, and workout statistics to the user. They can also provide helpful––if
+sometimes annoying––nudges telling you to get moving if you’ve been sedentary
+for most of the day.
+
+Most people are content with the basic knowledge these devices can provide
+about their health, but Jessilyn Dunn, an assistant professor of biomedical
+engineering and biostatistics and bioinformatics at Duke University, is aiming
+to explore how the data from these tools can help develop new methods of
+disease prevention, detection and treatment. Dunn accomplishes this work with
+her team, which makes up the Big Ideas Lab at Duke.
+
+Dunn: The name actually stands for something. It’s the Biomedical Informatics
+Group, and the idea is that we’re integrating engineering, data and analytics,
+and really what we’re doing is working across multiple different disease areas
+with the goal of developing what we call digital biomarkers, so methods of
+monitoring health and disease using less traditional data sources than someone
+going into the clinic at a single visit per year and getting a physical and
+workup done at that one time. What we’re hoping to do is use more continuous
+methods of monitoring whether that’s through wearable devices or mobile
+devices. We also do a bit of work with biomolecular data and other types of
+biomolecular sensors. So our goal is to really bring all this data and
+technology together to better be able to predict illness states.
+
+Kane: Can you give me an example of what that would look like, whether it’s
+one disease or for an average patient, what would that involve?
+
+Dunn: Yeah, absolutely. So one of the projects we’ve been working on for a
+little over a year has been the prediabetes detection project. We were funded
+through Duke MEDx and the CTSA to essentially try to develop methods using
+more commonly available wearables like an Apple Watch or Fitbit that would
+actually be able to pick up prediabetes. So that’s kind of the big idea, if
+you will. And the way that we’re doing that is actually by using devices that
+are a little more complex than the actual common consumer devices. But the
+goal is that we’d have a non-invasive method of being able to detect who is
+likely to have prediabetes or be at risk of developing either pre or type-2
+diabetes.
+
+And the reason that this is such an important area for us is that actually 1/3
+of the US population is prediabetic and 90 percent of those people who are
+prediabetic don’t actually know that they’re prediabetic. So that’s a really
+scary stat. Without people having an appropriate diagnosis, they will never
+know that they should be making an appropriate lifestyle change to prevent the
+onset of prediabetes. So the earlier that we can catch this actually
+prediabetes is reversible, but people need to know that they have it.
+
+Kane: According to Dunn, the team uses both data driven methods and hypothesis
+driven methods to develop these digital biomarkers. On the data driven side of
+things, the team is focused on developing machine learning algorithms that can
+parse through huge amounts of data from different sensors and create
+predictions about who may be sick with certain illnesses.
+
+Dunn: On the other side of the coin are hypothesis-driven methods, where we
+know that there are physiologic changes when someone has pre or type-2
+diabetes. For example there is some damage to the autonomic nervous system
+that can take place, and that represents by various different physiologic
+changes, one of those is changes in heart rate variability, and so we’re
+looking into how that may relate to diabetic status.
+
+Kane: The ability to create these biomarkers that can be tracked with common
+wearable devices also addresses an important gap in health care knowledge,
+which is long-term health monitoring. This is especially helpful for people
+who are unable to see a doctor on a regular basis.
+
+Dunn: So, I think one of the major challenges with our current healthcare
+system is that people very sporadically go into the clinic, and the often go
+into the clinic when something is wrong, so we don’t actually get a good
+picture of what health and illness look like outside of the time when someone
+is physically present in the clinic. And so these wearable sensors and mobile
+sensors enable continuous monitoring, so we’re actually getting a picture of
+somebody’s physiology 24 hours a day, seven days a week. And another key point
+here is that there is actually circadian differences in our physiology, so if
+you go to a doctor’s appointment first thing in the morning one year and then
+at the end of the day another year those are actually not directly comparable
+because your body changes over the course of the day and over time. So it’s
+very difficult to understand somebody’s baseline health with only these
+sporadic pieces of information.
+
+Kane: Having a comprehensive picture of someone’s baseline helps doctors
+identify when something is wrong, and Dunn and her team are optimistic that
+wearable technology can act as a solution to this issue and provide valuable
+medical insight to both doctors and patients. But before this is possible,
+Dunn and her collaborators across the digital medicine world are also working
+to ensure that both common smartwatches and clinical sensors are as accurate
+and useful as possible.
+
+Dunn: We’ve actually been heavily involved with some of the initiatives going
+on in the digital health and the digital medicine space to ensure that tools
+are used in a way that we call ‘fit for purpose’. The challenge here is that
+the tools are incredibly useful so your standard consumer smartwatch can tell
+you a lot about your heart measurements, your physical activity and your
+sleep, and lots of researchers have realized this and have started to
+integrate them into clinical studies and clinical trials. The challenge though
+is that there’s no set standards on information that needs to be measured or
+released about these devices to ensure that the measurements that are coming
+off of them are accurate enough to be used for clinical purposes.
+
+Kane: To help standardize the data collected from smartwatches and other
+devices, Dunn a team of researchers across digital medicine proposed a V3
+framework that appeared in Nature Digital Medicine. In their three step
+process, engineers would verify, analytically validate and clinically validate
+the sensors, algorithms and data produced by wearables and other devices to
+identify any limitations in their accuracy.
+
+Dunn: In our lab we’ve applied that framework, specifically to look at how
+skin tone and physical activity affect the accuracy of heart rate monitors
+that are optically based.
+
+Kane: Fitness trackers currently measure heart rate using a process called
+photoplethysmography, or PPG. This involves shining a specific wavelength of
+light, which usually appears green, from a pulse oximeter sensor on the
+underside of the device where it touches the skin on the wrist. As the light
+illuminates the tissue, the pulse oximeter measures changes in light
+absorption and the device then uses this data to generate a heart rate
+measurement.
+
+But the lab had seen anecdotal evidence that suggested that skin tone could
+affect the accuracy of the PPG sensors, as melanin, which tones our skin,
+could also absorb the green light.
+
+Dunn: We really wanted to see systematically ‘is this true, is there evidence
+for this,’ and we had even seen that some of the wearable device companies
+that we were evaluating had in their user materials ‘these devices will not
+work as well in darker skin tones,’ and for us that was shocking. If we’re
+developing these technologies to work for people who may not be able to come
+into the clinic, a large portion of those people may have darker skin and we
+need this technology to work for everyone. So we designed this study with that
+in mind and we looked across the Fitzpatrick skin tone scale, so essentially
+we had several different skin tone categories to lightest skin which is very
+low melanin content to darkest skin with the highest melanin content.
+
+Kane: The team explored the accuracy of several different commercial devices,
+including the FitBit, the Apple Watch, a Garmin watch and the Show Me Me-Band,
+as well as research grade devices like the Empatica E4 and the Biovotion.
+
+And what we saw actually we were glad to see that there were not significant
+differences in the accuracy of the heart rate across different skin tones, but
+throughout the process we had people go through different types of activities
+because there was a potential that there was interactions between the skin
+tone and types of activity, and we did see then in fact in higher levels of
+physical activity the heart rate was less accurate. In fact on average it was
+up to 30% less accurate than heart rate at rest. So that’s definitely a big
+problem when we think about how we’re using the data from these devices. So
+overall it seems like there’s been a lot of algorithmic methods to address the
+potential skin tone issue, but we still don’t have algorithms to address the
+movement issue.
+
+Kane: In addition to studying the physical and algorithmic limitations of
+these devices, Dunn is also exploring how potential biases in data collection
+may affect how researchers can identify biomarkers for a variety of diseases.
+
+Dunn: There are a lot of communities that are not typically represented in a
+lot of these larger scale wearable device studies because a lot of these
+studies are designed as a bring your own device study, and we know that the
+people who would typically buy a device are not necessarily representative of
+the overall US population and are particularly not representative of
+underserved communities. So the problem with that is that when we’re
+developing these digital biomarkers, they are based on predictive algorithms.
+So we have these data driven approaches and we have these hypothesis driven
+approaches, and when we’re developing data driven approaches to making
+predictions, the data is critical. If we don’t have data that represents all
+people then our algorithms are only as good as the data that we put into them.
+
+And that becomes really dangerous when we think about the populations that are
+represented in the studies that are developing these new technologies, because
+all of a sudden it’s very easy to develop technologies that work for some but
+not for others. So it is really critical that we have this appropriate
+representation of all groups in our data sets.
+
+Kane: All of this work has helped to inform and set up the lab’s newest
+research project, CovIdentify. Originally launched in early April, CovIdentify
+was designed to explore how data collected by smartphones and smartwatches
+could help determine whether or not device users have COVID-19, which is the
+disease caused by the novel coronavirus.
+
+Dunn: So what we want to do is we want to be able to detect, even before
+somebody might know they have a COVID-19 infection, that they’re sick. The
+idea there, one, is obviously to prevent the spread, right, so if somebody
+knows that they have the infection they won’t be spreading it to their family
+or community members. They would know to quarantine, they would know they
+should probably get in touch with their doctor and let them know what’s going
+on, and the other piece is that we’re hoping to learn more about what the
+trajectory of infection looks like.
+
+Different people have very different outcomes from COVID infection. We’ve seen
+that some people are completely asymptomatic. They have no indication at all
+that they’ve been infected, and what’s even scarier about that is that some of
+those people do have physiologic changes that they themselves just weren’t
+able to detect. So they may have some lung damage or other damage that they
+themselves don’t even feel. So it would be important to know that they’ve had
+an infection.
+
+And then there’s the other dramatic end of the spectrum where this disease is
+really lethal for a lot of underserved communities, people from communities of
+color, where they have significantly worse outcomes. They have higher rates of
+infection due to higher risk living or working environments. A lot of times
+these communities have higher comorbidities. So they have other diseases like
+diabetes and cardiovascular disease that can compound the danger of COVID. So
+there is a lot there that needs to be examined and uncovered, and the sooner
+that we can understand what mobile and wearable sensors can tell us about the
+disease the sooner we can develop better interventions.
+
+Kane: In the first phase of CovIdentfy, the team launched the covidentify.org
+website, where people can sign up and input their relevant demographics and
+medical information. The study then involves a daily survey, which can be
+delivered by text, email or through the CovIdentify app, which asks two simple
+questions. The first question asks if the participant has been in contact with
+anyone outside of their household and if they’ve been maintaining social
+distancing, and the second question asks if they feel sick. If they say that
+they do feel sick, the survey then expands to ask about specific symptoms.
+
+Participants are also asked to share biometric data from their smartphones and
+smartwatches. The team then matches the biometric data with answers from the
+survey questions, and they’ll use the relationship between reported symptoms
+and any changes in the biometric data to begin to develop biomarkers for
+COVID-19.
+
+Dunn: But because we have this problem with this ‘bring your own device’
+research model, we’ve actually been working on getting device donations and
+devices purchased through some grant funding to be able to hand out devices to
+people from underserved communities. So we’re currently in the process of that
+and we’ve been working with folks from the CTSA and the mobile app Gateway and
+also the VA to better engage with the community and get devices to people who
+otherwise wouldn’t have them.
+
+Kane: The CovIdentify team also developed a plan to target recruitment of
+people that have a higher risk of contracting the disease, including delivery
+drivers, grocery store workers, hospital cleaning and cafeteria staff and
+nurse aids. They are also exploring how they can deploy watches in high-
+density housing like nursing homes, college dorms, military barracks and
+homeless shelters.
+
+If CovIdentify is successful, it would be a non-invasive and accessible tool
+that can help control the spread of the coronavirus. It also speaks to the
+lab’s larger goals of arming health care professionals with accessible tools
+and information to detect illness early, which helps doctors save more lives.
+
+Dunn: One of the ideas here is also to provide some patient empowerment or
+even just person empowerment. I think part of the idea here is that if we can
+provide health insights, those are useful to clinicians to help care for their
+patients, but those are useful for us as individuals, to know things about our
+health and to be able to understand what to do with health recommendations. So
+what we’re trying to do here is really close the loop on this healthcare
+system to make sure that people have access to information about their health
+and also have access to what comes next. You know, what kind of actions can
+they take to potentially reverse their prediabetes, for example.
+
+Kane: Thanks for tuning into this week’s episode of Rate of Change. Remember
+to follow us on social media for updates, and be sure to subscribe. Thanks for
+listening, and stay safe!
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Jessilyn Dunn
+
+Assistant Professor of Biomedical Engineering
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

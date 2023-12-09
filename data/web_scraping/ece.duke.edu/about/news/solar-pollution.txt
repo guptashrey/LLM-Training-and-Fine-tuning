@@ -1,0 +1,217 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Air Pollution Casts Shadow over Solar Energy Production
+
+June 26, 2017 | By Ken Kingery
+
+First study of its kind shows airborne particles and their accumulation on
+solar cells is cutting energy output by more than 25 percent in certain parts
+of the world
+
+Global solar energy production is taking a major hit due to air pollution and
+dust.
+
+According to a new study, airborne particles and their accumulation on solar
+cells are cutting energy output by more than 25 percent in certain parts of
+the world. The regions hardest hit are also those investing the most in solar
+energy installations: China, India and the Arabian Peninsula.
+
+The study appears online June 23 in Environmental Science & Technology
+Letters.
+
+"My colleagues in India were showing off some of their rooftop solar
+installations, and I was blown away by how dirty the panels were," said
+Michael Bergin, professor of civil and environmental engineering at Duke
+University and lead author of the study. "I thought the dirt had to affect
+their efficiencies, but there weren't any studies out there estimating the
+losses. So we put together a comprehensive model to do just that."
+
+With colleagues at the Indian Institute of Technology-Gandhinagar and the
+University of Wisconsin at Madison, Bergin measured the decrease in solar
+energy gathered by the IITGN's solar panels as they became dirtier over time.
+The data showed a 50-percent jump in efficiency each time the panels were
+cleaned after being left alone for several weeks.
+
+The researchers also sampled the grime to analyze its composition, revealing
+that 92 percent was dust while the remaining fraction was composed of carbon
+and ion pollutants from human activity. While this may sound like a small
+amount, light is blocked more efficiently by smaller man-made particles than
+by natural dust. As a result, the human contributions to energy loss are much
+greater than those from dust, making the two sources roughly equal antagonists
+in this case.
+
+"The manmade particles are also small and sticky, making them much more
+difficult to clean off," said Bergin. "You might think you could just clean
+the solar panels more often, but the more you clean them, the higher your risk
+of damaging them."
+
+Having previously analyzed pollutants discoloring India's Taj Mahal, Bergin
+already had a good idea of how these different particles react to sunlight.
+Using his earlier work as a base, he created an equation that accurately
+estimates the amount of sunlight blocked by different compositions of solar
+panel dust and pollution buildup.
+
+But grimy buildup on solar panels isn't the only thing blocking sunlight—the
+ambient particles in the air also have a screening effect.
+
+For that half of the sun-blocking equation, Bergin turned to Drew Shindell,
+professor of climate sciences at Duke and an expert in using the NASA GISS
+Global Climate Model.
+
+Because the climate model already accounts for the amount of the sun's energy
+blocked by different types of airborne particles, it was not a stretch to
+estimate the particles' effects on solar energy. The NASA model also estimates
+the amount of particulate matter deposited on surfaces worldwide, providing a
+basis for Bergin's equation to calculate how much sunlight would be blocked by
+accumulated dust and pollution.
+
+The resulting calculations estimate the total loss of solar energy production
+in every part of the world. While the United States has relatively little
+migratory dust, more arid regions such as the Arabian Peninsula, Northern
+India and Eastern China are looking at heavy losses -- 17 to 25 percent or
+more, assuming monthly cleanings. If cleanings take place every two months,
+those numbers jump to 25 or 35 percent.
+
+There are, of course, multiple variables that affect solar power production
+both on a local and regional level. For example, a large construction zone can
+cause a swift buildup of dust on a nearby solar array.
+
+The Arabian Peninsula loses much more solar power to dust than it does manmade
+pollutants, Bergin said. But the reverse is true for regions of China, and
+regions of India are not far behind.
+
+"China is already looking at tens of billions of dollars being lost each year,
+with more than 80 percent of that coming from losses due to pollution," said
+Bergin. "With the explosion of renewables taking place in China and their
+recent commitment to expanding their solar power capacity, that number is only
+going to go up."
+
+"We always knew these pollutants were bad for human health and climate change,
+but now we've shown how bad they are for solar energy as well," continued
+Bergin. "It's yet another reason for policymakers worldwide to adopt emissions
+controls."
+
+This work was supported by the US Agency for International Development and the
+Office of the Vice Provost for Research at Duke University.
+
+"Large reductions in solar energy production due to dust and particulate air
+pollution," Mike Bergin, Chinmay Ghoroi, Deepa Dixit, Jamie Schauer, Drew
+Shindell. Environmental Science & Technology Letters, June 26, 2017. DOI:
+10.1021/acs.estlett.7b00197
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

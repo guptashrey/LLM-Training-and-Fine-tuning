@@ -1,0 +1,238 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Teaching through Competition
+
+May 1, 2020 | Miranda Volborth
+
+Duke team launches a new multi-year effort to compete for the ANA Avatar
+XPRIZE
+
+Some engineers love attacking challenges that others dismiss as impossible.
+Some like to dream about winning monster-sized prize purses worth millions of
+dollars. Some simply want to take a shot at developing or refining technical
+skills.
+
+The XPRIZE Foundation offers all of these opportunities and more, by putting
+forth a monumental challenge which, once solved, will enable a more positive
+future. A sponsor supports each competition—there have been 17 of them to
+date—by providing the prize purse and operational funding. The first XPRIZE
+was the $10 million Ansari XPRIZE for private spaceflight, which birthed an
+entire industry of private space tourism. Years later, the $20 million Shell
+Ocean Exploration XPRIZE tasked teams with the ambitious challenge of mapping
+the ocean floor.
+
+XPRIZE competitions are a favorite teaching tool of Duke professor of
+electrical and computer engineering (ECE) Martin Brooke, who along with Duke
+ECE colleague Tyler Bletsch, led a student team that made it to the semi-
+finals of the Ocean XPRIZE competition and split the $1 million purse with the
+nine other teams who achieved the same level.
+
+> The $10 million ANA Avatar XPRIZE competition aims to “create an avatar
+> system that can transport human presence to a remote location in real time.”
+
+This spring, Brooke’s Advanced Robotic System Design class was the launchpad
+for another group of students ramping up to compete in Duke’s third multi-year
+XPRIZE challenge: the ANA Avatar XPRIZE. The $10 million competition aims to
+“create an avatar system that can transport human presence to a remote
+location in real time.”
+
+Imagine trekking to Denali and feeling the cold wind on your face and the
+crunch of ice under your boot treads, without ever leaving your living room,
+or visiting your grandfather on the other side of the world twice a week.
+Or—in an application made painfully relevant by the current COVID-19
+crisis—delivering lifesaving medical care during times of war or contagion,
+without exposing yourself to danger. Those are the kinds of long-term
+possibilities that the ANA Avatar XPRIZE competition is hoping to enable.
+
+Brooke and his students partnered with the University of Illinois and VRotors,
+LLC, and the resulting team is focused on creating a health care avatar.
+Through collaboration with Duke School of Nursing’s Ryan Shaw, the Duke
+contingent has access to a robot called TRINA— Tele-Robotic Intelligent
+Nursing Assistant--that is used to develop future remote nursing applications
+similar to the ones sought by the ANA Avatar XPRIZE competition.
+
+At the beginning of the semester, the Duke students split into three groups to
+work on different aspects of their avatar, called AVATRINA: motion planning, a
+digital stethoscope, and smelling ability.
+
+Motion planning, explained Estelle He ECE ’20, is about transforming a human’s
+motions into corresponding motions in the robot. Her group of three students
+found a Python implementation of some code they could use on Tensor Flow, a
+platform for building and deploying machine learning models, but it was only a
+starting point.
+
+“The code gathers video from a computer camera and extracts points on the
+human skeleton based on the video,” said He. “But what we actually need is the
+coordinate of those points, so we have to dig through the code and change so
+that it’s more customized to our uses.”
+
+> “Motion planning matches the scales and transforms my motion into the
+> robot’s action.”
+>
+> Estelle He ECE/cs '20
+
+That’s because the robot is moving in 3D space, so an extra dimension—depth—is
+requisite to controlling the avatar. “Maybe my elbow moves one centimeter, but
+the robot’s elbow moves five centimeters, because of the difference in scale,”
+said He. “Motion planning matches the scales and transforms my motion into the
+robot’s action.”
+
+Another group of three students—two PhD students and an undergraduate
+mechanical engineering student —started working with TRINA to figure out how a
+digital stethoscope might work in this kind of application. Their initial
+challenge was that the instrument is made to be held and manipulated by a
+human hand; the team had to design and 3D print an adapter for the robot’s
+claw before the signal processing aspect of the work could even begin.
+
+And then there’s the smell team, which began by trying to determine what kind
+of sensors could be incorporated into the avatar to give it the ability to
+recognize when food or medication has gone bad, or tissue infection has begun
+to set in.
+
+The teams are self-directed; prior to spring break, they met with Brooke once
+a week and spent the remainder of their time building and coding. After spring
+break and the implementation of physical distancing resulting from the threat
+of Covid-19, students continued to meet weekly via Zoom. “The students got a
+surprising amount done after the stay-at-home order,” Brooke said. While the
+motion planning group focused more on the software and simulation portions of
+its project, students on the smell and digital stethoscope teams had most of
+their hardware with them and continued to work on their projects from their
+homes.
+
+> “There are no tests, no lectures. We just look for results.”
+>
+> Martin Brooke, Assoc. prof. of Electrical and Computer Engineering
+
+“I teach a lot of design-oriented courses and its always challenging to come
+up with good motivational projects,” said Brooke. “I’ve done every kind of
+project and working with these big contests has been really successful.” He
+said that’s in part because the challenges are so large and so broad that they
+attract engineers from every discipline, forming teams that bring together
+diverse knowledge and result in far-out approaches—and exceptional engineers.
+
+“It’s a very different way to teach,” said Brooke. “There are no tests, no
+lectures. We just look for results.”
+
+More News from ECE
+
+## Related News
+
+March 07, 2018
+
+### Duke Students Advance to Finals in $7 Million Ocean Discovery XPRIZE
+Competition
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

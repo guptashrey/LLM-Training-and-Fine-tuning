@@ -1,0 +1,214 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Duke Researchers Garner Over $6 Million in NIH Funding to Fight Genetic
+Diseases
+
+January 2, 2020
+
+Collaborative work using CRISPR genome editing to address the burden of
+genetic neuromuscular diseases flourishes across Duke
+
+Hemophilia. Cystic fibrosis. Duchenne muscular dystrophy. Huntington’s
+disease. These are just a few of the thousands of disorders caused by
+mutations in the body’s DNA. Treating the root causes of these debilitating
+diseases has become possible only recently, thanks to the development of
+genome editing tools such as CRISPR, which can change DNA sequences in cells
+and tissues to correct fundamental errors at the source—but significant
+hurdles must be overcome before genome-editing treatments are ready for use in
+humans.
+
+Enter the National Institutes of Health Common Fund’s Somatic Cell Genome
+Editing (SCGE) program, established in 2018 to help researchers develop and
+assess accurate, safe and effective genome editing therapies for use in the
+cells and tissues of the body (aka somatic cells) that are affected by each of
+these diseases.
+
+Today—with three ongoing grants totaling more than $6 million in research
+funding—Duke University is tied with Yale University, UC Berkeley and UC Davis
+for the most projects supported by the NIH SCGE Program.
+
+In the 2019 SCGE awards cycle, Charles Gersbach, the Rooney Family Associate
+Professor of Biomedical Engineering, and collaborators across Duke and North
+Carolina State University received two grants: the first will allow them to
+study how CRISPR genome editing affects engineered human muscle tissues, while
+the second project will develop new CRISPR tools to turn genes on and off
+rather than permanently alter the targeted DNA sequence. This work builds on a
+2018 SCGE grant, led by Aravind Asokan, professor and director of gene therapy
+in the Department of Surgery, which focuses on using adeno-associated viruses
+to deliver gene editing tools to neuromuscular tissue.
+
+“There is an amazing team of engineers, scientists and clinicians at Duke and
+the broader Research Triangle coalescing around the challenges of studying and
+manipulating the human genome to treat disease­­––from delivery to modeling to
+building new tools,” said Gersbach, who with his colleagues recently launched
+the Duke Center for Advanced Genomic Technologies (CAGT), a collaboration of
+the Pratt School of Engineering, Trinity College of Arts and Sciences, and
+School of Medicine. “We’re very excited to be at the center of those efforts
+and greatly appreciate the support of the NIH SCGE Program to realize this
+vision.”
+
+For their first grant, Gersbach will collaborate with fellow Duke biomedical
+engineering faculty Nenad Bursac and George Truskey to monitor how genome
+editing affects engineered human muscle tissue. Through their new project, the
+team will use human pluripotent stem cells to make human muscle tissues in the
+lab, specifically skeletal and cardiac muscle, which are often affected by
+genetic diseases. These systems will then serve as a more accurate model for
+monitoring the health of human tissues, on-target and off-target genome
+modifications, tissue regeneration, and possible immune responses during
+CRISPR-mediated genome editing.
+
+“Currently, most genetic testing occurs using animal models, but those don’t
+always accurately replicate the human response to therapy,” says Truskey, the
+Goodson Professor of Biomedical Engineering.
+
+Bursac adds, “We have a long history of engineering human cardiac and skeletal
+muscle tissues with the right cell types and physiology to model the response
+to gene editing systems like CRISPR. With these platforms, we hope to help
+predict how muscle will respond in a human trial.”
+
+Gersbach will work with Tim Reddy, a Duke associate professor of biostatistics
+and bioinformatics, and Rodolphe Barrangou, the Todd R. Klaenhammer
+Distinguished Professor in Probiotics Research at North Carolina State
+University, on the second grant. According to Gersbach, this has the potential
+to extend the impact of genome editing technologies to a greater diversity of
+diseases, as many common diseases, such as neurodegenerative and autoimmune
+conditions, result from too much or too little of certain genes rather than a
+single genetic mutation. This work builds on previous collaborations between
+Gersbach, Barrangou and Reddy developing both new CRISPR systems for gene
+regulation and to regulate the epigenome rather than permanently delete DNA
+sequences.
+
+Aravind Asokan leads Duke’s initial SCGE grant, which explores the evolution
+of next generation of adeno-associated viruses (AAVs), which have emerged as a
+safe and effective system to deliver gene therapies to targeted cells,
+especially those involved in neuromuscular diseases like spinal muscular
+atrophy, Duchenne muscular dystrophy and other myopathies. However, delivery
+of genome editing tools to the stem cells of neuromuscular tissue is
+particularly challenging. This collaboration between Asokan and Gersbach
+builds on their previous work in using AAV and CRISPR to treat animal models
+of DMD.
+
+“We aim to correct mutations not just in the mature muscle cells, but also in
+the muscle stem cells that regenerate skeletal muscle tissue,” explains
+Asokan. “This approach is critical to ensuring long-term stability of genome
+editing in muscle and ultimately we hope to establish a paradigm where our
+cross-cutting viral evolution approach can enable efficient editing in
+multiple organ systems.”
+
+Click through to learn more about the Duke Center for Advanced Genomic
+Technologies.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

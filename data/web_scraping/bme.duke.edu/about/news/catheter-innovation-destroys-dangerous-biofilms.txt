@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Catheter Innovation Destroys Dangerous Biofilms
+
+March 25, 2014 | By Ken Kingery
+
+New design from Duke engineers could reduce threat of infection from millions
+of urinary catheters
+
+For the millions of people forced to rely on a plastic tube to eliminate their
+urine, developing an infection is nearly a 100 percent guarantee after just
+four weeks. But with the help of a little bubble-blowing, biomedical engineers
+hope to bring relief to urethras everywhere.
+
+About half of the time, the interior of long-term urinary catheters become
+plagued by biofilms—structures formed by colonies of bacteria that are
+extremely difficult to kill. Once established, it is only a matter of time
+before the biofilm becomes a welcoming host for other, more dangerous bacteria
+or begins to choke urine drainage, causing leakage—or even trauma to the
+patient’s body.
+
+Duke University engineers have developed a new urinary catheter design that
+can eliminate nearly all of the hard-to-kill biofilm from the catheter’s
+walls. Instead of focusing on expensive antibacterial coatings, the
+researchers use physical deformation to knock the infectious film from its
+moorings.
+
+“A biofilm is like a city that protects and harbors harmful bacteria,” said
+Vrad Levering, a PhD student in biomedical engineering. “Our solution is like
+an earthquake that demolishes the infrastructure, leaving the rubble to be
+easily washed away by a flood of urine.”
+
+The study appears online March 25 in _Advanced Healthcare Materials_.
+
+One in five people admitted to the hospital requires a urinary catheter,
+contributing to the more than 30 million used each year in the United States.
+These catheters are the number-one cause of hospital-acquired infections in
+the United States.
+
+Outside of the hospital, catheters are also commonly required by paralysis
+victims and the immobile elderly. And with an aging population, the use of
+catheters is likely to increase in coming decades.
+
+For years, researchers have focused on developing antimicrobial treatments to
+stop the formation of biofilms, but as the statistics indicate, they have yet
+to find an affordable, effective solution. Besides the costs and technical
+challenges, many doctors fear antimicrobial solutions would promote the
+evolution of antibiotic-resistant superbugs.
+
+So Duke engineers decided to think outside of the cylinder.
+
+“We ran experiments showing that if you stretch an elastic piece of rubber at
+a proper rate, you can pop various types of sticky biofilms right off of its
+surface,” said Xuanhe Zhao, professor of mechanical engineering and materials
+science, whose team partnered with that of Gabriel Lopez, professor of
+biomedical engineering.
+
+“Those tests were initially aimed at cleaning submerged surfaces in marine
+environments, but the principle has many possible applications,” continued
+Lopez. “So we thought, why not catheters?”
+
+Their first model features a single channel that can be inflated with liquid
+or air running parallel to the main urinary tract, with nothing but a thin,
+flexible barrier between the two. Pushing liquid through the small inflation
+channel forces the thin wall into the urinary tract while leaving the outer
+dimensions of the catheter intact.
+
+A prototype molded from a 3D printed form worked beautifully, Levering said.
+The sudden deformation unseated more than 90 percent of the biofilm, which was
+washed away by a flow matching the slow movement of urine. Biofilm on the wall
+opposite the inflation channel was mostly unharmed, but the collaborative team
+has plans to produce a new prototype with inflation channels running along
+both sides of the main channel.
+
+Lopez believes the demonstration is a clear proof-of-principle that their
+simple mechanical solution could revolutionize the catheter industry. Because
+the design would have low implementation costs, closely adheres to the
+dimensions of current catheters and would be easy for medical clinicians to
+operate, the team hopes to bring it to market and is currently searching for
+partners.
+
+“There are more than 30 million of these used every year,” said Levering. “And
+for a technology that has changed very little in 50 years, the problem is kind
+of atrocious. We hope we have found a solution.”
+
+Levering said the general concept has potential applications for a wide range
+of industries currently plagued by biofilms, such as dairy processing,
+petroleum transport, city drinking water and heat exchangers.
+
+“We don’t want to get in over our heads, but there are lots of other places
+where biofilms are severe problems,” said Levering. “It’s a multi-billion-
+dollar-per-year problem for sea water filtration alone. There are definitely
+other potential markets out there.”
+
+The research was a collaboration between the Lopez and Zhao groups that,
+besides Levering, includes Qiming Wang, a PhD student in mechanical
+engineering and materials science, and Phanindhar Shivapooja, a PhD student in
+biomedical engineering.
+
+This work was supported by the National Science Foundation’s Research Triangle
+Materials Research Science and Engineering Center (DMR-1121107), the Office of
+Naval Research (N0014-13-1-0828) and National Institutes of Health Training
+Grant (#5T32GM008555-18).
+
+Watch the video above on YouTube.
+
+###
+
+“Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release
+Urinary Catheter,” Levering, V., Wang, Q., Shivapooja P., Zhao, X., Lopez,
+G.P. Advanced Healthcare Materials, 2014. DOI: 10.1002/ ((ADHM.201400035))
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

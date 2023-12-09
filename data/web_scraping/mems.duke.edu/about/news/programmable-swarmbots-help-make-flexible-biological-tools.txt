@@ -1,0 +1,220 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Programmable Swarmbots Help Make Flexible Biological Tools
+
+September 17, 2019
+
+The biomanufacturing platform uses bursting bacteria and a shrinking capsule
+to produce targeted proteins
+
+Biomedical engineers at Duke University have developed a new platform to
+create biologic drugs using specially engineered bacteria that burst and
+release useful proteins when they sense that their capsule is becoming too
+crowded.
+
+The platform relies on two main components: the engineered bacteria, called
+“swarmbots,” that are programmed to sense the density of their peers within
+their container, and the biomaterial that confines the swarmbots, a porous
+capsule that can shrink in response to changes in the bacterial population.
+When it shrinks, the capsule squeezes out targeted proteins created by the
+captive bacteria.
+
+This self-contained platform could make it easier for researchers to create,
+analyze and purify diverse biologics for use in small-scale biomanufacturing.
+
+The research appeared online Sept. 16 in the journal Nature Chemical Biology.
+
+Bacteria are commonly used to produce biologics, which are products like
+vaccines, gene therapies and proteins that are created or synthesized from
+biological sources. Currently, this process involves a series of sophisticated
+steps including cell culturing, protein isolation and protein purification,
+each of which requires delicate infrastructure to ensure efficiency and
+quality. For industrial operations, these steps are carried out on a large
+scale. While this helps produce large quantities of certain molecules, this
+setup is not flexible or financially viable when researchers need to produce
+small amounts of diverse biologics or work in resource-limited settings.
+
+The new technology was developed by Lingchong You, a Professor of Biomedical
+Engineering at Duke University, and a former Duke postdoctoral researcher,
+Zhuojun Dai, now an Associate Professor at Shenzhen Institute of Advanced
+Technologies. In the new study, they show how their new platform uses
+communication between swarmbots and their capsule to achieve versatile
+production, analysis and purification of diverse proteins and protein
+complexes.
+
+In an earlier proof of concept, You and his team engineered a non-pathogenic
+strain of E. coli bacteria to produce an antidote to antibiotics when the
+bacteria reached a certain density. These swarmbots were then confined to a
+capsule, which was bathed in antibiotics. If a bacterium left the capsule it
+was destroyed, but if it remained inside the container where the population
+density was high, it survived.
+
+“Our first study essentially showed one-way communication, where the cells
+could sense the environment within the capsule but the environment didn’t
+react to the cells,” said You. “Now, we have two-way communication -- the
+engineered swarmbots can still sense their density and their confinement, but
+we have introduced a material that can respond when the bacterial population
+inside it changes. It’s like the two components are talking to each other, and
+collectively they give you very dynamic behavior.”
+
+Once the population inside the capsule reaches a certain density, the bacteria
+start to ‘pop,’ releasing all of their cellular contents, including the
+protein product of interest. At the same time, this bacterial growth changes
+the chemical environment within the capsule, causing it to shrink. As it
+shrinks, it squeezes out the protein released from the bursting cells while
+the bacteria and cell debris are kept within the capsule.
+
+Once the proteins are collected, researchers can add a nutrient replenishment
+to the dish as a cue for the capsules to enlarge. This resets the interior
+environment and allows the bacteria to begin growing again, restarting the
+process. According to You, this cycle can be repeated for up to a week.
+
+To make the approach useful for biomanufacturing, the team added the capsules
+to a microfluidic chip, which included a chamber for them to detect and
+quantify which proteins were released. This could be replaced with a
+purification chamber to prepare the proteins for use in biologics.
+
+“It’s a very compact process. You don’t need electricity, and you don’t need a
+centrifuge to produce and isolate these proteins,” said You. “It makes this a
+good platform for biomanufacturing. You have the ability to produce a certain
+type of medicine in a very compact format at a low cost, and it’s easy to
+deliver. On top of that, this platform offers an easy way to produce multiple
+proteins simultaneously.”
+
+According to You, this ease of use has enabled the team to produce, quantify
+and purify more than 50 different proteins in collaboration with the lab of
+Ashutoshi Chilkoti, Alan L. Kaganov Professor and Chair of the Department of
+Biomedical Engineering at Duke. They have also explored how their platform can
+simplify the creation of protein complexes, which are structures made from
+multiple proteins.
+
+On a proof-of-concept experiment to produce a fatty acid synthesis pathway
+from multiple enzymes, “we were able to use seven versions of our microbial
+swarmbots, each of which was programmed to produce a different enzyme,” said
+You. “Usually, to produce a metabolic pathway you’d need to balance the supply
+chain, which could involve upregulating the expression of one enzyme and
+downregulating the expression of another. With our platform you don’t need to
+do that, you just need to set the correct ratio of swarmbots.”
+
+“This technology is incredibly versatile,” he said. “That’s a capability we
+want to take advantage of.”
+
+This study was supported by the U.S. Army Research Officer (W911NF-14-1-0490),
+the National Institutes of Health (R01-GM098642 and R35GM127042), the Office
+of Naval Research (N00014-12-1-0631), Beijing Municipal Natural Science
+Foundation (5182017) and a David and Lucile Packard Fellowship.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

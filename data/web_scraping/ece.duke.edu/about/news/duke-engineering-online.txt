@@ -1,0 +1,227 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Clearing the Technical Hurdles of Moving Duke Engineering Online
+
+April 14, 2020
+
+Pratt Information Technology has helped an entire school transition to remote
+working and learning in a matter of weeks
+
+From getting a new system set up, to fixing a bug with a new program, to
+managing a data cluster with hundreds of nodes, Pratt Information Technology
+(Pratt IT) is always just a phone call away from solving the technology needs
+of thousands of Duke Engineering faculty, staff and students. And in the time
+of coronavirus keeping most of their usual customers off campus, they still
+are—even though the requests have shifted somewhat.
+
+“Before we had to make the transition to most everyone working from home, we
+already had a few faculty and students using services like Panopto and remote
+desktop, so we had some experience,” said Jim Daigle, director of Pratt IT.
+“But we’ve definitely never done it on this scale. So when the decision came
+down to close most of campus, it was an all-hands-on-deck sort of situation.”
+
+With the writing on the wall for a likely city-wide shutdown, the Duke Office
+of Information Technology (OIT) wisely began compiling documentation to help
+people make the transition. Once the order kicked in, the entire Pratt IT
+office spent several busy days working the help desk to get people remote
+access to their work computers, get their systems set up at home, and figure
+out how to sign in and run meetings on something called Zoom.
+
+For the past 10 years, the Master of Engineering Management Distance Program
+has used a service called Panopto to record lectures in classrooms and
+distribute them to their students online. With the impending coronavirus
+shutdown, the Pratt IT staff also began offering faculty help in using the
+platform to make the transition to remote teaching.
+
+But there were only a few takers. For the most part, everyone has been pretty
+happy with what Zoom has to offer.
+
+“People were already expecting a campus closure, which would have made the
+Panopto option disappear, so they figured why not go ahead and go to Zoom
+now?” said John Vincent, A/V multimedia specialist in Pratt IT. “And Zoom is
+actually a much better platform for most classes because it makes interaction
+between the students and faculty easier."
+
+Unsurprisingly, then, a lot of the calls being fielded by Pratt IT have dealt
+with users getting up to speed with Zoom. Some have issues getting their video
+to work correctly, while others find themselves logged in to a personal
+account rather than a Duke account, which drastically limits the number of
+participants and time allowed. And according to Daigle, one of the biggest
+issues people have been having is figuring out how to use the breakout rooms,
+which allows the formation of smaller groups within the larger Zoom meeting
+that faculty can jump between to discuss material and answer questions.
+
+“We’ve been pretty lucky so far,” said Daigle. “We haven’t had any major
+hardware issues, so it’s been mostly smooth sailing.”
+
+When there are waves in the technical waters, however, smoothing them out can
+take much longer than usual. While there haven’t been any literal fires to put
+out, there have been plenty of cases of people needing new drivers installed
+on their computers or help with installing Duke’s Virtual Private Network
+(VPN) software (which OIT ensured had the bandwidth to handle the increased
+number of users).
+
+And when that happens, social distancing becomes even more of a pain.
+
+“Things that would take only two minutes in person can take more like 15 just
+because you’re having to walk someone through it remotely,” said Sam Naim,
+user services specialist in Pratt IT. “But since Zoom also has an option to
+share your screen with another person, that can help speed things up a bit.”
+
+Naim has also been the person with boots on the ground around campus for the
+first few weeks of the work-from-home orders. When he isn’t setting up remote
+access for a computer system, he’s turning computers back on that have
+randomly shut off for one reason or another.
+
+Pratt IT also has to keep some people on campus on a semi-regular basis to
+continue maintenance on the Fitzpatrick West Data Center. With more than 2,200
+square feet containing computational infrastructure for individual faculty
+ranging from a couple of nodes to a couple hundred, the systems inside are
+critical for computationally intensive research to continue.
+
+For the most part, according to all involved, the transition to online classes
+and meetings has been relatively painless, at least from a technical
+standpoint. The Pratt IT team isn’t necessarily dealing with any more systems,
+they’re just dealing with them in a different way. And with roughly 940
+classes on Tuesdays and Thursdays and 1,100 on Mondays and Wednesdays, and
+with countless classes and business around the world turning to the service,
+there was worry that Zoom might not be able to handle the load.
+
+But it has. At least so far. With more than 6,000 Duke Engineering class
+sections moving online in one week, there’s been an extremely low failure
+rate. And faculty, students and staff alike are beginning to adapt, which
+brings its own set of hopes and expectations for the future.
+
+“The response from the entire school has been amazing for what the ask was,
+but the content isn’t as powerful as it could become with time to take a more
+thoughtful design approach to online learning,” said LaTondra Murray, director
+of online and distance education for Duke Engineering. “One of the challenges
+with getting technology adopted is that nobody wants to be the guinea pig, and
+right now we are all guinea pigs together. With everybody forced to give this
+a try, the experience could be a push for additional faculty to offer online
+sections.”
+
+## Related News
+
+March 30, 2020
+
+### Data at a Distance
+
+March 24, 2020
+
+### Engineering Classes Move Online
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

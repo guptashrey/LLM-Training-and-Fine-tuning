@@ -1,0 +1,212 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » Faculty Profiles
+
+# Leila Bridgeman
+
+Assistant Professor of Mechanical Engineering and Materials Science
+
+Leila Bridgeman joined Duke as an assistant professor of mechanical
+engineering and materials science on January 1, 2018.
+
+She received B.Sc. and M.Sc. degrees in Applied Mathematics in 2008 and 2010
+from McGill University, Montreal. In 2016, she completed a Ph.D. in Mechanical
+engineering, also at McGill University.
+
+Her doctoral research involved a return to the foundational work of George
+Zames, exploring how the theory of conic sectors can be used to design
+controllers that guarantee closed-loop input-output stability when more
+conventional methods fail to apply. Her graduate studies involved research
+semesters at University of Michigan, University of Bern, and University of
+Victoria, along with an internship at Mitsubishi Electric Research
+Laboratories (MERL) in Boston.
+
+Through her research, Leila strives to bridge the gap between theoretical
+results in robust and optimal control and their use in practice. She explores
+how the tools of numerical analysis and input-output stability theory can be
+applied to the most challenging of controls problems, including the control of
+delayed, open-loop unstable, and nonminimum-phase systems. Her focus has been
+on the development of readily-applicable controller synthesis and stability
+analysis methods based on the evaluation of linear matrix inequalities (LMIs).
+Resulting publications have considered applications of this work to robotic,
+process control, and time-delay systems.
+
+She is also interested in model predictive control (MPC) especially when
+applied to switched systems. Bridgeman continues to collaborate with
+colleagues at MERL, enabling the use of MPC in novel applications including
+networked systems, vehicle control, heating, and ventilation.
+
+## Appointments and Affiliations
+
+  * Assistant Professor of Mechanical Engineering and Materials Science
+
+## Contact Information
+
+  * **Office Location:** North Building, Office 129, 304RESEARCH Dr-Box
+    103957, Durham, NC 27708
+  * **Office Phone:** (919) 660-1260
+  * **Email Address:** leila.bridgeman@duke.edu
+  * **Websites:**
+    * Bridgeman Lab - bridgeman.pratt.duke.edu
+
+## Education
+
+  * Ph.D. McGill University (Canada), 2016
+
+## Research Interests
+
+Robust and optimal control, linear matrix inequalities (LMIs), model
+predictive control (MPC), delayed systems, input-output stability, passivity.
+
+## Courses Taught
+
+  * ECE 291: Projects in Electrical and Computer Engineering
+  * ECE 382L: Control of Dynamic Systems
+  * EGR 393: Research Projects in Engineering
+  * ME 344L: Control of Dynamic Systems
+  * ME 392: Undergraduate Projects in Mechanical Engineering
+  * ME 491: Special Projects in Mechanical Engineering
+  * ME 555: Advanced Topics in Mechanical Engineering
+  * ME 591: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 592: Research Independent Study in Mechanical Engineering or Material
+    Science
+  * ME 758S: Curricular Practical Training
+
+## In the News
+
+  * Robotics for a New Generation (Apr 19, 2017 | Pratt School of Engineering)
+
+## Representative Publications
+
+  * Hall, RA; Bridgeman, LJ, _Computationally Tractable Stability Criteria for
+    Exogenously Switched Model Predictive Control_ , Ieee Control Systems
+    Letters, vol 5 no. 5 (2021), pp. 1777-1782 [10.1109/LCSYS.2020.3043866]
+    [abs].
+  * Lavaei, R; Hall, R; Danielson, C; Bridgeman, L, _Constraint Enforcement
+    via Tube-Based MPC Exploiting Switching Restrictions_ , Ieee Control
+    Systems Letters, vol 5 no. 5 (2021), pp. 1789-1794
+    [10.1109/LCSYS.2020.3045391] [abs].
+  * Locicero, EJ; Bridgeman, L, _Sparsity Promoting H-Conic Control_ , Ieee
+    Control Systems Letters, vol 5 no. 4 (2021), pp. 1453-1458
+    [10.1109/LCSYS.2020.3039712] [abs].
+  * Gong, Z; Bridgeman, LJ, _Conic Sector Based Stability Criteria for Time-
+    Delay Systems_ , Proceedings of the Ieee Conference on Decision and
+    Control, vol 2021-December (2021), pp. 4762-4767
+    [10.1109/CDC45484.2021.9683127] [abs].
+  * Bridgeman, LJ; Forbes, JR, _Iterative H2-conic controller synthesis_ ,
+    International Journal of Robust and Nonlinear Control, vol 29 no. 11
+    (2019), pp. 3701-3714 [10.1002/rnc.4581] [abs].
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

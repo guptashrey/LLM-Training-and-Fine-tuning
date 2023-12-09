@@ -1,0 +1,245 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Disordered Materials Could Be Hardest, Most Heat-Tolerant Ever
+
+November 26, 2018 | By Ken Kingery
+
+Computational simulations predict new class of carbides that could disrupt
+industries from machinery to aerospace
+
+Materials scientists at Duke University and UC San Diego have discovered a new
+class of carbides expected to be among the hardest materials with the highest
+melting points in existence. Made from inexpensive metals, the new materials
+may soon find use in a wide range of industries from machinery and hardware to
+aerospace.
+
+A carbide is traditionally a compound consisting of carbon and one other
+element. When paired with a metal such as titanium or tungsten, the resulting
+material is extremely hard and difficult to melt. This makes carbides ideal
+for applications such as coating the surface of cutting tools or parts of a
+space vehicle.
+
+A small number of complex carbides containing three or more elements also
+exist, but are not commonly found outside of the laboratory or in industrial
+applications. This is mostly due to the difficulties of determining which
+combinations can form stable structures, let alone have desirable properties.
+
+A team of materials scientists at Duke University and UC San Diego have now
+announced the discovery of a new class of carbides that join carbon with five
+different metallic elements at once. The results appear online on November 26
+in the journal Nature Communications.
+
+Achieving stability from the chaotic mixture of their atoms rather than
+orderly atomic structure, these materials were computationally predicted to
+exist by the researchers at Duke University and then successfully synthesized
+at UC San Diego.
+
+“These materials are harder and lighter in weight than current carbides,” said
+Stefano Curtarolo, professor of mechanical engineering and materials science
+at Duke. “They also have very high melting points and are made out of
+relatively cheap material mixtures. This combination of attributes should make
+them very useful to a wide range of industries.”
+
+When students learn about molecular structures, they’re shown crystals like
+salt, which resembles a 3-D checkerboard. These materials gain their stability
+and strength through regular, ordered atomic bonds where the atoms fit
+together like pieces of a jigsaw puzzle.
+
+Imperfections in a crystalline structure, however, can often add strength to a
+material. If cracks start to propagate along a line of molecular bonds, for
+example, a group of misaligned structures can stop it in its tracks. Hardening
+solid metals by creating the perfect amount of disorder is achieved through a
+process of heating and quenching called annealing.
+
+The new class of five-metal carbides takes this idea to the next level.
+Jettisoning any reliance on crystalline structures and bonds for their
+stability, these materials rely completely on disorder. While a pile of
+baseballs won’t stand on its own, a pile of baseballs, shoes, bats, hats and
+gloves just might.
+
+The difficulty lies in predicting which combination of elements will stand
+firm. Trying to make new materials is expensive and time-consuming. Computing
+atomic interactions through first principle simulations is even more so. And
+with five slots for metallic elements and 91 to choose from, the number of
+potential recipes quickly becomes daunting.
+
+“To figure out which combinations will mix well, you have to do a spectral
+analysis based on entropy,” said Pranab Sarker, a postdoctoral associate in
+Curtarolo’s lab and one of the first authors of the paper. “Entropy is
+incredibly time-consuming and difficult to calculate by building a model atom-
+by-atom. So we tried something different.”
+
+The team first narrowed the field of ingredients to eight metals known to
+create carbide compounds with high hardness and melting temperatures. They
+then calculated how much energy it would take for a potential five-metal
+carbide to form a large set of random configurations.
+
+If the results were spread far apart, it indicated that the combination would
+likely favor a single configuration and fall apart -- like having too many
+baseballs in the mix. But if there were many configurations tightly clumped
+together, it indicated the material would likely form many different
+structures all at once, providing the disorder needed for structural
+stability.
+
+The group then tested its theory by getting colleague Kenneth Vecchio,
+professor of NanoEngineering at UC San Diego, to attempt to actually make nine
+of the compounds. This was done by combining the elements in each recipe in a
+finely powdered form, pressing them at temperatures up to 4,000 degrees
+Fahrenheit and running 2000 Amps of current directly through them.
+
+“Learning to process these materials was a difficult task,” said Tyler
+Harrington, a PhD student in Vecchio’s lab and co-first author of the paper.
+“They behave differently than any materials that we’ve ever dealt with, even
+the traditional carbides.”
+
+They chose the three recipes their system deemed most likely to form a stable
+material, the two least likely, and four random combinations that scored in
+between. As predicted, the three most likely candidates were successful while
+the two least likely were not. Three of the four intermediate scorers also
+formed stable structures.
+
+While the new carbides are all likely to have desirable industrial properties,
+one improbable combination stood out -- a combination of molybdenum, niobium,
+tantalum, vanadium and tungsten called MoNbTaVWC5 for short.
+
+“Getting this set of elements to combine is basically like trying to squeeze
+together a bunch of squares and hexagons,” said Cormac Toher, an assistant
+research professor in Curtarolo's laboratory. “Going on intuition alone, you’d
+never think that combination would be feasible. But it turns out that the best
+candidates are actually counterintuitive.”
+
+“We don’t know its exact properties yet because it hasn’t been fully tested,”
+said Curtarolo. “But once we get it into the laboratory in the next couple of
+months, I wouldn’t be surprised if it turned out to be the hardest material
+with the highest melting point ever made.”
+
+“This collaboration is a team of researchers focused on demonstrating the
+unique and potentially paradigm-changing implications of this new approach,”
+said Vecchio. “We are using innovative approaches to first-principles modeling
+combined with state-of-the-art synthesis and characterization tools to provide
+the integrated ‘closed-loop’ methodology so necessary for advanced materials
+discovery.”
+
+This work was supported by the Department of Defense Office of Naval Research
+(N00014-15-1-2863, N00014-17-1-2090, N00014-16-1-2583, N00014-17-1-2876).
+
+CITATION: “High-Entropy High-Hardness Metal Carbides Discovered By Entropy
+Descriptors,” Pranab Sarker, Tyler Harrington, Cormac Toher, Corey Oses,
+Mojtaba Samiee, Jon-Paul Maria, Donald W. Brenner, Kenneth S. Vecchio, and
+Stefano Curtarolo. Nature Communications, 2018. DOI:
+10.1038/s41467-018-07160-7
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

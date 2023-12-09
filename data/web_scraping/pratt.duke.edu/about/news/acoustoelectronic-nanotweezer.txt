@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Sound-Induced Electric Fields Control the Tiniest Particles
+
+June 22, 2021 | By Ken Kingery
+
+Acoustoelectronic tweezers gently manipulate biological nanoparticles just a
+few nanometers wide
+
+Engineers at Duke University have devised a system for manipulating particles
+approaching the miniscule 2.5 nanometer diameter of DNA using sound-induced
+electric fields. Dubbed “acoustoelectronic nanotweezers,” the approach
+provides a label-free, dynamically controllable method of moving and trapping
+nanoparticles over a large area. The technology holds promise for applications
+in the fields ranging from condensed matter physics to biomedicine.
+
+The research appears online on June 22 in Nature Communications.
+
+Precisely controlling nanoparticles is a crucial ability for many emerging
+technologies. For example, separating exosomes and other tiny biological
+molecules from blood could lead to new types of diagnostic tests for the early
+detection of tumors and neurodegenerative diseases. Placing engineered
+nanoparticles in a specific pattern before fixing them in place can help
+create new types of materials with highly tunable properties.
+
+For more than a decade, Tony Jun Huang, the William Bevan Distinguished
+Professor of Mechanical Engineering and Materials Science at Duke, has pursued
+acoustic tweezer systems that use sound waves to manipulate particles.
+However, it becomes difficult to push things around with sound when their
+profile drops below that of some of the smallest viruses.
+
+“Although we’re still fundamentally using sound, our acoustoelectronic
+nanotweezers use a very different mechanism than these previous technologies,”
+said Joseph Rufo, a graduate student working in Huang’s laboratory. “Now we’re
+not only exploiting acoustic waves, but electric fields with the properties of
+acoustic waves.”
+
+Instead of using sound waves to directly move the nanoparticles, Huang, Rufo
+and Peiran Zhang, a postdoc in Huang’s laboratory, use sound waves to create
+electric fields that provide the push. The new acoustoelectronic tweezer
+approach works by placing a piezoelectric substrate—a thin material that
+creates electricity in response to mechanical stress—beneath a small chamber
+filled with liquid. Four transducers are aligned on the chamber’s sides, which
+send sound waves into the piezoelectric substrate.
+
+> “Our next goal is to improve the resolution of acoustoelectronic
+> nanotweezers to the level of a single molecule level while scaling up the
+> working area to a meter. With those improvements, we would be able to
+> achieve macroscale materials and devices with precisely positioned
+> nanostructures and unprecedented properties. We believe that our technology
+> will be useful in many important areas including nanomedicine,
+> nanoelectronics, self-assembly and wearable electronics.”
+>
+> tony huang
+
+These sound waves bounce around and interact with one another to create a
+stable pattern. And because the sound waves are creating stresses within the
+piezoelectric substrate, they also create electrical fields. These couple with
+the acoustic waves in a way that creates electric field patterns within the
+chamber above.
+
+“The vibrations of the sound waves also make the electric field dynamically
+alternate between positive and negative charges,” said Zhang. “This
+alternating electric field polarizes the nanoparticles in liquid, which serves
+as a handle to manipulate them.”
+
+The result is a mechanism that mixes some of the strengths of other
+nanoparticle manipulators. Because the acoustoelectronic nanotweezers induce
+an electromagnetic response in the nanomaterials, the nanoparticles do not
+need to be conductive on their own or tagged with any sort of modifier. And
+because the patterns are created with sound waves, their positions and
+properties can be quickly and easily modified to create a variety of options.
+
+In the prototype, the researchers show nanoparticles placed into striped and
+checkerboard patterns. They even push individual particles around in an
+arbitrary manner dynamically, spelling out letters such as D, U, K and E. The
+researchers then demonstrate that these aligned nano-patterns can be
+transferred onto dry films using delicate nanoparticles such as carbon
+nanotubes, 3.5-nanometer proteins and 1.4-nanometer dextran often used in
+biomedical research. And they show that all of this can be accomplished on a
+working area that is tens to hundreds of times larger than current state-of-
+the-art nanotweezing technologies.
+
+This research was supported by the National Institutes of Health (R01GM132603,
+R01GM135486, UG3TR002978, R33CA223908, R01GM127714), the United States Army
+Medical Research Acquisition Activity (W81XWH-18-1-0242), and the National
+Science Foundation (ECCS-1807601).
+
+CITATION: “Acoustoelectronic Nanotweezers Enable Dynamic, Large-Scale Control
+of Nanomaterials,” Peiran Zhang, Joseph Rufo, Chuyi Chen, Jianping Xia,
+Zhenhua Tian, Liying Zhang, Nanjing Hao, Zhanwei Zhong, Yuyang Gu, Krishnendu
+Chakrabarty, and Tony Jun Huang. Nature Communications, June 22, 2021. DOI:
+10.1038/s41467-021-24101-z
+
+## Related News
+
+September 10, 2020
+
+### Sound Waves Replace Human Hands in Petri Dish Experiments
+
+June 11, 2020
+
+### Sound Waves Transport Droplets for Rewritable Lab-on-a-Chip Devices
+
+January 26, 2017
+
+### Sound Waves Create Whirlpools to Round Up Tiny Signs of Disease
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

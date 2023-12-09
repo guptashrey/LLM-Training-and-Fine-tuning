@@ -1,0 +1,189 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Understanding How Energy Travels Through Turbulence
+
+December 16, 2019
+
+Theoretical and computational study shows that "eddies" squeezing themselves
+are mostly responsible for transferring energy to smaller scales in turbulent
+flows
+
+_ByAndrew Bragg, professor of civil and environmental engineering_
+
+While fluids can flow in a variety of ways, turbulence describes the extremely
+complicated, chaotic motion that fluids frequently exhibit in natural and
+engineered systems. The subject has attracted the interests of physicists,
+mathematicians and engineers such as myself for many years, due both to the
+great intellectual challenges it presents, and its profound relevance for
+understanding and modeling atmospheric, oceanic, astrophysical and industrial
+flows.
+
+One key feature of turbulent flows is that they exhibit fluctuating motion
+over a very wide range of scales, for example from millimeters to several
+kilometers, or even larger. Sometimes these scales of motion are referred to
+as “eddies.” Energy is typically injected into the flow at the large scales,
+and is then on average passed down to the smallest scales of the flow where it
+is dissipated by molecular viscosity. This process whereby energy is
+transferred from the large injection scales to the small dissipation scales is
+known as the “energy cascade.”
+
+While the central importance of the energy cascade in turbulent flows has been
+recognized for a long time, understanding the physical mechanisms by which
+this cascade occurs has proved to be a very challenging problem. One of the
+key ideas, perhaps first put forward by the legendary G.I. Taylor of Cambridge
+University in 1932, is that the process of “vortex stretching” drives the
+energy cascade.
+
+In a turbulent flow, there are regions referred to as “vortex tubes,” wherein
+the flow exhibits lots of rotating and swirling motion, without much
+deformation—like a funnel of smoke swirling upward out of a campfire. There
+are also “straining regions,” wherein the flow is being strongly deformed and
+distorted. According to the vortex stretching idea, the straining regions of
+the flow interact with and stretch the vortex tubes, and as they are
+stretched, the cross-sectional area of the tubes contract to conserve angular
+momentum. Due to this contraction, kinetic energy is transferred to smaller
+scales in the turbulent flow, producing the energy cascade.
+
+While this has remained the most popular explanation, over the years several
+questions have been raised concerning its validity. One problem is that the
+argument, while conceptually plausible, has not been demonstrated
+mathematically. Furthermore, some have claimed to provide evidence that vortex
+stretching actually hinders, rather than causes, the energy cascade.
+
+In a new study, my PhD student Maurizio Carbone and I use a combination of
+mathematical analysis, conceptual arguments, and high-performance computing to
+demonstrate that vortex stretching, while contributing to the energy cascade,
+is actually not the main mechanism driving this process.
+
+We instead show that another non-linear process known as “strain self-
+amplification” is the primary cause of the energy cascade. According to this
+mechanism, the straining regions of the flow actually squeeze themselves
+through a nonlinear self-interaction process. As they squeeze themselves, they
+transfer energy down to smaller scales in the turbulent flow. Vortex
+stretching makes an additional, distinct contribution to the energy cascade,
+as predicted by G.I. Taylor, but its contribution is much smaller than that
+coming from the process of strain self-amplification.
+
+These new findings provide a much clearer and more precise understanding of
+perhaps the most central process in turbulent flows—the energy cascade—and may
+provide new insights for how the complexity should be modeled in fields such
+as atmospheric, oceanic, astrophysical and industrial flows.
+
+CITATION: “Is vortex stretching the main cause of the turbulent energy
+cascade.” M Carbone and A.D. Bragg. Journal of Fluid Mechanics, 2019. DOI:
+10.1017/jfm.2019.923
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

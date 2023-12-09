@@ -1,0 +1,216 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Christ Richmond: Developing Tomorrow’s Wireless Protocols
+
+November 29, 2021 | By Ken Kingery
+
+New faculty member Christ Richmond is working to get more value out of limited
+frequency spectrum and using AI to improve and secure wireless connectivity
+
+Christ Richmond will join the faculty of the Department of Electrical and
+Computer Engineering at Duke University beginning January 1, 2022. With
+decades of experience designing and testing new technologies and algorithms to
+improve wireless applications such as radar and communications, Richmond will
+join longtime colleagues at Duke in applying emerging techniques such as
+machine learning to the field.
+
+After earning undergraduate degrees in electrical engineering at the
+University of Maryland at College Park and in mathematics at Bowie State
+University, Richmond completed master’s and doctorate programs at the
+Massachusetts Institute of Technology. For more than two decades, Richmond
+worked as a senior staff member with the Advanced Sensor Techniques Group at
+the MIT Lincoln Laboratory before joining the faculty at Arizona State
+University in 2017.
+
+Through all of his work, Richmond has pushed the boundaries of what modern
+technology can do with electromagnetic and acoustic waves. While most people
+are more familiar with the spectrum of electromagnetic waves that we can
+see—visible light—other frequencies are used for a wide variety of purposes
+such as radio, radar, WiFi, Bluetooth, satellite communications, cellular
+telephones, 5G devices and more. If it sounds like a crowded space to be
+playing in, that’s because it is.
+
+“Think of the electromagnetic spectrum as a parking lot and each of these
+frequency bands­­ as parking spaces,” said Richmond. “Just like real estate,
+certain spots are more attractive than others, and everybody wants the good
+ones.”
+
+The agency that decides who gets what spaces is the Federal Communications
+Commission, or FCC. According to Richmond, the FCC has historically reserved
+the best spots for the military and for civilian organizations with important
+aims, like atmospheric observation. But a few decades ago, a large swath of
+these valuable frequencies were sold to private corporations on the promise
+that researchers would be able to figure out how to do more with less
+electromagnetic real estate.
+
+> “We need to figure out how to get all of these signals to dance together in
+> a coordinated way without stepping on each other. This requires the radar
+> talking with the satellite signals through computers and algorithms. But if
+> we can get them to work together as an extension of each other, we might
+> just be able to make both work better as a team than as individuals.”
+>
+> christ richmond
+
+Fast forward to today, and Richmond is one of the researchers still building
+those bridges. Along with colleagues Robert Calderbank, the Charles S. Sydnor
+Distinguished Professor of Computer Science and director of the Information
+Initiative at Duke, and Vahid Tarokh, the Rhodes Family Professor of
+Electrical and Computer Engineering, Richmond is working on a proposal that
+would let users of spectrum share the same frequency band, or perhaps even
+coexist simultaneously within the same band (or in the language of cars and
+parking spaces, these cars will share parking spaces, or perhaps even park on
+top of one another).
+
+“We need to figure out how to get all of these signals to dance together in a
+coordinated way without stepping on each other,” said Richmond. “This requires
+the radar talking with the satellite signals through computers and algorithms.
+But if we can get them to work together as an extension of each other, we
+might just be able to make both work better as a team than as individuals.”
+
+Richmond’s other primary line of research, which is also a collaboration with
+Calderbank and Tarokh, involves applying evolving machine learning techniques
+to wireless communications. The trio already has a running start. In October
+2020, the team landed a five-year, $5 million grant from the Air Force to
+develop AI-informed communication and networking protocols fast and reliable
+enough to handle Air Force requirements.
+
+To help explain their efforts in this arena, Richmond says to consider that
+all of today’s wireless communication algorithms are based on a model of how
+the waves should behave. As long as the signal is strong and the assumed model
+holds, then the technology can decipher the incoming data. But when the
+incoming waves no longer look as expected due to interference or degradation
+over time and space, the model breaks down and the signal is lost.
+
+“We’re moving away from developing algorithms that are based on a model and
+instead are basing them on AI,” said Richmond. “These types of approaches rely
+on data rather than a model. So as long as you train it with enough data from
+a wide range of less-than-ideal scenarios, it can adapt itself to changes in
+the environment. The potential is really amazing.”
+
+With strong collaborators at Duke and a multimillion-dollar center already in
+the works, it might only have been a question of when Richmond joined the
+faculty rather than if. In any case, Richmond says he is excited about the
+opportunities the move will create for him in a wide variety of topics.
+
+“I’ve stayed in touch with lots of people now at Duke for a long time. They
+kept telling me that I ought to think about coming here too, and once I looked
+at what’s going on, it was very attractive in a lot of ways,” said Richmond.
+“I’ve been told the students are very good, so I’m excited about that. There’s
+also a lot of fantastic young faculty and I’m interested in a bunch of
+projects going on at the medical school too. I think the longer I’m here, the
+more I will find opportunities for new collaborations.”
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

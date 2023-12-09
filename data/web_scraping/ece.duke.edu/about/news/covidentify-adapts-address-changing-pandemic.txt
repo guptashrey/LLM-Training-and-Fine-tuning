@@ -1,0 +1,211 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# 'Covidentify' Adapts to Address a Changing Pandemic
+
+June 12, 2020
+
+Smart watch study expands by providing devices in underserved areas
+
+Researchers at Duke University are expanding a recent study intended to help
+identify the symptoms of COVID-19, the disease caused by the novel
+coronavirus. This expanded effort will help the team establish a more
+comprehensive method of early-symptom detection and provide more information
+about how the virus can spread through a community.
+
+Originally launched on April 2, 2020, CovIdentify was designed to explore how
+data collected by smartphones, Apple Watches and other smartwatches could help
+determine whether or not device users have COVID-19. The project, led by
+assistant professor of biomedical engineering Jessilyn Dunn, Ryan Shaw, an
+associate professor of nursing and director of the Health Innovation Lab, and
+other collaborators in Duke Health and MEDx (Medicine + Engineering at Duke),
+explores how biometric information, like sleep schedules, oxygen levels,
+activity levels and heart rate, can help indicate early symptoms of COVID-19.
+
+In the expanded phase of their study, the team will launch an iOS application
+and send devices to target populations and underserved communities that are at
+the highest risk of contracting the coronavirus. They have also established
+formal partnerships with Garmin and Fitbit, to expand the kinds of devices
+available for the study.
+
+“Our team recognized that COVID-19 was going to be a long-term health care
+problem, and we knew that wearable devices and smartphones would be a good way
+to develop digital biomarkers that could determine a COVID-19 infection,” said
+Shaw. “One of our goals is to expand our data collection capabilities, which
+will increase our ability to differentiate the COVID-19 infection from other
+illnesses. This differentiation is going to be key, as we expect to see waves
+of resurgence pop up as the country opens back up, and some of these flare-ups
+may coincide with flu season.”
+
+Dunn and her team have noted that the coronavirus has had a disproportionate
+effect on underserved communities, minorities and people with chronic
+illnesses like diabetes and hypertension. Working with collaborators Chris
+Woods, MD, the associate director of the Duke Center for Applied Genomics and
+Precision Medicine, and Geoffrey Ginsburg, the director of MEDx, the team
+plans to target and collect more comprehensive biometric data from these
+communities.
+
+“We’re seeing that underrepresented minorities are at a much greater risk of
+both contracting COVID-19 and developing a more severe illness, so it’s
+important that we explore what biometric factors may contribute to that risk,”
+said Shaw.
+
+In the first phase of CovIdentfy, the team launched the covidentify.org
+website, which allows participants to input their relevant demographics and
+medical information. Delivered via text or email, the daily survey asks
+participants about people they’ve been in contact with and about specific
+symptoms if they feel sick. Participants are also asked to share biometric
+data from their smartphones and smartwatches. The team then matches the
+biometric data with answers from the survey questions to use the relationship
+between reported symptoms and any changes in the biometric data to develop
+biomarkers.
+
+“The iOS app will ideally simplify the sign up and survey process, and it
+expands the tools we can work with,” said Dunn. “The CovIdentify app will be
+able to pull data from any device that syncs with the Apple Healthkit
+application, which is a standard app on all iPhones.”
+
+To ensure that they’re also pulling data from a variety of sources and
+communities, the team developed a plan to target recruitment of people that
+have a higher risk of contracting the disease, including delivery drivers,
+grocery store workers, hospital cleaning and cafeteria staff and nurse aids.
+They are also exploring how they can deploy watches in high-density housing
+like nursing homes, college dorms, military barracks and homeless shelters.
+
+Study sponsors are supplying devices to people in these key populations who
+would not otherwise be able to afford a wearable device. The team is also
+ramping up their targeting efforts in locations outside of the United States
+where viral hotspots have been identified.
+
+“We’ve put together targeted social media advertising for the study, which is
+deployed in cities around the globe that report an increase in positive
+cases,” said Dunn. “This is a global pandemic, so it’s important that we can
+we can work with data collected from around the world to begin developing
+comprehensive diagnostic solutions and manage outbreaks.”
+
+Initially, CovIdentify was projected to run through the end of 2020, which
+would allow the team to collect 12 months of historical data from the wearable
+devices and six months of data going forward. With expanded support from Duke,
+the project will now run through 2021.
+
+“If CovIdentify is successful, it will be a non-invasive and accessible tool
+that can help us control the spread of the coronavirus,” said Dunn. “This
+expanded support brings this goal closer to becoming a reality, and we’re
+grateful for the support from Duke and from our partners in industry.”
+
+If you’re interested in participating in the program, you can sign up at
+covidentify.org.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,163 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Teaching machines to watch TV
+
+July 10, 2013 | by Karl Bates
+
+Leslie Collins' signal processing group is working to turn moving pictures
+into data that could be analyzed statistically
+
+from _Duke Engineering: Leading Research 2013_
+
+Watching TV is one of the things that computers cannot do better than humans.
+They’re terrible at it, in fact. But Leslie Collins’ signal processing group
+in ECE is working to change that.
+
+The “big data” potential is vast: Turning a moving picture into data that
+could be analyzed statistically in something approaching real time opens up
+all sorts of questions to ask of security cameras, Google Street View,
+environmental sensing images, just about anything visual.
+
+Their interest in video analytics grew out of the Collins group’s work on
+landmine detection. Looking at a long-running stream of 3-D ground-penetrating
+radar scans as a military vehicle drove a bouncing and potentially mineladen
+road in Iraq, assistant research professor Peter Torrione got to thinking
+“It’s kind of a movie. We could probably get into video processing.”
+Unfortunately, the best algorithms developed so far take a couple of seconds
+per frame to make a statistical determination of whether there’s anything
+unusual in the visual data. Smooth video shot at 30 or 40 frames per second
+would quickly overwhelm such a system.
+
+A big part of the problem for video analytics is that computers haven’t
+learned their shapes yet. The state of the art in detecting a human is
+developing, but can be thrown off by lighting, objects in the way, or the
+camera angle, Torrione said. Show the computer a car in any orientation, and
+it doesn’t have a clue.
+
+With support from an industry partner, the group is now working to solve that
+in a step-wise fashion. Their proof of concept so far is a rather spectacular
+demonstration of a webcam and five PCs driving a red sports car at 130 miles
+per hour on a winding mountain road in the video game Need for Speed. With no
+more input than the video camera, the computers are interpreting what they see
+on the screen and sending controls to the PS3 game console to operate the
+virtual car’s steering, acceleration and brakes. It’s a remarkable advance for
+natural vision recognition.
+
+The system makes these interpretations and decisions rapidly enough that the
+car doesn’t just go sailing off into oblivion, and it wins races against the
+gaming console most of the time.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

@@ -1,0 +1,277 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# When a 'Pros and Cons' List Won't Cut It
+
+November 25, 2019 | Miranda Volborth
+
+From food choices to land management, Duke engineers wrestle with the
+complexities of modeling risk
+
+Imagine a small community of several thousand people, whose traditional diet
+is composed largely of locally caught fish.
+
+Now imagine that mercury levels in the fish may increase as a result of
+industrial development. The community should stop eating the fish, right?
+
+But what if the community is located in the remote northern part of North
+America, and most affordable available alternatives are highly processed or
+pre-packaged empty-calorie foods?
+
+Trying to weigh one risk against the other embodies the classic “apples and
+oranges” problem. You’d need some kind of tool that could reconcile the two
+different risks—increased mercury exposure versus reduced nutritional
+sufficiency—in terms of a common unit, so you could directly compare possible
+impacts and outcomes.
+
+Enter Ryan Calder, a postdoctoral researcher in the lab of Duke civil and
+environmental engineering professor Mark Borsuk, who works to synthesize
+complex questions like these into quantitative models that support individual
+and policy decisions.
+
+The above problem is a real one, which Calder worked on while completing his
+doctoral degree at Harvard in the lab of Elsie Sunderland, a biogeochemist. In
+Labrador, Canada, an Inuit community lives downstream of a recently completed
+hydropower facility called Muskrat Falls. While scientists have known for
+decades that flooding hydroelectric reservoirs accelerates the production of
+neurotoxic methylmercury, they have disagreed strongly about the implications
+for human health and the effectiveness of risk mitigation decisions.
+
+In the case of Muskrat Falls, these disagreements were compounded by unknowns
+about the physical system—there was very little data for impacts on downstream
+estuaries, such as the one that serves as the traditional hunting and fishing
+territory for indigenous Inuit. When the facility was in its planning stages,
+the developer claimed that there would be no impacts at all on the downstream
+environment. That raised a red flag for indigenous communities and scientists
+alike.
+
+“Flooding for hydropower accelerates methylmercury production, so we were sure
+it wasn’t zero risk,” said Calder, who hails from Quebec. But the parties
+couldn’t agree on how big the risks actually were, or the best way the protect
+the health of the community. “Environmental scientists see what’s happening to
+the fish and suggest food advisories. But public health professionals and
+nutritionists have been more nuanced—if you say ‘don’t eat the fish,’ what
+substitutions might they make, and what risks do those choices pose?”
+
+Calder’s work created a tool for decision-makers to anticipate methylmercury
+impacts associated with hydroelectric development, benefits of risk mitigation
+strategies and the tradeoffs of food consumption advisories. This work
+suggested that, for people who rely on traditional foods for nourishment, the
+risks of reducing their intake of local foods exceeded the risks of increased
+methylmercury. “On the one hand, it is important to understand that any
+increase in methylmercury exposures will increase risks—that is a problem that
+needs to be addressed and not ignored,” said Calder. “On the other hand, it is
+important not to adopt a policy response that will create even bigger risks.”
+(Though neither outcome was desirable, the Muskrat Falls project proceeded—but
+that’s another story entirely.
+
+#### Modeling a Messy Reality
+
+These practical decision-making challenges can be incredibly complex because
+of the disparate points of view that must be accounted for—not just in the
+political sphere, but in the scientific one as well. Disagreements and
+disputes between stakeholders that cross traditional disciplines are what
+drives much of Calder’s work. He uses tools from risk analysis to structure
+much of his work, where risk is classically defined as hazard multiplied by
+the probability of occurrence. “But when everything that you’re multiplying is
+a whole world of scientific controversy, it gets a little complicated to
+produce a globally reliable and rigorous assessment that won’t be destroyed in
+peer review,” said Calder.
+
+But the results matter, he added. That’s why he is dedicated to the work, and
+why he was recruited by Borsuk’s lab at Duke, called the Modeling
+Environmental Risks and Decisions Group, or MERDG.
+
+MERDG takes the complex problems faced by policymakers, individuals and other
+stakeholders—which are often posed in terms much more general and subject to
+much greater uncertainties than what is anticipated by existing scientific
+literature—and strives to provide credible quantitative estimations that can
+help them make decisions.
+
+“There are a lot of modeling tools that will describe environments under very
+specific assumptions. Reality is a lot messier,” said Calder. “There are a lot
+of social factors, and the environment is dynamic and unbounded. We take these
+nebulous systems and structure them into quantitative frameworks that can
+generate recommendations for action.”
+
+#### Maximizing the Value of Ecosystem Services
+
+For example, military bases across the U.S., though located alongside urban or
+suburban communities, are generally huge and sparsely developed. These bases
+can provide valuable “ecosystem services” like habitat for plants and
+wildlife, recreational opportunities for nearby occupants, and natural
+resources like timber. How is that value best preserved and maximized—through
+active management, or by leaving the ecosystem to its own devices? How much
+are these services worth to the local community, compared to whatever would
+occupy the land if the base weren’t there?
+
+In collaboration with colleagues at the Nicholas Institute for Environmental
+Policy Solutions, Portland State University and UCLA, MERDG developed a
+modeling platform called MoTIVES (Model-based Tracking and Integrated
+Valuation of Ecosystem Services) that ascribes monetary value to ecosystem
+services and compares how they might gain or lose value under different
+management strategies and land-use scenarios.
+
+In its pilot project, supported by the US Department of Defense’s Strategic
+Environmental Research and Development Program (SERDP), the group considered
+Florida’s Eglin Air Force Base, which supports the largest mature longleaf
+pine forest in the world and provides habitat for eight federally listed
+threatened or endangered species. Their simulations showed that current
+management practices at Eglin, which include prescribed burning and some
+timber harvesting, generate higher net benefits than both a “hands-off”
+scenario and a scenario in which the base didn’t exist at all. This valuation
+calculated that current management activities may generate roughly $90.5
+million more per year in ecosystem services for the local community than an
+alternative scenario in which the base were closed and developed similarly to
+adjacent land—powerful information for decision-making about land use in the
+United States, where public investments result in benefits that are often
+diffuse and hard to quantify.
+
+Now that the methodology and proof of concept for Eglin have been published,
+the group hopes to obtain additional funding from SERDP to apply it more
+broadly.
+
+“This project is one of several being pursued by MERDG,” said Borsuk, “that
+seek to convert scientists’ evolving knowledge and good faith estimates of
+risk and uncertainty, from being excuses for policy inaction into
+opportunities to better articulate the value of specific activities that can
+be taken to reduce risk. This perspective is needed on issues as diverse as
+climate change, biotechnology and artificial intelligence. In each case, there
+are concrete actions that could be taken now that both provide immediate
+benefit _and_ improve our understanding of what might be required in the
+future.”
+
+With professor of law and public policy Jonathan Wiener, Borsuk co-directs
+Duke’s new Center on Risk, which focuses on tradeoffs like the ones
+characterized by Muskrat Falls and Eglin Air Force base. MERDG is an active
+participant in The Bridge Collaborative, a partnership between Duke, the
+International Food Policy Research Institute (IFPRI) and PATH, while Calder is
+also a member of the North Carolina chapter of the Scholars Strategy Network.
+These partnerships play a key role in maintaining the impactfulness and
+responsiveness of the MERDG research agenda.
+
+Learn More
+
+## Related News
+
+May 23, 2018
+
+### Risky Business
+
+July 07, 2016
+
+### Mark Borsuk: Valuing the Invaluable, Predicting the Unpredictable
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

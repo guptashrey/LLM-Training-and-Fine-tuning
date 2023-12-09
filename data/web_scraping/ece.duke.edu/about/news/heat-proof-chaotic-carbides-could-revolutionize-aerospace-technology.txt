@@ -1,0 +1,243 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Heat-Proof Chaotic Carbides Could Revolutionize Aerospace Technology
+
+October 11, 2022 | By Ken Kingery
+
+Super-hard, high-temperature, “high-entropy” carbides demonstrate plasmonic
+properties useful for a wide range of aerospace applications
+
+A group of scientists led by Duke University have engineered a new class of
+materials capable of producing tunable plasmonic properties while withstanding
+incredibly high temperatures.
+
+Plasmonics is a technology that essentially traps the energy of light within
+groups of electrons oscillating together on a metallic surface. This creates a
+powerful electromagnetic field that interacts with incoming light, allowing
+devices to absorb, emit or otherwise control specific frequencies across much
+of the electromagnetic spectrum.
+
+The new materials are hard enough to stir molten steel and can withstand
+temperatures above 7,000 degrees Fahrenheit – about the same temperatures
+found just a few hundred miles above the surface of the sun. Coupled with
+their newly discovered plasmonic abilities, the carbides could achieve
+improved communications and thermal regulation in technologies including
+satellites and hypersonic aircraft.
+
+The research appears online October 11 in the open access journal Nature
+Communications.
+
+“The standard metals used in plasmonics research, such as gold, silver and
+copper, melt at relatively low temperatures and need protection from the
+elements,” said Arrigo Calzolari, a researcher at the Istituto Nanoscienze of
+Consiglio Nazionale delle Ricerche in Modena, Italy “That means they can’t be
+used in rockets, satellites or other aerospace applications. But these new
+materials we are developing open a completely new working arena because they
+can create plasmonic effects at incredibly high temperatures.”
+
+The abilities come from a class of disordered ceramics discovered in 2018 by
+Stefano Curtarolo, professor of mechanical engineering and materials science
+at Duke, called “high-entropy” carbides. Jettisoning the reliance on the
+crystalline structures and bonds that keep traditional materials together,
+these high-entropy carbides rely on a combination of many disorderly elements
+of various sizes to enhance stability. While a pile of baseballs won’t stand
+on its own, a pile of baseballs, shoes, bats, hats and gloves just might
+support a resting baseball player.
+
+> “After running the recipe ideas through the disorder models and calculations
+> we’ve been developing, we discovered that they do have plasmonic properties,
+> and that we can tune them by tweaking the recipes.”
+>
+> stefano curtarolo
+
+The original group of high-entropy materials were made of carbon and five
+different metallic elements, technically making them a class of carbides.
+Since then, Curtarolo has secured a $7.5 million grant through the US
+Department of Defense’s Multidisciplinary University Research Initiative
+(MURI) competition to develop a suite of AI-materials tools capable of
+designing similar materials with tailored properties on demand.
+
+Calzolari knew about these materials and the project Curtarolo was leading. He
+also knew that tantalum carbide (a parent yet simpler system) is extremely
+durable and exhibits plasmonic abilities in the visible spectrum. But the
+material can’t be tuned to different frequencies of light outside of its
+natural range, limiting its usefulness in real-world applications. Putting two
+and two together, Calzolari and Curtarolo joined forces on a hunch that
+certain recipes for high-entropy carbides – especially those containing
+tantalum – could demonstrate tunable plasmonic properties across a wide
+spectrum.
+
+Less than six months later, they were proven right.
+
+“Arrigo came to me to make sure these carbide mixtures would work and that
+they would have plasmonic properties,” Curtarolo said. “After running the
+recipe ideas through the disorder models and calculations we’ve been
+developing, we discovered that they do have plasmonic properties, and that we
+can tune them by tweaking the recipes.”
+
+In the paper, the researchers’ models show that 14 different high-entropy
+recipes demonstrate plasmonic properties across the near-infrared and visible
+spectrum of light, making them good candidates for optical and
+telecommunication applications. They also worked with Douglas Wolfe, professor
+of materials science and engineering and the metals, ceramics, coating
+processing department head for the applied research laboratory at Penn State,
+to prove their theory experimentally.
+
+As a member of the MURI project led by Curtarolo, Wolfe was already familiar
+with high-entropy carbides. He happened to have a sample of one of the recipes
+in question, which helped the group to quickly demonstrate the plasmonic
+properties of HfTa4C5 and showed that they matched well with their
+computational models.
+
+> “These materials bring together plasmonics, hardness, stability and high
+> temperatures into a single material. And they can be tailored to specific
+> applications, which isn’t possible using standard materials because you
+> can’t change properties defined by nature.”
+>
+> stefano curtarolo
+
+The paper lays out different compositions that work better or worse than each
+other in various frequency ranges. The researchers plan to continue to create
+new recipes and test them for potential use in a wide range of applications,
+such as antennas, light and heat manipulation, and many more on any device
+that is subjected to ultra-high temperatures.
+
+“These materials bring together plasmonics, hardness, stability and high
+temperatures into a single material,” Curtarolo said. “And they can be
+tailored to specific applications, which isn’t possible using standard
+materials because you can’t change properties defined by nature.”
+
+This work is supported by the Office of Naval Research (N00014-21-1-2132,
+N00014- 20-1-2525, N00014-20-1-2299).
+
+CITATION: “Plasmonic High-entropy Carbides,” Arrigo Calzolari, Corey Oses,
+Cormac Toher, Marco Esters, Xiomara Campilongo, Sergei P. Stepanoff, Douglas
+E. Wolfe, and Stefano Curtarolo. Nature Communications, Oct. 11, 2022. DOI:
+10.1038/s41467-022-33497-1
+
+Online - https://www.nature.com/articles/s41467-022-33497-1
+
+## Related News
+
+February 24, 2021
+
+### Strengthened by Chaos, New Super-Hard Materials Will Stir Steel Together
+
+November 26, 2018
+
+### Disordered Materials Could Be Hardest, Most Heat-Tolerant Ever
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

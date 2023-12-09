@@ -1,0 +1,236 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# ‘Floppy’ Atomic Dynamics Help Turn Heat into Electricity
+
+September 4, 2020 | By Ken Kingery
+
+‘Cold neutrons’ uncover atomic dynamics that give thermoelectric materials
+low-heat conductivity
+
+Materials scientists at Duke University have uncovered an atomic mechanism
+that makes certain thermoelectric materials incredibly efficient near high-
+temperature phase transitions. The information will help fill critical
+knowledge gaps in the computational modeling of such materials, potentially
+allowing researchers to discover new and better options for technologies that
+rely on transforming heat into electricity.
+
+The results appear online on September 4 in the journal Nature Communications.
+
+Thermoelectric materials convert heat into electricity when electrons migrate
+from the hot side of the material to the cold side. Because providing a
+temperature difference between its two sides is required, researchers are
+interested in trying to use these materials to generate electricity from the
+heat of a car’s tailpipe or recovering energy lost as heat in power plants.
+
+Over the past couple of years, new records were set for thermoelectric
+efficiency with an emerging material called tin selenide and its sister
+compound, tin sulfide. The sulfide version is not quite as good a
+thermoelectric yet, but it is being optimized further because it is cheaper to
+produce and more environmentally friendly.
+
+While scientists know that both of these compounds are excellent
+thermoelectric materials, they don’t exactly know why. In the new study,
+Olivier Delaire, associate professor of mechanical engineering and materials
+science at Duke, and two of his graduate students, Tyson Lanigan-Atkins and
+Shan Yang, tried to fill in a bit of that knowledge gap.
+
+“We wanted to try to understand why these materials have such low thermal
+conductivity, which helps enable the strong thermoelectric properties they’re
+known for,” said Delaire. “Using a powerful combination of neutron scattering
+measurements and computer simulations, we discovered that it’s related to the
+material’s atomic vibrations at high temperature, which nobody had seen
+before.”
+
+Low thermal conductivity is a necessary ingredient of any good thermoelectric
+material. Because electricity generation requires a heat differential between
+its two sides, it makes sense that materials that stop heat from spreading
+across them would perform well.
+
+To get a view of tin sulfide’s atomic vibrations in action, Delaire and
+Lanigan-Atkins took samples to the High Flux Isotope Reactor at Oak Ridge
+National Laboratory. By ricocheting neutrons off of the tin sulfide’s atoms
+and detecting where they end up after, the researchers could determine where
+the atoms were and how they were collectively vibrating in the crystal’s
+lattice.
+
+The facilities at ORNL were particularly well-suited for the task. Because the
+atomic vibrations of tin sulfide are relatively slow, the researchers need
+low-energy “cold” neutrons that are delicate enough to see them. And ORNL has
+some of the best cold-neutron instruments in the world.
+
+“We found that the tin sulfide effectively has certain modes of vibration that
+are very ‘floppy,’” said Delaire. “And that its properties are connected with
+inherent instability in its crystal lattice.”
+
+At lower temperatures, tin sulfide is a layered material with distorted grids
+of tin and sulfide lying on top of another, corrugated like an accordion. But
+at temperatures near its phase transition point of 980 degrees
+Fahrenheit—which is where thermoelectric generators often operate—that
+distorted environment begins to breaks down. The two layers, as if by magic,
+become undistorted again and more symmetric, which is where the “floppiness”
+comes into play.
+
+Because the material is sloshing between the two structural arrangements at
+high temperature, its atoms no longer vibrate together like a well-tuned
+guitar string and instead become anharmonically damped. To understand this
+better, think of a car with terrible shocks as having a harmonic vibration —
+it will keep bouncing long after going over the slightest bump. But proper
+shocks will dampen that vibration, making it anharmonic and stopping it from
+oscillating for a long time.
+
+“Heat waves travel through atomic vibrations in a material,” said Delaire. “So
+when the atomic vibrations in tin sulfide become floppy, they don’t transmit
+vibrations very quickly and they also don’t vibrate for very long. That’s the
+root cause of its ability to stop heat from traveling within it.”
+
+With these results in hand, Delaire and Yang then sought to confirm and
+understand them computationally. Using supercomputers at Lawrence Berkeley
+National Laboratory, Yang was able to reproduce the same anharmonic effects at
+high temperatures. Besides confirming what they saw in the experiments,
+Delaire says these updated models will allow researchers to better search for
+new thermoelectric materials to use in tomorrow’s technologies.
+
+“Researchers in the field have not been accounting for strong temperature
+dependences on heat propagation velocities, and this modeling shows just how
+important that variable can be,” said Delaire. “Adopting these results and
+other theoretical advances will make it easier for materials scientists to
+predict other good thermoelectric materials.”
+
+This research was supported by the Department of Energy (DE-SC0019299, DE-
+SC0016166).
+
+CITATION: “Extended anharmonic collapse of phonon dispersions in SnS and
+SnSe,” T. Lanigan-Atkins, S. Yang, J. L. Niedziela, D. Bansal, A. F. May, A.
+A. Puretzky, J. Y. Y. Lin, D. M. Pajerowski, T. Hong, S. Chi, G. Ehlers, and
+O. Delaire. Nature Communications, 2020. DOI: 10.1038/s41467-020-18121-4
+
+## Related News
+
+April 13, 2020
+
+### New Handle for Controlling Electromagnetic Properties Could Enable
+Spintronic Computing
+
+November 01, 2018
+
+### Atomic Path from Insulator to Metal Messier than Thought
+
+October 08, 2018
+
+### Copper Ions Flow Like Liquid through the Frozen Atomic Network of a
+Crystal
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

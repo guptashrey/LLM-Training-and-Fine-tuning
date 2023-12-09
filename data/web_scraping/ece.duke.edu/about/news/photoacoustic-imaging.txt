@@ -1,0 +1,221 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Lasers Make Sound Waves That Reveal Live Views of Organs in Action
+
+May 10, 2017 | By Ken Kingery
+
+Full-body scans of small animals achieved in real-time with high resolution
+
+Biomedical engineers are now able to take a live, holistic look at the inner
+workings of a small animal with enough resolution to see active organs,
+flowing blood, circulating melanoma cells and firing neural networks.
+
+The technique dubbed "single-impulse photoacoustic computed tomography (SIP-
+PACT)" uses the best of both light and ultrasound to peer inside living
+animals. Researchers at the Optical Imaging Laboratory led by Caltech’s Lihong
+Wang have shown this hybrid imaging technology breaks the longstanding
+resolution and speed barriers in small-animal whole-body imaging. It provides
+a full cross-sectional view of a small animal's internal functions in real
+time.
+
+The results appear online on May 10, 2017, in Nature Biomedical Engineering.
+Wang conducted this research while the Optical Imaging Laboratory was located
+at Washington University in St. Louis. He moved the lab to Caltech in January
+2017.
+
+"Photoacoustic imaging has been highly expected to get real-time whole-body
+imaging of a small animal with rich functional information," said Junjie Yao,
+assistant professor of biomedical engineering at Duke University, who was an
+engineer in the Optical Imaging Laboratory when the research was conducted.
+"With this advance, researchers can easily watch as drugs are distributed
+throughout an animal and track how different organs respond."
+
+Photoacoustic imaging combines a variety of imaging techniques into one
+platform.
+
+Traditional light-based microscopy provides fast, high-resolution images that
+retain important functional information based on the wavelengths of light
+(i.e., colors) that the tissue absorbs, reflects or emits. The significant
+amount of light that scatters as it travels through tissue, however, limits
+the depth of light microscopy to just a few millimeters.
+
+Ultrasound waves easily travel through tissue, providing a much more in-depth
+view, but do not have the ability to read tissue's chemical components and
+miss much of the important information that light carries with it. Magnetic
+resonance imaging (MRI) can also see deep into tissue, but requires a strong
+magnetic field and often takes seconds to minutes to form an image. X-rays and
+positron emission tomography (PET) deliver too much radiation to the subject
+to be practical over long time periods.
+
+Photoacoustic imaging uses powerful but extremely short laser bursts that
+safely cause cells to emit ultrasound waves, which then travel unimpeded back
+through the tissue.
+
+"It's basically compressing one second's worth of summer-noon sunlight over a
+finger nail area into a single nanosecond," said Yao, who has been working
+with the technology for nearly a decade. "When the laser hits a cell, the
+energy causes it to heat up a tiny bit and expand instantaneously, creating an
+ultrasonic wave. It's like the difference between pushing on something to
+slowly move it and striking it to cause a vibration."
+
+The result is an imaging technique that can peer up to five centimeters into
+the typical biological tissue with sub-millimeter-level resolution while
+retaining the functional information provided by traditional optical
+microscopy. For example, melanin absorbs near-infrared light, while blood's
+reaction to light differs depending on how much oxygen it is carrying.
+
+"This penetration range enables functional imaging of whole bodies of small
+animals. This capability is expected to enable all kinds of biological studies
+in small animals and to accelerate drug discovery," said Lihong Wang, the Bren
+Professor of Medial Engineering and Electrical Engineering at CalTech.
+
+In the new paper, Yao and colleagues led by Dr. Lihong Wang at the California
+Institute of Technology add the highly desired speed and panoramic views to
+the imaging technology's repertoire. They have built a circular ultrasonic
+detector and a fast data-acquisition system that can triangulate the origin of
+an ultrasonic wave from anywhere within the body of a small animal. And with
+the help of a fast laser that operates within the safety limit, the upgraded
+device can image the full cross-section of an adult rat 50 times per second,
+providing detailed movies of its inner workings with 120-micrometer
+resolution.
+
+"The panoramic effect provides information from all directions and all angles,
+so you do not lose any information from each laser shot," said Yao. "You can
+see the dynamics of the body in action -- the pumping of the heart, the
+dilation of arteries, the functioning of various tissues."
+
+In the paper, Yao and colleagues describe how they use these abilities to
+track cancerous melanoma cells traveling through blood vessels of a mouse.
+They also demonstrate the ability to watch entire neural networks firing in
+real time.
+
+"This approach is especially powerful because it does not rely on the
+injection of any type of contrast agent," said Yao. "You can be sure that
+changes are not caused by foreign variables. We think that this technology
+holds great potential for both pre-clinical imaging and clinical translation."
+
+This work was supported by the US National Institutes of Health (DP1 EB016986,
+R01 CA186567, U01 NS090579, R01 EB016963, S10 RR026922).
+
+"Single-impulse Panoramic Photoacoustic Computed Tomography of Small-Animal
+Whole-body Dynamics at High Spatiotemporal Resolution." Lei Li, Liren Zhu,
+Cheng Ma, Li Lin, Junjie Yao, Lidai Wang, Konstantin Maslov, Ruiying Zhang,
+Wanyi Chen, Junhui Shi, Lihong V. Wang. Nature Biomedical Engineering, 2017.
+DOI: 10.1038/s41551-017-0071
+
+###
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

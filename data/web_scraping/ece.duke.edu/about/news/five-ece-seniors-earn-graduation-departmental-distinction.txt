@@ -1,0 +1,251 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Five ECE Seniors Earn Graduation with Departmental Distinction
+
+May 21, 2018
+
+Students demonstrated excellence in their areas of independent study
+
+The Department of Electrical and Computer Engineering (ECE) awarded five of
+its students Graduation with Departmental Distinction, a designation which was
+announced during Commencement on May 18, 2018. Lucy Zhang, Henry Yuen, Aditya
+Srinivasan, Jay Doherty and Jihane Bettahi achieved the designation. Each of
+these five graduates undertook independent study focusing on areas of
+particular interest to them, and distinguished themselves through excellence
+in their written and oral presentations to ECE faculty.
+
+“ECE’s Graduation with Departmental Distinction committee had the pleasure of
+learning about the independent research of five seniors in our department this
+year, through both extensive written reports and oral presentations,” said
+Associate Professor John Board, who chairs the committee. “All five students
+did work that they, their advisors, and the department can be extremely proud
+of. From fundamental basic materials research to projects fusing technology
+and art, these students are already making important contributions to their
+fields, and I am excited to see what they will do in the years to come.”
+
+The students describe their projects in their own words below:
+
+## Lucy Zhang
+
+### Music Visualization in Augmented Reality
+
+“I built two music visualizers, one web-based and one mobile-based, working
+under the supervision of Dr. Leslie Collins. The first visualizer uses signal
+processing and machine learning to extract and display information such as
+instrument detection and genre classification. This second visualizer is a
+mobile application that brings the visualization to augmented reality using
+Apple’s ARKit framework; it also incorporates the effects of a user's motion
+by utilizing the mobile device's built-in hardware sensors: the gyroscope and
+accelerometer.
+
+I chose the topic because I’ve always been interested in the intersection of
+the arts and signal processing. It was also a great excuse to work with new
+technologies I was interested in, such as ARKit.”
+
+## Henry Yuen
+
+### Designing a Web-Based Virtual Reality Educational Assessment Framework for
+Experiential Learning
+
+“Studying ECE, Computer Science and Education, I was fascinated by the
+intersections of experiential education and technology, as the way in which
+technology is often applied to classrooms is through ‘band-aid’ solutions that
+are misaligned with the tenets of educational pedagogy. The potential of
+virtual reality (VR) applications in the classroom has always intrigued me,
+yet the technical overhead for creating VR tools has been challenging for
+software developers and prohibitive for teachers.
+
+This project aimed to blaze a path towards empowering teachers to create and
+author VR experiences for their own classrooms, whereby a web-based prototype
+framework was designed to allow any teacher to create assessment activities of
+their choice; students would engage with these VR activities and receive
+grades for them.
+
+For this project I collaborated with Dr. David Malone and Betsy Alden, from
+the Program in Education; Dr. Lisa Huettel, from Electrical and Computer
+Engineering; Dr. Susan Rodger, from Computer Science; Luiz Omori, from Duke
+Health; Elizabeth Evans, from Duke Digital Initiative; and Mark Everitt McGill
+and Seth Anderson, from Duke OIT.”
+
+## Aditya Srinivasan
+
+### Designing and Implementing a Functional Hardware Description Language
+
+“Inspired by my dual education in computer science and computer engineering, I
+formulated my own programming language called Gemini, working under the
+supervision of Dr. Drew Hilton. The language I created bridges the gap between
+software and hardware, by allowing a circuit (the hardware part) to be
+described by a program (the software part). I thought of the two as twins that
+expressed the same thing albeit being different entities, hence the name
+Gemini. I then wrote a compiler to transform Gemini programs into Verilog
+modules.
+
+My goal was to provide a tool for describing electronic circuits with greater
+expressivity and modularity than what currently existed. I managed to achieve
+this goal, and in the process discovered that many unconventional language
+features are possible to implement in practice.”
+
+## Jay Doherty
+
+### The Effects of Voltage Stress in Carbon Nanotube Transfers
+
+“I worked with Dr. Aaron Franklin; the Franklin research group is focused on
+improving the performance of devices built out of nanomaterials instead of
+traditional silicon. One of the materials the group is most interested in is
+carbon nanotubes. My project was to begin to investigate the long-term
+reliability of transistors made out of carbon nanotubes. Some of the questions
+we had at the start were: How much electrical current can safely flow through
+nanotubes without damaging them? How long will they last under this stress?
+
+Over the course of the project, we designed many experiments lasting multiple
+days that demonstrated the robustness and stability of carbon nanotubes under
+electrical stress. We showed that carbon nanotubes could handle relatively
+large currents for weeks at a time with no signs of degrading performance.
+These are encouraging results for researchers working on carbon nanotube
+sensors which would need to run continuously for many months or years. One of
+the sensors they are working on in the Franklin lab is a tire pressure
+sensor—it’s a good example of something that would, hopefully, always be on in
+your car.”
+
+## Jihane Bettahi
+
+### Dynamic Online Task Planning in an Environment with Uncertain Wireless
+Communication
+
+“I worked on this project as a Pratt Fellow, and chose the topic because I was
+interested in exploring robotics and doing research related to motion planning
+and reinforcement learning. Working with Dr. Michael Zavlanos, I built on some
+prior work that looked into the problem of a mobile robot tasked to collect
+data in different regions of an environment and reliably transmit the data
+gathered to a data center, while considering the constraints that 1) the robot
+has a buffer of limited size to store the data collected, and 2) there is
+uncertainty in the channel quality of the wireless communication network used
+to transmit the data gathered to the data center.
+
+The work, previously done in lab, proposed a solution to this problem, which
+consisted of statically determining segments where the robot buffer needed to
+be emptied so that it does not overflow, then executing an actor-critic
+reinforcement learning algorithm on these segments to learn a motion and
+communication strategy for the robot to satisfy the assigned tasks under all
+the constraints. However, the solution proposed assumed that the robot
+transmitted data only at some specific, fixed segments. My project consisted
+of relaxing this assumption by allowing the robot to transmit data in any
+segment along its execution plan, which required developing dynamic approaches
+to solve the problem under the relaxed assumption.”
+
+Study Electrical & Computer Engineering at Duke
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

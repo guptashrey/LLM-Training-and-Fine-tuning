@@ -1,0 +1,226 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Self-Assembling Nanofibers Prevent Damage from Inflammation
+
+April 14, 2021 | Michaela Kane
+
+Nanomaterials strategically activate the immune system to fight inflammation
+as effectively as current standard therapeutics
+
+Biomedical engineers at Duke University have developed a self-assembling
+nanomaterial that can help limit damage caused by inflammatory diseases by
+activating key cells in the immune system. In mouse models of psoriasis, the
+nanofiber-based drug has been shown to mitigate damaging inflammation as
+effectively as a gold-standard therapy.
+
+One of the hallmarks of inflammatory diseases, like rheumatoid arthritis,
+Crohn’s disease and psoriasis, is the overproduction of signaling proteins,
+called cytokines, that cause inflammation. One of the most significant
+inflammatory cytokines is a protein called TNF. Currently, the best treatment
+for these diseases involves the use of manufactured antibodies, called
+monoclonal antibodies, which are designed to target and destroy TNF and reduce
+inflammation.
+
+Although monoclonal antibodies have enabled better treatment of inflammatory
+diseases, the therapy is not without its drawbacks, including a high cost and
+the need for patients to regularly inject themselves. Most significantly, the
+drugs also have uneven efficacy, as they may sometimes not work at all or
+eventually stop working as the body learns to make antibodies that can destroy
+the manufactured drug.
+
+To circumvent these issues, researchers have been exploring how
+immunotherapies can help teach the immune system how to generate its own
+therapeutic antibodies that can specifically limit inflammation.
+
+“We’re essentially looking for ways to use nanomaterials to induce the body’s
+immune system to become an anti-inflammatory antibody factory,” said Joel
+Collier, a professor of biomedical engineering at Duke University. “If these
+therapies are successful, patients need fewer doses of the therapy, which
+would ideally improve patient compliance and tolerance. It would be a whole
+new way of treating inflammatory disease.”
+
+In their new paper, which appeared online in the Proceedings of the National
+Academy of Sciences on April 5, Collier and Kelly Hainline, a graduate student
+in the Collier lab, describe how novel nanomaterials could assemble into long
+nanofibers that include a specialized protein, called C3dg. These fibers then
+were able to activate immune system B-cells to generate antibodies.
+
+“C3dg is a protein that you’d normally find in your body,” said Hainline. “The
+protein helps the innate immune system and the adaptive immune system
+communicate, so it can activate specific white blood cells and antibodies to
+clear out damaged cells and destroy antigens.”
+
+Due to the protein’s ability to interface between different cells in the
+immune system and activate the creation of antibodies without causing
+inflammation, researchers have been exploring how C3dg could be used as a
+vaccine adjuvant, which is a protein that can help boost the immune response
+to a desired target or pathogen.
+
+In their new nanomaterial, Hainline and Collier were able put this idea to the
+test by weaving key fragments of the C3dg protein with components of TNF into
+nanofibers. The C3dg protein would trigger the B-cells to create antibodies,
+while the TNF components would provide a blueprint of what the antibodies need
+to seek out and destroy.
+
+“When Kelly assembled the C3dg protein and key portions of TNF into these
+nanofibers, she saw that there was a strong B-cell response, which means there
+was an increased production of antibodies that targeted TNF,” said Collier.
+“In standard mouse models of inflammation, mice experience a temperature
+change where their internal temperature will drop. But when Kelly delivered
+her C3dg nanofibers, it was highly protective, and the mice didn’t experience
+an inflammatory response.”
+
+When the team tested their nanomaterial in the psoriasis mouse model, they
+found that the nanofibers carrying C3dg were as effective as a monoclonal
+antibody therapy. And because C3dg is normally found in the body, it wasn’t
+flushed out of the system by anti-drug antibodies.
+
+After examining the psoriasis model, the team made a surprising discovery --
+C3dg wasn’t just stimulating antibody production in the B-cells, it was also
+influencing the response of T-cells.
+
+“We observed that nanofibers that only contained the C3dg components without
+the TNF components still showed a therapeutic benefit to our models, which was
+surprising. But I think the most significant discovery was seeing a beneficial
+T-cell response that was activated by a protein you’d naturally find in your
+body,” said Hainline. “That kind of response had been seen before with other
+proteins, but we haven’t seen any reports of people using that response with
+C3dg.”
+
+For their next steps, the team hopes to further explore the mechanisms behind
+this beneficial T-cell activation. They’ll also pursue additional experiments
+to explore the response to similar nanomaterials in rheumatoid arthritis
+models.
+
+“We’re still learning about this T-cell response, and we’re trying to
+understand how it’s involved,” said Collier. “Ultimately, we’d love to see if
+C3dg can be used as a universal component in multiple different therapies
+against inflammation, especially if we can swap out the TNF segments with a
+different target. This work clearly indicates that nanomaterials involving
+C3dg warrant further development as immunotherapies.”
+
+This research was funded by the National Institutes of Health (NIBIB
+5R01EB009701) and Duke University, an NIH Training Grant (T32GM008555), the
+NSF Graduate Research Fellowship Program (DGE-1644868), and the North Carolina
+Biotechnology Center (2017-IDG-1018)
+
+CITATION: “Modular Complement Assemblies for Mitigating Inflammatory
+Conditions,” Kelly Hainline, Lucas Shores, Nicole Votaw, Zachary Bernstein,
+Sean Kelly, Chelsea Fries, Marisha Madhira, Caslin Gilroy, Ashutosh Chilkoti,
+Joel Collier. Proceedings of the National Academy of Sciences, April 5, 2021.
+DOI 10.1073/pnas.2018627118
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

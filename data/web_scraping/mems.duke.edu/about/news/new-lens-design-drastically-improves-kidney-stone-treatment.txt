@@ -1,0 +1,222 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# New Lens Design Drastically Improves Kidney Stone Treatment
+
+March 18, 2014 | By Ken Kingery
+
+Duke engineers design a modified lens for shock wave machines
+
+Duke engineers have devised a way to improve the efficiency of lithotripsy—the
+demolition of kidney stones using focused shock waves. After decades of
+research, all it took was cutting a groove near the perimeter of the shock
+wave-focusing lens and changing its curvature.
+
+“I’ve spent more than 20 years investigating the physics and engineering
+aspects of shock wave lithotripsy,” said Pei Zhong, the Anderson-Rupp
+Professor of Mechanical Engineering and Materials Science at Duke University.
+“And now, thanks to the willingness of Siemens (a leading lithotripter
+manufacturer) to collaborate, we’ve developed a solution that is simple, cost-
+effective and reliable that can be quickly implemented on their machines.”
+
+The study appears online the week of March 17, 2014, in the _Proceedings of
+the National Academy of Sciences_.
+
+The incidence of kidney stones in the United States has more than doubled
+during the past two decades, due at least in part to the expanding waistlines
+of its citizens. The condition has also been linked to hot, humid climates and
+high levels of stress—a combination of living environments that seems to have
+led to a rise in kidney stone rates of veterans returning home from Iraq and
+Afghanistan.
+
+During the past two decades, lithotripter manufacturers introduced multiple
+changes to their machines. Rather than having patients submerged in a bath of
+lukewarm water, newer machines feature a water-filled pouch that transfers the
+shock wave into the flesh. An electrohydraulic shock wave generator used in
+the past was replaced by an electromagnetic model that is more powerful, more
+reliable and more consistent.
+
+The new designs made the devices more convenient and comfortable to use, but
+reduced the effectiveness of the treatment. After years of research, Zhong and
+his colleagues have determined why.
+
+The increased power in some third-generation shock wave lithotripters narrowed
+the wave’s focal width to reduce damage to surrounding tissues. But this power
+jump also shifted the shock wave’s focal point as much as 20 millimeters
+toward the device, ironically contributing to efficiency loss and raising the
+potential for tissue damage. The new electromagnetic shock wave generators
+also produced a secondary compressive wave that disrupted one of the primary
+stone-smashing mechanisms, cavitation bubbles.
+
+“We were presented with the challenge of engineering a design solution that
+mitigated these drawbacks without being too expensive,” said Zhong. “It had to
+be something that was effective and reliable, but also something that the
+manufacturer was willing to adopt. So we decided to focus on a new lens design
+while keeping everything else in their system intact.”
+
+The solution was to cut a groove near the perimeter of the backside of the
+lens and change its geometry. This realigned the device’s focal point and
+optimized the pressure distribution with a broad focal width and lower peak
+pressure. It also allowed more cavitation bubbles to form around the targeted
+stone instead of in the surrounding tissue.
+
+In laboratory tests, the researchers sent shock waves through a tank of water
+and used a fiber optic pressure sensor to ensure the shock wave was focusing
+on target. They broke apart synthetic stones in a model human kidney and in
+anesthesized pigs and used a high-speed camera to watch the distribution of
+cavitation bubbles forming and collapsing—a process that happens too fast for
+the human eye to see.
+
+The results showed that while the current commercial version reduced 54
+percent of the stones into fragments less than two millimeters in diameter,
+the new version pulverized 89 percent of the stones while also reducing the
+amount of damage to surrounding tissue. Smaller fragments are more easily
+passed out of the body and less likely to recur.
+
+“We feel we have exceeded expectations in our evaluation of this new lens
+design, which is based on solid physics and engineering principles,” said
+Zhong, who expects the new lens to enter clinical trials in Germany this
+summer.
+
+“My hope is that this will be a breaking point demonstrating that effective,
+interactive collaboration between academia and industry can really improve the
+design of lithotripters that will benefit millions of stone patients worldwide
+who suffer from this painful disease," Zhong said. "Our design, in principle,
+can be adapted by other manufacturers to improve their machines as well. I
+would like to see all lithotripsy machines improved so that urologists can
+treat stones more effectively and patients can receive better treatment and
+feel more comfortable with the procedure.”
+
+This research is a collaborative effort between Zhong’s group in the Pratt
+School of Engineering and Dr. Glenn Preminger’s group in urologic surgery at
+Duke University Medical Center, together with Sorin Mitran’s group in the
+department of mathematics at UNC - Chapel Hill. Andreas Neisius, a urology
+fellow from Mainz, Germany, and Nathan Smith, a postdoctoral Fellow in Zhong’s
+group, made equal contributions as first authors.
+
+This work was supported by the National Institutes of Health (grant
+R37-DK052985-17) and a Ferdinand Eisenberger grant of the German Society of
+Urology (ID NeA1/FE-11).
+
+###
+
+“Improving the lens design and performance of a contemporary electromagnetic
+shock wave lithotripter,” Neisius, A., Smith, N., Sankin, G., Kuntz, N.J.,
+Madden, J.F., Fovargue, D.E., Mitran, S., Lipkin, M.E., Simmons, W.N.,
+Preminger, G.M., Zhong, P. PNAS, March 17, 2014. DOI: 10.1073/pnas.1319203111
+
+A free version of this paper is available for download via DukeSpace.
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

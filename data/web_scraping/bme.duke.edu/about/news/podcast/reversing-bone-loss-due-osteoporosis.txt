@@ -1,0 +1,354 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media » Podcast
+
+# Reversing Bone Loss Due to Osteoporosis
+
+November 17, 2021
+
+Current drugs for osteoporosis can only slow or stop progression of bone loss.
+What’s gone is gone. Duke University Professor Shyni Varghese has built a new
+molecule that rebuilds bone—and may transform osteoporosis treatment.
+
+## Listen
+
+## Transcript
+
+[Bells/intro music]
+
+ **Elizabeth Witherspoon:** Hello, and welcome to Rate of Change, a podcast
+from Duke Engineering, dedicated to the ingenious ways that engineers are
+solving society's toughest problems. I’m your host for today’s episode,
+Elizabeth Witherspoon.
+
+Whether it will someday be you, or is already affecting someone you know, loss
+of bone density is an inevitable part of aging. Bones that are less dense are
+weaker and more prone to break. As a population, we are living longer and,
+therefore, osteoporosis–the disease of bone density loss, whose name literally
+means porous bones–is affecting more people.
+
+According to the National Osteoporosis Foundation, one in two women and up to
+one in four men will break a bone in their lifetime due to osteoporosis. For
+women, the incidence is greater than that of heart attack, stroke and breast
+cancer combined.
+
+Current drugs for osteoporosis can slow or stop the progression of further
+bone loss once treatment begins. However, none can strengthen or rebuild bone
+density that is already lost.
+
+Shyni Varghese is working to change that and making significant progress.
+Varghese, who is professor of mechanical engineering & materials science,
+biomedical engineering and orthopedic surgery at Duke University, has
+demonstrated in mice that a new molecule – the beginnings of a drug treatment
+– can not only stop bone loss, but reverse it all the way back to the same
+density as healthy mice. Keep listening to find out how.
+
+[music]
+
+ **Shyni Varghese:** The focus of our lab is solving biomedical problems. And
+so, we have a focus on musculoskeletal systems, that is, the cartilage,
+joints, skeletal muscle, bone, et cetera. We also go back to animals. We look
+at how we can improve the ability of the organisms, in this case, it's the
+mice or the rat, to promote regeneration. In that case, we are looking at bone
+regeneration, like osteoporosis, fracture healing with aging. And another case
+is also with the injury to joint, right? So, if you have a joint injury and
+that is an ACL rupture or meniscus injury that leads to osteoarthritis. So, we
+mimic that in an animal model. And now, we are trying to develop therapies
+that can slow down the progression of osteoarthritis or even treat them. So,
+we interface biology, stem cell biology, molecular biology, materials science
+and engineering.
+
+ **Witherspoon:** It’s a very interdisciplinary group of students and postdocs
+working in Varghese’s lab where they leverage everyone’s expertise to create
+these structures. Can you help us understand what regenerative medicine is?
+
+ **Varghese:** So, if you think that we all have the ability to heal, all our
+tissues have the ability to heal. But with time our ability to heal declines.
+This could be aging, or it could be comorbidities like diabetes, or like
+lifestyle, like obesity, smoking, all those things, right? So, the question,
+what we are asking is that can we create new approaches that can regenerate
+the tissue. It is already compromised and now it can repair itself. Or we can
+add the cells, so they are the building blocks and use the cells to repair. It
+could be a cell transplantation, so that could be a regenerating medicine. So,
+I have a wound, now I wanted to heal it, it is not repairing, so now I take
+stem cells, which you can make this tissue, transplant them, and then prime
+the cells so the cells become the tissue that we want, so they can contribute
+to the tissue regeneration.
+
+The other way is that, now I can just create approaches, like in this case, it
+is a small molecule, or a cytokine, or a growth factor, deliver them to the
+defective site and rejuvenate the tissue, and now make the endogenous cells to
+become very healthy and then start repairing the tissue. So, we can do either
+way, right?
+
+So, in the case of regenerative medicine means creating approaches so that we
+can regenerate tissues that have been compromised.
+
+ **Witherspoon:** So, tell us about the work you are doing to address
+osteoporosis.
+
+ **Varghese:** Initially, I was very interested in bone regeneration. A bone
+is one tissue which can heal, it has very good at repairing ability. However,
+a significant number of people have failures in healing, like they don't heal
+very well. We started interested in knowing that, "Okay, can we just to make
+that... develop strategies so we can improve the healing."
+
+And then we created a biomaterial, that is where we used all our material
+science to create the scaffold of the bone tissue in the lab and started
+throwing stem cells on top of it and trying to see that how this material is
+directing the differentiation of these stem cells into bone forming cells. And
+we have identified a mechanism that is involved in this process, the
+biological process that is involved in this process, and that involves
+adenosine.
+
+ **Witherspoon:** Adenosine is a molecule that occurs naturally within the
+body and controls many of its processes. Most notably, Varghese’s prior
+research has leveraged how it plays a large role in healing of bone at the
+site of a fracture. She developed biomaterial implants that can hold the
+body’s own adenosine for a longer time where it is needed while also
+delivering an additional localized dose to promote healing.
+
+ **Varghese:** Then we started asking how the adenosine is providing signals
+for the cells to form bone-forming tissues. And, also, if you think about the
+bone, it is highly remodeling, that means it also forms the bone and it is
+also degenerate the bone, so it is balanced. So, we wanted to understand, when
+that balance is perturbed, you get osteoporosis. That means there is more
+degeneration rather than more bone resorption, or degeneration compared to the
+formation or building of the bone tissue.
+
+We started asking that there are two key cell populations, the one which is
+building the tissue and the one is degenerating. So, we started asking the
+questions, how adenosine is, what type of signals that adenosine influence on
+these cells? If I take the cells and throw some adenosine on top of the cells,
+how do these cells behave? And, we noticed that the adenosine allows the cells
+to build the tissue, but also prevent or inhibit the degeneration. So, if you
+look at the current osteoporosis drugs, what they do is that they prevent the
+resorption, that means the regeneration, they don't allow to build the tissue.
+So, now we have a drug that is adenosine molecule that does both the things.
+
+So, we created an osteoporotic model in mice. In fact, we are looking most in
+the post-menopause because osteoporosis affects women more than men, and then
+we started treating the animal. And we found that the animal, in fact, build a
+bone and they reversed osteoporosis. So, it is a very efficient molecule, it
+is pretty inexpensive, but now we have to work out the safety, efficacy, et
+cetera, that is a different story. Fundamentally it works, now, we need to
+figure out how we can translate it if we wanted to treat patients.
+
+[music]
+
+ **Witherspoon:** I understand that one of the challenges you have to overcome
+is targeting the adenosine to the bones and bypassing the rest of the body, so
+that you won’t have unwanted side effects and that you did that by developing
+a nanocarrier – some sort of specialized transportation molecule to carry the
+adenosine. Tell us more about that.
+
+ **Varghese:** We have a nanocarrier. We can definitely target that to the
+bone tissue, but the nanocarrier also goes into other tissues. They also go to
+lung, for example. So now we are trying to change some other properties so we
+can minimize their going into other tissues. Even though they go into the lung
+tissues, we don't see any side effects.
+
+And now we have another nanocarrier where what we did is not really that we
+are targeting them to go to the bone tissue. Whenever you have a lot of bone
+degeneration, the pH is very low. The bone tissue is more acidic. So, now we
+have a linger which is responsive to the pH. So whenever that sees the low pH,
+it will release the drug. So, we have a stimuli, in this case it is the pH,
+and we use the pH as a stimuli to release the drugs.
+
+ **Witherspoon:** So, the nanocarrier senses the low pH in the bone, releases
+the drug, begins telling it to stop thinning and to even rebuild.
+
+So, when you say it reverses the osteoporosis, how many years back are you
+able to reverse the bone loss?
+
+ **Varghese:** So, we had a control which doesn't have osteoporosis and we
+compared to that healthy control. So, it was very similar to the healthy
+control.
+
+ **Witherspoon:** This took them back as if they didn’t have any osteoporosis
+at all? How advanced was the disease in those you treated?
+
+ **Varghese:** So, they have the osteoporotic fractures and a lot of bone
+degeneration but it's very hard for me to compare that to a human because I
+just don't know how to compare it, but we saw a significant bone degeneration,
+the one without the treatment displayed a lot of degeneration.
+
+ **Witherspoon:** How far into the future do you think we are from this being
+available to human patients?
+
+ **Varghese:** To be honest with you, at this minute, we have patents on the
+technology and all the formulation, et cetera, a couple of disclosures, and
+even the U.S. patent. We have some interest in starting up a company and doing
+some larger animal model, et cetera. So, I think 5-10 years minimum because
+clinical trials are extremely time-consuming and also economically very
+expensive. We have some plans of taking these technologies to translate into
+clinic. I have a graduate student who has some interest in taking the
+technology out after he graduates. We are looking into starting up a company
+and then seeing how far we can go and how we can advance the technology, yes.
+
+ **Witherspoon:** What inspired you to get into all this research and what
+keeps you so passionate about it?
+
+ **Varghese:** I have trained in a basic polymer science field as a PhD
+student. And then when I started seeing that people are using these polymer
+systems to create tissues, something which was very hyped at that time, was
+tissue engineering. So, I got very fascinated. As a scientist, you can help
+people when you solve a problem, a medical need, so that people can have a
+better life, right? So, the same way as a scientist, I can really be
+passionate about my work. I can push boundaries within the scientific field
+and make an advance that can solve a public health problem or any medical
+problem, for example. And health problem is one of the biggest problems of our
+generation, or any generation, right? Because aging, a lot of diseases, et
+cetera. It affects everyone. It is not a problem only for the rich or for the
+poor, it has no boundaries, ethnicity, no gender boundaries, financial
+boundaries, no social economic boundaries, right? Everyone will have the
+challenges from the medical problems. Working in that field, you are really
+helping everyone. So, if I create a solution that can be applied to everyone
+in the world, then I'm really contributing to the humankind. So, that is
+something which makes me passionate about the research.
+
+And the second thing is training the next generation of students. The passion
+is very contagious and it's exponentially, like I train one student and when
+they become a faculty, they train another 10 students, then each of those
+students go and train multiple students. So, you are just really making a
+bigger impact because it's not just you, it is all your students and everyone
+associated with you.
+
+[music]
+
+ **Witherspoon:** I hope you’ve enjoyed hearing about Professor Shyni
+Varghese’s research to address osteoporosis. You can keep up with her progress
+– and more science like it – at pratt.duke.edu. To hear more inspiring stories
+like this one, be sure to subscribe to the Rate of Change podcast. Thanks for
+listening.
+
+[closing bells]
+
+Subscribe to the _**Rate of Change**_ podcast in Apple Podcasts or Google
+Play:
+
+_The Apple logo is a trademark of Apple Inc., registered in the U.S. and other
+countries. Google Podcasts and the Google Podcasts logo are trademarks of
+Google LLC._
+
+## Featured Faculty
+
+### Shyni Varghese
+
+Professor of Biomedical Engineering, Mechanical Engineering & Materials
+Science and Orthopaedics
+
+View profile »
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

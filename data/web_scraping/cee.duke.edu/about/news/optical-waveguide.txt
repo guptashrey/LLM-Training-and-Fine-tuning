@@ -1,0 +1,196 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Bending Light Around Tight Corners Without Backscattering Losses
+
+November 19, 2018 | By Ken Kingery
+
+New photonic crystal waveguide based on topological insulators paves the way
+to build futuristic light-based computers
+
+Engineers at Duke University have demonstrated a device that can direct
+photons of light around sharp corners with virtually no losses due to
+backscattering, a key property that will be needed if electronics are ever to
+be replaced by light-based devices.
+
+The result was achieved with photonic crystals built on the concept of
+topological insulators, which won its discoverers a Nobel Prize in 2016. By
+carefully controlling the geometry of a crystal lattice, researchers can block
+light from traveling through its interior while transmitting it perfectly
+along its surface.
+
+The device accomplishes its near-perfect transmittance around corners despite
+being much smaller than previous designs.
+
+The Semiconductor Industry Association estimates that the number of electronic
+devices is increasing so rapidly that by the year 2040, there won’t be enough
+power in the entire world to run them all. One potential solution is to turn
+to massless photons to replace the electrons currently used for transmitting
+data. Besides saving energy, photonic systems also promise to be faster and
+have higher bandwidth.
+
+Photons are already in use in some applications such as on-chip photonic
+communication. One drawback of the current technology, however, is that such
+systems cannot turn or bend light efficiently. But for photons to ever replace
+electrons in microchips, travelling around corners in microscopic spaces is a
+key.
+
+“The smaller the device the better, but of course we’re trying to minimize
+losses as well,” said Wiktor Walasik, a postdoctoral associate in electrical
+and computer engineering at Duke. “There are a lot of people working to make
+an all-optical computing system possible. We’re not there yet, but I think
+that’s the direction we’re going.”
+
+Previous demonstrations have also shown small losses while guiding photons
+around corners, but the new Duke research does it on a rectangular device just
+35 micrometers long and 5.5 micrometers wide—100 times smaller than previously
+demonstrated ring-resonator-based devices.
+
+In the new study, which appeared online on November 12 in the journal Nature
+Nanotechnology, researchers fabricated topological insulators using electron
+beam lithography and measured the light transmittance through a series of
+sharp turns. Each turn only resulted in the loss of a few percent.
+
+“Guiding light around sharp corners in conventional photonic crystals was
+possible before but only through a long laborious process tailored to a
+specific set of parameters,” said Natasha Litchinitser, professor of
+electrical and computer engineering at Duke. “And if you made even the tiniest
+mistake in its fabrication, it lost a lot of the properties you were trying to
+optimize.”
+
+“But our device will work no matter its dimensions or geometry of the photons’
+path and photon transport is ‘topologically protected,’” added Mikhail
+Shalaev, a doctoral student in Litchinitser’s laboratory and first author of
+the paper. “This means that even if there are minor defects in the photonic
+crystalline structure, the waveguide still works very well. It is not so
+sensitive to fabrication errors.”
+
+The researchers point out that their device also has a large operating
+bandwidth, is compatible with modern semiconductor fabrication technologies,
+and works at wavelengths currently used in telecommunications.
+
+Now the researchers are trying to make a waveguide that can be turned on or
+off at will—another important feature for all-optical photon-based
+technologies to ever become a reality.
+
+This work was supported by the Army Research Office (W911NF-15-1-0152,
+W911NF-11-1-0297).
+
+CITATION: “Robust Topologically Protected Transport In Photonic Crystals at
+Telecommunication Wavelengths,” Mikhail I. Shalaev, Wiktor Walasik, Alexander
+Tsukernik, Yun Xu, Natalia M. Litchinitser. Nature Nanotechnology, 12
+November, 2018. DOI: 10.1038/s41565-018-0297-6
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+

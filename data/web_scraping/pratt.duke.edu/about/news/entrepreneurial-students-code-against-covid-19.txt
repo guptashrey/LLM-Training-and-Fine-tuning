@@ -1,0 +1,207 @@
+
+
+Skip to main content
+
+  * Departments & Centers
+    * Overview
+    * Biomedical Engineering
+    * Civil & Environmental Engineering
+    * Electrical & Computer Engineering
+    * Mechanical Engineering & Materials Science
+    * Institute for Enterprise Engineering
+  * Alumni & Parents
+    * Overview
+    * Alumni
+    * Parents
+    * Giving
+    * Board of Visitors
+    * Our History
+    * Email Newsletter
+    * Meet the Team
+  * Corporate Partners
+    * Overview
+    * Partners & Sponsors
+    * Data Science & AI Industry Affiliates
+    * Connect With Students
+    * Recruiting Our Students
+    * Sponsored Research
+    * TechConnect Career Networking
+  * Apply
+  * Careers
+  * Directory
+
+  * Undergraduate
+    *       1. For Prospective Students
+        1. Majors & Minors
+        2. Certificates
+        3. General Degree Requirements
+        4. 4+1: BSE+Master's Degree
+        5. Campus Tours
+        6. How to Apply
+
+      2. First-Year Design
+      3. Student Entrepreneurship
+      4. Undergraduate Research
+      5. Where Our Undergrads Go
+      6. Diversity, Equity & Inclusion
+      7. For Current Students
+        1. The First Year
+        2. Advising
+        3. Student Clubs & Teams
+        4. Graduation with Distinction
+        5. Internships
+        6. Policies & Procedures
+
+  * Graduate
+    *       1. For Prospective Students
+        1. PhD Programs
+        2. Master's Degrees
+        3. Online Specializations, Certificates and Short Courses
+        4. Admissions Events
+        5. How to Apply
+
+      2. For Admitted Students
+      3. Diversity, Equity & Inclusion
+        1. Bootcamp for Applicants
+        2. Recruiting Incentives
+
+      4. For Current Grad Students
+        1. Graduate Student Programs & Services
+
+  * Faculty & Research
+    *       1. Faculty
+        1. Faculty Profiles
+        2. New Faculty
+        3. Awards and Recognition
+        4. NAE Members
+
+      2. Research
+        1. Signature Research Themes
+        2. Recent External Funding Awards
+        3. Faculty Entrepreneurship
+        4. Duke Engineering Discoveries
+
+  * About
+    *       1. Dean's Welcome
+      2. Campus & Tours
+      3. Facts & Rankings
+      4. Diversity, Equity & Inclusion
+      5. Service to Society
+      6. Entrepreneurship
+      7. Governance
+      8. News & Media
+        1. Latest News
+        2. Podcast
+        3. Email Newsletter
+        4. Publications
+        5. Media Coverage
+        6. Public Health Information
+
+      9. Events
+        1. Events Calendar
+        2. Academic Calendar
+        3. Commencement
+
+      10. Art @ Duke Engineering
+
+## You are here
+
+Home » About » News & Media
+
+# Entrepreneurial Students Code Against COVID-19
+
+June 3, 2020
+
+Duke entrepreneurship resources helped a rising second-year student build a
+contact tracing app and make a merger, in just a couple months
+
+Can you name everyone with whom you have come into contact over the last 14
+days? If you work from home these days and have your groceries delivered, it’s
+probably a piece of cake. But what if you are a cashier at the grocery store,
+or work in a hospital, or are a student living in a residential hall?
+
+It was a question that was bothering Duke Engineering first-year student
+Shehzan Maredia as early as February 2020, as he witnessed the rapid
+proliferation of COVID-19 cases around the world. So Maredia did what comes
+naturally to him: he started working on a solution.
+
+He gathered a handful of classmates from Duke and the impromptu team began
+coding an app to give people an idea of their exposure status based on where
+they had carried their phones, and where they might have shared space with
+individuals who later tested positive for COVID-19. Maredia said he spent
+around 20 hours a day working to launch the app, but the team soon came up
+against a set of roadblocks that stymied their breakneck pace of progress.
+There were challenges to widespread adoption—Google and Apple had tamped down
+on COVID-19 apps like Maredia’s, that were unaffiliated with a government
+agency, educational institution or health nonprofit. And, being unaffiliated
+with a larger organization meant that there were deficits in both budget and
+institutional resources. “I realized here were a lot of things we would run
+into as we tried to scale—notably, legal issues like writing terms of service
+and protecting against liability,” he said.
+
+Duke and entrepreneurship go hand in hand, though, and students like Maredia
+can tap into a broad network of experts for help. He knew Duke Engineering’s
+Executive in Residence, Steve McClelland, from his Founder’s Workshop he had
+been part of, and reached out to him; McClelland and Duke Innovation &
+Entrepreneurship colleague Howie Rhee helped Maredia access a wide range of
+resources, including legal services.
+
+“We got quite a bit of traction once we had our initial version out,” said
+Maredia. The team won two international virtual hackathons—Datavant and
+HackCovid, which helped the app gain exposure. Shortly afterward, Maredia was
+offered what he described as an “insanely large amount of money” if he agreed
+to sell the app to a private party—but he came away with the impression that
+the prospective buyer didn’t share his team’s prioritization of user privacy.
+
+That, also, bothered Maredia. ContainIt wasn’t his first business venture—in
+high school he launched an educational tech company that offered students
+personalized practice problem sets for high-level educational competitions,
+which he later sold—but he said the motivation to build ContainIt was
+different. “This is for social impact,” said Maredia, “Not for money.”
+
+Around this time, Maredia saw a Facebook post about a contact tracing app
+called NOVID that was developed and launched by Carnegie Mellon University
+mathematician Po-Shen Loh. NOVID uses ultrasound to get more accurate
+information about potential exposures—GPS and Bluetooth can mistakenly assume
+an exposure event when users are near each other, even when they are separated
+by walls. Ultrasound, on the other hand, “sees” the walls and accurately
+labels the event a non-exposure.
+
+Maredia emailed Loh to learn more. “Initially, learning about his project was
+my only intention, but after talking to him, I learned about how we shared an
+identical mission--building something good to help slow the spread of COVID,”
+said Maredia. “It just made sense to join forces.”
+
+Again, McClelland helped Maredia navigate tricky entrepreneurial waters—this
+time, by guiding him through NOVID’s acquisition of ContainIt in late April.
+The entire process, from writing the first line of code to finalizing the
+merger with NOVID, happened in less than two months.
+
+“We have had a few cases where students have really followed their passion
+through this crisis and done a lot of work in very short window of time,” said
+McClelland. “It is exciting, but also a little chaotic.”
+
+Contact tracing has become an essential component of public health strategies
+to stamp out COVID-19 but gathering information from those who have tested
+positive for the disease about who else they may have exposed takes a lot of
+time and significant human resources. Maredia is confident that the NOVID app
+can help automate the process, while protecting users’ privacy. (The app
+collects neither GPS nor personal information.)
+
+After ContainIt merged with NOVID, Maredia’s role expanded to deployment and
+growth, in addition to development. Much of his time these days is spent
+building partnerships with organizations including governments, driving the
+app’s social media campaigns and promoting its “campus ambassador” program.
+
+Maredia said that working on a team that is driven by social impact has been
+an amazing experience. “The team is super dedicated, and the most motivated
+I’ve ever met,” he said, “and I just want to be part of the effort.”
+
+More Entrepreneurship News
+
+outrageously ambitious
+
+  *   *   *   *   *
+
+© Copyright 2011-2023 Duke University | Pratt Intranet
+
