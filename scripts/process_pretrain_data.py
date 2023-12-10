@@ -1,5 +1,5 @@
 # library imports
-from haystack.nodes import PreProcessor, DensePassageRetriever
+from haystack.nodes import PreProcessor
 from haystack import Document
 
 import pandas as pd
@@ -10,43 +10,12 @@ import glob
 import argparse
 
 logging.getLogger("haystack").setLevel(logging.ERROR)
-logger = logging.getLogger("Add Data to ES")
+logger = logging.getLogger("Process pre-train data")
 logger.setLevel(logging.INFO)
 
-from helper_functions import get_elasticsearch_document_store
-
-def initialize():
-    """
-    Initialize ElasticsearchDocumentStore and DensePassageRetriever for use in the pipeline.
-
-    Args:
-        None
-    
-    Return:
-        document_store: ElasticsearchDocumentStore
-        retriever: DensePassageRetriever
-    """
-
-    # get the host where Elasticsearch is running, default to localhost
-    host = os.environ.get("ELASTICSEARCH_HOST", "localhost")
-
-    # get ElasticsearchDocumentStore
-    document_store = get_elasticsearch_document_store(host, "document1")
-    logger.info("Created ElasticsearchDocumentStore")
-
-    # initialize retriever model for creating embeddings
-    retriever = DensePassageRetriever(
-        document_store=document_store,
-        query_embedding_model="facebook/dpr-question_encoder-single-nq-base",
-        passage_embedding_model="facebook/dpr-ctx_encoder-single-nq-base"
-    )
-    logger.info("Retriever model initialized")
-
-    return document_store, retriever
-
-def index_in_es(data_directory):
+def preprocess(data_directory):
     '''
-    Process the webpages text data and index them in Elasticsearch.
+    Process the webpages text data for pre-training LLMs.
 
     Args:
         None
@@ -147,24 +116,20 @@ def index_in_es(data_directory):
     preprocessed_docs = preprocessor.process(documents=list_of_docs)
     logger.info("Documents split into smaller chunks")
 
-    # write documents to document store
-    document_store.write_documents(preprocessed_docs)
-    logger.info("Documents written to document store")
-
-    # update embeddings of documents in the document store using the retriever model
-    document_store.update_embeddings(retriever)
-    logger.info("Embeddings updated")
+    # write documents to a single text file
+    for i in preprocessed_docs:
+        with open("../data/pre_train_data.txt", "a") as file:
+            file.write(i.content + "\n\n")
 
 if __name__ == "__main__":
     # create parser
     parser = argparse.ArgumentParser(
-                    prog='index_in_es',
-                    description='This script indexes the text of all the scraped webpages into ElasticSearch')
+                    prog='preprocess',
+                    description='This script preprocesses the webpages text data')
     parser.add_argument('data_directory', type=str, help='Directory where the scraped webpages are stored')
 
     # parse arguments
     args = parser.parse_args()
     data_directory = args.data_directory
 
-    document_store, retriever = initialize()
-    index_in_es(data_directory)
+    preprocess(data_directory)
