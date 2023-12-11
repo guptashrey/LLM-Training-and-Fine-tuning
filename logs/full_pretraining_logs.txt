@@ -1,0 +1,1463 @@
+Downloading from repo_id=meta-llama/Llama-2-7b-hf, revision=None, local_dir=/home/ec2-user/SageMaker/artifacts/checkpoints/meta-llama/Llama-2-7b-hf, cache_dir=/home/ec2-user/SageMaker/artifacts/.cache
+
+Fetching 7 files:   0%|                                   | 0/7 [00:00<?, ?it/s]
+
+Downloading (…)l-00001-of-00002.bin:   0%|          | 0.00/9.98G [00:00<?, ?B/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   0%|          | 0.00/3.50G [00:00<?, ?B/s]
+
+
+
+Downloading tokenizer.model:   0%|                   | 0.00/500k [00:00<?, ?B/s]
+Downloading tokenizer.model: 100%|███████████| 500k/500k [00:00<00:00, 17.9MB/s]
+
+
+
+
+Downloading tokenizer_config.json:   0%|              | 0.00/776 [00:00<?, ?B/s]
+Downloading tokenizer_config.json: 100%|███████| 776/776 [00:00<00:00, 12.1MB/s]
+
+
+
+
+Downloading generation_config.json:   0%|             | 0.00/188 [00:00<?, ?B/s]
+Downloading generation_config.json: 100%|██████| 188/188 [00:00<00:00, 3.18MB/s]
+
+Fetching 7 files:  14%|███▊                       | 1/7 [00:00<00:01,  4.52it/s]
+
+
+
+Downloading tokenizer.json:   0%|                   | 0.00/1.84M [00:00<?, ?B/s]
+
+
+
+
+Downloading (…)model.bin.index.json:   0%|          | 0.00/26.8k [00:00<?, ?B/s]
+Downloading (…)model.bin.index.json: 100%|██| 26.8k/26.8k [00:00<00:00, 189MB/s]
+
+
+
+Downloading (…)l-00002-of-00002.bin:   1%|  | 21.0M/3.50G [00:00<00:25, 138MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   0%| | 10.5M/9.98G [00:00<03:08, 53.0MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   1%|  | 52.4M/3.50G [00:00<00:16, 208MB/s]
+
+
+
+Downloading tokenizer.json: 100%|██████████| 1.84M/1.84M [00:00<00:00, 8.29MB/s]
+Downloading tokenizer.json: 100%|██████████| 1.84M/1.84M [00:00<00:00, 8.24MB/s]
+
+
+Downloading (…)l-00001-of-00002.bin:   0%|  | 41.9M/9.98G [00:00<01:05, 152MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   3%|  | 94.4M/3.50G [00:00<00:13, 249MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   1%|  | 83.9M/9.98G [00:00<00:42, 235MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   4%|   | 126M/3.50G [00:00<00:13, 255MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   1%|   | 126M/9.98G [00:00<00:34, 285MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   5%|▏  | 168M/3.50G [00:00<00:11, 288MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   2%|   | 168M/9.98G [00:00<00:31, 310MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   2%|   | 210M/9.98G [00:00<00:29, 334MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   6%|▏  | 210M/3.50G [00:00<00:10, 303MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   3%|   | 252M/9.98G [00:00<00:27, 349MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   7%|▏  | 252M/3.50G [00:00<00:10, 319MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   3%|   | 294M/9.98G [00:00<00:26, 361MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:   8%|▎  | 294M/3.50G [00:01<00:10, 305MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   3%|   | 336M/9.98G [00:01<00:26, 370MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  10%|▎  | 336M/3.50G [00:01<00:09, 322MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   4%|   | 377M/9.98G [00:01<00:25, 378MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  11%|▎  | 377M/3.50G [00:01<00:09, 332MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   4%|▏  | 419M/9.98G [00:01<00:24, 383MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  12%|▎  | 419M/3.50G [00:01<00:08, 344MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   5%|▏  | 461M/9.98G [00:01<00:24, 385MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  13%|▍  | 461M/3.50G [00:01<00:08, 358MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   5%|▏  | 503M/9.98G [00:01<00:24, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  14%|▍  | 503M/3.50G [00:01<00:08, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   5%|▏  | 545M/9.98G [00:01<00:24, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  16%|▍  | 545M/3.50G [00:01<00:07, 372MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   6%|▏  | 587M/9.98G [00:01<00:23, 395MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  17%|▌  | 587M/3.50G [00:01<00:07, 372MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   6%|▏  | 629M/9.98G [00:01<00:23, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   7%|▏  | 671M/9.98G [00:01<00:23, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  18%|▌  | 629M/3.50G [00:01<00:07, 368MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   7%|▏  | 713M/9.98G [00:02<00:23, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  19%|▌  | 671M/3.50G [00:02<00:07, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   8%|▏  | 755M/9.98G [00:02<00:23, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  20%|▌  | 713M/3.50G [00:02<00:07, 370MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   8%|▏  | 797M/9.98G [00:02<00:23, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  22%|▋  | 755M/3.50G [00:02<00:07, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   8%|▎  | 839M/9.98G [00:02<00:23, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  23%|▋  | 797M/3.50G [00:02<00:07, 362MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   9%|▎  | 881M/9.98G [00:02<00:23, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  24%|▋  | 839M/3.50G [00:02<00:07, 366MB/s]
+
+Downloading (…)l-00001-of-00002.bin:   9%|▎  | 923M/9.98G [00:02<00:23, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  25%|▊  | 881M/3.50G [00:02<00:07, 364MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  10%|▎  | 965M/9.98G [00:02<00:23, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  26%|▊  | 923M/3.50G [00:02<00:07, 359MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  10%|▏ | 1.01G/9.98G [00:02<00:22, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  28%|▊  | 965M/3.50G [00:02<00:07, 342MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  11%|▏ | 1.05G/9.98G [00:02<00:22, 390MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  11%|▏ | 1.09G/9.98G [00:03<00:22, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  29%|▌ | 1.01G/3.50G [00:03<00:07, 315MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  11%|▏ | 1.13G/9.98G [00:03<00:22, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  30%|▌ | 1.05G/3.50G [00:03<00:07, 314MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  12%|▏ | 1.17G/9.98G [00:03<00:22, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  31%|▌ | 1.09G/3.50G [00:03<00:07, 327MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  12%|▏ | 1.22G/9.98G [00:03<00:22, 386MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  32%|▋ | 1.13G/3.50G [00:03<00:07, 330MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  13%|▎ | 1.26G/9.98G [00:03<00:22, 385MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  34%|▋ | 1.17G/3.50G [00:03<00:06, 341MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  13%|▎ | 1.30G/9.98G [00:03<00:23, 376MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  35%|▋ | 1.22G/3.50G [00:03<00:06, 340MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  13%|▎ | 1.34G/9.98G [00:03<00:22, 378MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  14%|▎ | 1.38G/9.98G [00:03<00:22, 375MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  36%|▋ | 1.26G/3.50G [00:03<00:06, 323MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  14%|▎ | 1.43G/9.98G [00:03<00:22, 378MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  37%|▋ | 1.30G/3.50G [00:03<00:06, 315MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  15%|▎ | 1.47G/9.98G [00:04<00:22, 381MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  38%|▊ | 1.34G/3.50G [00:04<00:06, 331MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  15%|▎ | 1.51G/9.98G [00:04<00:22, 378MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  40%|▊ | 1.38G/3.50G [00:04<00:06, 334MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  16%|▎ | 1.55G/9.98G [00:04<00:21, 384MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  41%|▊ | 1.43G/3.50G [00:04<00:05, 347MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  16%|▎ | 1.59G/9.98G [00:04<00:21, 386MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  42%|▊ | 1.47G/3.50G [00:04<00:06, 332MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  16%|▎ | 1.64G/9.98G [00:04<00:21, 387MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  17%|▎ | 1.68G/9.98G [00:04<00:21, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  43%|▊ | 1.51G/3.50G [00:04<00:06, 325MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  17%|▎ | 1.72G/9.98G [00:04<00:21, 392MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  44%|▉ | 1.55G/3.50G [00:04<00:06, 310MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  18%|▎ | 1.76G/9.98G [00:04<00:20, 392MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  45%|▉ | 1.58G/3.50G [00:04<00:06, 311MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  18%|▎ | 1.80G/9.98G [00:04<00:21, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  46%|▉ | 1.61G/3.50G [00:04<00:06, 271MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  18%|▎ | 1.85G/9.98G [00:04<00:21, 377MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  19%|▍ | 1.89G/9.98G [00:05<00:21, 379MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  47%|▉ | 1.66G/3.50G [00:05<00:06, 285MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  19%|▍ | 1.93G/9.98G [00:05<00:21, 379MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  49%|▉ | 1.70G/3.50G [00:05<00:05, 303MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  20%|▍ | 1.97G/9.98G [00:05<00:20, 385MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  49%|▉ | 1.73G/3.50G [00:05<00:05, 302MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  20%|▍ | 2.01G/9.98G [00:05<00:20, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  50%|█ | 1.76G/3.50G [00:05<00:05, 303MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  21%|▍ | 2.06G/9.98G [00:05<00:20, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  51%|█ | 1.79G/3.50G [00:05<00:05, 291MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  21%|▍ | 2.10G/9.98G [00:05<00:19, 396MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  52%|█ | 1.84G/3.50G [00:05<00:05, 306MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  21%|▍ | 2.14G/9.98G [00:05<00:19, 394MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  54%|█ | 1.88G/3.50G [00:05<00:05, 319MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  22%|▍ | 2.18G/9.98G [00:05<00:19, 394MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  55%|█ | 1.92G/3.50G [00:05<00:05, 315MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  22%|▍ | 2.22G/9.98G [00:05<00:19, 394MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  56%|█ | 1.96G/3.50G [00:06<00:04, 329MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  23%|▍ | 2.26G/9.98G [00:06<00:19, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  23%|▍ | 2.31G/9.98G [00:06<00:19, 392MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  57%|█▏| 2.00G/3.50G [00:06<00:04, 340MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  24%|▍ | 2.35G/9.98G [00:06<00:19, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  58%|█▏| 2.04G/3.50G [00:06<00:04, 316MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  24%|▍ | 2.39G/9.98G [00:06<00:19, 393MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  24%|▍ | 2.43G/9.98G [00:06<00:19, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  60%|█▏| 2.09G/3.50G [00:06<00:04, 287MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  25%|▍ | 2.47G/9.98G [00:06<00:19, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  61%|█▏| 2.12G/3.50G [00:06<00:04, 285MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  25%|▌ | 2.52G/9.98G [00:06<00:19, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  61%|█▏| 2.15G/3.50G [00:06<00:04, 289MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  26%|▌ | 2.56G/9.98G [00:06<00:18, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  63%|█▎| 2.19G/3.50G [00:06<00:04, 310MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  26%|▌ | 2.60G/9.98G [00:06<00:18, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  64%|█▎| 2.23G/3.50G [00:06<00:03, 329MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  26%|▌ | 2.64G/9.98G [00:07<00:18, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  65%|█▎| 2.28G/3.50G [00:07<00:03, 342MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  27%|▌ | 2.68G/9.98G [00:07<00:18, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  66%|█▎| 2.32G/3.50G [00:07<00:03, 353MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  27%|▌ | 2.73G/9.98G [00:07<00:18, 384MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  67%|█▎| 2.36G/3.50G [00:07<00:03, 356MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  28%|▌ | 2.77G/9.98G [00:07<00:18, 380MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  69%|█▎| 2.40G/3.50G [00:07<00:03, 337MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  28%|▌ | 2.81G/9.98G [00:07<00:18, 383MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  70%|█▍| 2.44G/3.50G [00:07<00:03, 344MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  29%|▌ | 2.85G/9.98G [00:07<00:18, 386MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  71%|█▍| 2.49G/3.50G [00:07<00:03, 334MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  29%|▌ | 2.89G/9.98G [00:07<00:18, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  72%|█▍| 2.53G/3.50G [00:07<00:02, 347MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  29%|▌ | 2.94G/9.98G [00:07<00:18, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  73%|█▍| 2.57G/3.50G [00:07<00:02, 358MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  30%|▌ | 2.98G/9.98G [00:07<00:17, 389MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  30%|▌ | 3.02G/9.98G [00:08<00:17, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  75%|█▍| 2.61G/3.50G [00:08<00:02, 348MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  31%|▌ | 3.06G/9.98G [00:08<00:17, 389MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  76%|█▌| 2.65G/3.50G [00:08<00:02, 348MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  31%|▌ | 3.10G/9.98G [00:08<00:17, 383MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  77%|█▌| 2.69G/3.50G [00:08<00:02, 349MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  32%|▋ | 3.15G/9.98G [00:08<00:17, 386MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  78%|█▌| 2.74G/3.50G [00:08<00:02, 357MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  32%|▋ | 3.19G/9.98G [00:08<00:17, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  79%|█▌| 2.78G/3.50G [00:08<00:02, 350MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  32%|▋ | 3.23G/9.98G [00:08<00:17, 386MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  81%|█▌| 2.82G/3.50G [00:08<00:01, 356MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  33%|▋ | 3.27G/9.98G [00:08<00:17, 389MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  82%|█▋| 2.86G/3.50G [00:08<00:01, 360MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  33%|▋ | 3.31G/9.98G [00:08<00:17, 389MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  83%|█▋| 2.90G/3.50G [00:08<00:01, 360MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  34%|▋ | 3.36G/9.98G [00:08<00:17, 389MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  34%|▋ | 3.40G/9.98G [00:08<00:16, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  84%|█▋| 2.95G/3.50G [00:08<00:01, 337MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  34%|▋ | 3.44G/9.98G [00:09<00:16, 393MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  85%|█▋| 2.99G/3.50G [00:09<00:01, 341MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  35%|▋ | 3.48G/9.98G [00:09<00:16, 389MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  87%|█▋| 3.03G/3.50G [00:09<00:01, 346MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  35%|▋ | 3.52G/9.98G [00:09<00:16, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  88%|█▊| 3.07G/3.50G [00:09<00:01, 350MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  36%|▋ | 3.57G/9.98G [00:09<00:16, 394MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  89%|█▊| 3.11G/3.50G [00:09<00:01, 350MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  36%|▋ | 3.61G/9.98G [00:09<00:16, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  90%|█▊| 3.16G/3.50G [00:09<00:00, 354MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  37%|▋ | 3.65G/9.98G [00:09<00:16, 391MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  91%|█▊| 3.20G/3.50G [00:09<00:00, 364MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  37%|▋ | 3.69G/9.98G [00:09<00:16, 388MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  93%|█▊| 3.24G/3.50G [00:09<00:00, 368MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  37%|▋ | 3.73G/9.98G [00:09<00:16, 390MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  94%|█▉| 3.28G/3.50G [00:09<00:00, 372MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  38%|▊ | 3.77G/9.98G [00:09<00:15, 389MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  95%|█▉| 3.32G/3.50G [00:09<00:00, 374MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  38%|▊ | 3.82G/9.98G [00:10<00:15, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  39%|▊ | 3.86G/9.98G [00:10<00:15, 396MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  39%|▊ | 3.90G/9.98G [00:10<00:17, 357MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  96%|█▉| 3.37G/3.50G [00:10<00:00, 234MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  40%|▊ | 3.94G/9.98G [00:10<00:16, 364MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  40%|▊ | 3.98G/9.98G [00:10<00:17, 340MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  97%|█▉| 3.40G/3.50G [00:10<00:00, 192MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  98%|█▉| 3.43G/3.50G [00:10<00:00, 199MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  40%|▊ | 4.03G/9.98G [00:10<00:26, 226MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin:  99%|█▉| 3.46G/3.50G [00:10<00:00, 178MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  41%|▊ | 4.07G/9.98G [00:11<00:23, 252MB/s]
+
+
+Downloading (…)l-00002-of-00002.bin: 100%|██| 3.50G/3.50G [00:11<00:00, 210MB/s]
+Downloading (…)l-00002-of-00002.bin: 100%|██| 3.50G/3.50G [00:11<00:00, 316MB/s]
+
+
+Downloading (…)l-00001-of-00002.bin:  41%|▊ | 4.11G/9.98G [00:11<00:21, 276MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  42%|▊ | 4.15G/9.98G [00:11<00:19, 302MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  42%|▊ | 4.19G/9.98G [00:11<00:18, 317MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  42%|▊ | 4.24G/9.98G [00:11<00:17, 335MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  43%|▊ | 4.28G/9.98G [00:11<00:16, 349MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  43%|▊ | 4.32G/9.98G [00:11<00:16, 347MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  44%|▊ | 4.36G/9.98G [00:11<00:15, 362MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  44%|▉ | 4.40G/9.98G [00:11<00:15, 371MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  45%|▉ | 4.45G/9.98G [00:12<00:14, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  45%|▉ | 4.49G/9.98G [00:12<00:14, 380MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  45%|▉ | 4.53G/9.98G [00:12<00:14, 382MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  46%|▉ | 4.57G/9.98G [00:12<00:14, 385MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  46%|▉ | 4.61G/9.98G [00:12<00:13, 384MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  47%|▉ | 4.66G/9.98G [00:12<00:13, 392MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  47%|▉ | 4.70G/9.98G [00:12<00:13, 386MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  48%|▉ | 4.74G/9.98G [00:12<00:13, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  48%|▉ | 4.78G/9.98G [00:12<00:13, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  48%|▉ | 4.82G/9.98G [00:12<00:12, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  49%|▉ | 4.87G/9.98G [00:13<00:12, 403MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  49%|▉ | 4.91G/9.98G [00:13<00:14, 347MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  50%|▉ | 4.95G/9.98G [00:13<00:19, 257MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  50%|█ | 4.99G/9.98G [00:13<00:17, 282MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  50%|█ | 5.03G/9.98G [00:13<00:16, 300MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  51%|█ | 5.08G/9.98G [00:13<00:15, 322MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  51%|█ | 5.12G/9.98G [00:13<00:14, 339MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  52%|█ | 5.16G/9.98G [00:14<00:13, 351MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  52%|█ | 5.20G/9.98G [00:14<00:13, 360MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  53%|█ | 5.24G/9.98G [00:14<00:13, 362MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  53%|█ | 5.28G/9.98G [00:14<00:12, 373MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  53%|█ | 5.33G/9.98G [00:14<00:12, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  54%|█ | 5.37G/9.98G [00:14<00:12, 372MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  54%|█ | 5.41G/9.98G [00:14<00:11, 383MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  55%|█ | 5.45G/9.98G [00:14<00:11, 387MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  55%|█ | 5.49G/9.98G [00:14<00:11, 392MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  55%|█ | 5.54G/9.98G [00:15<00:11, 396MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  56%|█ | 5.58G/9.98G [00:15<00:11, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  56%|█▏| 5.62G/9.98G [00:15<00:10, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  57%|█▏| 5.66G/9.98G [00:15<00:10, 400MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  57%|█▏| 5.70G/9.98G [00:15<00:10, 399MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  58%|█▏| 5.75G/9.98G [00:15<00:10, 403MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  58%|█▏| 5.79G/9.98G [00:15<00:10, 403MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  58%|█▏| 5.83G/9.98G [00:15<00:10, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  59%|█▏| 5.87G/9.98G [00:15<00:10, 399MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  59%|█▏| 5.91G/9.98G [00:15<00:10, 403MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  60%|█▏| 5.96G/9.98G [00:16<00:09, 406MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  60%|█▏| 6.00G/9.98G [00:16<00:09, 403MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  61%|█▏| 6.04G/9.98G [00:16<00:09, 406MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  61%|█▏| 6.08G/9.98G [00:16<00:09, 407MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  61%|█▏| 6.12G/9.98G [00:16<00:09, 406MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  62%|█▏| 6.17G/9.98G [00:16<00:09, 408MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  62%|█▏| 6.21G/9.98G [00:16<00:09, 387MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  63%|█▎| 6.25G/9.98G [00:16<00:09, 389MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  63%|█▎| 6.29G/9.98G [00:16<00:09, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  63%|█▎| 6.33G/9.98G [00:17<00:09, 385MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  64%|█▎| 6.38G/9.98G [00:17<00:09, 391MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  64%|█▎| 6.42G/9.98G [00:17<00:09, 391MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  65%|█▎| 6.46G/9.98G [00:17<00:09, 390MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  65%|█▎| 6.50G/9.98G [00:17<00:09, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  66%|█▎| 6.54G/9.98G [00:17<00:09, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  66%|█▎| 6.59G/9.98G [00:17<00:09, 364MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  66%|█▎| 6.63G/9.98G [00:17<00:08, 373MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  67%|█▎| 6.67G/9.98G [00:17<00:08, 381MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  67%|█▎| 6.71G/9.98G [00:18<00:08, 382MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  68%|█▎| 6.75G/9.98G [00:18<00:08, 387MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  68%|█▎| 6.79G/9.98G [00:18<00:08, 389MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  69%|█▎| 6.84G/9.98G [00:18<00:07, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  69%|█▍| 6.88G/9.98G [00:18<00:07, 399MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  69%|█▍| 6.92G/9.98G [00:18<00:07, 402MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  70%|█▍| 6.96G/9.98G [00:18<00:07, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  70%|█▍| 7.00G/9.98G [00:18<00:07, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  71%|█▍| 7.05G/9.98G [00:18<00:07, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  71%|█▍| 7.09G/9.98G [00:18<00:07, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  71%|█▍| 7.13G/9.98G [00:19<00:07, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  72%|█▍| 7.17G/9.98G [00:19<00:07, 399MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  72%|█▍| 7.21G/9.98G [00:19<00:06, 400MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  73%|█▍| 7.26G/9.98G [00:19<00:06, 400MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  73%|█▍| 7.30G/9.98G [00:19<00:06, 400MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  74%|█▍| 7.34G/9.98G [00:19<00:07, 337MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  74%|█▍| 7.38G/9.98G [00:19<00:07, 344MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  74%|█▍| 7.42G/9.98G [00:19<00:07, 361MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  75%|█▍| 7.47G/9.98G [00:19<00:06, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  75%|█▌| 7.51G/9.98G [00:20<00:06, 381MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  76%|█▌| 7.55G/9.98G [00:20<00:06, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  76%|█▌| 7.59G/9.98G [00:20<00:06, 383MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  77%|█▌| 7.63G/9.98G [00:20<00:05, 391MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  77%|█▌| 7.68G/9.98G [00:20<00:05, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  77%|█▌| 7.72G/9.98G [00:20<00:05, 383MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  78%|█▌| 7.76G/9.98G [00:20<00:05, 392MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  78%|█▌| 7.80G/9.98G [00:20<00:05, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  79%|█▌| 7.84G/9.98G [00:20<00:05, 396MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  79%|█▌| 7.89G/9.98G [00:21<00:06, 348MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  79%|█▌| 7.93G/9.98G [00:21<00:05, 359MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  80%|█▌| 7.97G/9.98G [00:21<00:05, 370MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  80%|█▌| 8.01G/9.98G [00:21<00:05, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  81%|█▌| 8.05G/9.98G [00:21<00:05, 376MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  81%|█▌| 8.10G/9.98G [00:21<00:04, 384MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  82%|█▋| 8.14G/9.98G [00:21<00:05, 330MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  82%|█▋| 8.18G/9.98G [00:21<00:05, 307MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  82%|█▋| 8.22G/9.98G [00:22<00:05, 326MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  83%|█▋| 8.26G/9.98G [00:22<00:04, 345MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  83%|█▋| 8.30G/9.98G [00:22<00:04, 358MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  84%|█▋| 8.35G/9.98G [00:22<00:04, 369MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  84%|█▋| 8.39G/9.98G [00:22<00:04, 372MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  85%|█▋| 8.43G/9.98G [00:22<00:04, 381MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  85%|█▋| 8.47G/9.98G [00:22<00:04, 375MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  85%|█▋| 8.51G/9.98G [00:22<00:03, 383MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  86%|█▋| 8.56G/9.98G [00:22<00:03, 387MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  86%|█▋| 8.60G/9.98G [00:23<00:03, 377MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  87%|█▋| 8.64G/9.98G [00:23<00:03, 383MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  87%|█▋| 8.68G/9.98G [00:23<00:03, 389MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  87%|█▋| 8.72G/9.98G [00:23<00:03, 394MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  88%|█▊| 8.77G/9.98G [00:23<00:03, 397MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  88%|█▊| 8.81G/9.98G [00:23<00:02, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  89%|█▊| 8.85G/9.98G [00:23<00:02, 396MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  89%|█▊| 8.89G/9.98G [00:23<00:04, 250MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  90%|█▊| 8.93G/9.98G [00:24<00:03, 279MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  90%|█▊| 8.98G/9.98G [00:24<00:03, 305MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  90%|█▊| 9.02G/9.98G [00:24<00:02, 322MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  91%|█▊| 9.06G/9.98G [00:24<00:02, 338MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  91%|█▊| 9.10G/9.98G [00:24<00:02, 353MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  92%|█▊| 9.14G/9.98G [00:24<00:02, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  92%|█▊| 9.19G/9.98G [00:24<00:02, 379MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  92%|█▊| 9.23G/9.98G [00:24<00:02, 288MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  93%|█▊| 9.27G/9.98G [00:25<00:02, 316MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  93%|█▊| 9.31G/9.98G [00:25<00:01, 335MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  94%|█▉| 9.35G/9.98G [00:25<00:01, 353MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  94%|█▉| 9.40G/9.98G [00:25<00:01, 367MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  95%|█▉| 9.44G/9.98G [00:25<00:01, 370MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  95%|█▉| 9.48G/9.98G [00:25<00:01, 374MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  95%|█▉| 9.52G/9.98G [00:25<00:01, 385MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  96%|█▉| 9.56G/9.98G [00:25<00:01, 392MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  96%|█▉| 9.60G/9.98G [00:25<00:00, 395MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  97%|█▉| 9.65G/9.98G [00:26<00:00, 398MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  97%|█▉| 9.69G/9.98G [00:26<00:00, 402MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  98%|█▉| 9.73G/9.98G [00:26<00:00, 402MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  98%|█▉| 9.77G/9.98G [00:26<00:00, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  98%|█▉| 9.81G/9.98G [00:26<00:00, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  99%|█▉| 9.86G/9.98G [00:26<00:00, 402MB/s]
+
+Downloading (…)l-00001-of-00002.bin:  99%|█▉| 9.90G/9.98G [00:26<00:00, 401MB/s]
+
+Downloading (…)l-00001-of-00002.bin: 100%|█▉| 9.94G/9.98G [00:26<00:00, 402MB/s]
+Downloading (…)l-00001-of-00002.bin: 100%|██| 9.98G/9.98G [00:26<00:00, 372MB/s]
+
+Fetching 7 files:  29%|███████▋                   | 2/7 [00:26<01:19, 15.84s/it]
+Fetching 7 files: 100%|███████████████████████████| 7/7 [00:26<00:00,  3.86s/it]
++ python scripts/convert_hf_checkpoint.py test-project-llama-2-7b.yml
+/home/ec2-user/SageMaker/venv/lib/python3.10/site-packages/pydantic/_migration.py:282: UserWarning: `pydantic.utils:Representation` has been removed. We are importing from `pydantic.v1.utils:Representation` instead.See the migration guide for more details: https://docs.pydantic.dev/latest/migration/
+  warnings.warn(
+Using Pre-Training config:
+ {
+    "base_model_hf_repo_id": "meta-llama/Llama-2-7b-hf",
+    "base_model_hf_repo_revision": null,
+    "pt_inputs_folder_s3_uri": "s3://aipi590/test/",
+    "data_preparation": {
+        "test_split_size": 0.1,
+        "seed": 42,
+        "shuffle_raw_text": false,
+        "text_sample_by": "paragraph"
+    },
+    "pre_training": {
+        "precision": "32-true",
+        "eval_interval": 100,
+        "save_interval": 500,
+        "eval_iters": 100,
+        "log_interval": 10,
+        "batch_size": 128,
+        "micro_batch_size": 1,
+        "max_iters": 2000,
+        "learning_rate": 0.0006,
+        "weight_decay": 0.1,
+        "warmup_steps_multiplier": 2,
+        "beta1": 0.9,
+        "beta2": 0.95,
+        "grad_clip": 1.0,
+        "decay_lr": true,
+        "warmup_iters": 2000,
+        "min_lr": 6e-05
+    }
+}
+Model config {'org': 'meta-llama', 'name': 'Llama-2-7b-hf', 'block_size': 4096, 'vocab_size': 32000, 'padding_multiple': 64, 'padded_vocab_size': 32000, 'n_layer': 32, 'n_head': 32, 'n_embd': 4096, 'rotary_percentage': 1.0, 'parallel_residual': False, 'bias': False, 'n_query_groups': 32, 'shared_attention_norm': False, '_norm_class': 'RMSNorm', 'norm_eps': 1e-05, '_mlp_class': 'LLaMAMLP', 'intermediate_size': 11008, 'condense_ratio': 1}
+Processing /home/ec2-user/SageMaker/artifacts/checkpoints/meta-llama/Llama-2-7b-hf/pytorch_model-00001-of-00002.bin
+Loading 'model.embed_tokens.weight' into RAM
+Loading 'model.layers.0.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.0.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.0.mlp.up_proj.weight' into RAM
+Loading 'model.layers.0.mlp.down_proj.weight' into RAM
+Loading 'model.layers.0.input_layernorm.weight' into RAM
+Loading 'model.layers.0.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.1.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.1.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.1.mlp.up_proj.weight' into RAM
+Loading 'model.layers.1.mlp.down_proj.weight' into RAM
+Loading 'model.layers.1.input_layernorm.weight' into RAM
+Loading 'model.layers.1.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.2.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.2.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.2.mlp.up_proj.weight' into RAM
+Loading 'model.layers.2.mlp.down_proj.weight' into RAM
+Loading 'model.layers.2.input_layernorm.weight' into RAM
+Loading 'model.layers.2.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.3.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.3.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.3.mlp.up_proj.weight' into RAM
+Loading 'model.layers.3.mlp.down_proj.weight' into RAM
+Loading 'model.layers.3.input_layernorm.weight' into RAM
+Loading 'model.layers.3.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.4.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.4.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.4.mlp.up_proj.weight' into RAM
+Loading 'model.layers.4.mlp.down_proj.weight' into RAM
+Loading 'model.layers.4.input_layernorm.weight' into RAM
+Loading 'model.layers.4.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.5.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.5.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.5.mlp.up_proj.weight' into RAM
+Loading 'model.layers.5.mlp.down_proj.weight' into RAM
+Loading 'model.layers.5.input_layernorm.weight' into RAM
+Loading 'model.layers.5.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.6.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.6.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.6.mlp.up_proj.weight' into RAM
+Loading 'model.layers.6.mlp.down_proj.weight' into RAM
+Loading 'model.layers.6.input_layernorm.weight' into RAM
+Loading 'model.layers.6.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.7.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.7.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.7.mlp.up_proj.weight' into RAM
+Loading 'model.layers.7.mlp.down_proj.weight' into RAM
+Loading 'model.layers.7.input_layernorm.weight' into RAM
+Loading 'model.layers.7.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.8.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.8.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.8.mlp.up_proj.weight' into RAM
+Loading 'model.layers.8.mlp.down_proj.weight' into RAM
+Loading 'model.layers.8.input_layernorm.weight' into RAM
+Loading 'model.layers.8.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.9.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.9.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.9.mlp.up_proj.weight' into RAM
+Loading 'model.layers.9.mlp.down_proj.weight' into RAM
+Loading 'model.layers.9.input_layernorm.weight' into RAM
+Loading 'model.layers.9.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.10.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.10.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.10.mlp.up_proj.weight' into RAM
+Loading 'model.layers.10.mlp.down_proj.weight' into RAM
+Loading 'model.layers.10.input_layernorm.weight' into RAM
+Loading 'model.layers.10.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.11.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.11.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.11.mlp.up_proj.weight' into RAM
+Loading 'model.layers.11.mlp.down_proj.weight' into RAM
+Loading 'model.layers.11.input_layernorm.weight' into RAM
+Loading 'model.layers.11.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.12.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.12.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.12.mlp.up_proj.weight' into RAM
+Loading 'model.layers.12.mlp.down_proj.weight' into RAM
+Loading 'model.layers.12.input_layernorm.weight' into RAM
+Loading 'model.layers.12.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.13.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.13.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.13.mlp.up_proj.weight' into RAM
+Loading 'model.layers.13.mlp.down_proj.weight' into RAM
+Loading 'model.layers.13.input_layernorm.weight' into RAM
+Loading 'model.layers.13.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.14.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.14.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.14.mlp.up_proj.weight' into RAM
+Loading 'model.layers.14.mlp.down_proj.weight' into RAM
+Loading 'model.layers.14.input_layernorm.weight' into RAM
+Loading 'model.layers.14.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.15.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.15.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.15.mlp.up_proj.weight' into RAM
+Loading 'model.layers.15.mlp.down_proj.weight' into RAM
+Loading 'model.layers.15.input_layernorm.weight' into RAM
+Loading 'model.layers.15.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.16.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.16.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.16.mlp.up_proj.weight' into RAM
+Loading 'model.layers.16.mlp.down_proj.weight' into RAM
+Loading 'model.layers.16.input_layernorm.weight' into RAM
+Loading 'model.layers.16.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.17.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.17.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.17.mlp.up_proj.weight' into RAM
+Loading 'model.layers.17.mlp.down_proj.weight' into RAM
+Loading 'model.layers.17.input_layernorm.weight' into RAM
+Loading 'model.layers.17.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.18.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.18.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.18.mlp.up_proj.weight' into RAM
+Loading 'model.layers.18.mlp.down_proj.weight' into RAM
+Loading 'model.layers.18.input_layernorm.weight' into RAM
+Loading 'model.layers.18.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.19.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.19.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.19.mlp.up_proj.weight' into RAM
+Loading 'model.layers.19.mlp.down_proj.weight' into RAM
+Loading 'model.layers.19.input_layernorm.weight' into RAM
+Loading 'model.layers.19.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.20.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.20.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.20.mlp.up_proj.weight' into RAM
+Loading 'model.layers.20.mlp.down_proj.weight' into RAM
+Loading 'model.layers.20.input_layernorm.weight' into RAM
+Loading 'model.layers.20.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.21.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.21.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.21.mlp.up_proj.weight' into RAM
+Loading 'model.layers.21.mlp.down_proj.weight' into RAM
+Loading 'model.layers.21.input_layernorm.weight' into RAM
+Loading 'model.layers.21.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.22.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.22.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.22.mlp.up_proj.weight' into RAM
+Loading 'model.layers.22.mlp.down_proj.weight' into RAM
+Loading 'model.layers.22.input_layernorm.weight' into RAM
+Loading 'model.layers.22.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.23.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.23.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.23.mlp.up_proj.weight' into RAM
+Loading 'model.layers.23.mlp.down_proj.weight' into RAM
+Loading 'model.layers.23.input_layernorm.weight' into RAM
+Loading 'model.layers.23.post_attention_layernorm.weight' into RAM
+Loading 'layer 0 q' into RAM
+Loading 'layer 0 k' into RAM
+Loading 'layer 0 v' into RAM
+Loading 'layer 1 q' into RAM
+Loading 'layer 1 k' into RAM
+Loading 'layer 1 v' into RAM
+Loading 'layer 2 q' into RAM
+Loading 'layer 2 k' into RAM
+Loading 'layer 2 v' into RAM
+Loading 'layer 3 q' into RAM
+Loading 'layer 3 k' into RAM
+Loading 'layer 3 v' into RAM
+Loading 'layer 4 q' into RAM
+Loading 'layer 4 k' into RAM
+Loading 'layer 4 v' into RAM
+Loading 'layer 5 q' into RAM
+Loading 'layer 5 k' into RAM
+Loading 'layer 5 v' into RAM
+Loading 'layer 6 q' into RAM
+Loading 'layer 6 k' into RAM
+Loading 'layer 6 v' into RAM
+Loading 'layer 7 q' into RAM
+Loading 'layer 7 k' into RAM
+Loading 'layer 7 v' into RAM
+Loading 'layer 8 q' into RAM
+Loading 'layer 8 k' into RAM
+Loading 'layer 8 v' into RAM
+Loading 'layer 9 q' into RAM
+Loading 'layer 9 k' into RAM
+Loading 'layer 9 v' into RAM
+Loading 'layer 10 q' into RAM
+Loading 'layer 10 k' into RAM
+Loading 'layer 10 v' into RAM
+Loading 'layer 11 q' into RAM
+Loading 'layer 11 k' into RAM
+Loading 'layer 11 v' into RAM
+Loading 'layer 12 q' into RAM
+Loading 'layer 12 k' into RAM
+Loading 'layer 12 v' into RAM
+Loading 'layer 13 q' into RAM
+Loading 'layer 13 k' into RAM
+Loading 'layer 13 v' into RAM
+Loading 'layer 14 q' into RAM
+Loading 'layer 14 k' into RAM
+Loading 'layer 14 v' into RAM
+Loading 'layer 15 q' into RAM
+Loading 'layer 15 k' into RAM
+Loading 'layer 15 v' into RAM
+Loading 'layer 16 q' into RAM
+Loading 'layer 16 k' into RAM
+Loading 'layer 16 v' into RAM
+Loading 'layer 17 q' into RAM
+Loading 'layer 17 k' into RAM
+Loading 'layer 17 v' into RAM
+Loading 'layer 18 q' into RAM
+Loading 'layer 18 k' into RAM
+Loading 'layer 18 v' into RAM
+Loading 'layer 19 q' into RAM
+Loading 'layer 19 k' into RAM
+Loading 'layer 19 v' into RAM
+Loading 'layer 20 q' into RAM
+Loading 'layer 20 k' into RAM
+Loading 'layer 20 v' into RAM
+Loading 'layer 21 q' into RAM
+Loading 'layer 21 k' into RAM
+Loading 'layer 21 v' into RAM
+Loading 'layer 22 q' into RAM
+Loading 'layer 22 k' into RAM
+Loading 'layer 22 v' into RAM
+Loading 'layer 23 q' into RAM
+Loading 'layer 23 k' into RAM
+Loading 'layer 23 v' into RAM
+Processing /home/ec2-user/SageMaker/artifacts/checkpoints/meta-llama/Llama-2-7b-hf/pytorch_model-00002-of-00002.bin
+Loading 'model.layers.24.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.24.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.24.mlp.up_proj.weight' into RAM
+Loading 'model.layers.24.mlp.down_proj.weight' into RAM
+Loading 'model.layers.24.input_layernorm.weight' into RAM
+Loading 'model.layers.24.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.25.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.25.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.25.mlp.up_proj.weight' into RAM
+Loading 'model.layers.25.mlp.down_proj.weight' into RAM
+Loading 'model.layers.25.input_layernorm.weight' into RAM
+Loading 'model.layers.25.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.26.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.26.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.26.mlp.up_proj.weight' into RAM
+Loading 'model.layers.26.mlp.down_proj.weight' into RAM
+Loading 'model.layers.26.input_layernorm.weight' into RAM
+Loading 'model.layers.26.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.27.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.27.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.27.mlp.up_proj.weight' into RAM
+Loading 'model.layers.27.mlp.down_proj.weight' into RAM
+Loading 'model.layers.27.input_layernorm.weight' into RAM
+Loading 'model.layers.27.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.28.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.28.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.28.mlp.up_proj.weight' into RAM
+Loading 'model.layers.28.mlp.down_proj.weight' into RAM
+Loading 'model.layers.28.input_layernorm.weight' into RAM
+Loading 'model.layers.28.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.29.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.29.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.29.mlp.up_proj.weight' into RAM
+Loading 'model.layers.29.mlp.down_proj.weight' into RAM
+Loading 'model.layers.29.input_layernorm.weight' into RAM
+Loading 'model.layers.29.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.30.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.30.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.30.mlp.up_proj.weight' into RAM
+Loading 'model.layers.30.mlp.down_proj.weight' into RAM
+Loading 'model.layers.30.input_layernorm.weight' into RAM
+Loading 'model.layers.30.post_attention_layernorm.weight' into RAM
+Loading 'model.layers.31.self_attn.o_proj.weight' into RAM
+Loading 'model.layers.31.mlp.gate_proj.weight' into RAM
+Loading 'model.layers.31.mlp.up_proj.weight' into RAM
+Loading 'model.layers.31.mlp.down_proj.weight' into RAM
+Loading 'model.layers.31.input_layernorm.weight' into RAM
+Loading 'model.layers.31.post_attention_layernorm.weight' into RAM
+Loading 'model.norm.weight' into RAM
+Loading 'lm_head.weight' into RAM
+Loading 'layer 24 q' into RAM
+Loading 'layer 24 k' into RAM
+Loading 'layer 24 v' into RAM
+Loading 'layer 25 q' into RAM
+Loading 'layer 25 k' into RAM
+Loading 'layer 25 v' into RAM
+Loading 'layer 26 q' into RAM
+Loading 'layer 26 k' into RAM
+Loading 'layer 26 v' into RAM
+Loading 'layer 27 q' into RAM
+Loading 'layer 27 k' into RAM
+Loading 'layer 27 v' into RAM
+Loading 'layer 28 q' into RAM
+Loading 'layer 28 k' into RAM
+Loading 'layer 28 v' into RAM
+Loading 'layer 29 q' into RAM
+Loading 'layer 29 k' into RAM
+Loading 'layer 29 v' into RAM
+Loading 'layer 30 q' into RAM
+Loading 'layer 30 k' into RAM
+Loading 'layer 30 v' into RAM
+Loading 'layer 31 q' into RAM
+Loading 'layer 31 k' into RAM
+Loading 'layer 31 v' into RAM
+Saving converted checkpoint
+Loading tokenizer...
+
+Downloading data files:   0%|                             | 0/1 [00:00<?, ?it/s]
+Downloading data files: 100%|███████████████████| 1/1 [00:00<00:00, 7781.64it/s]
+
+Extracting data files:   0%|                              | 0/1 [00:00<?, ?it/s]
+Extracting data files: 100%|████████████████████| 1/1 [00:00<00:00, 1028.02it/s]
+Setting num_proc from 48 back to 1 for the raw split to disable multiprocessing as it only contains one shard.
+
+Generating raw split: 0 examples [00:00, ? examples/s]
+Generating raw split: 7599 examples [00:00, 65745.40 examples/s]
+Generating raw split: 19467 examples [00:00, 60909.91 examples/s]
+Generating raw split: 28346 examples [00:00, 33393.96 examples/s]
+Generating raw split: 35696 examples [00:00, 33173.88 examples/s]
+Generating raw split: 41500 examples [00:01, 21725.31 examples/s]
+Generating raw split: 48694 examples [00:01, 24634.72 examples/s]
+Generating raw split: 52267 examples [00:01, 22895.29 examples/s]
+Generating raw split: 55010 examples [00:02, 15801.09 examples/s]
+Generating raw split: 55010 examples [00:02, 23570.80 examples/s]
+
+tokenizing the splits (num_proc=48):   0%|     | 0/49509 [00:00<?, ? examples/s]
+tokenizing the splits (num_proc=48):   0%| | 47/49509 [00:00<04:33, 180.52 examp
+tokenizing the splits (num_proc=48):   4%| | 1882/49509 [00:00<00:07, 6606.19 ex
+tokenizing the splits (num_proc=48):  11%| | 5325/49509 [00:00<00:02, 15820.98 e
+tokenizing the splits (num_proc=48):  19%|▏| 9535/49509 [00:00<00:01, 24221.54 e
+tokenizing the splits (num_proc=48):  28%|▎| 13665/49509 [00:00<00:01, 29549.41 
+tokenizing the splits (num_proc=48):  36%|▎| 17792/49509 [00:00<00:00, 33117.77 
+tokenizing the splits (num_proc=48):  44%|▍| 21860/49509 [00:00<00:00, 35315.13 
+tokenizing the splits (num_proc=48):  52%|▌| 25779/49509 [00:00<00:00, 36408.89 
+tokenizing the splits (num_proc=48):  60%|▌| 29778/49509 [00:01<00:00, 37391.31 
+tokenizing the splits (num_proc=48):  68%|▋| 33636/49509 [00:01<00:00, 37378.99 
+tokenizing the splits (num_proc=48):  76%|▊| 37483/49509 [00:01<00:00, 36416.91 
+tokenizing the splits (num_proc=48):  83%|▊| 41187/49509 [00:01<00:00, 31795.20 
+tokenizing the splits (num_proc=48):  90%|▉| 44508/49509 [00:01<00:00, 17279.21 
+tokenizing the splits (num_proc=48):  95%|▉| 47061/49509 [00:02<00:00, 8314.35 e
+tokenizing the splits (num_proc=48):  99%|▉| 48943/49509 [00:04<00:00, 3617.71 e
+tokenizing the splits (num_proc=48): 100%|█| 49509/49509 [00:07<00:00, 6938.43 e
+
+tokenizing the splits (num_proc=48):   0%|      | 0/5501 [00:00<?, ? examples/s]
+tokenizing the splits (num_proc=48):   0%| | 25/5501 [00:00<00:22, 245.96 exampl
+tokenizing the splits (num_proc=48):  27%|▎| 1491/5501 [00:00<00:00, 8517.14 exa
+tokenizing the splits (num_proc=48):  44%|▍| 2407/5501 [00:00<00:00, 8739.81 exa
+tokenizing the splits (num_proc=48):  60%|▌| 3282/5501 [00:00<00:00, 8076.98 exa
+tokenizing the splits (num_proc=48):  74%|▋| 4097/5501 [00:00<00:00, 7923.46 exa
+tokenizing the splits (num_proc=48):  89%|▉| 4893/5501 [00:00<00:00, 7612.60 exa
+tokenizing the splits (num_proc=48): 100%|█| 5501/5501 [00:00<00:00, 5732.24 exa
+
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/train.bi
+
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
+writing /home/ec2-user/SageMaker/artifacts/data/test-project-llama-2-7b/val.bin:
++ python scripts/pre_train.py test-project-llama-2-7b.yml
+Using 8 cuda devices
+Using PT Config:
+ {
+    "base_model_hf_repo_id": "meta-llama/Llama-2-7b-hf",
+    "base_model_hf_repo_revision": null,
+    "pt_inputs_folder_s3_uri": "s3://aipi590/test/",
+    "data_preparation": {
+        "test_split_size": 0.1,
+        "seed": 42,
+        "shuffle_raw_text": false,
+        "text_sample_by": "paragraph"
+    },
+    "pre_training": {
+        "precision": "32-true",
+        "eval_interval": 100,
+        "save_interval": 500,
+        "eval_iters": 100,
+        "log_interval": 10,
+        "batch_size": 128,
+        "micro_batch_size": 1,
+        "max_iters": 2000,
+        "learning_rate": 0.0006,
+        "weight_decay": 0.1,
+        "warmup_steps_multiplier": 2,
+        "beta1": 0.9,
+        "beta2": 0.95,
+        "grad_clip": 1.0,
+        "decay_lr": true,
+        "warmup_iters": 2000,
+        "min_lr": 6e-05
+    }
+}
+Initializing distributed: GLOBAL_RANK: 5, MEMBER: 6/8
+Initializing distributed: GLOBAL_RANK: 2, MEMBER: 3/8
+Initializing distributed: GLOBAL_RANK: 6, MEMBER: 7/8
+Initializing distributed: GLOBAL_RANK: 1, MEMBER: 2/8
+Initializing distributed: GLOBAL_RANK: 4, MEMBER: 5/8
+Initializing distributed: GLOBAL_RANK: 3, MEMBER: 4/8
+Initializing distributed: GLOBAL_RANK: 7, MEMBER: 8/8
+----------------------------------------------------------------------------------------------------
+distributed_backend=nccl
+All distributed processes registered. Starting with 8 processes
+----------------------------------------------------------------------------------------------------
+
+[rank: 0] Global seed set to 1337
+Loading model '/home/ec2-user/SageMaker/artifacts/checkpoints/meta-llama/Llama-2-7b-hf/lit_model.pth' with {'org': 'meta-llama', 'name': 'Llama-2-7b-hf', 'block_size': 4096, 'vocab_size': 32000, 'padding_multiple': 64, 'padded_vocab_size': 32000, 'n_layer': 32, 'n_head': 32, 'n_embd': 4096, 'rotary_percentage': 1.0, 'parallel_residual': False, 'bias': False, 'n_query_groups': 32, 'shared_attention_norm': False, '_norm_class': 'RMSNorm', 'norm_eps': 1e-05, '_mlp_class': 'LLaMAMLP', 'intermediate_size': 11008, 'condense_ratio': 1}
+[rank: 3] Global seed set to 1337
+[rank: 6] Global seed set to 1337
+[rank: 4] Global seed set to 1337
+[rank: 1] Global seed set to 1337
+[rank: 5] Global seed set to 1337
+[rank: 7] Global seed set to 1337
+[rank: 2] Global seed set to 1337
+Time to instantiate model: 59.74 seconds.
+Total parameters 6,738,415,616
+Validating ...
+Estimated TFLOPs: 1676.67
+Measured TFLOPs: 1510.11
+iter 0 step 0: loss 4.9358, iter time: 3264.63ms
+iter 10 step 0: loss 0.0162, iter time: 3069.88ms
+iter 20 step 1: loss 4.6203, iter time: 3173.06ms
+iter 30 step 1: loss 4.0480, iter time: 3086.48ms
+iter 40 step 2: loss 4.3313, iter time: 3122.65ms
+iter 50 step 3: loss 5.6040, iter time: 3097.98ms
+iter 60 step 3: loss 4.2499, iter time: 3091.91ms
+iter 70 step 4: loss 5.2802, iter time: 3078.00ms
+iter 80 step 5: loss 1.2889, iter time: 2891.59ms
+iter 90 step 5: loss 1.6467, iter time: 3119.15ms
+iter 100 step 6: loss 1.5811, iter time: 3115.11ms
+iter 110 step 6: loss 3.6506, iter time: 3110.06ms
+iter 120 step 7: loss 6.1640, iter time: 3101.13ms
+iter 130 step 8: loss 1.5815, iter time: 3124.27ms
+iter 140 step 8: loss 0.8941, iter time: 3092.00ms
+iter 150 step 9: loss 3.6363, iter time: 3123.70ms
+iter 160 step 10: loss 1.5461, iter time: 2993.75ms
+iter 170 step 10: loss 4.1253, iter time: 3126.12ms
+iter 180 step 11: loss 5.0844, iter time: 3125.74ms
+iter 190 step 11: loss 4.6993, iter time: 3128.27ms
+iter 200 step 12: loss 4.4164, iter time: 3127.55ms
+iter 210 step 13: loss 6.0132, iter time: 3126.00ms
+iter 220 step 13: loss 3.3479, iter time: 3130.36ms
+iter 230 step 14: loss 5.7228, iter time: 3127.03ms
+iter 240 step 15: loss 0.7391, iter time: 2924.82ms
+iter 250 step 15: loss 5.7983, iter time: 3122.62ms
+iter 260 step 16: loss 1.7072, iter time: 3127.82ms
+iter 270 step 16: loss 4.0079, iter time: 3124.74ms
+iter 280 step 17: loss 4.0745, iter time: 3125.09ms
+iter 290 step 18: loss 1.1642, iter time: 3127.62ms
+iter 300 step 18: loss 4.1251, iter time: 3184.19ms
+iter 310 step 19: loss 3.3978, iter time: 3128.23ms
+iter 320 step 20: loss 1.5225, iter time: 2927.26ms
+iter 330 step 20: loss 1.0310, iter time: 3182.72ms
+iter 340 step 21: loss 4.7241, iter time: 3126.91ms
+iter 350 step 21: loss 5.4746, iter time: 3128.60ms
+iter 360 step 22: loss 5.5720, iter time: 3128.91ms
+iter 370 step 23: loss 7.1055, iter time: 3125.82ms
+iter 380 step 23: loss 6.1500, iter time: 3128.50ms
+iter 390 step 24: loss 6.0600, iter time: 3127.75ms
+iter 400 step 25: loss 5.9309, iter time: 2925.11ms
+iter 410 step 25: loss 4.8659, iter time: 3125.82ms
+iter 420 step 26: loss 1.6302, iter time: 3126.23ms
+iter 430 step 26: loss 5.3172, iter time: 3128.40ms
+iter 440 step 27: loss 11.8479, iter time: 3123.90ms
+iter 450 step 28: loss 9.6616, iter time: 3122.64ms
+iter 460 step 28: loss 14.0418, iter time: 3125.15ms
+iter 470 step 29: loss 12.1786, iter time: 3167.34ms
+iter 480 step 30: loss 5.4873, iter time: 2920.31ms
+iter 490 step 30: loss 1.3865, iter time: 3123.33ms
+iter 500 step 31: loss 1.7457, iter time: 3125.84ms
+iter 510 step 31: loss 8.2285, iter time: 3123.47ms
+iter 520 step 32: loss 6.9527, iter time: 3122.29ms
+iter 530 step 33: loss 4.7502, iter time: 3119.95ms
+iter 540 step 33: loss 1.8335, iter time: 3123.03ms
+iter 550 step 34: loss 4.8473, iter time: 3121.47ms
+iter 560 step 35: loss 0.1752, iter time: 2922.26ms
+iter 570 step 35: loss 6.0070, iter time: 3121.24ms
+iter 580 step 36: loss 1.7785, iter time: 3124.14ms
+iter 590 step 36: loss 1.7765, iter time: 3120.89ms
+iter 600 step 37: loss 5.9852, iter time: 3121.47ms
+iter 610 step 38: loss 4.8005, iter time: 3121.68ms
+iter 620 step 38: loss 4.9441, iter time: 3120.29ms
+iter 630 step 39: loss 10.1413, iter time: 3121.00ms
+iter 640 step 40: loss 2.0473, iter time: 2975.38ms
+iter 650 step 40: loss 9.8127, iter time: 3118.22ms
+iter 660 step 41: loss 9.1948, iter time: 3120.48ms
+iter 670 step 41: loss 3.3871, iter time: 3167.56ms
+iter 680 step 42: loss 0.5087, iter time: 3113.88ms
+iter 690 step 43: loss 5.6990, iter time: 3114.43ms
+iter 700 step 43: loss 6.1684, iter time: 3113.44ms
+iter 710 step 44: loss 4.2828, iter time: 3114.10ms
+iter 720 step 45: loss 8.4646, iter time: 2963.35ms
+iter 730 step 45: loss 6.0701, iter time: 3111.38ms
+iter 740 step 46: loss 4.6724, iter time: 3114.91ms
+iter 750 step 46: loss 6.4262, iter time: 3112.62ms
+iter 760 step 47: loss 8.8238, iter time: 3114.05ms
+iter 770 step 48: loss 7.3144, iter time: 3110.69ms
+iter 780 step 48: loss 2.4794, iter time: 3160.27ms
+iter 790 step 49: loss 7.6039, iter time: 3109.52ms
+iter 800 step 50: loss 7.6967, iter time: 2961.17ms
+iter 810 step 50: loss 9.4534, iter time: 3109.79ms
+iter 820 step 51: loss 2.3267, iter time: 3110.92ms
+iter 830 step 51: loss 9.3109, iter time: 3109.01ms
+iter 840 step 52: loss 6.8295, iter time: 3111.53ms
+iter 850 step 53: loss 2.0072, iter time: 3110.05ms
+iter 860 step 53: loss 6.9497, iter time: 3110.37ms
+iter 870 step 54: loss 1.9113, iter time: 3107.99ms
+iter 880 step 55: loss 1.6312, iter time: 2911.70ms
+iter 890 step 55: loss 6.1841, iter time: 3106.95ms
+iter 900 step 56: loss 6.3345, iter time: 3109.89ms
+iter 910 step 56: loss 1.2767, iter time: 3109.29ms
+iter 920 step 57: loss 1.7025, iter time: 3111.42ms
+iter 930 step 58: loss 1.6388, iter time: 3161.25ms
+iter 940 step 58: loss 1.1369, iter time: 3109.18ms
+iter 950 step 59: loss 9.1619, iter time: 3164.84ms
+iter 960 step 60: loss 1.4653, iter time: 2907.67ms
+iter 970 step 60: loss 6.1010, iter time: 3105.81ms
+iter 980 step 61: loss 7.2516, iter time: 3106.52ms
+iter 990 step 61: loss 7.5456, iter time: 3165.95ms
+iter 1000 step 62: loss 1.8806, iter time: 3110.94ms
+iter 1010 step 63: loss 1.7518, iter time: 3109.03ms
+iter 1020 step 63: loss 1.1480, iter time: 3110.11ms
+iter 1030 step 64: loss 1.4493, iter time: 3108.69ms
+iter 1040 step 65: loss 1.6818, iter time: 2907.21ms
+iter 1050 step 65: loss 1.0092, iter time: 3106.45ms
+iter 1060 step 66: loss 5.7923, iter time: 3156.92ms
+iter 1070 step 66: loss 5.9367, iter time: 3160.06ms
+iter 1080 step 67: loss 6.0712, iter time: 3103.84ms
+iter 1090 step 68: loss 13.3124, iter time: 3150.87ms
+iter 1100 step 68: loss 16.2661, iter time: 3103.31ms
+iter 1110 step 69: loss 7.1806, iter time: 3101.36ms
+iter 1120 step 70: loss 10.7001, iter time: 2901.04ms
+iter 1130 step 70: loss 6.9653, iter time: 3107.96ms
+iter 1140 step 71: loss 9.2159, iter time: 3107.79ms
+iter 1150 step 71: loss 10.7498, iter time: 3195.23ms
+iter 1160 step 72: loss 6.7803, iter time: 3107.78ms
+iter 1170 step 73: loss 11.0756, iter time: 3107.38ms
+iter 1180 step 73: loss 15.3488, iter time: 3105.81ms
+iter 1190 step 74: loss 14.9629, iter time: 3161.37ms
+iter 1200 step 75: loss 8.6974, iter time: 2902.46ms
+iter 1210 step 75: loss 11.9727, iter time: 3107.15ms
+iter 1220 step 76: loss 8.1210, iter time: 3102.80ms
+iter 1230 step 76: loss 7.8851, iter time: 3169.36ms
+iter 1240 step 77: loss 9.6018, iter time: 3105.67ms
+iter 1250 step 78: loss 10.2845, iter time: 3102.40ms
+iter 1260 step 78: loss 7.8565, iter time: 3176.21ms
+iter 1270 step 79: loss 9.6714, iter time: 3101.25ms
+iter 1280 step 80: loss 10.4883, iter time: 2902.06ms
+iter 1290 step 80: loss 11.1551, iter time: 3104.12ms
+iter 1300 step 81: loss 9.6604, iter time: 3104.42ms
+iter 1310 step 81: loss 6.9786, iter time: 3101.12ms
+iter 1320 step 82: loss 9.0325, iter time: 3154.94ms
+iter 1330 step 83: loss 9.1610, iter time: 3103.57ms
+iter 1340 step 83: loss 6.6232, iter time: 3101.42ms
+iter 1350 step 84: loss 9.0093, iter time: 3100.16ms
+iter 1360 step 85: loss 8.7587, iter time: 2893.95ms
+iter 1370 step 85: loss 8.6252, iter time: 3100.47ms
+iter 1380 step 86: loss 8.3316, iter time: 3103.60ms
+iter 1390 step 86: loss 5.2670, iter time: 3101.22ms
+iter 1400 step 87: loss 8.8010, iter time: 3144.26ms
+iter 1410 step 88: loss 6.1141, iter time: 3094.71ms
+iter 1420 step 88: loss 8.3767, iter time: 3101.19ms
+iter 1430 step 89: loss 5.0532, iter time: 3097.10ms
+iter 1440 step 90: loss 8.7435, iter time: 2901.82ms
+iter 1450 step 90: loss 8.1743, iter time: 3152.30ms
+iter 1460 step 91: loss 6.8556, iter time: 3097.85ms
+iter 1470 step 91: loss 7.8163, iter time: 3098.50ms
+iter 1480 step 92: loss 9.0643, iter time: 3099.14ms
+iter 1490 step 93: loss 8.8777, iter time: 3099.36ms
+iter 1500 step 93: loss 8.7182, iter time: 3095.82ms
+iter 1510 step 94: loss 6.3967, iter time: 3096.81ms
+iter 1520 step 95: loss 5.7183, iter time: 2894.81ms
+iter 1530 step 95: loss 7.2304, iter time: 3099.59ms
+iter 1540 step 96: loss 8.4333, iter time: 3099.53ms
+iter 1550 step 96: loss 8.2672, iter time: 3098.16ms
+iter 1560 step 97: loss 5.4523, iter time: 3097.39ms
+iter 1570 step 98: loss 6.7268, iter time: 3149.27ms
+iter 1580 step 98: loss 8.3703, iter time: 3146.46ms
+iter 1590 step 99: loss 8.9809, iter time: 3094.63ms
+Validating ...
+step 1599: val loss 7.2183, val time: 75691.30ms
+iter 1600 step 100: loss 8.2791, iter time: 2866.79ms
+iter 1610 step 100: loss 8.2465, iter time: 3092.38ms
+iter 1620 step 101: loss 8.2619, iter time: 3092.45ms
+iter 1630 step 101: loss 8.2160, iter time: 3141.13ms
+iter 1640 step 102: loss 7.6094, iter time: 3090.14ms
+iter 1650 step 103: loss 8.1813, iter time: 3146.62ms
+iter 1660 step 103: loss 6.3409, iter time: 3143.82ms
+iter 1670 step 104: loss 8.1180, iter time: 3092.99ms
+iter 1680 step 105: loss 7.3061, iter time: 2946.02ms
+iter 1690 step 105: loss 6.1533, iter time: 3091.99ms
+iter 1700 step 106: loss 8.1587, iter time: 3090.72ms
+iter 1710 step 106: loss 8.2950, iter time: 3089.10ms
+iter 1720 step 107: loss 7.2410, iter time: 3089.50ms
+iter 1730 step 108: loss 7.3143, iter time: 3087.59ms
+iter 1740 step 108: loss 6.2432, iter time: 3088.94ms
+iter 1750 step 109: loss 8.1634, iter time: 3091.95ms
+iter 1760 step 110: loss 6.3893, iter time: 2988.39ms
+iter 1770 step 110: loss 8.1153, iter time: 3089.49ms
+iter 1780 step 111: loss 7.9301, iter time: 3089.10ms
+iter 1790 step 111: loss 6.9400, iter time: 3143.98ms
+iter 1800 step 112: loss 6.1431, iter time: 3090.57ms
+iter 1810 step 113: loss 7.8098, iter time: 3153.28ms
+iter 1820 step 113: loss 8.9628, iter time: 3086.91ms
+iter 1830 step 114: loss 7.7237, iter time: 3089.40ms
+iter 1840 step 115: loss 8.1387, iter time: 2889.60ms
+iter 1850 step 115: loss 6.8542, iter time: 3084.72ms
+iter 1860 step 116: loss 9.7326, iter time: 3085.73ms
+iter 1870 step 116: loss 7.7835, iter time: 3084.19ms
+iter 1880 step 117: loss 9.4230, iter time: 3088.36ms
+iter 1890 step 118: loss 6.3233, iter time: 3089.04ms
+iter 1900 step 118: loss 9.0326, iter time: 3135.20ms
+iter 1910 step 119: loss 25.7836, iter time: 3087.76ms
+iter 1920 step 120: loss 13.8493, iter time: 2939.41ms
+iter 1930 step 120: loss 13.7867, iter time: 3087.20ms
+iter 1940 step 121: loss 8.6074, iter time: 3151.74ms
+iter 1950 step 121: loss 8.9953, iter time: 3085.12ms
+iter 1960 step 122: loss 9.6239, iter time: 3082.93ms
+iter 1970 step 123: loss 12.2616, iter time: 3084.49ms
+iter 1980 step 123: loss 9.5687, iter time: 3081.75ms
+iter 1990 step 124: loss 12.4101, iter time: 3084.31ms
+Saving final checkpoint to '/home/ec2-user/SageMaker/artifacts/out/test-project-llama-2-7b/final-model.pth'
+Uploading '/home/ec2-user/SageMaker/artifacts/out/test-project-llama-2-7b/version_0/metrics.csv' to the 's3://sagemaker-us-east-1-251465955583/ml-llm-platform/pre-training/results/test-project-llama-2-7b/2023-12-02_18-47-02/metrics/iter-001999.csv'
+Training time: 6579.65s
+Memory used: 45.15 GB

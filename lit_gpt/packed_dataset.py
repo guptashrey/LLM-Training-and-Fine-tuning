@@ -3,12 +3,13 @@
 
 
 import os
-import random
 import struct
+import random
 
 import numpy as np
 import torch
 from torch.utils.data import IterableDataset, get_worker_info
+
 
 dtypes = {1: np.uint8, 2: np.int8, 3: np.int16, 4: np.int32, 5: np.int64, 6: np.float32, 7: np.float64, 8: np.uint16}
 
@@ -219,8 +220,6 @@ class CombinedDataset(IterableDataset):
         n_datasets = len(datasets)
         if weights is None:
             self._weights = [1 / n_datasets] * n_datasets
-        else:
-            self._weights = [w / sum(weights) for w in weights]
 
     def __iter__(self):
         return CombinedDatasetIterator(self._datasets, self._seed, self._weights)

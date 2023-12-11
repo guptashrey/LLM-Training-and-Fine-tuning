@@ -127,6 +127,10 @@ The Duke ChatBot pipeline is a question answering system that allows users to as
 &nbsp;
 ## Fine-tuning Llama-2-7b-hf
 
+### Full fine-tuning
+
+### Parameter Efficient (PEFT) fine-tuning
+
 The Duke ChatBot pipeline is a question answering system that allows users to ask questions about the Duke University and get answers to their questions. The pipeline consists of the following components:
 - **Document Store:** Elasticsearch document store to store the text scraped from multiple websites and webpages
 - **Retriever:** Dense Passage Retrieval (DPR) model (`facebook/dpr-ctx_encoder-single-nq-base`) to retrieve the relevant documents from the document store
