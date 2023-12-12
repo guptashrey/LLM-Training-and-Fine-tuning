@@ -13,7 +13,7 @@ from lightning.fabric.strategies import FSDPStrategy
 wd = Path(__file__).parent.parent.resolve()
 sys.path.append(str(wd))
 
-from scripts.prepare_alpaca import generate_prompt
+from scripts.prepare_finetune import generate_prompt
 from generate.base import generate
 from lit_gpt import GPT, Tokenizer, Config
 from lit_gpt.model import Block

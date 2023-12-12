@@ -17,7 +17,7 @@ from lit_gpt.model import GPT, Config, Block
 from lit_gpt.tokenizer import Tokenizer
 from lit_gpt.utils import lazy_load, check_valid_checkpoint_dir, step_csv_logger, chunked_cross_entropy
 from lit_gpt.speed_monitor import SpeedMonitorFabric as SpeedMonitor, measure_flops, estimate_flops
-from scripts.prepare_alpaca import generate_prompt
+from scripts.prepare_finetune import generate_prompt
 
 eval_interval = 600
 save_interval = 1000
