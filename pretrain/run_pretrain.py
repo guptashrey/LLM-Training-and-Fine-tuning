@@ -19,8 +19,8 @@ from lit_gpt.model import GPT, Block
 from lit_gpt.speed_monitor import SpeedMonitorFabric as SpeedMonitor, measure_flops, estimate_flops
 from lit_gpt.utils import step_csv_logger, chunked_cross_entropy
 
-model_name = "pythia-70m"
-name = "openwebtext"
+model_name = "Llama-2-7b-hf"
+name = "duke"
 out_dir = Path("out") / name
 data_dir = Path("data") / name
 save_interval = 10

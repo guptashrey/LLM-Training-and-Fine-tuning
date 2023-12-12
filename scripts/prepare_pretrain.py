@@ -16,8 +16,8 @@ from lit_gpt import Tokenizer
 
 
 def prepare(
-    destination_path: Path = Path("data/openwebtext"),
-    checkpoint_dir: Path = Path("checkpoints/stabilityai/stablelm-base-alpha-3b"),
+    destination_path: Path = Path("data/pretrain"),
+    checkpoint_dir: Path = Path("s3/checkpoint/Llama-2-7b-hf"),
     seed: int = 42,
     test_size: Union[float, int, None] = 0.0005,
 ) -> None:

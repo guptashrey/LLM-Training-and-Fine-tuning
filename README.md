@@ -101,7 +101,7 @@ I have a short passage given below. Can you please create a list of question ans
 ```
 - Write the generated question-answer pairs to a .json file
 
-The python script to process and index the text data can be found in the `scripts` folder. Assuming you are in the same conda environment as the previous step, the python script can be run as follows:
+The python script to process the text data can be found in the `scripts` folder. Assuming you are in the same conda environment as the previous step, the python script can be run as follows:
 
 **1. Change directory to the scripts folder:** 
 ```
@@ -117,30 +117,89 @@ python process_finetune_data.py "../data/web_scraping"
 ```
 
 &nbsp;
-## Pre-training Llama-2-7b-hf
+## Pre-training Llama-2-7b
 
-The Duke ChatBot pipeline is a question answering system that allows users to ask questions about the Duke University and get answers to their questions. The pipeline consists of the following components:
-- **Document Store:** Elasticsearch document store to store the text scraped from multiple websites and webpages
-- **Retriever:** BM25 retriever to retrieve the relevant documents from the document store
-- **Answer Generator:** A T5 based model to rephrase the formation of the top document returned by the BM25 Retriever based on the question asked
+Llama 2 is a large language model, originally trained on billions of webpages and documents. As part of this project, the model is pre-trained on Duke University data while keeping the original Llama 2 architecture and hyperparameters intact. The hyperparameters used are as follows:
+- **Model:** Llama-2-7b
+- **Batch Size:** 125
+- **Learning Rate:** 6e-4
+- **Weight Decay:** 1e-1
+- **Beta1:** 0.9
+- **Beta2:** 0.95
+- **Gradient Clip:** 1.0
+- **Warmup Iters:** 2000
+- **Max Iters:** 600000 (num_epochs * (epoch_size // micro_batch_size) // devices)
+
+The data is first prepared by tokenizing the text data and converting it into a torch dataset. The model is then trained on the data using the [Lightning](https://www.pytorchlightning.ai/) framework.
+
+The model is trained on a 8 GPUs for 5 epochs. The data preparation and training scripts can be found in the `scripts` and `pretrain` folders respectively. Assuming you are in the same conda environment as the previous step, the python script can be run as follows:
+
+**1. Prepare data for pre-training:** 
+```
+python scripts/prepare_pretrain.py
+```
+**2. Run the pre-training script:** 
+```
+python pretrain/run_pretrain.py
+```
 
 &nbsp;
-## Fine-tuning Llama-2-7b-hf
+## Fine-tuning Llama-2-7b
 
-### Full fine-tuning
+The base Llama-2-7b model is fine-tuned on the Duke University data to perform Question Answering (QA) tasks. Fine-tuning is performed using 2 approaches:
 
-### Parameter Efficient (PEFT) fine-tuning
+### **Approach 1: Fine-tuning all the model weights**
 
-The Duke ChatBot pipeline is a question answering system that allows users to ask questions about the Duke University and get answers to their questions. The pipeline consists of the following components:
-- **Document Store:** Elasticsearch document store to store the text scraped from multiple websites and webpages
-- **Retriever:** Dense Passage Retrieval (DPR) model (`facebook/dpr-ctx_encoder-single-nq-base`) to retrieve the relevant documents from the document store
-- **Reader:** Reader model (`deepset/roberta-base-squad2`) to extract the answer from the retrieved documents
-- **Answer Generator:** A T5 or ChatGPT module to rephrase the formation of the answer returned by the Reader based on the question asked
+In this approach, all the model weights are fine-tuned on QA data from Duke University. The hyperparameters used are as follows:
+- **Model:** Llama-2-7b
+- **Batch Size:** 1
+- **Learning Rate:** 3e-3
+- **Weight Decay:** 0.02
+- **Epoch Size:** 1500
+- **Num Epochs:** 5
+- **Warmup Steps:** 2 * (epoch_size // micro_batch_size) // devices // gradient_accumulation_iters
+
+The data is first prepared by tokenizing the text data and converting it into a torch dataset. The model is then fine-tuned on the data using the [Lightning](https://www.pytorchlightning.ai/) framework.
+
+The model is fine-tuned on a 1 GPUs for 5 epochs. The data preparation and fine-tuning scripts can be found in the `scripts` and `finetune` folders respectively. Assuming you are in the same conda environment as the previous step, the python script can be run as follows:
+
+**1. Prepare data for fine-tuning:** 
+```
+python scripts/prepare_finetune.py
+```
+**2. Run the fine-tuning script:** 
+```
+python finetune/full.py
+```
+
+### **Approach 2: Fine-tuning limited set of weights using Adapter Parameter Efficient Fine-Tuning (PEFT)**
+
+In this approach, only a limited set of weights are fine-tuned on QA data from Duke University. The hyperparameters used are as follows:
+- **Model:** Llama-2-7b
+- **Batch Size:** 1
+- **Learning Rate:** 3e-3
+- **Weight Decay:** 0.02
+- **Epoch Size:** 1500
+- **Num Epochs:** 5
+- **Warmup Steps:** 2 * (epoch_size // micro_batch_size) // devices // gradient_accumulation_iters
+
+The data is first prepared by tokenizing the text data and converting it into a torch dataset. The model is then fine-tuned on the data using the [Lightning](https://www.pytorchlightning.ai/) framework.
+
+The model is fine-tuned on a 1 GPUs for 5 epochs. The data preparation and fine-tuning scripts can be found in the `scripts` and `finetune` folders respectively. Assuming you are in the same conda environment as the previous step, the python script can be run as follows:
+
+**1. Prepare data for fine-tuning:** 
+```
+python scripts/prepare_finetune.py
+```
+**2. Run the fine-tuning script:** 
+```
+python finetune/adapter_v2.py
+```
 
 &nbsp;
 ## Performance Evaluation and Metrics
 
-Due to the unsupervised nature of the data, there is no ground truth to evaluate the performance of the Duke ChatBot pipeline. However, the performance of the pipeline can be evaluated by asking questions to the pipeline and checking if the answer returned by the pipeline is relevant to the question asked.
+Due to the unsupervised nature of the data, there is no ground truth to evaluate the performance of the pre-trained and fine-tuned LLMs. However, the performance of the pipeline can be evaluated by asking questions to the pipeline and checking if the answer returned by the pipeline is relevant to the question asked.
 
 ### **Manual Qualitative Evaluation**
 A list of 50 questions were asked to the Duke ChatBot pipeline and the answers returned by the pipeline were evaluated manually. Each answer was evaluated on a scale of 0 to 3 as follows:
@@ -153,8 +212,8 @@ Based on the evaluation of different pipelines, the following table shows the pe
 
 | Pipeline | Incorrect Answer | No Answer | Partially Relevant Answer | Fully Relevant Answer |
 | --- | :---: | :---: | :---: | :---: |
-| Pre-training Llama-2-7b-hf | 76% | 0% | 24% | 0% |
-| Fine-tuning Llama-2-7b-hf| 32% | 0% | 50% | 18% |
+| Pre-training Llama-2-7b-hf | 0% | 100% | 0% | 0% |
+| Fine-tuning Llama-2-7b-hf| 22% | 0% | 40% | 38% |
 | RAG with GPT-4 | **0%** | **32%** | **4%** | **64%** |
 
 The detailed question-answer evaluation can be found in the `performance_testing` folder and the analysis can be found in the `test_answers_analysis.xlsx` file.
@@ -196,7 +255,7 @@ The project structure is as follows:
 
 ## References
 
-- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt)
+- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/cf5542a166d71c0026b35428113092eb41029a8f)
 - [Farm-Haystack](https://haystack.deepset.ai)
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
 - [ChatGPT API](https://platform.openai.com/docs/guides/chat)
