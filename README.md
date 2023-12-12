@@ -219,12 +219,21 @@ Based on the evaluation, the following table shows the performance of the differ
 The detailed question-answer evaluation can be found in the `performance_testing` folder and the analysis can be found in the `test_answers_analysis.xlsx` file.
 
 &nbsp;
-## Risks and Limitations
+## Learnings from the Research
 
-The Duke ChatBot has the following risks and limitations:
-- The ChatBot is only able to answer questions about Pratt School of Engineering and its departments, programs, and courses. The pipeline is not able to answer questions about other schools and departments at Duke University.
-- The ChatBot is only able to answer questions based on the information scraped from the website as on April 5, 2023. The pipeline is not able to answer questions about the latest updates on the website.
-- The ChatBot can provide wrong answers to time sensitive questions if the data on the website was not updated as on April 5, 2023.
+- **Pre-training LLMs:** With the pre-training process, the assumption was that the model will gain parametric memory of the domain data and will be able to answer questions related to the domain. However, the pre-trained model was not even able to generate english words properly. On further investigation, there seem to be 3 main reasons for this:
+    - **Data:** The data scraped from the websites was not enough and contains a lot of HTML tags and non-unicode characters. The original data used for pre-training the Llama-2-7b model is billions of webpages and documents which translates to trillions of tokens where as through web scraping, we were able to get only 1.5 million tokens.
+    - **Hyperparameters:** The hyperparameters used for pre-training the Llama-2-7b model are the same as the ones used for pre-training the original Llama-2-7b model. However, the original model is trained on billions of webpages and documents and hence, the hyperparameters are tuned for that amount of data and need to be tuned for the amount of data used for pre-training the model.
+
+- **Fine-tuning LLMs:** With the fine-tuning process, the assumption was that the model will learn the task of generating answers given a question as the input. However, the fine-tuned model was also able to gain parametric memory of the domain data and was able to answer questions related to the domain. On further investigation, there seem to be 2 main reasons for this:
+    - **Data:** The data created for fine-tuning, i.e., the question-answer pairs generated using the OpenAI API is very good and is able to capture the domain knowledge.
+    - **Original model weights:** As the LLaMA2 model in its vanilla state has great performance, fine-tuning just a small amount of weights (5%) had two fold advantage - (1) it was able to use the original vocabulary, grammar and sentence formation knowledge of the english language (2) it was able to gain parametric memory of the domain data and was able to answer questions related to the domain.
+
+&nbsp;
+## Future Work
+
+- **Pre-training LLMs:** The pre-training process can be improved by using more data and tuning the hyperparameters for the amount of data used for pre-training the model. The pre-training process can also be improved by using a better tokenizer and using a better data cleaning process.
+- **RLHF:** For this research, Reinforcement Learning from Human Feedback was not implemented and can prove to be really powerful for the model to be able to learn human preferences and generate answers accordingly.
 
 &nbsp;
 ## Project Structure
