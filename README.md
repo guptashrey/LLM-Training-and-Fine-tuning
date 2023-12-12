@@ -202,13 +202,13 @@ python finetune/adapter_v2.py
 Due to the unsupervised nature of the data, there is no ground truth to evaluate the performance of the pre-trained and fine-tuned LLMs. However, the performance of the pipeline can be evaluated by asking questions to the pipeline and checking if the answer returned by the pipeline is relevant to the question asked.
 
 ### **Manual Qualitative Evaluation**
-A list of 50 questions were asked to the Duke ChatBot pipeline and the answers returned by the pipeline were evaluated manually. Each answer was evaluated on a scale of 0 to 3 as follows:
+A list of 50 questions were asked to the pre-trained/fine-tuned LLMs and the answers returned by the pipeline were evaluated manually. Each answer was evaluated on a scale of 0 to 3 as follows:
 - 0: The answer is not relevant to the question asked
 - 1: No answer is returned by the pipeline
 - 2: The answer is partially relevant to the question asked
 - 3: The answer is relevant to the question asked
 
-Based on the evaluation of different pipelines, the following table shows the performance of the Duke ChatBot pipeline:
+Based on the evaluation, the following table shows the performance of the different models:
 
 | Pipeline | Incorrect Answer | No Answer | Partially Relevant Answer | Fully Relevant Answer |
 | --- | :---: | :---: | :---: | :---: |
@@ -231,21 +231,25 @@ The Duke ChatBot has the following risks and limitations:
 The project structure is as follows:
 ```
 ├── data                                        <- directory for project data (text data scraped from websites)
+├── finetune                                    <- directory for fine-tuning scripts
+    ├── adapter_v2.py                           <- script to fine-tune LLMs using Adapter PEFT
+    ├── full.py                                 <- script to fine-tune LLMs using all the model weights
+├── generate                                    <- directory for inference scripts
+├── lit_gpt                                     <- directory for LIT-GPT code
+├── logs                                        <- directory to store training logs
 ├── notebooks                                   <- directory to store any exploration notebooks used
 ├── performance_testing                         <- directory to store performance testing data
-    ├── Duke ChatBot_April 23, 2023_18.48.xlsx  <- user survey data
     ├── test_answers_analysis.xlsx              <- analysis of the answers returned by the pipeline
-    ├── test_answers.csv                        <- answers returned by the pipeline
-    ├── test_questions.csv                      <- questions asked to the pipeline
 ├── scripts                                     <- directory for pipeline scripts or utility scripts
-    ├── chatbot.py                              <- chatbot pipeline server script
-    ├── chatgpt_qa.py                           <- chatgpt answer generator script
+    ├── convert_hf_checkpoint.py                <- script to convert a HuggingFace checkpoint to a LIT-GPT checkpoint
+    ├── download.py                             <- script to download the pre-trained LLMs from HuggingFace
     ├── get_subpages.py                         <- script to get subpage urls of a website
-    ├── helper_functions.py                     <- helper functions used in the pipeline
-    ├── index_in_es.py                          <- script to index data in ElasticSearch
-    ├── scrape.py                               <- script to scrape data from a website
-    ├── t5_qa.py                                <- t5 answer generator script
-    ├── testing.py                              <- script to generate answers for manual qualitative evaluation
+    ├── prepare_finetune.py                     <- script to tokenize the processed data and create torch datasets
+    ├── prepare_pretrain.py                     <- script to tokenize the processed data and create torch datasets
+    ├── process_finetune_data.py                <- script to process the scraped data for fine-tuning
+    ├── process_pretrain_data.py                <- script to process the scraped data for pre-training
+    ├── scrape.py                               <- script to scrape data from the list of subpages
+├── .gitattributes                              <- git attributes file
 ├── .gitignore                                  <- git ignore file
 ├── config.json                                 <- config file to store api keys
 ├── LICENSE                                     <- license file
